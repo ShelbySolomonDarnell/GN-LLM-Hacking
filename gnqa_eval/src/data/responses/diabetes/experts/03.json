@@ -1,0 +1,399 @@
+{
+    "created_at": "2024-05-31T23:07:32.253629Z",
+    "data": {
+        "amplify": false,
+        "answer": "Genomics can be used to understand the nutritional factors of diabetes by studying nutrient-gene interactions and how an individual's genetic makeup can affect nutrient metabolism and response to nutrient intake. This approach can help develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, aiding in the prevention and delay of diabetes and its complications. Additionally, genomics can identify gene variants that interact with specific nutrients, providing insights into how diet and genetics interact to influence diabetes risk.",
+        "context": {
+            "069a62e0-e56a-46ab-9f93-c13a76a79989": [
+                {
+                    "document_id": "069a62e0-e56a-46ab-9f93-c13a76a79989",
+                    "text": "\n\nResearchers are expanding our understanding of genetic risk factors for diabetes through ongoing discoveries.Genetic variants associated with increased susceptibility to type 2 diabetes, a disease that affects more than 200 million people worldwide, have been identified (NHGRI & NIDDK, 2007).Such discoveries accelerate efforts to understand genetic contributions to chronic illness, as well as facilitate greater investigation of how these genetic factors interact with each other and with lifestyle factors.Ultimately, once the association of these variants with diabetes are confirmed, genetic tests may be utilized to identify (even before escalating blood sugars) those individuals, like Vanessa, who may be able to delay or prevent diabetes with healthy lifestyle decisions and behaviors.Information to assist nurses in this challenge is available in a toolkit \"Your Game Plan for Preventing Type 2 Diabetes\" (Your Game Plan, n.d.).Would you have known whether or not genetic testing was available for Vanessa?If you had said no to this question but could have explained the progress currently being made in understanding diabetes, Vanessa would have had access to the best care possible today."
+                }
+            ],
+            "1907b52f-515b-447c-b7b3-0e37bf1ce8b7": [
+                {
+                    "document_id": "1907b52f-515b-447c-b7b3-0e37bf1ce8b7",
+                    "text": "\nGenomics has contributed to a better understanding of many disorders including diabetes.The following article looks at the ethical, social and legal consequences of genomic medicine and predictive genetic testing for diabetes.This is currently a field in its nascent stage and developing rapidly all over the world.The various ethical facets of genomic medicine in diabetes like its effects on patient physician relationship, risk communication, genetic counseling and familial factors are explored and elucidated from a clinical, ethical, social and legal perspective."
+                },
+                {
+                    "document_id": "1907b52f-515b-447c-b7b3-0e37bf1ce8b7",
+                    "text": "\n\nGenomics has contributed to a better understanding of many disorders including diabetes.The following article looks at the ethical, social and legal consequences of genomic medicine and predictive genetic testing for diabetes.This is currently a field in its nascent stage and developing rapidly all over the world.The various ethical facets of genomic medicine in diabetes like its effects on patient physician relationship, risk communication, genetic counseling and familial factors are explored and elucidated from a clinical, ethical, social and legal perspective."
+                }
+            ],
+            "3bde9884-e31d-4719-b42f-02dca25d6c08": [
+                {
+                    "document_id": "3bde9884-e31d-4719-b42f-02dca25d6c08",
+                    "text": "\n\nGenetic factors are known to play a role in T2D and an understanding of the genetic basis of T2D could lead to the development of new treatments (Frayling, 2007a,b;Frayling & Mccarthy, 2007;Frayling, 2008).With the increased prevalence of diabetes worldwide, the need for intensive research is of high priority.Sequencing of the human genome and development of a set of powerful tools has made it possible to find the genetic contributions to common complex diseases (Donnelly, 2011).Genome-wide association studies (GWAS) have been used to search for genetic risk factors for complex disease (Hindorff, Junkins et al., 2009;Hindorff, Sethupathy et al., 2009).Used in combination with the scaffold data of the human genome courtesy of the HUGO Project (2003) and the International HapMap Project (Thorisson et al., 2005), it is now possible to analyse the whole genome to identify genetic variants that contribute to common disease in a fast and efficient manner."
+                }
+            ],
+            "41ba5319-e77d-4838-8f50-e59fe86b94f8": [
+                {
+                    "document_id": "41ba5319-e77d-4838-8f50-e59fe86b94f8",
+                    "text": "\n\nIn conclusion, genome-wide studies have added valuable scientific data to our repertoire of diabetes knowledge.However, there have been few genomic nuggets that enable a more robust prediction of diabetes than is achieved by using common environmental risk factors and none that clarify the peculiar ethnic proclivities of type 2 diabetes.The latter realization ought to temper enthusiasm for the indiscriminate use of genetic testing for diabetes."
+                }
+            ],
+            "4d3330eb-acd0-4f72-aadf-b056d3c8b389": [
+                {
+                    "document_id": "4d3330eb-acd0-4f72-aadf-b056d3c8b389",
+                    "text": "Genomics of T2D\n\nDiet, lifestyle, environment, and even genetic variation influence an individual's response to disease therapy.Like GWAS which identify genetic variants conferring risk for a disease, studies have been carried out for identifying genetic variants responsible for patient differences in drug response.Pharmacogenomics in diabetes focuses on the study of gene polymorphisms which influence an individual's response to antidiabetic drugs.Such genetic variants influence the pharmacodynamics and/or pharmacokinetics of the drug, thus affecting its efficacy or toxicity in an individual.The difference in response to treatments and therapies across individuals on account of these factors strengthens the case for personalized medicine in diabetes."
+                }
+            ],
+            "559a3a15-da15-4132-a8b5-5401bfe770ef": [
+                {
+                    "document_id": "559a3a15-da15-4132-a8b5-5401bfe770ef",
+                    "text": "\n\nIt is possible that there are genes that because of their known metabolic involvement are likely to interact with specific nutrients.For example, SLC30A8 which encodes a zinc transporter localized in secretory granules, interacted with dietary zinc to effect fasting insulin levels [132].However, the majority of GWAS variants have not shown interaction with environmental factors for effect on diabetes or related traits.Therefore, it is likely that prospective future studies will utilize improved assessment methods to increase power and avoid false interpretation [133,134].This could be enhanced by prioritizing variants that are most likely to have effects [135] or selective sampling according to extremes of the environmental factor could reduce the requirement for sample size [136].These and other strategies such as meta-analysis, nested case control and genotype-based studies have been recently reviewed [123,133] and the difficulties in measuring environmental exposures have been emphasized, including the application of analyses based on logistic regression [124] and problems with instruments such as physical activity questionnaires [137].Validated food frequency questionnaires are popular instruments for evaluation diabetes risk and are often used in conjunction with food analysis software [138,139].Similar methodology has been adapted to assess two predominant food consumption patterns by Prudent and Western [140], and demonstrated synergistic interaction with genotype and a less healthy Western dietary pattern in determining male risk for T2D by showing that the gene-diet interaction was higher in men with a high genetic risk score determined by a gene counting method [141].Also the effects of diet may predominate at specific developmental periods [142] suggesting that age and associated physiological changes are important as well as differences between genders.It has also been observed that homogeneity of an environmental factor such as physical activity in an Asian Indian study, may reduce ability to detect interaction, but could be solved by subgrouping by the level of activity [143], but increased recruitment would be needed to maintain power."
+                }
+            ],
+            "63752d7d-dfdd-48a2-9f39-e1672255a519": [
+                {
+                    "document_id": "63752d7d-dfdd-48a2-9f39-e1672255a519",
+                    "text": "\n\nTo date, studies of diabetes have played a major role in shaping thinking about the genetic analysis of complex diseases.Based on trends in genomic information and technology, combined with the growing public health importance of diabetes, diabetes will likely continue to be an important arena in which methods will be pioneered and lessons learned.It is with great enthusiasm that we look forward to this effort, and with avid curiosity we await to see whether the lessons of today will be supported by the data of tomorrow."
+                }
+            ],
+            "64b63031-1024-43f9-8b27-0ada92829a7a": [
+                {
+                    "document_id": "64b63031-1024-43f9-8b27-0ada92829a7a",
+                    "text": "\n\nIn recent years tremendous changes had occurred in the field of molecular genetics and personalized medicine especially on exploring novel genetic factors associated with complex diseases like T2D with the advancement of new and improved genetic techniques including the next generation sequencing (NGS).In this review, we summarize recent developments from studies on the genetic factors associated with the development of T2D in the Arab world published between 2015 and 2018, which were based on the latest available genetic technologies.Few such studies have been conducted in this region of the world.Therefore, our study will provide valuable contributions to advanced genetic research and a personalized approach to diabetes management."
+                }
+            ],
+            "80500e0d-0e39-4e46-bb60-8721f4f512c0": [
+                {
+                    "document_id": "80500e0d-0e39-4e46-bb60-8721f4f512c0",
+                    "text": "Discussion\n\nOur study provides insight into the relative importance of clinical risk factors and those that are related to a panel of DNA variants associated with type 2 diabetes.Obesity was a strong risk factor for future diabetes, a risk that almost doubled in subjects with a family history of diabetes.However, the addition of data from genotyping of the known DNA variants to clinical risk factors (including a family history of diabetes) had a minimal, albeit statistically significant, effect on the prediction of future type 2 diabetes.Notably, the ability of genetic risk factors to predict future type 2 diabetes improved with an increasing duration of follow-up, suggesting that assessment of genetic risk factors is clinically more meaningful the earlier in life they are measured."
+                }
+            ],
+            "8cd81e24-a326-4443-bc37-0e6e421e70b2": [
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\n\nDiabetes mellitus (DM) is considered a global pandemic, and the incidence of DM continues to grow worldwide.Nutrients and dietary patterns are central issues in the prevention, development and treatment of this disease.The pathogenesis of DM is not completely understood, but nutrient-gene interactions at different levels, genetic predisposition and dietary factors appear to be involved.Nutritional genomics studies generally focus on dietary patterns according to genetic variations, the role of gene-nutrient interactions, genediet-phenotype interactions and epigenetic modifications caused by nutrients; these studies will facilitate an understanding of the early molecular events that occur in DM and will contribute to the identification of better biomarkers and diagnostics tools.In particular, this approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications.This review discusses the current state of nutrigenetics, nutrigenomics and epigenomics research on DM.Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression,"
+                },
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\nDiabetes mellitus (DM) is considered a global pandemic, and the incidence of DM continues to grow worldwide.Nutrients and dietary patterns are central issues in the prevention, development and treatment of this disease.The pathogenesis of DM is not completely understood, but nutrient-gene interactions at different levels, genetic predisposition and dietary factors appear to be involved.Nutritional genomics studies generally focus on dietary patterns according to genetic variations, the role of gene-nutrient interactions, genediet-phenotype interactions and epigenetic modifications caused by nutrients; these studies will facilitate an understanding of the early molecular events that occur in DM and will contribute to the identification of better biomarkers and diagnostics tools.In particular, this approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications.This review discusses the current state of nutrigenetics, nutrigenomics and epigenomics research on DM.Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression,"
+                },
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\n\nThe aim of the present review was to provide insights regarding the role of nutrient-gene interactions in DM pathogenesis, prevention and treatment.In addition, we explored how an individual's genetic makeup can affect nutrient metabolism and the response to nutrient intake, potentially leading to DM."
+                },
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\n\nThus, studies performed during the last decade have provided strong evidence to support a diet-genome interaction as an important factor leading to the development of T2DM."
+                },
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\n\nIt is important to promote greater research in this field because these findings will provide a framework for the development of genotype-dependent food health promotion strategies and the design of dietetic approaches for the prevention and management of DM.This knowledge has begun to provide evidence where specific targeted nutritional advice, such as following a Mediterranean Diet, helps to decrease cardiovascular risk factors and stroke incidence in people with polymorphisms strongly associated with T2DM [8]."
+                }
+            ],
+            "a83987ea-607c-4952-a1cc-69c6f193ba2a": [
+                {
+                    "document_id": "a83987ea-607c-4952-a1cc-69c6f193ba2a",
+                    "text": "\nA new generation of genetic studies of diabetes is underway.Following from initial genome-wide association (GWA) studies, more recent approaches have used genotyping arrays of more densely spaced markers, imputation of ungenotyped variants based on improved reference haplotype panels, and sequencing of protein-coding exomes and whole genomes.Experimental and statistical advances make possible the identification of novel variants and loci contributing to trait variation and disease risk.Integration of sequence variants with functional analysis is critical to interpreting the consequences of identified variants.We briefly review these methods and technologies and describe how they will continue to expand our understanding of the genetic risk factors and underlying biology of diabetes."
+                },
+                {
+                    "document_id": "a83987ea-607c-4952-a1cc-69c6f193ba2a",
+                    "text": "\n\nA new generation of genetic studies of diabetes is underway.Following from initial genome-wide association (GWA) studies, more recent approaches have used genotyping arrays of more densely spaced markers, imputation of ungenotyped variants based on improved reference haplotype panels, and sequencing of protein-coding exomes and whole genomes.Experimental and statistical advances make possible the identification of novel variants and loci contributing to trait variation and disease risk.Integration of sequence variants with functional analysis is critical to interpreting the consequences of identified variants.We briefly review these methods and technologies and describe how they will continue to expand our understanding of the genetic risk factors and underlying biology of diabetes."
+                }
+            ],
+            "b3fa4d11-72b9-4e6f-9c28-39efdaded492": [
+                {
+                    "document_id": "b3fa4d11-72b9-4e6f-9c28-39efdaded492",
+                    "text": "\n\nIn a nutshell, genomic and post-genomic approaches identified a large number of biomarkers to ponder over and explore further but we are yet to identify universally accepted biomarker which can be used for the successful management and prevention of type 2 diabetes.In order to understand environment related modifications of genetic susceptibility, it may be prudent to conduct studies with integrated genomic-metabolomic approach.It is also imperative to gather existing molecular genetic data and curate it into uniform format and analyze the same for understanding the present status of research.A few attempts were, however, made to develop type 2 diabetes informative databases.While the databases T2DGADB and T2D-DB are only a collection of publications related to type 2 diabetes genetic association studies, proteinprotein interactions and expression studies, T2D@ZJU is a comprehensive collection of pathway databases, protein-protein interaction databases, and literature (Yang et al. 2013).Further, T2D@ZJU is a user-friendly interface database that provides graphical output of information organized in networks.These attempts may provide basis for studying type 2 diabetes utilizing systems biology, which is a better approach for understanding complex genetic diseases."
+                }
+            ],
+            "e9b48e14-aa0c-4331-a17d-82a7f424233c": [
+                {
+                    "document_id": "e9b48e14-aa0c-4331-a17d-82a7f424233c",
+                    "text": "\n\nThe public health genomics approach to type 2 diabetes.So, while exciting gene discoveries are being made, what can we do?The answer may lie in the relatively new field of public health genomics, \"a multidisciplinary field concerned with the effective and responsible translation of genome-based knowledge and technologies to improve population health\" (12).Researchers, policymakers, and practitioners in public health genomics use populationbased data on genetic variation and gene-environment interactions to develop, implement, and evaluate evidencebased tools for improving health and preventing disease.They also apply systematic evidence-based knowledge synthesis and appraisal of the clinical validity and utility of genomic applications in health practice.Validated genomic information is then integrated into disease control and prevention programs (13)."
+                }
+            ],
+            "f9b65334-56b7-43e9-9fda-b778c18c1c67": [
+                {
+                    "document_id": "f9b65334-56b7-43e9-9fda-b778c18c1c67",
+                    "text": "Genomics for Type 2 Diabetes\n\nMany research studies have been carried out on genetic-based illness prediction.Incorporating machine learning approaches with genetic-based illness prediction could result in an accurate outcome.This has intensified the role of Artificial Intelligence (AI) in healthcare.It has been estimated that approximately $36 billion will be invested in AI by 2025 [48].Deep genomics through machine learning approaches has outperformed accuracy in predicting and diagnosing illnesses such as cancer with minimal inclusion of radiologists.It is desired to have sufficient biological knowledge to understand how genetics can help us predict various conditions and analyze each chromosome to identify the disease-causing gene.Pre-existing research studies have focused on genomics and gene interaction patterns of various persistent illnesses such as Alzheimer's, multiple cancers, and Parkinson's."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "main",
+                "text": "\n\nDiabetes mellitus (DM) is considered a global pandemic, and the incidence of DM continues to grow worldwide.Nutrients and dietary patterns are central issues in the prevention, development and treatment of this disease.The pathogenesis of DM is not completely understood, but nutrient-gene interactions at different levels, genetic predisposition and dietary factors appear to be involved.Nutritional genomics studies generally focus on dietary patterns according to genetic variations, the role of gene-nutrient interactions, genediet-phenotype interactions and epigenetic modifications caused by nutrients; these studies will facilitate an understanding of the early molecular events that occur in DM and will contribute to the identification of better biomarkers and diagnostics tools.In particular, this approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications.This review discusses the current state of nutrigenetics, nutrigenomics and epigenomics research on DM.Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression,"
+            },
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "abstract",
+                "text": "\nDiabetes mellitus (DM) is considered a global pandemic, and the incidence of DM continues to grow worldwide.Nutrients and dietary patterns are central issues in the prevention, development and treatment of this disease.The pathogenesis of DM is not completely understood, but nutrient-gene interactions at different levels, genetic predisposition and dietary factors appear to be involved.Nutritional genomics studies generally focus on dietary patterns according to genetic variations, the role of gene-nutrient interactions, genediet-phenotype interactions and epigenetic modifications caused by nutrients; these studies will facilitate an understanding of the early molecular events that occur in DM and will contribute to the identification of better biomarkers and diagnostics tools.In particular, this approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications.This review discusses the current state of nutrigenetics, nutrigenomics and epigenomics research on DM.Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression,"
+            },
+            {
+                "document_id": "41ba5319-e77d-4838-8f50-e59fe86b94f8",
+                "section_type": "main",
+                "text": "\n\nIn conclusion, genome-wide studies have added valuable scientific data to our repertoire of diabetes knowledge.However, there have been few genomic nuggets that enable a more robust prediction of diabetes than is achieved by using common environmental risk factors and none that clarify the peculiar ethnic proclivities of type 2 diabetes.The latter realization ought to temper enthusiasm for the indiscriminate use of genetic testing for diabetes."
+            },
+            {
+                "document_id": "a83987ea-607c-4952-a1cc-69c6f193ba2a",
+                "section_type": "abstract",
+                "text": "\nA new generation of genetic studies of diabetes is underway.Following from initial genome-wide association (GWA) studies, more recent approaches have used genotyping arrays of more densely spaced markers, imputation of ungenotyped variants based on improved reference haplotype panels, and sequencing of protein-coding exomes and whole genomes.Experimental and statistical advances make possible the identification of novel variants and loci contributing to trait variation and disease risk.Integration of sequence variants with functional analysis is critical to interpreting the consequences of identified variants.We briefly review these methods and technologies and describe how they will continue to expand our understanding of the genetic risk factors and underlying biology of diabetes."
+            },
+            {
+                "document_id": "559a3a15-da15-4132-a8b5-5401bfe770ef",
+                "section_type": "main",
+                "text": "\n\nIt is possible that there are genes that because of their known metabolic involvement are likely to interact with specific nutrients.For example, SLC30A8 which encodes a zinc transporter localized in secretory granules, interacted with dietary zinc to effect fasting insulin levels [132].However, the majority of GWAS variants have not shown interaction with environmental factors for effect on diabetes or related traits.Therefore, it is likely that prospective future studies will utilize improved assessment methods to increase power and avoid false interpretation [133,134].This could be enhanced by prioritizing variants that are most likely to have effects [135] or selective sampling according to extremes of the environmental factor could reduce the requirement for sample size [136].These and other strategies such as meta-analysis, nested case control and genotype-based studies have been recently reviewed [123,133] and the difficulties in measuring environmental exposures have been emphasized, including the application of analyses based on logistic regression [124] and problems with instruments such as physical activity questionnaires [137].Validated food frequency questionnaires are popular instruments for evaluation diabetes risk and are often used in conjunction with food analysis software [138,139].Similar methodology has been adapted to assess two predominant food consumption patterns by Prudent and Western [140], and demonstrated synergistic interaction with genotype and a less healthy Western dietary pattern in determining male risk for T2D by showing that the gene-diet interaction was higher in men with a high genetic risk score determined by a gene counting method [141].Also the effects of diet may predominate at specific developmental periods [142] suggesting that age and associated physiological changes are important as well as differences between genders.It has also been observed that homogeneity of an environmental factor such as physical activity in an Asian Indian study, may reduce ability to detect interaction, but could be solved by subgrouping by the level of activity [143], but increased recruitment would be needed to maintain power."
+            },
+            {
+                "document_id": "4d3330eb-acd0-4f72-aadf-b056d3c8b389",
+                "section_type": "main",
+                "text": "Genomics of T2D\n\nDiet, lifestyle, environment, and even genetic variation influence an individual's response to disease therapy.Like GWAS which identify genetic variants conferring risk for a disease, studies have been carried out for identifying genetic variants responsible for patient differences in drug response.Pharmacogenomics in diabetes focuses on the study of gene polymorphisms which influence an individual's response to antidiabetic drugs.Such genetic variants influence the pharmacodynamics and/or pharmacokinetics of the drug, thus affecting its efficacy or toxicity in an individual.The difference in response to treatments and therapies across individuals on account of these factors strengthens the case for personalized medicine in diabetes."
+            },
+            {
+                "document_id": "e9b48e14-aa0c-4331-a17d-82a7f424233c",
+                "section_type": "main",
+                "text": "\n\nThe public health genomics approach to type 2 diabetes.So, while exciting gene discoveries are being made, what can we do?The answer may lie in the relatively new field of public health genomics, \"a multidisciplinary field concerned with the effective and responsible translation of genome-based knowledge and technologies to improve population health\" (12).Researchers, policymakers, and practitioners in public health genomics use populationbased data on genetic variation and gene-environment interactions to develop, implement, and evaluate evidencebased tools for improving health and preventing disease.They also apply systematic evidence-based knowledge synthesis and appraisal of the clinical validity and utility of genomic applications in health practice.Validated genomic information is then integrated into disease control and prevention programs (13)."
+            },
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "main",
+                "text": "\n\nIt is important to promote greater research in this field because these findings will provide a framework for the development of genotype-dependent food health promotion strategies and the design of dietetic approaches for the prevention and management of DM.This knowledge has begun to provide evidence where specific targeted nutritional advice, such as following a Mediterranean Diet, helps to decrease cardiovascular risk factors and stroke incidence in people with polymorphisms strongly associated with T2DM [8]."
+            },
+            {
+                "document_id": "1907b52f-515b-447c-b7b3-0e37bf1ce8b7",
+                "section_type": "abstract",
+                "text": "\nGenomics has contributed to a better understanding of many disorders including diabetes.The following article looks at the ethical, social and legal consequences of genomic medicine and predictive genetic testing for diabetes.This is currently a field in its nascent stage and developing rapidly all over the world.The various ethical facets of genomic medicine in diabetes like its effects on patient physician relationship, risk communication, genetic counseling and familial factors are explored and elucidated from a clinical, ethical, social and legal perspective."
+            },
+            {
+                "document_id": "63752d7d-dfdd-48a2-9f39-e1672255a519",
+                "section_type": "main",
+                "text": "\n\nTo date, studies of diabetes have played a major role in shaping thinking about the genetic analysis of complex diseases.Based on trends in genomic information and technology, combined with the growing public health importance of diabetes, diabetes will likely continue to be an important arena in which methods will be pioneered and lessons learned.It is with great enthusiasm that we look forward to this effort, and with avid curiosity we await to see whether the lessons of today will be supported by the data of tomorrow."
+            },
+            {
+                "document_id": "f9b65334-56b7-43e9-9fda-b778c18c1c67",
+                "section_type": "main",
+                "text": "Genomics for Type 2 Diabetes\n\nMany research studies have been carried out on genetic-based illness prediction.Incorporating machine learning approaches with genetic-based illness prediction could result in an accurate outcome.This has intensified the role of Artificial Intelligence (AI) in healthcare.It has been estimated that approximately $36 billion will be invested in AI by 2025 [48].Deep genomics through machine learning approaches has outperformed accuracy in predicting and diagnosing illnesses such as cancer with minimal inclusion of radiologists.It is desired to have sufficient biological knowledge to understand how genetics can help us predict various conditions and analyze each chromosome to identify the disease-causing gene.Pre-existing research studies have focused on genomics and gene interaction patterns of various persistent illnesses such as Alzheimer's, multiple cancers, and Parkinson's."
+            },
+            {
+                "document_id": "1907b52f-515b-447c-b7b3-0e37bf1ce8b7",
+                "section_type": "main",
+                "text": "\n\nGenomics has contributed to a better understanding of many disorders including diabetes.The following article looks at the ethical, social and legal consequences of genomic medicine and predictive genetic testing for diabetes.This is currently a field in its nascent stage and developing rapidly all over the world.The various ethical facets of genomic medicine in diabetes like its effects on patient physician relationship, risk communication, genetic counseling and familial factors are explored and elucidated from a clinical, ethical, social and legal perspective."
+            },
+            {
+                "document_id": "64b63031-1024-43f9-8b27-0ada92829a7a",
+                "section_type": "main",
+                "text": "\n\nIn recent years tremendous changes had occurred in the field of molecular genetics and personalized medicine especially on exploring novel genetic factors associated with complex diseases like T2D with the advancement of new and improved genetic techniques including the next generation sequencing (NGS).In this review, we summarize recent developments from studies on the genetic factors associated with the development of T2D in the Arab world published between 2015 and 2018, which were based on the latest available genetic technologies.Few such studies have been conducted in this region of the world.Therefore, our study will provide valuable contributions to advanced genetic research and a personalized approach to diabetes management."
+            },
+            {
+                "document_id": "a83987ea-607c-4952-a1cc-69c6f193ba2a",
+                "section_type": "main",
+                "text": "\n\nA new generation of genetic studies of diabetes is underway.Following from initial genome-wide association (GWA) studies, more recent approaches have used genotyping arrays of more densely spaced markers, imputation of ungenotyped variants based on improved reference haplotype panels, and sequencing of protein-coding exomes and whole genomes.Experimental and statistical advances make possible the identification of novel variants and loci contributing to trait variation and disease risk.Integration of sequence variants with functional analysis is critical to interpreting the consequences of identified variants.We briefly review these methods and technologies and describe how they will continue to expand our understanding of the genetic risk factors and underlying biology of diabetes."
+            },
+            {
+                "document_id": "b3fa4d11-72b9-4e6f-9c28-39efdaded492",
+                "section_type": "main",
+                "text": "\n\nIn a nutshell, genomic and post-genomic approaches identified a large number of biomarkers to ponder over and explore further but we are yet to identify universally accepted biomarker which can be used for the successful management and prevention of type 2 diabetes.In order to understand environment related modifications of genetic susceptibility, it may be prudent to conduct studies with integrated genomic-metabolomic approach.It is also imperative to gather existing molecular genetic data and curate it into uniform format and analyze the same for understanding the present status of research.A few attempts were, however, made to develop type 2 diabetes informative databases.While the databases T2DGADB and T2D-DB are only a collection of publications related to type 2 diabetes genetic association studies, proteinprotein interactions and expression studies, T2D@ZJU is a comprehensive collection of pathway databases, protein-protein interaction databases, and literature (Yang et al. 2013).Further, T2D@ZJU is a user-friendly interface database that provides graphical output of information organized in networks.These attempts may provide basis for studying type 2 diabetes utilizing systems biology, which is a better approach for understanding complex genetic diseases."
+            },
+            {
+                "document_id": "069a62e0-e56a-46ab-9f93-c13a76a79989",
+                "section_type": "main",
+                "text": "\n\nResearchers are expanding our understanding of genetic risk factors for diabetes through ongoing discoveries.Genetic variants associated with increased susceptibility to type 2 diabetes, a disease that affects more than 200 million people worldwide, have been identified (NHGRI & NIDDK, 2007).Such discoveries accelerate efforts to understand genetic contributions to chronic illness, as well as facilitate greater investigation of how these genetic factors interact with each other and with lifestyle factors.Ultimately, once the association of these variants with diabetes are confirmed, genetic tests may be utilized to identify (even before escalating blood sugars) those individuals, like Vanessa, who may be able to delay or prevent diabetes with healthy lifestyle decisions and behaviors.Information to assist nurses in this challenge is available in a toolkit \"Your Game Plan for Preventing Type 2 Diabetes\" (Your Game Plan, n.d.).Would you have known whether or not genetic testing was available for Vanessa?If you had said no to this question but could have explained the progress currently being made in understanding diabetes, Vanessa would have had access to the best care possible today."
+            },
+            {
+                "document_id": "80500e0d-0e39-4e46-bb60-8721f4f512c0",
+                "section_type": "main",
+                "text": "Discussion\n\nOur study provides insight into the relative importance of clinical risk factors and those that are related to a panel of DNA variants associated with type 2 diabetes.Obesity was a strong risk factor for future diabetes, a risk that almost doubled in subjects with a family history of diabetes.However, the addition of data from genotyping of the known DNA variants to clinical risk factors (including a family history of diabetes) had a minimal, albeit statistically significant, effect on the prediction of future type 2 diabetes.Notably, the ability of genetic risk factors to predict future type 2 diabetes improved with an increasing duration of follow-up, suggesting that assessment of genetic risk factors is clinically more meaningful the earlier in life they are measured."
+            },
+            {
+                "document_id": "3bde9884-e31d-4719-b42f-02dca25d6c08",
+                "section_type": "main",
+                "text": "\n\nGenetic factors are known to play a role in T2D and an understanding of the genetic basis of T2D could lead to the development of new treatments (Frayling, 2007a,b;Frayling & Mccarthy, 2007;Frayling, 2008).With the increased prevalence of diabetes worldwide, the need for intensive research is of high priority.Sequencing of the human genome and development of a set of powerful tools has made it possible to find the genetic contributions to common complex diseases (Donnelly, 2011).Genome-wide association studies (GWAS) have been used to search for genetic risk factors for complex disease (Hindorff, Junkins et al., 2009;Hindorff, Sethupathy et al., 2009).Used in combination with the scaffold data of the human genome courtesy of the HUGO Project (2003) and the International HapMap Project (Thorisson et al., 2005), it is now possible to analyse the whole genome to identify genetic variants that contribute to common disease in a fast and efficient manner."
+            },
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "main",
+                "text": "\n\nThe aim of the present review was to provide insights regarding the role of nutrient-gene interactions in DM pathogenesis, prevention and treatment.In addition, we explored how an individual's genetic makeup can affect nutrient metabolism and the response to nutrient intake, potentially leading to DM."
+            },
+            {
+                "document_id": "0da4d3d4-10d5-4a58-9e50-c1fa0b414427",
+                "section_type": "main",
+                "text": "\n\nProgress toward wider use of genetic testing in the prediction of type 2 diabetes and its complications will require three developments.The first involves identification of a growing number of risk variants that, collectively, deliver greater predictive and discriminative performance than the subset thus far known.The second involves understanding how genetic information can be combined with other conventional risk factors (and possibly with non-DNA-based biomarkers, as these emerge) to provide a more accurate assessment of individual risk.It should be kept in mind that susceptibility genotype information will not be orthogonal to those traditional factors, since several of them (such as ethnicity, family history, and BMI) capture overlapping genetic information.The third development will be evidence that imparting such information results in clinically meaningful differences in individual behavior or provides a more rational basis for therapeutic or preventative interventions."
+            },
+            {
+                "document_id": "b3fa4d11-72b9-4e6f-9c28-39efdaded492",
+                "section_type": "main",
+                "text": "\n\nIn this review, we briefly outlined salient features of pathophysiology and results of the genetic association studies hitherto conducted on type 2 diabetes.Primarily focusing on the current status of genomic research, we briefly discussed the limited progress made during the post-genomic era and tried to identify the limitations of the post-genomic research strategies.We suggested reanalysis of the existing genomic data through advanced statistical and computational methods and recommended integrated genomics-metabolomics approaches for future studies to facilitate understanding of the gene-environment interactions in the manifestation of the disease.We also propose a framework for research that may be apt for determining the effects of urbanization and changing lifestyles in the manifestation of complex genetic disorders like type 2 diabetes in the Indian populations and offset the confounding effects of both genetic and environmental factors in the natural way."
+            },
+            {
+                "document_id": "6e570a0b-a876-4263-b32f-cee85088756d",
+                "section_type": "main",
+                "text": "\n\nThe availability of detailed information on gene × environment interactions may enhance our understanding of the molecular basis of T2D, elucidate the mechanisms through which lifestyle exposures influence diabetes risk, and possibly help to refine strategies for diabetes prevention or treatment.The ultimate hope is genetics might one day be used in primary care to inform the targeting of interventions that comprise exercise regimes and other lifestyle therapies for individuals most likely to respond well to them."
+            },
+            {
+                "document_id": "8f74252a-5ce1-4109-86b6-5b0228b23bba",
+                "section_type": "main",
+                "text": "\n\nThe clinical benefits of genomics: lessons from monogenic obesity and diabetes Thanks to their high penetrance, the alleles responsible for rare, monogenic forms of non-autoimmune diabetes and obesity were relatively easily identified through linkage analysis (reviewed in Owen and Hattersley 2001;O'Rahilly and Farooqi 2006).These discoveries have led to molecular classifications of disease with demonstrable prognostic and therapeutic relevance.For example, individuals with maturity onset diabetes of the young (MODY) due to mutations in HNF1A respond particularly well to treatment with sulfonylureas, whilst those with mutations in glucokinase (GCK) can often come off medication entirely given their relatively benign prognosis (Schnyder et al. 2005;Pearson et al. 2003)."
+            },
+            {
+                "document_id": "b3fa4d11-72b9-4e6f-9c28-39efdaded492",
+                "section_type": "abstract",
+                "text": "\nIn this review, we briefly outlined salient features of pathophysiology and results of the genetic association studies hitherto conducted on type 2 diabetes.Primarily focusing on the current status of genomic research, we briefly discussed the limited progress made during the post-genomic era and tried to identify the limitations of the post-genomic research strategies.We suggested reanalysis of the existing genomic data through advanced statistical and computational methods and recommended integrated genomics-metabolomics approaches for future studies to facilitate understanding of the gene-environment interactions in the manifestation of the disease.We also propose a framework for research that may be apt for determining the effects of urbanization and changing lifestyles in the manifestation of complex genetic disorders like type 2 diabetes in the Indian populations and offset the confounding effects of both genetic and environmental factors in the natural way."
+            },
+            {
+                "document_id": "ce63119a-9a7b-4946-b1f5-bc8bfc4c10da",
+                "section_type": "main",
+                "text": "\n\nGenetic factors appear to play a role in determining an individual's risk of developing diabetes.It is hoped that genetic studies will ultimately identify key genetic elements that help determine susceptibility to diabetes, disease progression, and responsiveness to specific therapies, as well as help identify novel targets for future intervention.A substantial number of genetic loci, gene polymorphisms, and mutations have already been reported as having variable degrees of association with one or other type of diabetes (type 1, type 2, maturity onset diabetes of the young [MODY]), while others appear to be involved in response to antihyperglycemic agents.We have compiled the following glossary of genetic and genomic terms relating to diabetes, which we hope will prove a useful reference to researchers and clinicians with an interest in this disease.This is by no means an exhaustive list, but includes many of the genetic loci and variants that have been studied in association with diabetes.Gene encoding insulin-like growth factor 2 mRNA binding protein 2 (also known as IMP-2).SNPs in the gene have been associated with type 2 diabetes IFIH1"
+            },
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "main",
+                "text": "Gene-Nutrient or Dietary Pattern Interactions in The Development of T2DM\n\nRecently, several studies have demonstrated the significant effects of genotype by environment interactions on T2DM [48,49].However, further clarification of the role of these interactions at the genome-wide level could help predict disease risk more accurately and facilitate the development of dietary recommendations to improve prevention and treatment.Moreover, it would be very interesting to identify the specific dietary factors that are the most influential in the variation of a given T2DM-related phenotype and to what extent these dietary factors contribute to the phenotypic variation (Table 2).In particular, the dietary factors considered are macro-and micronutrients, foods and type of diets.A recent review present evidence on the dietary environment and genetics as risk factors for T2DM [50]. * Adiponectin (ADIPOQ)."
+            },
+            {
+                "document_id": "95a5a00b-9cf4-4988-bc6c-9df0e8e1b155",
+                "section_type": "main",
+                "text": "\n\nGenome-wide interaction studies have potential to identify gene variants that influence diabetes risk that might not be detected using hypothesis-driven approaches.However, the statistical power limitations of such studies when applying conventional tests of interaction, combined with the challenges of identifying large cohort collections with appropriately characterized environmental, genetic, and phenotypic data, pose challenges that conventional genetic association studies do not face.Several methods have been developed to mitigate these challenges; among the most promising is the joint meta-analysis approach, which is derived from the model with two degrees of freedom popularized by Kraft et al. (45) and developed further by Manning et al. (46).Manning et al. (47) went on to apply the joint meta-analysis approach in a genome-wide study of 52 cohorts in which they tested for SNP main effects and interactions (with BMI) on fasting glucose and insulin levels.The analysis yielded novel experiment-wide association signals for main effects, but none was discovered for interactions."
+            },
+            {
+                "document_id": "2a71b781-89fe-4055-bbb1-15aa226e1e3a",
+                "section_type": "main",
+                "text": "\n\nDiabetes is a genetically complex multifactorial disease that requires sophisticated consideration of multigenic and phenotypic influences.As well as standard nonpara-  metric methods, we used novel approaches to evaluate and identify locus heterogeneity.It has also proved productive to consider phenotypes such as age at type 2 diabetes onset and obesity, which may define a more homogeneous subgroup of families.A genome-wide scan of 247 African-American families has identified a locus on chromosome 6q and a region of 7p that apparently interacts with early-onset type 2 diabetes and low BMI, as target regions in the search for African-American type 2 diabetes susceptibility genes."
+            },
+            {
+                "document_id": "a83987ea-607c-4952-a1cc-69c6f193ba2a",
+                "section_type": "main",
+                "text": "Conclusions\n\nHow will sequencing genomes influence the health of people at risk for or affected with diabetes?The more complete understanding of the biological mechanisms underlying diabetes derived from these studies may lead to identification of novel drug targets.Individuals with variants in genes responsible for MODY or neonatal diabetes respond better to specific drugs [50,51], and sequencing may identify small numbers of individuals with combinations of rarer, more highly penetrant variants that respond better to specific therapeutic options.Although sets of known variants for type 2 diabetes do not add substantially to prediction of type 2 diabetes development in the overall population [52,53], identification of individuals at greater or lower genetic risk for diabetes within the overall population or in specific subgroups, such as younger onset or leaner individuals [54,55], could lead to better targeted health information and also allow identification of higher risk individuals leading to more efficient design of clinical trials for disease prevention."
+            },
+            {
+                "document_id": "b666545f-6a53-45de-8562-55d88fc6f7ee",
+                "section_type": "main",
+                "text": "Future prospects\n\nWhilst the examples above provide interesting insights, it is clear that we are only at the beginning of mining the information generated by genome-wide association studies for Type 2 diabetes and other complex traits.work in human genetics, involving ever larger cohorts, meta-analyses and the search for rarer and more penetrant variants will in future be important to identify all of the heritable elements that control Type 2 diabetes risk; however, the useful deployment of this information for either disease prediction or the development of new therapies will require considerable further efforts at the cellular and molecular level to understand the function of the identified genes.Moreover, and although not the subject of this particular review, actions of single nucleotide polymorphisms through non-coding genes, e.g.mi-croRNAs and long non-coding RNAs, will require deeper investigation."
+            },
+            {
+                "document_id": "063a0254-1d1b-4caa-b782-6a1fe4ebca0d",
+                "section_type": "main",
+                "text": "Genetics and pharmacogenomics\n\nWe are at the dawn of the age of pharmacogenomics and personalized medicine and ever closer to achieving the \"$1,000 genome. \"What does this mean for diabetes?Forward genetic approaches (i.e., starting from phenotype and identifying the genetic cause) to dissecting mendelian forms of diabetes have been hugely successful in identifying a small subset of diabetic patients in whom rare, highly penetrant mutations of a single gene cause their diabetes (13).While common variants of these genes that make a small contribution to polygenic diabetes may also exist (13), the variants causing monogenic diabetes have limited utility in pharmacogenetics due to their low allele frequency.The vast majority of type 2 diabetes patients have polygenetic forms of the disease that typically also require a permissive environment (e.g., obesity, sedentary lifestyle, advancing age, etc.) to be penetrant.Each locus contributes a small amount of risk (odds ratios typically ranging from 1.1- to 1.5-fold), so large cohorts are needed to identify the at-risk alleles.Some of the loci identified to date include transcription factor 7-like 2 (TCF7L2) (14), calpain 10 (CAPN10) (15), peroxisome proliferator-activated receptor γ (PPARG) (16), and potassium inwardly rectifying channel, subfamily J, member 11 (KCNJ11) (17).However, the pace of gene identification is increasing due to the availability of large-scale databases of genetic variation and advances in genotyping technology.A recent genome-wide study identified solute carrier family 30, member 8 (SLC30A8), a β cell Zn transporter, and two other genomic regions as additional diabetes risk loci (18)."
+            },
+            {
+                "document_id": "08858a32-d736-4d8d-a135-f86568152a81",
+                "section_type": "main",
+                "text": "\n\nWith further progress in unravelling the pathogenic roles of genes and epigenomic phenomena in type 2 diabetes, pharmacogenomic and pharmacoepigenomic studies might eventually yield treatment choices that can be personalised for individual patients."
+            },
+            {
+                "document_id": "41bc85bc-314f-4d92-9007-5d1571506ef3",
+                "section_type": "main",
+                "text": "\n\nIn summary, we have identified nutritional regulation of many of the newly found type 2 diabetes-associated genes.As these studies were performed with a relatively small number of samples, it should be noted that smaller changes in expression may also exist that we had insufficient power to detect.These data provide support for the involvement of these newly identified type 2 diabetes susceptibility genes in β-cell function and also suggest potential roles for many of them in peripheral tissues, notably in the brain and hypothalamus, highlighting the potential importance of neuronal regulation of metabolism and islet function to type 2 diabetes [38][39][40][41].Our study also highlights the tissue-specific regulation of these genes (changes in one or more tissues where the gene is expressed but not in all tissues), suggesting that the SNPs identified in the GWAS studies may need to be examined in the appropriate tissues and under several metabolic contexts [37].Indeed, recent studies aimed at identifying genetic variants that affect gene expression (eQTLs) have found varying effects of these SNPs on gene expression in different tissues, particularly for SNPs located within not between genes, and notably that the SNPs were more associated with expression of diabetesassociated genes in metabolically relevant tissues such as liver, adipose and muscle than in lymphocytes, which are sometimes used as a surrogate because they are easily accessible [80][81][82].The abundant regulation of these genes by nutritional status found in our study also suggests there are likely gene-diet interactions involving these SNPs [83] that may be a complicating factor in future human studies to assess the functional implications of the associated SNPs."
+            },
+            {
+                "document_id": "3c35547c-eb9b-470d-b74b-0f9a0529e965",
+                "section_type": "main",
+                "text": "\n\nWhat will be the clinical benefit of all this genetic knowledge beyond its use for prediction of the individual's type 2 diabetes risk?One major advantage of knowing an at-risk person's genotype could be to offer an individually tailored lifestyle intervention program to prevent or, at least, to significantly retard the onset of overt diabetes.This aim requires extensive future work to understand the interaction between risk genes and lifestyle modifications, such as diet (this research area is called nutrigenomics) and exercise regimens (this research area is called physiogenomics).In this regard, data from the Diabetes Prevention Program provided evidence that behavioral intervention can mitigate or even abolish the diabetes risk conferred by TCF7L2 or ENPP1, respectively (127,129).In the Finnish Diabetes Prevention Study, physical activity was shown to reduce the type 2 diabetes risk of PPARG risk allele carriers (387).Another advantage of the genetic knowledge could be to offer type 2 diabetic patients an individually tailored pharmacological therapy with currently available or newly developed, e.g., risk gene-targeting, antidiabetic drugs.Thus, future pharmacogenomic studies have to thoroughly investigate the interaction between risk genes and drugs.Understanding these interactions appears important also because it could help to reduce the therapeutical use of drugs (with their side effects) that are ineffective in certain genotypes."
+            },
+            {
+                "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                "section_type": "main",
+                "text": "THE GENETICS OF TYPE 1 DIABETES\n\nThe study of the genome to map disease-susceptibility regions for T1D and other multifactorial diseases has been facilitated by recent advances in next generation DNA sequencing methods."
+            },
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "main",
+                "text": "\n\nThus, studies performed during the last decade have provided strong evidence to support a diet-genome interaction as an important factor leading to the development of T2DM."
+            },
+            {
+                "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                "section_type": "main",
+                "text": "\n\nNutrient-or dietary pattern-gene interactions in the development of DM."
+            },
+            {
+                "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                "section_type": "main",
+                "text": "INTRODUCTION\n\nThis research project grows out of interest in the genetics and genomics of complex diseases, particularly Type 1 Diabetes (T1D).The field of genomics has provided the first systematic approaches to discovering genes and cellular pathways underlying a number of diseases (Lander, 2011. ).My research is focused on SNP variants that occur in susceptibility regions for T1D."
+            },
+            {
+                "document_id": "3c35547c-eb9b-470d-b74b-0f9a0529e965",
+                "section_type": "main",
+                "text": "\n\nAs estimated from the currently achieved genome coverage, the next generation of high-density SNP arrays is expected to provide about half a dozen novel type 2 diabetes risk loci in the near future using the same case-control setting.Alternative settings, such as correlational analyses with state-of-the-art measures for glucose-and incretin-stimulated insulin secretion, whole-body and tissue-specific insulin sensitivity, will probably further increase this number.Moreover, future studies on the role of copy number variants, with their obvious impact on gene dosage, could once more extend our appreciation of the genetic component of type 2 diabetes.Finally, taking into account that gene-environment interactions contribute to the development of type 2 diabetes (393, 394), well-de-fined intervention studies have a good potential to discover risk variants that remain cryptic in cross-sectional settings.The current emergence of diabetes-relevant genes susceptible to persistent and partly inheritable epigenetic regulations, i.e., DNA methylation and histone modifications, further underscores the importance of gene-environment interactions and the complexity of type 2 diabetes genetics (198,395,396).Because epigenetic modifications clearly affect gene expression, the establishment of diabetes-related gene expression profiles of metabolically relevant tissues or easily available surrogate \"tissues\", such as lymphocytes, could help identify novel candidate genes for type 2 diabetes."
+            },
+            {
+                "document_id": "9864689f-2c1e-4fb2-a621-f39d4c57f140",
+                "section_type": "main",
+                "text": "\n\nGenetic and epigenetic factors determine cell fate and function.Recent breakthroughs in genotyping technology have led to the identification of more than 20 loci associated with the risk of type 2 diabetes (Sambuy 2007;Zhao et al. 2009).However, all together these loci explain <5% of the genetic risk for diabetes.Epigenetic events have been implicated as contributing factors for metabolic diseases (Barker 1988;Kaput et al. 2007).Unhealthy diet and a sedentary lifestyle likely lead to epigenetic changes that can, in turn, contribute to the onset of diabetes (Kaput et al. 2007).At present, the underlying molecular mechanisms for disease progression remain to be elucidated."
+            }
+        ],
+        "document_id": "A9F8F600EC44B4FA08789ED3E990BE0D",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "T2D&genomics",
+            "nutrition",
+            "nutrient-gene&interactions",
+            "diabetes&mellitus",
+            "nutritional&genomics",
+            "gene&variants",
+            "epigenetic&modifications",
+            "GWAS",
+            "pharmacogenomics",
+            "personalized&medicine",
+            "machine&learning"
+        ],
+        "metadata": [
+            {
+                "object": "Three loci with high mutation frequencies, the 138665410 FOXL2 gene variant, the 23862952 MYH6 gene variant, and the 71098693 HYDIN gene variant were found to be significantly associated with sporadic Atrial Septal Defect P<0.05; variants in FOXL2 and MYH6 were found in patients with isolated, sporadic Atrial Septal Defect P<5x10-4.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab953981"
+            },
+            {
+                "object": "The results of this meta-analysis support the hypothesis that RBP4 is a modest independent risk factor for gestational diabetes mellitus i.e., nonobese patients with gestational diabetes mellitus might express RBP4 at abnormal levels.The association between RBP4 rs3758539 polymorphism and gestational diabetes mellitus risk was not confirmed.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab860992"
+            },
+            {
+                "object": "We studied the association between retinoic acid receptor responder 2 rs17173608 and rs4721 gene polymorphisms and gestational diabetes mellitus. We found that RARRES2 rs4721 polymorphism increased the risk of gestational diabetes mellitus. RARRES2 rs17173608 polymorphism is not associated with gestational diabetes mellitus.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1013771"
+            },
+            {
+                "object": "Data show that circulating ghrelin is high in situations of nutritional deficiency starvation and low in situations of nutritional plenty free access to food or total parenteral nutrition.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab191174"
+            },
+            {
+                "object": "Data confirm the association between the FTO first intron polymorphism and the presence of type 2 diabetes mellitus in the Slavonic Czech population. The same variant is likely to be associated with development of chronic complications of diabetes mellitus, especially with diabetic neuropathy and diabetic kidney disease in either T2DM or both T1DM and T2DM.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab173943"
+            },
+            {
+                "object": "Data suggest that subjects with point mutation 3243A>G in mtRNA-LeuUUR develop MIDD maternally inherited diabetes and deafness; as compared to patients with T1DM type 1 diabetes mellitus or early-onset T2DM type 2 diabetes mellitus matched for sex, age, duration of diabetes, such MIDD patients have highest rate of osteoporosis.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab211558"
+            },
+            {
+                "object": "meta-analysis indicated that the risk allele of the GCK -30G>A polymorphism may increase gestational diabetes mellitus and type 2 diabetes mellitus risk in whites, whereas additional studies are needed to confirm the effect of this polymorphism on both diseases in Asians and Africans",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab478385"
+            },
+            {
+                "object": "rs2059806 of INSR was associated with both type 2 diabetes mellitus and type 2 diabetic nephropathy, while rs7212142 of mTOR was associated with type 2 diabetic nephropathy but not type 2 diabetes mellitus in a Chinese Han population.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab687817"
+            },
+            {
+                "object": "The aim of this study was to examine the frequency of exocrine dysfunctions of the pancreas according to the level of fecal elastase-1 FE-1 in patients with diabetes mellitus, type 1 and diabetes mellitus, type 2.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab778488"
+            },
+            {
+                "object": "Patellar tendon properties are not influenced by the MMP3 gene variants measured. Although MMP3 gene variants are associated with risk of tendon pathology, association is unlikely to be mediated via underlying tendon dimensional and functional properties.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab582593"
+            }
+        ],
+        "question": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes",
+        "subquestions": null,
+        "task_id": "A9F8F600EC44B4FA08789ED3E990BE0D",
+        "usage": {
+            "chatgpt": 6443,
+            "gpt-4": 4073,
+            "gpt-4-turbo-preview": 3136
+        },
+        "user_id": 2
+    },
+    "document_id": "A9F8F600EC44B4FA08789ED3E990BE0D",
+    "task_id": "A9F8F600EC44B4FA08789ED3E990BE0D"
+}

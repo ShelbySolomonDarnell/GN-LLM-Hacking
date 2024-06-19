@@ -1,0 +1,148 @@
+{
+    "created_at": "2024-04-18T18:40:22.873037Z",
+    "data": {
+        "amplify": false,
+        "answer": "Yes, genetic predictors of diabetes complications can be identified. Studies have revealed several susceptibility loci for diabetic complications such as retinopathy and nephropathy. However, these genetic factors only explain a small proportion of the phenotypic variation observed in type 2 diabetes patients, indicating a need for the identification of more novel genetic risk factors.",
+        "context": {
+            "069a62e0-e56a-46ab-9f93-c13a76a79989": [
+                {
+                    "document_id": "069a62e0-e56a-46ab-9f93-c13a76a79989",
+                    "text": "\n\nResearchers are expanding our understanding of genetic risk factors for diabetes through ongoing discoveries.Genetic variants associated with increased susceptibility to type 2 diabetes, a disease that affects more than 200 million people worldwide, have been identified (NHGRI & NIDDK, 2007).Such discoveries accelerate efforts to understand genetic contributions to chronic illness, as well as facilitate greater investigation of how these genetic factors interact with each other and with lifestyle factors.Ultimately, once the association of these variants with diabetes are confirmed, genetic tests may be utilized to identify (even before escalating blood sugars) those individuals, like Vanessa, who may be able to delay or prevent diabetes with healthy lifestyle decisions and behaviors.Information to assist nurses in this challenge is available in a toolkit \"Your Game Plan for Preventing Type 2 Diabetes\" (Your Game Plan, n.d.).Would you have known whether or not genetic testing was available for Vanessa?If you had said no to this question but could have explained the progress currently being made in understanding diabetes, Vanessa would have had access to the best care possible today."
+                }
+            ],
+            "091ab13a-1b8a-4849-b698-48db7b1a948f": [
+                {
+                    "document_id": "091ab13a-1b8a-4849-b698-48db7b1a948f",
+                    "text": "\n\nA considerable amount of work has focused on dissecting the genetics of diabetes itself; however, fewer studies have been conducted on the molecular mechanisms leading to its specific complications such as DR.To identify susceptibility loci that are associated with T2D retinopathy in Taiwanese population, we conducted a genome-wide association study involving 749 T2D cases (174 with retinopathy and 575 without retinopathy) and 100 nondiabetic controls and identified 12 previously unknown susceptibility loci related to DR."
+                }
+            ],
+            "0da4d3d4-10d5-4a58-9e50-c1fa0b414427": [
+                {
+                    "document_id": "0da4d3d4-10d5-4a58-9e50-c1fa0b414427",
+                    "text": "\n\nProgress toward wider use of genetic testing in the prediction of type 2 diabetes and its complications will require three developments.The first involves identification of a growing number of risk variants that, collectively, deliver greater predictive and discriminative performance than the subset thus far known.The second involves understanding how genetic information can be combined with other conventional risk factors (and possibly with non-DNA-based biomarkers, as these emerge) to provide a more accurate assessment of individual risk.It should be kept in mind that susceptibility genotype information will not be orthogonal to those traditional factors, since several of them (such as ethnicity, family history, and BMI) capture overlapping genetic information.The third development will be evidence that imparting such information results in clinically meaningful differences in individual behavior or provides a more rational basis for therapeutic or preventative interventions."
+                }
+            ],
+            "277be46c-4307-4738-972d-eb6efd9b175a": [
+                {
+                    "document_id": "277be46c-4307-4738-972d-eb6efd9b175a",
+                    "text": "Future directions\n\nDelays in identifying genetic variants that are robustly associated with differences in individual predisposition to the complications of diabetes, have constrained progress towards a mechanistic understanding of these conditions.Some approaches to overcome these limitations are outlined in Figure 4."
+                }
+            ],
+            "3548bb7f-727c-4ccb-acc7-a97553b89992": [
+                {
+                    "document_id": "3548bb7f-727c-4ccb-acc7-a97553b89992",
+                    "text": "\n\nRecent advances in GWAS have substantially improved our understanding of the pathophysiology of diabetes, but the currently identified genetic susceptibility loci are insufficient to explain differences in diabetes risk across different ethnic groups or the rapid rise in diabetes prevalence over the past several decades.Clinical utility of these loci in predicting future risk of diabetes is also limited."
+                }
+            ],
+            "45cdaf79-d881-43e6-8555-ff47f04ae3d4": [
+                {
+                    "document_id": "45cdaf79-d881-43e6-8555-ff47f04ae3d4",
+                    "text": "\n\nConclusions: Together these results provide further evidence for the implication of genetic factors in the development of type 2 diabetes complications and highlight several potential key loci, able to modify the risk of developing these conditions.Moreover, the candidate variant approach proves a strong and consistent effect for multiple variants across different populations."
+                },
+                {
+                    "document_id": "45cdaf79-d881-43e6-8555-ff47f04ae3d4",
+                    "text": "\n\nStudies show evidence of considerable genetic component predisposing to diabetic complications, explaining even around 50% of the risk of proliferative retinopathy [11].In the last few decades, genetic research including genome-wide association studies (GWAS), linkage analysis, and candidate gene approach has revealed several susceptibility loci for diabetic retinopathy and nephropathy (VEGF, CAT , FTO, UCP1, and INSR), and also macrovascular complications (ADIPOQ).Nevertheless, they explain only a small proportion of the phenotypic variation observed in T2DM patients [12][13][14][15][16][17], justifying a need for identification of novel genetic risk factors for T2DM complications and improvement of knowledge about molecular mechanisms underlying these comorbid conditions."
+                },
+                {
+                    "document_id": "45cdaf79-d881-43e6-8555-ff47f04ae3d4",
+                    "text": "Methods:\n\nWe performed a genome-wide association study in 601 type 2 diabetes patients after stratifying them according to the presence or absence of four types of diabetes complications: diabetic neuropathy, diabetic nephropathy, macrovascular complications, and ophthalmic complications."
+                },
+                {
+                    "document_id": "45cdaf79-d881-43e6-8555-ff47f04ae3d4",
+                    "text": "\nBackground: Type 2 diabetes complications cause a serious emotional and economical burden to patients and healthcare systems globally.Management of both acute and chronic complications of diabetes, which dramatically impair the quality of patients' life, is still an unsolved issue in diabetes care, suggesting a need for early identification of individuals with high risk for developing diabetes complications. Methods:We performed a genome-wide association study in 601 type 2 diabetes patients after stratifying them according to the presence or absence of four types of diabetes complications: diabetic neuropathy, diabetic nephropathy, macrovascular complications, and ophthalmic complications. Results:The analysis revealed ten novel associations showing genome-wide significance, including rs1132787 (GYPA, OR = 2.71; 95% CI = 2.02-3.64)and diabetic neuropathy, rs2477088 (PDE4DIP, OR = 2.50; 95% CI = 1.87-3.34),rs4852954 (NAT8, OR = 2.27; 95% CI = 2.71-3.01),rs6032 (F5, OR = 2.12; 95% CI = 1.63-2.77),rs6935464 (RPS6KA2, OR = 2.25; 95% CI = 6.69-3.01)and macrovascular complications, rs3095447 (CCDC146, OR = 2.18; 95% CI = 1.66-2.87)and ophthalmic complications.By applying the targeted approach of previously reported susceptibility loci we managed to replicate three associations: MAPK14 (rs3761980, rs80028505) and diabetic neuropathy, APOL1 (rs136161) and diabetic nephropathy.Conclusions: Together these results provide further evidence for the implication of genetic factors in the development of type 2 diabetes complications and highlight several potential key loci, able to modify the risk of developing these conditions.Moreover, the candidate variant approach proves a strong and consistent effect for multiple variants across different populations."
+                },
+                {
+                    "document_id": "45cdaf79-d881-43e6-8555-ff47f04ae3d4",
+                    "text": "Discussion\n\nHere we present the results of the genome-wide association study for T2DM complications performed in a population of Latvia for the first time, revealing 10 susceptibility loci for T2DM complications, including diabetic neuropathy, macrovascular and ophthalmic complications.As in other reports aimed to identify the risk factors of T2DM complications [15,32], the control group of our study consisted of T2DM patients with no evidence of the complication type of interest instead of conventional healthy subjects, since the implementation of healthy controls would rather reveal genetic associations with the diagnosis of T2DM itself, not the T2DM complications."
+                }
+            ],
+            "50c72e55-b5fe-42a6-b837-64c28620a4c0": [
+                {
+                    "document_id": "50c72e55-b5fe-42a6-b837-64c28620a4c0",
+                    "text": "\n\nGenetic determinants of diabetes and metabolic syndromes."
+                }
+            ],
+            "80500e0d-0e39-4e46-bb60-8721f4f512c0": [
+                {
+                    "document_id": "80500e0d-0e39-4e46-bb60-8721f4f512c0",
+                    "text": "Conclusions\n\nAs compared with clinical risk factors alone, common genetic variants associated with the risk of diabetes had a small effect on the ability to predict the future development of type 2 diabetes.The value of genetic factors increased with an increasing duration of follow-up."
+                }
+            ],
+            "9c9cc0b3-5dde-4077-ae41-1410db9aeb24": [
+                {
+                    "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                    "text": "Research Gaps\n\nAfter consideration of the known genetic associations with diabetes risk, consensus developed that the field is not yet at a place where genetics has provided actionable information to guide treatment decisions, with a few notable exceptions, namely in MODY.The experts agreed there is a need to use the increasingly accessible and affordable technologies to further refine our understanding of how genetic variations affect the rate of progression of diabetes and its complications.The expert committee also highlighted the importance of determining categorical phenotypic subtypes of diabetes in order to link specific genetic associations to these phenotypic subtypes.These types of information are necessary to develop the tools to predict response to-and side effects of-therapeutic approaches for diabetes in patient populations."
+                }
+            ],
+            "a7bad429-5f6a-464f-a666-f9cb1be60338": [
+                {
+                    "document_id": "a7bad429-5f6a-464f-a666-f9cb1be60338",
+                    "text": "COMPLICATIONS\n\nIn addition to the genetic determinants of diabetes, several gene mutations and polymorphisms have been associated with the clinical complications of diabetes.The cumulative data on diabetes patients with a variety of micro-and macrovascular complications support the presence of strong genetic factors involved in the development of various complications [200] .A list of genes have been reported that are associated with diabetes complications including ACE and AKR1B1 in nephropathy, VEGF and AKRB1 in retinopathy and ADIPOQ and GLUL in cardiovascular diseases [200] ."
+                }
+            ],
+            "b666545f-6a53-45de-8562-55d88fc6f7ee": [
+                {
+                    "document_id": "b666545f-6a53-45de-8562-55d88fc6f7ee",
+                    "text": "How do we identify the major 'culprits' at the implicated genome-wide association study loci? If population-based genetics, including genome-wide association studies, have allowed progress in the identification of Type 2 diabetes loci to be rapid over the past few years, progress towards determining which of the gene variants close to the implicated loci confer altered disease risk and how (at the molecular, cellular and whole body level) has lagged some way behind.Indeed, given the number of possible single nucleotide polymorphisms and genes, unravelling these questions represents a monumental challenge, requiring multiple, complementary approaches.Nonetheless, the rewards of success, in terms of new understanding of disease mechanisms and even the identification of new targets for therapeutic intervention, are likely to be great, potentially allowing the treatment of underlying disease aetiology in a personalized (stratified) manner."
+                }
+            ],
+            "cf022812-00a2-42ba-88fb-5c2014c86c43": [
+                {
+                    "document_id": "cf022812-00a2-42ba-88fb-5c2014c86c43",
+                    "text": "\nDuring the last decade, there have been substantial advances in the identification and characterization of DNA sequence variants associated with individual predisposition to type 1 and type 2 diabetes.As well as providing insights into the molecular, cellular, and physiological mechanisms involved in disease pathogenesis, these risk variants, when combined into a polygenic score, capture information on individual patterns of disease predisposition that have the potential to influence clinical management.In this review, we describe the various opportunities that polygenic scores provide: to predict diabetes risk, to support differential diagnosis, and to understand phenotypic and clinical heterogeneity.We also describe the challenges that will need to be overcome if this potential is to be fully realized."
+                },
+                {
+                    "document_id": "cf022812-00a2-42ba-88fb-5c2014c86c43",
+                    "text": "\n\nDuring the last decade, there have been substantial advances in the identification and characterization of DNA sequence variants associated with individual predisposition to type 1 and type 2 diabetes.As well as providing insights into the molecular, cellular, and physiological mechanisms involved in disease pathogenesis, these risk variants, when combined into a polygenic score, capture information on individual patterns of disease predisposition that have the potential to influence clinical management.In this review, we describe the various opportunities that polygenic scores provide: to predict diabetes risk, to support differential diagnosis, and to understand phenotypic and clinical heterogeneity.We also describe the challenges that will need to be overcome if this potential is to be fully realized."
+                }
+            ],
+            "eaca0f25-4a6b-4c0e-a6df-12e25060b169": [
+                {
+                    "document_id": "eaca0f25-4a6b-4c0e-a6df-12e25060b169",
+                    "text": "\n\nConclusions and Future Directions GWAS and GWAS meta-analyses have by far been the most efficient way to identify new T2D genes (Figure 2), but their predictive value for future occurrence of T2D has been very limited compared to classic risk factors such as obesity and fasting glucose levels (Walford et al., 2014).Although it might be good news that our genome does not fully dictate our future, the knowledge of its specificities may help us to improve our health.Early genetic studies showed that the higher risk for T2D conferred by TCF7L2 variant can be reversed by lifestyle intervention (Florez et al., 2006), opening avenues for strategies targeted on genetically selected individuals with pre-diabetes.TCF7L2 has also been shown to be associated with a lower efficiency of oral sulfonylureas in newly diagnosed T2D patients (Pearson et al., 2007), but a more recent Danish study suggested that in contrast to clinical markers, all known T2D-associated variants do not significantly affect the time to prescription of the first drug after disease onset (Hornbak et al., 2014).In other words, frequent SNPs are not helpful to predict patients' futures, though the good use of genetic data may contribute to provide better care to newly diagnosed T2D patients who are currently all treated the same (with metformin)."
+                }
+            ],
+            "fa72cb33-e1e4-49ea-a72e-dd851225ee0b": [
+                {
+                    "document_id": "fa72cb33-e1e4-49ea-a72e-dd851225ee0b",
+                    "text": "Background\n\nMultiple genetic loci have been convincingly associated with the risk of type 2 diabetes mellitus.We tested the hypothesis that knowledge of these loci allows better prediction of risk than knowledge of common phenotypic risk factors alone."
+                }
+            ],
+            "fcf8fb37-20cf-491c-96f8-04a5621812a2": [
+                {
+                    "document_id": "fcf8fb37-20cf-491c-96f8-04a5621812a2",
+                    "text": "\n\nGenetic predisposition to diabetes mellitus type 2: will large collaborative efforts be able to overcome the geneticist's nightmare?"
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "0E3B1D23A525184EDA9AA62C618C9EC7",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "type&2&diabetes",
+            "genetic&predictors",
+            "diabetes&complications",
+            "GWAS",
+            "genome-wide&association&study",
+            "polygenic&score",
+            "susceptibility&loci",
+            "T2DM",
+            "genetic&variants",
+            "diabetic&neuropathy"
+        ],
+        "metadata": [],
+        "question": "Can we identify genetic predictors of diabetes complications?",
+        "subquestions": null,
+        "task_id": "0E3B1D23A525184EDA9AA62C618C9EC7",
+        "usage": {
+            "chatgpt": 6305,
+            "gpt-4": 3589,
+            "gpt-4-turbo-preview": 2668
+        },
+        "user_id": 2
+    },
+    "document_id": "0E3B1D23A525184EDA9AA62C618C9EC7",
+    "task_id": "0E3B1D23A525184EDA9AA62C618C9EC7"
+}

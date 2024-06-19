@@ -1,0 +1,189 @@
+{
+    "created_at": "2024-03-25T14:00:01.668047Z",
+    "data": {
+        "amplify": false,
+        "answer": "Several environmental factors can affect mice and influence diabetes. These include the stress response, which can be greater in male mice and can confound feeding behavior, the unique gut microbiota of rodents from different production facilities, cage position, single versus group housing, the skill level of the researcher, ambient room temperature, and the type of cage bedding. Diet, particularly high-fat feeding, can also induce obesity and diabetes. Additionally, the intrauterine environment can impact the subsequent development of diabetes amongst offspring.",
+        "context": {
+            "02a9d5a9-41a4-4d70-b828-c4bda13fa01c": [
+                {
+                    "document_id": "02a9d5a9-41a4-4d70-b828-c4bda13fa01c",
+                    "text": "Methods\n\nMouse models of diabetes.All animal studies were conducted according to a protocol approved by the Institutional Animal Care and Use Committee at the Beckman Research Institute of City of Hope.Male type-2 diabetic db/db mice (T2D leptin receptor deficient; Strain BKS.Cg-m þ / þ lepr db/J) and genetic control non-diabetic db/ þ mice (10-12 weeks old), were obtained from The Jackson Laboratory (Bar Harbor, ME) 11,17 .Male C57BL/6 mice (10 week old, The Jackson Laboratory) were injected with 50 mg kg À 1 of STZ intraperitoneally on 5 consecutive days.Mice injected with diluent served as controls.Diabetes was confirmed by tail vein blood glucose levels (fasting glucose 4300 mg dl À 1 ).Each group was composed of five to six mice.Mice were sacrificed at 4-5 or 22 (ref.17) weeks post-induction of diabetes.Glomeruli were isolated from freshly harvested kidneys by a sieving technique 11,17 in which renal capsules were removed, and the cortical tissue of each kidney separated by dissection.The cortical tissue was then carefully strained through a stainless sieve with a pore size of 150 mm by applying gentle pressure.Enriched glomerular tissue below the sieve was collected and transferred to another sieve with a pore size of 75 mm.After several washes with cold PBS, the glomerular tissue remaining on top of the sieve was collected.Pooled glomeruli were centrifuged, and the pellet was collected for RNA, protein extraction or for preparing MMCs 11,17 .Male Chop-KO mice were also obtained from the Jackson Laboratory (B6.129S(Cg)-Ddit3 tm2.1Dron /J).Based on our previous experience, sample size was determined to have enough power to detect an estimated difference between two groups.With minimum sample size of 5 in each group, the study can provide at least 80% power to detect an effect size of 2 between diabetic and non-diabetic groups or treated and untreated groups at the 0.05 significant level using two-sided t-test.Since we expected larger variation between groups especially for the mice with oligo-injection, we used more than 5 mice in each group (with 6 mice in each group, we have 80% power to detect an effect size of 1.8 at the 0.05 confidence level).Our actual results with current sample size did show statistical significance for majority of the miRNAs in the cluster.Histopathological and biochemical analysis of tissues or cells derived from animal models were performed by investigators masked to the genotypes or treatments of the animals."
+                }
+            ],
+            "0ae5d2bb-b09d-4646-922a-277188b53cbb": [
+                {
+                    "document_id": "0ae5d2bb-b09d-4646-922a-277188b53cbb",
+                    "text": "\n\nIn these models, adult offspring of diabetic animals were noted to have normal development of the endocrine pancreas (Aerts et al., 1997;Ma et al., 2012).However, they develop glucose intolerance and impaired insulin response to glucose challenge, and display insulin resistance, mainly in the liver and muscle, highlighting the presence of both insulin resistance and b-cell dysfunction (Aerts et al., 1988;Holemans et al., 1991a,b).The key role of the intrauterine environment was demonstrated by a series of embryo transfer experiments, which showed that the diabetes risk in a low genetic risk strain can be substantially increased by the hyperglycaemic environment of a dam with a high genetic risk of diabetes (Gill-Randall et al., 2004)."
+                }
+            ],
+            "20771d36-aa57-46ad-b3c6-80f5b038ba43": [
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nDiabetes-obesity syndromes in rodents"
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "However, in other contexts, B6 mice are more likely\nthan D2 to spontaneously develop diabetic syndromes,\nAging Clin Exp Res\n\nindicating that risk factors exist on both genetic backgrounds [29]. QTL mapping studies indicate that these\nmurine metabolic traits have a complex genetic architecture that is not dominated by any single allele [29–31],\nmuch like humans [32, 33]. Prior work identified candidate genes on Chr 13 that might\nunderlie diabetes-related traits, including RASA1, Nnt, and\nPSK1. RASA1 show strong sequence differences between\nB6 and D2 strains [34]. Rasche et al."
+                }
+            ],
+            "770beab7-59a4-4bbe-94a5-79a965ab696a": [
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nOther diet-induced rodent models of type 2 diabetes.Although rats and mice are the most commonly used models for studies of type 2 diabetes, other rodents have also been identified as useful models.These include the desert gerbil and the newly described Nile grass rat, both of which tend to develop obesity in captivity."
+                },
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nSummary of rodent models of type 2 diabetes"
+                },
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nSince the obesity is induced by environmental manipulation rather than genes, it is thought to model the human situation more accurately than genetic models of obesityinduced diabetes.High fat feeding is often used in transgenic or knock-out models, which may not show an overt diabetic phenotype under normal conditions, but when the beta cells are 'pushed', the gene may be shown to be of importance.It should be noted that the background strain of the mice can determine the susceptibility to diet-induced metabolic changes, and thus, effects could be missed if a more resistant strain is used (Surwit et al., 1995;Bachmanov et al., 2001;Almind and Kahn, 2004).It has also been reported that there is heterogeneity of the response to high fat feeding within the inbred C57BL/6 strain, indicating that differential responses to a high-fat diet are not purely genetic (Burcelin et al., 2002)."
+                }
+            ],
+            "77daf125-3e88-41fe-92fd-71a9ce9c6671": [
+                {
+                    "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                    "text": "Other considerations and limitations\n\nA myriad of factors affect animal experiments.Men elicit a greater stress response in mice than women 292 , likely confounding feeding behaviour.Rodents from different production facilities (for example, Jackson Laboratory and Taconic) have unique gut microbiotas 293 , perhaps contributing to differences in their susceptibility to DIO and related diabetic complications 293 .Similarly, cage position within a rack of cages, single versus group housing, the skill level of the researcher, ambient room temperature or the type of cage bedding can all affect experimental outcomes."
+                },
+                {
+                    "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                    "text": "\n\nWe believe there are several factors that researchers should consider when conducting obesity and diabetes mellitus research in rodents (FIG.2).Although our list is by no means an exhaustive, it demonstrates the complexity and interconnectedness of the myriad of factors that can confound experimental outcomes.Although it is impossible to control for everything, researchers should accurately detail all experimental conditions and methods to allow for better interpretation of the results and, importantly, for better reproducibility."
+                },
+                {
+                    "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                    "text": "\n\nFigure2| Important experimental parameters and potential confounders of experimental outcomes in obesity and diabetes research and their interrelatedness.Countless factors influence experimental outcomes when using animal models, and what is enumerated here is by no means a complete list.This figure is one depiction of the multifactorial and interconnected genetic and environmental matrix that makes it virtually impossible to design the perfect experiment.For example, single-housing mice to obtain more accurate food intake data introduces a stress that in turn affects food intake.The severity of this stress response is both strain-specific and sex-dependent.What is important is to be aware of these challenges and to control for them in the most optimal manner.It is equally, if not more, important to accurately and comprehensively detail all experimental conditions in research papers, as these have bearing on the interpretation and reproducibility of the published results.DIO, diet-induced obesity."
+                },
+                {
+                    "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                    "text": "\n\nAnother concern pertains to control mice.Compared with free-living mice in the wild, laboratory control mice with ad libitum access to food are sedentary, overweight, glucose intolerant and tend to die at a younger age 297 .Comparisons between mice with DIO and control mice might be analogous to investigating the genetic cause of obesity-resistance by comparing humans who are overweight or obese.This potential problem with control mice could explain why the use of DIO diets that have 40% to 60% of total energy from fat is so prevalent, as this might be necessary to achieve divergent weight gains.With free access to running wheels, C57BL/6J mice voluntarily run 5-10 km per day 298,299 .As is the case with humans 300 , mice get health benefits from regular physical activity including weight loss, decreased adiposity and improved insulin sensitivity 301,302 .Physical activity might also affect the epigenome over several generations 303 .An enriched physical and social cage environment alone improves leptin sensitivity and energy expenditure in mice, independent of physical activity 304,305 .Overall, these data suggest that with standard mouse husbandry, chow-fed laboratory mice are not the ideal healthy and lean control group for meaningful obesity research."
+                }
+            ],
+            "8cd81e24-a326-4443-bc37-0e6e421e70b2": [
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\n\nTo better address these points, various animal models have been developed.For example, using HFD-T2DM male rats, the F1 female offspring showed reduced β cell area and insulin secretion, together with glucose intolerance, without changes in body weight [145].The islets of the F1 female offspring showed differential expression of many genes involved in Ca 2+ , mitogen-activated protein kinase and Wnt signaling, apoptosis and cell cycle regulation [145].Similarly, in pregnant C57BL6J mice, food deprivation resulted in β cell mass reduction and an increased risk of β cell failure in offspring [146]."
+                }
+            ],
+            "b1a1282d-421f-494a-b9df-5c3c9e1e2540": [
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "They are probably typical of those\nfew mice that develop diabetes more slowly and do\nnot tax the pancreatic insulin supply as severely early\nin the course of the disease. Attempts at therapy. Attempts to keep the weight\nof diabetic mice within normal limits by total or\npartial food restriction resulted in premature deaths. After it was discovered that gluconeogenesis is greatly\nincreased in diabetic mice, attempts were made to\nregulate blood sugar levels and also weight gain by\nfeeding rations devoid of carbohydrate."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "The degree\nof dependence of adiposity, hyperglycemia, and islet\nhypertrophy on food consumption varies among these\nmice, but in all, the increase in islet volume and consequent fi-eell hyperplasia appears to be an effective\n\n247\n\nmeans of maintaining blood sugar concentrations at\nnear normal levels. I n contrast, neither the diabetic\nsand rat [5] nor the diabetic mouse has hypertrophied\nislets and neither effectively controls blood sugar levels."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "HV~MEI,: Studies with the Mutation, Diabetes\n\nalmost undetectable. Similarly, the activities of citrate\nlyase and glucose-6-phosphate dehydrogenase were\ngreatly decreased in these older diabetic as compared\n\nDiabetologia\n\nthe diabetic mice have attained m a x i m u m weight,\nafter which no further accumulation of adipose tissue\nis noted. Fig. 8."
+                }
+            ],
+            "b954224b-333b-4d82-bb9a-6e5b3837849e": [
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "Rodent models of monogenic obesity and diabetes\n\nObesity and the consequent insulin resistance is a major harbinger of Type 2 diabetes mellitus in humans.Consequently, animal models of obesity have been used in an attempt to gain insights into the human condition.Some strains maintain euglycaemia by mounting a robust and persistent compensatory β -cell response, matching the insulin resistance with hyperinsulinaemia.The ob / ob mouse and fa / fa rats are good examples of this phenomenon.Others, such as the db / db mouse and Psammomys obesus (discussed later) rapidly develop hyperglycaemia as their β -cells are unable to maintain the high levels of insulin secretion required throughout life.Investigation of these different animal models may help explain why some humans with morbid obesity never develop Type 2 diabetes whilst others become hyperglycaemic at relatively modest levels of insulin resistance and obesity."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\n\nAs with the KK mouse, the Israeli sand rat model is particularly useful when studying the effects of diet and exercise [120] on the development of Type 2 diabetes."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "Animal models of diabetes in pregnancy and the role of intrauterine environment\n\nAnother important field of diabetes research that has relied heavily on animal experimentation is the study of diabetes in pregnancy and the role of the intrauterine environment on the subsequent development of diabetes amongst offspring."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\n\nAnimal models of Type 2 diabetes mellitus"
+                }
+            ],
+            "ed1a5572-124a-4824-8b9c-5a540e5d6092": [
+                {
+                    "document_id": "ed1a5572-124a-4824-8b9c-5a540e5d6092",
+                    "text": "Assessment of Diabetes\n\nMice were monitored for the development of diabetes as described previously (Wicker et al. 1994)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "F2F9D8F0AD775EA291F0358E622D33D4",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "diabetes",
+            "obesity",
+            "insulin&resistance",
+            "glucose&intolerance",
+            "high-fat&diet",
+            "environmental&factors",
+            "mouse&models",
+            "genetic&background",
+            "intrauterine&environment",
+            "diet-induced&obesity"
+        ],
+        "metadata": [
+            {
+                "object": "Data suggest that secretion of insulin by beta-cells is related to insulin resistance in complex manner; insulin secretion is associated with type 2 diabetes in obese and non-obese subjects, but insulin resistance is associated with type 2 diabetes only in non-obese subjects. Chinese subjects were used in these studies.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab210958"
+            },
+            {
+                "object": "Data, including data from studies using knockout/transgenic mice, suggest that PrPC is involved in development of insulin resistance and obesity; PrPC knockout mice fed high-fat diet present all the symptoms associated with insulin resistance hyperglycemia, hyperinsulinemia, and obesity; transgenic mice overexpressing PrPC fed high-fat diet exhibit normal insulin sensitivity and reduced weight gain.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab215504"
+            },
+            {
+                "object": "The present study shows that elevated plasma levels of RBP4 were associated with diabetic retinopathy and vision-threatening diabetic retinopathy in Chinese patients with type 2 diabetes, suggesting a possible role of RBP4 in the pathogenesis of diabetic retinopathy complications. Lowering RBP4 could be a new strategy for treating type 2 diabetes with diabetic retinopathy .",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab851311"
+            },
+            {
+                "object": "FNDC5 attenuates adipose tissue inflammation and insulin resistance via AMPK-mediated macrophage polarization in HFD-induced obesity. FNDC5 plays several beneficial roles in obesity and may be used as a therapeutic regimen for preventing inflammation and insulin resistance in obesity and diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab299408"
+            },
+            {
+                "object": "WISP1 can be involved in glucose/lipid metabolism in obese youth, which may be modulated by IL-18. Increased WISP1 levels may be a risk factor of obesity and insulin resistance, and WISP1 has a potential therapeutic effect on insulin resistance in obese children and adolescents",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1017591"
+            },
+            {
+                "object": "Obesity interacted with the TCF7L2-rs7903146 on Type 2 DiabetesT2D prevalence. Association of TCF7L2 polymorphism with T2D incidence was stronger in non-obese than in obese subjects. TCF7L2 predictive value was higher in non-obese subjects. We created obesity-specific genetic risk score with ten T2D-polymorphisms and demonstrated for the first time their higher strata-specific predictive value for T2D risk.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab541919"
+            },
+            {
+                "object": "LCN-2 expression and serum levels could discriminate IGT from NGT and type 2 diabetes mellitus T2DMfrom IGT obese women and early predicting T2DM among obese women. While, LCN-2 expression level was the independent predictor of IGT in obese women. Combination of both LCN-2 expression and serum levels improved their diagnostic value in early detection of IGT and T2DM among obese women",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab445589"
+            },
+            {
+                "object": "Gestational obesity and gestational diabetes mellitus may contribute to elevated serum chemerin. Serum chemerin in pregnancy was associated with insulin resistance and triglycerides. Chemerin gene may play a role both in obese and gestational diabetes mellitus patients",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab321477"
+            },
+            {
+                "object": "SGNE1 genetic variation does not contribute to obesity and common forms of Type 2 diabetes but may worsen glucose intolerance and insulin resistance, especially in the background of severe and early onset obesity",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab702715"
+            },
+            {
+                "object": "our results indicate that UC-MSCs can alleviate insulin resistance in part via production of IL-6 that elicits M2 polarization. Additionally, human obesity and insulin resistance were associated with increased pro-inflammatory ATMs infiltration. Thus, MSCs may be a new treatment for obesity-related insulin resistance and T2D concerning macrophage polarized effects",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab560980"
+            }
+        ],
+        "question": "What environmental factors effect mice that also influence diabetes?",
+        "subquestions": null,
+        "task_id": "F2F9D8F0AD775EA291F0358E622D33D4",
+        "usage": {
+            "chatgpt": 6673,
+            "gpt-4": 3552,
+            "gpt-4-turbo-preview": 2599
+        },
+        "user_id": 2
+    },
+    "document_id": "F2F9D8F0AD775EA291F0358E622D33D4",
+    "task_id": "F2F9D8F0AD775EA291F0358E622D33D4"
+}

@@ -1,0 +1,146 @@
+{
+    "created_at": "2024-04-02T11:58:00.471434Z",
+    "data": {
+        "amplify": false,
+        "answer": "One would evaluate a candidate gene for mouse lifespan by conducting gene mapping methods and using mouse life span as a surrogate for aging. This involves studying the genetic contributions to mortality rates, conducting sex-specific analyses, and determining any changes in pathology associated with the loci. The study would involve a large population of mice, and the results would be compared to Mendelian expectations. Additionally, epigenetic predictors and differential methylation analysis could be used to assess the relationship between the gene and lifespan. The gene's influence on specific late-life diseases and its effect on the risk of these diseases would also be evaluated.",
+        "context": {
+            "0c6c0977-2cf9-4bbf-bc31-fe025f008089": [
+                {
+                    "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                    "text": "Funding: See page 22\nPreprinted: 24 June 2021\nReceived: 03 November 2021\nAccepted: 01 April 2022\nPublished: 07 April 2022\nReviewing Editor: Joris Deelen,\nMax Planck Institute for Biology\nof Ageing, Germany\n‍ ‍Copyright Mozhui et al. This\narticle is distributed under the\nterms of the Creative Commons\nAttribution License, which\npermits unrestricted use and\nredistribution provided that the\noriginal author and source are\ncredited. Editor's evaluation\nThis article used three newly generated epigenetic predictors to test how they differ between\ngenetically diverse mice from the BXD family (by looking at metabolic traits and lifespan)."
+                },
+                {
+                    "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                    "text": "Longevity data\nwas obtained from a parallel cohort of BXD mice housed in the same UTHSC colony, and members\nof this ‘longevity cohort’ were allowed to age until natural death (more detail on the longevity cohort\ncan be found in Roy et al. , 2021). Males were excluded and strain-­by-­diet lifespan summary statistics\nwere derived. Only strain-­by-­diet groups with five or more observations for lifespan were included in\nthe correlational analyses with the epigenetic predictors. Multivariable EWAS\nSite-­by-­site differential methylation analysis (EWAS) was performed on the 27,966 CpGs using a\nmultivariable regression model."
+                }
+            ],
+            "2464a084-1a11-44eb-8bce-4b344de049ff": [
+                {
+                    "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                    "text": "Funding: See page 22\nPreprinted: 24 June 2021\nReceived: 03 November 2021\nAccepted: 01 April 2022\nPublished: 07 April 2022\nReviewing Editor: Joris Deelen,\nMax Planck Institute for Biology\nof Ageing, Germany\n‍ ‍Copyright Mozhui et al. This\narticle is distributed under the\nterms of the Creative Commons\nAttribution License, which\npermits unrestricted use and\nredistribution provided that the\noriginal author and source are\ncredited. Editor's evaluation\nThis article used three newly generated epigenetic predictors to test how they differ between\ngenetically diverse mice from the BXD family (by looking at metabolic traits and lifespan)."
+                },
+                {
+                    "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                    "text": "Longevity data\nwas obtained from a parallel cohort of BXD mice housed in the same UTHSC colony, and members\nof this ‘longevity cohort’ were allowed to age until natural death (more detail on the longevity cohort\ncan be found in Roy et al. , 2021). Males were excluded and strain-­by-­diet lifespan summary statistics\nwere derived. Only strain-­by-­diet groups with five or more observations for lifespan were included in\nthe correlational analyses with the epigenetic predictors. Multivariable EWAS\nSite-­by-­site differential methylation analysis (EWAS) was performed on the 27,966 CpGs using a\nmultivariable regression model."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text":"Conclusions These results suggest a novel locus influencing survival in the B6/D2 genetic background, perhaps\nvia a metabolic disorder that emerges by 200 days of age in\nmale animals. Keywords\nPathology\n\nLongevity ␁ Lifespan ␁ Mouse ␁ Linkage ␁\n\nIntroduction\nLongevity, the quintessential complex trait, likely reflects\nall aspects of an organism’s life history. In humans, the\nestimated heritability of age at death is estimated at\n25–33 % [1]. Genetic contributions to mortality rates are\nthus of great interest and may aid in the understanding of\ndisease etiology and the process of aging itself [2]."
+                },
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Leduc MS, Hageman RS, Meng Q et al (2010) Identification of\ngenetic determinants of IGF-1 levels and longevity among mouse\ninbred strains. Aging Cell 9(5):823–836. doi:10.1111/j.14749726.2010.00612.x\n10. Lang DH, Gerhard GS, Griffith JW et al (2010) Quantitative trait\nloci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD)\nrecombinant inbred mice. Aging Clin Exp Res 22(1):8–19\n11. Gelman R, Watson A, Bronson R et al (1988) Murine chromosomal\nregions\ncorrelated\nwith\nlongevity. Genetics\n118(4):693–704\n12. Jackson AU, Galecki AT, Burke DT et al (2002) Mouse loci\nassociated with life span exhibit sex-specific and epistatic effects."
+                },
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Here, we have extended this analysis to search for\ngenotypes related to survival to the age of 800 days in a\npopulation of a reciprocal F2 cross between (B6) and (D2)\nmice. Since QTL for longevity in mice have shown strong\nsex specificity [10, 12], we conducted sex-specific analyses. In addition, we also determined whether there were\nany change in pathology changes associated with the loci\nthat showed frequency distortions with aging. To confirm\nthe associations of the loci of interest with longevity and\npathology, we performed replication analyses on a panel of\nBXD recombinant inbred strains."
+                },
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Methods We examined a population of 1200 mice that\nwere F2 generation offspring of a 4-way reciprocal cross\nbetween C57BL6/J and DBA2/J strains. Animals were\nsacrificed at age 200, 500, or 800 days and genotyped at 96\nmarkers. The 800 days old cohort, which were the survivors of a much larger breeding group, were examined for\nenriched frequency of alleles that benefit survival and depletion of alleles that reduce survival. Results Loci on Chr 13 in males and on Chr X in females\nwere significantly distorted from Mendelian expectations,\neven after conservative correction for multiple testing."
+                }
+            ],
+            "4851405f-bb2b-4406-a218-ffe408d257f8": [
+                {
+                    "document_id": "4851405f-bb2b-4406-a218-ffe408d257f8",
+                    "text": "Assessing epigenetic age in long-lived mice\n\nThe epigenetic-aging model was applied to the methylation profiles of long-lived mice and the age-matched controls not used for training (Additional file 2: Datasets used summary).Reductions in age were calculated by subtracting the epigenetic ages of the untreated, wild-type mice from those of the treated mice of the same genetic background.To assess the significance, we used an ANOVA for all 22-month-old mice or only 22-month-old UM-HET3 mice.We also compared the epigenetic ages between treatments with their agematched controls from the same genetic background using a t-test (Additional file 4: Treatment vs wild type stats)."
+                }
+            ],
+            "5b2055ca-65c0-49a5-a442-e4ea8d5e8efb": [
+                {
+                    "document_id": "5b2055ca-65c0-49a5-a442-e4ea8d5e8efb",
+                    "text": "Editor's evaluation\n\nThis article used three newly generated epigenetic predictors to test how they differ between genetically diverse mice from the BXD family (by looking at metabolic traits and lifespan).The authors subsequently identified several quantitative trait loci for the different predictors, using linkage analysis, and performed transcriptome and proteome analyses of liver and adipose tissue.The described results provide some important new insights on the underlying biology of epigenetic mouse aging and may be used to inform future studies in other model organisms and humans focused on studying the relationship between epigenetic aging and metabolism."
+                }
+            ],
+            "64886b4e-8599-4f61-84e6-9add7663a1b3": [
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": "352(6291): p. aad0189. Liao, C.Y. , et al. , Genetic variation in the murine lifespan response to dietary restriction: from life extension to life\nshortening. Aging Cell, 2010. 9(1): p. 92-5. Johnson, M., Laboratory Mice and Rats. Mater. Methods, 2012. 2: p. 113. Fontaine, D.A. and D.B. Davis, Attention to Background Strain Is Essential for Metabolic Research: C57BL/6 and\nthe International Knockout Mouse Consortium. Diabetes, 2016. 65(1): p. 25-33. Simon, M.M. , et al. , A comparative phenotypic and genomic analysis of C57BL/6J and C57BL/6N mouse strains. Genome Biol, 2013. 14(7): p. R82. Lilue, J., et al."
+                }
+            ],
+            "71cc1ce5-d23c-42cf-97b8-bb6110ed8d72": [
+                {
+                    "document_id": "71cc1ce5-d23c-42cf-97b8-bb6110ed8d72",
+                    "text": "Materials and Methods\n\nStudy Design.Female mice of the long-lived F 1 hybrid strain C3B10RF1 were fed and maintained as described (7).Briefly, mice were weaned at 28 days, individually housed, given free access to water, and randomly assigned to study groups.Comparisons between five groups of mice were used to determine the effects of aging and CR on gene expression.Control young (7-month-old; n ϭ 3) and old (27-month-old; n ϭ 3) mice were fed 95 kcal of a semipurified control diet (Harlan Teklad, Madison, WI; no.TD94145) per week after weaning.Long-term CR (LT-CR) young (7-month-old; n ϭ 3) and old (27-month-old; n ϭ 3) mice were fed 53 kcal of a semipurified CR diet (Harlan Teklad; no.TD94146) per week after weaning.Short-term CR (ST-CR) mice were 34-monthold control mice that were switched to 80 kcal of CR diet for 2 weeks, followed by 53 kcal for 2 weeks (n ϭ 3).The effects of age on gene expression in control mice were determined by comparison between results from the young control and the old control groups.The effects of LT-CR on gene expression were determined by comparison between results from the young control and the young LT-CR groups, and from the old control and the old LT-CR groups.The effects of ST-CR were determined by comparison between results from the old control and the ST-CR groups.Mice were fasted for 48 h before killing.Mice were killed by cervical dislocation, and the livers were rapidly excised and flash frozen in liquid nitrogen.No signs of pathology were detected in any of the animals used.All animal use protocols were approved by the institutional animal use committee of the University of California, Riverside."
+                }
+            ],
+            "75813bc2-f0b5-400c-92d7-0958df97a04f": [
+                {
+                    "document_id": "75813bc2-f0b5-400c-92d7-0958df97a04f",
+                    "text": "Accessing data resources in the mouse\nphenome database for genetic analysis of murine life span and health span. J.\nGerontol. A Biol. Sci. Med. Sci. 71 (2), 170–177. Brown, R.E. , Stanford, L., Schellinck, H.M., 2000. Developing standardized behavioral\ntests for knockout and mutant mice. ILAR J. 41 (3), 163–174. Bubier, J.A. , Jay, J.J., Baker, C.L. , Bergeson, S.E. , Ohno, H., Metten, P., Crabbe, J.C.,\nChesler, E.J. , 2014. Identiﬁcation of a QTL in Mus musculus for alcohol preference,\nwithdrawal, and Ap3m2 expression using integrative functional genomics and precision genetics. Genetics 197 (4), 1377–1393. Burn, C.C. , 2008."
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nOur own work has taken a different tack: we have attempted to determine whether mutations with differential effects on aging may be present within the many available populations of laboratory-adopted inbred mice.The goal is not so much to clone these genes-if indeed they existbecause positional cloning strategies of this kind require many thousands of animals and would be extremely expensive using an assay, age at death, that is itself so costly.Instead, the goal has been to use gene mapping methods to test hypotheses about aging and to develop new animal models that will be useful for testing well-specified hypotheses about the molecular basis for age-dependent changes.In the absence of a validated battery of biomarkers of aging, we (like most others) have reluctantly decided to use mouse life span as a crude surrogate for aging itself, reasoning that genetic alleles that extend life span well beyond the median for the tested population may be operating via an influence on aging itself.Work conducted using recombinant inbred mouse stocks (Gelman et al., 1988;de Haan and Van Zant, 1999) has suggested that life-span differences between pairs of inbred mouse lines might reflect the influence of as few as 4-7 polymorphic loci, providing some basis for hope that some of these would have an effect large enough to be detected by a genome scan experiment involving 300-1,200 mice."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nThe available dataset also provides examples in which genetic variants seem to influence the risk of specific late-life diseases.Figure 8-6, for example, shows longevity results for mice stratified by their inheritance at the 12th chromosome locus D12Mit167.This is a locus associated with differential longevity in both male and female mice, with the strongest effect (adjusted p < 0.01) seen in those mice living more than 657 days (Jackson et al., unpublished results).The longest-lived mice are those that inherit both the C57BL/6 allele from their mother and the C3H allele from their father; on average, they survive 93 days longer than siblings with the BALB plus C3H combination.Figure 8-6 shows that the D12Mit167, like the pair of loci illustrated in Figure 8-5, has significant and similar effects in mice dying of cancer (85 days) and in mice dying of non-neoplastic diseases (126 days).A more detailed analysis of the cancers, however, suggests that while lymphoma and hepatoma victims are equally protected by the favorable alleles (effect sizes of 93 and 167 days, respec-  mice of two subgroups: those dying of the urinary syndrome MUS, and those dying of all other causes.The genetic analysis contrasts mice with both the C57BL/6 allele at D4Mit84 and the C3H allele at D9Mit110 to mice with any of the three other allele combinations.In the males dying of causes other than MUS, this allele pair is associated with a 170-day increment in longevity (post-hoc p < 0.00003).But for males that do die of MUS, the same allele combination is associated with a 187-day decline in mean life span (post-hoc p < 0.03).This effect is thus pleiotropic, in that these alleles accelerate death in mice susceptible to MUS, while postponing death for all other males in the population.Although these loci are associated with differential longevity in mice that do develop MUS, they do not have a significant effect on the chances that MUS will indeed occur (not shown).The risk of developing MUS seems to be under control of a separate locus on chromosome 6.As shown in the bottom panel of Figure 8-7, males that inherit the C3H allele at D6Mit268 are far more likely to develop MUS (28 percent risk) than are their brothers who receive the DBA/2 allele at this locus (7 percent risk; p = 0.012 by two-tailed Fisher's exact test)."
+                }
+            ],
+            "ce270796-8098-48e6-afe2-ad285a75bce2": [
+                {
+                    "document_id": "ce270796-8098-48e6-afe2-ad285a75bce2",
+                    "text": "Previously, the methylation status of CpG sites within the genes Prima1, Hsf4,\nKcns1 was shown to qualify as a reliable predictor of\nchronological age of B6 mice.10 This same study also\nrevealed enhanced epigenetic aging of the D2 strain in\naccordance with its general reduced mean life span, supporting the possibility that the panel might also serve as a\nmarker for the biological age in mice. Applying this B6trained marker panel to our (congenic) experimental\nstrains, we observed that epigenetic age predictions correlated with chronological age in B6 (R2=0.93) and line A\nmice (R2=0.89)."
+                }
+            ],
+            "ce2c68bf-878d-460c-8d9b-d45ce3034ef7": [
+                {
+                    "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                    "text": "34. Gelman R, Watson A, Bronson R & Yunis E Murine chromosomal regions correlated with\nlongevity. Genetics 118, 693–704 (1988). [PubMed: 3163317]\n35. Houtkooper RHet al.The metabolic footprint of aging in mice. Sci. Rep1, (2011). 36. Houtkooper RHet al.Mitonuclear protein imbalance as a conserved longevity mechanism. Nature497, 451–457 (2013). [PubMed: 23698443]\n37. Williams EGet al.An Evolutionarily conserved role for the aryl hydrocarbon receptor in the\nregulation of movement. PLOS Genet. 10, e1004673 (2014). [PubMed: 25255223]\n38. Lang DHet al.Quantitative trait loci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD)\nrecombinant inbred mice. Aging Clin. Exp. Res. 22, 8–19 (2010)."
+                }
+            ],
+            "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748": [
+                {
+                    "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                    "text": "For females, hairs of the congenic mice grew 31% faster, also highly significant (P =\n0.0006, 1-tailed). These results validated the presence of a gene in the differential region\naffecting FE. Discussion\nWe report the outcomes of a quantitative genetic study on aging and longevity in the mouse. We studied an extant series of recombinant inbred strains (ILSXISS) that have been used\nboth in DR aging studies as well as to study alcohol sensitivity (Williams et al. , 2004)."
+                }
+            ],
+            "efd5747f-9e8b-45e8-9e04-bb31131d44fa": [
+                {
+                    "document_id": "efd5747f-9e8b-45e8-9e04-bb31131d44fa",
+                    "text": "FOURTH STEP: MEDICAL TESTING OF CANDIDATE DRUGS\n\nMany genes are common between fruit flies and mammals, but by no means all.Therefore, it is important to test biochemical pathways that work in fruit flies with mammals.Mice are the system of choice, as they have relatively short lifespans (2 -3 years) and a great deal is known of their genetics.Mortality rate measurements, like those studied in fruit flies, [10] might speed up mouse trials to just 6-12 months.Mouse trials would also help address issues of safety, such as liver and kidney toxicity, before going on to human trials."
+                }
+            ],
+            "f377428d-564d-4d5b-b86c-515b9325134f": [
+                {
+                    "document_id": "f377428d-564d-4d5b-b86c-515b9325134f",
+                    "text": "Experimental Procedures\n\nMouse Breeding, Maintenance, and Longevity.Cdc42GAP Ϫ/Ϫ and p53 Ϫ/Ϫ mice were generated as previously described (6,35), and the mice used in the studies were mixed C57BL/6 ϩ/Ϫ 129/Sv inbred.Littermates of different genotypes were housed and fed freely with standard mouse chow over their life span in a pathogen-free environment and were monitored for vitality and longevity.Mice exhibiting extreme morbidity were euthanized and subjected to necropsy.All animal procedures were approved by the Institutional Animal Care and Use Committee at the Children's Hospital Research Foundation."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "7163C22AFA8EE292590331B6E6B7B173",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "C57BL6/J&DBA2/J",
+            "F2&generation",
+            "mice",
+            "lifespan",
+            "longevity",
+            "genetic",
+            "alleles",
+            "chromosome&13&males",
+            "chromosome&X&females",
+            "Mendelian&expectations"
+        ],
+        "metadata": [],
+        "question": "How would one evaluate a candidate gene for mouse lifespan?",
+        "subquestions": null,
+        "task_id": "7163C22AFA8EE292590331B6E6B7B173",
+        "usage": {
+            "chatgpt": 7619,
+            "gpt-4": 5028,
+            "gpt-4-turbo-preview": 4003
+        },
+        "user_id": 2
+    },
+    "document_id": "7163C22AFA8EE292590331B6E6B7B173",
+    "task_id": "7163C22AFA8EE292590331B6E6B7B173"
+}

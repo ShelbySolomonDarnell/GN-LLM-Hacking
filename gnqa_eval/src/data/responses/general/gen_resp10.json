@@ -1,0 +1,152 @@
+{
+    "created_at": "2024-04-01T12:16:23.401343Z",
+    "data": {
+        "amplify": false,
+        "answer": "The difference between X and Y DNA is not explicitly discussed in the context of determining QTLs in the provided text. However, in general, X and Y chromosomes are different in size and gene content, which can be identified through genetic sequencing. In the context of QTL studies, these differences could potentially influence the traits being studied. However, the specific process of how this is done in QTL mapping is not detailed in the provided text.",
+        "context": {
+            "13036fc5-c31c-4d21-a5f0-5ddfe11663d2": [
+                {
+                    "document_id": "13036fc5-c31c-4d21-a5f0-5ddfe11663d2",
+                    "text": "Genetic mapping in\nmouse strains enhances the power of detecting modifier genes and identifying complex\ngenetic interactions. Genomewide quantitative trait locus (QTL) analysis, as described in\nmore detail below, represents a promising approach to detect genetic variants that are\nassociated with specific phenotypes and interact with each other. 16\nACCEPTED MANUSCRIPT\nIn experimental crosses of two (inbred) strains the first generation (F1) of\noffsprings is genetically heterozygous but equal. Then in the next generation (F2) the\n\nPT\n\nstrain-specific genetic information is distributed across the genomes of their progeny and\n\nRI\n\neach offspring is genetically unique."
+                }
+            ],
+            "1fb6e4db-79c1-49c9-a358-3414f6a674da": [
+                {
+                    "document_id": "1fb6e4db-79c1-49c9-a358-3414f6a674da",
+                    "text": "Second, and perhaps more\nimportant, is the difference in the size and types of the\ngenetic reference populations. In our previous study, we\nmapped the QTL with 36 F2 mice that were genotyped at\n82 markers. In the current study, by comparison, we were\nable to map QTLs after examining 342 mice from 55 strains\nthat were genotyped at approximately 4000 markers."
+                }
+            ],
+            "27e14ff3-b5a5-4f60-80a2-eaa2ab53e991": [
+                {
+                    "document_id": "27e14ff3-b5a5-4f60-80a2-eaa2ab53e991",
+                    "text": "This contrast can be exploited to identify subregions that underlie the trans-QTLs [67]. SNPs were counted for all four pairs of parental haplotypes—B\nvs D, B vs H, B vs C, and L vs S—and SNP profiles for the four\ncrosses were compared (figure 6). Qrr1 is a highly polymorphic\nPLoS Genetics | www.plosgenetics.org\n\n8\n\nNovember 2008 | Volume 4 | Issue 11 | e1000260\nQTL Hotspot on Mouse Distal Chromosome 1\n\nFigure 5. QTL for aminoacyl-tRNA synthetases in distal Qrr1."
+                }
+            ],
+            "3485665e-4e33-481a-943e-d0fcb7c2f2ac": [
+                {
+                    "document_id": "3485665e-4e33-481a-943e-d0fcb7c2f2ac",
+                    "text": "The traditional approach to QTL mapping is to use\ntwo strains that differ maximally in the phenotype as\nparental strains for genetic crosses, with the following\ncaveats. QTL analysis based on a single cross will most\nlikely reflect only a small portion of the net genetic\nvariation, and QTL detection will be limited to regions\nwhere the two progenitor strains have functional polymorphisms. Data from multiple crosses, or from an HS,\nwill overcome this limitation and can also be used to\nreduce QTL intervals [5,30]."
+                }
+            ],
+            "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce": [
+                {
+                    "document_id": "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce",
+                    "text":"These candidate genes are then sequenced in the two parental inbred\nstrains looking for sequence di¡erences in coding or regulatory regions. After ¢ne mapping the QTL interval and shortening the list of plausible\ncandidate polymorphisms, the major challenge remains ␁ proving de¢nitively\nwhich nucleotide polymorphism underlies the QTL. The most direct proof\nwould be replacing one strain’s allele with another strain’s allele (creating a\nFIG. 1. Intercross breeding strategy for mapping quantitative trait loci (QTLs). On the right, the parental, F1 hybrid, and intercross (F2) mouse\ngenerations are depicted."
+                }
+            ],
+            "516cc395-4e7c-4371-9444-24edb56a7233": [
+                {
+                    "document_id": "516cc395-4e7c-4371-9444-24edb56a7233",
+                    "text": "Furthermore, splicing QTLs\n(sQTLs) rather than eQTLs could comprise the molecular mechanism linking DNA variants with YFP53; thus, sQTL analysis could uncover genes that would not normally be\ndetected at the level of differential gene expression (DGE),53 and thus, a differentially\n\n181\n182\n\nMolecular-Genetic and Statistical Techniques for Behavioral and Neural Research\n\nFigure 8.5 Schematic for immediate, rapid ﬁne mapping in select F2 recombinants of the RCC-F2\ncross. Top panel: Genome-wide signiﬁcant QTL (green trace; red dashed line ¼ signiﬁcance threshold;\nblue vertical lines ¼ Bayes credible interval)."
+                }
+            ],
+            "7dc4230d-c0a3-484b-9fb4-04d5ff09956b": [
+                {
+                    "document_id": "7dc4230d-c0a3-484b-9fb4-04d5ff09956b",
+                    "text": "Interval-specific haplotype analysis\nApproximately 97% of the genetic variation between\ninbred mouse strains is ancestral [22], so regions of\nidentity by descent (IBD) between two strains used to\ndetect a QTL are highly unlikely to contain the causal\ngenetic polymorphism underlying the QTL [28]. For\nexample, a cross between C57BL/6J and A/J mice detected\nwww.sciencedirect.com\n\na blood pressure QTL on Chr 1 [7]."
+                }
+            ],
+            "80eb54fe-0d83-4300-9fba-e17ce5d1e5b4": [
+                {
+                    "document_id": "80eb54fe-0d83-4300-9fba-e17ce5d1e5b4",
+                    "text": "Interval-specific haplotype analysis\nApproximately 97% of the genetic variation between\ninbred mouse strains is ancestral [22], so regions of\nidentity by descent (IBD) between two strains used to\ndetect a QTL are highly unlikely to contain the causal\ngenetic polymorphism underlying the QTL [28]. For\nexample, a cross between C57BL/6J and A/J mice detected\nwww.sciencedirect.com\n\na blood pressure QTL on Chr 1 [7]."
+                }
+            ],
+            "92fa8f50-2923-41a1-812b-32d931c71684": [
+                {
+                    "document_id": "92fa8f50-2923-41a1-812b-32d931c71684",
+                    "text": "At present, the BXD panel is composed of 80 different strains that all have been\nfully genotyped.26 Variation in any quantifiable trait can be associated with the\nsegregation of parental alleles, and linkage genetics can map this variation to\nquantitative trait loci (QTLs), thereby identifying the genomic region(s) affecting\nthat trait. An overview of the QTL mapping approach is depicted in Figure 2. Classical QTL analysis has permitted the identification of loci that are\nassociated with variation in HSC traits."
+                }
+            ],
+            "9981a933-8fdf-4107-a6fd-3f9ef71f5d08": [
+                {
+                    "document_id": "9981a933-8fdf-4107-a6fd-3f9ef71f5d08",
+                    "text": "In general,\nlinking genetic variation with trait variation identifies QTL and a significant linkage of\nphenotype and genotype suggest that the DNA status helps to determine trait expression. As stated above, mouse QTL studies provide distinct advantages over human studies\nin the examination of genetic causes of a quantitative trait (e.g. alcoholism), even in the\nabsence of specific hypotheses regarding its aetiology or candidate genes."
+                },
+                {
+                    "document_id": "9981a933-8fdf-4107-a6fd-3f9ef71f5d08",
+                    "text": "The progenitor mouse strains\nshould have sufficient variation for the traits of interest and they should be genetically diverse\nenough to enable genetic mapping (BENNETT et al. 2006; FLINT 2003; GRISEL 2000). The\nsample size required for the identification of QTL depends largely on the effect size that a\nQTL contributes to phenotypes on interest. Inference about QTL can be made if one or more\ngenetic markers are over- or underrepresented in the analysed individuals. Genotyping is\noften done by means of microsatellite markers, which contains mono, di-, tri-, or\ntetranucleotide tandem repeats flanked by specific sequences (Figure 4a)."
+                },
+                {
+                    "document_id": "9981a933-8fdf-4107-a6fd-3f9ef71f5d08",
+                    "text": "This comparison gives information about the reliability of the observed genotype\ninformation: The more the marker locations differ between the two maps (which signifies\nvariation in marker positions), the higher the possibility of genotyping errors. QTL mapping was done in several stages to identify loci acting individually and QTL that\ninteracted, either additively or epistatically. To determine individually-acting QTL, a singleQTL genome scan was conducted with the function scanone."
+                }
+            ],
+            "9b830769-1d42-4dce-b529-4e07902c0743": [
+                {
+                    "document_id": "9b830769-1d42-4dce-b529-4e07902c0743",
+                    "text": "Importantly, whereas\nthese studies required substantial labor, time, and resources, X-QTL is a quick and easy\napproach to achieve a comparable level of genetic dissection. The levels of complexity\nobserved here (e.g. 14 loci explaining 70% of the genetic variance for 4-NQO resistance) are\nstill dramatically lower than those seen in for some human traits in GWAS (e.g. 40 loci\nexplaining 5% of the variance for height 2,5). One obvious explanation is the difference in\nexperimental designs (line crosses vs. population association studies), but differences in\ngenetic architectures among species and traits may also contribute."
+                }
+            ],
+            "a64778cd-bff8-43dd-b5a3-d608ab8f4828": [
+                {
+                    "document_id": "a64778cd-bff8-43dd-b5a3-d608ab8f4828",
+                    "text": "The method uses two pieces of information: mapping data from crosses that\ninvolve more than two inbred strains and sequence variants in the progenitor strains within the interval\ncontaining a quantitative trait locus (QTL). By testing whether the strain distribution pattern in the progenitor strains is consistent with the observed genetic effect of the QTL we can assign a probability that any\nsequence variant is a quantitative trait nucleotide (QTN). It is not necessary to genotype the animals except\nat a skeleton of markers; the genotypes at all other polymorphisms are estimated by a multipoint analysis."
+                }
+            ],
+            "c2efeeee-f71a-4292-8240-80a4518f820d": [
+                {
+                    "document_id": "c2efeeee-f71a-4292-8240-80a4518f820d",
+                    "text": "The method uses two pieces of information: mapping data from crosses that\ninvolve more than two inbred strains and sequence variants in the progenitor strains within the interval\ncontaining a quantitative trait locus (QTL). By testing whether the strain distribution pattern in the progenitor strains is consistent with the observed genetic effect of the QTL we can assign a probability that any\nsequence variant is a quantitative trait nucleotide (QTN). It is not necessary to genotype the animals except\nat a skeleton of markers; the genotypes at all other polymorphisms are estimated by a multipoint analysis."
+                }
+            ],
+            "d1f04d58-2589-4183-aee4-569820dae052": [
+                {
+                    "document_id": "d1f04d58-2589-4183-aee4-569820dae052",
+                    "text": "Genotyping all the individual progeny for\nmarkers that show allelic variation between the parental strains (either single nucleotide polymorphisms or simple sequence repeats) will allow the detection of associations between trait values and marker genotype, and in this way demonstrate to which\nset of markers a QTL is linked. To reduce the genotyping effort, selective genotyping\nof the individuals at the extremes of the phenotypic spectrum can be performed (20,23). Although these three approaches are in general considered to be the best to detect and\nmap QTL, they have several disadvantages for quantitative traits involving HSC."
+                }
+            ],
+            "da485354-fcdc-49b8-9a41-0f673610156a": [
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "So, how do you go about planning and performing a QTL study, and how\ndo you identify the responsible gene within a QTL that you have identified? Generally, one starts by performing a strain survey to find two parental inbred\nstrains that have a markedly different trait. One can now look up many different\ntraits of inbred mice online at the Mouse Phenome Database (http://phenome. jax.org/pub-cgi/phenome/mpdcgi?rtn=docs/home). However, the trait you may\nwant to study may not be present in wild type mice, so you may want to cross\na mutant (or genetically engineered) strain onto several inbred strains."
+                },
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "QTL Theory and Planning\nThe theory behind the most basic form of QTL mapping is based upon intercrossing two inbred strains. The mouse genome consists of 19 pairs of autosomes (non sex-determining chromosome) and the X and Y chromosomes. In\nthe example shown in Fig. 18.1, we are intercrossing stain A (shown with a\nblack chromosome pair) with strain B (shown with a white chromosome pair). The initial F1 (filial generation 1) mice are true hybrids, with each individual\n\nFrom: Molecular Biomethods Handbook, 2nd Edition."
+                }
+            ],
+            "f253e087-e030-40a8-8400-3b6bf50c1fd6": [
+                {
+                    "document_id": "f253e087-e030-40a8-8400-3b6bf50c1fd6",
+                    "text":"These candidate genes are then sequenced in the two parental inbred\nstrains looking for sequence di¡erences in coding or regulatory regions. After ¢ne mapping the QTL interval and shortening the list of plausible\ncandidate polymorphisms, the major challenge remains ␁ proving de¢nitively\nwhich nucleotide polymorphism underlies the QTL. The most direct proof\nwould be replacing one strain’s allele with another strain’s allele (creating a\nFIG. 1. Intercross breeding strategy for mapping quantitative trait loci (QTLs). On the right, the parental, F1 hybrid, and intercross (F2) mouse\ngenerations are depicted."
+                }
+            ],
+            "f4e26cf0-d214-41bf-b392-9c63a903b0b8": [
+                {
+                    "document_id": "f4e26cf0-d214-41bf-b392-9c63a903b0b8",
+                    "text": "QTL mapping studies then\nseek to detect the polymorphisms underlying the complex traits of interest by\nscanning for alleles that co-vary with\nthe traits. Similar experiments also can be conducted with special derivatives of inbred\nstrains known as recombinant inbred\n(RI) mice. These animals are derived\nby cross-breeding two or more distinct\nparental strains (which often diverge\nwidely for the trait of interest), followed\nby inbreeding of the offspring for several\ngenerations (Bailey 1971). Given the\ncorrect breeding strategy, this method\n1\n\nThis is an issue faced by GWASs researchers when classifying\nsamples as cases or controls."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "1F8BA9562D43754B872EEE810B6D5676",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "QTL",
+            "DNA",
+            "mapping",
+            "genotype",
+            "phenotype",
+            "inbred&strains",
+            "polymorphism",
+            "allele",
+            "genetic&variation",
+            "quantitative&trait&loci"
+        ],
+        "metadata": [],
+        "question": "How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs?",
+        "subquestions": null,
+        "task_id": "1F8BA9562D43754B872EEE810B6D5676",
+        "usage": {
+            "chatgpt": 4992,
+            "gpt-4": 3589,
+            "gpt-4-turbo-preview": 2616
+        },
+        "user_id": 2
+    },
+    "document_id": "1F8BA9562D43754B872EEE810B6D5676",
+    "task_id": "1F8BA9562D43754B872EEE810B6D5676"
+}

@@ -1,0 +1,150 @@
+{
+    "created_at": "2024-04-02T12:31:43.259395Z",
+    "data": {
+        "amplify": false,
+        "answer": "The study identified 10 genomic loci which influence healthspan, parental lifespan, and longevity. These include loci near FOXO3, SLC4A7, LINC02513, ZW10, and FGD6. The life-extending variant near FOXO3 is associated with a delay in the age at menarche, suggesting a possible sex-specific effect. However, the study did not perform sex-stratified analyses, so it's unclear if there are other sex-specific longevity-related genetic variants.",
+        "context": {
+            "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7": [
+                {
+                    "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                    "text": "\n\nIn one case, a gene identified by mutation recovered from a genetic screen in the laboratory, methuselah, may have variants in natural populations.In particular, the common ATATC haplotype has a sharp geographic (north-south) cline in U.S. populations, which, intriguingly, is associated with an 18% difference in life span (97).It would be interesting to examine these natural populations for differences in their reproductive schedule.Extensive studies show that life span can be rapidly selected as an indirect outcome of artificial selection for age at reproduction.Samples from natural populations of Drosophila contain genetic variants that can be rapidly selected, within 15 generations, for 50% or greater differences in life span on the basis of choosing individuals that are reproductive at early versus later ages (93).Selection was reversible, indicating that these life history variants depended on existing gene combinations not new mutations.Among the genes that differed in quantitative expression between young-and old-selected lines were heat shock proteins, e.g., hsp 22 (60).An overarching conclusion from fly aging genetics is that stress resistance is coupled to longevity (94), as in C. elegans.Other gene candidates are being sought by QTL analysis and show complex interactions with gender and population density (17,115)."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Murabito JM, Yuan R, Lunetta KL (2012) The search for\nlongevity and healthy aging genes: insights from epidemiological\nstudies and samples of long-lived individuals. J Gerontol A Biol\nSci Med Sci 67(5):470–479. doi:10.1093/gerona/gls089\n20. Nuzhdin SV, Pasyukova EG, Dilda CL et al (1997) Sex-specific\nquantitative trait loci affecting longevity in Drosophila melanogaster. Proc Natl Acad Sci USA 94(18):9734–9739\n21. Gems D, Riddle DL (2000) Genetic, behavioral and environmental determinants of male longevity in Caenorhabditis elegans. Genetics 154(4):1597–1610\n\n123\n\n22."
+                }
+            ],
+            "4f709611-ea0b-4bcc-a634-df5d518ccb54": [
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nSomatic mutations with the inherited gene variations of each individual cumulatively or synergistically influence the health span and life span [11].Very few genetic variants have been associated with human longevity, but those found include the transcription factor FOXO3 gene, the APOE/TOMM40 and the CDKN2B/ ANRIL loci, which are associated with Alzheimer's disease and cellular senescence [12][13][14].In fact, the heritability for human longevity has been estimated to be approximately 20-30%, according to studies of twins, suggesting that external factors such as diet, environment, physical activity and microbiomes are important factors that influence the health span [14][15][16].The increase in the rate of retrotranscription reflects genome deregulation, creating additional mutations, DNA damage, and other forms of genome instability.For instance, the expression of several families of retrotransposable elements increases with age, as observed in mouse skeletal muscle and human fibroblasts, particularly the long interspersed nuclear element-1 (L1 LINE) [17,18]."
+                }
+            ],
+            "57e2d0f5-c5eb-4ba6-8101-5bacaed53cb4": [
+                {
+                    "document_id": "57e2d0f5-c5eb-4ba6-8101-5bacaed53cb4",
+                    "text": "\n\nOur study has several limitations.First, we did not analyse the sex and mitochondrial chromosomes, since we were unable to gather enough cohorts that could contribute to the analysis of these chromosomes.However, these chromosomes may harbour loci associated with longevity that we thus have missed.Second, although we included as many cohorts as possible, the sample size of our study is still relatively small (especially for the 99th percentile analysis) in comparison to GWA studies of age-related diseases, such as T2D and cardiovascular disease, and parental age at death 11,51,52 .Hence, this limited our power to detect loci with a low MAF (<1%) that contribute to longevity.Third, we did not perform sex-stratified analyses and may thus have missed sexspecific longevity-related genetic variants.The reason for this is that (1) we only identified a limited number of suggestive significant associations in our unstratified 90th and 99th percentile analyses, (2) our sample size is modest (especially when stratified by sex), and (3) thus far, there has been no report of any genomewide significant sex-specific longevity locus."
+                }
+            ],
+            "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7": [
+                {
+                    "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                    "text": "\n\nIn most experimentally modified animal model systems, single-gene mutations in many different genes have major life extension effects (Fontana et al., 2010;Kenyon, 2010).However, natural human and animal longevity is presumed to be a complex trait (Finch & Tanzi, 1997).In humans, both candidate gene and genome-wide genetic association approaches have been applied in an attempt to identify longevity loci.The frequency of genetic variants has been typically compared between nonagenarian cases and young controls, revealing loci at which genetic variants may contribute to a higher or lower probability of survival into old age.The initial candidate gene studies aimed at finding human longevity genes were dominated by contradictory results (Christensen et al., 2006).The more consistent evidence obtained by repeated observation in independent cohort studies for association with longevity has so far only been observed for three loci, the apolipoprotein E (APOE) locus (Schachter et al., 1994;Christensen et al., 2006), the FOXO3A locus (Willcox et al., 2008;Flachsbart et al., 2009;Pawlikowska et al., 2009;Soerensen et al., 2010), and the AKT1 locus (Pawlikowska et al., 2009).Thus, despite the expectation that longevity would be influenced by many genetic variants with small effect sizes, the effect of variants has consistently been shown in only three genes."
+                }
+            ],
+            "690a2ae6-962a-438c-91ca-60425a0c8d02": [
+                {
+                    "document_id": "690a2ae6-962a-438c-91ca-60425a0c8d02",
+                    "text": "\n\nPreviously, it has been suggested that genetic variation in the FOXO1 gene is specifically contributing to human female longevity (reviewed in Chung et al., 2010).However, at chromosome 13q14.11harboring the FOXO1 gene we found no evidence for linkage with female longevity (LOD<0.05)and at the gene position of FOXO1 we found no evidence for association in the females-only metaanalysis (p-values>0.042) in the GEHA Study.Potentially, the effect of this locus is not only influenced by gender but also by genetic background."
+                }
+            ],
+            "6b2dba7c-0249-448e-9e84-92de7088109b": [
+                {
+                    "document_id": "6b2dba7c-0249-448e-9e84-92de7088109b",
+                    "text": ", 2003), to study GXE and\nconsequences of treatments as a function of age, diet, and sex (Fleet et al. , 2016; Philip et\nal. , 2010; Roy et al. , 2020; Sandoval-Sierra et al. , 2020; Williams et al. , 2016, 2020), gene\npleiotropy (Wang et al. , 2016a), and to test behavioral predictions based on differences in\nbrain architecture (Yang et al. , 2008). Author Manuscript\nAuthor Manuscript\n\nHere we summarize the current status of this resource with a focus on genetic structure, and\non the power and precision of mapping trait variance to loci and genes."
+                }
+            ],
+            "7f23af74-95a3-46aa-bd61-629d2cfc2073": [
+                {
+                    "document_id": "7f23af74-95a3-46aa-bd61-629d2cfc2073",
+                    "text": "\n\nSomatic mutations with the inherited gene variations of each individual cumulatively or synergistically influence the health span and life span [11].Very few genetic variants have been associated with human longevity, but those found include the transcription factor FOXO3 gene, the APOE/TOMM40 and the CDKN2B/ ANRIL loci, which are associated with Alzheimer's disease and cellular senescence [12][13][14].In fact, the heritability for human longevity has been estimated to be approximately 20-30%, according to studies of twins, suggesting that external factors such as diet, environment, physical activity and microbiomes are important factors that influence the health span [14][15][16].The increase in the rate of retrotranscription reflects genome deregulation, creating additional mutations, DNA damage, and other forms of genome instability.For instance, the expression of several families of retrotransposable elements increases with age, as observed in mouse skeletal muscle and human fibroblasts, particularly the long interspersed nuclear element-1 (L1 LINE) [17,18]."
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "The Height-Life Span Nexus\n\nSeveral observations and lines of experimentation have raised the issue of whether interindividual differences in aging rate are influenced by genes that modulate body size and early-life growth patterns.These include (a) the association between small stature and exceptional longevity in calorically restricted rodents (Yu et al., 1985), methionine-restricted rats (Orentreich et al., 1993), and mutant dwarf mice (Brown-Borg et al., 1996;Miller, 1999); and (b) the association between small body size and longer life span in natural populations of mice (Falconer et al., 1978), flies (Hillesheim and Stearns, 1992), dogs (Li et al., 1996), and, possibly, people (Samaras andStorms, 1992).The correlation in dogs is particularly striking: selective breeding for dogs of different body size has produced breeds varying in size from Chihuahua to Irish wolfhound.These breeds also vary greatly in mean longevity, from approximately 7 to 10.5 years, and the correlation between breed longevity and breed body weight (Miller, 1999) is a remarkable R 2 = 0.56.These differences are genetic and affect stature rather than obesity: no amount of overeating will convert a West Highland white terrier to a St. Bernard.The selective pressures applied were designed to create dogs of specific sizes and temperaments and were not intended to influence aging rate or life span.The clear implication is that the effects on longevity are pleiotropic, i.e., that genes selected for their effect on body size and conformation influenced life span as a side effect.It is of interest to note that the few analyses (Eigenmann et al., 1984(Eigenmann et al., , 1988) ) of the hormonal basis for interbreed differences in body size have shown that the genes in question influence levels of IGF-1, the most likely mediator of the life-span effects in the long-lived df/df and dw/dw mouse mutants.Could it be mere coincidence that long-lived mutant nematode worms (Kimura et al., 1997) also show mutations in genes related to insulin and IGF-1 receptors?"
+                }
+            ],
+            "9fed8fd1-fce5-4fc1-9911-05d312f88521": [
+                {
+                    "document_id": "9fed8fd1-fce5-4fc1-9911-05d312f88521",
+                    "text": "\n\nThe antagonistic pleiotropy and hyperfunction theories of ageing predict the presence of genetic variants important for growth and development in early life with deleterious effects towards the end of the reproductive window 19,20 .While we are unable to directly capture the genetic effects on individuals before age 40 due to the study design of our datasets, we found that the life-extending variant near FOXO3 is associated with a delay in the age at menarche and a decrease in intracranial volume and cognitive abilities.It thus appears that there are loci exhibiting antagonistic effects, although we are unable to discern whether this is due to true pleiotropy or due to linkage of causal variants within a region  Genes which showed a significant effect (FDR < 5%) of gene expression on ageing traits are displayed here.Gene names are annotated with the direction of effect, where + andindicate whether the life-extending association of the locus is linked with higher or lower gene expression, respectively.Locus: nearest gene to lead variant in the multivariate analysis, Chr: chromosome, Position: base-pair position of lead variant (GRCh37), Cis-genes: genes in physical proximity (<500 kb) to the lead variant of the locus which colocalise with the multivariate signal, Trans-genes: genes located more than 500 kb from the lead variant of the locus."
+                },
+                {
+                    "document_id": "9fed8fd1-fce5-4fc1-9911-05d312f88521",
+                    "text": "\nAgeing phenotypes, such as years lived in good health (healthspan), total years lived (lifespan), and survival until an exceptional old age (longevity), are of interest to us all but require exceptionally large sample sizes to study genetically.Here we combine existing genome-wide association summary statistics for healthspan, parental lifespan, and longevity in a multivariate framework, increasing statistical power, and identify 10 genomic loci which influence all three phenotypes, of which five (near FOXO3, SLC4A7, LINC02513, ZW10, and FGD6) have not been reported previously at genome-wide significance.The majority of these 10 loci are associated with cardiovascular disease and some affect the expression of genes known to change their activity with age.In total, we implicate 78 genes, and find these to be enriched for ageing pathways previously highlighted in model organisms, such as the response to DNA damage, apoptosis, and homeostasis.Finally, we identify a pathway worthy of further study: haem metabolism."
+                },
+                {
+                    "document_id": "9fed8fd1-fce5-4fc1-9911-05d312f88521",
+                    "text": "\n\nHere, we assess the degree of genetic overlap between published GWAS of three different kinds of ageing phenotypeshealthspan, parental lifespan, and longevity (defined as survival to an age above the 90th percentile)-and perform a multivariate meta-analysis to identify genetic variants related to healthy ageing.We subsequently characterise the sex-and age-specific effects of loci which affect all three ageing traits and look up reported associations with age-related phenotypes and diseases.Finally, we link the observed signal in these loci to the expression of specific genes, including some that are currently studied in model organisms, and identify pathways involved in healthy ageing."
+                },
+                {
+                    "document_id": "9fed8fd1-fce5-4fc1-9911-05d312f88521",
+                    "text": "\n\nAgeing phenotypes, such as years lived in good health (healthspan), total years lived (lifespan), and survival until an exceptional old age (longevity), are of interest to us all but require exceptionally large sample sizes to study genetically.Here we combine existing genome-wide association summary statistics for healthspan, parental lifespan, and longevity in a multivariate framework, increasing statistical power, and identify 10 genomic loci which influence all three phenotypes, of which five (near FOXO3, SLC4A7, LINC02513, ZW10, and FGD6) have not been reported previously at genome-wide significance.The majority of these 10 loci are associated with cardiovascular disease and some affect the expression of genes known to change their activity with age.In total, we implicate 78 genes, and find these to be enriched for ageing pathways previously highlighted in model organisms, such as the response to DNA damage, apoptosis, and homeostasis.Finally, we identify a pathway worthy of further study: haem metabolism."
+                }
+            ],
+            "adf2d31e-e83d-47df-97af-3764e42aa80e": [
+                {
+                    "document_id": "adf2d31e-e83d-47df-97af-3764e42aa80e",
+                    "text": "LongevityMap--human genetic variants associated with longevity\n\nVariation in human lifespan has been found to be 20-30% heritable, with increasing heritability at advanced ages (27).As next-generation sequencing and genome-wide approaches advance, so does the capacity for performing longevity association studies.To catalog the increasing volume of data in genetic studies of human longevity, we created LongevityMap (http://genomics.senescence.info/longevity/), a database of genes, gene variants and chromosomal locations associated with longevity (28).This differs from the GenAge database, which focuses mostly on data from model organisms and the few genes associated with human ageing (e.g.genes causing progeroid syndromes)."
+                }
+            ],
+            "b0e49b4c-954d-476a-ba3a-0215e63c98b6": [
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "\n\nGenes/loci identified by genome-wide association studies of longevity and lifespan traits."
+                },
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "ANALYSIS OF HUMAN VARIATION IN THE GENETIC CONTROL OF LONGEVITY\n\nHeritability studies have convincingly demonstrated that at least some fraction of human lifespan is heritable.In tandem, large-scale genome-wide association studies (GWAS) have identified numerous loci associated with age-related traits (Buniello et al., 2019).While genetic studies have functionally shown an inverse effect of multiple age-related, diseaseassociated variants on lifespan regulation, the number of well-replicated longevity-conferring variants remains limited to variants in APOE (ApoE ε2), and more recently, CDKN2A/B and IL6 (see Table 1).To date, studies in humans have been hampered by the specific phenotype definitions used, sample sizes of the extreme phenotypes, and modest heritability of the longevity-related traits (Breitbach et al., 2019).This is due to the complex interplay of biological and social factors involved in human aging, as well as the limited power of GWAS, which require sampling thousands of subjects to achieve statistical significance (Breitbach et al., 2019).Genetic studies of aging have also been hindered by an inconsistent use of definitions of aging (reviewed in Baghdadi et al., 2020).The two main ways of conducting research on the genetics of longevity in human populations are by studying (i) the lifespan (continuous trait, years lived) and (ii) the longevity (dichotomous trait, i.e., being among the longest-lived individuals within a specific population).These complexities have limited the resolution and capability of broad association studies of human longevity.Importantly, these genomic analyses focus on a shift of survival in a population; these variables may be genetically distinct from the mechanisms establishing potential for longevity overall (Figure 1A).We argue that an understanding of this shift in lifespan as well as genetic mechanisms of regulating a species specific 'set points' (Figure 1B) will aid in the conceptual distinction of aging and longevity in humans."
+                }
+            ],
+            "ce2c68bf-878d-460c-8d9b-d45ce3034ef7": [
+                {
+                    "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                    "text": "Put more simply: What is the strength of evidence in favor of GXE effects on\nlifespan? We ask if youthful adult body weight (~120 days) predicts lifespan. Is the change\nin body weight in adults in response to a HFD a causal predictor of lifespan? Finally,\nwe ask whether levels of classic serum metabolites or metabolic hormones measured in\nmiddle-age or old-age predict variation in lifespan? Our focus is both on overall effects and\non strain-specific difference in effect of diet on lifespan and weight gain, rather than on\nspecific genetic modifiers or loci of lifespan."
+                }
+            ],
+            "da4a9500-831f-48ab-acea-5ec7097276ed": [
+                {
+                    "document_id": "da4a9500-831f-48ab-acea-5ec7097276ed",
+                    "text": "\n\nStudies in various models have revealed that genetic differences and somatic mutations underlie longevity, but non-genetic contributions also play a major role (Cournil and Kirkwood, 2001).Calorie restriction (Bordone and Guarente, 2005), lowering of basal metabolic rate (Ruggiero et al., 2008), upregulated stress response (Migliaccio et al., 1999), restoration of mi-tonuclear protein balance (Houtkooper et al., 2013), and reduced fertility (Westendorp and Kirkwood, 1998) have all been shown to correlate with lifespan extension.These observations illuminate the role of ''epi''-genetic mechanisms in modulating longevity pathways."
+                }
+            ],
+            "db90a971-e55a-4ab0-a3b1-05908d6771a4": [
+                {
+                    "document_id": "db90a971-e55a-4ab0-a3b1-05908d6771a4",
+                    "text": "Introduction\n\nApproximately 25-30% of the variation in adult lifespan is attributable to genetic factors that become more important with increasing age and exert their strongest effects in nonagenarians and centenarians (Go ¨gele et al., 2010;Hjelmborg et al., 2006).As yet, however, only a few genetic variants have been found consistently to influence longevity.The first to be discovered was the e4 allele of the apolipoprotein E (APOE) gene, a mortality factor that predisposes to both Alzheimer's and cardiovascular diseases (Corder et al., 1993; Panza et al., 2004).APOE e4 is the only variant with a reportedly large adverse effect upon survival at advanced age (Scha ¨chter et al., 1994), and this association has been replicated in several populations (Christensen et al., 2006).Variation in the human forkhead box O3A gene (FOXO3A), in contrast, has been found to be associated with the ability to live long, an effect corroborated by studies in Japanese, German, Italian, US-American, Jewish, Chinese and Danish populations (Anselmi et al., 2009;Flachsbart et al., 2009;Li et al., 2009;Pawlikowska et al., 2009;Soerensen et al., 2010;Willcox et al., 2008).More recently, we have identified exonuclease 1 (EXO1) as a potential novel longevity gene (Nebel et al., 2009).All three genes were detected through candidate-gene approaches."
+                }
+            ],
+            "f6bde053-64e5-42d9-966d-9d5d5d82a068": [
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\n\nStudies of mono-and dizygous twins have revealed that the genetic contribution to the variation in human lifespan is about 25-30% [12,13], and is most prominent in families clustered for longevity [14,15].This genetic contribution is mainly apparent after the age of 60 years and seems to increase with age [13,16].Furthermore, human lifespan is a complex trait which is assumed to be determined by many genes with small individual effects [17], although the polygenic architecture still needs to be characterized [18,19].The diverse health features of long-lived families illustrate that different age-related diseases have common determinants and implicate that pathways can be identified that attenuate aging and delay age-related disease.From a genomic perspective, individuals from long-lived families are assumed to be characterized by a decreased prevalence of disease-promoting variants (referred to as disease-susceptibility alleles) and an increased prevalence of variants conferring maintenance of health and protection from disease, when compared to population controls.In the last 5 years, many diseasesusceptibility alleles have been identified (National Human Genome Research Institute (NHGRI) genome-wide association study (GWAS) Catalog; http://www.genome.gov/gwastudies/)[20].A first comparison between long-lived individuals, selected from both long-lived families (LLS) and the general population (Leiden 85-plus study), and young controls showed no difference in the distribution or frequency of disease-susceptibility alleles identified in cancer, coronary artery disease and type 2 diabetes [21].The search for lifespan regulating loci -contributing to longevity and population mortality -must therefore extend beyond a focus on disease-susceptibility alleles.We will first discuss the efforts to identify longevity loci by genetics approaches."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "2FE689C771242014845BDF2008542DAA",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "FOXO3",
+            "APOE",
+            "AKT1",
+            "SLC4A7",
+            "LINC02513",
+            "ZW10",
+            "FGD6",
+            "CDKN2B",
+            "ANRIL",
+            "FOXO1"
+        ],
+        "metadata": [],
+        "question": "What loci and gene variants modulate normal variation in lifespan,\nand in which cases is this sex-specific (GxS)?",
+        "subquestions": null,
+        "task_id": "2FE689C771242014845BDF2008542DAA",
+        "usage": {
+            "chatgpt": 8066,
+            "gpt-4": 5645,
+            "gpt-4-turbo-preview": 4696
+        },
+        "user_id": 2
+    },
+    "document_id": "2FE689C771242014845BDF2008542DAA",
+    "task_id": "2FE689C771242014845BDF2008542DAA"
+}

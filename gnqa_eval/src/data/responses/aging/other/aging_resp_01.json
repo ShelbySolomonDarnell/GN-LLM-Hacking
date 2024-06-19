@@ -1,0 +1,130 @@
+{
+    "created_at": "2024-04-01T22:21:34.595376Z",
+    "data": {
+        "amplify": false,
+        "answer": "1. A study assessing the impact of a rapamycin derivative on healthy aging in people (Mannick et al. 2014).\n2. A veterinary clinical trial testing rapamycin as a treatment for osteosarcoma (Paoloni et al. 2010).\n3. A veterinary clinical trial assessing the side effect profile and effects on age-associated cardiac function following 10 weeks of rapamycin treatment in healthy elderly dogs (Kaeberlein 2015).\n4. A study on the pharmacokinetic analysis of rapamycin treatment in healthy dogs (Larson et al. 2016).\n5. A study on the effects of rapamycin in aging mice (Johnson et al. 2015).\n6. A study on the effects of rapamycin in rodents (Johnson et al. 2013).\n7. A study on the effects of rapamycin on the replicative life of yeast (Reference [57]).\n8. A study on the effects of rapamycin in 20-month-old mice (Reference [58]).\n9. A study on the combination of rapamycin with other compounds for anti-aging activity (Reference [59]).",
+        "context": {
+            "00591f6a-0d6f-4993-ae6c-e9a8109a95ec": [
+                {
+                    "document_id": "00591f6a-0d6f-4993-ae6c-e9a8109a95ec",
+                    "text": "\n\nIntervention trials and cell-based monotherapy"
+                }
+            ],
+            "3043efd1-4b13-4300-b2a7-d1992c8d4e47": [
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nRapamycin has been shown to be well tolerated in dogs, improves outcome in a glycogen storage disease model (Yi et al. 2014), and is currently being tested in veterinary clinical trials as a treatment for osteosarcoma (Paoloni et al. 2010).A veterinary clinical trial is underway to assess the side effect profile and effects on age-associated cardiac function following 10 weeks of rapamycin treatment in healthy elderly dogs (Kaeberlein 2015)."
+                },
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nRapamycin is used clinically to prevent organ transplant rejection, for some forms of cancer, and to prevent restenosis in cardiac stents (Kaeberlein 2013b).Shortterm treatment with the rapamycin derivative RAD001 improves ageassociated decline in immune function, as measured by antibody response to an influenza vaccine, in healthy elderly people (Mannick et al. 2014)."
+                },
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nTo date, only one study has been performed assessing the impact of a rapamycin derivative on healthy aging in people.In this trial, it was observed that 6 weeks of treatment with the rapamycin derivative RAD001 (everolimus) was sufficient to enhance function of the aged immune system, as assessed by response to an influenza vaccine (Mannick et al. 2014).This recapitulates what was observed in elderly mice (Chen et al. 2009), and suggests that at least some of the mechanisms by which rapamycin delays aging in mice work similarly in humans.Although both compounds have essentially identical biological activities, RAD001 was used in this study instead of rapamycin because the study was funded by Novartis, who holds the patent rights for RAD001 (rapamycin is now off patent and sold as a generic drug).The doses of RAD001 used in the human immune aging study were lower than those typically used to prevent organ transplant rejection and showed improved side effect profiles, although some adverse effects, including the presence of mouth sores in a subset of the patients, were noted."
+                },
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nThis trial is designed to determine whether treatment with the drug rapamycin (see Table 1) can significantly reduce age-related disease and disability as well as mortality in middle-aged large dogs.The initial phase of this trial, which is in progress at the time of this writing, is intended to enroll at least 32 dogs 6 years of age or older and 40 lb in weight or greater.Each animal receives an initial veterinary exam and comprehensive blood work along with a cardiac exam including echocardiography (Fig. 3).Those dogs that do not present with any abnormalities or significant pre-existing health conditions are randomized into either placebo or rapamycin treatment groups for a 10-week treatment period.Initial rapamycin dosing regimens were determined, in part, based on pharmacokinetic analysis of rapamycin treatment in healthy dogs (Larson et al. 2016).After 10 weeks in the study, each dog receives another full exam and blood chemistry panel as well as repeat cardiac exam.The primary goals of this first phase are to establish appropriate dosing of rapamycin in the absence of significant adverse events and to determine whether similar improvements in cardiac function are achieved in aged dogs after 10 weeks of rapamycin treatment, as has been observed in laboratory mice (Dai et al. 2014;Flynn et al. 2013)."
+                },
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nFig. 3 Design of the current short-term rapamycin intervention trial.Dogs must weigh at least 40 pounds and be at least 6 years old at time of entry into the study.If no significant pre-existing health conditions are detected at the first exam, dogs are randomized into either placebo or one of the rapamycin treatment groups.Red indicates the 10-week period during which the dogs receive either rapamycin or placebo.Dogs receive the same generic rapamycin (sirolimus) pill that is provided to human patients.Asterisk Serum and feces are collected at each appointment for future metabolomic and microbiome analyses and for quantitation of circulating rapamycin levels"
+                },
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nPending the outcome of phase 1, we anticipate enrolling several hundred additional dogs with similar entry criteria into a longer-term, 3-5 year study, to carefully assess the extent to which rapamycin improves health and reduces mortality in middle-age companion dogs.In addition to cardiac function, assessments of multiple age-related phenotypes will be performed including measures of cognitive function, muscle function, kidney function, glucose homeostasis, and cancer incidence.Many of these parameters are beneficially impacted by rapamycin in aging mice (Johnson et al. 2015), and we predict that rapamycin will induce similar improvements in aging dogs."
+                },
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "\n\nRapamycin is currently the most effective pharmacological intervention for extending lifespan and delaying a broad range of age-related functional declines in rodents (Johnson et al. 2013).However, the doses used clinically to prevent organ transplant rejection are associated with side effects, such as impaired wound healing, edema, elevated circulating triglycerides, impaired glucose homeostasis, gastrointestinal discomfort, and mouth ulcers (Augustine et al. 2007;de Oliveira et al. 2011).These adverse side effects would likely preclude long-term use of rapamycin at these levels in otherwise healthy people.With the possible exception of impaired glucose homeostasis (Lamming et al. 2012), these side effects have not been observed at doses that are associated with increased lifespan and healthspan in mice, however, raising the possibility that lower doses of this drug could promote healthy aging with minimal adverse effects."
+                }
+            ],
+            "4f709611-ea0b-4bcc-a634-df5d518ccb54": [
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "Rapamycin\n\nRapamycin is a macrolide isolated from Streptomyces hygroscopicus, a bacteria from Pascua Island (Rapa Nui).It has functions as an antibiotic, an immune suppressant drug, and it is also proposed as a CRM.After the first studies, it was found that rapamycin could induce the extension of the replicative life of yeast through the inhibition of TOR signaling [57].This compound could extend the lifetime useful in 20-month-old mice in correlation with TOR activity [58].These studies were the basis of the research to determine the function of rapamycin as a CRM, due to its modulating properties over proteostasis.In addition, studies suggest that rapamycin can be combined with other compounds (metformin, losartan, statins, propranolol, and aspirin among others) to potentiate their anti-aging activity [59]."
+                }
+            ],
+            "7f23af74-95a3-46aa-bd61-629d2cfc2073": [
+                {
+                    "document_id": "7f23af74-95a3-46aa-bd61-629d2cfc2073",
+                    "text": "Rapamycin\n\nRapamycin is a macrolide isolated from Streptomyces hygroscopicus, a bacteria from Pascua Island (Rapa Nui).It has functions as an antibiotic, an immune suppressant drug, and it is also proposed as a CRM.After the first studies, it was found that rapamycin could induce the extension of the replicative life of yeast through the inhibition of TOR signaling [57].This compound could extend the lifetime useful in 20-month-old mice in correlation with TOR activity [58].These studies were the basis of the research to determine the function of rapamycin as a CRM, due to its modulating properties over proteostasis.In addition, studies suggest that rapamycin can be combined with other compounds (metformin, losartan, statins, propranolol, and aspirin among others) to potentiate their anti-aging activity [59]."
+                }
+            ],
+            "7fc7babc-51be-4358-bae4-ca1058c36da7": [
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "One out of the 25 FDA approved Breast cancer\ndrugs (Gemcitabine), was found in the top 20 drug list from LINCS from breast cancer stage I (dark magenta). As shown in Fig. 12, one drug out of 25 FDA approved Breast cancer drugs, Gemcitabine, was found as\nrepurposed drug from LINCS for breast cancer stage III. Letrozole (Breast cancer drug) has similar structure\n(greater than 60%) with Ruxolitinib (repurposed drug from LINCS) a drug for the treatment of intermediate or\nhigh-risk myelofibrosis (Fig. 13)."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "One out of the 25 FDA approved Breast\ncancer drugs (Palbociclib), was found in the top 20 drug list from LINCS from breast cancer stage II (deep pink). Scientific Reports | 6:20518 | DOI: 10.1038/srep20518\n\n13\nwww.nature.com/scientificreports/\n\nFigure 11. Highlighted target genes that physically interact with genes from the breast cancer stage\nII common network pattern and their corresponding repurposed drugs from LINCS, along with their\nstructurally similar Breast cancer drugs. As shown in Figs 16–17 two target genes (TOP2A and TYMS) are also involved in the Triple Negative pattern."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "Two of them (Gemcitabine and Palbociclib) are included in the list of the 25 known\nFDA-approved Breast cancer therapeutic drugs. We performed a Hypergeometric distribution test in order to\nfind the statistical significance of this drug overlapping. More precisely, LINCS_L1000 database is comprised\nfrom 20,413 chemical reagents. Twenty two out of twenty five breast cancer drugs are also included in LINCS\ndatabase. Finally, from the 105 drugs that were found from our analysis, the probability of finding two drugs to\noverlap with the Breast Cancer drugs in LINCS is 0.005471157, pointing out that there is statistical significance\nin their selection."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "Two from the 25 FDA\napproved Breast cancer drugs (Gemcitabine and Palbociclib), was found in the top 20 drug list from LINCS\nfrom Luminal A breast cancer (dark magenta and deep pink respectively)."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "18 two drugs out of 25 FDA approved Breast cancer drugs – Gemcitabine and Palbociclib –\nwere also found as repurposed drugs from LINCS for breast cancer Luminal A (Fig. 18). Two genes from the\nLuminal A network pattern physically interact with four genes that involved in Histone deacetylases class\n(HDAC1, HDAC2, HDAC3 and HDAC8), which are target genes of Vorinostat (repurposed drug from LINCS). Vorinostat is a member of a larger class of compounds that inhibit histone deacetylases (HDAC) and it is used\nto treat cutaneous T cell lymphoma (CTCL)."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "One out of the 25 FDA\napproved Breast cancer drugs (Gemcitabine), was found in the top 20 drug list from LINCS from breast cancer\nstage III (dark magenta). that was found from the drug repurposing analysis of HER2 pattern. It has similar structure - 75% with\nWZ-4002 repurposed drug, which is a novel mutant-selective inhibitor of EGFR. Finally, both Palbociclib\nand WZ-4002 are structurally similar to Dasatinib (more than 60%), which is a cancer drug used to treat\nacute lymphoblastic leukemia."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "Network pattern for each breast cancer subtype and the common interactions across Luminal A\nand Luminal B. As shown in Fig. 8, one drug out of 25 FDA approved Breast cancer drugs, Gemcitabine, was proposed as\nrepurposed drug by the LINCS for breast cancer stage I. Furthermore, Gemcitabine is quite similar (tanimoto31\nsimilarity greater than 80%) with Clofarabine and Kinetin-riboside (repurposed drugs from LINCS). Clofarabine\nis also an anti-cancer, antineoplastic chemotherapy drug and is classified as an antimetabolite."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "Hierarchical clustering using tanimoto similarity (Soergel\ndistance) was applied to each of the top 20 drug list from LINCS and the 25 known FDA-approved Breast cancer\ntherapeutic drugs (Supplementary Figs 54–61). LINCS Drug Names were transformed into ChemSpider IDs (see\nSupplementary Table 1)\nIn synopsis, the unique drugs for the breast cancer stages were 63 and for the breast cancer subtypes 58, as we\nhave located common drugs across them. Taking their union and removing the duplicates we conclude to a total\nof 105 repurposed drugs."
+                },
+                {
+                    "document_id": "7fc7babc-51be-4358-bae4-ca1058c36da7",
+                    "text": "13, is also\nstructurally similar (greater than 60%) with 6-(1,3-Benzodioxol-5-yl)-N-(cyclopentylmethyl)-4-quinazolinamine\n(repurposed small molecule from LINCS). As in breast cancer stages I and III one drug out of 25 FDA approved Breast cancer drugs – Gemcitabine – was\nfound as repurposed drug from LINCS for breast cancer stage IV (Fig. 14). A repurposed drug from LINCS –\nHomoharringtonine was found to be structurally similar with Everolimus and Vinblastine Breast cancer drugs\n(greater than 70%). On the other hand, as shown in Fig."
+                }
+            ],
+            "a95e6806-06d3-4775-8287-fda4cf6ac42f": [
+                {
+                    "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                    "text": "\n\nRapamycin has serious side effects, particularly as an immunosuppressor, and thus it is not suitable as an antiaging drug.As in sirtuins, however, these studies highlight the road from basic discovery on the biology of aging to antiaging interventions.Further studies of the TOR pathway and of repressors more specific of its downstream signaling pathway are ongoing.Whether rapamycin produces a change in another parameter related to energy uptake or utilization is unknown, and determining which of its effects modulate lifespan is an important unsolved question.Like resveratrol, TOR has attracted considerable attention from the pharmaceutical industry, particularly in the context of cancer (Meric-Bernstam and Gonzalez-Angulo, 2009)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "8444FD3208D16364524ABE2CCAA9544D",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "rapamycin",
+            "dogs",
+            "osteosarcoma",
+            "cardiac&function",
+            "aging",
+            "immune&system",
+            "influenza&vaccine",
+            "lifespan",
+            "cancer",
+            "breast&cancer"
+        ],
+        "metadata": [],
+        "question": "List as many studies are you can that include rapamycin",
+        "subquestions": null,
+        "task_id": "8444FD3208D16364524ABE2CCAA9544D",
+        "usage": {
+            "chatgpt": 7060,
+            "gpt-4": 3910,
+            "gpt-4-turbo-preview": 2966
+        },
+        "user_id": 2
+    },
+    "document_id": "8444FD3208D16364524ABE2CCAA9544D",
+    "task_id": "8444FD3208D16364524ABE2CCAA9544D"
+}

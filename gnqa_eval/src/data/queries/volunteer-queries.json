@@ -1,0 +1,123 @@
+[
+  {
+    "level": "domainexpert",
+    "domain": "diabetes",
+    "query": [
+      "Give a specific example of deactivating mutation, including genomic position, that leads to diabetes",
+      "Give an example of deactivating mutation that leads to diabetes",
+      "what genetic factors determine the phenotype of an organism",
+      "Is there conflicting evidence about the impact of the length of telomeres?",
+      "How is the immune system related to diabetes?",
+      "What are the genomic variants associated with immune system components and diabetes?",
+      "What is the role of the immune system in the metabolomics of diabetes and associated conditions?",
+      "How many types of diabetes exist?",
+      "How is gene expression in the liver affected by diabetes?",
+      "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?",
+      "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabets",
+      "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabets",
+      "which genes are typically associated with diabetes in QTL analyses?",
+      "what are confounding factors in diabetes?",
+      "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?",
+      "What causes diabetes?",
+      "Does cycling reduce risk of diabetes?",
+      ""
+    ]
+  },
+  {
+    "level": "domainexpert",
+    "domain": "aging",
+    "query": [
+      "what are the 3 most important genes in aging?",
+      "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging.",
+      "Which mouse genes have been associated with longevity?",
+      "what genetic factor are associated with aging",
+      "which genes are typically associated with early aging?",
+      "How do I generate a linkage or association mapping study in mice to understand aging?",
+      "Is the gene TCF7L2 involved in diabetes?",
+      "is there a specific genetic variation that can cause someone to live longer? please make your answer accessible to a non-expert",
+      "What causes the aging process",
+      "What genes are associated with aging?",
+      "What genetic factor are associated with aging",
+      "Which genes are involved in the aging process"
+    ]
+  },
+  {
+    "level": "domainexpert",
+    "domain": "gn",
+    "query": [
+      "what genetic factors determine the phenotype of an organism",
+      "Is there conflicting evidence about the impact of the length of telomeres?jj",
+      "What are the different relationships between traits?",
+      "Can the landscape of QTL and GWAS hits be used to find relationships between traits?",
+      "What are the potential benefits and risk associated with gene editing technologies like CRISPRR-Cas9?",
+      "How does epigenetics inluence gene expression without changing the underlying DNA sequence?",
+      "Describe the role of mitochondrial DNA in heredity and how it differs from nuclear DNA.",
+      "What are the ethical considerations surrounding prenatal genetic testing and the selective termination of pregnancies based on genetic factors?",
+      "Explain the process of DNA replication and how it ensures accurate copying of genetic information during cell division.",
+      "How does one tell the difference between X and Y DNA, with repsect to DNA tracing and determining QTLs?",
+      "For text and biological resources, do you mean add some books (on biology stuff) or/and web resources (as ensembl) on your system?",
+      "what is ensembl?",
+      "Explain the process of finding a genetic marker followed by a quantitative trait loci.",
+      "What about recombination in human centromeres?",
+      "How does recombination work in human centromeres?",
+      "What about recombination in the human genome?",
+      "How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs",
+      "Why do males have two Y chromosomes and females only one?",
+      "How can I add a new species to the GeneNetwork database?",
+      "In which diseases is the gene TCF7L2 involved?",
+      "Can you explain the difference between sequencing with short reads vs long reads? Please make you answer accessible to a non-expert.",
+      "Can you explain why using a pangenome-based reference might be more   useful than simply using a single linear reference? Please make you   answer accessible to a non-expert.",
+      "Is all genetic regulation done through DNA (e.g., prompters,   repressors, activators) or are there other forms of genetic regulation?   Please make you answer accessible to a non-expert.",
+      "Can landscape of QTL and GWAS hits be used to find relationships between traits ?",
+      "Define dyslipidemia.",
+      "What is cytochrome?"
+    ]
+  },
+  {
+    "level": "citizenscientist",
+    "domain": "diabetes",
+    "query": [
+      "What are the key genetic risk factors associated with type 2 diabetes?",
+      "What are the latest advancements in personalized medicine for diabetes treatment?",
+      "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?",
+      "Is there a direct association between aging and susceptibility to having diabetes?",
+      "How does genetics influence the emergency of diabetes?",
+      "what genes are associated with diabetes?"
+    ]
+  },
+  {
+    "level": "citizenscientist",
+    "domain": "aging",
+    "query": [
+      "What role do microRNAs play in regulating gene expression in aging tissues?",
+      "How does aging affect gene expression?",
+      "Is there a genetic basis for longevity and exceptional lifespan?",
+      "List as many studies as you can that include rapamycin.",
+      "Why is it so difficult to map gene loci that control aging in humans?",
+      "What is apoptosis?",
+      "What genetic factors influence aging in humans? ",
+      "what genes are associated with aging?",
+      "Is lifespan determined by genetics?",
+      "Which genes are associated with aging in human"
+    ]
+  },
+  {
+    "level": "citizenscientist",
+    "domain": "gn",
+    "query": [
+      "What is the significance of a transQTL?",
+      "What is the significance of a transQTL compared with a cisQTL?",
+      "Describe different GWAS methods",
+      "What is a linear mixed model",
+      "How are linear mixed models used in genetics?",
+      "What is the most cited environmental factor for the onset of asthma?",
+      "How would one extract the DNA, from say, flora or fauna?",
+      "what type of dataset is useful for qtl mapping analysis in genenetwork2? ",
+      "what are the bioinformatics tools for QTLs analysis?",
+      "what are the statistical approaches for qtls analysis?",
+      "Create a how-to guide for GWAS analysis?"
+    ]
+  }
+
+
+]

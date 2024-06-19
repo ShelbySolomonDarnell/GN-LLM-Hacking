@@ -1,0 +1,396 @@
+{
+    "created_at": "2024-05-31T12:56:07.845098Z",
+    "data": {
+        "amplify": false,
+        "answer": "The mouse genes associated with longevity include the C3H allele at D2Mit58, the BALB allele at D16Mit182, the C57BL/6 allele at D4Mit84, the C3H allele at D9Mit110, and the C57BL/6 and C3H alleles at D12Mit167. Additionally, a locus on chromosome 2 and another on chromosome 6 have been associated with longevity.",
+        "context": {
+            "0c6c0977-2cf9-4bbf-bc31-fe025f008089": [
+                {
+                    "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                    "text": "DOI: https://doi.org/10.7554/eLife.75244\n\n\b\n\n24 of 30\nChromosomes and Gene Expression | Genetics and Genomics\n\nResearch article﻿﻿﻿﻿﻿﻿\nContinued\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10006, 10006\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10006&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10010, 10010\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10010&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10011, 10011\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10011&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10021, 10021\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10021&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10022, 10022\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10022&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10025, 10025\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10025&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10066, 10066\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10066&​dataset=​BXD-​\nLongevityPublish\n\nReferences\nAlbertsen HM, Smith SA, Mazoyer S, Fujimoto E, Stevens J, Williams B, Rodriguez P, Cropp CS, Slijepcevic P,\nCarlson M. 1994."
+                }
+            ],
+            "2464a084-1a11-44eb-8bce-4b344de049ff": [
+                {
+                    "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                    "text": "DOI: https://doi.org/10.7554/eLife.75244\n\n\b\n\n24 of 30\nChromosomes and Gene Expression | Genetics and Genomics\n\nResearch article﻿﻿﻿﻿﻿﻿\nContinued\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10006, 10006\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10006&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10010, 10010\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10010&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10011, 10011\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10011&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10021, 10021\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10021&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10022, 10022\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10022&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10025, 10025\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10025&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10066, 10066\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10066&​dataset=​BXD-​\nLongevityPublish\n\nReferences\nAlbertsen HM, Smith SA, Mazoyer S, Fujimoto E, Stevens J, Williams B, Rodriguez P, Cropp CS, Slijepcevic P,\nCarlson M. 1994."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Leduc MS, Hageman RS, Meng Q et al (2010) Identification of\ngenetic determinants of IGF-1 levels and longevity among mouse\ninbred strains. Aging Cell 9(5):823–836. doi:10.1111/j.14749726.2010.00612.x\n10. Lang DH, Gerhard GS, Griffith JW et al (2010) Quantitative trait\nloci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD)\nrecombinant inbred mice. Aging Clin Exp Res 22(1):8–19\n11. Gelman R, Watson A, Bronson R et al (1988) Murine chromosomal\nregions\ncorrelated\nwith\nlongevity. Genetics\n118(4):693–704\n12. Jackson AU, Galecki AT, Burke DT et al (2002) Mouse loci\nassociated with life span exhibit sex-specific and epistatic effects."
+                },
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text":"Conclusions These results suggest a novel locus influencing survival in the B6/D2 genetic background, perhaps\nvia a metabolic disorder that emerges by 200 days of age in\nmale animals. Keywords\nPathology\n\nLongevity  Lifespan Mouse  Linkage  \n\nIntroduction\nLongevity, the quintessential complex trait, likely reflects\nall aspects of an organism’s life history. In humans, the\nestimated heritability of age at death is estimated at\n25–33 % [1]. Genetic contributions to mortality rates are\nthus of great interest and may aid in the understanding of\ndisease etiology and the process of aging itself [2]."
+                },
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Here, we have extended this analysis to search for\ngenotypes related to survival to the age of 800 days in a\npopulation of a reciprocal F2 cross between (B6) and (D2)\nmice. Since QTL for longevity in mice have shown strong\nsex specificity [10, 12], we conducted sex-specific analyses. In addition, we also determined whether there were\nany change in pathology changes associated with the loci\nthat showed frequency distortions with aging. To confirm\nthe associations of the loci of interest with longevity and\npathology, we performed replication analyses on a panel of\nBXD recombinant inbred strains."
+                }
+            ],
+            "64886b4e-8599-4f61-84e6-9add7663a1b3": [
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": "352(6291): p. aad0189. Liao, C.Y. , et al. , Genetic variation in the murine lifespan response to dietary restriction: from life extension to life\nshortening. Aging Cell, 2010. 9(1): p. 92-5. Johnson, M., Laboratory Mice and Rats. Mater. Methods, 2012. 2: p. 113. Fontaine, D.A. and D.B. Davis, Attention to Background Strain Is Essential for Metabolic Research: C57BL/6 and\nthe International Knockout Mouse Consortium. Diabetes, 2016. 65(1): p. 25-33. Simon, M.M. , et al. , A comparative phenotypic and genomic analysis of C57BL/6J and C57BL/6N mouse strains. Genome Biol, 2013. 14(7): p. R82. Lilue, J., et al."
+                }
+            ],
+            "8dad24f7-b658-44fa-af65-6f33db69c15a": [
+                {
+                    "document_id": "8dad24f7-b658-44fa-af65-6f33db69c15a",
+                    "text":"Mamm Genome 2001;12: 930–2. 21 Gelman R, Watson A, Bronson R, Yunis E. Murine chromosomal\nregions correlated with longevity. Genetics 1988;118:693–704. 22 Peirce JL, Lu L, Gu J, Silver LM, Williams RW. A new set of BXD\nrecombinant inbred lines from advanced intercross populations in\nmice. BMC Genet 2004;5:7. 23 Rahman ZS, Tin SK, Buenaventura PN et al. A novel susceptibility\nlocus on chromosome 2 in the (New Zealand Black  New Zealand\nWhite) F1 hybrid mouse model of systemic lupus erythematosus. J Immunol 2002;168:3042–9. 24 Kono DH, Burlingame RW, Owens DG et al."
+                }
+            ],
+            "958b37c9-9bd5-4e84-939d-8f12dccf1055": [
+                {
+                    "document_id": "958b37c9-9bd5-4e84-939d-8f12dccf1055",
+                    "text": "Conversely, the BXD strain with the shortest life span\n(BXD14) has the lowest responsiveness to the stimulatory effect of\nTGF-␤2 when old (48). The region on chromosome 2 where a\nsuggestive QTL regulating the responsiveness to TGF-␤2 in old\nmice is located also contains two QTL for longevity (32). Finally,\nthe strongest support for this hypothesis is the correlation between\nlongevity and the age-related increase in the serum-dependent effect of TGF-␤2 on LSK cells, the extent of which may determine\nstem cell function in aged mice."
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nFIGURE 8-5 Genetic regulation of longevity in mice stratified by cause of death.Female mice that inherit the C3H allele at D2Mit58 plus the BALB allele at D16Mit182 (light gray bars) have significantly higher longevity than their sisters (dark gray bars) with the C57BL/6 plus DBA/2 allele combination (\"all causes\" of death combined).Subsets of mice that died either of cancer or of a nonneoplastic (\"benign\") illness both show the association between genotype and longevity.Among the mice dying of neoplasia, subsets dying of lymphoma or of fibrosarcoma show equivalent, and significant, genotypic effects.Bars indicate means plus standard error of the mean.SOURCE:Miller et al. (unpublished  results)."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nThe available dataset also provides examples in which genetic variants seem to influence the risk of specific late-life diseases.Figure 8-6, for example, shows longevity results for mice stratified by their inheritance at the 12th chromosome locus D12Mit167.This is a locus associated with differential longevity in both male and female mice, with the strongest effect (adjusted p < 0.01) seen in those mice living more than 657 days (Jackson et al., unpublished results).The longest-lived mice are those that inherit both the C57BL/6 allele from their mother and the C3H allele from their father; on average, they survive 93 days longer than siblings with the BALB plus C3H combination.Figure 8-6 shows that the D12Mit167, like the pair of loci illustrated in Figure 8-5, has significant and similar effects in mice dying of cancer (85 days) and in mice dying of non-neoplastic diseases (126 days).A more detailed analysis of the cancers, however, suggests that while lymphoma and hepatoma victims are equally protected by the favorable alleles (effect sizes of 93 and 167 days, respec-  mice of two subgroups: those dying of the urinary syndrome MUS, and those dying of all other causes.The genetic analysis contrasts mice with both the C57BL/6 allele at D4Mit84 and the C3H allele at D9Mit110 to mice with any of the three other allele combinations.In the males dying of causes other than MUS, this allele pair is associated with a 170-day increment in longevity (post-hoc p < 0.00003).But for males that do die of MUS, the same allele combination is associated with a 187-day decline in mean life span (post-hoc p < 0.03).This effect is thus pleiotropic, in that these alleles accelerate death in mice susceptible to MUS, while postponing death for all other males in the population.Although these loci are associated with differential longevity in mice that do develop MUS, they do not have a significant effect on the chances that MUS will indeed occur (not shown).The risk of developing MUS seems to be under control of a separate locus on chromosome 6.As shown in the bottom panel of Figure 8-7, males that inherit the C3H allele at D6Mit268 are far more likely to develop MUS (28 percent risk) than are their brothers who receive the DBA/2 allele at this locus (7 percent risk; p = 0.012 by two-tailed Fisher's exact test)."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nHigh levels of CD8M cells are associated with diminished longevity in mated females (left panel; p < 0.001), but not in virgin females (center panel).Among virgin males, those dying of diseases other than the urinary syndrome MUS show no association between CD8M and longevity (open circles, upper line), but those dying because of MUS show a nonsignificant trend (filled circles, lower line, R = -0.27,p = 0.13) similar to the relationship observed in mated females.SOURCE : Miller et al. (unpublished results).Male or female mice that inherit the C57BL/6 (maternal) and C3H (paternal) alleles at D12Mit167 (light gray bars) are longer lived than their siblings that inherit the BALB plus C3H combination.The \"effect size\" shown at the right represents that difference in mean longevity between mice in the two genetically different groups, with (**) = p < 0.01 and (*) = p < 0.05 by t-test.Similar effect sizes are seen for mice dying of cancer or of non-neoplastic illnesses (\"benign\"), and among the cancer deaths the genetic effect is similar for deaths due to lymphoma and hepatoma.The genetic effect on longevity seems to be minimal, however, for mice dying of fibrosarcoma.Bars show means plus standard errors.SOURCE : Miller et al. (unpublished results)."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nOur own work has taken a different tack: we have attempted to determine whether mutations with differential effects on aging may be present within the many available populations of laboratory-adopted inbred mice.The goal is not so much to clone these genes-if indeed they existbecause positional cloning strategies of this kind require many thousands of animals and would be extremely expensive using an assay, age at death, that is itself so costly.Instead, the goal has been to use gene mapping methods to test hypotheses about aging and to develop new animal models that will be useful for testing well-specified hypotheses about the molecular basis for age-dependent changes.In the absence of a validated battery of biomarkers of aging, we (like most others) have reluctantly decided to use mouse life span as a crude surrogate for aging itself, reasoning that genetic alleles that extend life span well beyond the median for the tested population may be operating via an influence on aging itself.Work conducted using recombinant inbred mouse stocks (Gelman et al., 1988;de Haan and Van Zant, 1999) has suggested that life-span differences between pairs of inbred mouse lines might reflect the influence of as few as 4-7 polymorphic loci, providing some basis for hope that some of these would have an effect large enough to be detected by a genome scan experiment involving 300-1,200 mice."
+                }
+            ],
+            "9ac0b7e7-6294-4cfb-97e3-e5a4546af324": [
+                {
+                    "document_id": "9ac0b7e7-6294-4cfb-97e3-e5a4546af324",
+                    "text": ", Vogler, G.P. , Vandenbergh,\nD.J. , Blizard, D.A. , Stout, J.T. & McClearn, G.E. Quantitative Trait\nLocus (QTL) Analysis of Longevity in C57BL/6J byDBA/2J (BXD)\nRecombinant Inbred Mice. Aging Clin Exp Res (in press). Lionikas, A., Blizard, D.A. , Vandenbergh, D.J. , Glover, M.G. ,\nStout, J.T. , Vogler, G.P. , McClearn, G.E. & Larsson, L. (2003)\nGenetic architecture of fast- and slow-twitch skeletal muscle\nweight in 200-day-old mice of the C57BL/6J and DBA/2J lineage. Physiol Genomics 16, 141–152. Lionikas A., Blizard D.A. , Gerhard G.S. , Vandenbergh D.J. , Stout J.T. ,\nVogler G.P. , McClearn G.E."
+                }
+            ],
+            "cb3f9967-9762-4a9b-96cb-0acccdc316d2": [
+                {
+                    "document_id": "cb3f9967-9762-4a9b-96cb-0acccdc316d2",
+                    "text": "Deficiency mapping of quantitative trait loci affecting longevity\nin Drosophila melanogaster. Genetics 2000;156:1129–1146. [PubMed: 11063689]\n33. Ma RZ, et al. Identification of Bphs, an autoimmune disease locus, as histamine receptor H1. Science\n2002;297:620–623. [PubMed: 12142541]\n\nNat Rev Genet. Author manuscript; available in PMC 2007 November 5. Page 12\n\nNIH-PA Author Manuscript\n\n34. Vivian JL, Chen Y, Yee D, Schneider E, Magnuson T. An allelic series of mutations in Smad2 and\nSmad4 identified in a genotype-based screen of N-ethyl-N-nitrosourea-mutagenized mouse\nembryonic stem cells. Proc. Natl Acad. Sci. USA 2002;99:15542–15547. [PubMed: 12432092]\n35. Vogel G. Scientists dream of 1001 complex mice."
+                }
+            ],
+            "ce2c68bf-878d-460c-8d9b-d45ce3034ef7": [
+                {
+                    "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                    "text": "34. Gelman R, Watson A, Bronson R & Yunis E Murine chromosomal regions correlated with\nlongevity. Genetics 118, 693–704 (1988). [PubMed: 3163317]\n35. Houtkooper RHet al.The metabolic footprint of aging in mice. Sci. Rep1, (2011). 36. Houtkooper RHet al.Mitonuclear protein imbalance as a conserved longevity mechanism. Nature497, 451–457 (2013). [PubMed: 23698443]\n37. Williams EGet al.An Evolutionarily conserved role for the aryl hydrocarbon receptor in the\nregulation of movement. PLOS Genet. 10, e1004673 (2014). [PubMed: 25255223]\n38. Lang DHet al.Quantitative trait loci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD)\nrecombinant inbred mice. Aging Clin. Exp. Res. 22, 8–19 (2010)."
+                }
+            ],
+            "db0459f8-6602-48d7-be9b-14863a88bbe1": [
+                {
+                    "document_id": "db0459f8-6602-48d7-be9b-14863a88bbe1",
+                    "text": "In addition,\nthe B6 mouse strain is one of the longest-lived mouse strains with a mean lifespan of 3\nyears versus other mouse strains with mean lifespan from 1.5-2 years. Therefore, it is\nevident that the genetic background of a particular mouse strain can have a profound\neffect on the biology of the HSC population as well as organismal longevity. Indeed, it is\nfor this reason that it is difficult to compare findings from various laboratories where\ndifferent mouse strains are used."
+                }
+            ],
+            "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748": [
+                {
+                    "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                    "text": "NIH-PA Author Manuscript\n\nThis study indicated a large amount of genetic variation for mouse longevity; heritability\nwas 34% for AL and 36% for DR (60% of AL food intake). There was no significant\ncorrelation between mean longevity under these two conditions, although maximum\nlifespans of the AL and DR mice were significantly correlated. Similar observations were\nmade at the UTHSCSA on the ILSXISS RI mice (Liao et al. , 2010a, b; Mattson 2010),\nwhere they also observed similar heritability (28% AL males, 36% AL females, 55% DR\nmales, 53% DR females)."
+                },
+                {
+                    "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                    "text": "For females, hairs of the congenic mice grew 31% faster, also highly significant (P =\n0.0006, 1-tailed). These results validated the presence of a gene in the differential region\naffecting FE. Discussion\nWe report the outcomes of a quantitative genetic study on aging and longevity in the mouse. We studied an extant series of recombinant inbred strains (ILSXISS) that have been used\nboth in DR aging studies as well as to study alcohol sensitivity (Williams et al. , 2004)."
+                },
+                {
+                    "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                    "text": "(2007) is a separate issue from the analyses conducted in this\nstudy (the AL efficiency model will be tested in future studies). Exp Gerontol. Author manuscript; available in PMC 2011 September 1. Rikke et al. Page 8\n\nNIH-PA Author Manuscript\n\nOther studies have also reported that individual mice that maintained the highest BW were\nlikely to be the longest-lived individuals among cohorts of genetically identical mice\n(Weindruch et al. , 1986; Harper et al. , 2006)."
+                }
+            ],
+            "f116ee1c-b275-4239-98e9-c2032b8f05c5": [
+                {
+                    "document_id": "f116ee1c-b275-4239-98e9-c2032b8f05c5",
+                    "text": "Age-associated changes are conserved between mouse strains\n\nLife span and aging vary between mouse strains.For example, C57BL/6 mice are long-lived compared to the short-lived DBA/2 mice (Turturro et al. 1999).To test the generality of our observations, we also examined LT-HSCs, ST-HSC and MPPs in young and old mice from the DBA/2 strain, which originates from a distinct breeding lineage (Fox 1997)."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                "section_type": "main",
+                "text": "34.  Gelman R, Watson A, Bronson R & Yunis E Murine chromosomal regions correlated with\nlongevity.  Genetics 118, 693–704 (1988).  [PubMed: 3163317]\n35.  Houtkooper RHet al.The metabolic footprint of aging in mice.  Sci.  Rep1, (2011).\n 36.  Houtkooper RHet al.Mitonuclear protein imbalance as a conserved longevity mechanism.\n Nature497, 451–457 (2013).  [PubMed: 23698443]\n37.  Williams EGet al.An Evolutionarily conserved role for the aryl hydrocarbon receptor in the\nregulation of movement.  PLOS Genet.  10, e1004673 (2014).  [PubMed: 25255223]\n38.  Lang DHet al.Quantitative trait loci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD)\nrecombinant inbred mice.  Aging Clin.  Exp.  Res.  22, 8–19 (2010)."
+            },
+            {
+                "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                "section_type": "main",
+                "text": "Leduc MS, Hageman RS, Meng Q et al (2010) Identification of\ngenetic determinants of IGF-1 levels and longevity among mouse\ninbred strains.  Aging Cell 9(5):823–836.  doi:10.1111/j.14749726.2010.00612.x\n10.  Lang DH, Gerhard GS, Griffith JW et al (2010) Quantitative trait\nloci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD)\nrecombinant inbred mice.  Aging Clin Exp Res 22(1):8–19\n11.  Gelman R, Watson A, Bronson R et al (1988) Murine chromosomal\nregions\ncorrelated\nwith\nlongevity.\n Genetics\n118(4):693–704\n12.  Jackson AU, Galecki AT, Burke DT et al (2002) Mouse loci\nassociated with life span exhibit sex-specific and epistatic effects."
+            },
+            {
+                "document_id": "8dad24f7-b658-44fa-af65-6f33db69c15a",
+                "section_type": "main",
+                "text":"Mamm Genome 2001;12: 930–2.\n 21 Gelman R, Watson A, Bronson R, Yunis E. Murine chromosomal\nregions correlated with longevity.  Genetics 1988;118:693–704.\n 22 Peirce JL, Lu L, Gu J, Silver LM, Williams RW.  A new set of BXD\nrecombinant inbred lines from advanced intercross populations in\nmice.  BMC Genet 2004;5:7.\n 23 Rahman ZS, Tin SK, Buenaventura PN et al.  A novel susceptibility\nlocus on chromosome 2 in the (New Zealand Black  New Zealand\nWhite) F1 hybrid mouse model of systemic lupus erythematosus.\n J Immunol 2002;168:3042–9.\n 24 Kono DH, Burlingame RW, Owens DG et al."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "\n\nThe available dataset also provides examples in which genetic variants seem to influence the risk of specific late-life diseases.Figure 8-6, for example, shows longevity results for mice stratified by their inheritance at the 12th chromosome locus D12Mit167.This is a locus associated with differential longevity in both male and female mice, with the strongest effect (adjusted p < 0.01) seen in those mice living more than 657 days (Jackson et al., unpublished results).The longest-lived mice are those that inherit both the C57BL/6 allele from their mother and the C3H allele from their father; on average, they survive 93 days longer than siblings with the BALB plus C3H combination.Figure 8-6 shows that the D12Mit167, like the pair of loci illustrated in Figure 8-5, has significant and similar effects in mice dying of cancer (85 days) and in mice dying of non-neoplastic diseases (126 days).A more detailed analysis of the cancers, however, suggests that while lymphoma and hepatoma victims are equally protected by the favorable alleles (effect sizes of 93 and 167 days, respec-  mice of two subgroups: those dying of the urinary syndrome MUS, and those dying of all other causes.The genetic analysis contrasts mice with both the C57BL/6 allele at D4Mit84 and the C3H allele at D9Mit110 to mice with any of the three other allele combinations.In the males dying of causes other than MUS, this allele pair is associated with a 170-day increment in longevity (post-hoc p < 0.00003).But for males that do die of MUS, the same allele combination is associated with a 187-day decline in mean life span (post-hoc p < 0.03).This effect is thus pleiotropic, in that these alleles accelerate death in mice susceptible to MUS, while postponing death for all other males in the population.Although these loci are associated with differential longevity in mice that do develop MUS, they do not have a significant effect on the chances that MUS will indeed occur (not shown).The risk of developing MUS seems to be under control of a separate locus on chromosome 6.As shown in the bottom panel of Figure 8-7, males that inherit the C3H allele at D6Mit268 are far more likely to develop MUS (28 percent risk) than are their brothers who receive the DBA/2 allele at this locus (7 percent risk; p = 0.012 by two-tailed Fisher's exact test)."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "\n\nFIGURE 8-5 Genetic regulation of longevity in mice stratified by cause of death.Female mice that inherit the C3H allele at D2Mit58 plus the BALB allele at D16Mit182 (light gray bars) have significantly higher longevity than their sisters (dark gray bars) with the C57BL/6 plus DBA/2 allele combination (\"all causes\" of death combined).Subsets of mice that died either of cancer or of a nonneoplastic (\"benign\") illness both show the association between genotype and longevity.Among the mice dying of neoplasia, subsets dying of lymphoma or of fibrosarcoma show equivalent, and significant, genotypic effects.Bars indicate means plus standard error of the mean.SOURCE:Miller et al. (unpublished  results)."
+            },
+            {
+                "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                "section_type": "main",
+                "text":"Conclusions These results suggest a novel locus influencing survival in the B6/D2 genetic background, perhaps\nvia a metabolic disorder that emerges by 200 days of age in\nmale animals.\n Keywords\nPathology\n\nLongevity  Lifespan  Mouse  Linkage \n\nIntroduction\nLongevity, the quintessential complex trait, likely reflects\nall aspects of an organism’s life history.  In humans, the\nestimated heritability of age at death is estimated at\n25–33 % [1].  Genetic contributions to mortality rates are\nthus of great interest and may aid in the understanding of\ndisease etiology and the process of aging itself [2]."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "\n\nHigh levels of CD8M cells are associated with diminished longevity in mated females (left panel; p < 0.001), but not in virgin females (center panel).Among virgin males, those dying of diseases other than the urinary syndrome MUS show no association between CD8M and longevity (open circles, upper line), but those dying because of MUS show a nonsignificant trend (filled circles, lower line, R = -0.27,p = 0.13) similar to the relationship observed in mated females.SOURCE : Miller et al. (unpublished results).Male or female mice that inherit the C57BL/6 (maternal) and C3H (paternal) alleles at D12Mit167 (light gray bars) are longer lived than their siblings that inherit the BALB plus C3H combination.The \"effect size\" shown at the right represents that difference in mean longevity between mice in the two genetically different groups, with (**) = p < 0.01 and (*) = p < 0.05 by t-test.Similar effect sizes are seen for mice dying of cancer or of non-neoplastic illnesses (\"benign\"), and among the cancer deaths the genetic effect is similar for deaths due to lymphoma and hepatoma.The genetic effect on longevity seems to be minimal, however, for mice dying of fibrosarcoma.Bars show means plus standard errors.SOURCE : Miller et al. (unpublished results)."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "\n\nOur own work has taken a different tack: we have attempted to determine whether mutations with differential effects on aging may be present within the many available populations of laboratory-adopted inbred mice.The goal is not so much to clone these genes-if indeed they existbecause positional cloning strategies of this kind require many thousands of animals and would be extremely expensive using an assay, age at death, that is itself so costly.Instead, the goal has been to use gene mapping methods to test hypotheses about aging and to develop new animal models that will be useful for testing well-specified hypotheses about the molecular basis for age-dependent changes.In the absence of a validated battery of biomarkers of aging, we (like most others) have reluctantly decided to use mouse life span as a crude surrogate for aging itself, reasoning that genetic alleles that extend life span well beyond the median for the tested population may be operating via an influence on aging itself.Work conducted using recombinant inbred mouse stocks (Gelman et al., 1988;de Haan and Van Zant, 1999) has suggested that life-span differences between pairs of inbred mouse lines might reflect the influence of as few as 4-7 polymorphic loci, providing some basis for hope that some of these would have an effect large enough to be detected by a genome scan experiment involving 300-1,200 mice."
+            },
+            {
+                "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                "section_type": "main",
+                "text": "DOI: https://doi.org/10.7554/eLife.75244\n\n\b\n\n24 of 30\nChromosomes and Gene Expression | Genetics and Genomics\n\nResearch article﻿﻿﻿﻿﻿﻿\nContinued\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10006, 10006\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10006&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10010, 10010\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10010&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10011, 10011\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10011&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10021, 10021\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10021&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10022, 10022\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10022&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10025, 10025\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10025&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10066, 10066\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10066&​dataset=​BXD-​\nLongevityPublish\n\nReferences\nAlbertsen HM, Smith SA, Mazoyer S, Fujimoto E, Stevens J, Williams B, Rodriguez P, Cropp CS, Slijepcevic P,\nCarlson M. 1994."
+            },
+            {
+                "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                "section_type": "main",
+                "text": "DOI: https://doi.org/10.7554/eLife.75244\n\n\b\n\n24 of 30\nChromosomes and Gene Expression | Genetics and Genomics\n\nResearch article﻿﻿﻿﻿﻿﻿\nContinued\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10006, 10006\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10006&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10010, 10010\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10010&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10011, 10011\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10011&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10021, 10021\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10021&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10022, 10022\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10022&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2020\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10025, 10025\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10025&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10066, 10066\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10066&​dataset=​BXD-​\nLongevityPublish\n\nReferences\nAlbertsen HM, Smith SA, Mazoyer S, Fujimoto E, Stevens J, Williams B, Rodriguez P, Cropp CS, Slijepcevic P,\nCarlson M. 1994."
+            },
+            {
+                "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                "section_type": "main",
+                "text": "NIH-PA Author Manuscript\n\nThis study indicated a large amount of genetic variation for mouse longevity; heritability\nwas 34% for AL and 36% for DR (60% of AL food intake).  There was no significant\ncorrelation between mean longevity under these two conditions, although maximum\nlifespans of the AL and DR mice were significantly correlated.  Similar observations were\nmade at the UTHSCSA on the ILSXISS RI mice (Liao et al. , 2010a, b; Mattson 2010),\nwhere they also observed similar heritability (28% AL males, 36% AL females, 55% DR\nmales, 53% DR females)."
+            },
+            {
+                "document_id": "958b37c9-9bd5-4e84-939d-8f12dccf1055",
+                "section_type": "main",
+                "text": "Conversely, the BXD strain with the shortest life span\n(BXD14) has the lowest responsiveness to the stimulatory effect of\nTGF-␤2 when old (48).  The region on chromosome 2 where a\nsuggestive QTL regulating the responsiveness to TGF-␤2 in old\nmice is located also contains two QTL for longevity (32).  Finally,\nthe strongest support for this hypothesis is the correlation between\nlongevity and the age-related increase in the serum-dependent effect of TGF-␤2 on LSK cells, the extent of which may determine\nstem cell function in aged mice."
+            },
+            {
+                "document_id": "cb3f9967-9762-4a9b-96cb-0acccdc316d2",
+                "section_type": "main",
+                "text": "Deficiency mapping of quantitative trait loci affecting longevity\nin Drosophila melanogaster.  Genetics 2000;156:1129–1146.  [PubMed: 11063689]\n33.  Ma RZ, et al.  Identification of Bphs, an autoimmune disease locus, as histamine receptor H1.  Science\n2002;297:620–623.  [PubMed: 12142541]\n\nNat Rev Genet.  Author manuscript; available in PMC 2007 November 5.\n Page 12\n\nNIH-PA Author Manuscript\n\n34.  Vivian JL, Chen Y, Yee D, Schneider E, Magnuson T. An allelic series of mutations in Smad2 and\nSmad4 identified in a genotype-based screen of N-ethyl-N-nitrosourea-mutagenized mouse\nembryonic stem cells.  Proc.  Natl Acad.  Sci.  USA 2002;99:15542–15547.  [PubMed: 12432092]\n35.  Vogel G. Scientists dream of 1001 complex mice."
+            },
+            {
+                "document_id": "9ac0b7e7-6294-4cfb-97e3-e5a4546af324",
+                "section_type": "main",
+                "text": ", Vogler, G.P. , Vandenbergh,\nD.J. , Blizard, D.A. , Stout, J.T.  & McClearn, G.E.  Quantitative Trait\nLocus (QTL) Analysis of Longevity in C57BL/6J byDBA/2J (BXD)\nRecombinant Inbred Mice.  Aging Clin Exp Res (in press).\n Lionikas, A., Blizard, D.A. , Vandenbergh, D.J. , Glover, M.G. ,\nStout, J.T. , Vogler, G.P. , McClearn, G.E.  & Larsson, L. (2003)\nGenetic architecture of fast- and slow-twitch skeletal muscle\nweight in 200-day-old mice of the C57BL/6J and DBA/2J lineage.\n Physiol Genomics 16, 141–152.\n Lionikas A., Blizard D.A. , Gerhard G.S. , Vandenbergh D.J. , Stout J.T. ,\nVogler G.P. , McClearn G.E."
+            },
+            {
+                "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                "section_type": "main",
+                "text": "352(6291): p. aad0189.\n Liao, C.Y. , et al. , Genetic variation in the murine lifespan response to dietary restriction: from life extension to life\nshortening.  Aging Cell, 2010.  9(1): p. 92-5.\n Johnson, M., Laboratory Mice and Rats.  Mater.  Methods, 2012.  2: p. 113.\n Fontaine, D.A.  and D.B.  Davis, Attention to Background Strain Is Essential for Metabolic Research: C57BL/6 and\nthe International Knockout Mouse Consortium.  Diabetes, 2016.  65(1): p. 25-33.\n Simon, M.M. , et al. , A comparative phenotypic and genomic analysis of C57BL/6J and C57BL/6N mouse strains.\n Genome Biol, 2013.  14(7): p. R82.\n Lilue, J., et al."
+            },
+            {
+                "document_id": "db0459f8-6602-48d7-be9b-14863a88bbe1",
+                "section_type": "main",
+                "text": "In addition,\nthe B6 mouse strain is one of the longest-lived mouse strains with a mean lifespan of 3\nyears versus other mouse strains with mean lifespan from 1.5-2 years.  Therefore, it is\nevident that the genetic background of a particular mouse strain can have a profound\neffect on the biology of the HSC population as well as organismal longevity.  Indeed, it is\nfor this reason that it is difficult to compare findings from various laboratories where\ndifferent mouse strains are used."
+            },
+            {
+                "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                "section_type": "main",
+                "text": "Here, we have extended this analysis to search for\ngenotypes related to survival to the age of 800 days in a\npopulation of a reciprocal F2 cross between (B6) and (D2)\nmice.  Since QTL for longevity in mice have shown strong\nsex specificity [10, 12], we conducted sex-specific analyses.  In addition, we also determined whether there were\nany change in pathology changes associated with the loci\nthat showed frequency distortions with aging.  To confirm\nthe associations of the loci of interest with longevity and\npathology, we performed replication analyses on a panel of\nBXD recombinant inbred strains."
+            },
+            {
+                "document_id": "f116ee1c-b275-4239-98e9-c2032b8f05c5",
+                "section_type": "main",
+                "text": "Age-associated changes are conserved between mouse strains\n\nLife span and aging vary between mouse strains.For example, C57BL/6 mice are long-lived compared to the short-lived DBA/2 mice (Turturro et al. 1999).To test the generality of our observations, we also examined LT-HSCs, ST-HSC and MPPs in young and old mice from the DBA/2 strain, which originates from a distinct breeding lineage (Fox 1997)."
+            },
+            {
+                "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                "section_type": "main",
+                "text": "For females, hairs of the congenic mice grew 31% faster, also highly significant (P =\n0.0006, 1-tailed).  These results validated the presence of a gene in the differential region\naffecting FE.\n\n Discussion\nWe report the outcomes of a quantitative genetic study on aging and longevity in the mouse.\n We studied an extant series of recombinant inbred strains (ILSXISS) that have been used\nboth in DR aging studies as well as to study alcohol sensitivity (Williams et al. , 2004)."
+            },
+            {
+                "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                "section_type": "main",
+                "text": "(2007) is a separate issue from the analyses conducted in this\nstudy (the AL efficiency model will be tested in future studies).\n\n Exp Gerontol.  Author manuscript; available in PMC 2011 September 1.\n Rikke et al.\n\n Page 8\n\nNIH-PA Author Manuscript\n\nOther studies have also reported that individual mice that maintained the highest BW were\nlikely to be the longest-lived individuals among cohorts of genetically identical mice\n(Weindruch et al. , 1986; Harper et al. , 2006)."
+            },
+            {
+                "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                "section_type": "main",
+                "text": "These strains of mice are now available from\nthe Jackson Laboratory.\n\n NIH-PA Author Manuscript\n\nPrevious studies have identified several physiological responses to DR, such as lower body\ntemperature and reduced body weight (BW), that exhibit genetic variation in the ILSXISS;\nheritability was 35% for body temperature and 42% for BW (Rikke et al. , 2003; Rikke et al. ,\n2004; Rikke et al. , 2006; Rikke and Johnson, 2007).  Here we suggest a role for metabolic\nefficiency in specifying longevity and other anti-aging actions of DR.  This is consistent with\nobservations of Weindruch et al."
+            },
+            {
+                "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                "section_type": "main",
+                "text": "Liao C-Y, Rikke BA, Johnson TE, Diaz V & Nelson JF Genetic variation in the murine lifespan\nresponse to dietary restriction: from life extension to life shortening.  Aging Cell 9, 92–95 (2010).\n [PubMed: 19878144]\n\nNat Metab.  Author manuscript; available in PMC 2022 March 22.\n Roy et al.\n\n Page 19\n\nAuthor Manuscript\nAuthor Manuscript\nAuthor Manuscript\nAuthor Manuscript\n\n18.  Mitchell SJet al.Effects of sex, strain, and energy intake on hallmarks of aging in mice.  Cell Metab.\n 23, 1093–1112 (2016).  [PubMed: 27304509]\n19."
+            },
+            {
+                "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                "section_type": "main",
+                "text": "Rikke BA, Liao C-Y, McQueen MB, Nelson JF & Johnson TE Genetic dissection of dietary\nrestriction in mice supports the metabolic efficiency model of life extension.  Exp.  Gerontol.  45,\n691–701 (2010).  [PubMed: 20452416]\n20.  Azzu V & Valencak TG Energy metabolism and ageing in the mouse: A mini-review.  Gerontology\n63, 327–336 (2017).  [PubMed: 28118636]\n21.  Pennacchio LA & Rubin EM Comparative genomic tools and databases: providing insights into the\nhuman genome.  J. Clin.  Invest.  111, 1099–1106 (2003).  [PubMed: 12697725]\n22.  Miller RAet al.An Aging Interventions Testing Program: study design and interim report.  Aging\nCell6, 565–575 (2007).  [PubMed: 17578509]\n23."
+            },
+            {
+                "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                "section_type": "main",
+                "text": "Strong Ret al.Evaluation of resveratrol, green tea extract, curcumin, oxaloacetic acid, and medium­\nchain triglyceride oil on life span of genetically heterogeneous mice.  J. Gerontol.  A. Biol.  Sci.\n Med.  Sci.  68, 6–16 (2013).  [PubMed: 22451473]\n24.  Yuan R, Peters LL & Paigen B Mice as a mammalian model for research on the genetics of aging.\n ILAR J. Natl.  Res.  Counc.  Inst.  Lab.  Anim.  Resour.  52, 4–15 (2011).\n 25.  Saul MC, Philip VM, Reinholdt LG & Chesler EJ High-diversity mouse populations for complex\ntraits.  Trends Genet.  35, 501–514 (2019).  [PubMed: 31133439]\n26."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "\n\nFIGURE 8-1 Correlation of mouse longevity with the percentage of CD4M cells measured at 18 months of age.The filled circles and darker line represent female mice, and the open circles and lighter line represent males.There is a significant correlation between CD4M levels and longevity; R 2 = 0.18, p = 0.0003 after adjustment for gender effects.SOURCE: Miller et al. (1997)."
+            },
+            {
+                "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                "section_type": "main",
+                "text": "Longevity data\nwas obtained from a parallel cohort of BXD mice housed in the same UTHSC colony, and members\nof this ‘longevity cohort’ were allowed to age until natural death (more detail on the longevity cohort\ncan be found in Roy et al. , 2021).  Males were excluded and strain-­by-­diet lifespan summary statistics\nwere derived.  Only strain-­by-­diet groups with five or more observations for lifespan were included in\nthe correlational analyses with the epigenetic predictors.\n\n Multivariable EWAS\nSite-­by-­site differential methylation analysis (EWAS) was performed on the 27,966 CpGs using a\nmultivariable regression model."
+            },
+            {
+                "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                "section_type": "main",
+                "text": "Longevity data\nwas obtained from a parallel cohort of BXD mice housed in the same UTHSC colony, and members\nof this ‘longevity cohort’ were allowed to age until natural death (more detail on the longevity cohort\ncan be found in Roy et al. , 2021).  Males were excluded and strain-­by-­diet lifespan summary statistics\nwere derived.  Only strain-­by-­diet groups with five or more observations for lifespan were included in\nthe correlational analyses with the epigenetic predictors.\n\n Multivariable EWAS\nSite-­by-­site differential methylation analysis (EWAS) was performed on the 27,966 CpGs using a\nmultivariable regression model."
+            },
+            {
+                "document_id": "5e47c149-228e-41fb-b93b-3ea5bef15d6c",
+                "section_type": "main",
+                "text": "Using a large panel of BXD\nrecombinant inbred (RI) strains of mice generated by crossing strains\n\nB6 and D2, we defined a QTL on chromosome 11 called stem cell\nproliferation-2 (Scp2) that modulates the percentage of cells in\nS phase6.  The same locus was associated with the difference in mean\nmouse lifespan between these two strains6, suggesting that increased\nstem cell turnover is one of the factors that underlie the aging process.\n The relevance of this 10-cM region in isolation was confirmed in an\nextensive analysis of backcrossed mice and, ultimately, in a congenic\nmouse model9."
+            },
+            {
+                "document_id": "969427e9-5901-402d-9d30-216c3c2f528c",
+                "section_type": "main",
+                "text": "Using a large panel of BXD\nrecombinant inbred (RI) strains of mice generated by crossing strains\n\nB6 and D2, we defined a QTL on chromosome 11 called stem cell\nproliferation-2 (Scp2) that modulates the percentage of cells in\nS phase6.  The same locus was associated with the difference in mean\nmouse lifespan between these two strains6, suggesting that increased\nstem cell turnover is one of the factors that underlie the aging process.\n The relevance of this 10-cM region in isolation was confirmed in an\nextensive analysis of backcrossed mice and, ultimately, in a congenic\nmouse model9."
+            },
+            {
+                "document_id": "6b2dba7c-0249-448e-9e84-92de7088109b",
+                "section_type": "main",
+                "text": "[PubMed: 29945935]\nWilliams EG, Roy S, Statzer C, Ingels J, Bohl C, Hasan M, Cuklina J, Lu L, Ewald CY, Williams RW,\net al.  (2020).  The Molecular Landscape of the Aging Mouse Liver.  BioRxiv Syst Biol\n2020.08.20.222968.\n Williams RW, Strom RC, and Goldowitz D (1998).  Natural variation in neuron number in mice is\nlinked to a major quantitative trait locus on Chr 11.  J Neurosci 18, 138–146.  [PubMed: 9412494]\nWilliams RW, Gu J, Qi S, and Lu L (2001).  The genetic structure of recombinant inbred mice: highresolution consensus maps for complex trait analysis.  Genome Biol 2, RESEARCH0046."
+            },
+            {
+                "document_id": "75813bc2-f0b5-400c-92d7-0958df97a04f",
+                "section_type": "main",
+                "text": "Accessing data resources in the mouse\nphenome database for genetic analysis of murine life span and health span.  J.\nGerontol.  A Biol.  Sci.  Med.  Sci.  71 (2), 170–177.\n Brown, R.E. , Stanford, L., Schellinck, H.M., 2000.  Developing standardized behavioral\ntests for knockout and mutant mice.  ILAR J.  41 (3), 163–174.\n Bubier, J.A. , Jay, J.J., Baker, C.L. , Bergeson, S.E. , Ohno, H., Metten, P., Crabbe, J.C.,\nChesler, E.J. , 2014.  Identiﬁcation of a QTL in Mus musculus for alcohol preference,\nwithdrawal, and Ap3m2 expression using integrative functional genomics and precision genetics.  Genetics 197 (4), 1377–1393.\n Burn, C.C. , 2008."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "\n\nThe strongest associations in these initial studies had involved T-cell subsets measured on 18-month-old mice, i.e., mice that had already completed 70 percent of the median life span (approximately 26 months) of the population, but correlations of longevity and T-cells subsets tested in  (Tuffery, 1966), which is seen only in nondominant males housed with more aggressive males.This lesion, thought to be secondary to adjustments in dominance hierarchy, typically causes death at relatively early ages, and therefore mice dying of MUS are treated as a separate subgroup.None of the T-cell subsets tested at 8 months of age was able to predict subsequent longevity in the virgin males or virgin females, but there was a significant inverse correlation between CD8M cells and longevity in the mated females.Figure 8-4 shows the scatterplots for all four sets of mice.The correlation for mated females (R = -0.22,p < 0.001) is in the predicted direction, that is, with high levels of memory cells associated with lower life expectancy.There is no correlation in virgin females or in the virgin males dying of causes other than MUS.Males dying of MUS, similar to mated females, show an inverse correlation (R = -0.27,p = 0.13), which, however, is not statistically significant.These data thus support the idea that tests of age-sensitive traits, measured at ages as early as the first third of the life span, may be able to predict subsequent longevity, but raise the concern that the associations may vary with gender and either hormonal exposure or reproductive history.Levels of CD4M and CD8M cells are strongly and positively correlated at all ages (R = 0.70, 0.65, and 0.40 at 8, 14, and 20 months, respectively, all p < 0.005) (Miller, 1997b), and there is no a priori reason to expect that the former subset would be associated with longevity only in virgin animals and the latter only in mated females.We have now initiated a number of collaborations to see if these subsets correlate in expected directions with indices of age-sensitive change in cells and tissues outside the immune system, as well as with life span and protective immune function in these heterogeneous mice."
+            },
+            {
+                "document_id": "75e0ffe8-7675-4e11-be3e-880bfeb3dabd",
+                "section_type": "main",
+                "text": "Bogue MA, Peters LL, Paigen B, Korstanje R, Yuan R, Ackert-Bicknell C, et al.  Accessing Data\nResources in the Mouse Phenome Database for Genetic Analysis of Murine Life Span and Health\nSpan.  J Gerontol A Biol Sci Med Sci.  2016; 71: 170–177.  https://doi.org/10.1093/gerona/glu223 PMID:\n25533306\n\n48.\n\n Ackert-Bicknell CL, Shockley KR, Horton LG, Lecka-Czernik B, Churchill GA, Rosen CJ.  Strain-specific\neffects of rosiglitazone on bone mass, body composition, and serum insulin-like growth factor-I.  Endocrinology.  2009; 150: 1330–1340.  https://doi.org/10.1210/en.2008-0936 PMID: 18948404\n\n49.\n\n Yang H, Ding Y, Hutchins LN, Szatkiewicz J, Bell TA, Paigen BJ, et al."
+            },
+            {
+                "document_id": "606c59c5-5ae4-47e9-b3eb-58afa55669d1",
+                "section_type": "main",
+                "text": "Although genes clustered by treatment,\nconsiderable overlap among treatments was nevertheless observed, suggesting a connection among starvation, dessication, and longevity phenotypes previously noted by\nHoffman and Harshman 1999 and others.\n Expression profiling has also been carried out on mice selected in the laboratory for\nincreased voluntary wheel running (Bronikowski et al.  2004).  Gene expression profiles\nwere obtained on hippocampus tissue, as that brain region had previously been shown\nto undergo marked physiological changes in response to wheel running."
+            },
+            {
+                "document_id": "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed",
+                "section_type": "main",
+                "text": "Although genes clustered by treatment,\nconsiderable overlap among treatments was nevertheless observed, suggesting a connection among starvation, dessication, and longevity phenotypes previously noted by\nHoffman and Harshman 1999 and others.\n Expression profiling has also been carried out on mice selected in the laboratory for\nincreased voluntary wheel running (Bronikowski et al.  2004).  Gene expression profiles\nwere obtained on hippocampus tissue, as that brain region had previously been shown\nto undergo marked physiological changes in response to wheel running."
+            },
+            {
+                "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                "section_type": "main",
+                "text": "DOI: https://doi.org/10.7554/eLife.75244\n\n\b\n\n23 of 30\nChromosomes and Gene Expression | Genetics and Genomics\n\nResearch article﻿﻿﻿﻿﻿﻿\nContinued\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10072, 10072\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10072&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10073, 10073\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10073&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10074, 10074\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10074&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10075, 10075\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10075&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10076, 10076\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10076&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2022\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10093, 10093\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10093&​dataset=​BXD-​\nLongevityPublish\n\nThe following previously published datasets were used:\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10001, 10001\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10001&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10002, 10002\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10002&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10003, 10003\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10003&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10004, 10004\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10004&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10005, 10005\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10005&​dataset=​BXD-​\nLongevityPublish\n\nContinued on next page\n\nMozhui et al."
+            },
+            {
+                "document_id": "606c59c5-5ae4-47e9-b3eb-58afa55669d1",
+                "section_type": "main",
+                "text": "Burger, J. M. S., K. Munjong, J. Pont, and T. Kawecki.  2008.  Learning ability and longevity:\nA symmetrical evolutionary trade-off.  Evolution 62:1294–1304.\n Carlson, K. A., and L. G. Harshman.  1999a.  Extended longevity lines of Drosophila\nmelanogaster: Abundance of yolk protein gene mRNA in fat body and ovary.  Experimental\nGerontology 34:173–184.\n ———.  1999b.  Extended longevity lines of Drosophila melanogaster: Characterization of\noocyte stages and ovariole numbers as a function of age and diet.  Journal of Gerontology,\nBiological Sciences 54A:B432–B440.\n Carlson, K. A., T. J. Nusbaum, M. R. Rose, and L. G. Harshman.  1998."
+            },
+            {
+                "document_id": "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed",
+                "section_type": "main",
+                "text": "Burger, J. M. S., K. Munjong, J. Pont, and T. Kawecki.  2008.  Learning ability and longevity:\nA symmetrical evolutionary trade-off.  Evolution 62:1294–1304.\n Carlson, K. A., and L. G. Harshman.  1999a.  Extended longevity lines of Drosophila\nmelanogaster: Abundance of yolk protein gene mRNA in fat body and ovary.  Experimental\nGerontology 34:173–184.\n ———.  1999b.  Extended longevity lines of Drosophila melanogaster: Characterization of\noocyte stages and ovariole numbers as a function of age and diet.  Journal of Gerontology,\nBiological Sciences 54A:B432–B440.\n Carlson, K. A., T. J. Nusbaum, M. R. Rose, and L. G. Harshman.  1998."
+            },
+            {
+                "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                "section_type": "main",
+                "text": "Because most of the mice in our lifespan study were\ncannibalized before they were found, we did not conduct pathology studies, nor did we have\nsufficient funds to perform detailed autopsies.\n\n NIH-PA Author Manuscript\n\nIt’s also important to note that our lifespan data correlated significantly with female fertility,\npost DR (R = 0.44, P = 0.006, N = 33 strains).  This observation suggests genetic segregation\nof a common anti-aging component, which we called Aging Measure 1.  Several previous\nstudies of female reproductive capabilities under DR (Weindruch and Walford, 1988; Merry\nand Holehan, 1991; Johnston et al."
+            },
+            {
+                "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                "section_type": "main",
+                "text": "DOI: https://doi.org/10.7554/eLife.75244\n\n\b\n\n23 of 30\nChromosomes and Gene Expression | Genetics and Genomics\n\nResearch article﻿﻿﻿﻿﻿﻿\nContinued\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10072, 10072\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10072&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10073, 10073\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10073&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10074, 10074\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10074&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10075, 10075\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10075&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10076, 10076\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10076&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2022\n\nGenetics and epigenetics\nof aging and longevity in\nBXD mice\n\nhttp://www.​\nBDL_10093, 10093\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10093&​dataset=​BXD-​\nLongevityPublish\n\nThe following previously published datasets were used:\nAuthor(s)\n\nYear\n\nDataset title\n\nDataset URL\n\nDatabase and Identifier\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10001, 10001\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10001&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10002, 10002\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10002&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10003, 10003\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10003&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10004, 10004\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10004&​dataset=​BXD-​\nLongevityPublish\n\nLongevityteam\n\n2021\n\nGenetics of longevity in\nBXD mice\n\nhttp://www.​\nBDL_10005, 10005\ngenenetwork.​org/​\nshow_​trait?​trait_​id=​\n10005&​dataset=​BXD-​\nLongevityPublish\n\nContinued on next page\n\nMozhui et al."
+            }
+        ],
+        "document_id": "2D2D12594F1A6AC91E150695D70A4FFA",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "C57BL/6&allele",
+            "C3H&allele",
+            "BALB&allele",
+            "D2Mit58",
+            "D16Mit182",
+            "longevity",
+            "mouse",
+            "genetic",
+            "D12Mit167",
+            "IGF-1"
+        ],
+        "metadata": [
+            {
+                "object": "using in vitro prolactin induced lactogenic differentiation in an HC11 mouse cell model and an in vivo conditional knockout mouse model we showed that mouse Zfhx3 is essential for mouse mammary epithelial cell differentiation and mouse mammary gland development at the lactation stage through regulation of prolactin receptor expression and the downstream Jak2-Stat5 signaling pathway.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab989160"
+            },
+            {
+                "object": "Genetic variants of mA3 are associated with the restriction factor Rfv3 recovery from Friend leukemia virus and with resistance to mouse mammary tumor virus. We sequenced mA3 from laboratory strains and wild mouse species to examine its evolution. We discovered that the mA3 allele in virus resistant mice such as C57BL/6J but not DBA/2J is disrupted by insertion of the regulatory sequences of a mouse leukemia virus, and this insertion is associated with enhanced mA3 expression. C Kozak",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab2087"
+            },
+            {
+                "object": "Enhancing IGF-1 expression by astrocytes provided hippocampal neuroprotection and improved memory and motor function after traumatic brain injury. Delivering IGF-1 through reactive astrocytes targeted IGF-1 overexpression to the damaged hippocampus, producing a progressive increase in IGF-1 over 72 h which led to activation of the Akt pro-survival pathway and reduced hippocampal neuron loss in multiple regions.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab259579"
+            },
+            {
+                "object": "Study found that IL-6, GP130, IGF-1 and IGF-1R were highly expressed in non-small cell lung cancer NSCLC and there was the correlation between GP130, IGF-1, and IGF-1R. Co-stimulation of IL-6 and IGF-1 resulted in significantly enhanced cell proliferation, invasion, and apoptosis of NSCLC cells. This experiment revealed that IL-6 and IGF-1 can synergistically promote the progression of NSCLC.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab741940"
+            },
+            {
+                "object": "Strong cis eQTL LRS of 60, LRS 22, high B in mouse BXD data sets EPFL/LISP BXD HFD Muscle Affy Mouse Gene 1.0 ST Nov12 RMA Exon Level and in EPFL/LISP BXD CD+HFD and Liver Affy Mouse Gene 1.0 ST Apr13 RMA. Close to Numts and linked to longevity.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab5403"
+            },
+            {
+                "object": "The rasH2 mouse is a hemizygous transgenic mouse carrying the c-Ha-ras oncogene and that gene's promoter/enhancer within the genetic background of a BALB/cByJ x C57BL/6F1 mouse.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab854885"
+            },
+            {
+                "object": "review on novel mouse genetic studies that manipulate mHtt to answer questions related to spatio-temporal requirement for mHtt expression in eliciting Huntington's disease-like phenotypes in mouse models and on novel mouse models that aim to address the impact of huntingtin cis-domains or post-translational modifications on disease pathogenesis",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab677590"
+            },
+            {
+                "object": "IGF-1 has been associated with the pathogenesis of diabetic retinopathy\\r\\nA paracrine effect of IGF-1 in the retina initiated vascular alterations that progressed from nonproliferative to proliferative retinopathy and retinal detachment.\\r\\nIncreased IGF-1 induction of VEGF expression in retinal glial cells\\r\\nThese findings suggest a role of IGF-1 in the development of ocular complications in long-term diabetes.\\r\\nMK, Yates Lab Summer 2015",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab2596"
+            },
+            {
+                "object": "the effect of genetic inactivation of K-Cl cotransporters KCC1 and KCC3 in a mouse model of beta-thalassemia intermedia; conclude that genetic inactivation of K-Cl cotransport can reverse red cell dehydration and partially attenuate the hematologic phenotype in a mouse model of beta-thalassemia.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab804082"
+            },
+            {
+                "object": "IGF-1 and IGF-1 receptor may be involved in the pathogenesis of Graves' disease; IGF-1 and IGF-1 receptor act by different mechanisms paracrine vs. autocrine as suggested by their differential expression in epithelial and stromal cells.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab376152"
+            }
+        ],
+        "question": "Which mouse genes have been associated with longevity?",
+        "subquestions": null,
+        "task_id": "2D2D12594F1A6AC91E150695D70A4FFA",
+        "usage": {
+            "chatgpt": 9852,
+            "gpt-4": 6314,
+            "gpt-4-turbo-preview": 4895
+        },
+        "user_id": 2
+    },
+    "document_id": "2D2D12594F1A6AC91E150695D70A4FFA",
+    "task_id": "2D2D12594F1A6AC91E150695D70A4FFA"
+}

@@ -1,0 +1,138 @@
+{
+    "created_at": "2024-04-18T18:24:11.260410Z",
+    "data": {
+        "amplify": false,
+        "answer": "Yes, there are phenotypes and genotypes associated with early onset diabetes in mice. The db/db mouse strain, which carries the diabetes (db) mutation, is one such genotype. These mice develop an abnormal and characteristic deposition of fat beginning at 3 to 4 weeks of age, which is an associated phenotype. The C57BL/Ks strain also exhibits early onset diabetes. The severity of the diabetes condition in these mice depends on the interaction of the mutant gene with the inbred background.",
+        "context": {
+            "1bf337a1-ffed-4199-a11f-c5a62df47980": [
+                {
+                    "document_id": "1bf337a1-ffed-4199-a11f-c5a62df47980",
+                    "text": "\n\nSubsequently, genetic dissection of the diabetes-associated traits in the male BC1 progeny obtained from a cross between (normal B6 female ϫ diabetic TH male)F1 female and diabetic TH male mice (B6 cross) was carried out.Because of the sexual dimorphism, with respect to NIDDM onset, we used diabetic TH male mice as breeders to ensure the presence of a mutant allele(s) and targeted our genetic dissection using only male BC1 progeny.In male BC1 mice hyperglycemia developed at approximately 20 weeks of age and was sustained through a 30-week period studied.Based on these data, we measured plasma glucose levels three times in biweekly intervals (to minimize phenotyping error) between 20 and 26 weeks of age, and the mean of the three measurements was used for genetic analysis.Body weights were measured at 20 weeks.At the end of the study (26 weeks), plasma insulin levels and nasal-anal lengths were measured, and the five regional fat pads were dissected and weighed from a subset of 133 mice.In total, 206 male BC1 mice were collected, and individual mice were genotyped with 92 SSLP markers at approximately 20-cM intervals (covering ϳ96% of the genome)."
+                }
+            ],
+            "20771d36-aa57-46ad-b3c6-80f5b038ba43": [
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nEffects of Inbred Background (Table 2).The syndrome produced in BL/Ks diabetes (db) mice, while similar in early development to that of BL/6 obese (ob) mice, has a more severe diabetes-like condition and a less pronounced obesity.However, both mutations when maintained on the same inbred background exhibit identical syndromes from 3 weeks of age on [9,21].Both diabetes and obese mice of the BL/Ks strain have the severe diabetes characterized by insulinopaenia and islet atrophy, whereas both mutations maintained on the BL/6 strain have mild diabetes characterized by islet hypertrophy and hyperplasia of the beta cells.Islet hypertrophy is either sustained or followed by atrophy depending on modifiers in the genetic background rather than the specific action of the mutant gene.The markedly different obesity-diabetes states exhibited when obese and diabetes mice are on different backgrounds points out the importance of strict genetic control in studies with all types of obese-hyperglycaemic mutants.Genetic studies [11] have shown that the modifiers leading to islet hypertrophy and well-compensated diabetes compatible with a near normal lifespan are dominant to those factors causing severe diabetes.Two other mutations, yellow and fat, cause similar diabetes-syndromes and yet have identical symptoms on both inbred backgrounds (Table 2).This may suggest that the primary insult caused by these mutations is not as severe as that for obese and diabetes and that this more gradual initiation of obesity permits the host genome to make a response (islet hypertrophy) compatible with life rather than islet atrophy, insulinopaenia, and life-shortening diabetes."
+                },
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nThe animal models available for diabetes research (Table 1) are most often more like maturityonset diabetes in man.Obesity is a consistent factor and insulinopaenia is rare.However, the time of gene expression at about two weeks of age is within the time period of juvenile expression.The severity and clinical course of the diabetes produced depends on the interaction of the mutant gene with the inbred background rather than the action of the gene itself.Thus on one inbred background a well-compensated, maturity onset type diabetes, compatible with near normal life is observed whereas on another inbred background the syndrome presents as a juvenile-type diabetes with insulinopaenia, islet cell degeneration, marked hyperglycaemia, some ketosis and a much shortened lifespan.Unfortunately, vascular, retinal and the other complications of diabetes are not seen consistently in these rodent syndromes.It seems that the severely diabetic animal either does not live long enough to develop these complications or that rodents are particularly resistant to those complications that commonly afflict human diabetics.Several comprehensive bibliographies and excellent reviews of the various studies carried out with each of these syndromes in animals have been published [2,3,19,30,31,32].This presentation will be restricted primarily to the research undertaken by my colleagues and myself with the two mouse mutations; diabetes (db), and obese (ob).Both mutations have been extensively studied by numerous investigators in attempts to define the primary lesion causing the syndrome.As yet, the primary defect remains illusive, although several possibilities are becoming increasingly plausible in the light of current research.Although the metabolic abnormalities associated with both obese and diabetes have many similarities with regard to the overall progression of the obesity-diabetes state, the documentation of two single genes on separate chromosomes makes it unlikely that the two syndromes are caused by the same primary lesion.However, the marked similarity between the two mutants when maintained on the same genetic background implies that the defects may occur in the same metabolic pathway."
+                },
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nDiabetes-obesity syndromes in rodents"
+                },
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nThe Diabetes (db) .Mouse (Chromosome 4).Diabetes (db), an autosomal recessive mutation, occurred in the C57BL/KsJ (BL/Ks) inbred strain and on this background is characterized by obesity, hyperphagia, and a severe diabetes with marked hyperglycaemia [7,22].Increased plasma insulin concentration is observed as early as 10 days of age [10].The concentration of insulin peaks at 6 to 10 times normal by 2 to 3 months of age then drops precipitously to near normal levels.Prior to the fall in plasma insulin concentration, the most consistent morphological feature of the islets of Langerhans appears to be hyperplasia and hypertrophy of the beta cells in an attempt to produce sufficient insulin to control blood glucose concentration at physiological levels.The drop in plasma insulin concentration is concomitant with islet atrophy and rapidly rising blood glucose concentrations that remain over 400 mg per 100 ml until death at 5 to 8 months [7].Compared with other obesity mutants the diabetic condition is more severe and the lifespan is markedly decreased."
+                }
+            ],
+            "29e232a4-a580-411d-83a3-7ff6a4e8f0ad": [
+                {
+                    "document_id": "29e232a4-a580-411d-83a3-7ff6a4e8f0ad",
+                    "text": "\n\nDiabetes-related clinical traits for 275 B6XBTBR-ob/ ob F2 male mice at 10 weeks of age."
+                },
+                {
+                    "document_id": "29e232a4-a580-411d-83a3-7ff6a4e8f0ad",
+                    "text": "Results\n\nWe generated an F2 inter-cross between diabetes-resistant (B6) and diabetes-susceptible (BTBR) mouse strains, made genetically obese in response to the Lep ob mutation [24].The cross consisted of .500mice, evenly split between males and females.A comprehensive set of ,5000 genotype markers were used to genotype each F2 mouse (,2000 informative SNPs were used for analysis), and the expression levels of ,40 K transcripts (corresponding to 25,901 unique genes) were monitored in five tissues (adipose, liver, pancreatic islets, hypothalamus, and gastroc (gastrocnemius muscle)) that were harvested from each mouse at 10 weeks of age.In addition to gene expression, several key T2D-related traits were determined for each mouse.The medians, and 1st and 3rd quartiles for the following traits: body weight, the number of islets harvested per pancreas, HOMA, plasma insulin, glucose, triglyceride, and C-peptide are listed in Table 1."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "However, in other contexts, B6 mice are more likely\nthan D2 to spontaneously develop diabetic syndromes,\nAging Clin Exp Res\n\nindicating that risk factors exist on both genetic backgrounds [29]. QTL mapping studies indicate that these\nmurine metabolic traits have a complex genetic architecture that is not dominated by any single allele [29–31],\nmuch like humans [32, 33]. Prior work identified candidate genes on Chr 13 that might\nunderlie diabetes-related traits, including RASA1, Nnt, and\nPSK1. RASA1 show strong sequence differences between\nB6 and D2 strains [34]. Rasche et al."
+                },
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Thus, there is a rich literature\nindicating strong genetic effects on glucose metabolism in\nthe B6 and D2 genetic background, and a male-specific\nform of diabetes is known to spontaneously occur in hybrids of this strain. Dental traits\nThe reported link between a Chr 13 locus and dental\nmalocclusions [46] might provide an alternative or additional explanation of the associations we observe. Dental\nmalocclusions were the only major male-specific cause of\ndeath we observed in this mouse population (20 % of\nmales that died before the 750-day phenotyping tests, 0 %\nof females)."
+                }
+            ],
+            "84b037c5-8e75-434f-aad1-d270257963f6": [
+                {
+                    "document_id": "84b037c5-8e75-434f-aad1-d270257963f6",
+                    "text": "\n\nObesity-associated diabetes (''diabesity'') in mouse strains is characterized by severe insulin resistance, hyperglycaemia and progressive failure, and loss of beta cells.This condition is observed in inbred obese mouse strains such as the New Zealand Obese (NZO/HlLt and NZO/HlBomDife) or the TALLYHO/JngJ mouse.In lean strains such as C57BLKS/J, BTBR T?tf/J or DBA/2 J carrying diabetes susceptibility genes (''diabetes susceptible'' background), it can be induced by introgression of the obesity-causing mutations Lep \\ob[ (ob) or Lepr \\db[ (db).Outcross populations of these models have been employed in the genome-wide search for mouse diabetes genes, and have led to positional cloning of the strong candidates Pctp, Tbc1d1, Zfp69, and Ifi202b (NZO-derived obesity) and Sorcs1, Lisch-like, Tomosyn-2, App, Tsc2, and Ube2l6 (obesity caused by the ob or db mutation).Some of these genes have been shown to play a role in the regulation of the human glucose or lipid metabolism.Thus, dissection of the genetic basis of obesity and diabetes in mouse models can identify regulatory mechanisms that are relevant for the human disease."
+                },
+                {
+                    "document_id": "84b037c5-8e75-434f-aad1-d270257963f6",
+                    "text": "\n\nPolygenic basis of ''diabesity'' in mice: the interaction of obesity and diabetes genes Obesity-associated diabetes (''diabesity'') is due to interaction of genes causing obesity with diabetes genes.This conclusion is based on findings indicating that obesity is a necessary but not sufficient condition for the type 2 diabetes-like hyperglycaemia: Obese mice are insulin resistant and therefore more or less glucose intolerant, but in some strains such as C57BL/6J-ob/ob, insulin resistance is compensated by hyperinsulinemia and beta cell hyperplasia, and plasma glucose is only moderately elevated.Other models such as C57BLKS/J-db/db and NZO present overt diabetes mellitus as defined by a threshold of 16.6 mM (300 mg/dl) plasma glucose (Leiter et al. 1998); mice crossing this threshold usually exhibit progressive failure and subsequent apoptosis of beta cells.This type 2 diabetes-like condition is not due to the obesity-causing gene variants but to other genes in the genetic background of the strain, which cause obesity-associated diabetes.The severe and early onsetting diabetes of the C57BLKS/J-db/ db strain is due to the C57BLKS/J background, since mice carrying the db mutation on the C57BL/6J background are not diabetic (Stoehr et al. 2000).Conversely, C57BL/6Job/ob mice are normoglycemic, whereas introgression of the ob mutation into the C57BLKS/J background produced a severely diabetic strain (Coleman 1978).Furthermore, it has been shown that in crosses of lean, normoglycaemic strains with diabetic strains the lean strain can introduce variants that markedly aggravate the diabetic phenotype (Leiter et al. 1998;Plum et al. 2000)."
+                },
+                {
+                    "document_id": "84b037c5-8e75-434f-aad1-d270257963f6",
+                    "text": "\nObesity-associated diabetes (''diabesity'') in mouse strains is characterized by severe insulin resistance, hyperglycaemia and progressive failure, and loss of beta cells.This condition is observed in inbred obese mouse strains such as the New Zealand Obese (NZO/HlLt and NZO/HlBomDife) or the TALLYHO/JngJ mouse.In lean strains such as C57BLKS/J, BTBR T?tf/J or DBA/2 J carrying diabetes susceptibility genes (''diabetes susceptible'' background), it can be induced by introgression of the obesity-causing mutations Lep \\ob[ (ob) or Lepr \\db[ (db).Outcross populations of these models have been employed in the genome-wide search for mouse diabetes genes, and have led to positional cloning of the strong candidates Pctp, Tbc1d1, Zfp69, and Ifi202b (NZO-derived obesity) and Sorcs1, Lisch-like, Tomosyn-2, App, Tsc2, and Ube2l6 (obesity caused by the ob or db mutation).Some of these genes have been shown to play a role in the regulation of the human glucose or lipid metabolism.Thus, dissection of the genetic basis of obesity and diabetes in mouse models can identify regulatory mechanisms that are relevant for the human disease."
+                }
+            ],
+            "8cb13eb6-a9b9-4f9f-8680-9b8add1c453d": [
+                {
+                    "document_id": "8cb13eb6-a9b9-4f9f-8680-9b8add1c453d",
+                    "text": "Spontaneous type 2 diabetic models\n\nSpontaneously diabetic animals of type 2 diabetes may be obtained from the animals with one or several genetic mutations transmitted from generation to generation (e.g., ob/ob, db/db mice) or by selected from non-diabetic outbred animals by repeated breeding over several generation [e.g., (GK) rat, Tsumara Suzuki Obese Diabetes (TSOD) mouse].These animals generally inherited diabetes either as single or multigene defects.The metabolic peculiarities result from single gene defect (monogenic) which may be due to dominant gene (e.g., Yellow obese or KK/A y mouse) or recessive gene (diabetic or db/db mouse, Zucker fatty rat) or it can be of polygenic origin [e.g., Kuo Kondo (KK) mouse, New Zealand obese (NZO) mouse] 13 .Type 2 diabetes occurring in majority of human being is a result of interaction between environmental and multiple gene defects though certain subtype of diabetes do also exist with well defined cause [i.e., maturity onset diabetes of youth (MODY) due to defect in glucokinase gene] and this single gene defects may cause type 2 diabetes only in few cases."
+                }
+            ],
+            "8e92b2e3-b525-4c17-a0cb-5ca740a74c66": [
+                {
+                    "document_id": "8e92b2e3-b525-4c17-a0cb-5ca740a74c66",
+                    "text": "\n\nMice of the KK strain exhibit a multigenic syndrome of hyperphagia, moderate obesity, hyperinsulinemia, and hyperglycemia (Ikeda 1994;Nakamura andYamada 1963, 1967;Reddi and Camerini-Davalos 1988).Most KK males develop non-insulindependent diabetes after 4 months of age (Leiter and Herberg 1997).While KK females are much less diabetes prone, they do become obese.Previous analyses indicate that the inheritance of obesity and diabetes phenotypes in KK mice is multigenic (Nakamura and Yamada 1963;Reddi and Camerini-Davalos 1988).In the present study, we have searched for QTLs affecting male and female adiposity and related traits in an intercross between strains KK and B6."
+                }
+            ],
+            "acfbb3e9-6eeb-4541-bd1f-9f460de09958": [
+                {
+                    "document_id": "acfbb3e9-6eeb-4541-bd1f-9f460de09958",
+                    "text": "We have previously shown that diabetes traits show strong\nheritability in an F2 intercross between the diabetes-resistant\nC57BL/6 leptinob/ob and the diabetes-susceptible BTBR leptinob/ob\nmouse strains. We assume that the disease phenotype is brought\nabout by a complex pattern of gene expression changes in key\ntissues [21,22]. However, we also recognize the complexity\ninherent in discriminating the gene expression changes that cause\ndiabetes from those that occur as a consequence of the disease. For\nexample, many genes are known to be responsive to elevated\nblood glucose levels [43]."
+                }
+            ],
+            "b1a1282d-421f-494a-b9df-5c3c9e1e2540": [
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Although the early onset of diabetes in db mice\ncoincides with t h a t in juvenile diabetes in man, the\nsymptoms of obesity and elevated serum insulin are\nmore suggestive of the pattern of development observed in the maturity-onset type of diabetes. As yet,\nnone of the lesions associated with advanced diabetes\nin humans such as retinopathies, cardiovascular and\nkidney lesions have been observed, possibly because\nof the early onset of the diabetes and the relatively\nrapid deterioration and death of these mice."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Key-words: Spontaneous Diabetes, Genotype : C57BL/\nK5-db, Diabetes in mice, Mutation: diabetes, Obesity,\nPrediabetes, Insulin in plasma, Insulin in pancreas."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Results\nAll mice homozygous for the trait, diabetes (db),\ndevelop an abnormal and characteristic deposition of\nfat beginning at 3 to 4 weeks of age, making their early\nidentification possible. The difference in size and\nappearance of litter-mate 6-week old mice, one normal\nand one diabetic, is shown in Fig. 1. Weight increases\n\nFig. 1. C57BL/Ks-db litter-mates a t 6 weeks."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Diabetologia 3, 238-248 (1967)\n\nStudies with the Mutation, Diabetes, in the Mouse*\nD . L . COT.EMA~ a n d I ~ T H A a I ~\n\nP. t I u M ~ L\n\nThe Jackson Laboratory, Bar Harbor, Maine\n\nSummary. The mutation, diabetes:,(db), t h a t occurred\nin the C57BL/Ks strain of mice is a unit autosomal recessive gene with full penetrance, and causes metabolic\ndisturbances in homozygous mice resembling diabetes\nmellitus in man."
+                }
+            ],
+            "c24330f7-9f82-404a-86d5-a16d814bb754": [
+                {
+                    "document_id": "c24330f7-9f82-404a-86d5-a16d814bb754",
+                    "text": "\n\nTo screen for genes that show correlation with different phenotypic outcome in diabetic mouse models, we used the cross-sectional design and performed microarray analysis on 24-wk-old STZ-treated and db/db mice with established renal pathology.In parallel with the functional genomics characterization, each individual mouse underwent a detailed renal phenotype analysis.Mice that were treated with low doses of STZ developed diabetes and moderately severe albuminuria (twice the control).In mice with C57B6/J background, the mesangial changes were mild or absent.Mice with 129SvJ genetic background developed significant glomerular changes.However, these were not significantly different from the agematched controls (K.Sharma, K. Susztak, and E.P. Bo ¨ttinger, unpublished observations).The db/db mice became insulin resistant and developed diabetes at approximately 8 wk of age.Albuminuria was detected as early as 3 to 4 wk after the development of hyperglycemia.The glomerular histology was characterized by severe diffuse mesangial expansion, as previously reported (49)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "C3F023A2C80BEF6F4CD95247A2F2D906",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "db",
+            "diabetes",
+            "C57BL/Ks",
+            "obesity",
+            "insulin",
+            "hyperglycaemia",
+            "beta&cells",
+            "mutation",
+            "C57BLKS/J",
+            "NZO"
+        ],
+        "metadata": [],
+        "question": "Are there phenotypes or genotypes associated with early onset diabetes in mouse?",
+        "subquestions": null,
+        "task_id": "C3F023A2C80BEF6F4CD95247A2F2D906",
+        "usage": {
+            "chatgpt": 8500,
+            "gpt-4": 4937,
+            "gpt-4-turbo-preview": 3964
+        },
+        "user_id": 2
+    },
+    "document_id": "C3F023A2C80BEF6F4CD95247A2F2D906",
+    "task_id": "C3F023A2C80BEF6F4CD95247A2F2D906"
+}

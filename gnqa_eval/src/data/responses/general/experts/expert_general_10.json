@@ -1,0 +1,132 @@
+{
+    "created_at": "2024-06-01T14:34:54.821428Z",
+    "data": {
+        "amplify": false,
+        "answer": "Ensembl is a joint project between the EBI and the Wellcome Trust Sanger Institute. It is a publicly available web resource that contains automatically annotated genomes and integrates data from a wide range of biological research sources. Launched in 1999, the Ensembl database was the first to provide a window on the draft genome, curating the results of a series of computational analyses. It provides comprehensive information about the human genome including variants like SNPs, insertions, deletions, and somatic mutations for several species. Ensembl also offers tools for data retrieval and analysis.",
+        "context": {
+            "1a93e25f-2a43-49e9-8450-03a57c93e613": [
+                {
+                    "document_id": "1a93e25f-2a43-49e9-8450-03a57c93e613",
+                    "text": "Annotation, preprocessing and categorization of data\n\nWe used Ensembl (version 39) as the annotation reference database.Homology between human and mouse genes was derived via BioMart.The total number of genes under study comprises 15,277 Ensembl mouse genes representing the union of the homologue genes from all data sources.An overview about the T2DM specific datasets is given in Table 1."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/). Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining). Domain (protein) A region of special biological interest within a single protein\nsequence."
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/). Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining). Domain (protein) A region of special biological interest within a single protein\nsequence."
+                }
+            ],
+            "f7072d9b-4e07-4541-bac7-13a25761f460": [
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "Ensembl\n\nEnsembl is a publicly available web resource that contains automatically annotated genomes.It is integrated with other available biological databases like Jasper for binding motifs.It is a much larger web resource than T1Dbase, and contains general information about the human genome including variants.These include SNPs, insertions, deletions and somatic mutations (Alterations in DNA that occur after conception, meaning that they are not inherited) for several species.Data from Ensembl can be accessed in a number of ways.The names of all the SNPs that occur in the T1D susceptibility regions can be collected from Ensembl using the Biomart tool (Kinsella et al., 2011).To achieve this, the coordinates of the T1D regions obtained from T1Dbase are uploaded to the biomart query page which allows one to search the genome browser and retrieve data like the names, chromosomal positions, and genic positions (referred to as \"consequence to transcript\", in Ensembl) of the SNPs.The SNP genic positions tell if a SNP is located within a gene, adjacent to a gene or whether they occur in inter-genic positions between gene coding regions, as well as the particular genes in which they are located."
+                },
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "Advantages of Ensembl:\n\nThere is a number of advantages to using Ensembl. (i) It is a larger web resource than T1Dbase and integrates data from a wide range of biological research sources into its database.Therefore, available information is quite comprehensive. (ii) Genic positions for 99% of the variants obtained from T1Dbase could be retrieved. (iii) Ensembl contains quality checks for genetic variants in its variation pipeline.A variant is flagged as failed if certain quality criteria are not met, for instance if none of the variant alleles match the reference allele of the variant.Generally, Ensembl was found to give more detailed information regarding the genic positions of variants compared to T1Dbase."
+                },
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "\n\nInformation about genes, including gene names, chromosomal coordinates, biotype (coding or non-coding), and number of splice variants, can also be retrieved from Ensembl."
+                }
+            ],
+            "fa8bba46-ce94-439a-a676-35187a3abcbf": [
+                {
+                    "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                    "text": "doi:10.1093/nar/gkp858\nCunningham F, Amode MR, Barrell D, Beal K,\nBillis K, Brent S, Carvalho-Silva D, Clapham\nP, Coates G, Fitzgerald S, Gil L, Giron CG,\nGordon L, Hourlier T, Hunt SE, Janacek SH,\nJohnson N, Juettemann T, Kahari AK, Keenan\nS, Martin FJ, Maurel T, McLaren W, Murphy\nDN, Nag R, Overduin B, Parker A, Patricio\nM, Perry E, Pignatelli M, Riat HS, Sheppard\nD, Taylor K, Thormann A, Vullo A, Wilder\nSP, Zadissa A, Aken BL, Birney E, Harrow J,\nKinsella R, Muffato M, Ruffier M, Searle SM,\nSpudich G, Trevanion SJ, Yates A, Zerbino\nDR, Flicek P (2015) Ensembl 2015."
+                }
+            ],
+            "fca531d0-d45b-495f-a02c-fbd437617b20": [
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/). Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining). Domain (protein) A region of special biological interest within a single protein\nsequence."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "FB39925222D82C39F4BBAA833135ACA5",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "Ensembl",
+            "EBI",
+            "Wellcome&Trust&Sanger&Institute",
+            "genome",
+            "computational&analyses",
+            "T1Dbase",
+            "SNPs",
+            "Biomart",
+            "NCBI",
+            "GENSCAN"
+        ],
+        "metadata": [],
+        "question": "what is ensembl?",
+        "subquestions": null,
+        "task_id": "FB39925222D82C39F4BBAA833135ACA5",
+        "usage": {
+            "chatgpt": 5858,
+            "gpt-4": 3829,
+            "gpt-4-turbo-preview": 2871
+        },
+        "user_id": 2
+    },
+    "document_id": "FB39925222D82C39F4BBAA833135ACA5",
+    "task_id": "FB39925222D82C39F4BBAA833135ACA5"
+}

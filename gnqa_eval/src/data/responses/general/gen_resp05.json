@@ -1,0 +1,156 @@
+{
+    "created_at": "2024-04-01T12:02:57.687420Z",
+    "data": {
+        "amplify": false,
+        "answer": "The process of finding a genetic marker followed by a quantitative trait loci (QTL) involves several steps. First, a population is developed for genetic mapping. This population can be a segregating population or a permanent population. The population is then genotyped using molecular markers. Next, the population is phenotyped for an interested trait. QTL analysis is then conducted using statistical procedures to find markers linked to the QTL. This involves single-marker regression across all chromosomes, where a hypothetical QTL is evaluated at the location of each marker locus. The significance of that QTL is estimated from a likelihood ratio statistic. A permutation test is then conducted to establish genome-wide significance criteria for the trait. The result is a list of marker loci that show a significant association with the trait. These loci are most likely to be near QTLs. The goal of QTL mapping is to identify regions of the genome that harbor genes relevant to a specified trait.",
+        "context": {
+            "0265286c-7bac-4ae3-831c-5bf5a4f758c6": [
+                {
+                    "document_id": "0265286c-7bac-4ae3-831c-5bf5a4f758c6",
+                    "text": "This is an open access article distributed under the Creative Commons Attribution License,\nwhich permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 1. Introduction\nThe association between a complex phenotypic trait and\ngenetic markers on the chromosomes can be detected\nthrough statistical analysis, leading to the identification of\nquantitative trait loci (QTL)—regions of the chromosomes\nthat appear to be associated with the phenotype. Quantitative\ntrait loci (QTL) are expected to be associated with the genes\ncontrolling some aspects of the phenotype."
+                }
+            ],
+            "07d409f4-91f9-4701-bb39-1421845a6321": [
+                {
+                    "document_id": "07d409f4-91f9-4701-bb39-1421845a6321",
+                    "text": "Nowadays many\ndifferent cost-efficient genotyping solutions (including sequencing and Single\nNucleotide Polymorphisms arrays) have opened the way to systematic genome-wide\nfine mapping of quantitative traits (Quantitative Trait Locus or QTL mapping). The process of QTL mapping (Figure 1) consists in searching for genome regions that influence the value of a given trait. For example, identifying a QTL for\nplant height means finding a DNA region at which the plants that carry a certain\nallele tend to be significantly higher or lower than those carrying another allele."
+                }
+            ],
+            "29f5af5f-8dc7-4e53-b0fa-66d37317a3f4": [
+                {
+                    "document_id": "29f5af5f-8dc7-4e53-b0fa-66d37317a3f4",
+                    "text": "QTLs are regions within the\ngenome whose genetic variation modulates quantitatively a phenotype characteristic of\nthe particular trait under study (Lynch and Walsh, 1998). Determining the association\nbetween variations in specific disease phenotypes or a trait, with variations in genotypes\nof a reference population can be used to locate a QTL. One of the methods used for\nmapping QTLs associated with complex traits is genetic markers-trait association. Genetic markers associated with certain loci can be inherited in linkage disequilibrium. Generating populations with linked loci in disequilibrium is achieved though either\ncrosses between inbred lines, or use of the out-bred populations."
+                }
+            ],
+            "2c6178fe-c05a-42e6-aafb-7408592dcc50": [
+                {
+                    "document_id": "2c6178fe-c05a-42e6-aafb-7408592dcc50",
+                    "text": "Often, the first step in analysis of new trait\ndata is single-marker regression across all chromosomes. A hypothetical QTL is evaluated at\nthe location of each marker locus, and the significance of that QTL is estimated from a likelihood ratio statistic (LRS) (Haley and Knott,\n1992). For this analysis, WebQTL automatically does a permutation test to establish genomewide significance criteria for the trait (Churchill\nand Doerge, 1994)."
+                }
+            ],
+            "33814fad-d831-46f5-b41f-ff31626a82ca": [
+                {
+                    "document_id": "33814fad-d831-46f5-b41f-ff31626a82ca",
+                    "text": "One possible approach to facilitate this endeavor is to identify quantitative trait loci\n(QTL) that contribute to the phenotype and consequently unravel the candidate\ngenes within these loci. Each proposed candidate locus contains multiple genes and,\ntherefore, further analysis is required to choose plausible candidate genes. One of\nsuch methods is to use comparative genomics in order to narrow down the QTL to a\nregion containing only a few genes. We illustrate this strategy by applying it to\ngenetic findings regarding physical activity (PA) in mice and human."
+                }
+            ],
+            "3c69df9d-414a-420b-a513-ca3860662d57": [
+                {
+                    "document_id": "3c69df9d-414a-420b-a513-ca3860662d57",
+                    "text": "Elucidation of the molecular basis of these traits has proven\ndifficult as they are under the control of multiple genes and\ngenetic loci. The standard approach to gene identification\ninvolves mapping by linkage analysis in experimental crosses,\nand this has led to the localization in the rat genome of\nhundreds of quantitative trait loci (QTLs) underlying trait\nvariation (68). We refer to these loci as physiological quantitative trait loci (pQTLs)."
+                }
+            ],
+            "561145bb-7fe6-4941-9f02-5e6c73839100": [
+                {
+                    "document_id": "561145bb-7fe6-4941-9f02-5e6c73839100",
+                    "text": "\n\nOften, the first step in analysis of new trait data is single-marker regression across all chromosomes.A hypothetical QTL is evaluated at the location of each marker locus, and the significance of that QTL is estimated from a likelihood ratio statistic (LRS) (Haley and Knott, 1992).For this analysis, WebQTL automatically does a permutation test to establish genomewide significance criteria for the trait (Churchill and Doerge, 1994).By default, it returns a list of marker loci that show greater than sugges-tive association with the trait according to standard criteria (Lander and Kruglyak, 1995), but it will also accept user-defined criteria.Local maxima in the LRS in this list identify loci that are most likely to be near QTLs.WebQTL provides this list within a few seconds."
+                }
+            ],
+            "8b4276be-c77e-4e80-a5bb-54e9ff75d2ba": [
+                {
+                    "document_id": "8b4276be-c77e-4e80-a5bb-54e9ff75d2ba",
+                    "text": "QTLs can be identified through their genetic\nlinkage to visible marker loci with genotypes that can be readily classified [94, 97]. As\nsuch, markers that are genetically linked quantitative trait will segregate more often with\ntrait values, whereas unlinked markers will lack an association with the phenotype [94,\n98]. The principal goal of a QTL analysis is to identify all QTLs linked to a trait and\ndiscern whether phenotypic differences are mainly due to a few loci with large effects, or\nmany loci with small effects [98]."
+                }
+            ],
+            "8ec43c84-e565-4b47-a07a-0ddd99da6728": [
+                {
+                    "document_id": "8ec43c84-e565-4b47-a07a-0ddd99da6728",
+                    "text": "This is an open access article distributed under the Creative Commons Attribution License,\nwhich permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 1. Introduction\nThe association between a complex phenotypic trait and\ngenetic markers on the chromosomes can be detected\nthrough statistical analysis, leading to the identification of\nquantitative trait loci (QTL)—regions of the chromosomes\nthat appear to be associated with the phenotype. Quantitative\ntrait loci (QTL) are expected to be associated with the genes\ncontrolling some aspects of the phenotype."
+                }
+            ],
+            "8fb56fda-e1a2-4407-acb2-9a5983861202": [
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "The basic principle of classic QTL is trait segregation along with the\nmarkers and necessitated the availability of two or more genetically different\nlines corresponding with the phenotypic trait. Markers like single nucleotide\npolymorphisms (SNPs) and microsatellites are used for genotypic distinctions\n(Vignal et al. , 2002). QTL mapping is achieved in four basic steps; the first one is the measurement\nof variation for a trait in the individuals. It is a prerequisite to have the traits\nthat show phenotypic variability among the individuals (inbred strains)."
+                }
+            ],
+            "9161eaca-9841-4097-8dcd-4ea73ae81188": [
+                {
+                    "document_id": "9161eaca-9841-4097-8dcd-4ea73ae81188",
+                    "text": "\n\nOften, the first step in analysis of new trait data is single-marker regression across all chromosomes.A hypothetical QTL is evaluated at the location of each marker locus, and the significance of that QTL is estimated from a likelihood ratio statistic (LRS) (Haley and Knott, 1992).For this analysis, WebQTL automatically does a permutation test to establish genomewide significance criteria for the trait (Churchill and Doerge, 1994).By default, it returns a list of marker loci that show greater than sugges-tive association with the trait according to standard criteria (Lander and Kruglyak, 1995), but it will also accept user-defined criteria.Local maxima in the LRS in this list identify loci that are most likely to be near QTLs.WebQTL provides this list within a few seconds."
+                }
+            ],
+            "9a882703-e0ff-4bac-b11a-d99284bf7f6c": [
+                {
+                    "document_id": "9a882703-e0ff-4bac-b11a-d99284bf7f6c",
+                    "text": "Often, the first step in analysis of new trait\ndata is single-marker regression across all chromosomes. A hypothetical QTL is evaluated at\nthe location of each marker locus, and the significance of that QTL is estimated from a likelihood ratio statistic (LRS) (Haley and Knott,\n1992). For this analysis, WebQTL automatically does a permutation test to establish genomewide significance criteria for the trait (Churchill\nand Doerge, 1994)."
+                }
+            ],
+            "ae202e58-4233-4abe-9231-c17f802e8d61": [
+                {
+                    "document_id": "ae202e58-4233-4abe-9231-c17f802e8d61",
+                    "text": "Quantitative Trait Locus (QTL) mapping\nTo map QTL, we used 934 AXB/BXA genetic informative markers obtained from http://www. genenetwork.org. For all the in vitro measurements and gene expression linkage analysis, a\ngenome-wide scan was performed using R/qtl [57]. Significance of QTL logarithm-of-odds\n(LOD) scores was assessed using 1000 permutations of the phenotype data [114] and the corresponding p-values reported. For the cellular phenotypes, QTL significance was reported at a\ngenome-wide threshold corresponding to p < 0.05."
+                }
+            ],
+            "b034070a-267b-428e-8d6b-bda2b1727b51": [
+                {
+                    "document_id": "b034070a-267b-428e-8d6b-bda2b1727b51",
+                    "text": "Typically one may obtain a location known to derive from only one of the two\nparent strains that contains a chromosomal region that correlates with a trait of interest. Since the actual gene and gene product will frequently remain unknown, the region is\nreferred to as quantitative trait locus (QTL), and is simply named for the trait itself\n(Alberts & Schughart, 2010). Growing sets of strain-dependent marker locations in\nestablished RI strains are continually updated in online repositories."
+                }
+            ],
+            "b078162f-a48d-405b-b2cf-3559fc3338c8": [
+                {
+                    "document_id": "b078162f-a48d-405b-b2cf-3559fc3338c8",
+                    "text": "By definition, a\nquantitative trait locus is a chromosomal region that contains a gene, or genes, that\nregulate a portion of the genetic variation for a particular phenotype (Wehner et al. 2001). The goal of QTL mapping is to identify regions of the genome that harbour\ngenes relevant to a specified trait. QTL map locations are commonly determined by\ninitial screening of mice with specific genetic characteristics, such as recombinant\ninbred strains, the F2 of two inbred strains, or recombinant congenic strains (Flint\n2003)."
+                }
+            ],
+            "b3e8c6d4-fc8b-4a1c-b6d8-7c0252101571": [
+                {
+                    "document_id": "b3e8c6d4-fc8b-4a1c-b6d8-7c0252101571",
+                    "text": "Often, the first step in analysis of new trait\ndata is single-marker regression across all chromosomes. A hypothetical QTL is evaluated at\nthe location of each marker locus, and the significance of that QTL is estimated from a likelihood ratio statistic (LRS) (Haley and Knott,\n1992). For this analysis, WebQTL automatically does a permutation test to establish genomewide significance criteria for the trait (Churchill\nand Doerge, 1994)."
+                }
+            ],
+            "d0d6c5d6-36c6-45f1-9107-cef95df83bb3": [
+                {
+                    "document_id": "d0d6c5d6-36c6-45f1-9107-cef95df83bb3",
+                    "text": "QTL linkage studies are conducted in order to map a region or regions of the genome which\naffect a continuous or quantitative trait. In agriculture, as soon as markers linked to QTL are\nfound for economically important traits, these markers can be used for selecting individuals\nin breeding programmes. In human studies, the aim is often to identify markers indicating\ndisease susceptibility. Current techniques for measuring markers are usually relatively slow\nand laborious. Newer DNA technology, such as SNP or single nucleotide polymorphisms\n(Kwok, 2001b; Patil et al."
+                }
+            ],
+            "eae7406a-efdd-46af-b2e2-7868ce150157": [
+                {
+                    "document_id": "eae7406a-efdd-46af-b2e2-7868ce150157",
+                    "text": "Genomic regions linked to complex traits can be identified by genetic mapping\nand quantitative trait locus (QTL) analysis (Shehzad and Okuno 2014). 7\nQTL mapping\nQTL mapping with molecular markers is the first strategy in genetic studies. In plant\nbreeding, QTL mapping is an essential step required for marker-assisted selection\n(Mohan et al. 1997; Shehzad and Okuno 2014). The fundamental idea underlying QTL\nanalysis is to associate genotype and phenotype in a population exhibiting a genetic\nvariation (Broman and Sen 2009)."
+                },
+                {
+                    "document_id": "eae7406a-efdd-46af-b2e2-7868ce150157",
+                    "text": "Four steps of QTL mapping are (1) development a\n\nW\n\npopulation, (2) genotyping the population using molecular markers, (3) phenotyping the\npopulation for an interested trait, and (4) QTL analysis using statistical procedures to find\n\nIE\n\nmarkers linked to the QTL (Bernardo 2002). PR\nEV\n\nPopulations used for genetic mapping can be a segregating population (F2 and\nbackcross) or a permanent population (double haploids or recombinant inbred lines). Recombinant inbred lines (RILs) are developed by selfing of individual progenies of the\nF2 plants until homozygosity is achieved (F7-F8)."
+                }
+            ],
+            "eb90c74a-60f0-4485-b1b9-bb6665469828": [
+                {
+                    "document_id": "eb90c74a-60f0-4485-b1b9-bb6665469828",
+                    "text": "This\ntool allows systems genetic analysis of single genes or small sets of genes using a bottom-up\napproach. relations define quantitative trait loci (QTLs). Because the marker is not typically the\nactual site of the polymorphism, interpolative methods have been developed to estimate\nthe distance of the QTL from the marker and the strength of the association. Using\nmultiple-regression and model-fitting methods, the true complexity of the phenotypic\nvariation can be modeled through the consideration of multiple loci and environmental\nfactors as predictors [13]."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "241CA981DE08EC38C6A145D452CF6615",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "QTL&mapping",
+            "molecular&markers",
+            "genetic&variation",
+            "phenotype",
+            "genotype",
+            "quantitative&trait&loci",
+            "statistical&analysis",
+            "genetic&linkage",
+            "single-marker&regression",
+            "likelihood&ratio&statistic"
+        ],
+        "metadata": [],
+        "question": "Explain the process of finding a genetic marker followed by a quantitative trait loci.",
+        "subquestions": null,
+        "task_id": "241CA981DE08EC38C6A145D452CF6615",
+        "usage": {
+            "chatgpt": 5221,
+            "gpt-4": 3525,
+            "gpt-4-turbo-preview": 2564
+        },
+        "user_id": 2
+    },
+    "document_id": "241CA981DE08EC38C6A145D452CF6615",
+    "task_id": "241CA981DE08EC38C6A145D452CF6615"
+}

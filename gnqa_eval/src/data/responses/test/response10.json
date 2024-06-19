@@ -1,0 +1,158 @@
+{
+    "created_at": "2024-03-25T14:33:03.505102Z",
+    "data": {
+        "amplify": false,
+        "answer": "QTL stands for Quantitative Trait Locus. It is a region of the genome that is linked to a trait and contains a gene or genes that regulate a portion of the genetic variation for a particular phenotype. QTLs are associated with quantitative traits, which are traits that have measurable phenotypic variation due to genetic and/or environmental influences.",
+        "context": {
+            "0666777d-a2c5-40f5-b506-e78888b6b121": [
+                {
+                    "document_id": "0666777d-a2c5-40f5-b506-e78888b6b121",
+                    "text": "QTL Mapping and Identification of Candidate Genes\nA QTL is a region of the genome shown to be linked to a trait. The purpose of mapping\nthis region is to identify a region of a genome that has a higher probability of harbouring the\ngenetic variations controlling variability in trait values."
+                }
+            ],
+            "07d409f4-91f9-4701-bb39-1421845a6321": [
+                {
+                    "document_id": "07d409f4-91f9-4701-bb39-1421845a6321",
+                    "text": "Often a local eQTL will be caused by allelic variation in the regulatory region of\nthe gene or within the gene itself. mQTL\nA metabolite Quantitative Trait Locus is a region in the genome at which allelic variation\ncorrelates with the abundance variation of a certain metabolite. pQTL\nA protein Quantitative Trait Locus is a region in the genome at which allelic variation correlates with the abundance variation of a certain protein. Just like eQTL, pQTL can be\nlocal or distant according to the genomic position of the gene encoding for the protein relative to the QTL."
+                }
+            ],
+            "29f5af5f-8dc7-4e53-b0fa-66d37317a3f4": [
+                {
+                    "document_id": "29f5af5f-8dc7-4e53-b0fa-66d37317a3f4",
+                    "text": "QTLs are regions within the\ngenome whose genetic variation modulates quantitatively a phenotype characteristic of\nthe particular trait under study (Lynch and Walsh, 1998). Determining the association\nbetween variations in specific disease phenotypes or a trait, with variations in genotypes\nof a reference population can be used to locate a QTL. One of the methods used for\nmapping QTLs associated with complex traits is genetic markers-trait association. Genetic markers associated with certain loci can be inherited in linkage disequilibrium. Generating populations with linked loci in disequilibrium is achieved though either\ncrosses between inbred lines, or use of the out-bred populations."
+                }
+            ],
+            "2a92d7b5-946c-4a22-a4b9-26e950b0f757": [
+                {
+                    "document_id": "2a92d7b5-946c-4a22-a4b9-26e950b0f757",
+                    "text": "Quantitative trait locus-mapping is a statistical method\nused to map chromosomal intervals (loci) that contribute to\nheritable variance in phenotypes. The method simply compares the inheritance of allelic variants (B or D genotypes\nin our case) with differences in phenotypes. A QTL will\ngenerally cover a region that includes 10–100 genes, and\nthese positional candidates can then be ranked roughly on\nthe basis of criteria such as the types of DNA variants, patterns of mRNA expression, data from complementary human\ngenetic cohorts (GWAS and linkage) and relevant literature\nabout gene effects on central nervous system structure and\nfunction."
+                }
+            ],
+            "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce": [
+                {
+                    "document_id": "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce",
+                    "text": "Chromosomal\nregions containing a gene (or genes) that a¡ect the level of a quantitative trait are\ncalled quantitative trait loci (QTLs). The relevant genes in these regions have been\ncalled quantitative trait genes (QTGs) (Hitzemann et al 2003). Quantitative trait\nlocus (QTL) analysis is an experimental strategy for identifying QTLs, and\nultimately QTGs, that a¡ect quantitative traits. Because of the complexity of\nthese traits, progress in identifying QTGs has been slow compared to that in\ncloning genes underlying Mendelian traits (Glazier et al 2002)."
+                }
+            ],
+            "4049da4d-c7cf-4e30-9a21-c77609fad23d": [
+                {
+                    "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                    "text": "Expression QTL\nNext, we will examine expression quantitative trait loci (eQTLs). These are QTLs for gene\nexpression traits, a subset of the molecular phenotypes mentioned above. Much like classical\nphenotypes, expression of transcripts can be influenced by variants within the genome. However, because we know the location of the gene, we can split these eQTL into two\ncategories, trans- (or distal) or cis- (or local) eQTL. A trans-eQTL (or distal-eQTL) describes when the expression of a gene is influenced by a locus\nfar away from that gene, and therefore indicates that the gene of interest is downstream of\nanother gene."
+                }
+            ],
+            "40ebee6a-ba5a-4f21-86d1-78d421288687": [
+                {
+                    "document_id": "40ebee6a-ba5a-4f21-86d1-78d421288687",
+                    "text": "These loci\nwhich are associated with changes in transcript expression are often termed\nexpression QTL (eQTL): a variant (or variants) within the locus alters the\nexpression of the gene of interest. An eQTL found near to the location (~ ≤\n1Mbp) of the transcript is described as a local eQTL, and are often called ciseQTL. This is in contrast to trans-eQTL which are found more distally. Cis-eQTL\nare interesting when they are found for a gene within a QTL for another\nphenotype (e.g."
+                }
+            ],
+            "621d8b0a-821b-45f8-ae91-aba0cdcdda10": [
+                {
+                    "document_id": "621d8b0a-821b-45f8-ae91-aba0cdcdda10",
+                    "text": "The location of these genotypes are quantitative trait loci (QTLs) [Abiola et al. , 2003]. Detected via statistical methods [Doerge, 2002], QTLs are stretches of DNA highly associated with a specific phenotype, analogous to genetic landmarks which roughly indicate\nthe position of the active gene. QTLs are not defined at very fine granularity; they usually\ncorrespond to areas large enough to hold several genes. The genetic polymorphism (genotypes) in neighboring areas of a set of loci, as a group, influence structure and function on\nboth molecular and organismic scales."
+                }
+            ],
+            "6d850ba3-9219-4250-b17f-7cf4867ca354": [
+                {
+                    "document_id": "6d850ba3-9219-4250-b17f-7cf4867ca354",
+                    "text": "Quantitative trait loci (QTL)\n\n132\n\nanalysis is a means to query the entire genome for DNA variants (markers) that show significant\n\n133\n\nassociations with the phenotype (quantitative trait) under investigation. This is the first step to\n\n134\n\nidentify candidate genes whose variants (alleles) affect the value of the phenotype. QTL analysis\n\n135\n\nwas performed using WebQTL (http://www.genenetwork.org) for each PCA factor. WebQTL\n\n136\n\nperforms 2,000 or more permutations of the strain data and significant QTL are defined by the\n\n137\n\nlikelihood ratio statistic (LRS) score of correctly ordered data exceeding all other permutations\n\n138\n\n95% of the time, i.e."
+                }
+            ],
+            "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d": [
+                {
+                    "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                    "text": "Expression QTL\nNext, we will examine expression quantitative trait loci (eQTLs). These are QTLs for gene\nexpression traits, a subset of the molecular phenotypes mentioned above. Much like classical\nphenotypes, expression of transcripts can be influenced by variants within the genome. However, because we know the location of the gene, we can split these eQTL into two\ncategories, trans- (or distal) or cis- (or local) eQTL. A trans-eQTL (or distal-eQTL) describes when the expression of a gene is influenced by a locus\nfar away from that gene, and therefore indicates that the gene of interest is downstream of\nanother gene."
+                }
+            ],
+            "95b99c09-c336-44fd-b378-f41991edb3aa": [
+                {
+                    "document_id": "95b99c09-c336-44fd-b378-f41991edb3aa",
+                    "text": "These are referred to as expression QTLs, or\neQTLs (Schadt et al. , 2003), which control a portion of\nexpression variation of particular genes in a population. eQTLs result from genetic differences in regulatory elements close to or within the gene (apparent cis-acting\neQTLs) as well as those that map elsewhere in the genome\nfrom the gene whose expression is modulated (trans-acting\neQTLs). By combining microarray and QTL analysis on the\nsame mice, much can be learned about the genetic underpinnings of particular alcohol traits (Hitzemann et al. , 2004;\nTabakoff et al. , 2003)."
+                }
+            ],
+            "a8e16a9a-242b-492f-95f6-9e80a10e77cc": [
+                {
+                    "document_id": "a8e16a9a-242b-492f-95f6-9e80a10e77cc",
+                    "text": "Working with complex traits that\ntypically vary in their manifestation across a continuous distribution, in contrast to the\nbinary nature of monogenic traits, QTLs are discovered by simply identifying loci with\nalleles that consistently covary with a phenotype across a population. Genomic regions that\nshow a sufficiently strong association with a phenotype are considered QTLs. The simplest,\nor most hopeful, interpretation of a mapped QTL is that the implicated region harbors a\nsingle gene affecting manifestation of the associated phenotype."
+                }
+            ],
+            "b078162f-a48d-405b-b2cf-3559fc3338c8": [
+                {
+                    "document_id": "b078162f-a48d-405b-b2cf-3559fc3338c8",
+                    "text": "By definition, a\nquantitative trait locus is a chromosomal region that contains a gene, or genes, that\nregulate a portion of the genetic variation for a particular phenotype (Wehner et al. 2001). The goal of QTL mapping is to identify regions of the genome that harbour\ngenes relevant to a specified trait. QTL map locations are commonly determined by\ninitial screening of mice with specific genetic characteristics, such as recombinant\ninbred strains, the F2 of two inbred strains, or recombinant congenic strains (Flint\n2003)."
+                }
+            ],
+            "b103d0bf-16ab-4e53-bb3b-7c2af3cfd9f6": [
+                {
+                    "document_id": "b103d0bf-16ab-4e53-bb3b-7c2af3cfd9f6",
+                    "text": "(2003)\nand others defined the expression QTLs (eQTLs) as either cis\n(mapping near the gene locus) or trans (mapping elsewhere in\nthe genome). When behavioral QTLs (bQTLs) and cis-eQTLs\noverlap, the cis-eQTL genes are inferred as strong quantitative\ntrait gene (QTG) candidates (see e.g. Farris et al. 2010). The\nsituation for trans-eQTLs is more complicated since the QTL\nconfidence interval is generally larger and any gene within the\nQTL interval could have a regulatory role. The application of genetical genomics to mouse has\ngenerally focused on segregating populations involving\nR. Hitzemann et al."
+                }
+            ],
+            "cb3f9967-9762-4a9b-96cb-0acccdc316d2": [
+                {
+                    "document_id": "cb3f9967-9762-4a9b-96cb-0acccdc316d2",
+                    "text": "Page 2\n\nDefinition of a QTL\nNIH-PA Author Manuscript\n\nA quantitative trait is one that has measurable phenotypic variation owing to genetic and/or\nenvironmental influences. This variation can consist of discrete values, such as the number of\nseparate tumours in the intestine of a cancer-prone mouse, or can be continuous, such as\nmeasurements of height, weight and blood pressure. Sometimes a threshold must be crossed\nfor the quantitative trait to be expressed; this is common among complex diseases. A QTL is a genetic locus, the alleles of which affect this variation."
+                }
+            ],
+            "d09e59f1-14d1-4391-8419-90c6d6bc2fde": [
+                {
+                    "document_id": "d09e59f1-14d1-4391-8419-90c6d6bc2fde",
+                    "text": "When the phenotype of interest is a quantitative trait, such as blood pressure or cholesterol levels, the underlying genetic locus is\nreferred to as a “QTL”. A common strategy investigates the\nassociation between quantitative traits of transcriptional responses and their underlying DNA loci called “response\nQTLs” (reQTLs) (Albert and Kruglyak 2015). Studies have\nprovided clear evidence for the colocalization of reQTLs\nand disease-related loci (Caliskan et al. 2015)."
+                }
+            ],
+            "e7bc9d83-6c3b-405c-a552-29874b927860": [
+                {
+                    "document_id": "e7bc9d83-6c3b-405c-a552-29874b927860",
+                    "text": "81\nGene Expression Quantitative Trait Locus Analysis\nQuantitative trait locus (QTL) mapping is a statistical technique that finds\nassociations between phenotype and genotype in a genetically segregating population\n(Lander and Botstein 1989). Here, we performed eQTL mapping on the male and female\ndata separately. There were 1,137 significant (q≤0.5 and p≤0.025) male and 1,232\n\nfemale eQTLs. First, we explored differences in patterns of eQTL locations between sexes by\nplotting the genomic locations of each eQTL versus the transcript location (Figure 4.3a, b)."
+                }
+            ],
+            "f253e087-e030-40a8-8400-3b6bf50c1fd6": [
+                {
+                    "document_id": "f253e087-e030-40a8-8400-3b6bf50c1fd6",
+                    "text": "Chromosomal\nregions containing a gene (or genes) that a¡ect the level of a quantitative trait are\ncalled quantitative trait loci (QTLs). The relevant genes in these regions have been\ncalled quantitative trait genes (QTGs) (Hitzemann et al 2003). Quantitative trait\nlocus (QTL) analysis is an experimental strategy for identifying QTLs, and\nultimately QTGs, that a¡ect quantitative traits. Because of the complexity of\nthese traits, progress in identifying QTGs has been slow compared to that in\ncloning genes underlying Mendelian traits (Glazier et al 2002)."
+                }
+            ],
+            "f67f291b-2ea5-4d78-9595-2cbbc35dc415": [
+                {
+                    "document_id": "f67f291b-2ea5-4d78-9595-2cbbc35dc415",
+                    "text": "1.4\n\nQ u a n tita tiv e T rait L ocu s M a p p in g\n\nQ uantitative tra it loci (QTLs) are genetic regions on a chromosome th a t control\ncertain quantitative traits, such as crop yield or body fat. QTL m apping involves con­\nstruction of genomic m aps and testing for association between tra its and polymorphic\nmarkers. A significant association provides evidence th a t a QTL is near th e m arker."
+                }
+            ],
+            "f8184d24-6bd9-4450-a13e-d656aa2afb02": [
+                {
+                    "document_id": "f8184d24-6bd9-4450-a13e-d656aa2afb02",
+                    "text": "\n\nCurrent data processing capabilities have also made it possible to search genome-wide for QTL (quantitative trait loci) [109].QTL mapping seeks to identify the relationship between various genomic locations and a set of quantitative traits, leading to a chromosomal location and ultimately to identification of gene(s) with the final goal of looking at gene expression.Among other things, this will lead to a better understanding of genetic mechanisms of variation and adaptation [121].Results can then be applied to adjust conservation measures in response to rapid change, for example, by identifying the genetic adaptability potential of individuals to be used in assisted migration or reintroduction [122,123]."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "C346DA54E54A8AE66035F3BA22439DC0",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "QTL&mapping",
+            "quantitative&trait&locus",
+            "gene&expression",
+            "genetic&variation",
+            "phenotype",
+            "eQTL",
+            "genomic&regions",
+            "allelic&variation",
+            "DNA&loci",
+            "statistical&methods"
+        ],
+        "metadata": [],
+        "question": "What does QTL mean?",
+        "subquestions": null,
+        "task_id": "C346DA54E54A8AE66035F3BA22439DC0",
+        "usage": {
+            "chatgpt": 5348,
+            "gpt-4": 3693,
+            "gpt-4-turbo-preview": 2691
+        },
+        "user_id": 2
+    },
+    "document_id": "C346DA54E54A8AE66035F3BA22439DC0",
+    "task_id": "C346DA54E54A8AE66035F3BA22439DC0"
+}

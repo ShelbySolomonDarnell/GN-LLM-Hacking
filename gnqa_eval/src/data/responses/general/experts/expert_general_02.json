@@ -1,0 +1,144 @@
+{
+    "created_at": "2024-06-01T14:20:28.998327Z",
+    "data": {
+        "amplify": false,
+        "answer": "Actually, males have one Y chromosome and one X chromosome, while females have two X chromosomes. This combination determines the sex of an individual.",
+        "context": {
+            "1ac23aae-2a51-4846-81ec-6db70ab6e5a4": [
+                {
+                    "document_id": "1ac23aae-2a51-4846-81ec-6db70ab6e5a4",
+                    "text": "\n\nY chromosome in peripheral blood cells increases with age in men (6) and is correlated with increased risk of cancer mortality and Alzheimer's disease (6,7).X chromosome mosaicism in women also increases with age (8), as does autosomal mosaicism in both sexes (9,10).Recent studies have shown that the prevalence of age-related mosaic abnormalities is greater in men than women (9,10); however, mechanisms underlying the sex differences observed in chromosomal mosaicism in humans are unknown."
+                }
+            ],
+            "20b466c6-004b-484f-96a1-c1b4651bc856": [
+                {
+                    "document_id": "20b466c6-004b-484f-96a1-c1b4651bc856",
+                    "text": "\n\nRecent reports suggested a role of Y chromosome loss in risk for all-cause mortality and common age-related disease such as cancer, Alzheimer disease as well as severe atherosclerosis [12][13][14][15][16][17][18][19][20].Building on such reports, we aimed to evaluate the contribution of male Y chromosome mosaicism to the risk for late-stage AMD."
+                }
+            ],
+            "3f72832b-fad9-4d38-aed8-d22e5bd12a22": [
+                {
+                    "document_id": "3f72832b-fad9-4d38-aed8-d22e5bd12a22",
+                    "text": "Box 1. Sex-specific cytonuclear interactions\n\nSeveral predictions about the nature of cytonuclear conflicts follow from the patterns of chromosomal inheritance (Table I).In a mated pair of animals, mtDNA is co-transmitted with half of the autosomal genes, two-thirds of the X-linked genes and none of the Y-linked genes [76].This predicts that, relative to the autosomal case, positive nuclear-mitochondrial interactions are more likely to evolve for X-linked loci whereas deleterious interactions between Y-linked genes and mtDNA should accumulate (or cannot be purged efficiently)."
+                }
+            ],
+            "4ad6da14-56a3-48ab-a587-42761ceac238": [
+                {
+                    "document_id": "4ad6da14-56a3-48ab-a587-42761ceac238",
+                    "text": "\n\nIn addition to genetic data, the 9p Network Cohort dataset also lists the gender for all 719 individuals.Of these individuals, 406 individuals are female and 313 are male, indicating a female bias (Binomial test p ¼ 0.0006).This result was surprising considering that no female bias has been previously reported in 9p deletion and duplication syndromes.A possible explanation for the significant bias in the 9p Network Cohort dataset is the XY sex reversal phenotype, which is commonly observed in individuals with 9p deletion syndrome.This phenotype could lead to individuals with XY sex chromosomes being listed in the dataset as having a female gender.To further examine this hypothesis, we subset our dataset to include only the 236 individuals whose sex chromosomes are listed in their genetic information.For this much smaller subset, 125 individuals had female sex chromosomes and 111 had male sex chromosomes, indicating no significant sex bias (Binomial test p ¼ 0.4).We also found no significant gender bias in this group (Binomial test p ¼ 0.2), although we did confirm that four of the individuals with XY sex chromosomes had a gender of female.This comparison suggests that the XY sex reversal phenotype may be responsible for a female gender bias, but not a sex bias, in 9p deletion and duplication syndrome cohorts."
+                }
+            ],
+            "6910b508-6d25-4804-9e47-3590b57aa061": [
+                {
+                    "document_id": "6910b508-6d25-4804-9e47-3590b57aa061",
+                    "text": "\n\nDuplicated variants with multiple alternative alleles and variants in sex chromosomes X and Y"
+                }
+            ],
+            "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa": [
+                {
+                    "document_id": "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa",
+                    "text": "\n\nAutosome-One of the numbered, or nonsex, chromosomes (1 through 22).X and Y are the sex chromosomes."
+                }
+            ],
+            "7d451e79-b698-4744-aeb2-ff319f430d96": [
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nGiven such a high abundance of young male-biased genes, we asked whether their parental genes are also male-biased.We found that fewer parental genes of X-linked male-biased duplicates were also male-biased (20%, 2/10) compared to the parental genes of autosomal young male-biased duplicates (32%, 12/37).These data, despite the small sample sizes and being statistically not significant, may suggest that compared to autosomal young genes, X-linked young genes more often evolved novel male-biased expression.However, as the majority of young genes are the result of intrachromosomal duplication events, the pattern might also reflect the fact that X-linked old genes are less likely to be male-biased."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nA slight excess of X-linked female-biased genes was also detected (Fig. 2).Although most of them are old, a few recently arose on the X chromosome over 4 to 6 Myr in the common ancestor of the D. melanogaster and D. simulans clade (branch 5).This can be interpreted in the context of the dominance model of the sexual antagonism hypothesis.In this case, a dominant, X-linked gene that is favorable to females but disadvantageous for males can become fixed.The slow accumulation of female-biased genes in the X reflects an overall low rate of female gene origination, either due to a small dominance effect (the degree of dominance h!1/2), or a minor disadvantageous effect on males (the ratio of fitness effects of male relative to female k!0) along with a favorable effect on females (Vicoso and Charlesworth 2006, Equation 10)."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nRegarding the second step in the evolution of male-biased genes, namely X!A transposition, sexual antagonism favorable for autosomal fixation (Vicoso and Charlesworth 2006) and/or MSCI (Lifschytz and Lindsley 1972;Betran et al. 2002) may play a role in this process.On the other hand, the within-chromosomal duplication rate is higher than the between-chromosomal duplication rate (Emerson et al. 2008), which may contribute to the slow pace of X!A transposition."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nIt has been observed that male-biased genes in Drosophila are overrepresented on autosomes (Parisi et al. 2003;Ranz et al. 2003).Consistent with this result, a dynamic process that can explain the nonrandom autosomal distribution has also been observed, in which autosomal new genes with X-linked parental genes are often male-biased.Specifically, a significant excess of autosomal testisexpressed retrogenes were identified as RNA-duplicates of X-linked parental genes (Betran et al. 2002).Recently, similar X!A gene traffic was observed in the DNA-level duplication and relocation data set of the Drosophila genus (Vibranovski et al. 2009b), and was further confirmed for DNA-level duplications in the D. pseudoobscura neo-X chromosome (Meisel et al. 2009).In addition, selective extinction of neo-X linked male-biased genes also occurred in D. pseudoobscura (Sturgill et al. 2007).These three lines of genome-wide investigation support a common pattern of outof-X traffic for male-biased genes, resulting in an enrichment of these genes on autosomes in the long term."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nIt has been reported that the initial manifestations of new gene emergence, namely polymorphic duplicates, occur at a lower frequency on the X chromosome, thus indicating that these duplicates are subject to stronger purifying selection (Emerson et al. 2008).Therefore, the excessive fixation of X-linked duplicates might not occur via neutral processes.Positive selection could have facilitated the fixation of X-linked young genes in addition to driving their subsequent sequence evolution."
+                }
+            ],
+            "96cb840e-747f-4849-8354-e8764aa0a1ce": [
+                {
+                    "document_id": "96cb840e-747f-4849-8354-e8764aa0a1ce",
+                    "text": "\n\nOccasionally, Y chromosome DNA is detected in the maternal plasma, and the fetus appears to have female genitalia on sonographic examination.The underlying mechanisms for this include a twin demise, a maternal disorder of sexual differentiation, such as Swyer syndrome, or that the mother has undergone a bone marrow or solid organ transplant from a male donor (Bianchi, 2018;Hartwig, Ambye, Sorensen, & Jorgensen, 2017)."
+                }
+            ],
+            "9a5c3e73-8270-400f-8a2d-4f36b757188c": [
+                {
+                    "document_id": "9a5c3e73-8270-400f-8a2d-4f36b757188c",
+                    "text": "Because\nof the differences in sex chromosome number, the sexunmatched comparison contains internal controls, i.e. ,\nin this comparison, genes on the X-chromosome and\nY-chromosome (but not those on the autosomes) should\nshow copy number imbalances reﬂective of a single copy\nchange. We showed that the sample that is not sexmatched had readily detectable differences in aCGH\nsignals for genes on the X and Y chromosomes. No such\npatterns were evident for the autosomes of the sex\nunmatched individuals or for the sex chromosomes of the\nsex matched samples."
+                }
+            ],
+            "af3d7cd3-40ec-4a86-a473-89f83da250e4": [
+                {
+                    "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                    "text": "Sex chromosome:\n\nThe X or Y chromosome in human beings that determines the sex of an individual.Females have two X chromosomes in diploid cells; males have an X and a Y chromosome.The sex chromosomes comprise the 23rd chromosome pair in a karyotype.See also: autosome Sex-linked: Traits or diseases associated with the X or Y chromosome; generally seen in males."
+                },
+                {
+                    "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                    "text": "\n\nX chromosome: One of the two sex chromosomes, X and Y. See also: Y chromosome, sex chromosome Y chromosome: One of the two sex chromosomes, X and Y. See also; X chromosome, sex chromosome"
+                }
+            ],
+            "b04f2221-de28-4c4b-893e-9da982ff864c": [
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text": "The male heterogamety (XY) is the most\ncommon reported system, but many species\nhave female heterogamety (ZW), and more\noccasionally, multiple chromosome systems\n\n(Almeida-Toledo and Foresti, 2001; Devlin\nand Nagahama, 2002; Penman and Piferrer,\n2008). Given the low resolution of optical microscopy to differentiate sex chromosomes in\nﬁsh, researchers have looked for an alternative\nin the tenfold longer meiotic chromosomes to\ndetect mispairing tracts at the synaptonemal\ncomplex as an indication of the sex differentiated region with variable success."
+                },
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text": "The exclusive female\nconstitution of gynogenetic genomes provides\ninformation on the SD system, especially in a\nXX/XY system, where all female progenies are\nexpected. If ZZ/ZW is the underlying system,\nmale offspring always will be present, but the\ninterpretation is more complex and will depend\non the distance of the SD region to centromere\nand on the viability of WW offspring (Devlin\nand Nagahama, 2002; Penman and Piferrer,\n2008). Induced triploids, on the other hand, are\nconstituted by the combination of two female\nand one male genomes (Piferrer et al."
+                }
+            ],
+            "ef2c8463-5169-46aa-938b-7d04ea8da6b7": [
+                {
+                    "document_id": "ef2c8463-5169-46aa-938b-7d04ea8da6b7",
+                    "text": "\n\nThe existence of a maternally silenced X-linked imprinted locus playing a role in social cognition could explain why males (X m Y) are more vulnerable to disorders of social cognition such as autism spectrum disorders than are females (X m X p ).The absence of the expression of this gene would not lead to autism itself, but would eliminate a putative protective factor, making an individual more susceptible to the effects of other ASD-predisposing genetic mutations or environmental factors."
+                }
+            ],
+            "f051ad23-572d-4302-8dda-4d992aeaeb1a": [
+                {
+                    "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                    "text": "\n\nWhen meiosis takes place, a pair of chromosomes may fail to separate properly, creating a sperm or egg that has either two copies or no copy of a specific chromosome.This is a sporadic event and it is called nondisjunction.Nondisjunction can lead to an extra chromosome, called trisomy, or a missing chromosome, called monosomy (GHR, 2008l).Down syndrome is an example of trisomy.Individuals who have Down syndrome have an extra chromosome number 21. Turner syndrome is an example of monosomy.Girls who have Turner syndrome have only one X chromosome.This causes them to have short stature and be infertile (NHGRI, 2008l)."
+                },
+                {
+                    "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                    "text": "X-Linked Inheritance\n\nX-linked genetic disorders (also called sex-linked) are caused by gene mutations on the X chromosome.Most often X-linked genetic disorders are seen in males.Males inherit the X chromosome from their mother and the Y chromosome from their father.Because males have only one X chromosome, if they inherit a gene mutation on the X chromosome from their mother, they will have the disorder.Examples of X-linked genetic disorders occurring in males include hemophilia and Duchenne muscular dystrophy (GHR, 2008o)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "34A6BD721632631DF6D97BCA1D315B0A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "X&chromosome",
+            "Y&chromosome",
+            "male",
+            "female",
+            "sex&chromosomes",
+            "autosome",
+            "nondisjunction",
+            "trisomy",
+            "monosomy",
+            "X-linked&inheritance"
+        ],
+        "metadata": [],
+        "question": "Why do males have two Y chromosomes and females only one?",
+        "subquestions": null,
+        "task_id": "34A6BD721632631DF6D97BCA1D315B0A",
+        "usage": {
+            "chatgpt": 6105,
+            "gpt-4": 3430,
+            "gpt-4-turbo-preview": 2504
+        },
+        "user_id": 2
+    },
+    "document_id": "34A6BD721632631DF6D97BCA1D315B0A",
+    "task_id": "34A6BD721632631DF6D97BCA1D315B0A"
+}

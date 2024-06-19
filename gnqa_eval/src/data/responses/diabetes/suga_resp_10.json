@@ -1,0 +1,148 @@
+{
+    "created_at": "2024-04-18T18:45:53.040778Z",
+    "data": {
+        "amplify": false,
+        "answer": "The varying efficacy of diabetes treatments among individuals can be attributed to genetic variants present in drug receptors or drug metabolizers, such as OCT genes, KCNJ11, ABCC8, and CYP2C9. These genetic variants can influence the metabolism, transportation, and therapeutic mechanisms of antidiabetic drugs, leading to differences in drug disposition, glycemic response, tolerability, and incidence of adverse effects. Additionally, gene-gene, gene-environment, and gene-treatment interactions may also contribute to the variation in disease progression and response to therapy.",
+        "context": {
+            "063a0254-1d1b-4caa-b782-6a1fe4ebca0d": [
+                {
+                    "document_id": "063a0254-1d1b-4caa-b782-6a1fe4ebca0d",
+                    "text": "Genetics and pharmacogenomics\n\nWe are at the dawn of the age of pharmacogenomics and personalized medicine and ever closer to achieving the \"$1,000 genome. \"What does this mean for diabetes?Forward genetic approaches (i.e., starting from phenotype and identifying the genetic cause) to dissecting mendelian forms of diabetes have been hugely successful in identifying a small subset of diabetic patients in whom rare, highly penetrant mutations of a single gene cause their diabetes (13).While common variants of these genes that make a small contribution to polygenic diabetes may also exist (13), the variants causing monogenic diabetes have limited utility in pharmacogenetics due to their low allele frequency.The vast majority of type 2 diabetes patients have polygenetic forms of the disease that typically also require a permissive environment (e.g., obesity, sedentary lifestyle, advancing age, etc.) to be penetrant.Each locus contributes a small amount of risk (odds ratios typically ranging from 1.1- to 1.5-fold), so large cohorts are needed to identify the at-risk alleles.Some of the loci identified to date include transcription factor 7-like 2 (TCF7L2) (14), calpain 10 (CAPN10) (15), peroxisome proliferator-activated receptor γ (PPARG) (16), and potassium inwardly rectifying channel, subfamily J, member 11 (KCNJ11) (17).However, the pace of gene identification is increasing due to the availability of large-scale databases of genetic variation and advances in genotyping technology.A recent genome-wide study identified solute carrier family 30, member 8 (SLC30A8), a β cell Zn transporter, and two other genomic regions as additional diabetes risk loci (18)."
+                }
+            ],
+            "08858a32-d736-4d8d-a135-f86568152a81": [
+                {
+                    "document_id": "08858a32-d736-4d8d-a135-f86568152a81",
+                    "text": "\n\nWith further progress in unravelling the pathogenic roles of genes and epigenomic phenomena in type 2 diabetes, pharmacogenomic and pharmacoepigenomic studies might eventually yield treatment choices that can be personalised for individual patients."
+                }
+            ],
+            "183f165e-4d5c-4580-9aff-4e6b2e5a6463": [
+                {
+                    "document_id": "183f165e-4d5c-4580-9aff-4e6b2e5a6463",
+                    "text": "Pharmacogenomics of Type 2 Diabetes\n\nWith the advent of GWAS, studies on the roles of inherited and acquired genetic variations in drug response have undergone an evolution from pharmacogenetics into pharmacogenomics, with a shift from the focus on individual candidate genes to GWAS [147].Clinically, it is often observed that even patients who receive similar antidiabetic regimens demonstrate large variability in drug disposition, glycemic response, tolerability, and incidence of adverse effects [148].This interindividual variability can be attributed to specific gene polymorphisms involved in the metabolism, transportation, and therapeutic mechanisms of oral antidiabetic drugs.Pharmacogenomics is on the agenda to explore feasible genetic testing to predict treatment outcome, so that appropriate steps could be taken to treat type 2 diabetes more efficiently."
+                }
+            ],
+            "277be46c-4307-4738-972d-eb6efd9b175a": [
+                {
+                    "document_id": "277be46c-4307-4738-972d-eb6efd9b175a",
+                    "text": "Future directions\n\nDelays in identifying genetic variants that are robustly associated with differences in individual predisposition to the complications of diabetes, have constrained progress towards a mechanistic understanding of these conditions.Some approaches to overcome these limitations are outlined in Figure 4."
+                }
+            ],
+            "4d3330eb-acd0-4f72-aadf-b056d3c8b389": [
+                {
+                    "document_id": "4d3330eb-acd0-4f72-aadf-b056d3c8b389",
+                    "text": "Genomics of T2D\n\nDiet, lifestyle, environment, and even genetic variation influence an individual's response to disease therapy.Like GWAS which identify genetic variants conferring risk for a disease, studies have been carried out for identifying genetic variants responsible for patient differences in drug response.Pharmacogenomics in diabetes focuses on the study of gene polymorphisms which influence an individual's response to antidiabetic drugs.Such genetic variants influence the pharmacodynamics and/or pharmacokinetics of the drug, thus affecting its efficacy or toxicity in an individual.The difference in response to treatments and therapies across individuals on account of these factors strengthens the case for personalized medicine in diabetes."
+                },
+                {
+                    "document_id": "4d3330eb-acd0-4f72-aadf-b056d3c8b389",
+                    "text": "Genetics & genomics of T2D\n\n• Genome-wide association studies (GWAS) have been helpful in identifying a large number of genetic variants conferring risk to T2D.However, only close to 10% heritability is explained by these variants.Other genetic variants, particularly those which are rare but with significant effects need to be identified.• Genetic variability is responsible for the difference in response to antidiabetic drugs seen across individuals."
+                }
+            ],
+            "4feda561-1914-404d-9092-3c629d5251bd": [
+                {
+                    "document_id": "4feda561-1914-404d-9092-3c629d5251bd",
+                    "text": "\nThe aim of this study was to summarize current knowledge and provide perspectives on the relationships between human genetic variants, type 2 diabetes, antidiabetic treatment, and disease progression.Type 2 diabetes is a complex disease with clear-cut diagnostic criteria and treatment guidelines.Yet, the interindividual response to therapy and slope of disease progression varies markedly among patients with type 2 diabetes.Gene-gene, gene-environment, and gene-treatment interactions may explain some of the variation in disease progression.Several genetic variants have been suggested to be associated with response to antidiabetic drugs.Some are present in drug receptors or drug metabolizers (OCT genes, KCNJ11, ABCC8, and CYP2C9).Numerous type 2 diabetes risk variants have been identified, but genetic risk score models applying these variants have failed to identify 'disease progressors' among patients with diabetes.Although genetic risk scores are based on a few known loci and only explain a fraction of the heritability of type 2 diabetes, it seems that the genes responsible for the development of diabetes may not be the same driving disease progression after the diagnosis has been made.Pharmacogenetic interactions explain some of the interindividual variation in responses to antidiabetic treatment and may provide the foundation for future genotype-based treatment standards.Pharmacogenetics and Genomics 25:475-484"
+                },
+                {
+                    "document_id": "4feda561-1914-404d-9092-3c629d5251bd",
+                    "text": "\n\nDiabetes progression is a multifactorial process; however, pharmacogenetics seems to play an important role in understanding the different phenotypes and progression rates among diabetic patients.Genetic variants associated with decreased effect of a certain drug might explain why some individuals are more likely to experience glycemic deterioration on a given treatment.In the following sections, different genetic variants and their impact on treatment efficacy and outcome will be addressed."
+                },
+                {
+                    "document_id": "4feda561-1914-404d-9092-3c629d5251bd",
+                    "text": "\n\nThe aim of this study was to summarize current knowledge and provide perspectives on the relationships between human genetic variants, type 2 diabetes, antidiabetic treatment, and disease progression.Type 2 diabetes is a complex disease with clear-cut diagnostic criteria and treatment guidelines.Yet, the interindividual response to therapy and slope of disease progression varies markedly among patients with type 2 diabetes.Gene-gene, gene-environment, and gene-treatment interactions may explain some of the variation in disease progression.Several genetic variants have been suggested to be associated with response to antidiabetic drugs.Some are present in drug receptors or drug metabolizers (OCT genes, KCNJ11, ABCC8, and CYP2C9).Numerous type 2 diabetes risk variants have been identified, but genetic risk score models applying these variants have failed to identify 'disease progressors' among patients with diabetes.Although genetic risk scores are based on a few known loci and only explain a fraction of the heritability of type 2 diabetes, it seems that the genes responsible for the development of diabetes may not be the same driving disease progression after the diagnosis has been made.Pharmacogenetic interactions explain some of the interindividual variation in responses to antidiabetic treatment and may provide the foundation for future genotype-based treatment standards.Pharmacogenetics and Genomics 25:475-484"
+                },
+                {
+                    "document_id": "4feda561-1914-404d-9092-3c629d5251bd",
+                    "text": "\n\nTo date, a number of genetic variants have been identified to be associated with response to antidiabetic drugs.Of these, some variants are present in either drug receptors or drug metabolizers as for OCT genes, KCNJ11, ABCC8, and CYP2C9.Other variants are known T2D susceptibility variants such as TCF7L2.To identify variants of importance for antiglycemic drug response, GWAS in large cohorts of patients with diabetes with detailed measures of pharmacotherapy are lacking.The pharmacologic management of patients with diabetes often involves drug classes other than antidiabetics.Pharmacogenetic studies on statin and antihypertensive treatment have reported several genetic variants associated with treatment response and adverse drug reactions [101,102].It therefore seems natural to conclude that the future perspectives in pharmacogenetics is to conduct genetic studies in large cohorts with wellphenotyped individuals, thorough data collection on baseline treatment, concomitant treatment, adherence to therapy as well as data collection on comorbidity and additional disease diagnoses.These types of pharmacogenetic studies may provide unique opportunities for future genotype-based treatment standards and may help in delaying or changing the slope of disease progression among patients with T2D."
+                }
+            ],
+            "50c72e55-b5fe-42a6-b837-64c28620a4c0": [
+                {
+                    "document_id": "50c72e55-b5fe-42a6-b837-64c28620a4c0",
+                    "text": "\n\nGenetic determinants of diabetes and metabolic syndromes."
+                }
+            ],
+            "516de7be-3cef-47ee-8338-199fb922bc6f": [
+                {
+                    "document_id": "516de7be-3cef-47ee-8338-199fb922bc6f",
+                    "text": "\n\nThus, specific answers are lacking as to the genetic basis for type 2 diabetes.Still, speculations can be made about what eventually will be found.It is almost certain the genetic basis for type 2 diabetes and other common metabolic diseases will be extremely complex-that a predisposition for the disease will require several genetic hits as opposed to just one.Also, it is generally assumed there will be many susceptibility genes for type 2 diabetes, with enormous variability in different families and ethnic groups.Not known is whether there will be a common form of type 2 diabetes, with any one or even a few susceptibility genes accounting for a sizeable percentage of affected persons.As such, identifying diabetes genes will be slow and difficult."
+                }
+            ],
+            "5d1d5baa-75f4-42d5-8e4c-fb038a71bbec": [
+                {
+                    "document_id": "5d1d5baa-75f4-42d5-8e4c-fb038a71bbec",
+                    "text": "Ta rge ted T r e atmen t a nd Pr e v en t ion\n\n4][75] In monogenic forms of diabetes, at least, genetic testing already drives the choice of therapy.For example, in patients who have maturity-onset diabetes of the young due to mutations in the gene encoding glucokinase (GCK), the hyperglycemia is mild and stable, the risk of complications is low, and dietary management is often sufficient.In contrast, in patients who have maturity-onset diabetes of the young due to mutations in HNF1A, the disease follows a more aggressive course, with a greater risk of severe complications, but is particularly responsive to the hypoglycemic effects of sulfonylureas. 62,73Most children with neonatal diabetes have mutations in KCNJ11 or ABCC8, adjacent genes that jointly encode the beta-cell ATP-sensitive potassium channel that mediates glucose-stimulated insulin secretion and is the target of sulfonylureas.In such children, treatment with sulfonylureas has proved more effective and convenient than the lifelong insulin therapy previously considered the default option. 74,75n children with severe obesity due to profound leptin deficiency, exogenous leptin therapy is lifesaving. 76s yet, there are insufficient genetic data to support management decisions for common forms of type 2 diabetes and obesity. 77Although the TCF7L2 genotype is associated with variation in the response to sulfonylurea treatment, 78 the effect is too modest to guide the care of individual patients.For the time being, the contribution of genetic information to therapy is most likely to come through the drug-discovery pipeline.Information from genetic studies could be used to identify new targets for pharmaceutical intervention that have validated effects on physiological characteristics, to provide information about new and existing targets (e.g., clues about the long-term safety of pathway intervention), 32 and to characterize high-risk groups to enable more efficient clinical trials of agents designed to reduce the progression of type 2 diabetes or obesity or the risk of complications."
+                }
+            ],
+            "9c9cc0b3-5dde-4077-ae41-1410db9aeb24": [
+                {
+                    "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                    "text": "Type 2 Diabetes\n\nWhile a subset of genetic variants are linked to both type 1 and type 2 diabetes (42,43), the two diseases have a largely distinct genetic basis, which could be leveraged toward classification of diabetes (44).Genome-wide association studies have identified more than 130 genetic variants associated with type 2 diabetes, glucose levels, or insulin levels; however, these variants explain less than 15% of disease heritability (45)(46)(47).There are many possibilities for explaining the majority of type 2 diabetes heritability, including disease heterogeneity, gene-gene interactions, and epigenetics.Most type 2 variants are in noncoding genomic regions.Some variants, such as those in KCNQ1, show strong parent-of-origin effects (48).It is possible that children of mothers carrying KCNQ1 are born with a reduced functional b-cell mass and thereby are less able to increase their insulin secretion when exposed to insulin resistance (49).Another area of particular interest has been the search for rare variants protecting from type 2 diabetes, such as loss-of-function mutations in SLC30A8 (50), which could offer potential new drug targets for type 2 diabetes."
+                },
+                {
+                    "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                    "text": "Research Gaps\n\nAfter consideration of the known genetic associations with diabetes risk, consensus developed that the field is not yet at a place where genetics has provided actionable information to guide treatment decisions, with a few notable exceptions, namely in MODY.The experts agreed there is a need to use the increasingly accessible and affordable technologies to further refine our understanding of how genetic variations affect the rate of progression of diabetes and its complications.The expert committee also highlighted the importance of determining categorical phenotypic subtypes of diabetes in order to link specific genetic associations to these phenotypic subtypes.These types of information are necessary to develop the tools to predict response to-and side effects of-therapeutic approaches for diabetes in patient populations."
+                }
+            ],
+            "ad88aed6-75ba-469d-b96b-7be4a65be8fc": [
+                {
+                    "document_id": "ad88aed6-75ba-469d-b96b-7be4a65be8fc",
+                    "text": "\nGenome-wide association (GWAS) and sequencing studies are providing new insights into the genetic basis of type 2 diabetes (T2D) and the inter-individual variation in glycemic traits, including levels of glucose, insulin, proinsulin and hemoglobin A1c (HbA1c).At the end of 2011, established loci (P < 5 × 10 −8 ) totaled 55 for T2D and 32 for glycemic traits.Since then, most new loci have been detected by analyzing common [minor allele frequency (MAF)>0.05]variants in increasingly large sample sizes from populations around the world, and in trans-ancestry studies that successfully combine data from diverse populations.Most recently, advances in sequencing have led to the discovery of four loci for T2D or glycemic traits based on low-frequency (0.005 < MAF ≤ 0.05) variants, and additional low-frequency, potentially functional variants have been identified at GWAS loci.Established published loci now total ∼88 for T2D and 83 for one or more glycemic traits, and many additional loci likely remain to be discovered.Future studies will build on these successes by identifying additional loci and by determining the pathogenic effects of the underlying variants and genes."
+                }
+            ],
+            "b00b9753-c198-4f8a-a8b9-dd5e94dc5896": [
+                {
+                    "document_id": "b00b9753-c198-4f8a-a8b9-dd5e94dc5896",
+                    "text": "\n\nTogether, the findings from these studies were among the first to demonstrate that the genetic etiology of hyperglycemia may modulate response to hypoglycemia agents.Such results yielded strong implications for patient management and paved the way toward elucidating additional genetic factors that might influence drug response in the treatment of T2D."
+                }
+            ],
+            "c8c58fdf-06e3-4da4-a920-d5bcbcd18289": [
+                {
+                    "document_id": "c8c58fdf-06e3-4da4-a920-d5bcbcd18289",
+                    "text": "A\n\nnumber of studies have implicated a genetic basis for type 2 diabetes (1).The discovery of monogenic forms of the disease underscored the phenotypic and genotypic heterogeneity, although monogenic forms account for only a few percent of the disease (1).Defining the genetic basis of the far more common polygenic form of the disease presents more difficulties (2,3).Nevertheless, some interesting results have recently emerged.A genome scan of Hispanic-American families (330 affected sib-pairs [ASPs]) found linkage to chromosome 2q37 (logarithm of odds [LOD] 4.15) (4), and the causative gene has been recently reported (5).A number of other genome scans in various racial groups have identified other putative susceptibility loci (6 -8).The largest genome-wide scan for type 2 diabetes loci reported to date studied 477 Finnish families (716 ASPs) and found evidence for linkage to chromosome 20q12-13.1(LOD 2.06 at D20S107) (9).Interestingly, similar results have been reported by at least three other groups (10 -12)."
+                }
+            ],
+            "f7072d9b-4e07-4541-bac7-13a25761f460": [
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "\n\nBecause more than one genetic mutation contributes to T1D, the differences that occur between individuals of different backgrounds (for instance, race and locality) may need to be considered in the design of treatments.Personalized medicine is about the ability to classify individuals into subpopulations that differ in their susceptibility to a particular disease or in their response to a specific treatment (Blau and Liakopoulou, 2013;Timmeman, 2013).This will allow for a more accurate diagnosis per individual, and design of specific treatment plans including gene therapy."
+                }
+            ],
+            "fcf8fb37-20cf-491c-96f8-04a5621812a2": [
+                {
+                    "document_id": "fcf8fb37-20cf-491c-96f8-04a5621812a2",
+                    "text": "\n\nGenetic predisposition to diabetes mellitus type 2: will large collaborative efforts be able to overcome the geneticist's nightmare?"
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "C4C12C6896F2957844079BC4AFF8FF4B",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "type&2&diabetes",
+            "pharmacogenetics",
+            "pharmacogenomics",
+            "GWAS",
+            "genetic&variants",
+            "OCT&genes",
+            "KCNJ11",
+            "ABCC8",
+            "CYP2C9",
+            "TCF7L2"
+        ],
+        "metadata": [],
+        "question": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?",
+        "subquestions": null,
+        "task_id": "C4C12C6896F2957844079BC4AFF8FF4B",
+        "usage": {
+            "chatgpt": 7037,
+            "gpt-4": 4436,
+            "gpt-4-turbo-preview": 3522
+        },
+        "user_id": 2
+    },
+    "document_id": "C4C12C6896F2957844079BC4AFF8FF4B",
+    "task_id": "C4C12C6896F2957844079BC4AFF8FF4B"
+}

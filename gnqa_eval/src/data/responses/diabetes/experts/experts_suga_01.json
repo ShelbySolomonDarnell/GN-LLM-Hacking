@@ -1,0 +1,150 @@
+{
+    "created_at": "2024-05-31T23:02:19.686688Z",
+    "data": {
+        "amplify": false,
+        "answer": "The genes associated with diabetes mentioned in the text include PPARG, KCNJ11, TCF7L2, SLC30A8, HHEX, CDKN2A, IGF2BP2, CDKAL1, IRS1, CCR5, FTO, NOTCH2, WFS1, JAZF1, ADIPOQ, AHSG, CAPN10, ENPP1, PPARGC1A, SREBF1, PDX1, PFAS, GCK, HNFA4, LOC387761, KCNQ1, MTNR1B, GCKR, BACH2, CTNNB1, CREB5, PARD3B, PARD6G, PRKCZ, EBF1, GIGYF1, ADCY5, PROX1, DGKB-TMEM195, CRY2, FADS1, GLIS3, and C2CD4B.",
+        "context": {
+            "2bef9608-4bd6-4252-9fbd-2413b2cad4f8": [
+                {
+                    "document_id": "2bef9608-4bd6-4252-9fbd-2413b2cad4f8",
+                    "text": "\n\nTo see which other significant genes were likely to have a role in diabetes we looked at all variant sets with a significant glucose, HbA1c, or T2D association and examined whether they had associations with additional diabetes traits (p ≤ 0.0016, correcting for 32 sets tested).Damaging missense variants in PDX1 and PFAS, which significantly associated with HbA1c levels in our primary analysis, associated with T2D diagnosis using this threshold (Table 3 and Supplementary Table 14)."
+                },
+                {
+                    "document_id": "2bef9608-4bd6-4252-9fbd-2413b2cad4f8",
+                    "text": "Identification of genes with a biological role in diabetes. Variants in two genes, GCK and GIGYF1, significantly associated with glucose, HbA1c and T2D diagnosis, strongly suggesting a biological role in diabetes; GCK is involved in Mendelian forms of diabetes while GIGYF1 has not previously been implicated by genetics in the disease.Both GCK and GIGYF1 are located on chromosome 7 but are 56 Mb apart, strongly suggesting that these signals are independent; this independence was confirmed by conditional analysis (Supplementary Table 13).Two additional variant sets, HNF1A pLOF and TNRC6B pLOF, had genome-wide associations with both T2D diagnosis and HbA1c levels while G6PC2 damaging missense variants associated with decreased levels of both glucose and HbA1c but not T2D diagnosis (Table 3)."
+                }
+            ],
+            "2dade65a-5d31-4839-b2c9-4c6cd3056f58": [
+                {
+                    "document_id": "2dade65a-5d31-4839-b2c9-4c6cd3056f58",
+                    "text": "\n\nOne obvious locus to consider is TCF7L2 in the context of type 2 diabetes.Common genetic variation located within the gene encoding transcription factor 7 like 2 (TCF7L2) has been consistently reported to be strongly associated with the disease.Such reports range from 2006, when we first published the association [3], to the recent transethnic meta-analysis GWAS of type 2 diabetes [4]."
+                }
+            ],
+            "31588831-61b3-4018-9962-bd6985c3061b": [
+                {
+                    "document_id": "31588831-61b3-4018-9962-bd6985c3061b",
+                    "text": "\n\nTesting of these loci for association with T2D as a dichotomous trait in up to 40,655 cases and 87,022 nondiabetic controls demonstrated that the fasting glucose-raising alleles at seven loci (in or near ADCY5, PROX1, GCK, GCKR and DGKB-TMEM195 and the known T2D genes TCF7L2 and SLC30A8) are robustly associated (P < 5 × 10 −8 ) with increased risk of T2D (Table 2).The association of a highly correlated SNP in ADCY5 with T2D in partially overlapping samples is reported by our companion manuscript 29 .We found less significant T2D associations (P < 5 × 10 −3 ) for variants in or near CRY2, FADS1, GLIS3 and C2CD4B (Table 2).These data clearly show that loci with similar fasting glucose effect sizes may have very different T2D risk effects (see, for example, ADCY5 and MADD in Table 2)."
+                }
+            ],
+            "3c35547c-eb9b-470d-b74b-0f9a0529e965": [
+                {
+                    "document_id": "3c35547c-eb9b-470d-b74b-0f9a0529e965",
+                    "text": "\n\nAmong the confirmed and potential type 2 diabetes risk genes described in Tables 1 and 2, eight genes influence whole-body or peripheral insulin sensitivity: ADIPOQ (47, 52, 250 -257), AHSG (75, 258), CAPN10 (259 -264), ENPP1 (265)(266)(267)(268)(269)(270)(271), PPARG (272)(273)(274)(275)(276)(277)(278)(279)(280)(281)(282)(283), PPARGC1A (284,285), SREBF1 (65), and TCF7L2 (133,151,286,287)."
+                }
+            ],
+            "45c14654-f263-4031-9941-206d7b6a97f3": [
+                {
+                    "document_id": "45c14654-f263-4031-9941-206d7b6a97f3",
+                    "text": "\n\nDespite identification of many putative causative genetic variants, few have generated credible susceptibility variants for type 2 diabetes.Indeed, the most important finding using linkage studies is the discovery that the alteration of TCF7L2 (TCF-4) gene expression or function (33) disrupts pancreatic islet function and results in enhanced risk of type 2 diabetes.Candidate gene studies have also reported many type 2 diabetes-associated loci and the coding variants in the nuclear receptor peroxisome proliferator-activated receptor-g (34), the potassium channel KCNJ11 (34), WFS1 (35), and HNF1B (TCF2) (36) are among the few that have been replicated (Table 2).Recently, there have been great advances in the analysis of associated variants in GWA and replication studies due to highthroughput genotyping technologies, the International HapMap Project, and the Human Genome Project.Type 2 susceptibility loci such as JAZF1, CDC123-CAMK1D, TSPAN8-LGR5, THADA, ADAMTS9, NOTCH2, and ADCY5 (37,38) are among some of the established loci (Table 2).CDKN2A/B, CDKAL1, SLC30A8, IGF2BP2, HHEX/IDE, and FTO are other established susceptibility loci for diabetes (Table 2) (34,39,40).GWA studies have also identified the potassium voltage-gated channel KCNQ1 (32) as an associated gene variant for diabetes.A recent GWA study reporting a genetic variant with a strong association with insulin resistance, hyperinsulinemia, and type 2 diabetes, located adjacent to the insulin receptor substrate 1 (IRS1) gene, is the C allele of rs2943641 (41).Interestingly, the parental origin of the single nucleotide polymorphism is of importance because the allele that confers risk when paternally inherited is protected when maternally transmitted.GWA studies for glycemic traits have identified loci such as MTNR1B (42), GCK (glucokinase) (42), and GCKR (glucokinase receptor) (42); however, further investigation of genetic loci on glucose homeostasis and their impact on type 2 diabetes is needed.Indeed, a recent study by Soranzo et al. (42) using GWA studies identified ten genetic loci associated with HbA 1c .Genetic factors affecting expression, turnover, and abnormal glycation of hemoglobin may be associated with changes in levels of HbA 1c ."
+                }
+            ],
+            "4fe0a01d-3be8-4cd5-ac59-8b0ef085b20c": [
+                {
+                    "document_id": "4fe0a01d-3be8-4cd5-ac59-8b0ef085b20c",
+                    "text": "\n\nG enome-wide association studies (GWAS) have iden- tified several type 2 diabetes mellitus (T2DM) susceptibility loci including CDKAL1, CDKN2B, IGF2BP2, HHEX, SLC30A8, PKN2, LOC387761 (1)(2)(3)(4)(5), and KCNQ1, which was recently identified by similar GWAS approach in two independent Japanese samples (6,7).Although these associations have been well replicated in Japanese populations (8), the role of these loci in other East Asian populations remains less clear.For example, a study in China by Wu et al. (9) did not find significant associations between single-nucleotide polymorphisms (SNPs) in IGF2BP2 and SLC30A8 with T2DM, whereas an association between SNPs at the HHEX locus and T2DM was reported among Chinese living in Shanghai, but not among Chinese in Beijing.Another study in Hong Kong Chinese (10) also did not find an association with SNPs at the IGF2BP2 locus; however, they reported an association between T2DM with SNPs at the HHEX and SLC30A8 loci."
+                }
+            ],
+            "559a3a15-da15-4132-a8b5-5401bfe770ef": [
+                {
+                    "document_id": "559a3a15-da15-4132-a8b5-5401bfe770ef",
+                    "text": "\n\nIn studies where overt T2D has been the phenotype the majority of associated polymorphisms have encoded proteins known to be involved in β-cell metabolism; for example TCF7L2, KCNJ11 and HHEX have shown robust association [170,171].This suggests that these genes could prove useful in predicting β-cell preservation during the course of T2D.The glucokinase gene (GCK) coding for the initial glucose-sensing step in the β-cell can have activating mutations causing hypoglycemia that might provide structural and functional models leading to drug targets for treating T2D [172].In the GoDARTs study, investigators examined the medication response of metformin and sulphonylurea based on the TCF7L2 variants mainly affecting the β-cell.The carriers of the at risk 'T' allele responded less well to sulphonylurea therapy than metformin [173].Also it is of significant public health interest that in the Diabetes Prevention Program, lifestyle modifications were shown to reduce the risk of diabetes conferred by risk variants of TCF7L2 at rs7093146, and in placebo participants who carried the homozygous risk genotype (TT), there was 80% higher risk for developing diabetes compared to the lifestyle intervention group carrying the same risk genotypes [35].These findings could herald significant future progress in the field of T2D pharmacogenomics, possibly leading to the development and use of agents tailored on the basis of genotype."
+                }
+            ],
+            "5d7a863d-1811-4eea-9fb0-fbc3067aa664": [
+                {
+                    "document_id": "5d7a863d-1811-4eea-9fb0-fbc3067aa664",
+                    "text": "\n\nDespite sharing only 9 loci (among 26 and 17 total in the two analyses, respectively), the separate analyses both identified genes involved in diabetes-related biological functions, including \"glucose homeostasis,\" \"pancreas development\" and \"insulin secretion\" (Supplementary Tables 3 and 5).Three of the top eleven scoring genes in our independent replication analysis have verified causal links to T2D, as annotated in the OMIM 41 .These include genes encoding transcription factors TCF7L2 (TCF4), which has extensive evidence of being causal in T2D 61,62 , and HNF1B, which is a known cause of maturity onset diabetes of the young 63 .Other high-ranking candidate genes have been identified as therapeutic targets in T2D (for example, CTBP1 (ref.64) and LEP 65 ), and the high-scoring gene HHEX has recently been shown to play a key role in islet function 66 ."
+                }
+            ],
+            "7bd7a98f-955a-4988-8981-a0ff7ab6f7df": [
+                {
+                    "document_id": "7bd7a98f-955a-4988-8981-a0ff7ab6f7df",
+                    "text": "\n\nSimilar findings to AMD are now unfolding with type 2 DM.Grant et al. (24) first reported on a variant of the gene TCF7L2, which has been linked to reduced beta cell function and poor insulin response to oral glucose loads (51).Since its first discovery, this gene has been widely confirmed in independent studies as a pivotal susceptibility marker for type 2 DM (23,(25)(26)(27)(28)40).Recently, 6 genome-wide SNP association studies have identified and replicated in separate stages several additional novel genes conferring susceptibility to type 2 DM (23,(25)(26)(27)(28)40) (Table 2).Interestingly, these loci primarily include genes involved in pancreatic beta cell development and function as opposed to insulin resistance-the current accepted mechanism for type 2 DM.This development casts doubt on our traditional pathophysiological modeling of the type 2 diabetic patient and underscores the need for genomic studies to further define pathobiological processes of complex traits."
+                }
+            ],
+            "80500e0d-0e39-4e46-bb60-8721f4f512c0": [
+                {
+                    "document_id": "80500e0d-0e39-4e46-bb60-8721f4f512c0",
+                    "text": "\n\nOf the 16 loci that have been associated with type 2 diabetes previously, [8][9][10][11][12][13][14][15] we showed that 11 -TCF7L2, PPARG, FTO, KCNJ11, NOTCH2, WFS1, CDKAL1, IGF2BP2, SLC30A8, JAZF1, and HHEXwere associated with an enhanced risk of future diabetes.Many of the variants that we genotyped appear to influence beta-cell function, possibly through effects on proliferation, regeneration, and apoptosis.There was a time-dependent increase in the BMI and a decrease in insulin sensitivity in the subjects from the Botnia study, an increase in insulin resistance that was reflected by an increase in insulin secretion.However, this increase was inadequate to compensate for the increase in insulin resistance in carriers with a high genetic risk, which resulted in a markedly impaired disposition index.Only variants in FTO were associated with an increased BMI.Both FTO and PPARG together with TCF7L2 and KCNJ11 predicted transition from impaired fasting glucose levels or impaired glucose tolerance to manifest diabetes, which suggests that a combination of increased obesity and insulin resistance with a deterioration in beta-cell function contribute to the manifestation of diabetes in these subjects.Collectively, our findings emphasize the critical role of inherited defects in beta-cell function for the development of type 2 diabetes."
+                },
+                {
+                    "document_id": "80500e0d-0e39-4e46-bb60-8721f4f512c0",
+                    "text": "Type 2 Diabetes\n\nCommon variants in 11 genes were significantly associated with the risk of future type 2 diabetes in the MPP cohort, including TCF7L2 (odds ratio, 1.30; P = 9.5×10 −13 ), PPARG (odds ratio, 1.20; P = 4.0×10 −4 ), FTO (odds ratio, 1.14; P = 9.2×10 −5 ), KCNJ11 (odds ratio, 1.13; P = 3.6×10 −4 ), NOTCH2 (odds ratio, 1.13; P = 0.02), WFS1 (odds ratio, 1.12; P = 0.001), CDKAL1 (odds ratio, 1.11; P = 0.004), IGF2BP2 (odds ratio, 1.10; P = 0.008), SLC30A8 (odds ratio, 1.10; P = 0.008), JAZF1 (odds ratio, 1.08; P = 0.03), and HHEX (odds ratio, 1.07; P = 0.03) (Table 2).Although these findings could not be fully replicated in the smaller Botnia study, there was little heterogeneity between the studies with respect to the risk conferred by different genotypes."
+                }
+            ],
+            "8cd81e24-a326-4443-bc37-0e6e421e70b2": [
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "\n\nTo date, more than 70 genes have been identified as involved in T2DM, primarily by association analysis [34].In addition, via GWAS arrays, more than 100 SNPs have been identified for T2DM [35].From the 50 novel loci associated with T2DM previously identified, more than 40 loci have been associated with T2DM-related traits, including fasting proinsulin, insulin and glucose (Table 1) [36][37][38][39].However, for T2DM-related traits, such as the HOMA index or pancreatic β cell function, there are virtually no published data examining the relationship between these traits or the genotype and environment interactions.Clinical investigations of some loci have suggested that the genetic components of T2DM risk act preferentially through β cell function [40].Among all 40 loci associated with T2DM-related traits, only transcription factor-7-like 2 (TCF7L2) was shown to clearly contribute to T2DM risk [41].Several studies in white European [42], Indian [43], Japanese [44], Mexican American [45] and West African [46] individuals have shown a strong association between TCF7L2 and T2DM.It is also noteworthy that these populations represent the major racial groups with a high prevalence of T2DM.In all populations, TCF7L2 showed a strong association, with the odds of developing T2DM increased by 30%-50% for each allele inherited.This finding indicates an approximately double odds ratio compared to most other diabetes susceptibility polymorphisms.TCF7L2 is a transcription factor involved in the Wnt signaling pathway that is ubiquitously expressed, and it has been observed that TCF7L2 risk alleles result in the overexpression of TCF7L2 in pancreatic β cells.This overexpression causes reduced nutrient-induced insulin secretion, which results in a direct predisposition to T2DM as well as an indirect predisposition via an increase in hepatic glucose production [47]."
+                },
+                {
+                    "document_id": "8cd81e24-a326-4443-bc37-0e6e421e70b2",
+                    "text": "Most Relevant T2DM Susceptibility Genes\n\nGene and environment interaction studies have shown a nice association between variants in peroxisome proliferator-activated receptor gamma (PPARG), TCF7L2 and fat mass and obesity-associated protein (FTO) genes, a Western dietary pattern and T2DM."
+                }
+            ],
+            "9b93b4eb-98c2-403f-aea2-6b24399501b8": [
+                {
+                    "document_id": "9b93b4eb-98c2-403f-aea2-6b24399501b8",
+                    "text": "\n\nOne of these genes associated with type 2 diabetes is the insulin receptor substrate 1 (IRS1, OMIM association number, 147545) (Alharbi, Khan, Abotalib, & Al-Hakeem, 2014;Alharbi, Khan, Munshi et al., 2014;Brender et al., 2013;Brunetti, Chiefari, & Foti, 2014) and another is the C-C motif chemokine receptor5(CCR5, OMIM association number, 601373) (Balistreri et al., 2007;Mokubo et al., 2006;Muntinghe et al., 2009)."
+                }
+            ],
+            "a579db95-2a40-43ff-b237-d47f90aaf64f": [
+                {
+                    "document_id": "a579db95-2a40-43ff-b237-d47f90aaf64f",
+                    "text": "Genes boosted in type 2 diabetes\n\nBefore the Wellcome Trust study, PPARG, KCNJ11, and TCF7L2 had all been identified as genes involved in type 2 diabetes through genome-wide association studies and replicated in follow-up studies (for review, see Bonnefond et al. 2010).The strongest candidate gene for type 2 diabetes, TCF7L2, was also the strongest signal seen in the Wellcome trust study, although the others were not so strong.However, the exact mechanism by which TCF7L2 acts was not entirely clear.In our analysis (Fig. 5), we find it directly connected to the b-catenin/WNT signaling pathway by its functional connection to CTNNB1, as well as to BACH2, a gene that has been repeatedly implicated in type 1 diabetes (e.g., Cooper et al. 2008;Madu et al. 2009), but which has not yet been linked to type 2 diabetes.BACH2 is among the genes most strongly boosted by network linkages, deriving additional signal from CREB5 and PARD3B, which both score highly in the GWAS data.PARD6G, PARD3B, and CDC42 are also emphasized by the method.Notably, these genes form a complex with PRKCZ (Koh et al. 2008), a variant of which correlates with type 2 diabetes in Han Chinese (Qin et al. 2008).EBF1, a known regulator of adipocyte differentiation (Akerblad et al. 2005) is also strongly boosted by the network, supporting a possible role in type 2 diabetes."
+                }
+            ],
+            "b978a189-6fbd-4791-8072-7db79f43746a": [
+                {
+                    "document_id": "b978a189-6fbd-4791-8072-7db79f43746a",
+                    "text": "RESULTS-\n\nWe confirmed the associations of TCF7L2, SLC30A8, HHEX, CDKAL1, CDKN2A/CDKN2B, IGF2BP2, and FTO with risk for type 2 diabetes, with odds ratios ranging from 1.13 to 1.35 (1.3 ϫ 10 Ϫ12 Ͻ P unadjusted Ͻ 0.016).In addition, the A allele of rs8050136 at FTO was associated with increased BMI in the control subjects (P unadjusted ϭ 0.008).However, we did not observe significant association of any genetic variants with surrogate measures of insulin secretion or insulin sensitivity indexes in a subset of 2,662 control subjects.Compared with subjects carrying zero, one, or two risk alleles, each additional risk allele was associated with 17% increased risk, and there was an up to 3.3-fold increased risk for type 2 diabetes in those carrying eight or more risk alleles.Despite most of the effect sizes being similar between Asians and Europeans in the metaanalyses, the ethnic differences in risk allele frequencies in most of these genes lead to variable attributable risks in these two populations."
+                },
+                {
+                    "document_id": "b978a189-6fbd-4791-8072-7db79f43746a",
+                    "text": "\nOBJECTIVE-Recent genome-wide association studies have identified six novel genes for type 2 diabetes and obesity and confirmed TCF7L2 as the major type 2 diabetes gene to date in Europeans.However, the implications of these genes in Asians are unclear.RESEARCH DESIGN AND METHODS-We studied 13 associated single nucleotide polymorphisms from these genes in 3,041 patients with type 2 diabetes and 3,678 control subjects of Asian ancestry from Hong Kong and Korea. RESULTS-We confirmed the associations of TCF7L2, SLC30A8, HHEX, CDKAL1, CDKN2A/CDKN2B, IGF2BP2, and FTO with risk for type 2 diabetes, with odds ratios ranging from 1.13 to 1.35 (1.3 ϫ 10 Ϫ12 Ͻ P unadjusted Ͻ 0.016).In addition, the A allele of rs8050136 at FTO was associated with increased BMI in the control subjects (P unadjusted ϭ 0.008).However, we did not observe significant association of any genetic variants with surrogate measures of insulin secretion or insulin sensitivity indexes in a subset of 2,662 control subjects.Compared with subjects carrying zero, one, or two risk alleles, each additional risk allele was associated with 17% increased risk, and there was an up to 3.3-fold increased risk for type 2 diabetes in those carrying eight or more risk alleles.Despite most of the effect sizes being similar between Asians and Europeans in the metaanalyses, the ethnic differences in risk allele frequencies in most of these genes lead to variable attributable risks in these two populations. CONCLUSIONS-Ourfindings support the important but differential contribution of these genetic variants to type 2 diabetes and obesity in Asians compared with Europeans.Diabetes 57: 2226-2233, 2008T ype 2 diabetes is a major health problem affecting more than 170 million people worldwide.In the next 20 years, Asia will be hit hardest, with the diabetic populations in India and China more than doubling (1).Type 2 diabetes is characterized by the presence of insulin resistance and pancreatic ␤-cell dysfunction, resulting from the interaction of genetic and environmental factors.Until recently, few genes identified through linkage scans or the candidate gene approach have been confirmed to be associated with type 2 diabetes (e.g., PPARG, KCNJ11, CAPN10, and TCF7L2).Under the common variant-common disease hypothesis, several genome-wide association (GWA) studies on type 2 diabetes have been conducted in large-scale case-control samples.Six novel genes (SLC30A8, HHEX, CDKAL1, CDKN2A and CDKN2B, IGF2BP2, and FTO) with modest effect for type 2 diabetes (odds ratio [OR] 1.14 -1.20) had been reproducibly demonstrated in multiple populations of European ancestry.Moreover, TCF7L2 was shown to have the largest effect for type 2 diabetes (1.37) in the European populations to date (2-8).Although many of these genes may be implicated in the insulin production/secretion pathway (TCF7L2, SLC30A8, HHEX, CDKAL1, CDKN2A/B, and IGF2BP2) (6,9 -11), FTO is associated with type 2 diabetes through its regulation of adiposity (8,12,13).Moreover, two adjacent regions near CDKN2A/B are associated with type 2 diabetes and cardiovascular diseases risks, respectively (7,14 -16).Despite the consistent associations among Europeans, the contributions of these genetic variants in other ethnic groups are less clear.Given the differences in environmental factors (e.g., lifestyle), risk factor profiles (body composition and insulin secretion/resistance patterns), and genetic background (linkage disequilibrium pattern and risk allele frequencies) between Europeans and Asians, it is important to understand the role of these genes in Asians.A recent case-control study in 1,728 Japanese subjects revealed nominal association to type 2 diabetes for variants at the SLC30A8, HHEX, CDKAL1, CDKN2B, and FTO genes but not IGF2BP2 (17).In the present large-scale case-control replication study of 6,719 Asians, we aimed to test for the association of six novel genes from GWA studies and TCF7L2, which had the largest effect in Europeans, and their joint effects on type 2 diabetes risk and metabolic traits. RESEARCH DESIGN AND METHODSAll subjects were recruited from Hong Kong and Korea and of Asian ancestry.The subjects in the Hong Kong case-control study were of southern Han Chinese ancestry residing in Hong Kong.Participants for the case cohort consisting of 1,481 subjects with type 2 diabetes were selected from two"
+                }
+            ],
+            "bbb4af44-2659-4207-b9a1-0ff85d379a9f": [
+                {
+                    "document_id": "bbb4af44-2659-4207-b9a1-0ff85d379a9f",
+                    "text": "\n\nOBJECTIVE-Common variants in PPARG, KCNJ11, TCF7L2, SLC30A8, HHEX, CDKN2A, IGF2BP2, and CDKAL1 genes have been shown to be associated with type 2 diabetes in European populations by genome-wide association studies.We have studied the association of common variants in these eight genes with type 2 diabetes and related traits in Indians by combining the data from two independent case-control studies."
+                }
+            ],
+            "d9564b3c-efac-42ae-8e15-bf962c0a7a3c": [
+                {
+                    "document_id": "d9564b3c-efac-42ae-8e15-bf962c0a7a3c",
+                    "text": "Introduction\n\nMany genes have been evaluated as candidates for T2D susceptibility.However, only variants in the TCF7L2, PPARG, KCNJ11 and HNFA4 genes have been extensively replicated in populations around the world, showing their indisputable association with T2D risk (Zeggini 2007).In the particular case of the HNF4A gene, it has been implicated in maturity-onset diabetes of the young type 1 (MODY 1) (Mitchell and Frayling 2002;Zhu et al. 2003).HNF4A is a member of the nuclear receptor super-family that plays a critical role in embryogenesis and metabolism, by regulating gene expression in pancreatic beta cells, liver and other tissues.The HNF4A gene is localized to chromosome 20q13, a region that has demonstrated evidence for linkage with T2D (Sladek et al. 1990;Ghosh et al. 1999).Several genetic studies, mainly in Caucasian and Asian populations, have provided evidence for the association of the variants in HNF4A with T2D (Ghosh et al. 1999;Silander et al. 2004;Winckler et al. 2005)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "8909D2606E33C312F2ECC705FAF65CA2",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "TCF7L2&gene",
+            "PPARG&gene",
+            "KCNJ11&gene",
+            "SLC30A8&gene",
+            "HHEX&gene",
+            "CDKAL1&gene",
+            "CDKN2A&gene",
+            "IGF2BP2&gene",
+            "FTO&gene",
+            "WFS1&gene"
+        ],
+        "metadata": [],
+        "question": "what genes are associated with diabetes?",
+        "subquestions": null,
+        "task_id": "8909D2606E33C312F2ECC705FAF65CA2",
+        "usage": {
+            "chatgpt": 10960,
+            "gpt-4": 6551,
+            "gpt-4-turbo-preview": 5611
+        },
+        "user_id": 2
+    },
+    "document_id": "8909D2606E33C312F2ECC705FAF65CA2",
+    "task_id": "8909D2606E33C312F2ECC705FAF65CA2"
+}

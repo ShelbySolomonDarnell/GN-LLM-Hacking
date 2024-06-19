@@ -1,0 +1,396 @@
+{
+    "created_at": "2024-06-01T14:20:28.998327Z",
+    "data": {
+        "amplify": false,
+        "answer": "Actually, males have one Y chromosome and one X chromosome, while females have two X chromosomes. This combination determines the sex of an individual.",
+        "context": {
+            "1ac23aae-2a51-4846-81ec-6db70ab6e5a4": [
+                {
+                    "document_id": "1ac23aae-2a51-4846-81ec-6db70ab6e5a4",
+                    "text": "\n\nY chromosome in peripheral blood cells increases with age in men (6) and is correlated with increased risk of cancer mortality and Alzheimer's disease (6,7).X chromosome mosaicism in women also increases with age (8), as does autosomal mosaicism in both sexes (9,10).Recent studies have shown that the prevalence of age-related mosaic abnormalities is greater in men than women (9,10); however, mechanisms underlying the sex differences observed in chromosomal mosaicism in humans are unknown."
+                }
+            ],
+            "20b466c6-004b-484f-96a1-c1b4651bc856": [
+                {
+                    "document_id": "20b466c6-004b-484f-96a1-c1b4651bc856",
+                    "text": "\n\nRecent reports suggested a role of Y chromosome loss in risk for all-cause mortality and common age-related disease such as cancer, Alzheimer disease as well as severe atherosclerosis [12][13][14][15][16][17][18][19][20].Building on such reports, we aimed to evaluate the contribution of male Y chromosome mosaicism to the risk for late-stage AMD."
+                }
+            ],
+            "3f72832b-fad9-4d38-aed8-d22e5bd12a22": [
+                {
+                    "document_id": "3f72832b-fad9-4d38-aed8-d22e5bd12a22",
+                    "text": "Box 1. Sex-specific cytonuclear interactions\n\nSeveral predictions about the nature of cytonuclear conflicts follow from the patterns of chromosomal inheritance (Table I).In a mated pair of animals, mtDNA is co-transmitted with half of the autosomal genes, two-thirds of the X-linked genes and none of the Y-linked genes [76].This predicts that, relative to the autosomal case, positive nuclear-mitochondrial interactions are more likely to evolve for X-linked loci whereas deleterious interactions between Y-linked genes and mtDNA should accumulate (or cannot be purged efficiently)."
+                }
+            ],
+            "4ad6da14-56a3-48ab-a587-42761ceac238": [
+                {
+                    "document_id": "4ad6da14-56a3-48ab-a587-42761ceac238",
+                    "text": "\n\nIn addition to genetic data, the 9p Network Cohort dataset also lists the gender for all 719 individuals.Of these individuals, 406 individuals are female and 313 are male, indicating a female bias (Binomial test p ¼ 0.0006).This result was surprising considering that no female bias has been previously reported in 9p deletion and duplication syndromes.A possible explanation for the significant bias in the 9p Network Cohort dataset is the XY sex reversal phenotype, which is commonly observed in individuals with 9p deletion syndrome.This phenotype could lead to individuals with XY sex chromosomes being listed in the dataset as having a female gender.To further examine this hypothesis, we subset our dataset to include only the 236 individuals whose sex chromosomes are listed in their genetic information.For this much smaller subset, 125 individuals had female sex chromosomes and 111 had male sex chromosomes, indicating no significant sex bias (Binomial test p ¼ 0.4).We also found no significant gender bias in this group (Binomial test p ¼ 0.2), although we did confirm that four of the individuals with XY sex chromosomes had a gender of female.This comparison suggests that the XY sex reversal phenotype may be responsible for a female gender bias, but not a sex bias, in 9p deletion and duplication syndrome cohorts."
+                }
+            ],
+            "6910b508-6d25-4804-9e47-3590b57aa061": [
+                {
+                    "document_id": "6910b508-6d25-4804-9e47-3590b57aa061",
+                    "text": "\n\nDuplicated variants with multiple alternative alleles and variants in sex chromosomes X and Y"
+                }
+            ],
+            "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa": [
+                {
+                    "document_id": "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa",
+                    "text": "\n\nAutosome-One of the numbered, or nonsex, chromosomes (1 through 22).X and Y are the sex chromosomes."
+                }
+            ],
+            "7d451e79-b698-4744-aeb2-ff319f430d96": [
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nGiven such a high abundance of young male-biased genes, we asked whether their parental genes are also male-biased.We found that fewer parental genes of X-linked male-biased duplicates were also male-biased (20%, 2/10) compared to the parental genes of autosomal young male-biased duplicates (32%, 12/37).These data, despite the small sample sizes and being statistically not significant, may suggest that compared to autosomal young genes, X-linked young genes more often evolved novel male-biased expression.However, as the majority of young genes are the result of intrachromosomal duplication events, the pattern might also reflect the fact that X-linked old genes are less likely to be male-biased."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nA slight excess of X-linked female-biased genes was also detected (Fig. 2).Although most of them are old, a few recently arose on the X chromosome over 4 to 6 Myr in the common ancestor of the D. melanogaster and D. simulans clade (branch 5).This can be interpreted in the context of the dominance model of the sexual antagonism hypothesis.In this case, a dominant, X-linked gene that is favorable to females but disadvantageous for males can become fixed.The slow accumulation of female-biased genes in the X reflects an overall low rate of female gene origination, either due to a small dominance effect (the degree of dominance h!1/2), or a minor disadvantageous effect on males (the ratio of fitness effects of male relative to female k!0) along with a favorable effect on females (Vicoso and Charlesworth 2006, Equation 10)."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nRegarding the second step in the evolution of male-biased genes, namely X!A transposition, sexual antagonism favorable for autosomal fixation (Vicoso and Charlesworth 2006) and/or MSCI (Lifschytz and Lindsley 1972;Betran et al. 2002) may play a role in this process.On the other hand, the within-chromosomal duplication rate is higher than the between-chromosomal duplication rate (Emerson et al. 2008), which may contribute to the slow pace of X!A transposition."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nIt has been observed that male-biased genes in Drosophila are overrepresented on autosomes (Parisi et al. 2003;Ranz et al. 2003).Consistent with this result, a dynamic process that can explain the nonrandom autosomal distribution has also been observed, in which autosomal new genes with X-linked parental genes are often male-biased.Specifically, a significant excess of autosomal testisexpressed retrogenes were identified as RNA-duplicates of X-linked parental genes (Betran et al. 2002).Recently, similar X!A gene traffic was observed in the DNA-level duplication and relocation data set of the Drosophila genus (Vibranovski et al. 2009b), and was further confirmed for DNA-level duplications in the D. pseudoobscura neo-X chromosome (Meisel et al. 2009).In addition, selective extinction of neo-X linked male-biased genes also occurred in D. pseudoobscura (Sturgill et al. 2007).These three lines of genome-wide investigation support a common pattern of outof-X traffic for male-biased genes, resulting in an enrichment of these genes on autosomes in the long term."
+                },
+                {
+                    "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                    "text": "\n\nIt has been reported that the initial manifestations of new gene emergence, namely polymorphic duplicates, occur at a lower frequency on the X chromosome, thus indicating that these duplicates are subject to stronger purifying selection (Emerson et al. 2008).Therefore, the excessive fixation of X-linked duplicates might not occur via neutral processes.Positive selection could have facilitated the fixation of X-linked young genes in addition to driving their subsequent sequence evolution."
+                }
+            ],
+            "96cb840e-747f-4849-8354-e8764aa0a1ce": [
+                {
+                    "document_id": "96cb840e-747f-4849-8354-e8764aa0a1ce",
+                    "text": "\n\nOccasionally, Y chromosome DNA is detected in the maternal plasma, and the fetus appears to have female genitalia on sonographic examination.The underlying mechanisms for this include a twin demise, a maternal disorder of sexual differentiation, such as Swyer syndrome, or that the mother has undergone a bone marrow or solid organ transplant from a male donor (Bianchi, 2018;Hartwig, Ambye, Sorensen, & Jorgensen, 2017)."
+                }
+            ],
+            "9a5c3e73-8270-400f-8a2d-4f36b757188c": [
+                {
+                    "document_id": "9a5c3e73-8270-400f-8a2d-4f36b757188c",
+                    "text": "Because\nof the differences in sex chromosome number, the sexunmatched comparison contains internal controls, i.e. ,\nin this comparison, genes on the X-chromosome and\nY-chromosome (but not those on the autosomes) should\nshow copy number imbalances reﬂective of a single copy\nchange. We showed that the sample that is not sexmatched had readily detectable differences in aCGH\nsignals for genes on the X and Y chromosomes. No such\npatterns were evident for the autosomes of the sex\nunmatched individuals or for the sex chromosomes of the\nsex matched samples."
+                }
+            ],
+            "af3d7cd3-40ec-4a86-a473-89f83da250e4": [
+                {
+                    "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                    "text": "Sex chromosome:\n\nThe X or Y chromosome in human beings that determines the sex of an individual.Females have two X chromosomes in diploid cells; males have an X and a Y chromosome.The sex chromosomes comprise the 23rd chromosome pair in a karyotype.See also: autosome Sex-linked: Traits or diseases associated with the X or Y chromosome; generally seen in males."
+                },
+                {
+                    "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                    "text": "\n\nX chromosome: One of the two sex chromosomes, X and Y. See also: Y chromosome, sex chromosome Y chromosome: One of the two sex chromosomes, X and Y. See also; X chromosome, sex chromosome"
+                }
+            ],
+            "b04f2221-de28-4c4b-893e-9da982ff864c": [
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text": "The male heterogamety (XY) is the most\ncommon reported system, but many species\nhave female heterogamety (ZW), and more\noccasionally, multiple chromosome systems\n\n(Almeida-Toledo and Foresti, 2001; Devlin\nand Nagahama, 2002; Penman and Piferrer,\n2008). Given the low resolution of optical microscopy to differentiate sex chromosomes in\nﬁsh, researchers have looked for an alternative\nin the tenfold longer meiotic chromosomes to\ndetect mispairing tracts at the synaptonemal\ncomplex as an indication of the sex differentiated region with variable success."
+                },
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text": "The exclusive female\nconstitution of gynogenetic genomes provides\ninformation on the SD system, especially in a\nXX/XY system, where all female progenies are\nexpected. If ZZ/ZW is the underlying system,\nmale offspring always will be present, but the\ninterpretation is more complex and will depend\non the distance of the SD region to centromere\nand on the viability of WW offspring (Devlin\nand Nagahama, 2002; Penman and Piferrer,\n2008). Induced triploids, on the other hand, are\nconstituted by the combination of two female\nand one male genomes (Piferrer et al."
+                }
+            ],
+            "ef2c8463-5169-46aa-938b-7d04ea8da6b7": [
+                {
+                    "document_id": "ef2c8463-5169-46aa-938b-7d04ea8da6b7",
+                    "text": "\n\nThe existence of a maternally silenced X-linked imprinted locus playing a role in social cognition could explain why males (X m Y) are more vulnerable to disorders of social cognition such as autism spectrum disorders than are females (X m X p ).The absence of the expression of this gene would not lead to autism itself, but would eliminate a putative protective factor, making an individual more susceptible to the effects of other ASD-predisposing genetic mutations or environmental factors."
+                }
+            ],
+            "f051ad23-572d-4302-8dda-4d992aeaeb1a": [
+                {
+                    "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                    "text": "\n\nWhen meiosis takes place, a pair of chromosomes may fail to separate properly, creating a sperm or egg that has either two copies or no copy of a specific chromosome.This is a sporadic event and it is called nondisjunction.Nondisjunction can lead to an extra chromosome, called trisomy, or a missing chromosome, called monosomy (GHR, 2008l).Down syndrome is an example of trisomy.Individuals who have Down syndrome have an extra chromosome number 21. Turner syndrome is an example of monosomy.Girls who have Turner syndrome have only one X chromosome.This causes them to have short stature and be infertile (NHGRI, 2008l)."
+                },
+                {
+                    "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                    "text": "X-Linked Inheritance\n\nX-linked genetic disorders (also called sex-linked) are caused by gene mutations on the X chromosome.Most often X-linked genetic disorders are seen in males.Males inherit the X chromosome from their mother and the Y chromosome from their father.Because males have only one X chromosome, if they inherit a gene mutation on the X chromosome from their mother, they will have the disorder.Examples of X-linked genetic disorders occurring in males include hemophilia and Duchenne muscular dystrophy (GHR, 2008o)."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                "section_type": "main",
+                "text": "Sex chromosome:\n\nThe X or Y chromosome in human beings that determines the sex of an individual.Females have two X chromosomes in diploid cells; males have an X and a Y chromosome.The sex chromosomes comprise the 23rd chromosome pair in a karyotype.See also: autosome Sex-linked: Traits or diseases associated with the X or Y chromosome; generally seen in males."
+            },
+            {
+                "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                "section_type": "main",
+                "text": "The male heterogamety (XY) is the most\ncommon reported system, but many species\nhave female heterogamety (ZW), and more\noccasionally, multiple chromosome systems\n\n(Almeida-Toledo and Foresti, 2001; Devlin\nand Nagahama, 2002; Penman and Piferrer,\n2008).  Given the low resolution of optical microscopy to differentiate sex chromosomes in\nﬁsh, researchers have looked for an alternative\nin the tenfold longer meiotic chromosomes to\ndetect mispairing tracts at the synaptonemal\ncomplex as an indication of the sex differentiated region with variable success."
+            },
+            {
+                "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                "section_type": "main",
+                "text": "\n\nX chromosome: One of the two sex chromosomes, X and Y. See also: Y chromosome, sex chromosome Y chromosome: One of the two sex chromosomes, X and Y. See also; X chromosome, sex chromosome"
+            },
+            {
+                "document_id": "96cb840e-747f-4849-8354-e8764aa0a1ce",
+                "section_type": "main",
+                "text": "\n\nOccasionally, Y chromosome DNA is detected in the maternal plasma, and the fetus appears to have female genitalia on sonographic examination.The underlying mechanisms for this include a twin demise, a maternal disorder of sexual differentiation, such as Swyer syndrome, or that the mother has undergone a bone marrow or solid organ transplant from a male donor (Bianchi, 2018;Hartwig, Ambye, Sorensen, & Jorgensen, 2017)."
+            },
+            {
+                "document_id": "9a5c3e73-8270-400f-8a2d-4f36b757188c",
+                "section_type": "main",
+                "text": "Because\nof the differences in sex chromosome number, the sexunmatched comparison contains internal controls, i.e. ,\nin this comparison, genes on the X-chromosome and\nY-chromosome (but not those on the autosomes) should\nshow copy number imbalances reﬂective of a single copy\nchange.  We showed that the sample that is not sexmatched had readily detectable differences in aCGH\nsignals for genes on the X and Y chromosomes.  No such\npatterns were evident for the autosomes of the sex\nunmatched individuals or for the sex chromosomes of the\nsex matched samples."
+            },
+            {
+                "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                "section_type": "main",
+                "text": "The exclusive female\nconstitution of gynogenetic genomes provides\ninformation on the SD system, especially in a\nXX/XY system, where all female progenies are\nexpected.  If ZZ/ZW is the underlying system,\nmale offspring always will be present, but the\ninterpretation is more complex and will depend\non the distance of the SD region to centromere\nand on the viability of WW offspring (Devlin\nand Nagahama, 2002; Penman and Piferrer,\n2008).  Induced triploids, on the other hand, are\nconstituted by the combination of two female\nand one male genomes (Piferrer et al."
+            },
+            {
+                "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                "section_type": "main",
+                "text": "\n\nGiven such a high abundance of young male-biased genes, we asked whether their parental genes are also male-biased.We found that fewer parental genes of X-linked male-biased duplicates were also male-biased (20%, 2/10) compared to the parental genes of autosomal young male-biased duplicates (32%, 12/37).These data, despite the small sample sizes and being statistically not significant, may suggest that compared to autosomal young genes, X-linked young genes more often evolved novel male-biased expression.However, as the majority of young genes are the result of intrachromosomal duplication events, the pattern might also reflect the fact that X-linked old genes are less likely to be male-biased."
+            },
+            {
+                "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                "section_type": "main",
+                "text": "\n\nA slight excess of X-linked female-biased genes was also detected (Fig. 2).Although most of them are old, a few recently arose on the X chromosome over 4 to 6 Myr in the common ancestor of the D. melanogaster and D. simulans clade (branch 5).This can be interpreted in the context of the dominance model of the sexual antagonism hypothesis.In this case, a dominant, X-linked gene that is favorable to females but disadvantageous for males can become fixed.The slow accumulation of female-biased genes in the X reflects an overall low rate of female gene origination, either due to a small dominance effect (the degree of dominance h!1/2), or a minor disadvantageous effect on males (the ratio of fitness effects of male relative to female k!0) along with a favorable effect on females (Vicoso and Charlesworth 2006, Equation 10)."
+            },
+            {
+                "document_id": "4ad6da14-56a3-48ab-a587-42761ceac238",
+                "section_type": "main",
+                "text": "\n\nIn addition to genetic data, the 9p Network Cohort dataset also lists the gender for all 719 individuals.Of these individuals, 406 individuals are female and 313 are male, indicating a female bias (Binomial test p ¼ 0.0006).This result was surprising considering that no female bias has been previously reported in 9p deletion and duplication syndromes.A possible explanation for the significant bias in the 9p Network Cohort dataset is the XY sex reversal phenotype, which is commonly observed in individuals with 9p deletion syndrome.This phenotype could lead to individuals with XY sex chromosomes being listed in the dataset as having a female gender.To further examine this hypothesis, we subset our dataset to include only the 236 individuals whose sex chromosomes are listed in their genetic information.For this much smaller subset, 125 individuals had female sex chromosomes and 111 had male sex chromosomes, indicating no significant sex bias (Binomial test p ¼ 0.4).We also found no significant gender bias in this group (Binomial test p ¼ 0.2), although we did confirm that four of the individuals with XY sex chromosomes had a gender of female.This comparison suggests that the XY sex reversal phenotype may be responsible for a female gender bias, but not a sex bias, in 9p deletion and duplication syndrome cohorts."
+            },
+            {
+                "document_id": "6910b508-6d25-4804-9e47-3590b57aa061",
+                "section_type": "main",
+                "text": "\n\nDuplicated variants with multiple alternative alleles and variants in sex chromosomes X and Y"
+            },
+            {
+                "document_id": "1ac23aae-2a51-4846-81ec-6db70ab6e5a4",
+                "section_type": "main",
+                "text": "\n\nY chromosome in peripheral blood cells increases with age in men (6) and is correlated with increased risk of cancer mortality and Alzheimer's disease (6,7).X chromosome mosaicism in women also increases with age (8), as does autosomal mosaicism in both sexes (9,10).Recent studies have shown that the prevalence of age-related mosaic abnormalities is greater in men than women (9,10); however, mechanisms underlying the sex differences observed in chromosomal mosaicism in humans are unknown."
+            },
+            {
+                "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                "section_type": "main",
+                "text": "\n\nRegarding the second step in the evolution of male-biased genes, namely X!A transposition, sexual antagonism favorable for autosomal fixation (Vicoso and Charlesworth 2006) and/or MSCI (Lifschytz and Lindsley 1972;Betran et al. 2002) may play a role in this process.On the other hand, the within-chromosomal duplication rate is higher than the between-chromosomal duplication rate (Emerson et al. 2008), which may contribute to the slow pace of X!A transposition."
+            },
+            {
+                "document_id": "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa",
+                "section_type": "main",
+                "text": "\n\nAutosome-One of the numbered, or nonsex, chromosomes (1 through 22).X and Y are the sex chromosomes."
+            },
+            {
+                "document_id": "20b466c6-004b-484f-96a1-c1b4651bc856",
+                "section_type": "main",
+                "text": "\n\nRecent reports suggested a role of Y chromosome loss in risk for all-cause mortality and common age-related disease such as cancer, Alzheimer disease as well as severe atherosclerosis [12][13][14][15][16][17][18][19][20].Building on such reports, we aimed to evaluate the contribution of male Y chromosome mosaicism to the risk for late-stage AMD."
+            },
+            {
+                "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                "section_type": "main",
+                "text": "\n\nWhen meiosis takes place, a pair of chromosomes may fail to separate properly, creating a sperm or egg that has either two copies or no copy of a specific chromosome.This is a sporadic event and it is called nondisjunction.Nondisjunction can lead to an extra chromosome, called trisomy, or a missing chromosome, called monosomy (GHR, 2008l).Down syndrome is an example of trisomy.Individuals who have Down syndrome have an extra chromosome number 21. Turner syndrome is an example of monosomy.Girls who have Turner syndrome have only one X chromosome.This causes them to have short stature and be infertile (NHGRI, 2008l)."
+            },
+            {
+                "document_id": "ef2c8463-5169-46aa-938b-7d04ea8da6b7",
+                "section_type": "main",
+                "text": "\n\nThe existence of a maternally silenced X-linked imprinted locus playing a role in social cognition could explain why males (X m Y) are more vulnerable to disorders of social cognition such as autism spectrum disorders than are females (X m X p ).The absence of the expression of this gene would not lead to autism itself, but would eliminate a putative protective factor, making an individual more susceptible to the effects of other ASD-predisposing genetic mutations or environmental factors."
+            },
+            {
+                "document_id": "3f72832b-fad9-4d38-aed8-d22e5bd12a22",
+                "section_type": "main",
+                "text": "Box 1. Sex-specific cytonuclear interactions\n\nSeveral predictions about the nature of cytonuclear conflicts follow from the patterns of chromosomal inheritance (Table I).In a mated pair of animals, mtDNA is co-transmitted with half of the autosomal genes, two-thirds of the X-linked genes and none of the Y-linked genes [76].This predicts that, relative to the autosomal case, positive nuclear-mitochondrial interactions are more likely to evolve for X-linked loci whereas deleterious interactions between Y-linked genes and mtDNA should accumulate (or cannot be purged efficiently)."
+            },
+            {
+                "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                "section_type": "main",
+                "text": "\n\nIt has been observed that male-biased genes in Drosophila are overrepresented on autosomes (Parisi et al. 2003;Ranz et al. 2003).Consistent with this result, a dynamic process that can explain the nonrandom autosomal distribution has also been observed, in which autosomal new genes with X-linked parental genes are often male-biased.Specifically, a significant excess of autosomal testisexpressed retrogenes were identified as RNA-duplicates of X-linked parental genes (Betran et al. 2002).Recently, similar X!A gene traffic was observed in the DNA-level duplication and relocation data set of the Drosophila genus (Vibranovski et al. 2009b), and was further confirmed for DNA-level duplications in the D. pseudoobscura neo-X chromosome (Meisel et al. 2009).In addition, selective extinction of neo-X linked male-biased genes also occurred in D. pseudoobscura (Sturgill et al. 2007).These three lines of genome-wide investigation support a common pattern of outof-X traffic for male-biased genes, resulting in an enrichment of these genes on autosomes in the long term."
+            },
+            {
+                "document_id": "7d451e79-b698-4744-aeb2-ff319f430d96",
+                "section_type": "main",
+                "text": "\n\nIt has been reported that the initial manifestations of new gene emergence, namely polymorphic duplicates, occur at a lower frequency on the X chromosome, thus indicating that these duplicates are subject to stronger purifying selection (Emerson et al. 2008).Therefore, the excessive fixation of X-linked duplicates might not occur via neutral processes.Positive selection could have facilitated the fixation of X-linked young genes in addition to driving their subsequent sequence evolution."
+            },
+            {
+                "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                "section_type": "main",
+                "text": "X-Linked Inheritance\n\nX-linked genetic disorders (also called sex-linked) are caused by gene mutations on the X chromosome.Most often X-linked genetic disorders are seen in males.Males inherit the X chromosome from their mother and the Y chromosome from their father.Because males have only one X chromosome, if they inherit a gene mutation on the X chromosome from their mother, they will have the disorder.Examples of X-linked genetic disorders occurring in males include hemophilia and Duchenne muscular dystrophy (GHR, 2008o)."
+            },
+            {
+                "document_id": "ef2c8463-5169-46aa-938b-7d04ea8da6b7",
+                "section_type": "main",
+                "text": "X Chromosome and Turner Syndrome\n\nThe existence on the X chromosome of imprinted gene(s) with a role in social cognition was first suggested by Skuse et al. 36 Such a gene could play a role in ASD susceptibility.The hyposthesis of Skuse et al. derives from studies of patients with Turner syndrome (TS), who are monosomic for all or part of the X chromosome.Using a socialcognition questionnaire, Skuse et al. found that females monosomic for the paternal X chromosome (X p 0) score significantly better on social adjustment and verbal skills than females monosomic for the maternal X (X m 0).Therefore, the investigators hypothesized that there is an imprinted gene on the X chromosome, expressed from the paternal X and silenced on the maternal X.To date, no such imprinted gene on the human X chromosome has been identified.The known murine X-linked imprinted genes do not have orthologues in humans. 92Notably, TS patients do have an increased risk of autism.In a series of TS patients, 5 of 150 (3%) were diagnosed with autism by ICD-10 criteria. 93This is five times higher than the 0.6% risk for the general population and 25 times higher than the 0.12% risk for XX females."
+            },
+            {
+                "document_id": "af3d7cd3-40ec-4a86-a473-89f83da250e4",
+                "section_type": "main",
+                "text": "\n\nRecessive gene: A gene, which will be expressed only if there are 2 identical copies or, for a male, if one copy is present on the X chromosome."
+            },
+            {
+                "document_id": "f4dd6a1d-062b-42bc-8e22-83fcb3135578",
+                "section_type": "main",
+                "text": "\n\nThe most widely studied age-related chromosomal abnormality that gives rise to somatic genome mosaicism, reported early in the 1970s from studying metaphases from human blood lymphocytes (Jacobs et al., 1963) and bone marrow (Pierre and Hoagland, 1972), is mosaic loss of the Y chromosome (LOY) in males during aging, which has now been widely confirmed with more advanced technology.LOY is defined as a lowerthan-expected abundance of DNA from the Y chromosome with a certain threshold of detection, for example, as 10% or more of affected cells (Dumanski et al., 2016).In a recent study of 205,011 men from the UK Biobank, LOY was found to affect from 2.5% of men at age 40 to 43.6% at age 70, which makes it the most common de novo somatic mutation over the human lifetime (Thompson et al., 2019).LOY frequency has been associated with a shorter lifespan, a higher risk of cancer, smoking, Alzheimer's disease, cardiovascular disease, diabetes, immune deficiencies, and other age-related diseases (Dumanski et al., 2016;Loftfield et al., 2018;Thompson et al., 2019).LOY has a genetic component, and in the aforementioned UK Biobank study, more than 150 autosomal genetic determinants of LOY were identified in the male cohort.LOY is most likely a general biomarker for genome instability in somatic cells.Indeed, the loci found to be genetically associated with LOY in males were themselves genetically associated, in a female cohort, with female cancers (breast, ovarian, and endometrial cancer) and age at natural menopause (Thompson et al., 2019).Of note, early menopause has been genetically associated with DNA damage response (DDR) genes (Day et al., 2015).Based on these results, it is tempting to speculate that the association of LOY with a diverse series of age-related pathologies points toward a causal role of somatic mutations in aging and age-related disease."
+            },
+            {
+                "document_id": "81c3edc4-f625-45f2-bf78-e49faf118c88",
+                "section_type": "main",
+                "text": "\n\nHow Many Inherited Disease Genes are There in the Human Genome?"
+            },
+            {
+                "document_id": "516fb027-d7ef-481b-95b2-89c25f4e4f8d",
+                "section_type": "main",
+                "text": "\n\nUsing the more advanced FISH-based methods, a dramatically more severe picture of aneuploidy levels was obtained.For example, up to 15-20% of aged human oocytes have chromosomal abnormalities, mainly aneuploidy [17] .In comparison, paternal age only causes a modest increase in the frequency of sex chromosomal aneuploidy in sperm cells [18] .Interestingly, this is the other way around for small DNA mutations, such as basepair substitutions.Virtually all genetic diseases based on point mutations are inherited from the father, most like-ly because such small mutations can arise through replication errors and sperm cells undergo many more rounds of replication than oocytes [19] .Indeed, the so-called 'paternal age effect', as observed first by Weinberg in achondroplasia, indicates that the high incidence of sporadic genetic diseases found among the youngest children in a family may reflect accelerating mutagenesis in sperms as men age [19] ."
+            },
+            {
+                "document_id": "4ad6da14-56a3-48ab-a587-42761ceac238",
+                "section_type": "main",
+                "text": "\n\nWhile DSDs have been reported in 9p deletion and duplication syndromes, we identify for the first time a significant gender bias in the full cohort with an enrichment for females.Among those with available sex chromosome information, we found individuals in the cohort with a gender of female and a sex chromosome complement of XY as expected in some DSDs.To make this a comprehensive study of phenotypes and genes in 9p deletion and duplication syndromes, we performed a meta-analysis of phenotypes observed in 9p deletion and duplication syndromes and found shared, similar, mirrored, and differing phenotypes.Several gene features were also considered for prioritization including constraint, enrichment for deletions/duplications in NDDs, and prior established disease associations.These are useful resources for the assessment of 9p-related structural variations.Recently developed genomic technologies are revolutionizing the way we assess syndromes with complex structural variations.We applied several of these technologies in this study to an individual with a complex 9p deletion, duplication, and associated translocation.We found that the classical karyotype is essential, that either a microarray or short-read WGS is critical to identify the mosaic duplication, and that long-read sequencing is the only technology able to resolve the intricate complexities of this variation."
+            },
+            {
+                "document_id": "4ba4d5e0-cb28-433d-8e9f-b09779e9d429",
+                "section_type": "main",
+                "text": "\n\nAutosomes -All of the chromosomes except for the sex chromosomes and the mitochondrial chromosome."
+            },
+            {
+                "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                "section_type": "main",
+                "text": "In 1967, Lubs (20) discovered\nexcessive genetic material extending beyond the low arm of the X chromosome in affected males.  Diagnosis was originally based on cytogenetic analysis of metaphase spreads, but less than 60% of the affected cells in affected\nindividuals showed a positive result.  With this variability in the test, the carrier\nstatus of individuals could not be determined.  Interpretation of the result is\nfurther complicated by the presence of other fragile sites in the same region\nof the X chromosome."
+            },
+            {
+                "document_id": "bf11c54e-7cc4-4fe2-97b0-70c464263846",
+                "section_type": "main",
+                "text": "\n\nAlthough abnormalities of the X chromosome have been linked to premature ovarian failure (20,21), it is not surprising that we did not identify a signal on the X chromosome (crude LOD score 0).Premature ovarian failure, defined as a decline in ovarian function by age 40 years, only occurs in approximately 1% of women in the general population.Because our sample was not enriched for women with early menopause, there were only 29 women with the onset of natural menopause at age Յ40 years in our sample.Thus we did not have the power to detect significant linkage to chromosome X.Furthermore, the largest Framingham families were selected for inclusion in the genome scan.Women with early decline in ovarian function might have difficulty with fertility and hence might be underrepresented in our sample."
+            },
+            {
+                "document_id": "f051ad23-572d-4302-8dda-4d992aeaeb1a",
+                "section_type": "main",
+                "text": "...an unexpected change in the structure of DNA can sometimes cause harm to the body. division process by which egg and sperm are formed.During the cell division process of meiosis, there is a reduction in the number of chromosomes that results in egg and sperm cells that contain 23 chromosomes, or half of the usual number of 46.Egg and sperm cells are called haploid cells because they have a single copy of each chromosome instead of the usual two copies (GHR, 2008i)."
+            },
+            {
+                "document_id": "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa",
+                "section_type": "main",
+                "text": "X-Linked Inheritance\n\nMore complicated patterns emerge if a disease mutation is present in a gene on the X chromosome.If a mutation is dominant, then a mother with the mutation (who herself should have the disease) has a 50% chance of passing the mutation  to an offspring, who in turn will have the disease.In contrast, a father with the mutation (who himself should have the disease) has a 50% chance of passing the mutation to a daughter because he passes an X chromosome to her, but he cannot transmit the mutation to a son because he passes a Y chromosome to him.Thus, the inheritance of disease depends on sex.This is X-linked dominant inheritance (Figure 11).An example of an X-linked dominant disorder is Rett syndrome.If a mutation is recessive, then a mother with the mutation (who should be a healthy carrier) has a 50% chance of passing the mutation to an offspring.A daughter who inherits the mutation will be a carrier, whereas a son who inherits the mutation will have the disease because he has only a single X chromosome and has no normal gene copy to counteract the mutant gene copy.A father with the mutation (who should have the disease) has a 50% chance of passing the mutation to a daughter, who will be a carrier, but cannot transmit the mutation to a son.The only way a daughter can have the disease is if she inherits mutant gene copies from both parents.This is X-linked recessive inheritance (Figure 11).Such diseases are much more likely to affect men than women.Classic examples of X-linked recessive disorders include red-green color blindness and hemophilia."
+            },
+            {
+                "document_id": "20b466c6-004b-484f-96a1-c1b4651bc856",
+                "section_type": "main",
+                "text": "\n\nMosaic loss of Y chromosome (mLOY) in peripheral blood is the most common acquired mutation in the process of normal aging in men, affecting about 1.8% of the genetic material in the human genome [12].The prevalence of mLOY increases with age and can exceed 20% in male populations older than 80 years [13].Furthermore, the occurrence of mLOY is strongly correlated with smoking behaviour [14].Current smokers have a more than fourfold increased risk for mLOY [13], although this effect seems to be transient as smoking cessation can result in normal mLOY levels after several years [14,15]."
+            },
+            {
+                "document_id": "76f1e8d2-15bf-4ce6-9cd0-2ab889c23664",
+                "section_type": "main",
+                "text": "\n\nBackground: Turner syndrome (TS) is caused by the absence or fragmentation of the second sex chromosome.An increased risk of diabetes mellitus (DM) has consistently been noted, but the specific phenotype and genetic etiology of this trait are unknown."
+            },
+            {
+                "document_id": "e913e8b9-7a8a-4a5e-9794-a947d94654a5",
+                "section_type": "main",
+                "text": "Marsupial Chromosomes\n\nMarsupials are famous for their low diploid numbers and large chromosomes, which offered cytologists optimal material for many classic studies of chromosome structure and behavior and of the effects of radiation.The karyotype is highly conserved across even distantly related groups.Classic work identified two modes of chromosome number (49,115), one of which, a 2n = 14 karyotype, was found to have identical G-band patterns across species in several families, including South American families (110).A fierce debate arose about whether the ancestral marsupial shared this low-diploid-number, large-chromosome karyotype, because some of the earliest offshoots in South America have a larger number of chromosomes, and interstitial telomere sequences suggested recent Robertsonian fusions to engender the lower number that is basic to Australidelphia (123).However, these sequences may be repeats that have accumulated at the centromeres and do not necessarily represent fusion points (88)."
+            },
+            {
+                "document_id": "b014e368-d0d5-4eff-a9af-abd4a4ed6d29",
+                "section_type": "main",
+                "text": "\n\nSeveral observations suggest that genetic factors could predispose to both the general baseline and age-related elevation in aneuploidy conceptions.A recent genome-wide screen for new meiotic genes in mouse oocytes revealed hundreds of genes, whose depletion by RNAi affected chromosome segregation (Pfender et al., 2015).This suggests that conducting refined analyses in human oocytes and population-based studies may yet yield new molecular targets.Studies in mice suggest that heterozygosity of SMC1β, a conserved meiosis-specific cohesin subunit, predisposes to aneuploidy (Murdoch et al., 2013).Deletion of both copies of SMC1β predisposes to agerelated loss of bivalent structures and therefore to aneuploidy in mouse oocytes (Hodges et al., 2005).The haploinsufficiency studies are important because they suggest dosage sensitivity.This is particularly relevant in human populations where complete deletions (homozygous) of gene activities are relatively rare and usually only found in consanguineous families (O'Driscoll, 2008)."
+            },
+            {
+                "document_id": "b014e368-d0d5-4eff-a9af-abd4a4ed6d29",
+                "section_type": "main",
+                "text": "\n\nSince the discovery that aneuploidy is the major cause of congenital disorders (Jacobs and Strong, 1959;Jacobs et al., 1959;Lejeune, Gautier, and Turpin, 1959;Ford et al., 1959a,b), most our knowledge has derived from population-based studies of foetal losses and rare live births.Maternal age is the major factor that influences aneuploidy, giving rise to the characteristic J curve (Erickson, 1978;Hassold and Hunt, 2001; Fig. 1A).However, individual chromosomes follow different age-dependent curves (Nagaoka et al., 2012;Franasiak et al., 2014a, b;Fig. 1B) suggesting that both chromosome-specific as well as general cellular factors conspire to shape the segregation efficiency in human oocytes."
+            },
+            {
+                "document_id": "b014e368-d0d5-4eff-a9af-abd4a4ed6d29",
+                "section_type": "main",
+                "text": "Introduction\n\nHuman conceptions are afflicted by an extraordinary rate of chromosome errors, and the majority derive from the oocyte (Hassold and Hunt, 2001).In natural conceptions that reach clinical recognition, 35% of human pregnancies are aneuploid.The rate observed in preimplantation embryos is substantially higher, in part because aneuploid embryos have poor developmental potential and are selected against during the peri-implantation stages and throughout foetal life (Capalbo et al., 2014).In natural conception, more than 90% are of meiotic origin and the majority are caused by errors in meiosis I (Hassold and Hunt, 2001;Gabriel et al., 2011).In reproductive aged women, 20-30% of occytes (and up to 70% of oocytes in advanced maternal age (AMA) women) are aneuploid, while just 1-8% of spermatozoa are afflicted (Lu et al., 2012;Wang et al., 2012).In sperm, the incidence of aneuploidy is independent of paternal age (Erickson, 1978;Hassold and Hunt, 2001;Lu et al., 2012;Wang et al., 2012).The analyses of aneuploidy in miscarriages have been invaluable for our appreciation of the serious consequences chromosomal imbalances have for embryonic and foetal development, since a much higher incidence and wider range and representation of chromosomes are detected compared to subsequent developmental stages, including live births (Hassold et al., 1980;Zaragoza et al., 1994)."
+            },
+            {
+                "document_id": "64d87c52-1185-4080-8d06-134c32dae5fd",
+                "section_type": "main",
+                "text": "\n\nThe processes of surveillance and searching for inheritance patterns may lead family members to believe that a genetic condition is transmitted through males or through females (Featherstone et al., 2006), resulting in predictions regarding who might be affected or included in conversations on the topic.Because of these assumptions, family members may ignore the importance of opposite gender relatives who may be carriers, such as in the case of HBOC."
+            },
+            {
+                "document_id": "02b1c922-a9cf-470d-b036-52c367fc1ca9",
+                "section_type": "main",
+                "text": "\n\nAnalogous to the post-natal occurrence of somatic mutations, we previously demonstrated a similar phenomenon, termed selfish spermatogonial selection, that occurs in the testes of adult men as they age.However, because the testis contains germ cells that, upon fertilization, will carry the genetic information across generations, this process has important reproductive implications, being associated with an increased prevalence of pathogenic DNMs in the next generation.Despite the relatively low average human germline point mutation rate of ∼1.2 × 10 −8 per nucleotide per generation (Kong et al. 2012;Goldmann et al. 2016;Jonsson et al. 2017), specific \"selfish\" DNMs in FGFR2, FGFR3, HRAS, PTPN11, and RET are observed up to 1000-fold more frequently in offspring (Goriely and Wilkie 2012).These pathogenic mutations, which cause developmental disorders that show an extreme paternal bias in origin and an epidemiological paternal age-effect (collectively referred to as PAE disorders; e.g., achondroplasia; Apert, Costello, and Noonan syndromes; multiple endocrine neoplasia type 2a/b), are identical (or allelic) to oncogenic driver mutations in tumors (Goriely and Wilkie 2012).We have proposed that although they arise at the normal background rate in male germline stem cells (spermatogonia), selfish mutations alter the behavior of spermatogonia within the testis.In a process akin to oncogenesis, these gain-of-function mutations provide a selective advantage that may involve increasing the rate of symmetrical divisions of the mutant spermatogonia (Qin et al. 2007;Choi et al. 2008Choi et al. , 2012;;Giannoulatou et al. 2013;Yoon et al. 2013;Martin et al. 2014), leading to their clonal expansion over time, which results in increased apparent mutation levels in sperm with age (Goriely and Wilkie 2012;Maher et al. 2014)."
+            },
+            {
+                "document_id": "f3c57cf2-da42-4833-ab8d-99517f987aea",
+                "section_type": "main",
+                "text": "\n\nChromosome copy number changes in the polar bodies and the corresponding cleavage stage embryos of 30 embryos predicted to have one or more aneuploidies of maternal meiotic origin."
+            }
+        ],
+        "document_id": "34A6BD721632631DF6D97BCA1D315B0A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "X&chromosome",
+            "Y&chromosome",
+            "male",
+            "female",
+            "sex&chromosomes",
+            "autosome",
+            "nondisjunction",
+            "trisomy",
+            "monosomy",
+            "X-linked&inheritance"
+        ],
+        "metadata": [
+            {
+                "object": "Male schizophrenia subjects had more anterior cingulate cortex DEK protein expression compared to male controls. Female schizophrenia subjects had less DEK protein expression compared to female controls. Finally, while there were no differences in DEK protein expression between control males and control females, males with schizophrenia had higher DEK protein expression compared to females with schizophrenia.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab468329"
+            },
+            {
+                "object": "Study found robust hypersocial behavior in the dyadic interaction test in both PSD95+/- males and females. Additionally, male PSD95+/- mice exhibited higher levels of aggression and territoriality, while female PSD95+/- mice showed increased vocalization upon exposure to an anesthetized female mouse. Both male and female PSD95+/- mice revealed mild hypoactivity in the open field but no obvious motor deficit.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab741605"
+            },
+            {
+                "object": "Data suggest expression of Ptger2/Ptgs2 prostaglandin-endoperoxide synthase 2 is induced in cumulus cells of females sired by males with Y-chromosome long-arm deletion; paternal genes on Y-chromosome are involved indirectly in female reproduction.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab203335"
+            },
+            {
+                "object": "Data suggest expression of Ptgs2/Ptger2 prostaglandin E receptor 2 is induced in cumulus cells of females sired by males with Y-chromosome long-arm deletion; thus, paternal genes on Y-chromosome are involved indirectly in female reproduction.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab203337"
+            },
+            {
+                "object": "Lay summary Stress decreased vertical activity VA in female but not male rats while shock stress SS decreased serum BDNF in female but not male rats. VA was positively correlated with serum BDNF for female rats. These findings suggest sex differences in response to stress.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab445381"
+            },
+            {
+                "object": "Data identify Tudor domain containing protein 5-like Tdrd5l, which is expressed 17-fold higher in ovaries lacking Sxl. Additionally, Tdrd5l plays an important role in males as male flies that are mutant for this gene cannot make sperm properly and thus are less fertile. Tdrd5l promotes male identity in the germline and it can shift the germ cell developmental program from female to male.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab177945"
+            },
+            {
+                "object": "Aortic UCP1 content was greater in females than males and its deletion improved ex vivo aortic vasomotor function in females only. Constitutive UCP1 content in BAT was similar between females and males and loss of UCP1 did not abolish sex differences in insulin sensitivity. Metabolic disruptions caused by UCP1 ablation did not appear to be contingent upon increased oxidative stress in mice under normal dietary conditions.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab75747"
+            },
+            {
+                "object": "There was strong AR expression within the central core region of the suprachiasmatic nucleus of both XYM genetic and gonadal male and XXM genetic female, gonadal male groups. AR expression in the gonadal males was significantly higher than in females.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab889111"
+            },
+            {
+                "object": "ALPL in both male and female human liver data covaries extremely well with the unlinked PPP2R4 gene about 0.7 in both e.g.,  GSE9588 Human Liver Normal Mar11 Females. In females best linkage to rs6535513 on Chr 4 at 85.253280 with -logP of 6.56 nothing cis. In males best linkage to rs4664151 on Chr 2 at 154.336956 with -logP 7.55.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab167"
+            },
+            {
+                "object": "Disruption of Ser2 resulted in dominant heritable male sterility. Wild-type females mated with Ser2-deficient males laid eggs normally, but the eggs did not hatch. The authors detected no differences in other reproductive behaviors in the mutant males. These results support the conclusion that Ser2 gene is necessary for male reproductive success in diverse lepidopterans.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab233385"
+            }
+        ],
+        "question": "Why do males have two Y chromosomes and females only one?",
+        "subquestions": null,
+        "task_id": "34A6BD721632631DF6D97BCA1D315B0A",
+        "usage": {
+            "chatgpt": 6105,
+            "gpt-4": 3430,
+            "gpt-4-turbo-preview": 2504
+        },
+        "user_id": 2
+    },
+    "document_id": "34A6BD721632631DF6D97BCA1D315B0A",
+    "task_id": "34A6BD721632631DF6D97BCA1D315B0A"
+}

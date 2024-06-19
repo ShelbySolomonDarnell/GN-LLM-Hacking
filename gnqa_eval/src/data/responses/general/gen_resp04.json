@@ -1,0 +1,150 @@
+{
+    "created_at": "2024-04-01T12:01:45.671040Z",
+    "data": {
+        "amplify": false,
+        "answer": "A genetic marker is a measurable polymorphic sequence of DNA whose chromosomal location is known. They often have no known functional significance but are used as pointers to a particular chromosomal location. They are used to track the inheritance of genes and can be a gene or some section of DNA with no known function.",
+        "context": {
+            "0a30029f-fa8f-49e3-9a68-82d1a8ae3157": [
+                {
+                    "document_id": "0a30029f-fa8f-49e3-9a68-82d1a8ae3157",
+                    "text": "Using genetic markers, the pattern of inheritance can be tracked through\nfamilies. For example, by analyzing a marker linked to the eye color gene\nin several generations, it is possible to determine from which grandparents a\nchild has inherited its eye color alleles. More importantly, ﬁnding a marker\nlinked to a disease can lead to location of the faulty gene causing the disease. Finding the gene is very valuable in the search for the cure. The distance between two loci can be expressed either as physical or genetic distance."
+                }
+            ],
+            "0c80320f-bca2-4f46-858e-bd3fba2f67a2": [
+                {
+                    "document_id": "0c80320f-bca2-4f46-858e-bd3fba2f67a2",
+                    "text": "\n\nIt is well known, however, that not all genomic markers are independent (Frazer et al., 2007).Genetic variation is often inherited in contiguous segments of DNA, such that there tends to be correlation between the inheritance of alleles at markers close to each other on the same chromosome.This genetic correlation is called linkage disequilibrium (LD), and, as a result, the effective number of independent tests (M eff ) conducted is less than the total number of markers (M).By effective number of tests, we mean the number of independent tests that would have to be conducted to lead to a null distribution for the minimum P-values that was approximately the same as that obtained when conducting tests that are necessarily correlated due to LD."
+                }
+            ],
+            "32338b01-15af-4ec9-9bc4-e9c58b53068e": [
+                {
+                    "document_id": "32338b01-15af-4ec9-9bc4-e9c58b53068e",
+                    "text": "Genetic\nmapping is a powerful strategy that exploits genomic information to dissect complex traits into Mendelian loci\n(quantitative trait loci or QTL) and identifies genetic\n* Correspondence: marioenrico.pe@sssup.it\n1\nInstitute of Life Sciences, Scuola Superiore Sant’Anna, Pisa, Italy\nFull list of author information is available at the end of the article\n\ndeterminants that may lead to crop improvement. As\nmarker density ceases to be a limiting factor [3], our\nability to discover specific genetic determinants in a\nsingle mapping study depends upon the availability of\npopulations with high genetic diversity and recombination density [4]."
+                }
+            ],
+            "7a7773ed-2548-4297-86ad-b7ce115448e0": [
+                {
+                    "document_id": "7a7773ed-2548-4297-86ad-b7ce115448e0",
+                    "text": "This capacity allows samples to be placed into\nmeaningful genetic groups that reflect evolutionary relationships (more stable, lower diversity markers), while simultaneously permitting high levels of strain resolution (high diversity\nmarkers). From a clinical perspective, markers that accurately\nreflect broad evolutionary relationships are valuable for comparing the genetic similarity of an isolate to isolates on a regional\nor global scale, whereas high-resolution markers are valuable\nfor detailed epidemiological tracking in an outbreak. Variable-number tandem repeats (VNTRs) are genetic markers that can span a range of variability and, therefore, can capture\ngenetic relationships on multiple scales (18–19)."
+                }
+            ],
+            "835a094d-9c2b-4686-8725-d3c4123175b0": [
+                {
+                    "document_id": "835a094d-9c2b-4686-8725-d3c4123175b0",
+                    "text": "Identifying the genetic loci that modulate a trait based on correlation between\nvariation in phenotype and variation in genotype is the essence of genetic mapping. This\nfirst involves systematically genotyping a genetically diverse population using\nmicrosatellite or SNP markers. The phenotype of interest is then measured and its\nvariability in the population assessed. A statistical test is then carried out to identify\nchromosomal regions that segregate with the trait and show linkage with the trait, i.e. ,\n\n3\nidentify genetic regions that have the same genotype among individuals with similar trait\nvalues but differ between individuals with dissimilar trait values."
+                }
+            ],
+            "83a4ab87-f4a5-40b9-9297-5a3596e3636f": [
+                {
+                    "document_id": "83a4ab87-f4a5-40b9-9297-5a3596e3636f",
+                    "text": "Using genetic markers, the pattern of inheritance can be tracked through\nfamilies. For example, by analyzing a marker linked to the eye color gene\nin several generations, it is possible to determine from which grandparents a\nchild has inherited its eye color alleles. More importantly, ﬁnding a marker\nlinked to a disease can lead to location of the faulty gene causing the disease. Finding the gene is very valuable in the search for the cure. The distance between two loci can be expressed either as physical or genetic distance."
+                }
+            ],
+            "8b95c7a6-0ca5-445e-8776-14d1e6550fa0": [
+                {
+                    "document_id": "8b95c7a6-0ca5-445e-8776-14d1e6550fa0",
+                    "text": "Genetic variation\n\nFor decades researchers used single markers to elucidate clinal differentiation and spatial variation in allele frequencies.This approach revealed multiple markers with variation that tracked the clines, including some with the same allele at higher frequency at the same latitude in the Northern and Southern hemispheres.Examples include alcohol dehydrogenase (Adh), a-glycerol-3-phosphate dehydrogenase (Gpdh), glucose-6-phosphate dehydrogenase (G6pd), esterase-6 (Est-6), octanol dehydrogenase (Odh), and 6-phosphogluconate dehydrogenase (Pgd) [30][31][32][33] (Table 1).Perhaps the most heavily explored locus in D. melanogaster has been Adh, the first step in the ethanol detoxification pathway.The Adh-F allele encodes high catalytic activity of ADH, but this increase in activity trades off with enzyme stability at higher temperatures [34,35].Unsurprisingly, the Adh-F allele is found at a higher frequency in cooler high-latitude populations, and differentiation has occurred in parallel along clines in"
+                }
+            ],
+            "92fa8f50-2923-41a1-812b-32d931c71684": [
+                {
+                    "document_id": "92fa8f50-2923-41a1-812b-32d931c71684",
+                    "text": "In the case of\ngenetic markers, this easily runs in the several hundreds to thousands. Moreover,\nthe optimal subset of markers is heavily dependent on how these markers are\ncombined, i.e. dependent on the optimal Boolean function . Altogether, one\nfrequently has to rely on greedy search strategies that easily get stuck in local\noptima or near exhaustive searches that are computationally too expensive,\nespecially when employed in permutation procedures required to assess statistical\nsignificance. Our solution to this problem hinges upon two observations."
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "GENE MAPPING\n\nThe opportunity to merge advances in molecular genetic technology with advances in statistical techniques expanded in earnest with the development of DNA markers such as restriction fragment length polymorphisms (Lander and Botstein, 1989).Research exploded in the past decade with the continued refinement of molecular technology yielding a variety of DNA markers-e.g., short tandem repeats (STRs) or microsatellites; variable number of tandem repeats (VNTRs); single nucleotide polymorpohisms (SNPs), and gene expression microarrays or gene chips.A genetic marker is a measurable polymorphic sequence of DNA whose chromosomal location is known.Markers often have no known functional significance but are used as pointers to a particular chromosomal location.The logic of gene mapping technology is simple: Determine if there is a relationship between variability in a phenotype and variability in an anonymous DNA marker of known chromosomal location.If there is a relationship, it is taken as evidence that there is a gene that influences the trait at or near the marker."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "Genetic drift. Genetic changes in populations caused by random phenomena rather than by selection.Genetic marker.A segment of DNA with an identifiable physical location on a chromosome whose inheritance can be followed.A marker can be a gene, or it can be some section of DNA with no known function."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nBiological characteristics indicating initial resiliency or susceptibility of an organism include genetic profiles.As noted above, genetic markers need to have a high prevalence in the population and have a reasonably strong effect on common population health outcomes, or have an interaction effect with other health-affecting mechanisms, to be candidates for inclusion in population studies.At the moment, the only known genetic marker of clear value in a population survey is the apolipoprotein E gene (APOE), although this is likely to change in the very near future.APOE allele status is clearly related to a number of major health outcomes in older populations which are reasonably well measured in population surveys: mortality, heart disease, and cognitive functioning (Albert et al., 1995b;Corder et al., 1993;Evans et al., 1997;Ewbank, 1997;Hofman et al., 1997;Hyman et al., 1996;Luc et al., 1994;Saunders et al., 1993).Both the prevalence of alleles indicating higher risk and the size of the effect are large enough to be of importance in explaining variability in currently studied health outcomes.APOE allele status has been shown to have independent effects on health outcomes and to interact with other life circumstances such as sex and race in its effect on health outcomes (Jarvik et al., 1995;Maestre et al., 1995;Payami et al., 1992).Incorporation of information on this genetic indicator could lead to increased knowledge of the interactive mechanisms of this genetic marker and other social and behavioral variables and thus clarify some of the mechanisms leading to population differentials in cognition, heart disease, and mortality."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nAs described by Hermalin (1999), if genetic markers are modeled as part of an individual's physiological structure, they can provide controls for predisposing factors that affect more proximate mid-level markers of function as well as downstream health outcomes.This potential benefit of genetic information-i.e., its power in explicating the black box of Figure 11-1-may outweigh, or at least precede, its near-term potential for discovering genetic links to chronic disease.As discussed by Weiss (1998b), the situation with chronic disease differs from single locus disorders that are inherited following well-identified Mendelian rules.In general, we cannot expect to find relationships that are even as straightforward as the APOE links to cardiovascular and Alzheimer's disease.Variation across populations, difficulty in identifying a small enough area on the chromosome to search for disease-associated genes, and the problems inherent in identifying continuous outcomes with particular genes may limit finding the connections."
+                }
+            ],
+            "ad14b0c4-2a38-411b-9bb1-cacf9203f29d": [
+                {
+                    "document_id": "ad14b0c4-2a38-411b-9bb1-cacf9203f29d",
+                    "text": "This capacity allows samples to be placed into\nmeaningful genetic groups that reflect evolutionary relationships (more stable, lower diversity markers), while simultaneously permitting high levels of strain resolution (high diversity\nmarkers). From a clinical perspective, markers that accurately\nreflect broad evolutionary relationships are valuable for comparing the genetic similarity of an isolate to isolates on a regional\nor global scale, whereas high-resolution markers are valuable\nfor detailed epidemiological tracking in an outbreak. Variable-number tandem repeats (VNTRs) are genetic markers that can span a range of variability and, therefore, can capture\ngenetic relationships on multiple scales (18–19)."
+                }
+            ],
+            "b04f2221-de28-4c4b-893e-9da982ff864c": [
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text":"These variations provide a species the ability of adapting\nto the environment change (Liu and Cordes,\n2004). DNA markers are among the most powerful tools for revealing genetic variations in\norganisms. Historically, many different types of markers have been used for aquaculture studies\n\nFunctional Genomics in Aquaculture, First Edition. Edited by Marco Saroglia and Zhanjiang (John) Liu. ␂\nC 2012 John Wiley & Sons, Inc. Published 2012 by John Wiley & Sons, Inc.\n\n41\n42\n\nFunctional Genomics in Aquaculture\n\nTable 2.1\n\nA summary of characteristics of various molecular markers used in aquaculture species."
+                },
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text": "For instance,\nmapping of a trait or a phenotype would require polymorphic DNA markers such as microsatellites (SSRs) or single nucleotide polymorphisms (SNPs); expression proﬁling would\nrequire genome annotation information; microarray design would require sequence information of genes, etc. The objective of this chapter is to provide a general review of genomic\nresources needed, and currently present for\naquaculture species, for functional genomics\nstudies. Polymorphic DNA Markers\nThe key factor behind the signiﬁcant differences at the level of individuals, species,\nand higher order of taxonomic groups is genetic variation (polymorphism)."
+                }
+            ],
+            "cbc03a11-fe9c-4b54-b290-bd24c1447607": [
+                {
+                    "document_id": "cbc03a11-fe9c-4b54-b290-bd24c1447607",
+                    "text": "Functional genomics:\n\nThe study of genes, their resulting proteins, and the role played by the proteins in the biochemical processes of the body.Gene: A unit of inheritance; a working subunit of DNA.Each of the 20 000 to 25 000 genes in the body contains the code for a specific product, typically a protein such as an enzyme.Gene expression: The process by which the coded information of a gene is translated into the structures present and operating in the cell (either proteins or ribonucleic acids).Gene markers: Landmarks for a target gene, either detectable traits that are inherited along with the gene or distinctive segments of DNA.Gene map: A description of the relative positions of genes on a chromosome and the distance between them.Genetic counseling: A short-term educational counseling process for individuals and families who have a genetic disease or who are at risk for such a disease.Genetic counseling provides patients with information about their condition and helps them make informed decisions.Genetic linkage maps: DNA maps that assign relative chromosomal locations to genetic landmarks-either genes for known traits or distinctive sequences of DNA (ie, genetic markers)-on the basis of how frequently they are inherited together.Genetic testing: Examining a sample of blood or other body fluid or tissue for biochemical, chromosomal, or genetic markers that indicate the presence or absence of genetic disease.Genetics: The scientific study of heredity, how particular qualities or traits are transmitted from parents to offspring.Genome: All the genetic material in the chromosomes of a particular organism.Genome-wide: Descriptor that indicates that the entire breadth of the genome has been examined in a study (eg, a linkage or association study).Genome-wide studies do not resequence the entire genome but type (an increasingly large set of) markers distributed throughout the genome.Genomics: A \"scaled-up\" version of the science of genetics that investigates the structure and function of large sections of the genome simultaneously.Genotype: The actual genes carried by an individual (as distinct from phenotype-ie, the physical, bodily characteristics into which genes are translated).Haplotype: A way of denoting the collective genotype of a number of closely linked loci on a chromosome.Heritability (h 2 ): For any trait, the proportion of the phenotypic variability resulting from genetic variance.Note that heritability does not indicate the degree to which a trait is \"genetic. \"Nor does a high h 2 mean that the trait cannot be influenced by environment.A heritability significantly Ͼ0, however, can provide a rationale for further genetic and genomic study of a trait of interest.Heterozygous: Possessing 2 different sequences (ie, genotypes) of a particular gene, 1 inherited from each parent.High-throughput genotyping: In contrast to the older labor-and time-intensive genotyping methods, high-throughput genotyping makes use of robots, computers, and other evolving technologies, thus enabling laboratories to type up to hundreds of thousands of polymorphisms in many samples in a relatively short period of time.Homozygous: Possessing 2 identical sequences of a particular gene, 1 inherited from each parent.Interaction: The differing effect of 1 independent variable on the dependent variable, depending on the particular level of another independent variable.For example, there would be an interaction between the factors sex and treatment if the effect of treatment was not the same for male and female subjects in a drug trial.Linkage analysis: A gene-hunting technique that traces patterns of heredity in large, high-risk families in an attempt to locate a disease-causing gene mutation by identifying traits that are coinherited with it.Linkage disequilibrium: Two alleles at different loci that occur together on the same chromosome more often than would be predicted by chance alone.It is a measure of cosegregation of alleles in a population."
+                }
+            ],
+            "d0d6c5d6-36c6-45f1-9107-cef95df83bb3": [
+                {
+                    "document_id": "d0d6c5d6-36c6-45f1-9107-cef95df83bb3",
+                    "text": "Source: Kearsey and Pooni (1996). Genetic maps consist of a series of markers or identifiable features at known, or perhaps\nbest described as estimated, locations on the genome (see Figure 9). For some discrete traits, simple Mendelian inheritance is followed and the phenotype has\na one to one correspondence with the genes controlling it. These are so called morphological\nmarkers, which were then related to continuous or quantitative traits of interest. Examples are\nshape, colour, size or height in particular varieties of peas, as studied by Mendel. For another\nexample, see Appendix A.2."
+                }
+            ],
+            "d333b766-b7e4-4ab5-96a8-50a8a1d805f1": [
+                {
+                    "document_id": "d333b766-b7e4-4ab5-96a8-50a8a1d805f1",
+                    "text": "Genomic markers used in linkage mapping have evolved from\nrestriction fragment length polymorphisms (RFLPs) to microsatellites (simple sequence repeat\npolymorphisms; SSRPs), to single-nucleotide polymorphisms (SNPs), with the more modern\nmarkers exhibiting higher frequencies in the genome (thus ensuring fuller coverage). Linkage\nmapping of a trait is in fact the demonstration of linkage between the phenotype and a genomic\nmarker, followed by an inference of linkage between the genomic marker and the responsible\nDNA variant. Transitive logic ties the phenotype with the DNA variant, which is of course the\npoint of the exercise. See Fig."
+                }
+            ],
+            "e8397443-575a-4645-b161-59862203f7b4": [
+                {
+                    "document_id": "e8397443-575a-4645-b161-59862203f7b4",
+                    "text": "However, because of time constraints it is often more\npracticable to choose an appropriate mapping population that is already available\nthrough the current stock centers. Plant species chosen for study will depend\nlargely on the availability of suitable plant resources. Obtain appropriate mapping population information to include information on\nmarkers/genotypes (see Note 4). A marker is an identifying factor; a gene or other\nDNA of known location that is used to track the inheritance and so on of other\ngenes whose exact location is not yet known."
+                }
+            ],
+            "f9f8f648-bd40-49e9-8aee-c341faa43290": [
+                {
+                    "document_id": "f9f8f648-bd40-49e9-8aee-c341faa43290",
+                    "text":"The closer two genes are together on a chromosome, the\n\nless likely it is for a recombination event to occur between the two, causing a non-random association. This is the basis for genetic linkage. The development of genetic markers allowed the theory of linkage disequilibrium (LD) to be used\nin mapping genes. Genetic markers are speci\nc genetic di␛erences between species or cultivars, and\ngenetic linkage of these markers to particular morphological traits can allow genetic markers to be used\nto represent the gene of interest (Collard et al. , 2005)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "90CA41EEE653DCE5B03FBDDF9E1E82BF",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "genetic&marker",
+            "DNA",
+            "chromosome",
+            "phenotype",
+            "genotype",
+            "SNP",
+            "microsatellite",
+            "linkage&disequilibrium",
+            "quantitative&trait&loci",
+            "gene&mapping"
+        ],
+        "metadata": [],
+        "question": "What is a genetic marker?",
+        "subquestions": null,
+        "task_id": "90CA41EEE653DCE5B03FBDDF9E1E82BF",
+        "usage": {
+            "chatgpt": 5874,
+            "gpt-4": 4652,
+            "gpt-4-turbo-preview": 3673
+        },
+        "user_id": 2
+    },
+    "document_id": "90CA41EEE653DCE5B03FBDDF9E1E82BF",
+    "task_id": "90CA41EEE653DCE5B03FBDDF9E1E82BF"
+}

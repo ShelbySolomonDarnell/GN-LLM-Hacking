@@ -1,0 +1,197 @@
+{
+    "created_at": "2024-03-25T14:18:12.274204Z",
+    "data": {
+        "amplify": false,
+        "answer": "Several behavioral QTLs have been found in mice. These include QTLs affecting aggressive behaviors, which have been identified in strains such as the Turku aggressive (TA) and non-aggressive (TNS) strains, the NC900 and NC100 strains, and the short attack latency (SAL) and long attack latency (LAL) strains. Other QTLs have been associated with traits like anxiety-related behavior, seizure, hippocampal volume, and alcohol preference. Additionally, QTLs related to alcohol, morphine or other drugs, painful arthritis, emotionality/anxiety, and seizure susceptibility have been mapped. There are also QTLs that influence exploratory behavior in mice.",
+        "context": {
+            "1a041a89-4da8-4ad5-b241-da36df917930": [
+                {
+                    "document_id": "1a041a89-4da8-4ad5-b241-da36df917930",
+                    "text": "\n\nQuantitative trait locus (QTL) mapping has been carried out in numerous species to associate regions of the genome to phenotypes even before the structure of the genome was well understood (e.g., [3]).Rodents, especially mice, have been the species most prominently used for biomedically relevant traits.Amongst these, the BXD family of recombinant inbred (RI) strains derived from crossing two inbred strains-C57BL/6J and DBA/2J mice-have been extensively used for almost 50 years in fields such as neuropharmacology [4][5][6], immunology [7][8][9][10][11][12][13], behaviour [13][14][15][16][17][18][19][20][21], aging [21][22][23][24][25][26][27][28][29], neurodegeneration [30][31][32][33], and gut microbiome-host interactions [34]."
+                }
+            ],
+            "27e14ff3-b5a5-4f60-80a2-eaa2ab53e991": [
+                {
+                    "document_id": "27e14ff3-b5a5-4f60-80a2-eaa2ab53e991",
+                    "text": "Milhaud JM, Halley H, Lassalle JM (2002) Two QTLs located on\nchromosomes 1 and 5 modulate different aspects of the performance of mice\nof the B6D Ty RI strain series in the Morris navigation task. Behav Genet 32:\n69–78. 16. Buck KJ, Rademacher BS, Metten P, Crabbe JC (2002) Mapping murine loci\nfor physical dependence on ethanol. Psychopharmacology (Berl) 160: 398–407. 17. Ferraro TN, Golden GT, Smith GG, Schork NJ, St Jean P, et al. (1997)\nMapping murine loci for seizure response to kainic acid. Mamm Genome 8:\n200–208. 18."
+                }
+            ],
+            "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce": [
+                {
+                    "document_id": "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce",
+                    "text": "Other aggression QTLs\nSeveral lines of mice have been selectively bred for high or low levels of o¡ensive\naggression, which con¢rms that a propensity for aggressive behaviours is partially\nheritable. These lines include the Turku aggressive (TA) and non-aggressive\n(TNS) strains bred in Finland, the NC900 and NC100 strains bred in North\nCarolina, and the short attack latency (SAL) and long attack latency (LAL)\nstrains bred in the Netherlands (Miczek et al 2001). In wild mice, there is evidence for a QTL a¡ecting aggressive behaviours in a\nregion of chromosome 17, the t region."
+                },
+                {
+                    "document_id": "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce",
+                    "text": "QTL ANALYSIS OF AGGRESSIVE BEHAVIOURS IN MICE\n\n65\n\nProgress towards identifying QTLs that a¡ect\naggressive behaviours in mice\nAn example of aggression QTLs identi¢ed as part of a whole genome scan\nOne of the few studies to identify intermale aggression QTLs as part of a whole\ngenome scan was published recently (Brodkin et al 2002). This study used NZB/\nB1NJ (extremely aggressive) and A/J (extremely unaggressive) inbred mice as\nparental strains. The methods chosen for housing and aggression testing were\ndesigned to control the e¡ect of non-genetic factors on the phenotype."
+                },
+                {
+                    "document_id": "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce",
+                    "text": "Neuroscientist 4:317^323\nBrodkin ES, Goforth SA, Keene AH, Fossella JA, Silver LM 2002 Identi¢cation of quantitative\ntrait loci that a¡ect aggressive behavior in mice. J Neurosci 22:1165^1170\nChesler EJ, Lu L, Wang J, Williams RW, Manly KF 2004 WebQTL: rapid exploratory analysis\nof gene expression and genetic networks for brain and behavior. Nat Neurosci 7:485^486\nDarvasi A 1997 Interval-speci¢c congenic strains (ISCS): an experimental design for mapping a\nQTL into a 1-centimorgan interval. Mamm Genome 8:163^167\nDarvasi A 1998 Experimental strategies for the genetic dissection of complex traits in animal\nmodels."
+                },
+                {
+                    "document_id": "3f8db22e-d5f9-44ba-8f78-fc77ccf024ce",
+                    "text": "Brodkin: Such a course mapping study with only about 400 mice would be\nunlikely to detect a QTL that accounts for only 2.5% of the phenotypic variance,\nQTL ANALYSIS OF AGGRESSIVE BEHAVIOURS IN MICE\n\n73\n\nbut it should detect a QTL that accounts for approximately 10% of the variance\n(Lynch & Walsh 1998, Darvasi 1998). QTLs of this magnitude of e¡ect on\nneurobiological or behavioural traits have been found fairly commonly in crosses\nbetween inbred mouse strains (see e.g. Wehner et al 1997)."
+                }
+            ],
+            "4de669b7-da76-42ef-a88a-afebf1e86734": [
+                {
+                    "document_id": "4de669b7-da76-42ef-a88a-afebf1e86734",
+                    "text": "By correlating genotypes with phenotypes in quantitative trait locus (QTL)\nanalysis, a large number of polymorphic regions harboring\ntrait relevant allelic variation have been defined for a wide\nrange of behavioral phenotypes [17]. At present, there are\n340\n\n549 QTLs for behavioral phenotypes in the Mouse Genome\nInformatics database, which are largely derived from crosses\nof 2 inbred strains of mice [18]."
+                }
+            ],
+            "53a0a196-385a-47ba-9509-0d4f4b157cbf": [
+                {
+                    "document_id": "53a0a196-385a-47ba-9509-0d4f4b157cbf",
+                    "text": "A search of the Mouse Genome\nInformatics database (www.informatics.jax.org, March 16,2006) revealed 34\nneurobehavioral- and/or pain-related QTLs mapped to >75 cM; these inc1ude seven traits\nrelated to alcohol, six to morphine or other drugs, two to painful arthritis, five to\nemotionality/anxiety, and one to seizure susceptibility. Several ofthese QTLs have been\nfinely mapped near the peak of linkage of our analgesia QTL."
+                }
+            ],
+            "60e08224-f0e8-409c-b00a-b9e7358d3548": [
+                {
+                    "document_id": "60e08224-f0e8-409c-b00a-b9e7358d3548",
+                    "text": "The behavioral QTLs were determined from the MGI\ndatabase as of October 1, 2004. Alcrsp2 (Erwin et al. , 1997); Ap3q (Bachmanov et al. , 2002); Alcp12 (Gill et al. , 1998). Behavioral QTLs have been mapped using other\nmouse strains, and their validity in the ILS and ISS strains has not been tested. Mb, megabases. Table 4."
+                }
+            ],
+            "835a094d-9c2b-4686-8725-d3c4123175b0": [
+                {
+                    "document_id": "835a094d-9c2b-4686-8725-d3c4123175b0",
+                    "text": "In the fourth step, we sought to identify DNA sequence variants that influence\nboth molecular phenotypes as well as phenotypes at the structural and behavioral level. A\nremarkable region located on the distal end of mouse Chr 1 (172–178 Mb) was the ideal\nsubject for such an integrative study. This region, which we have named as Qrr1 (QTL\nrich region on distal Chr 1), is known for its unusually high density of QTLs for neural\nand behavioral traits, e.g. , traits like anxiety-related behavior, seizure, hippocampal\nvolume, and alcohol preference consistently map to this region."
+                }
+            ],
+            "9ac0b7e7-6294-4cfb-97e3-e5a4546af324": [
+                {
+                    "document_id": "9ac0b7e7-6294-4cfb-97e3-e5a4546af324",
+                    "text": "Overall, these studies reveal the existence of an extensive\npolygenic system influencing the exploratory behavior of\nmice similar to the kind of genetic architecture shown to\ninfluence behavior in tests of fear and anxiety (Caldarone\net al. 1997; Flint et al. 1995; Gill & Boyle 2005; Henderson\net al. 2004; Laarakker et al. 2008; Singer et al. 2005; Turri\net al. 2001a,b). The significance of the QTL, and also of the\npolygenic system, is heightened by the finding that roughly\nthe same set of genes has the potential to influence some\nbehaviors from early adulthood to old age."
+                }
+            ],
+            "bd221ae3-3994-4fe2-b22d-b050b0d62bbf": [
+                {
+                    "document_id": "bd221ae3-3994-4fe2-b22d-b050b0d62bbf",
+                    "text": "The behavioral phenotypes with QTLs on distal\nChr 17 are (1) prepulse inhibition, assayed by McCaughran\net al.41 in a panel of 21 BXD strains (trait ID on Genenetwork\nis 10396), (2) anxiety trait measure by time spent in open\nquadrant of zero-maze, assayed in a larger panel of 57 BXD\nstrains42 (trait ID 11696) and (3) handling induced convulsion\nas an index of ethanol withdrawal severity, measured in 25\nBXD strains43 (trait ID 10065). Gene–gene interaction analysis."
+                }
+            ],
+            "d0deb53b-7286-4fd0-9188-b7b9f366fd76": [
+                {
+                    "document_id": "d0deb53b-7286-4fd0-9188-b7b9f366fd76",
+                    "text": "Quantitative trait locus (QTL) mapping has been carried out in numerous species to associate\nregions of the genome to phenotypes even before the structure of the genome was well understood\n(e.g. , [3]). Rodents, especially mice, have been the species most prominently used for biomedically relevant traits. Amongst these, the BXD family of recombinant inbred (RI) strains derived\nfrom crossing two inbred strains—C57BL/6J and DBA/2J mice—have been extensively used for\nalmost 50 years in fields such as neuropharmacology [4–6], immunology [7–13], behaviour [13–21],\naging [21–29], neurodegeneration [30–33], and gut microbiome–host interactions [34]."
+                }
+            ],
+            "d2f9c5cf-835c-450a-bb42-a2454a99e058": [
+                {
+                    "document_id": "d2f9c5cf-835c-450a-bb42-a2454a99e058",
+                    "text": "Two QTLs located on chromosomes 1 and 5 modulate different\naspects of the performance of mice of the BXD Ty RI strain series in the Morris navigation task. Behav Genet. 2002; 32:69–78. [PubMed: 11958544]\nMozhui RT, Ciobanu DC, Schikorski T, Wang XS, Lu L, Williams RW. Dissection of a QTL hotspot\non mouse distal chromosome 1 that modulates neurobehavioral phenotypes and gene expression. PLoS Genetics. 2008; 4:e1000260. [PubMed: 19008955]\nMulligan MK, Wang X, Adler AL, Mozhui K, Lu L, Williams RW. Complex control of GABA(A)\nreceptor subunit mRNA expression: variation, covariation, and genetic regulation. PLoS One. 2012; 7(4):e34586."
+                }
+            ],
+            "d6085c3a-6ade-499e-9fde-4c8ea682f20e": [
+                {
+                    "document_id": "d6085c3a-6ade-499e-9fde-4c8ea682f20e",
+                    "text": "Type\nI and type II error rates for quantitative trait loci (QTL) mapping studies using\nrecombinant inbred mouse strains. Behav Genet, 26(2): 149-160. Bidwell, L. C., Willcutt, E. G., Defries, J. C., & Pennington, B. F. 2007. Testing for\nneuropsychological endophenotypes in siblings discordant for attentiondeficit/hyperactivity disorder. Biol Psychiatry, 62(9): 991-998. Bitanihirwe, B. K., Dubroqua, S., Singer, P., Feldon, J., & Yee, B. K. 2011. Sensorimotor\ngating and vigilance-dependent choice accuracy: a within-subject correlative\nanalysis in wild-type C57BL/6 mice. Behav Brain Res, 217(1): 178-187. 151\nReferences\nBitsios, P., & Giakoumaki, S. G. 2005."
+                }
+            ],
+            "d8993417-3a27-4000-b693-6cb4662b9f80": [
+                {
+                    "document_id": "d8993417-3a27-4000-b693-6cb4662b9f80",
+                    "text": "Quantitative trait locus (QTL) mapping has been carried out in numerous species to associate\nregions of the genome to phenotypes even before the structure of the genome was well understood\n(e.g. , [3]). Rodents, especially mice, have been the species most prominently used for biomedically relevant traits. Amongst these, the BXD family of recombinant inbred (RI) strains derived\nfrom crossing two inbred strains—C57BL/6J and DBA/2J mice—have been extensively used for\nalmost 50 years in fields such as neuropharmacology [4–6], immunology [7–13], behaviour [13–21],\naging [21–29], neurodegeneration [30–33], and gut microbiome–host interactions [34]."
+                }
+            ],
+            "f253e087-e030-40a8-8400-3b6bf50c1fd6": [
+                {
+                    "document_id": "f253e087-e030-40a8-8400-3b6bf50c1fd6",
+                    "text": "Other aggression QTLs\nSeveral lines of mice have been selectively bred for high or low levels of o¡ensive\naggression, which con¢rms that a propensity for aggressive behaviours is partially\nheritable. These lines include the Turku aggressive (TA) and non-aggressive\n(TNS) strains bred in Finland, the NC900 and NC100 strains bred in North\nCarolina, and the short attack latency (SAL) and long attack latency (LAL)\nstrains bred in the Netherlands (Miczek et al 2001). In wild mice, there is evidence for a QTL a¡ecting aggressive behaviours in a\nregion of chromosome 17, the t region."
+                },
+                {
+                    "document_id": "f253e087-e030-40a8-8400-3b6bf50c1fd6",
+                    "text": "QTL ANALYSIS OF AGGRESSIVE BEHAVIOURS IN MICE\n\n65\n\nProgress towards identifying QTLs that a¡ect\naggressive behaviours in mice\nAn example of aggression QTLs identi¢ed as part of a whole genome scan\nOne of the few studies to identify intermale aggression QTLs as part of a whole\ngenome scan was published recently (Brodkin et al 2002). This study used NZB/\nB1NJ (extremely aggressive) and A/J (extremely unaggressive) inbred mice as\nparental strains. The methods chosen for housing and aggression testing were\ndesigned to control the e¡ect of non-genetic factors on the phenotype."
+                },
+                {
+                    "document_id": "f253e087-e030-40a8-8400-3b6bf50c1fd6",
+                    "text": "Neuroscientist 4:317^323\nBrodkin ES, Goforth SA, Keene AH, Fossella JA, Silver LM 2002 Identi¢cation of quantitative\ntrait loci that a¡ect aggressive behavior in mice. J Neurosci 22:1165^1170\nChesler EJ, Lu L, Wang J, Williams RW, Manly KF 2004 WebQTL: rapid exploratory analysis\nof gene expression and genetic networks for brain and behavior. Nat Neurosci 7:485^486\nDarvasi A 1997 Interval-speci¢c congenic strains (ISCS): an experimental design for mapping a\nQTL into a 1-centimorgan interval. Mamm Genome 8:163^167\nDarvasi A 1998 Experimental strategies for the genetic dissection of complex traits in animal\nmodels."
+                },
+                {
+                    "document_id": "f253e087-e030-40a8-8400-3b6bf50c1fd6",
+                    "text": "Brodkin: Such a course mapping study with only about 400 mice would be\nunlikely to detect a QTL that accounts for only 2.5% of the phenotypic variance,\nQTL ANALYSIS OF AGGRESSIVE BEHAVIOURS IN MICE\n\n73\n\nbut it should detect a QTL that accounts for approximately 10% of the variance\n(Lynch & Walsh 1998, Darvasi 1998). QTLs of this magnitude of e¡ect on\nneurobiological or behavioural traits have been found fairly commonly in crosses\nbetween inbred mouse strains (see e.g. Wehner et al 1997)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "7C515AA69FEB13DBCB2B87E949390D2A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "QTL",
+            "behavioral",
+            "mice",
+            "aggression",
+            "chromosome",
+            "Morris&navigation&task",
+            "neurobehavioral",
+            "ethanol&withdrawal",
+            "prepulse&inhibition",
+            "anxiety"
+        ],
+        "metadata": [
+            {
+                "object": "Mice exposed to aggressive confrontations exhibited a similar pattern of species-typical aggressive and non-aggressive behaviors on the first and the last session. Repeated aggressive confrontations promoted an increase in plasma corticosterone. After 10 aggressive confrontation sessions, mice presented a non-significant trend toward reducing hippocampal levels of CRF, which inversely correlated with plasma corticosterone",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab481563"
+            },
+            {
+                "object": "Overexpression of RGS2 in explicitly serotonergic neurons augments male aggression in control mice and rescues male aggression in Rgs2 -/- mice, while anxiety is not affected. Findings specifically identify that RGS2 expression in serotonergic neurons is sufficient to drive male aggression in mice and as a potential therapeutic target for treating aggression.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab572353"
+            },
+            {
+                "object": "Dopamine and DOPAC were not changed in 3-mo-old mice but were decreased at 8 mo in the striatum of PIKE-KO mice compared with wild-type mice.  DA and DOPAC in hippocampus and substantia nigra were significantly decreased in 3-mo-old and 8-mo-old PIKE-KO mice as compared with wild-type mice. More severe motor defects in PIKE-KO and Fyn-KO mice than in wild-type mice exposed to alpha synuclein and MPTP.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab237945"
+            },
+            {
+                "object": "We found a significant reduction of testosterone levels in mGluR7 knockout KO mice. Social investigating behaviour of intact mGluR7 KO mice also differed from that of wild-type mice; e.g. the KO mice showing less frequent anogenital sniffing and more frequent grooming behaviour. Further, castrated mGluR7 KO mice have smaller seminal vesicles than those of castrated wild-type mice, although intact mice were no different.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1004015"
+            },
+            {
+                "object": "Mice exposed to aggressive confrontations exhibited a similar pattern of species-typical aggressive and non-aggressive behaviors on the first and the last session. Repeated aggressive confrontations promoted an increase in plasma corticosterone. Repeated sessions of social instigation or aggressive confrontation did not alter BDNF concentrations at the prefrontal cortex and hippocampus.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab481564"
+            },
+            {
+                "object": "Recognition memory improved with exercise in WT mice, was impaired in TNFR1-/- exercise mice, showed non-significant impairment with exercise in TNF-/- mice, and no changes in TNFR2-/- mice. In spatial learning there were exercise related improvements in WT mice, non-significant but meaningful impairments evident in TNFR1-/- exercise mice, modest improvement in TNF-/- exercise mice.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab632171"
+            },
+            {
+                "object": "No difference between wild-type WT and v1a and v1b double knockout dKO mice was found in olfactory preferences for estrous female odor to male odor. Over all four mating tests, the number of mounts and pursuits after receptive females was significantly greater in dKO mice than in WT mice. In the elevated plus maze and the open field test, dKO mice showed lower anxiety-like behavior than WT mice.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab529453"
+            },
+            {
+                "object": "Neonatal maternal separation MS lead to increased anxiety-like behavior in Cdh13-/- mice compared to the other two MS groups. Cdh13-/- mice showed a context-dependent effect on stress- & anxiety-related behavior, impaired extinction learning following contextual fear conditioning & decreased impulsivity, & a mild decrease in errors in the Barnes maze & reduced risk-taking in the light-dark transition test after MS.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab520848"
+            },
+            {
+                "object": "We identified low activity and high anxiety-like behaviors in Il18r1-/- mice, whereas Il18-/- mice displayed little anxiety-like behavior.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1007843"
+            },
+            {
+                "object": "significantly higher binding of POLR2A to the Tmem132d promoter region of high anxiety behavior mice than in low anxiety behavior mice",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab707366"
+            }
+        ],
+        "question": "What behavioural QTLs have been found in mice?",
+        "subquestions": null,
+        "task_id": "7C515AA69FEB13DBCB2B87E949390D2A",
+        "usage": {
+            "chatgpt": 6048,
+            "gpt-4": 4191,
+            "gpt-4-turbo-preview": 3207
+        },
+        "user_id": 2
+    },
+    "document_id": "7C515AA69FEB13DBCB2B87E949390D2A",
+    "task_id": "7C515AA69FEB13DBCB2B87E949390D2A"
+}

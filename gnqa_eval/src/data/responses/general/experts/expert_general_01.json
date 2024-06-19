@@ -1,0 +1,156 @@
+{
+    "created_at": "2024-05-31T13:08:08.864950Z",
+    "data": {
+        "amplify": false,
+        "answer": "To determine which gene in your QTL is causal for the trait, you can follow several steps. First, narrow down the QTL interval to a reasonable size. Then, sort through the genes within the interval to identify potential Quantitative Trait Genes (QTGs). This can be challenging as more than one gene may be involved and the function of some genes may be unknown. You can use techniques like LCMS to establish causal relationships between DNA loci and transcripts. Once potential QTGs are identified, you need to prove that a particular gene is involved in the quantitative trait under study. This can be done by complementation of a QTL, which can be achieved in several ways. You can also use mediation analysis to identify the causal gene between the genetic variant and the trait-of-interest. Finally, investigate whether the expression of these genes correlates with the phenotype(s) of interest. If the gene expression strongly correlates with the QTL phenotype, this further strengthens the assumption that this gene might be causal.",
+        "context": {
+            "07d409f4-91f9-4701-bb39-1421845a6321": [
+                {
+                    "document_id": "07d409f4-91f9-4701-bb39-1421845a6321",
+                    "text": "Prior belief or knowledge about the number of true causal and true\nindependent links that might be expected in a typical QTL, depending on the study\ndesign, should be considered to safeguard against high false-positive rates (low\npositive predictive values). In studies that involve mapping gene expression (eQTL),\nprotein (pQTL) or metabolite (mQTL) traits, information about co-localization of\nQTL and genes that are functionally linked to the trait provides information about\nthe likelihood of causal links."
+                }
+            ],
+            "1a041a89-4da8-4ad5-b241-da36df917930": [
+                {
+                    "document_id": "1a041a89-4da8-4ad5-b241-da36df917930",
+                    "text": "\n\nThe next step is to investigate whether the expression of these genes correlates with the phenotype(s) of interest.This would suggest a chain of causality: a variant within a gene causes a change in its expression, and the expression of that gene correlates with expression of a phenotypic trait of interest.To do this, we created a correlation matrix between all genes within a QTL with a cis-eQTL in any brain tissue as well as the phenotypes that contributed to the QTL (Supplementary Table S6).Any gene with a cis-eQTL and a significantly correlated expression was considered a good candidate.If the gene only had a cis-eQTL and correlation in a single brain region, then it suggested that this brain region might also be of interest for the phenotype (adding another link to this chain)."
+                }
+            ],
+            "33814fad-d831-46f5-b41f-ff31626a82ca": [
+                {
+                    "document_id": "33814fad-d831-46f5-b41f-ff31626a82ca",
+                    "text": "One possible approach to facilitate this endeavor is to identify quantitative trait loci\n(QTL) that contribute to the phenotype and consequently unravel the candidate\ngenes within these loci. Each proposed candidate locus contains multiple genes and,\ntherefore, further analysis is required to choose plausible candidate genes. One of\nsuch methods is to use comparative genomics in order to narrow down the QTL to a\nregion containing only a few genes. We illustrate this strategy by applying it to\ngenetic findings regarding physical activity (PA) in mice and human."
+                }
+            ],
+            "4049da4d-c7cf-4e30-9a21-c77609fad23d": [
+                {
+                    "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                    "text": "Network analyses\nWe now have two QTL, and we have picked potentially interesting genes within each, but now\nwe want to build up more evidence for which gene in our QTL interval is causal. The first, and\nmost obvious way, is to see what genes our trait of interest correlates with, in tissues that we\nexpect to be related to the trait. We calculated the Spearman’s correlation between the trait\nBXD_17850 and all probes with expression data in T helper cells (GN319)."
+                }
+            ],
+            "47c12133-5a30-45b9-bcb8-b96f00737f31": [
+                {
+                    "document_id": "47c12133-5a30-45b9-bcb8-b96f00737f31",
+                    "text": "Another\napproach to help to determine if a gene located near the mapped QTL would\nhave effects to influence the quantitative trait will be to use genetically engineered mice to determine if altering the expression of a candidate gene will alter\nthe phenotype of interest (38). However, it is possible that a quantitative trait is\na combined effect of multiple genes located near the QTL (39)."
+                }
+            ],
+            "547ce63b-5178-45cb-ae07-12ae66aa2967": [
+                {
+                    "document_id": "547ce63b-5178-45cb-ae07-12ae66aa2967",
+                    "text": "With a known QTL and a\nbody of evidence suggesting possible roles for the affected gene,\nphenotypes can be predicted that may be modulated as a result\nof this sequence variation. If this phenotype is of interest, it\ncan be directly measured and a traditional ‘forward’ QTL analysis carried out to confirm the prediction. Such an approach is\nextremely attractive when the enormous cost and time required\nfor phenotyping a large panel is considered."
+                }
+            ],
+            "581f83bc-3521-4cb3-ad3c-d905a90ecc29": [
+                {
+                    "document_id": "581f83bc-3521-4cb3-ad3c-d905a90ecc29",
+                    "text": "The first\nstep is to narrow down the list of\ncandidate causal genes within a\nFig\n1. Interval\nmapping\nof\noviduct\ngross\npathology\nacross\nthe\nBXD\nstrains\n\nQuantitative Trait Locus (QTL)—a\nreveals\na\nQTL\non\ndistal\nChr\n3. The\nL RS\nvalues\nare\nplotted\nin\nblue\nacross\nthe\n\nchromosomal region containing\ngenome\nand\nmeasure\nthe\nstrength\nof\nthe\nassociation\nbetween\n\nsequence variants strongly\nchromosome\nand\nMb\nposition\n(top\nand\nbottom\nX-­‐axis,\nrespectively)\nand\n\nassociated with phenotypic\nphenotype\nexpression. Allele\ncontribution\nis\nshown\nby\nthe\nred\n(C57BL/6J)\n\nand\ngreen\n(DBA/2J)\nlines. Red\nand\ngrey\nhorizontal\nlines\nindicate\ngenome-­‐\nvariation."
+                }
+            ],
+            "5a56fa6d-9e77-4b95-a836-04d0fa31ee2c": [
+                {
+                    "document_id": "5a56fa6d-9e77-4b95-a836-04d0fa31ee2c",
+                    "text": "A special case is the\ncorrelation of the target phenotype with the expression of the\npriorized gene(s) (RNA or protein amounts). This refers to\ncolocalization of the QTL of the target phenotype with the\neQTL position. Correlation can also be examined between the\ntarget QTL phenotype and expression of all genes in the QTL\ninterval. If the gene expression strongly correlates with the\nQTL phenotype, this further strengthens the assumption that\nthis gene might be causal (see Note 12). For performing a correlation analysis:\n–\n\nGo to the Trait Overview Page, as described in step 3, point\n1."
+                }
+            ],
+            "64886b4e-8599-4f61-84e6-9add7663a1b3": [
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": "QTL mapping of traits in mouse cohorts often ends up with a genetic locus, composed of a list of candidate\ngenes. Several studies proposed the use of mediation analysis to identify the causal gene (mediator) between\nthe genetic variant (independent variable) and the trait-of-interest (dependent variable) (Figure 1.4B) [7, 47,\n61, 77]. Mediation analysis can be used either on gene expression levels to identify the regulatory mechanisms\n[7, 47, 61], or on phenotypic traits to discover the potential causal drivers contributing to the phenotypic\nvariances [77] (Figure 1.4C upper)."
+                }
+            ],
+            "7a451204-390c-4ff2-8a1d-b4de62b73503": [
+                {
+                    "document_id": "7a451204-390c-4ff2-8a1d-b4de62b73503",
+                    "text": "1a). Second-generation offspring are then\nphenotyped and genotyped, and linkage analysis is carried out to identify a region that is\nassociated with the trait1. This approach has led to the identification of thousands of quantitative trait loci (QTLs) for\nvarious phenotypes and diseases. However, each QTL region is large, often tens of\nmegabases, and contains hundreds of genes. The process of identifying the causal variant\nand the gene involved is therefore difficult and costly. Of the thousands of QTLs identified,\nonly a small fraction of genes has been identified. NIH-PA Author Manuscript\n\n© 2012 Macmillan Publishers Limited."
+                }
+            ],
+            "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d": [
+                {
+                    "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                    "text": "Network analyses\nWe now have two QTL, and we have picked potentially interesting genes within each, but now\nwe want to build up more evidence for which gene in our QTL interval is causal. The first, and\nmost obvious way, is to see what genes our trait of interest correlates with, in tissues that we\nexpect to be related to the trait. We calculated the Spearman’s correlation between the trait\nBXD_17850 and all probes with expression data in T helper cells (GN319)."
+                }
+            ],
+            "7d866915-9d92-4401-8340-ffdef457debe": [
+                {
+                    "document_id": "7d866915-9d92-4401-8340-ffdef457debe",
+                    "text": "10 JUNE 2016 • VOL 352 ISSUE 6291\n\naad0189-5\nR ES E A RC H | R E S EA R C H A R T I C LE\n\nSolving QTLs: Finding the quantitative\ntrait gene\nFor cis-QTLs, the causal factors can be quickly\nidentified: With few exceptions, they will be driven by variants within the gene itself or immediately adjacent. For trans-QTLs, mQTLs, and\ncQTLs, the identification of the causal quantitative trait gene (QTG) is challenging due to the\nwidth of the QTLs."
+                }
+            ],
+            "95b99c09-c336-44fd-b378-f41991edb3aa": [
+                {
+                    "document_id": "95b99c09-c336-44fd-b378-f41991edb3aa",
+                    "text": "Once the QTL interval is reduced to a reasonable size,\nthe next step in the process involves sorting through the\ngenes within the interval and attempting to determine\nwhich is the QTG. This step is daunting because more than\none gene may be involved and the function of some genes\nwithin the interval may be unknown. Until recently, this\nstep emphasized the detection of polymorphisms within\ncoding sequence (reviewed in Korstanje and Paigen, 2002\nand Glazier et al. 2002); for a polymorphism that produces\nan amino acid substitution, one can often infer and then\ntest for a functional consequence."
+                }
+            ],
+            "abea3dd4-9492-4a2b-8904-b8052e384785": [
+                {
+                    "document_id": "abea3dd4-9492-4a2b-8904-b8052e384785",
+                    "text": "To understand the genetic networks that underlie\nquantitative variation in the trait, it is also very important to\ndiscover genes whose expression is correlated with the trait\nafter accounting for the known effects of the QTL on the\ntrait. Many of these genes may have expression that is\nassociated with QTL genotype, and would therefore be\nidentified as important via the tests described above. Other\n\ngenes, however, may have expression values that are correlated with the trait but unassociated with genotype at the\nQTL."
+                },
+                {
+                    "document_id": "abea3dd4-9492-4a2b-8904-b8052e384785",
+                    "text": "The\napproach is motivated by the fact that a research project is\noften focused on a specific classical quantitative trait. If a\nmajor QTL for this classical trait has been identified, it is\noften desirable to test whether this QTL is also associated\nwith the transcription level of any genes, which will provide clues as to which genes belong to the pathway that the\nQTL uses to modulate the classical trait."
+                }
+            ],
+            "d1f04d58-2589-4183-aee4-569820dae052": [
+                {
+                    "document_id": "d1f04d58-2589-4183-aee4-569820dae052",
+                    "text": "Confirmation of Candidate Genes\nThe next step is to prove that a particular gene is involved in the quantitative trait\nunder study. This is done by complementation of a QTL, which can be achieved in\nseveral ways (9–11,40). In principle, transgenic complementation is the most straightforward. This approach has been used successfully to demonstrate that Pla2g2a was\nthe correct candidate gene for Mom1, a modifier of the apcmin allele that causes\nadenomatous polyposis coli (41)."
+                }
+            ],
+            "da485354-fcdc-49b8-9a41-0f673610156a": [
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "So, how do you go about planning and performing a QTL study, and how\ndo you identify the responsible gene within a QTL that you have identified? Generally, one starts by performing a strain survey to find two parental inbred\nstrains that have a markedly different trait. One can now look up many different\ntraits of inbred mice online at the Mouse Phenome Database (http://phenome. jax.org/pub-cgi/phenome/mpdcgi?rtn=docs/home). However, the trait you may\nwant to study may not be present in wild type mice, so you may want to cross\na mutant (or genetically engineered) strain onto several inbred strains."
+                }
+            ],
+            "f041550e-5f2d-430e-8f46-15ebea6ca496": [
+                {
+                    "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                    "text": "Along with correlations, this tool also derives new traits representing the\nprincipal components (Figure 2d). The user can add these principal components to their Trait\nCollection and proceed to perform QTL mapping, as in the case of a single trait QTL\nmapping. The R/QTL (Broman et al. 2003) and R/CAPE (Tyler et al. 2013) packages can be\nused for deeper analysis of epistasis and pleiotropy for multiple traits and multiple\nregulatory loci. Prioritizing Candidate Genes\n7\n\nAuthor Manuscript\n\nFollowing the identification of a significant QTL, focus shifts to identifying the\nparticular gene(s) that cause the QTL."
+                }
+            ],
+            "f4e26cf0-d214-41bf-b392-9c63a903b0b8": [
+                {
+                    "document_id": "f4e26cf0-d214-41bf-b392-9c63a903b0b8",
+                    "text": "The investigators\nfirst identified all QTLs associated with\na classical phenotype and then winnowed the list of potentially associated\ngene-expression traits on the basis of\ntheir correlation or eQTL overlap with\nthe phenotype of interest. Candidate\ngenes then were ranked by applying\n\nthe LCMS technique, which uses the\neQTL data to establish causal relationships between DNA loci and transcripts as well as between transcripts\nand phenotypes and finally identifies\na model that best fits the data."
+                }
+            ],
+            "ff35f4c8-b78b-4dad-9aa8-1bb16479872d": [
+                {
+                    "document_id": "ff35f4c8-b78b-4dad-9aa8-1bb16479872d",
+                    "text": "The goal of QTL mapping is clearly the\nidentification and eventual confirmation of candidate genes\n(QTGs) underlying the phenotype. The evidence required for\nsuch confirmation has engendered much discussion (Complex\nTrait Consortium 2003; Glazier et al. 2002) and is likely to vary\ndepending on the nature of the trait and specific resources\navailable to pin down underlying genes (e.g. availability of\nknock-in or knock-outs, specific antibodies, siRNA, etc.). The\npaucity of QTGs meeting such multifaceted standards is testament to the difficulty of narrowing the confidence interval\nsufficiently to identify and test suitable candidate genes (Flint\net al."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "EFB8B9EF07428DA8D36EFCB6B06F9161",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "QTL",
+            "gene",
+            "trait",
+            "phenotype",
+            "eQTL",
+            "expression",
+            "cis-eQTL",
+            "quantitative&trait&locus",
+            "QTG",
+            "correlation"
+        ],
+        "metadata": [],
+        "question": "How do I determine which gene in my QTL is causal for the trait?",
+        "subquestions": null,
+        "task_id": "EFB8B9EF07428DA8D36EFCB6B06F9161",
+        "usage": {
+            "chatgpt": 4765,
+            "gpt-4": 3573,
+            "gpt-4-turbo-preview": 2599
+        },
+        "user_id": 2
+    },
+    "document_id": "EFB8B9EF07428DA8D36EFCB6B06F9161",
+    "task_id": "EFB8B9EF07428DA8D36EFCB6B06F9161"
+}

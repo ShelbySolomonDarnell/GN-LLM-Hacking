@@ -1,0 +1,142 @@
+{
+    "created_at": "2024-06-01T14:29:54.405039Z",
+    "data": {
+        "amplify": false,
+        "answer": "The text mentions the application of site-specific recombinase technology, which allows investigators to engineer genes in the mouse that will allow for the deletion, insertion, inversion, or exchange of chromosomal DNA with high fidelity. However, it does not provide specific details about recombination in the human genome.",
+        "context": {
+            "081924f4-cdcc-4fce-9223-744c6ecffe4e": [
+                {
+                    "document_id": "081924f4-cdcc-4fce-9223-744c6ecffe4e",
+                    "text": "Genome Res, 2011, 21: 1769–1776\nMattick JS, Dinger ME. The extent of functionality in the human\ngenome. HUGO J, 2013, 7, doi:10.1186/1877-6566-1187-1182\nENCODE Project Consortium, Bernstein BE, Birney E, Dunham I,\nGreen ED, Gunter C, Snyder M. An integrated encyclopedia of DNA\nelements in the human genome. Nature, 2012, 489: 57–74\nPheasant M, Mattick JS. Raising the estimate of functional human\nsequences. Genome Res, 2007, 17: 1245–1253\nHu T, Long M, Yuan D, Zhu Z, Huang Y, Huang S. The genetic\nequidistance result, misreading by the molecular clock and neutral\ntheory and reinterpretation nearly half of a century later."
+                }
+            ],
+            "33814fad-d831-46f5-b41f-ff31626a82ca": [
+                {
+                    "document_id": "33814fad-d831-46f5-b41f-ff31626a82ca",
+                    "text": "This approach enables, on the one hand, studying the process of\nmammalian evolution and, on the other hand, translational studies using model\norganisms of complex human phenotypes. Detection of regions conserved between\ndistant species points to high functional importance of these fragments of the DNA\nsequence. Human and mouse developmental lines diverged about 75 million years ago, and\never since evolutionary forces shaped the two genotypes in a different manner\n(Waterston et al. , 2002). Nevertheless, the extent of the changes is, however, small\nenough for conservation of local gene order (Waterston et al. , 2002)."
+                }
+            ],
+            "3cafb9e7-b3d9-4e8e-a727-da79282d2b14": [
+                {
+                    "document_id": "3cafb9e7-b3d9-4e8e-a727-da79282d2b14",
+                    "text": "First, the human and mouse genome projects\nelucidated the sequences of over 20,000 genes [Lander et al. ,\n2001; Venter et al. , 2001], and most are expressed in the CNS. The availability of gene sequences has allowed rapid analysis of\ncandidate human disease and disorder genes and the isolation of\nthe mouse homologues. Second, the application of site-speciﬁc\nrecombinase technology provides investigators with the opportunity to engineer genes in the mouse that will allow for the\ndeletion, insertion, inversion, or exchange of chromosomal\nDNA with high ﬁdelity (for review see Branda and Dymechi,\n2004]."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "In some cases, structural variations, such as copy number polymorphisms,\nexist (Feuk et al. , 2006); however, because of the nature of the genome assembly\nprocess, these will invariably be collapsed into a single contig that does not reflect\nthe natural sequence. To address the technical challenges of whole-genome assembly,\nthe human genome is released as defined ‘builds’ on a quarterly basis (Lander et al. ,\n2001; reviewed in Chapter 4). The increasing complexity of processes that map\ndata to the genome implicitly involves some lag in availability of the most current\nsequence assembly."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "In\npractical terms, this has meant that we acquire many fragments, from a few hundred\nbases to a few hundred kilobases in length, of a genome that must then be assembled computationally to produce a continuous sequence. In the case of the human\ngenome, two unfinished ‘draft’ sequences were produced by different methods, one\nby the International Human Genome Sequencing Consortium (IHGSC) and one by\nCelera Genomics (CG). The IHGSC began with a BAC (bacterial artificial chromosome) clone-based physical map of the genome (IHGSC, 2001)."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                }
+            ],
+            "74f148ef-696c-4e25-80e5-1d44ae70540e": [
+                {
+                    "document_id": "74f148ef-696c-4e25-80e5-1d44ae70540e",
+                    "text": "\nTHE HUMAN GENOME PROJECT IS generating vast amounts of new information at breakneck speed and causing a fundamental shift in disease research.Now with the availability of a nearly complete, high-accuracy sequence of the mouse genome (7), a new and powerful paradigm for biomedical research is established.The remarkable similarity of mouse and human genomes, in both synteny and sequence, unconditionally validates the mouse as an exceptional model organism for understanding human biology.The discovery among inbred mouse strains of defined regions of high and low genomic variation inherited primarily from two ancestral Mus subspecies (6) holds great promise to make mapping and positional cloning more rapid and feasible.Haplotype maps of inbred mouse strains combined with sophisticated delineation of their phenotypic variation and gene expression patterns will enable complex trait analysis on an unprecedented scale.This issue of Journal of Applied Physiology highlights inbred strain surveys exploring phenotypic variation in drug responses [see Crabbe et al. (1) and Watters et al. (8)  in this issue].These mouse initiatives demonstrate a viable, cost-effective alternative to human research requiring family studies, population linkage analysis, or genome-wide genotyping on a multitude of individuals for association mapping."
+                }
+            ],
+            "81c3edc4-f625-45f2-bf78-e49faf118c88": [
+                {
+                    "document_id": "81c3edc4-f625-45f2-bf78-e49faf118c88",
+                    "text": "\n\nHow Many Genes are There in the Human Genome?"
+                }
+            ],
+            "b1656249-5f62-428f-8b71-7549cc2886ff": [
+                {
+                    "document_id": "b1656249-5f62-428f-8b71-7549cc2886ff",
+                    "text": "\n\nThe Landscape of Human Genome Variation"
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "In some cases, structural variations, such as copy number polymorphisms,\nexist (Feuk et al. , 2006); however, because of the nature of the genome assembly\nprocess, these will invariably be collapsed into a single contig that does not reflect\nthe natural sequence. To address the technical challenges of whole-genome assembly,\nthe human genome is released as defined ‘builds’ on a quarterly basis (Lander et al. ,\n2001; reviewed in Chapter 4). The increasing complexity of processes that map\ndata to the genome implicitly involves some lag in availability of the most current\nsequence assembly."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "In\npractical terms, this has meant that we acquire many fragments, from a few hundred\nbases to a few hundred kilobases in length, of a genome that must then be assembled computationally to produce a continuous sequence. In the case of the human\ngenome, two unfinished ‘draft’ sequences were produced by different methods, one\nby the International Human Genome Sequencing Consortium (IHGSC) and one by\nCelera Genomics (CG). The IHGSC began with a BAC (bacterial artificial chromosome) clone-based physical map of the genome (IHGSC, 2001)."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                }
+            ],
+            "da485354-fcdc-49b8-9a41-0f673610156a": [
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "Science 291:1304–\n1351\n3. Lander ES et al (2001) Initial sequencing and analysis of the human genome. Nature 409:860–921\n4. Engle LJ, Simpson CL, Landers JE (2006) Using high-throughput SNP technologies to study cancer. Oncogene 25:1594–1601\n5. Elston RC, Anne Spence M (2006) Advances in statistical human genetics over the\nlast 25 years. Stat Med 25:3049–3080\n6. Larson GP et al (2005) Genetic linkage of prostate cancer risk to the chromosome\n3 region bearing FHIT. Cancer Res 65:805–814\n7. Botstein D, Risch N (2003) Discovering genotypes underlying human phenotypes:\npast successes for mendelian disease, future approaches for complex disease."
+                },
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "McPherson JD, Marra M, Hillier L et al (2001) A physical map of the human\ngenome. Nature 409:934–941\n13. Burke DT, Carle GF, Olson MV. (1987) Cloning of large segments of exogenous\nDNA into yeast by means of artificial chromosome vectors. Science 236:806–812\n14. Fleischmann RD, Adams MD, White O et al (1995) Whole-genome random\nsequencing and assembly of Haemophilus influenzae Rd Science 269:496–512\n15. Arabidopsis Genome Initiative (2000) Analysis of the genome sequence of the\nflowering plant Arabidopsis thaliana. Nature 408:796–815\n16."
+                }
+            ],
+            "e17ef791-e77a-486b-a3c1-c7f037fa530c": [
+                {
+                    "document_id": "e17ef791-e77a-486b-a3c1-c7f037fa530c",
+                    "text": "\n\nT he human genome has been cracked wide open in recent years and is spilling many of its secrets.More than 100 genome wide association studies have been conducted for scores of hu man diseases, identifying hun dreds of polymorphisms that are widely seen to influence disease risk.After many years in which the study of complex human traits was mired in false claims and methodologic inconsistencies, ge nomics has brought not only com prehensive representation of com mon variation but also welcome rigor in the interpretation of sta tistical evidence.Researchers now know how to properly account for most of the multiple hypothesis testing involved in mining the ge nome for associations, and most reported associations reflect real biologic causation.But do they matter?"
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "In some cases, structural variations, such as copy number polymorphisms,\nexist (Feuk et al. , 2006); however, because of the nature of the genome assembly\nprocess, these will invariably be collapsed into a single contig that does not reflect\nthe natural sequence. To address the technical challenges of whole-genome assembly,\nthe human genome is released as defined ‘builds’ on a quarterly basis (Lander et al. ,\n2001; reviewed in Chapter 4). The increasing complexity of processes that map\ndata to the genome implicitly involves some lag in availability of the most current\nsequence assembly."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "In\npractical terms, this has meant that we acquire many fragments, from a few hundred\nbases to a few hundred kilobases in length, of a genome that must then be assembled computationally to produce a continuous sequence. In the case of the human\ngenome, two unfinished ‘draft’ sequences were produced by different methods, one\nby the International Human Genome Sequencing Consortium (IHGSC) and one by\nCelera Genomics (CG). The IHGSC began with a BAC (bacterial artificial chromosome) clone-based physical map of the genome (IHGSC, 2001)."
+                }
+            ],
+            "fca531d0-d45b-495f-a02c-fbd437617b20": [
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "In some cases, structural variations, such as copy number polymorphisms,\nexist (Feuk et al. , 2006); however, because of the nature of the genome assembly\nprocess, these will invariably be collapsed into a single contig that does not reflect\nthe natural sequence. To address the technical challenges of whole-genome assembly,\nthe human genome is released as defined ‘builds’ on a quarterly basis (Lander et al. ,\n2001; reviewed in Chapter 4). The increasing complexity of processes that map\ndata to the genome implicitly involves some lag in availability of the most current\nsequence assembly."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "In\npractical terms, this has meant that we acquire many fragments, from a few hundred\nbases to a few hundred kilobases in length, of a genome that must then be assembled computationally to produce a continuous sequence. In the case of the human\ngenome, two unfinished ‘draft’ sequences were produced by different methods, one\nby the International Human Genome Sequencing Consortium (IHGSC) and one by\nCelera Genomics (CG). The IHGSC began with a BAC (bacterial artificial chromosome) clone-based physical map of the genome (IHGSC, 2001)."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "1A879F7DD77C0462CC12FB20F7D14486",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "human&genome",
+            "recombination",
+            "genes",
+            "CNS",
+            "site-specific&recombinase",
+            "structural&variations",
+            "copy&number&polymorphisms",
+            "genome&assembly",
+            "genome&wide&association&studies",
+            "polymorphisms"
+        ],
+        "metadata": [],
+        "question": "What about recombination in the human genome?",
+        "subquestions": null,
+        "task_id": "1A879F7DD77C0462CC12FB20F7D14486",
+        "usage": {
+            "chatgpt": 4864,
+            "gpt-4": 3728,
+            "gpt-4-turbo-preview": 2745
+        },
+        "user_id": 2
+    },
+    "document_id": "1A879F7DD77C0462CC12FB20F7D14486",
+    "task_id": "1A879F7DD77C0462CC12FB20F7D14486"
+}

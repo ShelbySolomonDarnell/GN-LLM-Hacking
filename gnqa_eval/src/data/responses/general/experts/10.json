@@ -1,0 +1,384 @@
+{
+    "created_at": "2024-06-01T14:34:54.821428Z",
+    "data": {
+        "amplify": false,
+        "answer": "Ensembl is a joint project between the EBI and the Wellcome Trust Sanger Institute. It is a publicly available web resource that contains automatically annotated genomes and integrates data from a wide range of biological research sources. Launched in 1999, the Ensembl database was the first to provide a window on the draft genome, curating the results of a series of computational analyses. It provides comprehensive information about the human genome including variants like SNPs, insertions, deletions, and somatic mutations for several species. Ensembl also offers tools for data retrieval and analysis.",
+        "context": {
+            "1a93e25f-2a43-49e9-8450-03a57c93e613": [
+                {
+                    "document_id": "1a93e25f-2a43-49e9-8450-03a57c93e613",
+                    "text": "Annotation, preprocessing and categorization of data\n\nWe used Ensembl (version 39) as the annotation reference database.Homology between human and mouse genes was derived via BioMart.The total number of genes under study comprises 15,277 Ensembl mouse genes representing the union of the homologue genes from all data sources.An overview about the T2DM specific datasets is given in Table 1."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/). Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining). Domain (protein) A region of special biological interest within a single protein\nsequence."
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/). Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining). Domain (protein) A region of special biological interest within a single protein\nsequence."
+                }
+            ],
+            "f7072d9b-4e07-4541-bac7-13a25761f460": [
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "Ensembl\n\nEnsembl is a publicly available web resource that contains automatically annotated genomes.It is integrated with other available biological databases like Jasper for binding motifs.It is a much larger web resource than T1Dbase, and contains general information about the human genome including variants.These include SNPs, insertions, deletions and somatic mutations (Alterations in DNA that occur after conception, meaning that they are not inherited) for several species.Data from Ensembl can be accessed in a number of ways.The names of all the SNPs that occur in the T1D susceptibility regions can be collected from Ensembl using the Biomart tool (Kinsella et al., 2011).To achieve this, the coordinates of the T1D regions obtained from T1Dbase are uploaded to the biomart query page which allows one to search the genome browser and retrieve data like the names, chromosomal positions, and genic positions (referred to as \"consequence to transcript\", in Ensembl) of the SNPs.The SNP genic positions tell if a SNP is located within a gene, adjacent to a gene or whether they occur in inter-genic positions between gene coding regions, as well as the particular genes in which they are located."
+                },
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "Advantages of Ensembl:\n\nThere is a number of advantages to using Ensembl. (i) It is a larger web resource than T1Dbase and integrates data from a wide range of biological research sources into its database.Therefore, available information is quite comprehensive. (ii) Genic positions for 99% of the variants obtained from T1Dbase could be retrieved. (iii) Ensembl contains quality checks for genetic variants in its variation pipeline.A variant is flagged as failed if certain quality criteria are not met, for instance if none of the variant alleles match the reference allele of the variant.Generally, Ensembl was found to give more detailed information regarding the genic positions of variants compared to T1Dbase."
+                },
+                {
+                    "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                    "text": "\n\nInformation about genes, including gene names, chromosomal coordinates, biotype (coding or non-coding), and number of splice variants, can also be retrieved from Ensembl."
+                }
+            ],
+            "fa8bba46-ce94-439a-a676-35187a3abcbf": [
+                {
+                    "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                    "text": "doi:10.1093/nar/gkp858\nCunningham F, Amode MR, Barrell D, Beal K,\nBillis K, Brent S, Carvalho-Silva D, Clapham\nP, Coates G, Fitzgerald S, Gil L, Giron CG,\nGordon L, Hourlier T, Hunt SE, Janacek SH,\nJohnson N, Juettemann T, Kahari AK, Keenan\nS, Martin FJ, Maurel T, McLaren W, Murphy\nDN, Nag R, Overduin B, Parker A, Patricio\nM, Perry E, Pignatelli M, Riat HS, Sheppard\nD, Taylor K, Thormann A, Vullo A, Wilder\nSP, Zadissa A, Aken BL, Birney E, Harrow J,\nKinsella R, Muffato M, Ruffier M, Searle SM,\nSpudich G, Trevanion SJ, Yates A, Zerbino\nDR, Flicek P (2015) Ensembl 2015."
+                }
+            ],
+            "fca531d0-d45b-495f-a02c-fbd437617b20": [
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed. 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/). The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies. The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator. The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins. Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code. Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/). 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/). Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining). Domain (protein) A region of special biological interest within a single protein\nsequence."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed.\n\n 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/).  The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed.\n\n 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/).  The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed.\n\n 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/).  The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "But the four sites are not equivalent; there are important distinctions between them in terms of the data analysed, the analyses carried\nout and the way the results are displayed.\n\n 4.4.1 Ensembl\nEnsembl is a joint project between the EBI (http://www.ebi.ac.uk/) and the Wellcome\nTrust Sanger Institute (http://www.sanger.ac.uk/).  The Ensembl database (Hubbard\net al. , 2002; http://www.ensembl.org/), launched in 1999, was the first to provide a\nwindow on the draft genome, curating the results of a series of computational analyses."
+            },
+            {
+                "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                "section_type": "main",
+                "text": "Ensembl\n\nEnsembl is a publicly available web resource that contains automatically annotated genomes.It is integrated with other available biological databases like Jasper for binding motifs.It is a much larger web resource than T1Dbase, and contains general information about the human genome including variants.These include SNPs, insertions, deletions and somatic mutations (Alterations in DNA that occur after conception, meaning that they are not inherited) for several species.Data from Ensembl can be accessed in a number of ways.The names of all the SNPs that occur in the T1D susceptibility regions can be collected from Ensembl using the Biomart tool (Kinsella et al., 2011).To achieve this, the coordinates of the T1D regions obtained from T1Dbase are uploaded to the biomart query page which allows one to search the genome browser and retrieve data like the names, chromosomal positions, and genic positions (referred to as \"consequence to transcript\", in Ensembl) of the SNPs.The SNP genic positions tell if a SNP is located within a gene, adjacent to a gene or whether they occur in inter-genic positions between gene coding regions, as well as the particular genes in which they are located."
+            },
+            {
+                "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                "section_type": "main",
+                "text": "doi:10.1093/nar/gkp858\nCunningham F, Amode MR, Barrell D, Beal K,\nBillis K, Brent S, Carvalho-Silva D, Clapham\nP, Coates G, Fitzgerald S, Gil L, Giron CG,\nGordon L, Hourlier T, Hunt SE, Janacek SH,\nJohnson N, Juettemann T, Kahari AK, Keenan\nS, Martin FJ, Maurel T, McLaren W, Murphy\nDN, Nag R, Overduin B, Parker A, Patricio\nM, Perry E, Pignatelli M, Riat HS, Sheppard\nD, Taylor K, Thormann A, Vullo A, Wilder\nSP, Zadissa A, Aken BL, Birney E, Harrow J,\nKinsella R, Muffato M, Ruffier M, Searle SM,\nSpudich G, Trevanion SJ, Yates A, Zerbino\nDR, Flicek P (2015) Ensembl 2015."
+            },
+            {
+                "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                "section_type": "main",
+                "text": "Advantages of Ensembl:\n\nThere is a number of advantages to using Ensembl. (i) It is a larger web resource than T1Dbase and integrates data from a wide range of biological research sources into its database.Therefore, available information is quite comprehensive. (ii) Genic positions for 99% of the variants obtained from T1Dbase could be retrieved. (iii) Ensembl contains quality checks for genetic variants in its variation pipeline.A variant is flagged as failed if certain quality criteria are not met, for instance if none of the variant alleles match the reference allele of the variant.Generally, Ensembl was found to give more detailed information regarding the genic positions of variants compared to T1Dbase."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies.  The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator.  The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins.  Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies.  The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator.  The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins.  Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies.  The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator.  The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins.  Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "Until January 2002 (Release 3.26.1), Ensembl used the UCSC draft sequence\nassemblies as its starting point, but it is now based upon NCBI assemblies.  The\nEnsembl analysis pipeline consists of a rule-based system designed to mimic decisions made by a human annotator.  The idea is to identify ‘confirmed’ genes that are\ncomputationally predicted (by the GENSCAN gene prediction program) and also\nsupported by a significant BLAST match to one or more expressed sequences or\nproteins.  Ensembl also identifies the positions of known human genes from public\nsequence database entries, usually using GENEWISE to predict their exon structures."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "Another\ngrowing area of activity is in cataloguing the genetic variation present in human\npopulations as Ensembl reflects the progress of the International Haplotype Map\nProject (Thorisson et al. , 2005).\n More speculative data, such as GENSCAN-predicted exons that have not been\nincorporated into Ensembl-confirmed genes, may also be viewed.  This means that\nthe display can be used as a workbench for the user to develop personalized annotation."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "Another\ngrowing area of activity is in cataloguing the genetic variation present in human\npopulations as Ensembl reflects the progress of the International Haplotype Map\nProject (Thorisson et al. , 2005).\n More speculative data, such as GENSCAN-predicted exons that have not been\nincorporated into Ensembl-confirmed genes, may also be viewed.  This means that\nthe display can be used as a workbench for the user to develop personalized annotation."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "Another\ngrowing area of activity is in cataloguing the genetic variation present in human\npopulations as Ensembl reflects the progress of the International Haplotype Map\nProject (Thorisson et al. , 2005).\n More speculative data, such as GENSCAN-predicted exons that have not been\nincorporated into Ensembl-confirmed genes, may also be viewed.  This means that\nthe display can be used as a workbench for the user to develop personalized annotation."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "Another\ngrowing area of activity is in cataloguing the genetic variation present in human\npopulations as Ensembl reflects the progress of the International Haplotype Map\nProject (Thorisson et al. , 2005).\n More speculative data, such as GENSCAN-predicted exons that have not been\nincorporated into Ensembl-confirmed genes, may also be viewed.  This means that\nthe display can be used as a workbench for the user to develop personalized annotation."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code.  Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/).\n\n 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code.  Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/).\n\n 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code.  Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/).\n\n 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "Data retrieval is extremely well catered for in Ensembl, with text searches of all\ndatabase entries, BLAST searches of all sequences archived, and the availability of bulk\ndownloads of all Ensembl data and even software source code.  Ensembl annotation\ncan also be viewed interactively on one’s local machine with the Apollo viewer (Lewis\net al. , 2002; http://www.fruitfly.org/annot/apollo/).\n\n 4.4.2 The UCSC Human Genome Browser\nThe UCSC Human Genome Browser (UCSC) bears many similarities to Ensembl;\nit, too, provides annotation of the NCBI assemblies, and it displays a similar array of\nfeatures, including confirmed genes from Ensembl."
+            },
+            {
+                "document_id": "429abfc1-f628-48ff-bfe8-f7be6d1419a8",
+                "section_type": "main",
+                "text": "Zerbino, D. R., Achuthan, P., Akanni, W., Amode, M. R., Barrell,\nD., Bhai, J., Billis, K., Cummins, C., Gall, A., Girón, C. G., Gil,\nL., Gordon, L., Haggerty, L., Haskell, E., Hourlier, T., Izuogu, O.\nG., Janacek, S. H., Juettemann, T., To, J. K., Laird, M. R., Lavidas, I., Liu, Z., Loveland, J. E., Maurel, T., McLaren, W., Moore,\nB., Mudge, J., Murphy, D. N., Newman, V., Nuhn, M., Ogeh, D.,\nOng, C. K., Parker, A., Patricio, M., Riat, H. S., Schuilenburg,\nH., Sheppard, D., Sparrow, H., Taylor, K., Thormann, A., Vullo,\nA., Walts, B., Zadissa, A., Frankish, A., Hunt, S. E., Kostadima,\nM., Langridge, N., Martin, F. J., Muffato, M., Perry, E., Ruffier,\nM., Staines, D. M., Trevanion, S. J., Aken, B. L., Cunningham,\nF., Yates, A., and Flicek, P.: Ensembl 2018, Nucl."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "gov/mapview/) evolved to allow graphical depictions of, and comparisons between,\na wide range of genetic and physical maps in parallel with NCBI draft and finished sequence contigs.  The locations of genes, markers, and SNPs are indicated\non the assembled sequences.  As with Ensembl, there is a NCBI analysis protocol\nwhich aims to predict gene structures based upon EST and mRNA alignments with\nthe draft genome.  This is carried out by a program called Acembly (unpublished;\nhttp://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html), which aims to\nderive gene structure from these alignments alone."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "gov/mapview/) evolved to allow graphical depictions of, and comparisons between,\na wide range of genetic and physical maps in parallel with NCBI draft and finished sequence contigs.  The locations of genes, markers, and SNPs are indicated\non the assembled sequences.  As with Ensembl, there is a NCBI analysis protocol\nwhich aims to predict gene structures based upon EST and mRNA alignments with\nthe draft genome.  This is carried out by a program called Acembly (unpublished;\nhttp://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html), which aims to\nderive gene structure from these alignments alone."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "gov/mapview/) evolved to allow graphical depictions of, and comparisons between,\na wide range of genetic and physical maps in parallel with NCBI draft and finished sequence contigs.  The locations of genes, markers, and SNPs are indicated\non the assembled sequences.  As with Ensembl, there is a NCBI analysis protocol\nwhich aims to predict gene structures based upon EST and mRNA alignments with\nthe draft genome.  This is carried out by a program called Acembly (unpublished;\nhttp://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html), which aims to\nderive gene structure from these alignments alone."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "gov/mapview/) evolved to allow graphical depictions of, and comparisons between,\na wide range of genetic and physical maps in parallel with NCBI draft and finished sequence contigs.  The locations of genes, markers, and SNPs are indicated\non the assembled sequences.  As with Ensembl, there is a NCBI analysis protocol\nwhich aims to predict gene structures based upon EST and mRNA alignments with\nthe draft genome.  This is carried out by a program called Acembly (unpublished;\nhttp://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html), which aims to\nderive gene structure from these alignments alone."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "B., Ching, K. A., Batalov, S. et al.  (2001).  A comparison of the Celera and\nEnsembl predicted gene sets reveals little overlap in novel genes.  Cell 106, 413–415.\n Hubbard, T., Barker, D., Birney, E. et al.  (2002).  The Ensembl genome database project.  Nucleic\nAcids Res 30, 38–41.\n Huson, D. H., Reinert, K., Kravitz, S. A. et al.  (2001).  Design of a compartmentalized shotgun\nassembler for the human genome.  Bioinformatics 17 Suppl 1, S132–139.\n Huynen, M. A. and Bork, P. (1998).  Measuring genome evolution.  Proc Natl Acad Sci U S A\n95, 5849–5856.\n Ideker, T., Galitski, T. and Hood, L. (2001)."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "B., Ching, K. A., Batalov, S. et al.  (2001).  A comparison of the Celera and\nEnsembl predicted gene sets reveals little overlap in novel genes.  Cell 106, 413–415.\n Hubbard, T., Barker, D., Birney, E. et al.  (2002).  The Ensembl genome database project.  Nucleic\nAcids Res 30, 38–41.\n Huson, D. H., Reinert, K., Kravitz, S. A. et al.  (2001).  Design of a compartmentalized shotgun\nassembler for the human genome.  Bioinformatics 17 Suppl 1, S132–139.\n Huynen, M. A. and Bork, P. (1998).  Measuring genome evolution.  Proc Natl Acad Sci U S A\n95, 5849–5856.\n Ideker, T., Galitski, T. and Hood, L. (2001)."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "B., Ching, K. A., Batalov, S. et al.  (2001).  A comparison of the Celera and\nEnsembl predicted gene sets reveals little overlap in novel genes.  Cell 106, 413–415.\n Hubbard, T., Barker, D., Birney, E. et al.  (2002).  The Ensembl genome database project.  Nucleic\nAcids Res 30, 38–41.\n Huson, D. H., Reinert, K., Kravitz, S. A. et al.  (2001).  Design of a compartmentalized shotgun\nassembler for the human genome.  Bioinformatics 17 Suppl 1, S132–139.\n Huynen, M. A. and Bork, P. (1998).  Measuring genome evolution.  Proc Natl Acad Sci U S A\n95, 5849–5856.\n Ideker, T., Galitski, T. and Hood, L. (2001)."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "B., Ching, K. A., Batalov, S. et al.  (2001).  A comparison of the Celera and\nEnsembl predicted gene sets reveals little overlap in novel genes.  Cell 106, 413–415.\n Hubbard, T., Barker, D., Birney, E. et al.  (2002).  The Ensembl genome database project.  Nucleic\nAcids Res 30, 38–41.\n Huson, D. H., Reinert, K., Kravitz, S. A. et al.  (2001).  Design of a compartmentalized shotgun\nassembler for the human genome.  Bioinformatics 17 Suppl 1, S132–139.\n Huynen, M. A. and Bork, P. (1998).  Measuring genome evolution.  Proc Natl Acad Sci U S A\n95, 5849–5856.\n Ideker, T., Galitski, T. and Hood, L. (2001)."
+            },
+            {
+                "document_id": "1a93e25f-2a43-49e9-8450-03a57c93e613",
+                "section_type": "main",
+                "text": "Annotation, preprocessing and categorization of data\n\nWe used Ensembl (version 39) as the annotation reference database.Homology between human and mouse genes was derived via BioMart.The total number of genes under study comprises 15,277 Ensembl mouse genes representing the union of the homologue genes from all data sources.An overview about the T2DM specific datasets is given in Table 1."
+            },
+            {
+                "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                "section_type": "main",
+                "text": "\n\nInformation about genes, including gene names, chromosomal coordinates, biotype (coding or non-coding), and number of splice variants, can also be retrieved from Ensembl."
+            },
+            {
+                "document_id": "046184a9-f062-4da2-9900-641aab9468e1",
+                "section_type": "main",
+                "text": "Electronic-Database Information\n\nURLs for data presented herein are as follows: Center for Medical Genetics, http://research.marshfieldclinic.org/genetics/Ensembl Genome Browser, http://www.ensembl.org/Harvard Partners Genome Center, http://www.hpcgg.org/Sequence/human.htmlOnline Mendelian Inheritance in Man (OMIM), http://www .ncbi.nlm.nih.gov/Omim/(forcandidate genes related to the chromosome 12 region of interest) Unified Database for Human Genome Mapping, The, http:// genecards.weizmann.ac.il/udb/"
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/).\n Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining).\n Domain (protein) A region of special biological interest within a single protein\nsequence."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/).\n Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining).\n Domain (protein) A region of special biological interest within a single protein\nsequence."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/).\n Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining).\n Domain (protein) A region of special biological interest within a single protein\nsequence."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "Ensembl provides a DAS reference\nserver giving access to a wide range of specialist annotations of the human\ngenome (for more detail, see http://www.ensembl.org/das/).\n Data mining The ability to query very large databases in order to satisfy a\nhypothesis (‘top-down’ data mining), or to interrogate a database in order to\ngenerate new hypotheses based on rigorous statistical correlations (‘bottom-up’\ndata mining).\n Domain (protein) A region of special biological interest within a single protein\nsequence."
+            },
+            {
+                "document_id": "f2f55df4-7e90-4600-90a4-fa30a4c91c5f",
+                "section_type": "main",
+                "text": "\n\n*The number of Ensembl genes per megabases.Genome Biology 2003, 4:R74"
+            },
+            {
+                "document_id": "82fcaf77-adf7-47f4-8ebd-6b7a9df8d73e",
+                "section_type": "main",
+                "text": "\n\nURLs.Ensembl: http://www.ensembl.org;British 1958 Birth Cohort: http:// www.b58cgene.sgul.ac.uk/;T1DBase: http://t1dbase.org(and UK mirror site, http://dil.t1dbase.org);Stata: http://www.stata.com/;R: http://www.r-project.org/; rpart: http://cran.r-project.org/;D. Clayton's software: http://www-gene.cimr.cam.ac.uk/clayton/software/;Haploview: http://www.broad.mit.edu/mpg/haploview/; gbrowse: http://www.gmod.org/;T1DBase PosterPages: https:// dil.t1dbase.org/page/PosterAdhocAccession codes.All genes are referred to by their HUGO symbol, except for Tenr on 4q27 (Entrez GeneID 132612, alias FLJ32741) and DEXI on 16p13 (Entrez GeneID 28955, alias MYLE)."
+            },
+            {
+                "document_id": "e2a02184-d59a-4884-b67e-67209b9b9ae2",
+                "section_type": "main",
+                "text": "\n\n. ENIGMA Consortium, http://enigma.loni.ucla.edu;eqtl.uchicago.edu,http://eqtl.uchicago.edu/cgi-bin/gbrowse/eqtl/;SNAP, http://www.broadinstitute.org/mpg/snap/;GeneCruiser, http:// genecruiser.broadinstitute.org/genecruiser3/. : Supplementary information is available on the Nature Genetics website.Research was funded by the US National Institute on Aging (NIA; N01-AG-12100), with contributions from the National Eye Institute (NEI), the National Institute on Deafness and Other Communication Disorders (NIDCD), the US National Heart, Lung, and Blood Institute (NHLBI), the NIA Intramural Research Program, Hjartavernd (the Icelandic Heart Association) and the Althingi (the Icelandic Parliament)."
+            },
+            {
+                "document_id": "a4e9db98-b007-49f5-bcbd-ce0f78cbff1f",
+                "section_type": "main",
+                "text": "Thierry-Mieg D, Thierry-Mieg J: AceView: a comprehensive cDNAsupported gene and transcripts annotation.  Genome Biol 2006,\n7(Suppl 1):S12.\n 28.  Kuhn RM, Karolchik D, Zweig AS, Wang T, Smith KE, Rosenbloom KR, Rhead\nB, Raney BJ, Pohl A, Pheasant M, et al: The UCSC genome browser\ndatabase: update 2009.  Nucleic Acids Res 2009, 37(suppl 1):D755–D761.\n 29.  The EPC: A User’s guide to the encyclopedia of DNA elements (ENCODE).\n PLoS Biol 2011, 9(4):e1001046.\n 30.  Frazer KA, Pachter L, Poliakov A, Rubin EM, Dubchak I: VISTA:\ncomputational tools for comparative genomics.  Nucleic Acids Res 2004,\n32(suppl 2):W273–W279.\n 31."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "The Ensembl and UCSC sites now display at least 16 vertebrate genome\nassemblies; these can either be viewed directly or aligned against the human genome.\n Cross-species data can be assessed at several levels.  Comparison of DNA similarity between (vertebrate) genomes is termed ‘phylogenetic footprinting’ (Susens and\nBorgmeyer, 2001; see Chapter 6 for a detailed review of this approach)."
+            }
+        ],
+        "document_id": "FB39925222D82C39F4BBAA833135ACA5",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "Ensembl",
+            "EBI",
+            "Wellcome&Trust&Sanger&Institute",
+            "genome",
+            "computational&analyses",
+            "T1Dbase",
+            "SNPs",
+            "Biomart",
+            "NCBI",
+            "GENSCAN"
+        ],
+        "metadata": [
+            {
+                "object": "1443823_s_at: short probe set - potential SNPs could affect mapping result; 1427465_at: 3 SNPs in target area affect the hybridization of 5 probes; 1434893_at: 6 SNPs in target area could affect the hybridization of 7 probes; 1455136_at generate true cisQTL even 3 SNPs in target area affect mapping accuracy of 4 probes - BUT probes without any SNPs reveal the presence of an eQTL.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab43"
+            },
+            {
+                "object": "We discovered two genome-wide significant SNPs. The first was novel and near ISG20. The second was in TRIOBP, a gene previously associated with prelingual nonsyndromic hearing loss. Motivated by our TRIOBP results, we also looked at exons in known hearing loss genes, and identified two additional SNPs, rs2877561 in ILDR1 and rs9493672 in EYA4 at a significance threshold adjusted for number of SNPs in those regions.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1003104"
+            },
+            {
+                "object": "We here reviewed published data on single nucleotide polymorphisms SNPs in HIF1A in various diseases; in total, 34 SNPs were tested for an association with 49 phenotypes, and the results were visualized using the Cytoscape software. Among all collected polymorphisms 16 SNPs showed significant associations with 40 different phenotypes, including six SNPs associated with 14 cancer types",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1006971"
+            },
+            {
+                "object": "Genome-wide association analyses in 22,981 participants 2280 shingles cases from the electronic Medical Records and Genomics Network identified a genomic region in the combined and European ancestry groups that has an age of onset effect reaching genome-wide significance region tags the non-coding gene HCP5 HLA Complex P5.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab319975"
+            },
+            {
+                "object": "We identified 89 single nucleotide polymorphisms SNPs and 11 DNA insertion-deletions InDels, of which 70 SNPs and 8 InDels were found in rhg1, 9 SNPs were found in Rhg4, and 10 SNPs and 3 InDels were found in SHMT.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1007215"
+            },
+            {
+                "object": "PNPLA3 is associated with liver enzymes in populations of Mexican American ancestry. In the PNPLA3 gene, single-nucleotide polymorphisms SNPs rs4823173 rs2896019 and rs2281135 were significantly associated with aspartate aminotransferase Although not genome-wide significant, the same SNPs were the top hits for alanine aminotransferase. The strong correlation for these SNPs indicated a single hit in the PNPLA3 gene.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab602807"
+            },
+            {
+                "object": "TH2B is a unique histone variant that plays a key role in the histone-to-protamine packing of the male genome and guides genome-wide chromatin transitions that both precede and follow transmission of the male genome to the egg.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab771863"
+            },
+            {
+                "object": "variation in GGTA1 of 8 commercial pig populations; 17 SNPs were detected: 11 in intronic regions & 6 in the 3' untranslated region; no SNPs change the encoded protein; but 8 of the SNPs may alter GGTA1 transcriptional regulation & pre-mRNA splicing",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab992182"
+            },
+            {
+                "object": "Study surveyed the non-synonymous SNPs of DNASE1L2: 19 SNPs originating from frameshift/nonsense mutations found in DNASE1L2 resulted in loss of function of the enzyme. Thus, the present findings suggest that each of the minor alleles for these SNPs may serve as one of genetic risk factors for parakeratotic skin diseases such as psoriasis, even though they lack a worldwide genetic distribution.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab752673"
+            },
+            {
+                "object": "Our results show the significance of ABCB1 SNPs on GO response in AML and warrants the need to investigate this in other cohorts. Once validated, ABCB1-SNPs in conjunction with CD33-SNPs can open up opportunities to personalize GO-therapy.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab562151"
+            }
+        ],
+        "question": "what is ensembl?",
+        "subquestions": null,
+        "task_id": "FB39925222D82C39F4BBAA833135ACA5",
+        "usage": {
+            "chatgpt": 5858,
+            "gpt-4": 3829,
+            "gpt-4-turbo-preview": 2871
+        },
+        "user_id": 2
+    },
+    "document_id": "FB39925222D82C39F4BBAA833135ACA5",
+    "task_id": "FB39925222D82C39F4BBAA833135ACA5"
+}

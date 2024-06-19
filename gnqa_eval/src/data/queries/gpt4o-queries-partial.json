@@ -1,0 +1,97 @@
+[
+    {
+        "level":"citizenscientist",
+        "domain": "aging",
+        "query": [
+            "What recent discoveries have been made about the genetics of aging?",
+            "How do epigenetic changes affect aging?",
+            "What is the role of the gene FOXO3 in longevity?",
+            "How does the environment interact with genes to influence aging?",
+            "What are senescent cells and how do they contribute to aging?",
+            "Are there any known lifestyle interventions that can positively impact genes related to aging?",
+            "What is the 'epigenetic clock,' and how is it used in aging research?",
+            "How do researchers use model organisms like yeast or worms to study human aging?",
+            "Are there any promising anti-aging therapies being developed based on genetic research?",
+            "How do caloric restriction and diet impact the genetics of aging?"
+        ]
+    },
+    {
+        "level":"domainexpert",
+        "domain":"aging",
+        "query": [
+            "How do recent single-cell transcriptomics studies enhance our understanding of cellular heterogeneity in aging tissues?",
+            "What are the latest findings on the role of senescence-associated secretory phenotype (SASP) factors in age-related tissue dysfunction?",
+            "How do age-related changes in chromatin architecture contribute to the decline in cellular function?",
+            "What insights have been gained from studying the epigenetic reprogramming of aged cells to a more youthful state?",
+            "How do alterations in the mitochondrial genome and bioenergetics influence the aging process in humans?",
+            "What are the therapeutic potentials and challenges of targeting the insulin/IGF-1 signaling pathway for extending healthspan and lifespan?",
+            "How can the integration of proteomics and metabolomics data shed light on age-associated metabolic shifts?",
+            "What role do long non-coding RNAs (lncRNAs) play in the regulation of aging and age-related diseases?",
+            "How do recent advancements in CRISPR/Cas9 technology open new avenues for studying and potentially reversing aging?",
+            "What is the significance of the DNA damage response (DDR) in the context of both replicative and chronological aging?",
+            "How do age-dependent changes in the immune system, such as immunosenescence, contribute to increased susceptibility to diseases?",
+            "How do advancements in machine learning and artificial intelligence aid in the identification of biomarkers for biological aging?",
+            "What recent discoveries have been made regarding the impact of systemic factors, such as circulating microvesicles, on aging phenotypes?",
+            "How do changes in the gut microbiome composition correlate with aging and longevity?",
+            "What are the key molecular mechanisms through which caloric restriction exerts its lifespan-extending effects across different species?",
+            "How do oxidative stress and the subsequent accumulation of damaged macromolecules contribute to cellular aging?",
+            "How are extracellular matrix remodeling and tissue stiffness implicated in the aging process?",
+            "How do recent developments in autophagy research contribute to our understanding of its role in aging and longevity?",
+            "What are the implications of age-related shifts in stem cell niche composition and function for tissue regeneration capacity?",
+            "How do cross-links and advanced glycation end-products (AGEs) accumulation affect the structural integrity and function of aging tissues?"
+        ]
+    },
+    {
+        "level": "domainexpert",
+        "domain": "gn",
+        "query": [
+            "How do recent advancements in network-based integrative genomics alter our understanding of complex trait architectures?",
+            "What are the latest methodological improvements in evaluating gene-environment interactions using GeneNetwork.org?",
+            "How do multi-omics data integration techniques enhance the prediction accuracy of phenotypic traits in GeneNetwork datasets?",
+            "What are the computational challenges and solutions in analyzing large-scale transcriptomic data within GeneNetwork.org?",
+            "How has the inclusion of data from diverse populations impacted the generalizability of findings on GeneNetwork.org?",
+            "What novel insights have been obtained from GeneNetwork.org regarding the genetic basis of psychiatric disorders?",
+            "How do advancements in machine learning algorithms contribute to the deconvolution of gene expression data in complex tissues?",
+            "What role do enhancer-promoter interactions play in the regulation of gene networks uncovered through GeneNetwork.org?",
+            "How can the integration of ATAC-seq data with RNA-seq data on GeneNetwork.org inform about chromatin accessibility and gene regulation?",
+            "What are the latest strategies for inferring causal relationships within gene networks using data from GeneNetwork.org?",
+            "How do advancements in single-nucleus RNA sequencing provide more granular insights into cell-type-specific gene expression networks?",
+            "What impact have recent discoveries in non-coding RNA regulation had on refining gene interaction maps on GeneNetwork.org?",
+            "How are spatial transcriptomics approaches being integrated into GeneNetwork.org to enhance understanding of tissue architecture and function?",
+            "How do recent developments in quantitative trait locus (QTL) mapping refine our understanding of gene regulatory variants?",
+            "What are the implications of incorporating epigenomic data, such as histone modification maps, into the gene networks on GeneNetwork.org?",
+            "How do recent findings on 3D genome organization contribute to our understanding of functional genomic networks?",
+            "What are the potential applications of artificial intelligence in improving the annotation and interpretation of gene networks?",
+            "How has the study of genetic pleiotropy been advanced by data available on GeneNetwork.org?",
+            "What novel genetic pathways have been identified in GeneNetwork.org studies related to aging and lifespan?",
+            "How do polygenic risk scores (PRS) developed using GeneNetwork.org data enhance the prediction and prevention of complex diseases?"
+        ]
+    },
+    {
+        "level": "citizenscientist",
+        "domain": "gn",
+        "query": [
+            "What is GeneNetwork.org, and how does it help scientists understand genetics?",
+            "How do researchers use GeneNetwork.org to study diseases?",
+            "What can GeneNetwork.org tell us about how genes interact with each other?",
+            "How does GeneNetwork.org help in finding the genetic causes of common diseases?",
+            "Can GeneNetwork.org predict my risk of developing certain health conditions based on my genes?",
+            "How does GeneNetwork.org make use of data from different populations around the world?",
+            "What kinds of genetic data are available on GeneNetwork.org?",
+            "How do scientists use GeneNetwork.org to study differences in gene expression?",
+            "Can GeneNetwork.org be used to learn about genetic influences on behavior?",
+            "What role does GeneNetwork.org play in personalized medicine?",
+            "How does the information on GeneNetwork.org help in developing new treatments for diseases?",
+            "What is a gene network, and why is it important for understanding genetics?",
+            "How do researchers identify which genes are important for certain traits using GeneNetwork.org?",
+            "How can GeneNetwork.org help in understanding complex traits like height or intelligence?",
+            "Are there any known genetic mutations that cause premature aging?",
+            "What are the practical applications of the research done through GeneNetwork.org?",
+            "How can I access and use the data available on GeneNetwork.org?",
+            "What are some recent discoveries made using GeneNetwork.org?",
+            "How do scientists ensure the accuracy of the data on GeneNetwork.org?",
+            "What’s the difference between looking at one gene and studying a whole gene network?",
+            "How can GeneNetwork.org contribute to advancements in genetic engineering?"
+        ]
+    }
+]

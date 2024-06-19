@@ -1,0 +1,134 @@
+{
+    "created_at": "2024-04-02T12:30:28.749434Z",
+    "data": {
+        "amplify": false,
+        "answer": "Gene-by-drug effects (GxD) can modulate life expectancies and health by influencing how individuals respond to medications. Genetic variations can affect how drugs are absorbed, disseminated, metabolized, and excreted in the body, which can lead to differences in drug efficacy and the occurrence of adverse drug reactions. For example, a genetic variant in the HMG-CoA reductase gene can modify the LDL-C response to pravastatin. Additionally, certain genes are involved in DNA damage repair and oxidative stress, which can influence susceptibility to adverse drug effects. Therefore, understanding these genetic variations can help in personalizing treatment and potentially improving health outcomes.",
+        "context": {
+            "0bc591e0-bd1c-4c15-9e1e-3aa4499ad270": [
+                {
+                    "document_id": "0bc591e0-bd1c-4c15-9e1e-3aa4499ad270",
+                    "text": "\n\nA supervised (pathway driven) approach was used to specifically query three general gene ontology (GO) areas of interest, namely xenobiotic metabolism, DNA damage repair, and oxidative stress-related genes (Table 1).These gene categories are hypothesized to play important roles in sex-and age-related susceptibility to adverse drug effects [18,30].Of the 122 genes included in the xenobiotic metabolism gene list in the Ingenuity Knowledge Base, 61 were differentially expressed.These included Cyp2d4, the rat ortholog of human gene CYP2D6, which is speculated to metabolize up to 25% of commonly prescribed drugs [31].Genes involved in DNA Damage Repair, derived from Ingenuity, were combined with the list by Wood et al. [32] to give 222 genes involved in DNA damage repair.Sixty-five of these genes (approximately 25%) were found to be differentially expressed in the liver.Oxidative Stress genes were defined by 68 genes included in \"response to oxidative stress\" (IPA) of which 23 genes were differentially expressed (Table 1)."
+                }
+            ],
+            "17cd95a4-6e8e-4696-8881-ea43fa80ccce": [
+                {
+                    "document_id": "17cd95a4-6e8e-4696-8881-ea43fa80ccce",
+                    "text": "\n\nPharmacogenomics has advanced the field of drug-response assessment.For example, the first experiences with guiding vitamin K antagonist therapy with the aid of CYP2C9 (cytochrome P450, family 2, subfamily C, polypeptide 9) or VKORC1 (vitamin K epox- ide reductase complex, subunit 1) polymorphisms (93 ), and the use of cytochrome P450 polymorphisms for assessing clopidogrel response have entered US Food and Drug Administration recommendations (94 ).Disease prevention lags behind.Gene chips and modern sequencing approaches that allow largescale interrogation of the genome at the population level will generate novel hypotheses of disease causation.Furthermore, with the continuing drop in the costs of whole-genome sequencing, the practicing physician may soon be faced with having to comment on the disease risks of a patient's Ͼ4 ϫ 10 6 sequence variants before any clinical signs occur, a task that no certified genetic counselor could fulfill at present.With advent of GWASs, ethical and practical concerns of reporting genetic research results have become apparent.Initial efforts at defining rules of reporting large-scale association results and assessing the level of evidence also apply to nextgeneration large-scale genomics (95,96 ).Reports have suggested that on the consumer side, genomewide genetic profiling of employees of health and technology companies does not change anxiety symptoms, dietary fat intake, or exercise behavior (i.e., lifestyle factors) over a 6-month period (97 ); however, the association of genetic variation with risk and the dissection of objective markers of risk and risk factors that reside in the causal pathways of disease will need careful assessment before these approaches can enter clinical decision making (98 ).A data set containing 80 genes associated with coronary heart disease in GWASs was uploaded and overlaid onto the molecular networks developed from information contained in the Ingenuity Knowledge Base.Networks of Network Eligible Molecules were then algorithmically generated on the basis of their connectivity.The most substantially enriched network, as shown, comprises 36 genes, of which 20 are coronary heart disease genes."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "19.3.1 An environmental or pharmacogenetic basis for drug\nefficacy and ADR? Before getting into the complexities of PGx, it is important to recognize that many\nnon-genetic factors also influence the efficacy of medications, including the patient’s\nage, sex and general health, but also environmental factors, such as concomitant therapies, drug interactions and diet. To give a seemingly innocuous example, grapefruit\njuice is an inhibitor of intestinal cytochrome P-450 3A4, which is responsible for the\nfirst-pass metabolism of many medications."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Finally, it is possible that other\nmolecules (or drugs) might modulate the biological context within which the drug–\ntarget interaction takes place. Variation in any of the elements that control these\ntypes of processes can lead to variability in drug action, which might well confound the search for causative genes among the usual ADME and target-related\ncandidates. 19.3 PHARMACOGENETICS (PGx)\n\n519\n\n19.3.5 Using bioinformatics to gain understanding of adverse\ndrug reaction (ADR)\nOne of the biggest concerns during the development of any medication is the possibility of unintended consequences in the patient."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "19.3 Pharmacogenetics (PGx)\nIt is well known that after exposure to a drug, almost any given cohort of patients show\na wide variety of responses. In an ideal situation, patients show a beneficial response\nto the therapy, although they may also show no response or a weak response, and\nperhaps most worryingly, they may experience an adverse drug reaction (ADR),\nwhich in extreme situations could lead to serious illness or even death. ADR is an\nincreasingly serious problem with a huge toll in lives and health-care costs every year."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "A good understanding of disease biology and effective chemistry is not the\nonly requirement for an efficacious drug; we also must understand how variation\nat the target affects drug action, and how variation in other genes affects the way\ndrugs are absorbed, disseminated, metabolized and excreted. Genetic analysis in the\ndrug development paradigm also faces some unique challenges; for example, the\nexquisite rarity of some adverse reactions makes collection of sufficient samples for\nwell-powered genetic analysis almost impossible."
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "19.3.1 An environmental or pharmacogenetic basis for drug\nefficacy and ADR? Before getting into the complexities of PGx, it is important to recognize that many\nnon-genetic factors also influence the efficacy of medications, including the patient’s\nage, sex and general health, but also environmental factors, such as concomitant therapies, drug interactions and diet. To give a seemingly innocuous example, grapefruit\njuice is an inhibitor of intestinal cytochrome P-450 3A4, which is responsible for the\nfirst-pass metabolism of many medications."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Finally, it is possible that other\nmolecules (or drugs) might modulate the biological context within which the drug–\ntarget interaction takes place. Variation in any of the elements that control these\ntypes of processes can lead to variability in drug action, which might well confound the search for causative genes among the usual ADME and target-related\ncandidates. 19.3 PHARMACOGENETICS (PGx)\n\n519\n\n19.3.5 Using bioinformatics to gain understanding of adverse\ndrug reaction (ADR)\nOne of the biggest concerns during the development of any medication is the possibility of unintended consequences in the patient."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "19.3 Pharmacogenetics (PGx)\nIt is well known that after exposure to a drug, almost any given cohort of patients show\na wide variety of responses. In an ideal situation, patients show a beneficial response\nto the therapy, although they may also show no response or a weak response, and\nperhaps most worryingly, they may experience an adverse drug reaction (ADR),\nwhich in extreme situations could lead to serious illness or even death. ADR is an\nincreasingly serious problem with a huge toll in lives and health-care costs every year."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "A good understanding of disease biology and effective chemistry is not the\nonly requirement for an efficacious drug; we also must understand how variation\nat the target affects drug action, and how variation in other genes affects the way\ndrugs are absorbed, disseminated, metabolized and excreted. Genetic analysis in the\ndrug development paradigm also faces some unique challenges; for example, the\nexquisite rarity of some adverse reactions makes collection of sufficient samples for\nwell-powered genetic analysis almost impossible."
+                }
+            ],
+            "cea13566-9d52-4423-9280-d46da486dd7f": [
+                {
+                    "document_id": "cea13566-9d52-4423-9280-d46da486dd7f",
+                    "text": "Drug-Gene Interactions Predicting Efficacy\n\nIn 1 candidate gene study, a genetic variant in the HMG-CoA reductase gene, present in 6.7% of patients, modified the LDL-C response to pravastatin by 6.4 mg/dL. 244][247] However, these effect sizes are small and difficult to distinguish from random variation in individual patients.Indeed, the metformin finding is less important for its potential clinical applications than for the biological insight provided by this link between glucose control and a gene involved in the response to DNA damage. 245,246"
+                }
+            ],
+            "d2bbd79c-672b-4c18-8b37-717b9be32877": [
+                {
+                    "document_id": "d2bbd79c-672b-4c18-8b37-717b9be32877",
+                    "text": "Nutrition and metabolism\n\nThe power of these new experimental protocols, comparing gene expression profiles to understand spontaneous differences in phenotype due to disease, was extended by inducing phenotypic differences using creative molecular intervention.The first experiments to manipulate phenotype in this way used drugs.A comparison of the gene expression of a drug-induced phenotype with that of the normal phenotype was brilliantly executed in a single study that simultaneously identified a mechanism for the regulation of sterol uptake in the intestine and a genetic disease, sitosterolemia [17  • ], mice were treated with a lipid-metabolism altering compound and the expression profiles of various tissues compared with normal mice using gene arrays.Differentially expressed genes were evaluated 'in silico,' and an unknown gene was found using bioinformatic tools to be homologous to the ATP-binding cassette (ABC) family of genes.Members of the ABC family include cellular cholesterol transport proteins.Defects in a member of this family (ABCA1) form the basis for the poor cholesterol delivery to high-density lipoprotein (HDL) that underlies Tangiers disease [18], another cholesterol-related disease [19].Through the use of a variety of in silico techniques, Berge et al. [17 •• ] concluded that the proteins produced from the newly discovered genes, ABCG5 and ABCG8, were responsible for the regulated reverse transport of newly absorbed cholesterol and phytosterols out of the apical surface of intestinal cells.Using public gene databases, a human homolog of the putative mouse transporter was identified, cloned and used to screen sitosterolemic humans.Dysfunctional mutations were found in these genes in all individuals suffering from sitosterolemia.Thus, individuals suffering from sitosterolemia lack the machinery responsible for the selective and controlled transport of cholesterol, and therefore hyperabsorb various sterols (including plant sterols).This study illustrated many of the strengths of genomic experimentation: the identification of phenotypically important genes using global differential gene expression analysis; querying internet databases to deduce structure/function relationships from sequence comparison; and the characterization of individual variation (polymorphism) linked to health.These findings have transformed our understanding of lipid absorption and metabolism, begging the question: how long would this knowledge have waited to be discovered without genomics?"
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "19.3.1 An environmental or pharmacogenetic basis for drug\nefficacy and ADR? Before getting into the complexities of PGx, it is important to recognize that many\nnon-genetic factors also influence the efficacy of medications, including the patient’s\nage, sex and general health, but also environmental factors, such as concomitant therapies, drug interactions and diet. To give a seemingly innocuous example, grapefruit\njuice is an inhibitor of intestinal cytochrome P-450 3A4, which is responsible for the\nfirst-pass metabolism of many medications."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Finally, it is possible that other\nmolecules (or drugs) might modulate the biological context within which the drug–\ntarget interaction takes place. Variation in any of the elements that control these\ntypes of processes can lead to variability in drug action, which might well confound the search for causative genes among the usual ADME and target-related\ncandidates. 19.3 PHARMACOGENETICS (PGx)\n\n519\n\n19.3.5 Using bioinformatics to gain understanding of adverse\ndrug reaction (ADR)\nOne of the biggest concerns during the development of any medication is the possibility of unintended consequences in the patient."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "19.3 Pharmacogenetics (PGx)\nIt is well known that after exposure to a drug, almost any given cohort of patients show\na wide variety of responses. In an ideal situation, patients show a beneficial response\nto the therapy, although they may also show no response or a weak response, and\nperhaps most worryingly, they may experience an adverse drug reaction (ADR),\nwhich in extreme situations could lead to serious illness or even death. ADR is an\nincreasingly serious problem with a huge toll in lives and health-care costs every year."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "A good understanding of disease biology and effective chemistry is not the\nonly requirement for an efficacious drug; we also must understand how variation\nat the target affects drug action, and how variation in other genes affects the way\ndrugs are absorbed, disseminated, metabolized and excreted. Genetic analysis in the\ndrug development paradigm also faces some unique challenges; for example, the\nexquisite rarity of some adverse reactions makes collection of sufficient samples for\nwell-powered genetic analysis almost impossible."
+                }
+            ],
+            "fca531d0-d45b-495f-a02c-fbd437617b20": [
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "19.3.1 An environmental or pharmacogenetic basis for drug\nefficacy and ADR? Before getting into the complexities of PGx, it is important to recognize that many\nnon-genetic factors also influence the efficacy of medications, including the patient’s\nage, sex and general health, but also environmental factors, such as concomitant therapies, drug interactions and diet. To give a seemingly innocuous example, grapefruit\njuice is an inhibitor of intestinal cytochrome P-450 3A4, which is responsible for the\nfirst-pass metabolism of many medications."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Finally, it is possible that other\nmolecules (or drugs) might modulate the biological context within which the drug–\ntarget interaction takes place. Variation in any of the elements that control these\ntypes of processes can lead to variability in drug action, which might well confound the search for causative genes among the usual ADME and target-related\ncandidates. 19.3 PHARMACOGENETICS (PGx)\n\n519\n\n19.3.5 Using bioinformatics to gain understanding of adverse\ndrug reaction (ADR)\nOne of the biggest concerns during the development of any medication is the possibility of unintended consequences in the patient."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "19.3 Pharmacogenetics (PGx)\nIt is well known that after exposure to a drug, almost any given cohort of patients show\na wide variety of responses. In an ideal situation, patients show a beneficial response\nto the therapy, although they may also show no response or a weak response, and\nperhaps most worryingly, they may experience an adverse drug reaction (ADR),\nwhich in extreme situations could lead to serious illness or even death. ADR is an\nincreasingly serious problem with a huge toll in lives and health-care costs every year."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "A good understanding of disease biology and effective chemistry is not the\nonly requirement for an efficacious drug; we also must understand how variation\nat the target affects drug action, and how variation in other genes affects the way\ndrugs are absorbed, disseminated, metabolized and excreted. Genetic analysis in the\ndrug development paradigm also faces some unique challenges; for example, the\nexquisite rarity of some adverse reactions makes collection of sufficient samples for\nwell-powered genetic analysis almost impossible."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "56BFA4C5360F4028B70961B34F0F40D0",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "pharmacogenetics&PGx",
+            "gene-by-drug&effects&GxD",
+            "life&expectancies",
+            "health",
+            "adverse&drug&reaction&ADR",
+            "cytochrome&P-450&3A4",
+            "HMG-CoA&reductase&gene",
+            "LDL-C",
+            "metformin",
+            "CYP2C9"
+        ],
+        "metadata": [],
+        "question": "How do gene-by-drug effects (GxD) modulate life expectancies\nand health?",
+        "subquestions": null,
+        "task_id": "56BFA4C5360F4028B70961B34F0F40D0",
+        "usage": {
+            "chatgpt": 6822,
+            "gpt-4": 4211,
+            "gpt-4-turbo-preview": 3234
+        },
+        "user_id": 2
+    },
+    "document_id": "56BFA4C5360F4028B70961B34F0F40D0",
+    "task_id": "56BFA4C5360F4028B70961B34F0F40D0"
+}

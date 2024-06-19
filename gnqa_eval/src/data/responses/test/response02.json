@@ -1,0 +1,205 @@
+{
+    "created_at": "2024-03-25T11:43:39.700633Z",
+    "data": {
+        "amplify": false,
+        "answer": "Mouse studies popular in genenetwork often focus on ailments such as diabetes, glaucoma, obesity-associated diabetes, and metabolic diseases. These studies utilize genetically modified mouse models, inbred mouse models, and polygenic models. They also use specific strains like DBA/2J, Goto-Kakizaki (GK) rat, and KK mice.",
+        "context": {
+            "08a6ce71-133e-426d-adfe-600ff52802a2": [
+                {
+                    "document_id": "08a6ce71-133e-426d-adfe-600ff52802a2",
+                    "text": "A major\nadvantage of the mouse as an animal model is the availability of\nwell-characterized inbred strains that enable functional genomics\non defined genetic backgrounds. Currently, however, exploiting\nthe full utility of mice to study human diseases is hampered by the\nlack of gene targeting resources for multiple inbred mouse strains. DBA/2J is a common inbred mouse strain critical in studying a\ndiverse range of human diseases. For example, it is widely used as\nan inherited model of glaucoma. Glaucoma is a neurodegenerative\ndisorder that affects 70 million people worldwide."
+                }
+            ],
+            "14a9de52-cff1-4397-bb2c-8c2e34bb05bf": [
+                {
+                    "document_id": "14a9de52-cff1-4397-bb2c-8c2e34bb05bf",
+                    "text": "The\nnetwork is driven by a common regulator,\nEbi2 (also known as Gpr183), which is conserved in rats and humans, is expressed in\nmacrophages and is associated in GWASs\nwith human type 1 diabetes48. Such systemsgenetics studies are possible in rats because\nof the ready availability of ex vivo tissues and\nthe statistical power gained from studies of\ninbred strains in controlled environments. Overall, these vignettes provide clear\nexamples of the translational focus of the\nrat genetics community in an era of unprecedented scientific opportunity enabled\nby ultra-high-throughput genomics and\nmathematical biology."
+                }
+            ],
+            "1bf337a1-ffed-4199-a11f-c5a62df47980": [
+                {
+                    "document_id": "1bf337a1-ffed-4199-a11f-c5a62df47980",
+                    "text": "\n\nInbred animal models with homogeneous genetic backgrounds have been a powerful adjunct to human studies, providing a sufficiently large number of samples required for an unconstrained genetic analysis.Several polygenic NIDDM rodent models have been developed.These include the Goto-Kakizaki (GK) rat, the Otsuka Long-Evans Tokushima Fatty (OLETF) rat, the Nagoya Shibata Yasuda mouse, the New Zealand Obese mouse (reviewed in Kim et al., 1998), and the Tsumura-Suzuki Obese Diabetes mouse (Suzuki et al., 1999).The underlying genetic factors in these animal models have been studied by quantitative trait locus (QTL) mapping analysis, and several QTLs associated with glucose intolerance, defective insulin secretion, or parameters defining glucose homeostasis have been located (reviewed in Kim et al., 1998;Hirayama et al., 1999;Ueda et al., 1999)."
+                }
+            ],
+            "2a7da18e-3756-45c5-b18c-a2231685fefd": [
+                {
+                    "document_id": "2a7da18e-3756-45c5-b18c-a2231685fefd",
+                    "text": "In as much\nas it is quite difficult to conduct certain infectious disease studies in humans, there has\nbeen a critical need for small animal models for infectious diseases. Appreciating the\nlimitations of existing models, we developed several novel and complementary mouse\nmodels that are ideal for use in systems genetics studies of complex diseases. These\nmodels not only allow biological validation of known genetic associations, but importantly they afford an unbiased tool for discovering novel genes and pathways contributing to disease outcomes, under different environments. 2008 Genetic effects on environmental vulnerability to disease."
+                }
+            ],
+            "3776e53f-5f7d-4cf4-ab7c-5fe06a1c0570": [
+                {
+                    "document_id": "3776e53f-5f7d-4cf4-ab7c-5fe06a1c0570",
+                    "text": "Generalities\n\nMouse models have been developed to give new insights into human diseases.Mouse models can be classified into two main classes: 1) genetically modified mouse models, animals that lack (knockout) or overexpress a specific gene and the protein that is encoded for, 2) mice that acquire a disease/symptom following an experimental procedure, such as diet, chemical injections and specific surgery."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "However, in other contexts, B6 mice are more likely\nthan D2 to spontaneously develop diabetic syndromes,\nAging Clin Exp Res\n\nindicating that risk factors exist on both genetic backgrounds [29]. QTL mapping studies indicate that these\nmurine metabolic traits have a complex genetic architecture that is not dominated by any single allele [29–31],\nmuch like humans [32, 33]. Prior work identified candidate genes on Chr 13 that might\nunderlie diabetes-related traits, including RASA1, Nnt, and\nPSK1. RASA1 show strong sequence differences between\nB6 and D2 strains [34]. Rasche et al."
+                }
+            ],
+            "4439ac39-e421-482f-9aa9-9ad11fa641c1": [
+                {
+                    "document_id": "4439ac39-e421-482f-9aa9-9ad11fa641c1",
+                    "text": "In\nother cases, the rat phenotypes have proved more\nrobust and consistent, such as pristane-induced\narthritis as a model for rheumatoid arthritis\n(Holmdahl et al. 2001) and cresentic glomerulonephritis (Aitman et al. 2006). Decades of careful\nphenotyping and detailed analyses in rat experimental crosses have led to the localization of hundreds of rat physiological quantitative trait loci\n(pQTLs) containing genes that confer susceptibility\nto complex disease phenotypes, including hypertension, type 2 diabetes, autoimmune disorders, and\ncancer (Flint et al. 2005). The availability of the rat genome sequence in\nJune 2003 (Gibbs et al."
+                }
+            ],
+            "64886b4e-8599-4f61-84e6-9add7663a1b3": [
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": ", et al. , Harnessing Genetic Complexity to Enhance Translatability of Alzheimer's Disease Mouse\nModels: A Path toward Precision Medicine. Neuron, 2019. 101(3): p. 399-411 e5. Beura, L.K. , et al. , Normalizing the environment recapitulates adult human immune traits in laboratory mice. Nature, 2016. 532(7600): p. 512-6. Kleinert, M., et al. , Animal models of obesity and diabetes mellitus. Nat Rev Endocrinol, 2018. 14(3): p. 140-162. Kebede, M.A. and A.D. Attie, Insights into obesity and diabetes at the intersection of mouse and human genetics. Trends Endocrinol Metab, 2014. 25(10): p. 493-501.\nvon Scheidt, M., et al."
+                },
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": "Researchers have access to all the tissue samples in mice, especially those highly relevant in\ndiseases, which is impossible in most human studies because of ethical issues. 8. Mouse models can be used to capture the disease progression stages in longitudinal studies. 9. Mouse genetic populations are able to model the genetic diversity of human populations, and require\nfewer individuals for genetic association analyses. 10. Unlike human genetic studies where data should always be kept highly confidential, data from mouse\nstudies can be made public available to facilitate its re-analysis to the fullest extent."
+                }
+            ],
+            "770beab7-59a4-4bbe-94a5-79a965ab696a": [
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "Knock-out and transgenic mice in diabetes research\n\nTransgenic mice have been used to create specific models of type 1 and type 2 diabetes, including hIAPP mice, humanized mice with aspects of the human immune system and mice allowing conditional ablation of beta cells, as outlined above.Beta cells expressing fluorescent proteins can also provide elegant methods of tracking beta cells for use in diabetes research (Hara et al., 2003)."
+                },
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nPolygenic models of obesity.Polygenic models of obesity may provide a more accurate model of the human condition.A variety of different polygenic mouse models of obesity, glucose intolerance and diabetes exist, allowing a variety of genotypes and susceptibilities to be studied.However, unlike the monogenic models, there are no wild-type controls.In addition, the male sex bias is more extreme in these models (Leiter, 2009).These polygenic models have been used in a wide variety of studies that have aimed to reverse the symptoms of type 2 diabetes (Chen et al., 2009;Fukaya et al., 2009;Guo et al., 2010;Mochizuki et al., 2011;Yoshinari and Igarashi, 2011), understand more about the interplay of obesity and glucose homeostasis (Kluth et al., 2011) (Jurgens et al., 2007) or study diabetic complications (Cheng et al., 2007;Fang et al., 2010;Buck et al., 2011;Lee et al., 2011a).KK mice.KK mice are a mildly obese and hyperleptinaemic strain derived from wild-derived ddY mice in Japan by Kondo in 1957 (Clee and Attie, 2007).They develop severe hyperinsulinaemia and demonstrate insulin resistance in both muscle and adipose tissue.The pancreatic islets are hypertrophic and degranulated.This mouse strain also shows signs of diabetic nephropathy (Ikeda, 1994)."
+                }
+            ],
+            "785df64a-ebbf-4dca-94dd-0ae27f7ac815": [
+                {
+                    "document_id": "785df64a-ebbf-4dca-94dd-0ae27f7ac815",
+                    "text": ", 2008) and specific genetic factors for predisposition to DN were\nrecently identified in several diabetic sibling studies (Bleyer et al. , 2008; Schelling et\nal.,2008; Tanaka et al. , 2005). Similar to humans, inbred strains of mice exhibit differences in their susceptibility to\ndiabetes, renal and cardiovascular diseases (Krolewski et al. , 1996). More recently,\ndifferential susceptibilities to DN have also been observed in well-defined strains of\n\n23"
+                }
+            ],
+            "84b037c5-8e75-434f-aad1-d270257963f6": [
+                {
+                    "document_id": "84b037c5-8e75-434f-aad1-d270257963f6",
+                    "text": "\n\nThe third advantage of the mouse model is that after identification of a candidate gene, direct genetic evidence for its involvement in a pathophysiology can be obtained in mice, but very rarely in humans.Thus, inbred mouse models are ideally suited for the investigation of the obesity-associated diabetes.However, the genetic homogeneity of the inbred strains is not only an advantage, it also limits their potential.Individuals of an inbred mouse line are genetically identical, and it cannot be expected that a single strain carries more than a small portion of all relevant gene variants.Currently, more than 2000 mouse QTL for different traits have been identified in crosses between inbred stains, but only about 1 % has been characterized on molecular level (Flint et al. 2005).Thus, more than one model and new resources, e.g., systems biology may be required for a complete genetic analysis of complex traits.Previous and ongoing research supports the view that the combination of individual genomes-by intercross of inbred strains and by the generation of congenic lineswill reveal effects of many more genes and gene interactions than can be observed in a single inbred strain.Because the cross-breeding experiments are time consuming and expensive, selecting the ''right'' models of the obesity-associated diabetes is of crucial importance (Leiter 2009).Another advantage of mouse studies in comparison to human studies is the ability to control the environment and to investigate effects of diets, exercise, and intestinal microbiota."
+                }
+            ],
+            "8604652e-2477-4552-8f43-f5f19e421df2": [
+                {
+                    "document_id": "8604652e-2477-4552-8f43-f5f19e421df2",
+                    "text": "Introduction\nRodents, particularly mouse and rat have been widely used for biomedical research in models of\nhuman diseases since it is known that almost of all of genes in mouse and rat are similar to that of\nhumans. However, not every genetic pathway or molecular mechanism of diseases or drugs discovered\nto be efficacious in these models can be extrapolated to human diseases. Thus, while much data from\nanimal studies have been successfully applied to humans, some have not. The present study aims to\nexplore the degrees of differences in the causal pathways for lung fibrosis between humans and mice."
+                }
+            ],
+            "90015638-c92d-4506-95b5-b789f08d613a": [
+                {
+                    "document_id": "90015638-c92d-4506-95b5-b789f08d613a",
+                    "text": "\n\nThese limitations support the increasing need of experimental systems to characterize the fundamental biological mechanisms responsible for diabetes inheritance and the function of risk genes.In the context of diabetes pathogenesis, in vitro systems are useful but often limited, in particular to assess glucose tolerance, insulin sensitivity, islet architecture and function and diabetes complications.The laboratory mouse provides a wide range of experimental models for diabetes gene discovery and for in vivo post-GWAS studies of diabetes that develops either spontaneously or following gene editing [5].The laboratory rat is also a powerful system to implement phenotyping methods required to record biological variables relevant to common chronic diseases.The rat is the preferred model to perform phenotyping procedures that are often technically challenging in mice or require the collection of large volumes of blood or organs.For these reasons, rat models of type 2 diabetes or hypertension have been successfully used to localise in the genome genes controlling endophenotypes relevant to these complex diseases.This review addresses strategies used to map the genetic determinants of physiological and molecular phenotypes relevant to type 2 diabetes pathogenesis and to characterize their biological function in vivo through examples derived from genetic and genomic research in the Goto-Kakizaki (GK) rat strain."
+                }
+            ],
+            "ab1a324f-3c9c-4b41-bb1d-5d5ca216a001": [
+                {
+                    "document_id": "ab1a324f-3c9c-4b41-bb1d-5d5ca216a001",
+                    "text": "However, many of the phenotypes of the homozygous null mutations\nwere extreme and/or did not model the complexity of the metabolic syndrome. For example, IR knockout (IR2/2) mice died\nbecause of developmental effects (Accili et al. , 1996), which precluded analysis of adult mice. Likewise, GLUT42/2 mice exhibited only moderate insulin resistance and were not overtly diabetic, suggesting compensatory mechanisms (Katz et al. , 1995). Monogenic GEMMs furthermore ignore the polygenic nature of\nmetabolic diseases, resulting from genetic and environmental\nfactors impacting at multiple levels in signaling cascades. Oligogenic mouse models remedied some of these shortcomings."
+                },
+                {
+                    "document_id": "ab1a324f-3c9c-4b41-bb1d-5d5ca216a001",
+                    "text": "Since glucokinase2/2 mice are embryonic lethal, this collection of glucokinase mutants is useful for dissecting the pathogenesis of MODY2. Genetic reference populations (GRPs)\nPerhaps the most ‘‘refreshing’’ mouse resource for investigating\ncomplex diseases is the construction of mouse crosses using\ninbred mice and the subsequent QTL mapping. Inbred mice\nhave an inherent wealth of variation due to past spontaneous\nmutation events, which have been preserved through systematic and uninterrupted brother-sister matings (Paigen, 2003). Inbred mice are appealing since they are genetically identical\nwithin a strain but are diverse between strains."
+                }
+            ],
+            "ab6a47ba-2131-4fc5-be5e-b81dd80d2a65": [
+                {
+                    "document_id": "ab6a47ba-2131-4fc5-be5e-b81dd80d2a65",
+                    "text": "Mouse Models of Oxidative Stress and Mitochondrial\n\nDysfunction in Aging.Genetically engineered mouse models provide great systems to directly dissect the complex relationship between oxidative damage, mitochondrial dysfunction, and aging.Although it is difficult to manipulate mitochondrial genome, genetic engineering of nuclear genes that are involved in oxidative stress response and mitochondrial function has been utilized to study mitochondrial biology and aging."
+                }
+            ],
+            "dee36885-b2f4-4311-b70a-17e228034820": [
+                {
+                    "document_id": "dee36885-b2f4-4311-b70a-17e228034820",
+                    "text": "Rodent models of glaucoma have gained favor in the research community due to their ease of handling and the lower costs associated with acquisition and care. In particular, the mouse provides a number of useful genetic\napproaches to create models and to test specific molecular interactions associated with the disease process. Furthermore, the mouse genome is relatively\nconserved compared to the human genome."
+                }
+            ],
+            "df542302-18b9-43c2-a421-cba1dba0b3be": [
+                {
+                    "document_id": "df542302-18b9-43c2-a421-cba1dba0b3be",
+                    "text": "Better Mouse Models. A key point to bear in mind in assessing the usefulness of mouse models is the relative plasticity displayed by rodents faced with gene deletions.Thus, differences between the penetrance of mutations in human genes linked to monogenic forms of diabetes, including maturity onset diabetes of the young (MODY), between humans and mice, are usually observed [114] with the mouse equivalents showing far less marked disturbances in glycemia or changes which are seen only after deletion of both alleles.This clearly reflects the limitations of the use of mice (weight ∼25 g, life expectancy ∼3 years) for comparisons with human subjects.Nonetheless, and although the phenotypes of the above murine models are thus often more subtle than the human counterparts, they remain useful models for the study of diabetes, allowing single-targeted gene deletions which are impossible in man.For example, human populations with different genetic backgrounds have different susceptibility to the R235W ZnT8 polymorphism.We should not, therefore, find surprising the results that different genetic backgrounds and different diet reveal different phenotypes in ZnT8 knockout models."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "E7F8082FA9D839C33A51A833B8FC1A89",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "DBA/2J",
+            "glaucoma",
+            "genetically&modified&mouse&models",
+            "diet",
+            "chemical&injections",
+            "specific&surgery",
+            "diabetes",
+            "Goto-Kakizaki",
+            "Otsuka&Long-Evans&Tokushima&Fatty",
+            "Nagoya&Shibata&Yasuda&mouse",
+            "New&Zealand&Obese&mouse",
+            "Tsumura-Suzuki&Obese&Diabetes&mouse"
+        ],
+        "metadata": [
+            {
+                "object": "The present study shows that elevated plasma levels of RBP4 were associated with diabetic retinopathy and vision-threatening diabetic retinopathy in Chinese patients with type 2 diabetes, suggesting a possible role of RBP4 in the pathogenesis of diabetic retinopathy complications. Lowering RBP4 could be a new strategy for treating type 2 diabetes with diabetic retinopathy .",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab851311"
+            },
+            {
+                "object": "Data suggest that urine AQP5/creatinine ratio is significantly higher in patients with diabetic nephropathy than in control subjects, subjects diabetes, or subjects with nephropathy of unknown etiology; urine AQP5/creatinine ratio increases with stage of diabetic nephropathy; this biomarker may improve clinical models in distinguishing diabetic nephropathy from normal controls and subjects with type 2 diabetic alone.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab213643"
+            },
+            {
+                "object": "these pathological and molecular changes induced by diabetes were eliminated in JNK2-/- diabetic mice compared to JNK2-/- control mice, and C66 treatment did not further affect these parameters in JNK2-/- diabetic mice.  Our results indicate that C66 ameliorates diabetic cardiomyopathy by inhibiting JNK2 relative pathways.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab908673"
+            },
+            {
+                "object": "We used young, leptin receptor deficient Db/Db mice to mimic the effect of diet and diabetes on adolescents. Db/Db and Control mice were fed either Western or Control diets, and were sacrificed at 3 months of age. Db/Db mice were obese, while only female mice developed diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1014541"
+            },
+            {
+                "object": "Blockade of IL-27 significantly delayed the onset of diabetic splenocyte-transferred diabetes, while IL-27-treated diabetic splenocytes promoted the onset of autoimmune diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab103352"
+            },
+            {
+                "object": "Microarray analysis of Chlamydia psittaci infected C57BL/6J and DBA/2J mice shows that proinflammatory cytokine and chemokine Cxcl1 KC, Cxcl2 Mip2, and Cxcl11 were up-regulated >10-fold in susceptible DBA/2J mice. Upstream regulators of inflammation such as TLRs and MyD88 were increased in resistant C57BL/6J vs susceptible DBA/2J mice. >100-fold increase in ifi204 and ifi203 proliferation of macrophage and >10-fold for NK cell activating C57BL/6J vs DBA/2J.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab3623"
+            },
+            {
+                "object": "The SORBS1 GG genotype of rs2281939 was associated with a higher risk of diabetes at baseline, an earlier onset of diabetes, and higher steady-state plasma glucose levels in the modified insulin suppression test. The minor allele T of rs2296966 was associated with higher prevalence and incidence of diabetes, an earlier onset of diabetes, and higher 2-h glucose during oral glucose tolerance test in Chinese patients.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab872946"
+            },
+            {
+                "object": "MDM2 controls diabetic and non-diabetic renal antioxidant capacity via NRF2.  NRF2 predominantly mediates MDM2's action on diabetic kidney disease. P53 is a key factor through which MDM2 activates NRF2 in diabetic kidney disease.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab473349"
+            },
+            {
+                "object": "Data suggest expression of Sirt3 in developing skeletal muscle can be regulated by diet; maternal low-protein diet down-regulates Sirt3; postnatal high-fat diet up-regulates Sirt3; these two factors increase susceptibility of pups to type 2 diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab203342"
+            },
+            {
+                "object": "diabetic subjects with diabetic foot showed in comparison with diabetics without diabetic foot higher IL-6 and resistin plasma levels, lower adiponectin plasma levels",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab228757"
+            }
+        ],
+        "question": "Which types of mouse studies are popular in genenetwork, where a type an ailment, e.g. asthma, allergies, aging, heart failure, diabetes, glaucoma?",
+        "subquestions": null,
+        "task_id": "E7F8082FA9D839C33A51A833B8FC1A89",
+        "usage": {
+            "chatgpt": 6380,
+            "gpt-4": 4204,
+            "gpt-4-turbo-preview": 3247
+        },
+        "user_id": 2
+    },
+    "document_id": "E7F8082FA9D839C33A51A833B8FC1A89",
+    "task_id": "E7F8082FA9D839C33A51A833B8FC1A89"
+}

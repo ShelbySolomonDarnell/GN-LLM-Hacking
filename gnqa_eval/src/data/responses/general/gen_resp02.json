@@ -1,0 +1,152 @@
+{
+    "created_at": "2024-04-01T11:57:23.158088Z",
+    "data": {
+        "amplify": false,
+        "answer": "Apoptosis, also known as cell suicide or programmed cell death, is a biological process in multicellular organisms that allows specific cells to be removed during the development of complex tissues, or potentially dangerous damaged cells to be destroyed for the benefit of the whole organism. It is characterized by a sequence of well-defined events resulting in cell destruction and is necessary for normal cell turnover. It is also essential to various other biological processes.",
+        "context": {
+            "05346fc4-57eb-424f-8c9f-cc144e600cb6": [
+                {
+                    "document_id": "05346fc4-57eb-424f-8c9f-cc144e600cb6",
+                    "text": "\n\nApoptosis, or controlled cell death [62], is another major stressed-cell response, and was also represented in our results (Fig. 9e).A large body of direct evidence points to apoptosis as one of the main routes of RPE degeneration in AMD [63].Induction of apoptosis upon stress is dictated by the action of master regulator p53, and it was recently shown that aging increases the activity of p53 in RPE cells and the likelihood for apoptotic cell death [64].Consistent with this evidence, we found association with pathways in Transcriptional regulation by TP53 group (Fig. 9d).In particular, Regulation of TP53 activity through methylation was among the top pathway in our association analysis (Table 1), suggesting that p53 modification by methylation and the closely related histone modifications [Protein lysine methyltransferases (PKMTs) methylate histone lysine in Fig. 9e] play important roles in RPE apoptosis regulation.In the intrinsic apoptotic pathway induced by oxidative stress, cytochrome c is released from mitochondria into the cytosol, binding and activating caspases, the main proteases central to apoptotic action.We found association in pathways involving 'inhibitor of apoptosis' (IAP) and its negative regulator 'second mitochondrial activator of caspases' (SMAC) [65], which suggests that disruption to regulatory mechanisms preventing apoptosis in RPE cells may play roles in AMD."
+                }
+            ],
+            "2186130e-2523-4fcc-a52f-fc2bdd986230": [
+                {
+                    "document_id": "2186130e-2523-4fcc-a52f-fc2bdd986230",
+                    "text": "Apoptosis\n\nPersistent DNA damage"
+                }
+            ],
+            "2715e261-b26c-46d6-918f-c6aa47688f0c": [
+                {
+                    "document_id": "2715e261-b26c-46d6-918f-c6aa47688f0c",
+                    "text": "42\nABSTRACT 18\nA MODULARIZED MODEL OF APOPTOSIS\nHA Harrington, KHo, Sk Ghosh, KC Tung , CY Kao, and B Aguda\nImperial College London, Courant Institute of Mathematical Sciences New York\nUniversity, University of Texas at Arlington, University of Texas Southwestern\nMedical Center, Mathematical Biosciences Institute, and Department of\nMathematics, The Ohio State University Columbus, OH, USA\nBackground: One of the key physiological mechanisms employed by the cell\n(during development and for maintenance of homeostasis) in multi-cellular\norganism is apoptosis, which is characterized by a sequence of well-defined\nevents resulting in cell destruction."
+                }
+            ],
+            "2dfc2b82-b8eb-4e73-957a-0ea8a4401a84": [
+                {
+                    "document_id": "2dfc2b82-b8eb-4e73-957a-0ea8a4401a84",
+                    "text": "14\nApoptosis is caused by the activation of the caspase cascade, which is\ninitiated by two signaling routes (stress-induced death and death-domain\nreceptor-induced death) (Domen 2001). This process can be prevented by antiapoptotic molecules, such as Bcl-2 (Domen and Weissman 2000). Direct\nevidence for the involvement of apoptosis in HSC number regulation came from\nthe findings that overexpression of the anti-apoptotic gene bcl-2 led to increased\nnumbers of Thy-1.1low, Sca-1+, c-kit+, Lin- cells, a population with long-term\nmulti-lineage repopulation potential (Domen et al. 2000)."
+                },
+                {
+                    "document_id": "2dfc2b82-b8eb-4e73-957a-0ea8a4401a84",
+                    "text": "Several lines of evidence have indicated that apoptosis acts as an\nimportant regulator of stem cells. First of all, expression of some apoptosisrelated genes were detected in human and/or murine HSCs (Domen 2001). Secondly, targeted disruption of some of these genes in null and dominant\nnegative mutant mice interfered with normal apoptotic processes in HSCs. For\nexample, overexpression of Bcl-2, a negative regulator of apoptosis, increased\nnot only the numbers and competitive repopulation capabilities of HSCs, but also\nthe resistance of HSCs to apoptosis induced by ionizing radiation (Domen and\nWeissman 2003)."
+                }
+            ],
+            "3c78c2be-0bd2-4954-bb47-8b48f6125ed7": [
+                {
+                    "document_id": "3c78c2be-0bd2-4954-bb47-8b48f6125ed7",
+                    "text": "Apoptosis\n\nCell suicide, or apoptosis, is a well-studied biological phenomenon in multicellular organisms that allows specific cells to be removed during the development of complex tissues, or potentially dangerous damaged cells to be destroyed for the benefit of the whole organism.The lack of an apparent evolutionary benefit for such a process in a single-celled organism initially caused controversy about the presence of an apoptotic pathway in yeast.Today, however, a number of yeast orthologues to mammalian apoptosis genes have been discovered and apoptotic-like cell death has been linked to mating, colony formation, and aging (Buttner et al. 2006;Eisenberg et al. 2007;Frohlich et al. 2007).With respect to aging, both replicatively and chronologically aged cells that die have increased ROS and display apoptotic phenotypes (Fabrizio et al. 2004a;Herker et al. 2004;Laun et al. 2001)."
+                },
+                {
+                    "document_id": "3c78c2be-0bd2-4954-bb47-8b48f6125ed7",
+                    "text": "\n\nThe importance of apoptosis in yeast aging has yet to be fully characterized.At the very least, yeast apoptosis provides a useful pathway for studying genetic interactions for age-related diseases that affect humans, such as cancer.Readers interested in further information related to yeast apoptosis are referred to several in-depth reviews (Buttner et al. 2006;Eisenberg et al. 2007;Frohlich et al. 2007)."
+                }
+            ],
+            "489539fd-f7c5-44eb-bb58-5fc19d50a7cf": [
+                {
+                    "document_id": "489539fd-f7c5-44eb-bb58-5fc19d50a7cf",
+                    "text": "Early redistribution of plasma membrane phosphatidylserine is a general\nfeature of apoptosis regardless of the initiating stimulus: inhibition by overexpression of\nBcl-2 and Abl. J Exp Med 182: 1545-56. Mathew CG (2006). Fanconi anaemia genes and susceptibility to cancer. Oncogene 25:\n5875-84. McBride MW, Carr FJ, Graham D, Anderson NH, Clark JS, Lee WK et al (2003). Microarray analysis of rat chromosome 2 congenic strains. Hypertension 41: 847-53. Merino-Trigo A, Kerr MC, Houghton F, Lindberg A, Mitchell C, Teasdale RD et al\n(2004)."
+                }
+            ],
+            "516fb027-d7ef-481b-95b2-89c25f4e4f8d": [
+                {
+                    "document_id": "516fb027-d7ef-481b-95b2-89c25f4e4f8d",
+                    "text": "\n\nWhen a cell harbors such severe DNA damage that it is beyond repair, it is disposed of through apoptosis.Alternatively, DNA damage can induce cellular senescence, the irreversible cessation of mitosis.Both processes are critically dependent on p53, which is known as the guardian of the genome [3] .DNA damage may also trigger autophagy, a cellular catabolic process that maintains homeostasis [4] .It should be noted that under normal conditions cells are rarely exposed to very high doses of DNAdamaging agents, which may be the explanation why we do not age and die because we run out of cells.However, aging is associated with some atrophy [1] and it is conceivable that at older ages bursts of DNA damage, for example from free radical reactions associated with inflammation, do occur and give rise to an increasingly high rate of apoptosis or cellular senescence.While there is some evidence for increased apoptosis and cellular senescence at old age, it is doubtful that under normal conditions this would lead to a significant loss of functional cells."
+                }
+            ],
+            "5c814c02-7157-40db-968d-98ac062744d6": [
+                {
+                    "document_id": "5c814c02-7157-40db-968d-98ac062744d6",
+                    "text": "\n\nApoptosis, or programmed cell death, literally eliminates cells at risk for neoplastic transformation.Senescence, by contrast, permanently arrests their growth.Both processes are controlled by the p53 tumor suppressor protein (Amundson, Myers, & Fornace, 1998;Bringold & Serrano, 2000;Hickman, Moroni, & Helin, 2002;Itahana, Dimri, & Campisi, 2001).p53 is a transcriptional regulator that both transactivates and transrepresses target genes in response to stress (Prives & Hall, 1999;Ryan, Phillips, & Voudsen, 2001).These target genes, in turn, stimulate DNA repair, transient cell cycle arrest, permanent cell cycle arrest (senescence) or cell death (apoptosis), depending on cell type, degree and type of damage, and other variables.In contrast, cells that lack normal p53 regulation or function -for example, tumor cells -tend to die in response to telomere dysfunction.Some normal human cells, on the other hand, undergo a senescence growth arrest.In either case, when present, p53 is crucial for mediating the cellular response to telomere dysfunction (Yaswen & Stampfer, 2002) (Fig. 4)."
+                }
+            ],
+            "667ac3eb-7d19-4359-98b7-e76871637910": [
+                {
+                    "document_id": "667ac3eb-7d19-4359-98b7-e76871637910",
+                    "text": "Cell death, and in particular\napoptosis, can be caused by a number of mechanisms including\nloss of growth factors and excitotoxicity (e.g. , Bhutta and Anand,\n2002; Nikolić et al. , 2013). It is of interest therefore, that proximal\nto the region of the QTL there are several genes that are related\nto growth factors including the latent transforming growth factor\nprotein 2 (ltbp2), placental growth factor (pgf), and transforming\ngrowth factor beta (Tgf beta)."
+                }
+            ],
+            "6f38cfff-88f1-4333-bc97-293200855bbf": [
+                {
+                    "document_id": "6f38cfff-88f1-4333-bc97-293200855bbf",
+                    "text": "\n\nApoptosis-related gene expression profiles"
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nApoptosis.Programmed death of cells during embryogenesis and metamorphosis or during cell turnover in adult tissues."
+                }
+            ],
+            "9c266a06-68f9-4e25-8de4-87d8ee02d929": [
+                {
+                    "document_id": "9c266a06-68f9-4e25-8de4-87d8ee02d929",
+                    "text": "14\nApoptosis is caused by the activation of the caspase cascade, which is\ninitiated by two signaling routes (stress-induced death and death-domain\nreceptor-induced death) (Domen 2001). This process can be prevented by antiapoptotic molecules, such as Bcl-2 (Domen and Weissman 2000). Direct\nevidence for the involvement of apoptosis in HSC number regulation came from\nthe findings that overexpression of the anti-apoptotic gene bcl-2 led to increased\nnumbers of Thy-1.1low, Sca-1+, c-kit+, Lin- cells, a population with long-term\nmulti-lineage repopulation potential (Domen et al. 2000)."
+                },
+                {
+                    "document_id": "9c266a06-68f9-4e25-8de4-87d8ee02d929",
+                    "text": "Several lines of evidence have indicated that apoptosis acts as an\nimportant regulator of stem cells. First of all, expression of some apoptosisrelated genes were detected in human and/or murine HSCs (Domen 2001). Secondly, targeted disruption of some of these genes in null and dominant\nnegative mutant mice interfered with normal apoptotic processes in HSCs. For\nexample, overexpression of Bcl-2, a negative regulator of apoptosis, increased\nnot only the numbers and competitive repopulation capabilities of HSCs, but also\nthe resistance of HSCs to apoptosis induced by ionizing radiation (Domen and\nWeissman 2003)."
+                }
+            ],
+            "a68762fb-d3d0-4589-80a2-24ad1fca73a9": [
+                {
+                    "document_id": "a68762fb-d3d0-4589-80a2-24ad1fca73a9",
+                    "text": "\n\nFraction of cells displaying apoptosis"
+                }
+            ],
+            "b47e2055-8573-46ac-aec5-c2697df4d4b9": [
+                {
+                    "document_id": "b47e2055-8573-46ac-aec5-c2697df4d4b9",
+                    "text": "\n\nIt has been known that mitochondria play a central role in the life and death of cells (Kroemer & Reed, 2000).Apoptosis was observed in developmentally arrested embryos by 72 h, but not at 24 h after FCCP treatment, despite considerable telomere attrition at this early stage, suggesting that telomere attrition occurs prior to apoptosis and may serve as an intermediate step between mitochondrial dysfunction and apoptosis.These results also suggest that telomere shortening may signal apoptosis (Lee et al ., 1998;Karlseder et al ., 1999)."
+                }
+            ],
+            "d05f2105-e665-426c-8a7b-1ee57c89f23d": [
+                {
+                    "document_id": "d05f2105-e665-426c-8a7b-1ee57c89f23d",
+                    "text": "Cell Death\n\nA form of programmed cell death, apoptosis is necessary for normal cell turnover and is essential to a plethora of other biological processes.Apoptosis can be executed via Bcl-2 activation of caspases, via signals from the death receptor on the plasma membrane, or via induction by granzyme B secreted from cytotoxic T cells (Tc cells) [35].Endonucleases and proteases are activated by active caspases, eventually leading to the death of the cell.With age, however, apoptotic activity changes.In heart [36], kidney [37], skeletal muscle [38], and Tc cells [39], increased apoptosis has been reported, perhaps contributing to loss of cellularity in these tissues.This escalation across various tissues may be attributed to the increased production of free radicals [40] and furthermore exacerbated by the accumulation of DNA damage in the aged cells [41].As the risk increases for cells to turn cancerous and dysfunctional with advancing age, increased apoptosis in aged cells is argued to be a defense strategy.In other tissues, such as the colon, apoptosis appears to decrease with age perhaps contributing to the accumulation of senescent cells and age-associated carcinogenesis [42]."
+                }
+            ],
+            "d54db58c-5e5f-4552-a0cb-4e27787aee00": [
+                {
+                    "document_id": "d54db58c-5e5f-4552-a0cb-4e27787aee00",
+                    "text": "\n\nThe regulation and execution of apoptosis in endothelial cells is a complex process involving paracrine factors, membrane receptors, interaction of pro-and anti-apoptotic factors and cysteinyl aspartate-specific proteases (caspases).Recent studies suggest that in aging there is an imbalance in the expression of pro-and anti-apoptotic genes resulting in an enhanced apoptosis in the myocardium (19), central nervous system (24), skeletal muscle (10), lung (33), and liver (2,33).Yet, age-related alterations in the expression of pro-and anti-apoptotic genes in coronary arteries have not been elucidated."
+                }
+            ],
+            "e4eca0fc-d0bc-45fa-87e6-4958ebdf66f0": [
+                {
+                    "document_id": "e4eca0fc-d0bc-45fa-87e6-4958ebdf66f0",
+                    "text": "Apoptosis modulating genes\n\nApopotosis or programmed cell death is associated with alterations in cell morphology, particularly the nucleus, with endonucleatytic cleavage of DNA into nucleosomal length fragments.Apoptosis may result from withdrawal of growth signals."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "80493D7D624E399B7931DC3737018190",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "apoptosis",
+            "cell",
+            "death",
+            "p53",
+            "caspases",
+            "Bcl-2",
+            "DNA",
+            "damage",
+            "senescence",
+            "aging"
+        ],
+        "metadata": [],
+        "question": "What is apoptosis?",
+        "subquestions": null,
+        "task_id": "80493D7D624E399B7931DC3737018190",
+        "usage": {
+            "chatgpt": 5468,
+            "gpt-4": 3741,
+            "gpt-4-turbo-preview": 2788
+        },
+        "user_id": 2
+    },
+    "document_id": "80493D7D624E399B7931DC3737018190",
+    "task_id": "80493D7D624E399B7931DC3737018190"
+}

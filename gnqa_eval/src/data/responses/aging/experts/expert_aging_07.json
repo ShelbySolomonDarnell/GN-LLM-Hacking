@@ -1,0 +1,150 @@
+{
+    "created_at": "2024-05-31T20:55:47.964141Z",
+    "data": {
+        "amplify": false,
+        "answer": "The aging process is caused by a combination of factors including genetic influences, environmental conditions, and stochastic processes. It involves the accumulation of molecular damage, mutations, incomplete repair, and genetic programs. Other factors include wear and tear on cells, decreased immune defenses, oxidation and inefficient mitochondria, toxins and radiation, glycosylation, caloric intake and sirtuin production, neurotransmitter imbalance, hormone mechanisms, reduced nitric oxide, and stem cell slowdown. Aging is also associated with changes in dynamic biological, physiological, environmental, psychological, behavioral, and social processes.",
+        "context": {
+            "18e216d9-ea5c-4dfe-a30d-632163fcf39e": [
+                {
+                    "document_id": "18e216d9-ea5c-4dfe-a30d-632163fcf39e",
+                    "text": "\n\nThere are multiple definitions of the aging process.Aging may be perceived as the random, systemic loss of molecular fidelity that, after reproductive maturity, accumulates to levels that eventually exceed tissue repair, turnover, or maintenance capacity (Hayflick 2004).The underlying molecular mechanisms of aging remain a subject of debates (de Magalhaes et al. 2009): tissue deterioration might not be programmed, being just a function of increase in entropy (Hayflick 2004).No genes are necessary to drive a stochastic process; however, there are genes that act to prevent an organism from destruction and disorganization.It may be due to the absence of specific disease-causing alleles or due to the presence of favorable alleles (Halaschek-Wiener et al. 2009).These genes may inhibit entropy, regulate inflammation, maintain DNA repair (such as telomere maintenance factors), or provide antioxidant functions (e.g., antagonists of reactive oxygen species).As healthy cells adapt to degeneration, differential expression of genes with age may indicate a transcriptional response to aging rather than a deleterious mechanism of aging per se (de Magalhaes et al. 2009).It might be postulated that there exist alleles that confer a pleiotropic effect on structure and function during aging (Lunetta et al. 2007).These alleles should regulate the ability of an organism to withstand challenging endogenous and exogenous influences."
+                }
+            ],
+            "1ccb0d11-1c88-4b08-b40d-4039a954745f": [
+                {
+                    "document_id": "1ccb0d11-1c88-4b08-b40d-4039a954745f",
+                    "text": "Why does ageing evolve? The intrinsic decline in function that occurs during ageing appears to be caused by the accumulation of damage, particularly at the molecular level.As far as we know, no genes have evolved specifically because they cause damage to accumulate, and the evolution of ageing can therefore be understood only as a side-effect of other causes of evolutionary change.The mechanisms by which ageing can evolve were first elucidated by J.B.S. Haldane [14], P.B. Medawar [15] and G.C. Williams [16].Extrinsic hazards from disease, predation and accidents mean that even potentially immortal organisms will die.Genetic effects that become apparent only later in life encounter a reduced force of natural selection, because not all their bearers will survive to express them.Haldane pointed out that late-onset genetic diseases in humans, such as Huntington's disease, encounter only weak selection, because most reproduction is complete by the age of onset [14].Ageing could therefore result from the accumulation under mutation pressure of age-specific, deleterious mutations.In addition, if some mutations have pleiotropic effects, with beneficial effects in youth, such as high fecundity, but also with a higher subsequent rate of ageing, then they could be incorporated into the population by natural selection, which will act more strongly on the early, beneficial effect.Thus, variation in the rate of ageing would result from the readjustment of a tradeoff between youthful benefits and the subsequent rate of ageing.Both processes imply that faster ageing will evolve where the extrinsic hazard to adults is greatest, a hypothesis in general supported by the data [1,2,17]."
+                }
+            ],
+            "4f010a74-a9b4-4538-94f7-ae8f35c8b96e": [
+                {
+                    "document_id": "4f010a74-a9b4-4538-94f7-ae8f35c8b96e",
+                    "text": "A. Theories\n\nIn looking back at the development of aging studies, we can see that it did not follow a straight or logical course.On the contrary, it can be compared with the flow of several convergent streams winding in their course.To date, numerous proposals have been made for the paradigm of aging.These include Hayflick's contributions (153) on programmed cellular incapacitation derived from flbroblast studies, a decrease in immunologic response, deleterious endocrinological changes, nuclear somatic gene mutation, mitochondrial somatic gene mutation, oxygen free radical damage to proteins and nucleic acids, molecular instabilities, molecular cross-linking, glycation reactions, and so on.There is little doubt that many of these factors contribute to the overall aging, but what are primary causes, and what are secondary outcomes?"
+                }
+            ],
+            "4f709611-ea0b-4bcc-a634-df5d518ccb54": [
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "Ageing Is Adjusted by Genetic, Environmental, and Stochastic Processes\n\nEnough evidence suggests that ageing is the result of different events such as molecular damage, mutations, incomplete repair, genetic programs, and continued development, among others [16].These events, in turn, are caused by genetic factors, environmental conditions, and even stochastic factors, which are mentioned below in this chapter."
+                },
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nDifferent stochastic theories of ageing focus on specific mechanisms that may lead to ageing.The catastrophic error theory poses that the accumulation of errors in protein synthesis causes damage in cell function.The theory of cross-linking holds this process between proteins and other macromolecules responsible for ageing, while the theory of free radicals suggests that ageing is the result of inadequate protection against cell and tissue damage by free radicals and oxidative stress throughout life.Finally, the wear-and-tear theory poses that the cumulative damage that eventually leads to ageing and death is, in fact, the result of the continuous functioning of vital processes, during which stochastic errors gradually arise."
+                },
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "Introduction\n\nAging is a natural and irreversible process characterized by a progressive decay in physiological, biochemical, and structural functions of individuals.Aging is a multifactorial process that can be affected by two main factors: environmental and genetic.Environmental factors are nutrition, pathologies, pollution exposure, physical activity, and microbiota, while genetic factors are issues that have been associated with antioxidant and DNA damage responses, the fidelity of genetic information transfer, the efficiency of protein degradation, the extent of cellular responsiveness to stress, the mechanisms of epigenetic regulation, and the ability to elongate telomeres.All of them can determine how fast we age.Traditionally, aging studies had used several model organisms, from yeast to mammals, especially rodents (rats and mice).Most of the studies are made under controlled conditions, where only a few variables are observed, and the subjects are members of the same strain with the same genetic backgrounds or the same mutations.The information that so far has been obtained about aging has helped us to describe different factors that influence this process and that are the fundamental concepts of the various theories of aging.However, these theories do not fully explain the aging process in the different models of aging study.This is the case of the study of aging in humans, where it is very difficult to control the environmental and genetic variables.That is why issues haven't been solved such as the following: How does time influence aging?When do we start to age?How do we know we are old?Is it possible to delay aging?Those and more questions are the cornerstones for aging studies.Biological aging has been associated with the decrease in the repair and regeneration capacity of tissues and organs; it is a time-dependent process.This reduction can be observed by an increase in the acquisition of diseases and functional and reproductive disability, which eventually lead to death.On the other hand, it has been observed that in humans, people with the same chronological age exhibit different trajectories in the decrease of physiological functions associated with biological aging and what complicates the understanding of the molecular and physiological phenomena that drive the complex and multifactorial processes that underlie biological aging in humans."
+                }
+            ],
+            "5030cbc8-e02c-4e3a-8cbc-0156ce123c99": [
+                {
+                    "document_id": "5030cbc8-e02c-4e3a-8cbc-0156ce123c99",
+                    "text": "\nThe underlying cause of aging remains one of the central mysteries of biology.Recent studies in several different systems suggest that not only may the rate of aging be modified by environmental and genetic factors, but also that the aging clock can be reversed, restoring characteristics of youthfulness to aged cells and tissues.This Review focuses on the emerging biology of rejuvenation through the lens of epigenetic reprogramming.By defining youthfulness and senescence as epigenetic states, a framework for asking new questions about the aging process emerges."
+                }
+            ],
+            "5e157c2e-91b8-466d-a9fd-f91f8f432f0c": [
+                {
+                    "document_id": "5e157c2e-91b8-466d-a9fd-f91f8f432f0c",
+                    "text": "\n\nAging does not happen in a vacuum.Aging must be the result of changes that occur in molecules that have existed at one time with no age changes.It is the state of these pre-existing molecules that governs longevity determination.The pre-existing state is, as I have already described, maintained by repair and turnover systems that themselves eventually succumb to irreparable age changes.Longevity determination is the state of all molecules prior to succumbing to irreparable loss of molecular structure."
+                },
+                {
+                    "document_id": "5e157c2e-91b8-466d-a9fd-f91f8f432f0c",
+                    "text": "\n\nBiological aging is more than simply the occurrence of random changes in molecules.It also includes the role of the many repair systems found within cells.Thus, a more complete, but less concise, explanation of the first causes of aging in biological systems is the following:"
+                }
+            ],
+            "5f434783-db8a-409e-a1c6-1dc1c5e2ba1c": [
+                {
+                    "document_id": "5f434783-db8a-409e-a1c6-1dc1c5e2ba1c",
+                    "text": "U\n\nnderstanding the deleterious processes that cause aging has been a human endeavor ever since we figured out that we grew old and that we didn't like it.Many hypotheses have been proposed to explain the root cause of aging (1).One broad-based hypothesis is that generalized homeostatic failure leads to age-related decline.Although notions of time-and use-related deterioration may be applicable to mechanical objects, they fall short as analogies to biological systems because energy input should theoretically maintain living systems indefinitely.Yet, despite the regenerative potential of biological organisms, progressive deterioration accompanies postmaturational aging.That the organism's repair capabilities cannot keep up with wear and tear is, according to evolutionary theory, explained by the inevitable declining force of natural selection with age.According to this reasoning, there is no selective advantage to maintaining somatic cells in perfect order much beyond reproductive maturation (1).Hence, a long life depends on the timing of maturation and the quality of somatic cell maintenance."
+                },
+                {
+                    "document_id": "5f434783-db8a-409e-a1c6-1dc1c5e2ba1c",
+                    "text": "\n\nWear and tear on the DNA often has been touted as a possible basis for our progressive age-related decline.Supporting this notion is the work of de Boer et al. (2) reported on page 1276 of this week's issue.They reveal important evidence for imperfect genome maintenance of DNA damage as a possible causal factor in aging.Harman, with his \"free radical theory of aging\" (3), was the first to propose that metabolic by-products called reactive oxygen species (ROS) continually damage cellular macromolecules, including DNA.Incomplete repair of such damage would lead to its accumulation over time and eventually result in age-related deterioration.A number of observations support the free radical theory, including the discovery that dietary restriction delays aging and extends life-span in a wide range of rodents and other species, possibly by reducing free radical damage.The notion that genomic DNA could be a major target of continual free radical attack over time is supported by the recent observation that genetic lesions accumulate with age and that dietary restriction reduces this accumulation in rodents (4).In addition, deletion of p66 shc , a signaling protein that maintains oxidant levels, increases resistance to oxidative damage and extends the life-span of mice (5)."
+                }
+            ],
+            "606c59c5-5ae4-47e9-b3eb-58afa55669d1": [
+                {
+                    "document_id": "606c59c5-5ae4-47e9-b3eb-58afa55669d1",
+                    "text": "Instead, aging is expected to\nbe a pervasive failure of adaptation across most, if not all, of the physiological mechanisms\nthat sustain survival and reproduction among young individuals. For this reason, evolutionary biologists have generally been skeptical of proposals that attribute “the cause of\naging” to any one physiological mechanism or gene for aging or programmed death. Although common genetic pathways might be identified that contribute to aging among a\nvariety of organisms (cf."
+                }
+            ],
+            "846ae0a9-165f-4b25-8bcb-310c7da5eb44": [
+                {
+                    "document_id": "846ae0a9-165f-4b25-8bcb-310c7da5eb44",
+                    "text": "Background\n\nAging is a complex process characterized by the progressive degeneration of a healthy phenotype and correlated with a decline in the ability to withstand cellular stress and damage.The subject of investigation for decades, the underlying molecular genetic causes of and responses to aging remain an area of active study.Research from model systems has characterized a range of physiological and molecular phenotypes associated with aging.These include genomic instability caused by accumulation of DNA damage, dysregulation of repair mechanisms, and telomere attrition; epigenetic alterations; dysregulation of transcription; loss of proteostasis; cellular senescence; and deregulated nutrient sensing, metabolic pathways, and energy use (reviewed in [1]).Separating causation from correlation between these phenotypes and aging remains a challenge, however."
+                }
+            ],
+            "870798fd-2c26-4819-9403-fe52836770eb": [
+                {
+                    "document_id": "870798fd-2c26-4819-9403-fe52836770eb",
+                    "text": "Introduction\n\nUnderstanding what actually causes ageing remains admittedly a fundamental and fascinating problem in biology [1].Experimental data accumulated in the last three decades have led to the identification of various environmental and genetic factors, as well as chemical substances that influence lifespan in divergent eukaryotic species [1,2].Organisms normally age faster and hence live shorter under stress conditions that can lead to the generation of DNA mutations and, often as a consequence of mutations, damaged cytoplasmic constituents (including injured proteins, lipids, carbohydrates and organelles).Such types of damage can interfere with cellular functioning; thereby, they should be eliminated by effective repair and self-cleaning mechanisms to maintain cellular homeostasis.These mechanisms include DNA repair pathways, molecular chaperons, as well as the proteasome-ubiquitin system and lysosome-mediated autophagy, the main forms of cellular self-degradation [3].This has led to the attractive model that the gradual, lifelong accumulation of unrepaired cellular damage drives the ageing process and determines the incidence of age-related fatal diseases [4,5]."
+                }
+            ],
+            "996e02bf-91b2-4e81-89ba-1f661dfc662a": [
+                {
+                    "document_id": "996e02bf-91b2-4e81-89ba-1f661dfc662a",
+                    "text": "\n\nIn conclusion, aging may not be primarily due to damage accumulating from the basic biochemical reactions that make up life but rather the result of the developmental program or of changes brought about by it.Our hypothesis is that the timing of development regulates the rate of aging among mammals, with a subset of developmental mechanisms determining the pace and causing most agerelated changes.Maybe people change as they grow old due to the same mechanisms that drive changes throughout the earlier stages in life."
+                }
+            ],
+            "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed": [
+                {
+                    "document_id": "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed",
+                    "text": "Instead, aging is expected to\nbe a pervasive failure of adaptation across most, if not all, of the physiological mechanisms\nthat sustain survival and reproduction among young individuals. For this reason, evolutionary biologists have generally been skeptical of proposals that attribute “the cause of\naging” to any one physiological mechanism or gene for aging or programmed death. Although common genetic pathways might be identified that contribute to aging among a\nvariety of organisms (cf."
+                }
+            ],
+            "a6bc2efd-61a7-4e07-ad5c-49234aa89431": [
+                {
+                    "document_id": "a6bc2efd-61a7-4e07-ad5c-49234aa89431",
+                    "text": "\n\nIn 2021, Science published a special issue entitled \"125 Questions: Exploration and Discovery.\" One of these 125 questions was \"Can we stop ourselves from aging? \"The U.S. National Institute on Aging (NIA) at the National Institutes of Health (NIH) states that \"aging is associated with changes in dynamic biological, physiological, environmental, psychological, behavioral, and social processes.\" Although geneticists and epidemiologists have long debated the relative importance of the role played by genotype or the environment in the development of age-related diseases, it is apparent that both can play substantial roles in this process [6,7].However, most etiological studies have concentrated on the role of genotype and have considered the environment to play a secondary role.Nevertheless, an analysis of GBD data showed that nearly 50% of deaths worldwide are attributable to environmental exposure, primarily exposure to airborne particulates (including household air pollution and occupational exposure; 14% of all deaths), smoking and secondhand smoke (13%), plasma sodium concentrations (6%), and alcohol consumption (5%) [8].In contrast, a recent analysis of 28 chronic diseases in identical twins showed that the genetic-related risks of developing one of five age-related diseases were 33.3%, 10.6%, 36.3%, 19.5%, and 33.9% for AD, PD, CAD, COPD, and T2DM, respectively, with a mean of only 26% [9].The results of over 400 genome-wide association studies (GWASs) have also elucidated that the heritability of degenerative diseases is only approximately 10% [10,11].Consequently, nongenetic drivers, such as environmental factors, are now recognized as major risk factors for age-related diseases.The contributions of environmental factors to the development of age-related diseases can be revealed by analyses of all of the factors to which individuals are exposed in their life and the relationships between these exposures and age-related diseases [12,13]."
+                }
+            ],
+            "ab6a47ba-2131-4fc5-be5e-b81dd80d2a65": [
+                {
+                    "document_id": "ab6a47ba-2131-4fc5-be5e-b81dd80d2a65",
+                    "text": "Introduction\n\nThe fundamental manifestation of the aging process is a progressive decline in the functional maintenance of tissue homeostasis and an increasing propensity to degenerative diseases and death [1].It has attracted significant interest to study the underlying mechanisms of aging, and many theories have been put forward to explain the phenomenon of aging.There is an emerging consensus that aging is a multifactorial process, which is genetically determined and influenced epigenetically by environment [2].Most aging theories postulate a single physiological cause of aging, and likely these theories are correct to a certain degree and in certain aspects of aging."
+                }
+            ],
+            "ca76f85d-9f72-4e15-8ba9-3bf94308c449": [
+                {
+                    "document_id": "ca76f85d-9f72-4e15-8ba9-3bf94308c449",
+                    "text": "\n\nMany factors contribute to aging, including genes.This is the first article in a 10-part series that highlight some of what is known about the influence of genes on aging and emerging treatment options that may slow down or potentially reverse the aging process.The series will address \\genes, adducts, and telomeres, decreased immune defenses, oxidation and inefficient mitochondria, toxins and radiation, glycosylation, caloric intake and sirtuin production, neurotransmitter imbalance, hormone mechanisms, reduced nitric oxide, and stem cell slowdown.Underpinning these factors are wear and tear on cells and aging as a result of inability to repair or replace these affected cells.These topics have been addressed in research, health magazines, and even by talk show hosts.There is even a LongevityMap website addressing significant and nonsignificant genetic association studies in aging across the human genome (http://genomics.senescence.info/longevity/).The series will address a scientific and clinical approach to genome-related aging topics."
+                }
+            ],
+            "f4dd6a1d-062b-42bc-8e22-83fcb3135578": [
+                {
+                    "document_id": "f4dd6a1d-062b-42bc-8e22-83fcb3135578",
+                    "text": "\n\nTrying to explain aging in terms of a singular process would be in conflict with evolutionary theory.Even if loss of genome sequence integrity was the most conserved cause of aging, already active in the first replicators (Vijg, 2007), natural selection would allow a multitude of mutations with late adverse effects to accumulate in the germline, many of which would be positively selected for because of their beneficial effects early in life (Williams, 1957), In this respect, somatic mutation accumulation could be a conserved, inevitable cause of aging but superposed on multiple other processes that usually cause the earlier demise of an individual."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "0DC57EB6A882DE1734E915DE035D2296",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "genes",
+            "aging",
+            "DNA&damage",
+            "free&radicals",
+            "telomeres",
+            "oxidative&stress",
+            "environmental&factors",
+            "genetic&factors",
+            "cellular&repair",
+            "protein&synthesis"
+        ],
+        "metadata": [],
+        "question": "what causes the aging process",
+        "subquestions": null,
+        "task_id": "0DC57EB6A882DE1734E915DE035D2296",
+        "usage": {
+            "chatgpt": 8117,
+            "gpt-4": 4643,
+            "gpt-4-turbo-preview": 3712
+        },
+        "user_id": 2
+    },
+    "document_id": "0DC57EB6A882DE1734E915DE035D2296",
+    "task_id": "0DC57EB6A882DE1734E915DE035D2296"
+}
