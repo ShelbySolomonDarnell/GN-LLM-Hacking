@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import time
 import configparser
 import pandas as pd
 
@@ -10,6 +11,17 @@ from langchain_together.embeddings import TogetherEmbeddings
 from ragas.metrics import (faithfulness, answer_relevancy, context_relevancy, context_recall, context_utilization, context_precision)
 from ragas import evaluate
 from datasets import Dataset#, load_dataset
+
+def evaluateDataset(num_evaluations, dataset, output_file):
+  for n in range(0,num_evaluations):
+    results = evaluate(dataset, metrics=[faithfulness,context_utilization,context_relevancy,answer_relevancy])
+    print(results)
+    with open(output_file, "a") as the_data:
+        the_data.write(",\n")
+        the_data.write(json.dumps(results, indent=2))
+    time.sleep(10)
+
+
 
 config = configparser.ConfigParser()
 config.read('_config.cfg')
@@ -33,6 +45,7 @@ together_completion = Together(
 
 read_file = str(sys.argv[1])
 outp_file = str(sys.argv[2])
+num_evals = int(sys.argv[3])
 
 print(read_file)
 print(outp_file)
@@ -42,7 +55,7 @@ with open(read_file, "r") as r_file:
 
 dataset = Dataset.from_dict(data)
 print(dataset)
-
+evaluateDataset(num_evals, dataset, outp_file)
 """
 results = evaluate(
     dataset,
@@ -50,14 +63,6 @@ results = evaluate(
     llm=together_completion,
     embeddings=embeddings)
 """
-results = evaluate(dataset,
-                   metrics=[faithfulness,answer_relevancy,context_relevancy,context_utilization])
-
-print(results)
-
-with open(outp_file, "a") as the_data:
-    the_data.write(",\n")
-    the_data.write(json.dumps(results, indent=2))
 
 #df_results = results.to_pandas()
 #df_results.head()

@@ -1,47 +1,5 @@
 [
     {
-        "level":"citizenscientist",
-        "domain": "aging",
-        "query": [
-            "What recent discoveries have been made about the genetics of aging?",
-            "How do epigenetic changes affect aging?",
-            "What is the role of the gene FOXO3 in longevity?",
-            "How does the environment interact with genes to influence aging?",
-            "What are senescent cells and how do they contribute to aging?",
-            "Are there any known lifestyle interventions that can positively impact genes related to aging?",
-            "What is the 'epigenetic clock,' and how is it used in aging research?",
-            "How do researchers use model organisms like yeast or worms to study human aging?",
-            "Are there any promising anti-aging therapies being developed based on genetic research?",
-            "How do caloric restriction and diet impact the genetics of aging?"
-        ]
-    },
-    {
-        "level":"domainexpert",
-        "domain":"aging",
-        "query": [
-            "How do recent single-cell transcriptomics studies enhance our understanding of cellular heterogeneity in aging tissues?",
-            "What are the latest findings on the role of senescence-associated secretory phenotype (SASP) factors in age-related tissue dysfunction?",
-            "How do age-related changes in chromatin architecture contribute to the decline in cellular function?",
-            "What insights have been gained from studying the epigenetic reprogramming of aged cells to a more youthful state?",
-            "How do alterations in the mitochondrial genome and bioenergetics influence the aging process in humans?",
-            "What are the therapeutic potentials and challenges of targeting the insulin/IGF-1 signaling pathway for extending healthspan and lifespan?",
-            "How can the integration of proteomics and metabolomics data shed light on age-associated metabolic shifts?",
-            "What role do long non-coding RNAs (lncRNAs) play in the regulation of aging and age-related diseases?",
-            "How do recent advancements in CRISPR/Cas9 technology open new avenues for studying and potentially reversing aging?",
-            "What is the significance of the DNA damage response (DDR) in the context of both replicative and chronological aging?",
-            "How do age-dependent changes in the immune system, such as immunosenescence, contribute to increased susceptibility to diseases?",
-            "How do advancements in machine learning and artificial intelligence aid in the identification of biomarkers for biological aging?",
-            "What recent discoveries have been made regarding the impact of systemic factors, such as circulating microvesicles, on aging phenotypes?",
-            "How do changes in the gut microbiome composition correlate with aging and longevity?",
-            "What are the key molecular mechanisms through which caloric restriction exerts its lifespan-extending effects across different species?",
-            "How do oxidative stress and the subsequent accumulation of damaged macromolecules contribute to cellular aging?",
-            "How are extracellular matrix remodeling and tissue stiffness implicated in the aging process?",
-            "How do recent developments in autophagy research contribute to our understanding of its role in aging and longevity?",
-            "What are the implications of age-related shifts in stem cell niche composition and function for tissue regeneration capacity?",
-            "How do cross-links and advanced glycation end-products (AGEs) accumulation affect the structural integrity and function of aging tissues?"
-        ]
-    },
-    {
         "level": "domainexpert",
         "domain": "gn",
         "query": [
