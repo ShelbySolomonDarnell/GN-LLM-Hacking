@@ -125,10 +125,19 @@ class GeneNetworkQAClient(Session):
         task_id = self.getTaskIDFromResult(res)
         return res, task_id
 
+    def answer(self, taskid, *args, **kwargs):
+        query = self.answer_url + self.extendForTaskID(taskid)
+        res = self.custom_request('GET', query, *args, **kwargs)
+        if (res.status_code != 200):
+            print('The result is {0}',format(res))
+            return self.negative_status_msg(res), 0
+        return res, 1
+
     def get_answer(self, taskid, *args, **kwargs):
         query = self.answer_url + self.extendTaskID(taskid)
         res = self.custom_request('GET', query, *args, **kwargs)
         if (res.status_code != 200):
+            print('The result is {0}',format(res))
             return self.negative_status_msg(res), 0
         return res, 1
 
@@ -201,6 +210,9 @@ class GeneNetworkQAClient(Session):
 
     def extendTaskID(self, task_id):
         return '?task_id=' + str(task_id['task_id'])
+
+    def extendForTaskID(self, task_id):
+        return '?task_id=' + str(task_id)
 
     def get_gnqa(self, query):
         qstr = quote(query)

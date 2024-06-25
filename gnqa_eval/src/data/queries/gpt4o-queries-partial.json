@@ -3,7 +3,6 @@
         "level": "domainexpert",
         "domain": "gn",
         "query": [
-            "How do recent advancements in network-based integrative genomics alter our understanding of complex trait architectures?",
             "What are the latest methodological improvements in evaluating gene-environment interactions using GeneNetwork.org?",
             "How do multi-omics data integration techniques enhance the prediction accuracy of phenotypic traits in GeneNetwork datasets?",
             "What are the computational challenges and solutions in analyzing large-scale transcriptomic data within GeneNetwork.org?",
@@ -22,7 +21,8 @@
             "What are the potential applications of artificial intelligence in improving the annotation and interpretation of gene networks?",
             "How has the study of genetic pleiotropy been advanced by data available on GeneNetwork.org?",
             "What novel genetic pathways have been identified in GeneNetwork.org studies related to aging and lifespan?",
-            "How do polygenic risk scores (PRS) developed using GeneNetwork.org data enhance the prediction and prevention of complex diseases?"
+            "How do polygenic risk scores (PRS) developed using GeneNetwork.org data enhance the prediction and prevention of complex diseases?",
+            "How do recent advancements in network-based integrative genomics alter our understanding of complex trait architectures?"
         ]
     },
     {

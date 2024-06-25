@@ -23,6 +23,10 @@ def reorg_json_report(obj, resp_lst, ratings):
       #else:
       #  print('These are the current ratings --> {0}'.format(ratings))
     print('The ratings before being pushed to user_responses ->  {0}'.format(ratings))
+    # add query to dictionary, if it is an update then don't update the ratings
+    #qcount = query_dict.setdefault(ratings["query"][0], 0)
+    #query_dict.update({ratings["query"][0]: qcount+1})
+    #if qcount == 0:
     update_ratings(resp_lst, user_id, ratings)
     #reorg_json_report(val, resp_lst, ratings)
   elif isinstance(obj, list):
@@ -34,10 +38,7 @@ def reorg_json_report(obj, resp_lst, ratings):
 
 def create_resultset_from_file(resp_lst, file_name, output):
   with open(file_name, "r") as r_file:
-    #print(json.dumps(json.load(r_file), indent=4))
     the_data = json.load(r_file)
-    #passible_dict = the_data["ratings_list"]
-  #reorg_json_report(passible_dict, resp_lst, output)
   reorg_json_report(the_data, resp_lst, output)
 
 def isKeyInList(the_lst, the_key):
@@ -79,6 +80,8 @@ ratings_out = {
   "answer": [],
   "query": []
 }
+
+query_dict = {}
 
 """
 ratings_out["task_id"] = ["2D8205C79915FF9CEB8DECCE51E6E473"]

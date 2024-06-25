@@ -113,6 +113,23 @@ def get_gnqa(query, auth_token, tmp_dir=""):
         return task_id, answer, references
     else:
         return task_id, "Please try to rephrase your question to receive feedback", []
+    
+def get_response_from_taskid(auth_token, task_id):
+    api_client = GeneNetworkQAClient(requests.Session(), api_key=auth_token)
+    res, success = api_client.answer(task_id)
+    if success == 1:
+        resp_text = filter_response_text(res.text)
+        if resp_text.get("data") is None:
+            return task_id, "Please try to rephrase your question to receive feedback", []
+        answer = resp_text['data']['answer']
+        context = resp_text['data']['context']
+        references = parse_context(
+            context, DocIDs().getInfo, format_bibliography_info)
+        #references = fetch_pubmed(references, "pubmed.json", tmp_dir)
+
+        return task_id, answer, references
+    else:
+        return task_id, "Please try to rephrase your question to receive feedback", []
 
 
 def fetch_query_results(query, user_id, redis_conn):
