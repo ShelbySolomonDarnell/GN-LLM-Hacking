@@ -162,8 +162,6 @@ class GeneNetworkQAClient(Session):
                 raise error
 
 
-
-
             if response.ok:
                 if method.lower() == "get" and response.json().get("data") is None:
                     time.sleep(retry_delay)
@@ -172,7 +170,7 @@ class GeneNetworkQAClient(Session):
                     return response
             else:
                 time.sleep(retry_delay)
-            return response
+        return response
 
     @staticmethod
     def get_task_id_from_result(response):

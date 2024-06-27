@@ -1,0 +1,154 @@
+{
+    "created_at": "2024-06-26T17:52:34.575350Z",
+    "data": {
+        "amplify": false,
+        "answer": "You can use the Rat Genome Database (RGD) for genetic, genomic, phenotype, and disease-related data generated from rat research.",
+        "context": {
+            "071b4686-f5c4-4759-a038-14d79a45dac7": [
+                {
+                    "document_id": "071b4686-f5c4-4759-a038-14d79a45dac7",
+                    "text": "The database contains trait data for several\nhundred phenotypes including common inbreds, consomics, 80 BXD recombinant inbreds,\nhybrids, and over 60,0000 mutagenised mice including ENU mutants and several knockout\nlines. SOPs are employed for phenotypic data acquisition. This publicly accessible database\nis an excellent example of one that can be made significantly more valuable to the\ncommunity with a standard in place for the reporting of these protocols. PhenoSITE (http://www.gsc.riken.go.jp/Mouse/phenotype/top.htm) provides baseline\nphenotype data for three inbred strains and their F1 hybrids."
+                }
+            ],
+            "23dcf284-7c19-4335-91e1-50c3b85e6bad": [
+                {
+                    "document_id": "23dcf284-7c19-4335-91e1-50c3b85e6bad",
+                    "text": "The Mouse\nGenome Database (MGD) has structured their mouse genomic data in terms of the Mammalian Phenotype Ontology\n[10]. Similarly, the Rat Genome Database (RGD) [11] also\ndeveloped a phenome database, integrated with its genomic\ndata. In humans, the GeneNetwork (WebQTL) provides a\ndatabase of complex traits with mappings to quantitative trait\nloci [12]. And several studies have focused on integrating\nhuman phenome and genome resources. For example, Butte\net al. created a large-scale phenome–genome network by\nintegrating the Uniﬁed Medical Language System with human\nmicroarray gene expression data [13]; and Aerts et al."
+                },
+                {
+                    "document_id": "23dcf284-7c19-4335-91e1-50c3b85e6bad",
+                    "text": "de la Cruz N, Bromberg S, Pasko D, Shimoyama M, Twigger S, et al. (2005)\nThe Rat Genome Database (RGD): Developments towards a phenome\ndatabase. Nucleic Acids Res 33: D485–D491. Wang J, Williams RW, Manly KF (2003) WebQTL: Web-based complex trait\nanalysis. Neuroinformatics 1: 299–308. Butte AJ, Kohane IS (2006) Creation and implications of a phenome–\ngenome network. Nat Biotechnol 24: 55–62. Aerts S, Lambrechts D, Maity S, Van Loo P, Coessens B, et al. (2006) Gene\nprioritization through genomic data fusion. Nat Biotechnol 24: 537–544."
+                }
+            ],
+            "40c30ce7-909d-4f40-9848-9e225f902bc1": [
+                {
+                    "document_id": "40c30ce7-909d-4f40-9848-9e225f902bc1",
+                    "text": "\n\nShur-Jen Wang provided an overview of the Rat Genome Database, which provides a platform to improve model selection.The database includes a quantitative phenotype tool that provides expected ranges for a phenotype of interest across strain groups, drawing from published literature and other deposited data and resources.This tool can also be used to link phenotypic variation to damaging genomic variants, which are shown in parallel."
+                }
+            ],
+            "443efea1-ffe7-446e-b2fb-37d8ec3cb74a": [
+                {
+                    "document_id": "443efea1-ffe7-446e-b2fb-37d8ec3cb74a",
+                    "text": "This is a\npublicly available database that contains phenotypes from hundreds of studies and also\nlists basal gene expression data for many tissues, including brain regions. 3.4. Why Mice? The European house mouse (Mus musculus) has served as human analogue in basic\nresearch for many decades. Ethical and logistic limitations preclude almost all toxicogenetic\nresearch in humans. Genome-wide association studies in humans have revealed the genetic\nbasis for individual differences in several diseases; however, the exact mechanisms for gene\naction are difficult to ascertain. Thus, the use of animal models to uncover mechanisms\nbecomes the approach [61,62]."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "A number of public data resources are also being established to provide freely\naccessible microarray data on drug- and toxicity-related phenotypes. For example,\nthe Chemical Effects in Biological Systems (CEBS) database (Mattes et al. , 2004) is\na highly recommended resource that accommodates gene-expression profiles, and\nproteomics and metabolomics data and allows very complex queries across more\nthan 100 experiments, mostly performed in rat liver. These experiments include data\ngenerated after exposure to members of key drug classes, including the antidiabetic,\ntroglitazone (Rezulin); the antiepileptic, valproic acid; and the antidepressive, fluoxetine (Prozac) among other drugs (Mattes et al. , 2004)."
+                }
+            ],
+            "5f10ca6d-3a51-4401-a808-9a90b432ca16": [
+                {
+                    "document_id": "5f10ca6d-3a51-4401-a808-9a90b432ca16",
+                    "text": "Although these as yet include only a\n\nlimited number of laboratories and genotypes, they all try to enlist larger groups\nof researchers and to expand the animal\nmodels covered, and they are publicly available. It will be beneficial for the redesign of\nnew behavioral measures that raw behavioral data will be available as well in these\ndatabases. Access to this information will allow\nexperimenters to extract from the database\nthe size of the genotype-by-laboratory interaction relevant to their experiment."
+                }
+            ],
+            "75813bc2-f0b5-400c-92d7-0958df97a04f": [
+                {
+                    "document_id": "75813bc2-f0b5-400c-92d7-0958df97a04f",
+                    "text": ", 2014; see Section 9). GeneNetwork is a database that enables searching for ∼4000 phenotypes from multiple studies in the BXD, HXB, and in other recombinant inbred rodent families, as well as in other model organisms\nand even humans (Mulligan et al. , 2017). GeneNetwork employed a\nsomewhat diﬀerent strategy than MPD in that it did not rely solely on\nresearchers submitting their data. Instead the database operators extracted the data from the scientiﬁc literature and integrated them into a\nuniform format (Chesler et al. , 2003)."
+                },
+                {
+                    "document_id": "75813bc2-f0b5-400c-92d7-0958df97a04f",
+                    "text": "In the future, these two data\nresources, the per strain phenotype data storage with thorough protocol\ndocumentation in MPD, the Rat Genome Database, and genetic analysis\nsuite in GeneNetwork.org will be more closely integrated (Mulligan\net al. , 2017). The public database of the International Mouse Phenotyping\n221\nNeuroscience and Biobehavioral Reviews 87 (2018) 218–232\n\nN. Kafkaﬁ et al. Consortium (IMPC) is intended to be “the ﬁrst truly comprehensive\nfunctional catalogue of a mammalian genome” (Morgan et al. , 2009;\nKoscielny et al. , 2014)."
+                }
+            ],
+            "778e63d4-18ec-4c0d-a221-bddffd5335f6": [
+                {
+                    "document_id": "778e63d4-18ec-4c0d-a221-bddffd5335f6",
+                    "text": "\n\nUseful Databases for the Exploration of Relationships Among Genetic Variations and Specific Phenotypes."
+                }
+            ],
+            "90a19d89-daac-4de9-8213-d3047b1e4b65": [
+                {
+                    "document_id": "90a19d89-daac-4de9-8213-d3047b1e4b65",
+                    "text": "Shimoyama M, De Pons J, Hayman GT, Laulederkind SJ, Liu W, Nigam R, Petri V, Smith JR,\nTutaj M, Wang S-J, The Rat Genome Database 2015: genomic, phenotypic and environmental\nvariations and disease, Nucleic acids research 43(D1) (2014) D743–D750. [PubMed: 25355511]\n[24]. Dickinson ME, Flenniken AM, Ji X, Teboul L, Wong MD, White JK, Meehan TF, Weninger WJ,\nWesterberg H, Adissu H, High-throughput discovery of novel developmental phenotypes, Nature\n537(7621) (2016) 508. [PubMed: 27626380]\n[25]."
+                }
+            ],
+            "92fa8f50-2923-41a1-812b-32d931c71684": [
+                {
+                    "document_id": "92fa8f50-2923-41a1-812b-32d931c71684",
+                    "text": "All data presented in this paper were deposited in the online database\nGeneNetwork (www.genenetwork.org), an open web resource that contains\ngenotypic, gene expression, and phenotypic data from several genetic reference\npopulations of multiple species (e.g. mouse, rat and human) and various cell\ntypes and tissues.35;36 It provides a valuable tool to integrate gene networks and\nphenotypic traits, and also allows cross-cell type and cross-species comparative\ngene expression and eQTL analyses."
+                }
+            ],
+            "a1c91fbe-9f6c-45fe-af9a-46c162d340ed": [
+                {
+                    "document_id": "a1c91fbe-9f6c-45fe-af9a-46c162d340ed",
+                    "text": "This is a\npublicly available database that contains phenotypes from hundreds of studies and also\nlists basal gene expression data for many tissues, including brain regions. 3.4. Why Mice? The European house mouse (Mus musculus) has served as human analogue in basic\nresearch for many decades. Ethical and logistic limitations preclude almost all toxicogenetic\nresearch in humans. Genome-wide association studies in humans have revealed the genetic\nbasis for individual differences in several diseases; however, the exact mechanisms for gene\naction are difficult to ascertain. Thus, the use of animal models to uncover mechanisms\nbecomes the approach [61,62]."
+                }
+            ],
+            "ba1c6c7e-9355-413a-947c-0bae330b58ba": [
+                {
+                    "document_id": "ba1c6c7e-9355-413a-947c-0bae330b58ba",
+                    "text": "The Mouse Phenome Database would be a natural choice: it already provides a\ncontrolled vocabulary for representing phenotype measurements and enforces correct strain nomenclature to\nfacilitate accurate comparisons across studies. Effective\nintegration of phenotypic and genetic data, facilitated by\nthe databases and analytical tools presented in this review,\nis critical to realizing the promise of the CC as it exists\ntoday."
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "A number of public data resources are also being established to provide freely\naccessible microarray data on drug- and toxicity-related phenotypes. For example,\nthe Chemical Effects in Biological Systems (CEBS) database (Mattes et al. , 2004) is\na highly recommended resource that accommodates gene-expression profiles, and\nproteomics and metabolomics data and allows very complex queries across more\nthan 100 experiments, mostly performed in rat liver. These experiments include data\ngenerated after exposure to members of key drug classes, including the antidiabetic,\ntroglitazone (Rezulin); the antiepileptic, valproic acid; and the antidepressive, fluoxetine (Prozac) among other drugs (Mattes et al. , 2004)."
+                }
+            ],
+            "dbe5a781-3561-48cb-9f63-cfb4f3246434": [
+                {
+                    "document_id": "dbe5a781-3561-48cb-9f63-cfb4f3246434",
+                    "text": "The GeneNetwork database provides open access\nto BXD and other RI strain derived microarray data, single nucleotide polymorphism (SNP) data,\nand phenotypic data for quantitative trait loci analysis and gene expression correlation analyses. Gene expression data were exported for manually selected probes in the PDNN hippocampus\ndatabase (Hippocampus Consortium M430v2), and the PDNN whole brain database (INIA Brain\nmRNA M430). The Hippocampus database was chosen as one of the most elaborate brain databases,\nas well as most highly recommended dataset on GeneNetwork itself (http://www.genenetwork.org/\nwebqtl/main.py?FormID=sharinginfo&GN_AccessionId=112)."
+                }
+            ],
+            "e6fc60c2-8651-44d7-a4aa-b4090e2d59f2": [
+                {
+                    "document_id": "e6fc60c2-8651-44d7-a4aa-b4090e2d59f2",
+                    "text": "The Mouse Phenome Database would be a\nnatural choice: it already provides a controlled vocabulary for representing phenotype\nmeasurements and enforces correct strain nomenclature to facilitate accurate comparisons\nacross studies. Effective integration of phenotypic and genetic data, facilitated by the\ndatabases and analytical tools presented in this review, is critical to realizing the promise of\nthe CC as it exists today."
+                }
+            ],
+            "ed937e0a-1b83-4400-9bb3-d61ef714a797": [
+                {
+                    "document_id": "ed937e0a-1b83-4400-9bb3-d61ef714a797",
+                    "text": "RGD database (www.rgd.mcw.edu) provides updated genetic,\ngenomic, phenotype, and disease data generated from mouse, rat,\nand human. A total of 450 genes were downloaded using “cardiomyocyte”, “myocyte”, and “cardiomyopathy” as the keywords. GWAS Catalog (www.ebi.ac.uk/gwas) database provides published genome-wide association studies in human populations. A\ntotal of 126 genes associated with cardiomyopathy disease with p\nvalue ≤5 × 10 −6 were downloaded using “cardiomyopathy” as\nthe key word. IMPC database (http://www.mousephenotype.org/) provides detailed phenotype data for the knockout mouse. A total of 636\ngenes were downloaded using “cardiomyocyte”, “myocyte”, and\n“cardiomyopathy” as key words. collaborative eﬀort [19]."
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "A number of public data resources are also being established to provide freely\naccessible microarray data on drug- and toxicity-related phenotypes. For example,\nthe Chemical Effects in Biological Systems (CEBS) database (Mattes et al. , 2004) is\na highly recommended resource that accommodates gene-expression profiles, and\nproteomics and metabolomics data and allows very complex queries across more\nthan 100 experiments, mostly performed in rat liver. These experiments include data\ngenerated after exposure to members of key drug classes, including the antidiabetic,\ntroglitazone (Rezulin); the antiepileptic, valproic acid; and the antidepressive, fluoxetine (Prozac) among other drugs (Mattes et al. , 2004)."
+                }
+            ],
+            "fca531d0-d45b-495f-a02c-fbd437617b20": [
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "A number of public data resources are also being established to provide freely\naccessible microarray data on drug- and toxicity-related phenotypes. For example,\nthe Chemical Effects in Biological Systems (CEBS) database (Mattes et al. , 2004) is\na highly recommended resource that accommodates gene-expression profiles, and\nproteomics and metabolomics data and allows very complex queries across more\nthan 100 experiments, mostly performed in rat liver. These experiments include data\ngenerated after exposure to members of key drug classes, including the antidiabetic,\ntroglitazone (Rezulin); the antiepileptic, valproic acid; and the antidepressive, fluoxetine (Prozac) among other drugs (Mattes et al. , 2004)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "26681F93BA485656CF56BD71682E7C77",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "Rat&Genome&Database",
+            "Rat",
+            "Genetic",
+            "Genomic",
+            "Phenotype",
+            "Disease",
+            "GeneNetwork",
+            "Mouse",
+            "Human",
+            "Chemical&Effects&in&Biological&Systems"
+        ],
+        "metadata": [],
+        "question": "Which database can I use for genetic, genomic, phenotype, and disease-related data generated from rat research?",
+        "subquestions": null,
+        "task_id": "26681F93BA485656CF56BD71682E7C77",
+        "usage": {
+            "chatgpt": 5545,
+            "gpt-4": 3743,
+            "gpt-4-turbo-preview": 2749
+        },
+        "user_id": 2
+    },
+    "document_id": "26681F93BA485656CF56BD71682E7C77",
+    "task_id": "26681F93BA485656CF56BD71682E7C77"
+}

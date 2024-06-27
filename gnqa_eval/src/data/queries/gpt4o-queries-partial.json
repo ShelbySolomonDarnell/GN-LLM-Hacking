@@ -3,17 +3,6 @@
         "level": "domainexpert",
         "domain": "gn",
         "query": [
-            "What are the latest methodological improvements in evaluating gene-environment interactions using GeneNetwork.org?",
-            "How do multi-omics data integration techniques enhance the prediction accuracy of phenotypic traits in GeneNetwork datasets?",
-            "What are the computational challenges and solutions in analyzing large-scale transcriptomic data within GeneNetwork.org?",
-            "How has the inclusion of data from diverse populations impacted the generalizability of findings on GeneNetwork.org?",
-            "What novel insights have been obtained from GeneNetwork.org regarding the genetic basis of psychiatric disorders?",
-            "How do advancements in machine learning algorithms contribute to the deconvolution of gene expression data in complex tissues?",
-            "What role do enhancer-promoter interactions play in the regulation of gene networks uncovered through GeneNetwork.org?",
-            "How can the integration of ATAC-seq data with RNA-seq data on GeneNetwork.org inform about chromatin accessibility and gene regulation?",
-            "What are the latest strategies for inferring causal relationships within gene networks using data from GeneNetwork.org?",
-            "How do advancements in single-nucleus RNA sequencing provide more granular insights into cell-type-specific gene expression networks?",
-            "What impact have recent discoveries in non-coding RNA regulation had on refining gene interaction maps on GeneNetwork.org?",
             "How are spatial transcriptomics approaches being integrated into GeneNetwork.org to enhance understanding of tissue architecture and function?",
             "How do recent developments in quantitative trait locus (QTL) mapping refine our understanding of gene regulatory variants?",
             "What are the implications of incorporating epigenomic data, such as histone modification maps, into the gene networks on GeneNetwork.org?",
@@ -22,7 +11,8 @@
             "How has the study of genetic pleiotropy been advanced by data available on GeneNetwork.org?",
             "What novel genetic pathways have been identified in GeneNetwork.org studies related to aging and lifespan?",
             "How do polygenic risk scores (PRS) developed using GeneNetwork.org data enhance the prediction and prevention of complex diseases?",
-            "How do recent advancements in network-based integrative genomics alter our understanding of complex trait architectures?"
+            "How do recent advancements in network-based integrative genomics alter our understanding of complex trait architectures?",
+            "What are the latest methodological improvements in evaluating gene-environment interactions using GeneNetwork.org?"
         ]
     },
     {

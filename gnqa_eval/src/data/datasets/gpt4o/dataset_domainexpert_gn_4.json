@@ -1,0 +1,40 @@
+{
+  "question": [
+    "What role do enhancer-promoter interactions play in the regulation of gene networks uncovered through GeneNetwork.org?",
+    "How can the integration of ATAC-seq data with RNA-seq data on GeneNetwork.org inform about chromatin accessibility and gene regulation?",
+    "What are the latest strategies for inferring causal relationships within gene networks using data from GeneNetwork.org?",
+    "How do advancements in single-nucleus RNA sequencing provide more granular insights into cell-type-specific gene expression networks?",
+    "What impact have recent discoveries in non-coding RNA regulation had on refining gene interaction maps on GeneNetwork.org?"
+  ],
+  "answer": [
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback"
+  ],
+  "contexts": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "task_id": [
+    {
+      "task_id": "90A7674779E3320F5F7ADC4419DC7624"
+    },
+    {
+      "task_id": "CB7C63955ED2E239114B04F3EF36AADE"
+    },
+    {
+      "task_id": "5A7498A61427D762BF080934BBB87FA3"
+    },
+    {
+      "task_id": "139E439E73A0121BE95144BC656120D5"
+    },
+    {
+      "task_id": "74730F9F07A359644CD63AC5C1683E38"
+    }
+  ]
+}

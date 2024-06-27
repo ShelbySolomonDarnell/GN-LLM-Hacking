@@ -63,10 +63,8 @@ def create_datasets(query_list, domain, level):
     responses = reset_responses()
     ndx = 0
     for query in query_list:
-
-        task_id, answer, refs = get_gnqa(query,
-                                         config['key.api']['fahamuai'],
-                                         config['DEFAULT']['DATA_DIR'])
+        print(query)
+        task_id, answer, refs = get_gnqa(query, config['key.api']['fahamuai'], config['DEFAULT']['DATA_DIR'])
         responses['question'].append(query)
         responses['answer'].append(answer)
         responses['task_id'].append(task_id)
@@ -90,25 +88,36 @@ def parse_responses(jsonfile):
           "user_id": [],
           "query": [],
           "answer": [],
-          "task_id": []
+          "task_id": [],
+          "level": ""
        },
        "aging": {
           "user_id": [],
           "query": [],
           "answer": [],
-          "task_id": []
+          "task_id": [],
+          "level": ""
        },
        "diabetes": {
           "user_id": [],
           "query": [],
           "answer": [],
-          "task_id": []
+          "task_id": [],
+          "level": ""
        }
     }
     for item in jsonfile:
         domain = ''
-        for key in item.keys():
-           domain = key
+        for key, val in item.items():
+           user_id = key
+           resp_data = val
+           ndx = 0
+           for task_id in resp_data["task_id"]:
+              thequery = resp_data["query"][ndx]
+
+
+           # loop through lists, adding data to appropriate key in data_lst
+           #domain = key
         level     = "human"
         #item[]
         query_lst = item[domain]["query"]

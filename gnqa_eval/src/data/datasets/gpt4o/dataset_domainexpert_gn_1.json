@@ -1,0 +1,40 @@
+{
+  "question": [
+    "How are spatial transcriptomics approaches being integrated into GeneNetwork.org to enhance understanding of tissue architecture and function?",
+    "How do recent developments in quantitative trait locus (QTL) mapping refine our understanding of gene regulatory variants?",
+    "What are the implications of incorporating epigenomic data, such as histone modification maps, into the gene networks on GeneNetwork.org?",
+    "How do recent findings on 3D genome organization contribute to our understanding of functional genomic networks?",
+    "What are the potential applications of artificial intelligence in improving the annotation and interpretation of gene networks?"
+  ],
+  "answer": [
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback",
+    "Please try to rephrase your question to receive feedback"
+  ],
+  "contexts": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "task_id": [
+    {
+      "task_id": "8D1E141D648E5869E9231D1D816D3F0B"
+    },
+    {
+      "task_id": "F1CDC70335589DDE69AB182D3B7F19EE"
+    },
+    {
+      "task_id": "94563EE20767BE8C58226505DADC1A78"
+    },
+    {
+      "task_id": "4113FAD4A3D16D0E317AB7BBA08B8DDF"
+    },
+    {
+      "task_id": "00520BA174DCF1785E5A34048FEEB431"
+    }
+  ]
+}
