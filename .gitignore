@@ -25,3 +25,4 @@ Manifest.toml
 
 # Private configuration
 gnqa_eval/src/_config.cfg
+gnqa_eval/.~lock.ragas_scores.ods#

@@ -26,9 +26,10 @@ def reorg_json_report(obj, resp_lst, ratings):
     # add query to dictionary, if it is an update then don't update the ratings
     qcount = query_dict.setdefault(ratings["query"][0], 0)
     query_dict.update({ratings["query"][0]: qcount+1})
+    update_ratings(resp_lst, user_id, ratings)
     if qcount == 0:
       taskquery_dict.setdefault(ratings["task_id"][0], ratings["query"][0])
-      update_ratings(resp_lst, user_id, ratings)
+      #update_ratings(resp_lst, user_id, ratings)
     #reorg_json_report(val, resp_lst, ratings)
   elif isinstance(obj, list):
     for item in obj:
@@ -97,6 +98,7 @@ with open(outp_file, "a") as the_data:
     the_data.write(json.dumps(user_responses, indent=2))
 
 print("Greetings shabes!")
+print('There are {0} unique queries.'.format(len(taskquery_dict)))
 print(json.dumps(taskquery_dict, indent=2))
 #get number of users
 # get number of questions asked per user

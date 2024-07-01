@@ -1,4 +1,4 @@
-,
+[
 {
   "faithfulness": 0.96,
   "context_utilization": 0.7479011200345999,
@@ -17,3 +17,4 @@
   "context_relevancy": 0.2814642730385713,
   "answer_relevancy": 0.8912330225043821
 }
+]

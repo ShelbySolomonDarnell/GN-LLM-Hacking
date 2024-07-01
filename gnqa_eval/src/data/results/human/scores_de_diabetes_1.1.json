@@ -1,0 +1,19 @@
+,
+{
+  "faithfulness": 1.0,
+  "context_utilization": 0.7777403152338384,
+  "context_relevancy": 0.06084656084656084,
+  "answer_relevancy": 0.9645121106959694
+},
+{
+  "faithfulness": 1.0,
+  "context_utilization": 0.7777403152338384,
+  "context_relevancy": 0.06084656084656084,
+  "answer_relevancy": 0.9545089573441493
+},
+{
+  "faithfulness": 1.0,
+  "context_utilization": 0.7719252969185456,
+  "context_relevancy": 0.05026455026455026,
+  "answer_relevancy": 0.9327156331092903
+}

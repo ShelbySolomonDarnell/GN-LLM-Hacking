@@ -1,0 +1,32 @@
+"stuff_a": { 
+  "level": "domainexpert",
+  "domain": "gn",
+  "query": [
+    "What is ensembl",
+    "Which database can I use for genetic, genomics, phenotype, and disease-related data generated from rat research?",
+    "What is RGD?",
+    "What resources can I use to do pathway analyses?",
+    "Which genes give a predisposition to developing T1D?"
+  ],
+  "task_id": [
+    "7C028B1D0013EA11574B094986ABE4C2",
+    "55562016699AFE4B8AD9A7F29A806CB5",
+    "C9B1B98F9207B79EBBC98790A769CB51",
+    "242918F32291CC085DEB319A7EE3284B",
+    "029A427CEEBABE644F12EE390469B134"
+  ]
+},
+"stuff_b": { 
+  "level": "domainexpert",
+  "domain": "diabetes",
+  "query": [
+    "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?",
+    "How can I use genenetwork to find genes related with diabetes in humans?",
+    "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+  ],
+  "task_id": [
+    "173BE1F01E4A6074A0EBB7CC6137AC8D",
+    "F55160D302C899B2131AA8502A640684",
+    "B52AF52D46499DE2B98933F1786EC9E0"
+  ]
+}

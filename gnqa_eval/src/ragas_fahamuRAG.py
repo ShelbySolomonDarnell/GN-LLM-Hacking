@@ -8,25 +8,26 @@ import pandas as pd
 from pandas import DataFrame as df
 from langchain_together import Together
 from langchain_together.embeddings import TogetherEmbeddings
-from ragas.metrics import (faithfulness, answer_relevancy, context_relevancy, context_recall, context_utilization, context_precision)
+from ragas.metrics import (faithfulness, answer_relevancy, context_relevancy, context_utilization)
 from ragas import evaluate
 from datasets import Dataset#, load_dataset
 
 def evaluateDataset(num_evaluations, dataset, output_file):
   for n in range(0,num_evaluations):
-    results = evaluate(dataset, metrics=[faithfulness,context_utilization,context_relevancy,answer_relevancy])
+
+    results = evaluate(dataset, metrics=[faithfulness,context_utilization,context_relevancy,answer_relevancy], raise_exceptions=False)
     print(results)
     with open(output_file, "a") as the_data:
         the_data.write(",\n")
         the_data.write(json.dumps(results, indent=2))
-    time.sleep(10)
+    time.sleep(20)
 
 
 
 config = configparser.ConfigParser()
 config.read('_config.cfg')
 
-os.environ["OPENAI_API_KEY"] = config['key.api']['openai']
+os.environ["OPENAI_API_KEY"] = config['key.api']['openai2']
 together_key = config['key.api']['togetherai']
 
 #embeddings = TogetherEmbeddings(model="togethercomputer/m2-bert-80M-8k-retrieval")
@@ -63,6 +64,3 @@ results = evaluate(
     llm=together_completion,
     embeddings=embeddings)
 """
-
-#df_results = results.to_pandas()
-#df_results.head()

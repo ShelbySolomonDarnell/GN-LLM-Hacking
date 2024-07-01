@@ -1,4 +1,4 @@
-{
+[
 {
     "user_id": "b4601142-3b57-4d5b-9b55-80bdf0ea4599",
     "query": "List as  many studies as you can that include  rapamycin.",
@@ -510,3 +510,4 @@
     "weight": -1,
     "task_id": "C0015BEE5FE41769A65126B79BB1E40D"
 }
+]
