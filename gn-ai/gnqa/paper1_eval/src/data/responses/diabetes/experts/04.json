@@ -1,0 +1,404 @@
+{
+    "created_at": "2024-05-31T23:10:07.733262Z",
+    "data": {
+        "amplify": false,
+        "answer": "Yes, the gene IFIH1 has been identified as contributing to susceptibility to type 1 diabetes. However, the text does not mention any association between the genes SH2B3 or ERBB3 and diabetes.",
+        "context": {
+            "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d": [
+                {
+                    "document_id": "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d",
+                    "text": "\n\nFigure 8 Molecular changes in the islets of patients with T2D mirror the processes altered in NOD mice.mRNA expression in human pancreatic islets from healthy individuals (n = 105) and those diagnosed with T2D (n = 14) was assessed through RNA-seq analysis. (a) Relationship between GLIS3 and MANF expression in healthy individuals (Spearman correlation P value = 0.043), individuals with T2D (Spearman correlation P value = 0.075) and all individuals (Spearman correlation P value = 0.028). (b-e) Expression of XRCC4 (b), LIG4 (c), H2AFX (d) and CDKN1A (e) in healthy islets as compared to i slets from patients withT2D (P values shown after multiple-testing correction).The median and interquartile range (IQR; box) are shown, with error bars indicating 1.5 times the IQR.Individual values are shown if beyond 1.5 times the IQR. (f) Relationship between H2AFX and LIG4 expression in human islets (Spearman correlation P value = 5 × 10 −9 )."
+                }
+            ],
+            "15524ac0-da3c-4c01-8ae2-1b8c901105ad": [
+                {
+                    "document_id": "15524ac0-da3c-4c01-8ae2-1b8c901105ad",
+                    "text": "\n\nAll the genes involved in these pathways, as well as the genes involved in b-cells development and turnover, may be considered candidate genes for T2DM with predominant insulin deficiency."
+                }
+            ],
+            "1ef9a72d-b9ef-4955-a351-fca0175da3d1": [
+                {
+                    "document_id": "1ef9a72d-b9ef-4955-a351-fca0175da3d1",
+                    "text": "\n\nOne method of searching for the cause of NIDDM is via the candidate gene approach.Possible candidates for NIDDM include genes involved in specifying pancreatic islet (3-cell phenotype and in directing fj-cell development and (3-cell responses of glucose-mediated insulin synthesis and secretion.The transcription factor islet-1 (Isl-1) has been shown to be a unique protein that binds to the mini-enhancer or Far-FLAT region (nucleotide -247 to -198) of the rat insulin I gene (7).Isl-1, a protein comprised of 349 residues (38 kD), is a member of the LIM/homeodomain family of proteins, named for the first three members described: lin-11, isl-1, and mec-3 (8,9).These proteins are comprised of three putative regulatory regions, two LIM domains (cysteine-rich motifs) in the amino terminus of the protein, a homeobox domain near the middle, and a glutamine-rich transcriptional activation domain at the carboxyl end (7,9).With the use of an antibody to Isl-1, expression was shown to be restricted to a subset of endocrine cells, including islets, neurons involved in autonomic and endocrine control, and selected other tissues in the adult rat (10)(11)(12)."
+                }
+            ],
+            "21368075-9e10-4260-b346-43b1029b3bf0": [
+                {
+                    "document_id": "21368075-9e10-4260-b346-43b1029b3bf0",
+                    "text": "Results\n\nImpairment or alteration of the insulin-signaling pathway is a commonly recognized feature of type 2 diabetes.It is therefore notable that the IS-HD gene set (Dataset S4) was not detected to be significantly transcriptionally altered by application of either hypergeometric enrichmentt test, DEA or GSEA.In particular, applying GSEA to the transcriptional profile dataset of diabetic and normal glucose-tolerant skeletal muscle described in Mootha et al. [10] did not identify a significant level of alteration in the IS-HD gene set (p ¼ 0.536), while DEA produced a comparably weak enrichment score (p ¼ 0.607).The failure to detect a significant transcriptional alteration in IS-HD may be explained by a number of factors.The enrichment results depended on the specific choice of the IS-HD gene set, and it is possible that an alternatively defined insulin-signaling gene set would be determined as significantly enriched.Additionally, expression changes in a few critical genes in IS-HD may be sufficient to substantially alter insulin signaling, and running DEA on the large IS-HD set may miss the contributions from these few genes."
+                }
+            ],
+            "2715e261-b26c-46d6-918f-c6aa47688f0c": [
+                {
+                    "document_id": "2715e261-b26c-46d6-918f-c6aa47688f0c",
+                    "text": "35\nABSTRACT 11\nA GENE EXPRESSION NETWORK MODEL OF TYPE 2 DIABETES\nESTABLISHES A RELATIONSHIP BETWEEN CELL CYCLE\nREGULATION IN ISLETS AND DIABETES SUSCEPTIBILITY\nMP Keller, YJ Choi, P Wang, DB Davis, ME Rabaglia, AT Oler, DS Stapleton,\nC Argmann, KL Schueler, S Edwards, HA Steinberg, EC Neto, R Klienhanz, S\nTurner, MK Hellerstein, EE Schadt, BS Yandell, C Kendziorski, and AD Attie\nDepts."
+                }
+            ],
+            "4322db2f-5f43-4fc0-8968-b24438a7d6b9": [
+                {
+                    "document_id": "4322db2f-5f43-4fc0-8968-b24438a7d6b9",
+                    "text": "\n\nSecond, we performed an extensive manual curation according to a previously described b-cell-targeted annotation (Kutlu et al, 2003;Ortis et al, 2010).In partial agreement with the IPA, we found these genes to fall into three broad categories: (1) genes related to b-cell dysfunction and death, (2) genes potentially facilitating the adaptation of the pancreatic islets to the altered metabolic situation in T2D and (3) genes whose role in disease pathogenesis remains to be unearthed (Figure 6B).The adaptation-related gene category contains few metabolism-associated genes (e.g., HK1, FBP2; Figure 6B, right part, Figure 7) and many more genes involved in signal transduction or encoding hormones, growth factors (e.g., EGF, FGF1, IGF2/IGF2AS; Figure 7), or transcription factors involved in important regulatory networks (for instance, FOXA2/HNF3B, PAX4 and SOX6) (Figure 6B, right part, Figure 7).In the b-cell dysfunction and death category, there were hypomethylated genes related to DNA damage and oxidative stress (e.g., GSTP1, ALDH3B1; Figure 7), the endoplasmic reticulum (ER) stress response (NIBAN, PPP2R4, CHAC1), and apoptosis (CASP10, NR4A1, MADD; Figure 6B, left part, Figure 7).Some genes of interest from the highlighted categories are depicted in Figure 7. Their annotated functions provide possible explanations of how the epigenetic dysregulation of these genes in diabetic islets is connected to T2D pathogenesis.Numerous genes that were identified by our methylation profiling approach have been functionally implicated in insulin secretion.Examination of the available literature on the function of these genes revealed three aspects of insulin secretion with which they interfere: some of these genes influence the expression of the insulin gene, like MAPK1 and SOX6, or its post-translational maturation, like PPP2R4 (cf. Figure 7 and references therein).Others can deregulate the process of insulin secretion itself (SLC25A5, Ahuja et al, 2007;RALGDS, Ljubicic et al, 2009) or influence synthesis as well as secretion (vitronectin, Kaido et al, 2006).A third group of differentially methylated genes affects (i) signalling processes in the b-cell leading to insulin secretion or (ii) glucose homeostasis in b-cells, thereby modulating insulin response upon stimulation.GRB10 (Yamamoto et al, 2008), FBP2 and HK1 (Figure 7) are examples for these genes.Additional genes found in our study have been implicated in the b-cells' capability to secrete insulin, though the mechanisms have not yet been fully established.The putative functions of these genes indicate a potential epigenetic impact on insulin secretion at multiple levels, namely signalling, expression/synthesis and secretion."
+                }
+            ],
+            "647571cd-ff36-4be4-97c4-cd006d9bfbaf": [
+                {
+                    "document_id": "647571cd-ff36-4be4-97c4-cd006d9bfbaf",
+                    "text": "\n\nIn summary, we have associated mutations in the SLC29A3 gene with diabetes mellitus in humans and the insulin signaling pathway in Drosophila.The mechanistic basis of these findings remains to be determined.This is strong evidence supporting the investment of resources to further investigate the role of SLC29A3 and its orthologs in diabetes and glucose metabolism in model systems."
+                },
+                {
+                    "document_id": "647571cd-ff36-4be4-97c4-cd006d9bfbaf",
+                    "text": "DISCUSSION\n\nWe have identified mutations in the equilibrative nucleoside transporter 3 protein that are associated with an inherited syndrome of insulin-dependent DM, and provide prima facie evidence that the Drosophila ortholog of this protein interacts with the insulin signaling pathway.This is the first evidence that mutations in the human SLC29A3 gene can be associated with a diabetic phenotype."
+                }
+            ],
+            "6e80ed3b-2be6-4775-a3c5-89cb4ddc88ae": [
+                {
+                    "document_id": "6e80ed3b-2be6-4775-a3c5-89cb4ddc88ae",
+                    "text": "\n\nThese observations taken together suggest that molecules involved in innate immunity could serve as candidate genes that determine the susceptibility of sensitive strains of mice to virusinduced diabetes.Interestingly, deficiency of the Tyk2 gene results in a reduced antiviral response 24 .In addition, the human TYK2 gene was mapped to the possible type 1 diabetes susceptibility locus 25 ."
+                }
+            ],
+            "7b7ce30c-f398-4b0e-bcb6-52f2644201fd": [
+                {
+                    "document_id": "7b7ce30c-f398-4b0e-bcb6-52f2644201fd",
+                    "text": "\n\nA recent sequencing study provides an example of detection of rare variants in type 1 diabetes.Targeted sequencing in a series of candidate coding regions resulted in IFIH1 being identified as the causal gene in a region associated with type 1 diabetes by GWA studies (58).IFIH1 encodes a cytoplasmic helicase that mediates induction of the interferon response to viral RNA.The discovery of IFIH1 as a contributor to susceptibility to type 1 diabetes has strengthened the hypothesis (70) about a mechanism of disease pathogenesis involving virusgenetic interplay and raised type 1 interferon levels as a cofactor in ␤-cell destruction.Nonetheless, it should be recognized that a component of the missing heritability (familial aggregation) in type 1 diabetes could well be due to unrecognized intra-familial environmental factors.Disease pathogenesis.Contemporary models of pathogenesis of type 1 diabetes support the involvement of two primary dramatis personae: the immune system and the ␤-cell.The known and newly identified genetic risk factors for type 1 diabetes present exciting opportunities to build on to the current cast of disease mechanisms and networks.Most of the listed genes of interest (Table 2) and those in extended regions are assumed to regulate immune function.Some of these genes, however, may also have roles in the ␤-cell (insulin being the most obvious example).Another gene, PTPN2, encoding a protein tyrosine phosphatase, was identified as affecting the risk for type 1 diabetes as well as for Crohn disease (47,71).PTPN2 is expressed in immune cells, and its expression is highly regulated by cytokines.However, PTPN2 is expressed also in ␤-cells, where it modulates interferon (IFN)-␥ signal transduction and has been shown to regulate cytokineinduced apoptosis (72).Other candidate genes, such as NOS2A, IL1B, reactive oxygen species scavengers, and candidate genes, identified in large GWA studies of type 2 diabetes, have not been found to be significant contributors to the susceptibility of type 1 diabetes (73)."
+                }
+            ],
+            "7e816722-443f-463c-8a79-852752df28e6": [
+                {
+                    "document_id": "7e816722-443f-463c-8a79-852752df28e6",
+                    "text": "Differential Expression Analyses of Type 1 Diabetes Mellitus Associated Genes\n\nFor the aforementioned 171 'novel' genes, we used t-test to compare ribonucleic acid expression signals in PBMCs or monocytes between type 1 diabetes mellitus patients and healthy controls.We found that 37 genes, including 21 non-HLA genes (e.g.FAM46B, OLFML3 and HIPK1), were differentially expressed between type 1 diabetes mellitus patients  and controls (Table 2).For the differential expression study, the significance level of P < 5.0E-02 was used."
+                }
+            ],
+            "845adde7-823a-4bfc-9f5e-7082d2e26102": [
+                {
+                    "document_id": "845adde7-823a-4bfc-9f5e-7082d2e26102",
+                    "text": "\n\nIn this study, we have correlated the function and genotype of human islets obtained from diabetic and nondiabetic (ND) donors.We have analyzed a panel of 14 gene variants robustly associated with T2D susceptibility identified by recent genetic association studies.We have identified four genetic variants that confer reduced b-cell exocytosis and six variants that interfere with insulin granule distribution.Based on these observations, we calculate a genetic risk score for islet dysfunction leading to T2D that involves decreased docking of insulin-containing secretory granules, impaired insulin exocytosis, and reduced insulin secretion."
+                }
+            ],
+            "8aee60c9-9bb4-4867-96c9-830c1e43c72e": [
+                {
+                    "document_id": "8aee60c9-9bb4-4867-96c9-830c1e43c72e",
+                    "text": "\n\nAt present, insulin [15], glucokinase [16], amylin [17], mitochondrial DNA [18], and several transcriptional factors [19][20][21][22] are recognized as diabetogenic genes in pancreatic b-cells.In the present study we used the candidate gene approach in the examination of genomic variation in the a 1D and Kir6.2 channel genes in type 2 diabetic patients."
+                }
+            ],
+            "9fd49699-612f-48c0-b1d9-e01158472be6": [
+                {
+                    "document_id": "9fd49699-612f-48c0-b1d9-e01158472be6",
+                    "text": "\n\nIn summary, we report AEIs that are consistent with type 2 diabetes-associated variation regulating the expression of cis-linked genes in human islets.For some of the genes where significant AEI was identified (e.g., SLC30A8, WFS1), there is strong evidence from human genetics that small changes in gene dosage may have significant consequences for the pancreatic b-cell.For other genes with significant AEI (e.g., ANPEP, HMG20A), their role is less well defined, and hence this study should provide a platform for further work examining the effects of carefully manipulating the expression of these genes in human islets."
+                }
+            ],
+            "e51e88b2-bea3-4ab7-858f-824f7d5ccbdd": [
+                {
+                    "document_id": "e51e88b2-bea3-4ab7-858f-824f7d5ccbdd",
+                    "text": "\n\nResults.Pathway analysis of genes with differentially methylated promoters identified the top 3 enriched pathways as maturity onset diabetes of the young (MODY), type 2 diabetes, and Notch signaling.Several genes in these pathways are known to affect pancreatic development and insulin secretion."
+                }
+            ],
+            "e7bc9d83-6c3b-405c-a552-29874b927860": [
+                {
+                    "document_id": "e7bc9d83-6c3b-405c-a552-29874b927860",
+                    "text": "The authors then used mouse liver and adipose expression\ndata from several mouse crosses to construct causal expression networks for the ERBB3 and\nRPS26 orthologs in the mouse. They then showed that ERBB3 is not associated with any\nknown Type I diabetes genes whereas RPS26 is associated a network of several genes that\nare part of the KEGG Type I diabetes pathway (Schadt et al. 2008). This type of analysis\ndemonstrates the power of combining human and mouse data with a network based\napproach that has been proposed for use in drug discovery (Schadt et al."
+                }
+            ],
+            "ebb49f39-ee30-4b32-959d-305276fd589e": [
+                {
+                    "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                    "text": "\n\nIn conclusion, GWAS studies focusing on the causes of T2D have implicated islet dysfunction as a major contributing factor (18,71).By examining isolated islets for stress responses and cross-referencing gene hits with genes associated with glucose-stimulated insulin release in human populations with T2D, we identified 7 genes that may play a role in promoting or preventing islet decline in T2D.By further examining stress-induced expression changes in each of these genes, we identified 5 genes that stood out: F13a1 as a novel stress-inhibited gene in islets, Klhl6 and Pamr1 as induced genes specific to ER stress, Ripk2 as a  broadly stress-induced gene, and Steap4 as an exceptionally cytokine-sensitive gene.These genes provide promising leads in elucidating islet stress responses and islet dysfunction during the development of T2D."
+                },
+                {
+                    "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                    "text": "\nGenome-wide association studies in human type 2 diabetes (T2D) have renewed interest in the pancreatic islet as a contributor to T2D risk.Chronic low-grade inflammation resulting from obesity is a risk factor for T2D and a possible trigger of ␤-cell failure.In this study, microarray data were collected from mouse islets after overnight treatment with cytokines at concentrations consistent with the chronic low-grade inflammation in T2D.Genes with a cytokine-induced change of Ͼ2-fold were then examined for associations between single nucleotide polymorphisms and the acute insulin response to glucose (AIRg) using data from the Genetics Underlying Diabetes in Hispanics (GUARDIAN) Consortium.Significant evidence of association was found between AIRg and single nucleotide polymorphisms in Arap3 (5q31.3),F13a1 (6p25.3),Klhl6 (3q27.1),Nid1 (1q42.3),Pamr1 (11p13), Ripk2 (8q21.3),and Steap4 (7q21.12).To assess the potential relevance to islet function, mouse islets were exposed to conditions modeling low-grade inflammation, mitochondrial stress, endoplasmic reticulum (ER) stress, glucotoxicity, and lipotoxicity.RT-PCR revealed that one or more forms of stress significantly altered expression levels of all genes except Arap3.Thapsigargininduced ER stress up-regulated both Pamr1 and Klhl6.Three genes confirmed microarray predictions of significant cytokine sensitivity: F13a1 was down-regulated 3.3-fold by cytokines, Ripk2 was up-regulated 1.5-to 3-fold by all stressors, and Steap4 was profoundly cytokine sensitive (167-fold up-regulation).Three genes were thus closely associated with low-grade inflammation in murine islets and also with a marker for islet function (AIRg) in a diabetes-prone human population.This islet-targeted genome-wide association scan identified several previously unrecognized candidate genes related to islet dysfunction during the development of T2D."
+                },
+                {
+                    "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                    "text": "\n\nGenome-wide association studies in human type 2 diabetes (T2D) have renewed interest in the pancreatic islet as a contributor to T2D risk.Chronic low-grade inflammation resulting from obesity is a risk factor for T2D and a possible trigger of ␤-cell failure.In this study, microarray data were collected from mouse islets after overnight treatment with cytokines at concentrations consistent with the chronic low-grade inflammation in T2D.Genes with a cytokine-induced change of Ͼ2-fold were then examined for associations between single nucleotide polymorphisms and the acute insulin response to glucose (AIRg) using data from the Genetics Underlying Diabetes in Hispanics (GUARDIAN) Consortium.Significant evidence of association was found between AIRg and single nucleotide polymorphisms in Arap3 (5q31.3),F13a1 (6p25.3),Klhl6 (3q27.1),Nid1 (1q42.3),Pamr1 (11p13), Ripk2 (8q21.3),and Steap4 (7q21.12).To assess the potential relevance to islet function, mouse islets were exposed to conditions modeling low-grade inflammation, mitochondrial stress, endoplasmic reticulum (ER) stress, glucotoxicity, and lipotoxicity.RT-PCR revealed that one or more forms of stress significantly altered expression levels of all genes except Arap3.Thapsigargininduced ER stress up-regulated both Pamr1 and Klhl6.Three genes confirmed microarray predictions of significant cytokine sensitivity: F13a1 was down-regulated 3.3-fold by cytokines, Ripk2 was up-regulated 1.5-to 3-fold by all stressors, and Steap4 was profoundly cytokine sensitive (167-fold up-regulation).Three genes were thus closely associated with low-grade inflammation in murine islets and also with a marker for islet function (AIRg) in a diabetes-prone human population.This islet-targeted genome-wide association scan identified several previously unrecognized candidate genes related to islet dysfunction during the development of T2D."
+                }
+            ],
+            "faa23996-65fc-4bc6-938a-c959e981d493": [
+                {
+                    "document_id": "faa23996-65fc-4bc6-938a-c959e981d493",
+                    "text": "\n\nFinally, several of the linking nodes introduced into this islet network through their PPI connections represent interesting candidates for a role in T2D pathogenesis, and there are several examples where external data provides validation of those assignments.An interesting example involves the gene GINS4 which maps at the ANK1 locus.Though this gene generated a low PCS [0.03] and was not included in the set of seed genes for this locus, GINS4 knock-down has an impact in a human beta-cell line [14].In addition, cyclin-dependent kinase 2 (CDK2) has been shown to influence beta-cell mass in a compensatory mechanism related to age-and diet-induced stress, connecting beta-cell dysfunction and progressive beta-cell mass deterioration [54].YHWAG is a member of the 14-3-3 family, known to be signalling hubs for beta-cell survival [55], and disruption of SMAD4 drives islet hypertrophy [56]."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "7b7ce30c-f398-4b0e-bcb6-52f2644201fd",
+                "section_type": "main",
+                "text": "\n\nA recent sequencing study provides an example of detection of rare variants in type 1 diabetes.Targeted sequencing in a series of candidate coding regions resulted in IFIH1 being identified as the causal gene in a region associated with type 1 diabetes by GWA studies (58).IFIH1 encodes a cytoplasmic helicase that mediates induction of the interferon response to viral RNA.The discovery of IFIH1 as a contributor to susceptibility to type 1 diabetes has strengthened the hypothesis (70) about a mechanism of disease pathogenesis involving virusgenetic interplay and raised type 1 interferon levels as a cofactor in ␤-cell destruction.Nonetheless, it should be recognized that a component of the missing heritability (familial aggregation) in type 1 diabetes could well be due to unrecognized intra-familial environmental factors.Disease pathogenesis.Contemporary models of pathogenesis of type 1 diabetes support the involvement of two primary dramatis personae: the immune system and the ␤-cell.The known and newly identified genetic risk factors for type 1 diabetes present exciting opportunities to build on to the current cast of disease mechanisms and networks.Most of the listed genes of interest (Table 2) and those in extended regions are assumed to regulate immune function.Some of these genes, however, may also have roles in the ␤-cell (insulin being the most obvious example).Another gene, PTPN2, encoding a protein tyrosine phosphatase, was identified as affecting the risk for type 1 diabetes as well as for Crohn disease (47,71).PTPN2 is expressed in immune cells, and its expression is highly regulated by cytokines.However, PTPN2 is expressed also in ␤-cells, where it modulates interferon (IFN)-␥ signal transduction and has been shown to regulate cytokineinduced apoptosis (72).Other candidate genes, such as NOS2A, IL1B, reactive oxygen species scavengers, and candidate genes, identified in large GWA studies of type 2 diabetes, have not been found to be significant contributors to the susceptibility of type 1 diabetes (73)."
+            },
+            {
+                "document_id": "9fd49699-612f-48c0-b1d9-e01158472be6",
+                "section_type": "main",
+                "text": "\n\nIn summary, we report AEIs that are consistent with type 2 diabetes-associated variation regulating the expression of cis-linked genes in human islets.For some of the genes where significant AEI was identified (e.g., SLC30A8, WFS1), there is strong evidence from human genetics that small changes in gene dosage may have significant consequences for the pancreatic b-cell.For other genes with significant AEI (e.g., ANPEP, HMG20A), their role is less well defined, and hence this study should provide a platform for further work examining the effects of carefully manipulating the expression of these genes in human islets."
+            },
+            {
+                "document_id": "4322db2f-5f43-4fc0-8968-b24438a7d6b9",
+                "section_type": "main",
+                "text": "\n\nSecond, we performed an extensive manual curation according to a previously described b-cell-targeted annotation (Kutlu et al, 2003;Ortis et al, 2010).In partial agreement with the IPA, we found these genes to fall into three broad categories: (1) genes related to b-cell dysfunction and death, (2) genes potentially facilitating the adaptation of the pancreatic islets to the altered metabolic situation in T2D and (3) genes whose role in disease pathogenesis remains to be unearthed (Figure 6B).The adaptation-related gene category contains few metabolism-associated genes (e.g., HK1, FBP2; Figure 6B, right part, Figure 7) and many more genes involved in signal transduction or encoding hormones, growth factors (e.g., EGF, FGF1, IGF2/IGF2AS; Figure 7), or transcription factors involved in important regulatory networks (for instance, FOXA2/HNF3B, PAX4 and SOX6) (Figure 6B, right part, Figure 7).In the b-cell dysfunction and death category, there were hypomethylated genes related to DNA damage and oxidative stress (e.g., GSTP1, ALDH3B1; Figure 7), the endoplasmic reticulum (ER) stress response (NIBAN, PPP2R4, CHAC1), and apoptosis (CASP10, NR4A1, MADD; Figure 6B, left part, Figure 7).Some genes of interest from the highlighted categories are depicted in Figure 7. Their annotated functions provide possible explanations of how the epigenetic dysregulation of these genes in diabetic islets is connected to T2D pathogenesis.Numerous genes that were identified by our methylation profiling approach have been functionally implicated in insulin secretion.Examination of the available literature on the function of these genes revealed three aspects of insulin secretion with which they interfere: some of these genes influence the expression of the insulin gene, like MAPK1 and SOX6, or its post-translational maturation, like PPP2R4 (cf. Figure 7 and references therein).Others can deregulate the process of insulin secretion itself (SLC25A5, Ahuja et al, 2007;RALGDS, Ljubicic et al, 2009) or influence synthesis as well as secretion (vitronectin, Kaido et al, 2006).A third group of differentially methylated genes affects (i) signalling processes in the b-cell leading to insulin secretion or (ii) glucose homeostasis in b-cells, thereby modulating insulin response upon stimulation.GRB10 (Yamamoto et al, 2008), FBP2 and HK1 (Figure 7) are examples for these genes.Additional genes found in our study have been implicated in the b-cells' capability to secrete insulin, though the mechanisms have not yet been fully established.The putative functions of these genes indicate a potential epigenetic impact on insulin secretion at multiple levels, namely signalling, expression/synthesis and secretion."
+            },
+            {
+                "document_id": "15524ac0-da3c-4c01-8ae2-1b8c901105ad",
+                "section_type": "main",
+                "text": "\n\nAll the genes involved in these pathways, as well as the genes involved in b-cells development and turnover, may be considered candidate genes for T2DM with predominant insulin deficiency."
+            },
+            {
+                "document_id": "647571cd-ff36-4be4-97c4-cd006d9bfbaf",
+                "section_type": "main",
+                "text": "\n\nIn summary, we have associated mutations in the SLC29A3 gene with diabetes mellitus in humans and the insulin signaling pathway in Drosophila.The mechanistic basis of these findings remains to be determined.This is strong evidence supporting the investment of resources to further investigate the role of SLC29A3 and its orthologs in diabetes and glucose metabolism in model systems."
+            },
+            {
+                "document_id": "e7bc9d83-6c3b-405c-a552-29874b927860",
+                "section_type": "main",
+                "text": "The authors then used mouse liver and adipose expression\ndata from several mouse crosses to construct causal expression networks for the ERBB3 and\nRPS26 orthologs in the mouse.  They then showed that ERBB3 is not associated with any\nknown Type I diabetes genes whereas RPS26 is associated a network of several genes that\nare part of the KEGG Type I diabetes pathway (Schadt et al.  2008).  This type of analysis\ndemonstrates the power of combining human and mouse data with a network based\napproach that has been proposed for use in drug discovery (Schadt et al."
+            },
+            {
+                "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                "section_type": "main",
+                "text": "\n\nIn conclusion, GWAS studies focusing on the causes of T2D have implicated islet dysfunction as a major contributing factor (18,71).By examining isolated islets for stress responses and cross-referencing gene hits with genes associated with glucose-stimulated insulin release in human populations with T2D, we identified 7 genes that may play a role in promoting or preventing islet decline in T2D.By further examining stress-induced expression changes in each of these genes, we identified 5 genes that stood out: F13a1 as a novel stress-inhibited gene in islets, Klhl6 and Pamr1 as induced genes specific to ER stress, Ripk2 as a  broadly stress-induced gene, and Steap4 as an exceptionally cytokine-sensitive gene.These genes provide promising leads in elucidating islet stress responses and islet dysfunction during the development of T2D."
+            },
+            {
+                "document_id": "1ef9a72d-b9ef-4955-a351-fca0175da3d1",
+                "section_type": "main",
+                "text": "\n\nOne method of searching for the cause of NIDDM is via the candidate gene approach.Possible candidates for NIDDM include genes involved in specifying pancreatic islet (3-cell phenotype and in directing fj-cell development and (3-cell responses of glucose-mediated insulin synthesis and secretion.The transcription factor islet-1 (Isl-1) has been shown to be a unique protein that binds to the mini-enhancer or Far-FLAT region (nucleotide -247 to -198) of the rat insulin I gene (7).Isl-1, a protein comprised of 349 residues (38 kD), is a member of the LIM/homeodomain family of proteins, named for the first three members described: lin-11, isl-1, and mec-3 (8,9).These proteins are comprised of three putative regulatory regions, two LIM domains (cysteine-rich motifs) in the amino terminus of the protein, a homeobox domain near the middle, and a glutamine-rich transcriptional activation domain at the carboxyl end (7,9).With the use of an antibody to Isl-1, expression was shown to be restricted to a subset of endocrine cells, including islets, neurons involved in autonomic and endocrine control, and selected other tissues in the adult rat (10)(11)(12)."
+            },
+            {
+                "document_id": "7e816722-443f-463c-8a79-852752df28e6",
+                "section_type": "main",
+                "text": "Differential Expression Analyses of Type 1 Diabetes Mellitus Associated Genes\n\nFor the aforementioned 171 'novel' genes, we used t-test to compare ribonucleic acid expression signals in PBMCs or monocytes between type 1 diabetes mellitus patients and healthy controls.We found that 37 genes, including 21 non-HLA genes (e.g.FAM46B, OLFML3 and HIPK1), were differentially expressed between type 1 diabetes mellitus patients  and controls (Table 2).For the differential expression study, the significance level of P < 5.0E-02 was used."
+            },
+            {
+                "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                "section_type": "abstract",
+                "text": "\nGenome-wide association studies in human type 2 diabetes (T2D) have renewed interest in the pancreatic islet as a contributor to T2D risk.Chronic low-grade inflammation resulting from obesity is a risk factor for T2D and a possible trigger of ␤-cell failure.In this study, microarray data were collected from mouse islets after overnight treatment with cytokines at concentrations consistent with the chronic low-grade inflammation in T2D.Genes with a cytokine-induced change of Ͼ2-fold were then examined for associations between single nucleotide polymorphisms and the acute insulin response to glucose (AIRg) using data from the Genetics Underlying Diabetes in Hispanics (GUARDIAN) Consortium.Significant evidence of association was found between AIRg and single nucleotide polymorphisms in Arap3 (5q31.3),F13a1 (6p25.3),Klhl6 (3q27.1),Nid1 (1q42.3),Pamr1 (11p13), Ripk2 (8q21.3),and Steap4 (7q21.12).To assess the potential relevance to islet function, mouse islets were exposed to conditions modeling low-grade inflammation, mitochondrial stress, endoplasmic reticulum (ER) stress, glucotoxicity, and lipotoxicity.RT-PCR revealed that one or more forms of stress significantly altered expression levels of all genes except Arap3.Thapsigargininduced ER stress up-regulated both Pamr1 and Klhl6.Three genes confirmed microarray predictions of significant cytokine sensitivity: F13a1 was down-regulated 3.3-fold by cytokines, Ripk2 was up-regulated 1.5-to 3-fold by all stressors, and Steap4 was profoundly cytokine sensitive (167-fold up-regulation).Three genes were thus closely associated with low-grade inflammation in murine islets and also with a marker for islet function (AIRg) in a diabetes-prone human population.This islet-targeted genome-wide association scan identified several previously unrecognized candidate genes related to islet dysfunction during the development of T2D."
+            },
+            {
+                "document_id": "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d",
+                "section_type": "main",
+                "text": "\n\nFigure 8 Molecular changes in the islets of patients with T2D mirror the processes altered in NOD mice.mRNA expression in human pancreatic islets from healthy individuals (n = 105) and those diagnosed with T2D (n = 14) was assessed through RNA-seq analysis. (a) Relationship between GLIS3 and MANF expression in healthy individuals (Spearman correlation P value = 0.043), individuals with T2D (Spearman correlation P value = 0.075) and all individuals (Spearman correlation P value = 0.028). (b-e) Expression of XRCC4 (b), LIG4 (c), H2AFX (d) and CDKN1A (e) in healthy islets as compared to i slets from patients withT2D (P values shown after multiple-testing correction).The median and interquartile range (IQR; box) are shown, with error bars indicating 1.5 times the IQR.Individual values are shown if beyond 1.5 times the IQR. (f) Relationship between H2AFX and LIG4 expression in human islets (Spearman correlation P value = 5 × 10 −9 )."
+            },
+            {
+                "document_id": "845adde7-823a-4bfc-9f5e-7082d2e26102",
+                "section_type": "main",
+                "text": "\n\nIn this study, we have correlated the function and genotype of human islets obtained from diabetic and nondiabetic (ND) donors.We have analyzed a panel of 14 gene variants robustly associated with T2D susceptibility identified by recent genetic association studies.We have identified four genetic variants that confer reduced b-cell exocytosis and six variants that interfere with insulin granule distribution.Based on these observations, we calculate a genetic risk score for islet dysfunction leading to T2D that involves decreased docking of insulin-containing secretory granules, impaired insulin exocytosis, and reduced insulin secretion."
+            },
+            {
+                "document_id": "faa23996-65fc-4bc6-938a-c959e981d493",
+                "section_type": "main",
+                "text": "\n\nFinally, several of the linking nodes introduced into this islet network through their PPI connections represent interesting candidates for a role in T2D pathogenesis, and there are several examples where external data provides validation of those assignments.An interesting example involves the gene GINS4 which maps at the ANK1 locus.Though this gene generated a low PCS [0.03] and was not included in the set of seed genes for this locus, GINS4 knock-down has an impact in a human beta-cell line [14].In addition, cyclin-dependent kinase 2 (CDK2) has been shown to influence beta-cell mass in a compensatory mechanism related to age-and diet-induced stress, connecting beta-cell dysfunction and progressive beta-cell mass deterioration [54].YHWAG is a member of the 14-3-3 family, known to be signalling hubs for beta-cell survival [55], and disruption of SMAD4 drives islet hypertrophy [56]."
+            },
+            {
+                "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                "section_type": "main",
+                "text": "\n\nGenome-wide association studies in human type 2 diabetes (T2D) have renewed interest in the pancreatic islet as a contributor to T2D risk.Chronic low-grade inflammation resulting from obesity is a risk factor for T2D and a possible trigger of ␤-cell failure.In this study, microarray data were collected from mouse islets after overnight treatment with cytokines at concentrations consistent with the chronic low-grade inflammation in T2D.Genes with a cytokine-induced change of Ͼ2-fold were then examined for associations between single nucleotide polymorphisms and the acute insulin response to glucose (AIRg) using data from the Genetics Underlying Diabetes in Hispanics (GUARDIAN) Consortium.Significant evidence of association was found between AIRg and single nucleotide polymorphisms in Arap3 (5q31.3),F13a1 (6p25.3),Klhl6 (3q27.1),Nid1 (1q42.3),Pamr1 (11p13), Ripk2 (8q21.3),and Steap4 (7q21.12).To assess the potential relevance to islet function, mouse islets were exposed to conditions modeling low-grade inflammation, mitochondrial stress, endoplasmic reticulum (ER) stress, glucotoxicity, and lipotoxicity.RT-PCR revealed that one or more forms of stress significantly altered expression levels of all genes except Arap3.Thapsigargininduced ER stress up-regulated both Pamr1 and Klhl6.Three genes confirmed microarray predictions of significant cytokine sensitivity: F13a1 was down-regulated 3.3-fold by cytokines, Ripk2 was up-regulated 1.5-to 3-fold by all stressors, and Steap4 was profoundly cytokine sensitive (167-fold up-regulation).Three genes were thus closely associated with low-grade inflammation in murine islets and also with a marker for islet function (AIRg) in a diabetes-prone human population.This islet-targeted genome-wide association scan identified several previously unrecognized candidate genes related to islet dysfunction during the development of T2D."
+            },
+            {
+                "document_id": "2715e261-b26c-46d6-918f-c6aa47688f0c",
+                "section_type": "main",
+                "text": "35\nABSTRACT 11\nA GENE EXPRESSION NETWORK MODEL OF TYPE 2 DIABETES\nESTABLISHES A RELATIONSHIP BETWEEN CELL CYCLE\nREGULATION IN ISLETS AND DIABETES SUSCEPTIBILITY\nMP Keller, YJ Choi, P Wang, DB Davis, ME Rabaglia, AT Oler, DS Stapleton,\nC Argmann, KL Schueler, S Edwards, HA Steinberg, EC Neto, R Klienhanz, S\nTurner, MK Hellerstein, EE Schadt, BS Yandell, C Kendziorski, and AD Attie\nDepts."
+            },
+            {
+                "document_id": "21368075-9e10-4260-b346-43b1029b3bf0",
+                "section_type": "main",
+                "text": "Results\n\nImpairment or alteration of the insulin-signaling pathway is a commonly recognized feature of type 2 diabetes.It is therefore notable that the IS-HD gene set (Dataset S4) was not detected to be significantly transcriptionally altered by application of either hypergeometric enrichmentt test, DEA or GSEA.In particular, applying GSEA to the transcriptional profile dataset of diabetic and normal glucose-tolerant skeletal muscle described in Mootha et al. [10] did not identify a significant level of alteration in the IS-HD gene set (p ¼ 0.536), while DEA produced a comparably weak enrichment score (p ¼ 0.607).The failure to detect a significant transcriptional alteration in IS-HD may be explained by a number of factors.The enrichment results depended on the specific choice of the IS-HD gene set, and it is possible that an alternatively defined insulin-signaling gene set would be determined as significantly enriched.Additionally, expression changes in a few critical genes in IS-HD may be sufficient to substantially alter insulin signaling, and running DEA on the large IS-HD set may miss the contributions from these few genes."
+            },
+            {
+                "document_id": "647571cd-ff36-4be4-97c4-cd006d9bfbaf",
+                "section_type": "main",
+                "text": "DISCUSSION\n\nWe have identified mutations in the equilibrative nucleoside transporter 3 protein that are associated with an inherited syndrome of insulin-dependent DM, and provide prima facie evidence that the Drosophila ortholog of this protein interacts with the insulin signaling pathway.This is the first evidence that mutations in the human SLC29A3 gene can be associated with a diabetic phenotype."
+            },
+            {
+                "document_id": "8aee60c9-9bb4-4867-96c9-830c1e43c72e",
+                "section_type": "main",
+                "text": "\n\nAt present, insulin [15], glucokinase [16], amylin [17], mitochondrial DNA [18], and several transcriptional factors [19][20][21][22] are recognized as diabetogenic genes in pancreatic b-cells.In the present study we used the candidate gene approach in the examination of genomic variation in the a 1D and Kir6.2 channel genes in type 2 diabetic patients."
+            },
+            {
+                "document_id": "6e80ed3b-2be6-4775-a3c5-89cb4ddc88ae",
+                "section_type": "main",
+                "text": "\n\nThese observations taken together suggest that molecules involved in innate immunity could serve as candidate genes that determine the susceptibility of sensitive strains of mice to virusinduced diabetes.Interestingly, deficiency of the Tyk2 gene results in a reduced antiviral response 24 .In addition, the human TYK2 gene was mapped to the possible type 1 diabetes susceptibility locus 25 ."
+            },
+            {
+                "document_id": "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d",
+                "section_type": "main",
+                "text": "Parallel transcriptional regulation in human islets\n\nTo determine whether the findings observed in mice were applicable to humans, we investigated whether the pathway identified in NOD mice also demonstrated genetic linkage to diabetes or glucose regulation traits in humans.GLIS3 polymorphisms have previously been associated with altered glucose regulation; we additionally identified nominally significant associations for MANF, XRCC4 and LIG4 polymorphisms (Supplementary Table 2).In an independent approach that takes into account environmental effects, we analyzed RNA-seq data from human pancreatic islets isolated from 119 donors, including 14 diagnosed with T2D 28 .To assess the validity of the Glis3-Manf relationship observed in mice, we investigated the relationship of these two genes in human islets.A trend toward reduced GLIS3 expression was observed in T2D islets, whereas MANF expression appeared unchanged (Supplementary Fig. 13).Critically, a significant positive relationship was observed between GLIS3 and MANF levels in human islets (Fig. 8a).Next, we investigated whether patients with T2D might exhibit reduced XRCC4 expression, analogous to the NOD polymorphisms.We found no change in XRCC4 expression in T2D islets (Fig. 8b); however, the levels of the obligate binding partner encoded by LIG4 were significantly reduced (Fig. 8c).In mice, Xrcc4 polymorphisms were associated with increased senescence; likewise, in patients with T2D, the levels of the senescence markers H2AFX (Fig. 8d) and CDKN1A (Fig. 8e) were increased.Finally, a direct relationship was observed between reduced LIG4 and increased H2AFX levels (Fig. 8f).Although the cause of coregulation cannot be assessed in ex vivo human islets, the parallel with NOD mice strongly supports a conservation of diabetes susceptibility mechanisms across species.3,500,000 3,000,000 2,500,000 2,000,000 1,500,000 1,000,000 500,000 0 Fluorescence"
+            },
+            {
+                "document_id": "ebb49f39-ee30-4b32-959d-305276fd589e",
+                "section_type": "main",
+                "text": "\n\nWe previously reported that circulating levels of these cytokines were sufficient to reduce glucose-stimulated insulin release and increase cell death in islets from diabetes-prone mice but not heterozygous controls (12).To begin to identify the genes responsible for this effect, we conducted a microarray study of islets isolated from prediabetic BKS.Cg-m ϩ/ϩ Lepr db /J (db/db) mice and heterozygous controls to compare their responses to exposure to circulating levels of IL-1␤ and IL-6 at concentrations that mimic low-grade inflammation.The most cytokine-sensitive genes from the mouse islet microarray study were evaluated for associations with the Genetics Underlying Diabetes in Hispanics (GUARDIAN) Consortium.GUARDIAN is a genome-wide association scan (GWAS) in Hispanic Americans, the largest US minority group and one at high risk of T2D (13).Participants in this study were monitored for glucose homeostasis measured by the frequently sampled intravenous glucose tolerance test (FSIVGTT) and the euglycemic clamp.Both FSIVGTTs and the euglycemic clamp methods yield underlying physiological, highly heritable parameters that are relevant to the risk of T2D (14,15)."
+            },
+            {
+                "document_id": "3c35547c-eb9b-470d-b74b-0f9a0529e965",
+                "section_type": "main",
+                "text": "\n\nIt has been hypothesized for a while that individual differences in insulin secretion capacity are predominantly determined by genetics (186,187).This is now clearly strengthened by the finding that, among the 27 confirmed (Table 1) and potential (Table 2) diabetes risk genes mentioned above, 18 genes affect ␤-cell function, namely CAPN10 (188), CDC123/CAMK1D (189), CDKAL1 (166, 174, 190 -193), CDKN2A/B (34,167,193), ENPP1 (194), FOXO1 (77), HHEX (167,190,193,195,196), IGF2BP2 (34,166,167), JAZF1 (189), KCNJ11 (38,41,193), KCNQ1 (180,197), MTNR1B (181)(182)(183), PPARGC1A (198), SGK1 (79), SLC30A8 (34,166), TCF7L2 (129,134,138,160,193,199,200), TSPAN8/ LGR5 (189), and WFS1 (201)(202)(203).This was revealed by calculating fasting state-and oral glucose tolerance test (OGTT)-derived (plasma insulin-and C-peptide-based) surrogate indices for insulin secretion that do not allow further dissection of the aspects of ␤-cell function affected, such as insulin maturation, glucose sensitivity, or incretin sensitivity.From these rough estimates of ␤-cell function, pathomechanisms showing how these common gene variants impair ␤-cell function were only proposed for the biological candidates KCNJ11, FOXO1, and SGK1, which have been well studied in vitro as well as in mice in vivo.KCNJ11 (potassium inwardly-rectifying channel, subfamily J, member 11; OMIM entry no.600937) encodes the pore-forming subunit Kir6.2 of the ATP-sensitive potassium channel of ␤-cells, which couples glucose sensing with membrane depolarization and exocytosis of insulin granules.The best studied and confirmed diabetes risk variant E23K (rs5219) was shown in vitro to increase the probability of the channel's open state, to enhance its activity, and to impair its ATP sensitivity, thereby inhibiting ␤-cell excitability and insulin release (204,205).Furthermore, the same variant was suggested to impair insulin secretion due to its enhanced response to the channel-ac-tivating effect of intracellular acyl coenzyme As, fatty acid metabolites known to be elevated in obese and type 2 diabetic subjects (206)."
+            },
+            {
+                "document_id": "4322db2f-5f43-4fc0-8968-b24438a7d6b9",
+                "section_type": "main",
+                "text": "\n\nFor the first approach, we assessed whether the differentially methylated genes have any overlap or other association with known T2D risk genes.Then, we carried out an Ingenuity Pathway Analysis (IPA; Figure 6A) to identify pathways that are epigenetically affected in T2D islets according to our methylation profiling data.This was augmented by a manual search for the differentially methylated genes in scientific literature reporting on the general biology as well as T2D-related functions of these genes or the pathways they are part of (Figures 6 and 7).For the second approach, we knocked down expression of several genes by RNA interference and tested the functional consequence of their depletion in b-cells (Figure 8).For two selected genes, we explored their functional role more extensively in isolated b-cells and human islets (Figure 9)."
+            },
+            {
+                "document_id": "e92427da-dee9-472f-bfa1-2e7bfa7de521",
+                "section_type": "main",
+                "text": "\n\nTo evaluate the effects of hyperglycemia or other metabolic consequences of DM per se on expression, we identified 12 genes altered in DM as compared with both nondiabetic groups but not as a function of family history (Table 4, which is published as supporting information on the PNAS web site).This included a 70-kDa heat-shock protein (HSP701A), which was decreased by 42% in DM and whose expression correlated inversely with fasting glucose for all subjects (r ϭ Ϫ0.77).Expression of a related HSP70 gene was previously found to be reduced in Caucasian diabetic subjects (20)."
+            },
+            {
+                "document_id": "92eb0c69-5e98-41aa-9084-506e7f223b1a",
+                "section_type": "main",
+                "text": "\n\nIt is worth mentioning that in [132], a meta-analysis study was conducted, where a collection of gene expression datasets of pancreatic beta-cells, conditioned in an environment resembling T1D induced apoptosis, such as exposure to proinflammatory cytokines, in order to identify relevant and differentially expressed genes.The specific genes were then characterized according to their function and prior literature-based information to build temporal regulatory networks.Moreover, biological experiments were carried out revealing that inhibition of two of the most relevant genes (RIPK2 and ELF3), previously unknown in T1D literature, have a certain impact on apoptosis."
+            },
+            {
+                "document_id": "18d88787-096b-4fc1-ad4e-3d1b1f3a90d9",
+                "section_type": "main",
+                "text": "\n\nFigure 2: The role of type 2 diabetes genes in insulin secretion Pancreatic β-cell genes associated with type 2 diabetes are in italics.G6P=glucose-6-phosphate. Adapted from Florez JC.Newly identifi ed loci highlight beta cell dysfunction as a key cause of type 2 diabetes: where are the insulin resistance genes?Diabetologia 2008; 51: 1100-10, by kind permission of the author and Springer Science + Business Media."
+            },
+            {
+                "document_id": "845adde7-823a-4bfc-9f5e-7082d2e26102",
+                "section_type": "abstract",
+                "text": "\nThe majority of genetic risk variants for type 2 diabetes (T2D) affect insulin secretion, but the mechanisms through which they influence pancreatic islet function remain largely unknown.We functionally characterized human islets to determine secretory, biophysical, and ultrastructural features in relation to genetic risk profiles in diabetic and nondiabetic donors.Islets from donors with T2D exhibited impaired insulin secretion, which was more pronounced in lean than obese diabetic donors.We assessed the impact of 14 disease susceptibility variants on measures of glucose sensing, exocytosis, and structure.Variants near TCF7L2 and ADRA2A were associated with reduced glucose-induced insulin secretion, whereas susceptibility variants near ADRA2A, KCNJ11, KCNQ1, and TCF7L2 were associated with reduced depolarization-evoked insulin exocytosis.KCNQ1, ADRA2A, KCNJ11, HHEX/IDE, and SLC2A2 variants affected granule docking.We combined our results to create a novel genetic risk score for b-cell dysfunction that includes aberrant granule docking, decreased Ca 2+ sensitivity of exocytosis, and reduced insulin release.Individuals with a high risk score displayed an impaired response to intravenous glucose and deteriorating insulin secretion over time.Our results underscore the importance of defects in b-cell exocytosis in T2D and demonstrate the potential of cellular phenotypic characterization in the elucidation of complex genetic disorders."
+            },
+            {
+                "document_id": "4322db2f-5f43-4fc0-8968-b24438a7d6b9",
+                "section_type": "main",
+                "text": "\n\nIt has been suggested that progressively occurring DNA methylation errors lead to diminished gene responsiveness to external stimuli and might thus contribute to the development of T2D (Gallou-Kabani and Junien, 2005).Our findings of prevalent promoter hypomethylation in T2D islets are indicative of active biological processes involved in adaptation to the diabetic environment as well as biological pathways associated with b-cell dysfunction and apoptosis (Figures 6B and 7).The functional relevance of some of the differentially methylated genes in b-cells was documented by screening for b-cell survival/death following RNAi and subsequent exposure to stresses relevant to T2D (Figure 8).Given the increased evidence that ER stress-induced apoptosis is one of the mechanisms of b-cell loss in T2D (Eizirik et al, 2008), it was of interest to further assess the biological functions of two putative ER stress-related genes that we found to be hypomethylated in T2D islets, namely NIBAN and CHAC1.We observed that these two genes are upregulated by synthetic ER stressors and by the more physiologically relevant saturated fatty acid palmitate in human islets, while knockdown of their expression by specific RNAi demonstrated their modulatory role in apoptosis (cf. Figure 9).While NIBAN protects against ER stress-induced apoptosis, CHAC1 seems to contribute to cell death.The hypomethylation observed at both genes could be explained by competing proapoptotic and antiapoptotic processes during ER stress response in diabetic islets.NIBAN is a negative regulator of translation initiation factor eIF2a (Sun et al, 2007).Therefore, its hypomethylation may indicate an attempt to re-establish ER homeostasis by reduction of protein synthesis (Eizirik et al, 2008).Pending the outcome of these attempts, ER stress-induced apoptosis may be triggered by CHAC1 and other proapoptotic genes."
+            },
+            {
+                "document_id": "4322db2f-5f43-4fc0-8968-b24438a7d6b9",
+                "section_type": "main",
+                "text": "\n\nA recent study assessed gene expression in different islet cell types including the insulin-producing b-cells (Dorrell et al, 2011).A comparison showed that 240 of our 254 genes are covered by the microarray used by these authors.In all, 170 of these genes have a positive presence call in b-cells.This indicates that the majority of the genes we detected as differentially methylated in T2D islets are expressed in non-diabetic b-cells to a sufficient amount to be reliably detected by microarrays, that is, these are genes actively transcribed in b-cells."
+            },
+            {
+                "document_id": "4a1a2496-1172-4262-8158-a3a96b80bcf4",
+                "section_type": "main",
+                "text": "\n\nStrikingly, three of the 10 candidate miRNA regulatory hubs in the T2D gene network were 59-shifted isomiRs: miR-375+1, miR-375-1, and miR-183-5p+1 (Fig. 4A).Moreover, all three of these were more significantly associated with T2D genes than their 59reference counterparts (Table S3 in File S2).This is particularly intriguing, given the already well-established role of 59-reference miR-375 in beta cell formation and function."
+            },
+            {
+                "document_id": "70667239-7e12-494f-a6dd-5b1d073b5a56",
+                "section_type": "main",
+                "text": "\n\nNevertheless, taken together there is good evidence to propose that in human pancreas and in rodent pancreatic cell lines, steady state levels of insulin mRNA are lower from insulin genes linked to the class III VNTR alleles that for type 1 diabetes are dominantly protective.It is, however, difficult to explain how an approximately 30% reduction in insulin expression could explain the dominantly protective effect of class III VNTR alleles.Perhaps the pancreas is not the primary site of action of IDDM2-VNTRencoded predisposition to type 1 diabetes.In mice, the insulin gene is expressed transiently at birth in the thymus [30], presumably contributing to the normal state of non-responsiveness to insulin protein."
+            },
+            {
+                "document_id": "4322db2f-5f43-4fc0-8968-b24438a7d6b9",
+                "section_type": "main",
+                "text": "\n\nThe analyses described above found only few common T2D candidate genes among the differentially methylated genes uncovered in this study.This could imply that T2D pathogenesis in islets is partially mediated by previously unappreciated genes.To decipher their roles in the context of T2D islets, as a first step we performed an IPA to determine which canonical pathways were overrepresented in our set of genes (Figure 6A).Inflammation-related processes were highly enriched, in particular the acute phase response and IL-8 signalling.Other enriched pathways, such as apoptosis and death receptor signalling, emphasise the role of b-cell loss in T2D.Enrichment for pathways involved in metabolism and internal and external cell structure (e.g., actin cytoskeleton and integrin signalling) may be indicative of altered islet function and architecture."
+            },
+            {
+                "document_id": "41bc85bc-314f-4d92-9007-5d1571506ef3",
+                "section_type": "main",
+                "text": "Regulation of GWAS diabetes genes by glucose in pancreatic islets\n\nMany of the recently discovered type 2 diabetes genes have been suggested to affect the development and/or function of pancreatic islets [6].The function, growth and survival of β-cells can be regulated acutely and chronically by glucose [34].Thus, we examined whether the new type 2 diabetes susceptibility genes are regulated by overnight incubation in low (5 mM) or high (25 mM) glucose (Figure 5).Most genes were significantly or tended to be downregulated under conditions of high glucose.Cdkal1, Cdkn2a (Arf, P = 0.07), Ide, Jazf1, Camk1d, and Tspan8 (P = 0.06) expression levels were decreased ~50-60%.Meanwhile, the expression of Cdkn2b, Hhex (P = 0.10), Cdc123, Adamts9 (P = 0.09), and Thada were reduced 30-40%.To ensure the islets incubated in high glucose did not have globally decreased expression, we examined the expression of Txnip, which has been shown to be highly upregulated by glucose [35] and found that its expression was still significantly elevated in the islets cultured in high glucose (Figure 5).Mouse islets consist of β-cells and other cell types.Thus, the MIN6 β-cell line was also examined.We found that all the genes were expressed in this cell line (not shown), although this does not preclude that they also are expressed in other cell types within the islet."
+            },
+            {
+                "document_id": "29d09d03-fd2f-48b3-a020-ea574d583dc4",
+                "section_type": "main",
+                "text": "\n\nThe majority of association studies has shown multiple gene loci for epigenetic regulation in these central mediators of type II diabetes, β-cells.Chen and colleagues characterized Ezh2 fl/fl mice and Cdkn2a −/− mice to reveal that an increased Ink4a and Arf expression in β-cells was linked to a reduced proliferative capacity.While Ezh2 levels declined throughout aging, INK4A levels increased.ChIP analysis uncovered that H3K27me3 occupancy regulating Ink4a and Ezh2 was declining with age, while H3K4me3 and histone acetylation at the Ink4a locus ascended in older mice.The authors concluded from their study that EZH2-dependent histone methylation and repression of the Ink4a/Arf locus are required for β-cell expansion [223,226].In a further study, the methylome of β cells was analyzed pancreatic islets from young and old mice using whole genome shotgun bisulfite sequencing (WGSBS).Overall, higher methylation rates (especially in CpGs with low methylation levels in youth), accompanied by a decline in replicative capacity, increased promoter methylation and decreased expression of cell cycle regulators were detected in \"healthy\" old β-cells.Intriguingly, this observation was associated with a functional improvement in aged murine and human islets [223,227]."
+            },
+            {
+                "document_id": "787e2a2c-be24-4970-94b1-0f872a8cd684",
+                "section_type": "main",
+                "text": "\n\nWe screened our pediatric diabetes cohort with unknown etiology using Sanger sequencing.In mouse pancreatic β-cell lines (Min6 and SJ cells), we performed insulin secretion assay and quantitative RT-PCR to measure the β-cell function transfected with the detected HDAC4 variants and wild type.We carried out immunostaining and Western blot to investigate if the detected HDAC4 variants affect the cellular translocation and acetylation status of Forkhead box protein O1 (FoxO1) in the pancreatic β-cells."
+            },
+            {
+                "document_id": "36858807-1395-4b2f-a3ee-e054f9b0149d",
+                "section_type": "main",
+                "text": "\n\nAs ER stress markers were not activated to potentially explain reduced insulin secretion, genes related to insulin secretion pathway were investigated using real-time-PCR, which revealed downregulation of the glucose-stimulated insulin secretion (GSIS) pathway and the glucose uptake pathway in RIN-m β-cells when compared to the control, indicating impairment of these pathways.mRNA levels by real-time PCR (Fig. 4c) showed a decrease in glucose transporter 2 (Glut2 [MIM: 138160]) to 54% compared to the control, p < 0.001.Pancreatic and duodenal homeobox 1 (Pdx1 [MIM: 600733]) was also suppressed to 85.7%, p = 0.01.On the other hand, the forkhead box protein A2 (Foxa2 [MIM: 600288]) mRNA level, which regulates PDX1, was unchanged, while the mRNA of glucokinase (Gck [MIM: 138079]), which phosphorylates glucose in the first step of the GSIS pathway in β-cells, was slightly elevated (11.5%, p = 0.008)."
+            },
+            {
+                "document_id": "286480ca-0d7f-4a93-952b-2cf57292104d",
+                "section_type": "main",
+                "text": "\n\nIt is yet unclear, however, whether the decreased expression of Ica1 plays a functional role in the development (cause) or is merely an effect of diabetes.Interestingly, even though Ica1 (also known as Ica69) has been associated with diabetes in the human, mouse, and rat (4, 8 -10, 12, 16, 18, 19, 34), the Ica1  gene locus has not been previously identified as a risk locus for diabetes in either humans or in experimental models of diabetes, and this is the first time that this gene has been associated with a diabetes-related QTL."
+            },
+            {
+                "document_id": "1dc0547a-1d61-4b27-b848-512875b52081",
+                "section_type": "main",
+                "text": "\n\nIt is yet unclear, however, whether the decreased expression of Ica1 plays a functional role in the development (cause) or is merely an effect of diabetes.Interestingly, even though Ica1 (also known as Ica69) has been associated with diabetes in the human, mouse, and rat (4, 8 -10, 12, 16, 18, 19, 34), the Ica1  gene locus has not been previously identified as a risk locus for diabetes in either humans or in experimental models of diabetes, and this is the first time that this gene has been associated with a diabetes-related QTL."
+            },
+            {
+                "document_id": "e51e88b2-bea3-4ab7-858f-824f7d5ccbdd",
+                "section_type": "main",
+                "text": "\n\nResults.Pathway analysis of genes with differentially methylated promoters identified the top 3 enriched pathways as maturity onset diabetes of the young (MODY), type 2 diabetes, and Notch signaling.Several genes in these pathways are known to affect pancreatic development and insulin secretion."
+            },
+            {
+                "document_id": "e92427da-dee9-472f-bfa1-2e7bfa7de521",
+                "section_type": "main",
+                "text": "\n\nGenes differentially expressed between control and diabetic subjects may reflect either the pathophysiology of insulin resistance (primary alterations) or secondary effects of hyperglycemia, hyperlipidemia, and other metabolic factors.To identify potentially primary expression changes associated with insulin resistance, we compared gene expression in FHϩ (nondiabetic but insulin resistant) and FHϪ controls.One hundred sixty-six genes were differentially expressed between FHϩ and FHϪ (P Ͻ 0.05) (Table 3, which is published as supporting information on the PNAS web site); 55 were common to both [FHϪ vs. DM] and [FHϪ vs. FHϩ] comparisons.No single gene remained differentially expressed after Benjamini-Hochberg multiple comparison testing.However, ontology classification analysis (17) revealed that 20S and 26S proteasome complexes were the top-ranked cellular component terms (Z 7.7 and 7.3); mitochondrion-linked genes were also overrepresented (Z 3.2).Cell structure (P ϭ 0.004), protein degradation (P ϭ 3.7 ϫ 10 Ϫ4 ), and energy generation (P ϭ 0.003) groups were represented to a greater extent than expected for random distribution; with multiple comparison testing, the protein degradation͞26S proteasome (P ϭ 1 ϫ 10 Ϫ5 ) group remained significant."
+            }
+        ],
+        "document_id": "A9F5CC0D31CE591D56814F3A276760E5",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "diabetes",
+            "type&1&diabetes",
+            "type&2&diabetes",
+            "SH2B3",
+            "IFIH1",
+            "ERBB3",
+            "insulin",
+            "pancreatic&islets",
+            "gene&expression",
+            "mutations"
+        ],
+        "metadata": [
+            {
+                "object": "We identified 32 compound heterozygous mutations and 9 homozygous mutations in IL10 receptor subunit alpha and 1 homozygous mutation in IL10 receptor subunit beta. Among these mutations, 10 novel mutations were identified, and 6 pathogenic mutations had been previously described. In patients with IL10 receptor subunit alpha mutations, c.301C>T p.R101RW and c.537 G>A p.T179T were the most common mutations.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1007199"
+            },
+            {
+                "object": "Data, including studies involving single-cell analysis, suggest that insulin-secreting cells exhibit 3 major states regarding unfolded protein response UPR: 1 low UPR and low insulin gene expression; 2 low UPR and high insulin gene expression; 3 high UPR and low insulin gene expression. The latter state promotes cell proliferation; UPR appears to mediate recovery from ER stress due to high insulin production.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab215528"
+            },
+            {
+                "object": "Ten mutations were identified in five unrelated Chinese families and two sporadic patients with childhood, and adult hypophosphatasia including eight missense mutations and two frameshift mutations. Of which, four were novel: one frameshift mutation p.R138Pfsx45; three missense mutations p.C201R, p.V459A, p.C497S. No identical mutations and any other new ALPL mutations were found in unrelated 50 healthy controls.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab768168"
+            },
+            {
+                "object": "Our aim was to identify VHL gene mutations in Argentinian patients who fulfilled the clinical criteria for type 1 VHL disease and in patients with VHL-associated manifestations. VHL mutations were detected in 16/19 84.2% patients in Group 1 and included: gross deletions 4/16; nonsense mutations 6/16; frameshift mutations 4/16; missense mutations 1/16; and splicing mutations 1/16. Three mutations were novel.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab550929"
+            },
+            {
+                "object": "Data suggest IGT10 mice, diabetes type 2 model, exhibit 2 genetic defects: haploinsufficiency heterozygosity for null allele of insulin receptor Insr; splice-site mutation in protein phosphatase 2 regulatory subunit B alpha Ppp2r2a. Inheritance of either allele results in insulin resistance but not overt diabetes. Double heterozygosity leads to insulin resistance and diabetes type 2 without increase in body weight.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab203476"
+            },
+            {
+                "object": "WFS1 and GJB2 mutations were identified in eight of 74 cases of Low-Frequency Sensorineural Hearing Loss. Four cases had heterozygous WFS1 mutations; one had a heterozygous WFS1 mutation and a heterozygous GJB2 mutation; and three cases had biallelic GJB2 mutations. Three cases with WFS1 mutations were sporadic; two of them were confirmed to be caused by a de novo mutation based on the genetic analysis of their parents.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1014986"
+            },
+            {
+                "object": "Two patients harbored KRAS with codon 12 mutations; one harbored the gly12val mutation with a variation of leu597val in the BRAF exon 15 codon, the other harbored mutation in the BRAF exon 15 codon. One patient harbored a codon 117 mutation with a BRAF V600E mutation. The last patient harbored a NRAS exon 2 mutation with the GGT/GAT, V600G mutation in the BRAF exon 15 codon",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab978995"
+            },
+            {
+                "object": "Findings extend the phenotype of insulin mutation carriers and suggest that insulin screening is warranted not only in neonatal diabetes, but also in maturity onset diabetes of the young and in selected cases of type 1 diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab288509"
+            },
+            {
+                "object": "CFTR genes from 46 African Americans and 356 Hispanic Americans were screened. 8 new mutations 1 missense mutation, 1 splice-site mutation & 6 frame-shift mutations & 21 distinct rare mutations not in the commercial mutation panels were identified.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab134892"
+            },
+            {
+                "object": "4 different mutations including 1 novel mutation were identified. 4 had R225Q mutation, 3 had P224S mutation, 2 others had different frame-shift mutations. Identical gene mutations showed wide variation in supernumerary tooth formation.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab10218"
+            }
+        ],
+        "question": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?",
+        "subquestions": null,
+        "task_id": "A9F5CC0D31CE591D56814F3A276760E5",
+        "usage": {
+            "chatgpt": 8842,
+            "gpt-4": 5247,
+            "gpt-4-turbo-preview": 4320
+        },
+        "user_id": 2
+    },
+    "document_id": "A9F5CC0D31CE591D56814F3A276760E5",
+    "task_id": "A9F5CC0D31CE591D56814F3A276760E5"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2004 - A New Look at Viruses in Type 1 Diabetes.pdf",
+    "2020 - Integration of genomics and transcriptomics predicts diabetic retinopathy susceptibility genes.pdf",
+    "2016 - Integrated multi-omics of the human gut microbiome in a case study of familial type 1 diabetes.pdf",
+    "2003 - A functional polymorphism in the promoterenhancer region of the FOXP3Scurfin gene associated with type 1 diabetes.pdf",
+    "2005 - Pathway analysis of coronary atherosclerosis.pdf",
+    "2003 -Genetic epidemiology of type 1 diabetes.pdf",
+    "2018 - The human gut microbiome in early-onset type 1 diabetes from the TEDDY study.pdf",
+    "2011 - Type 1 Diabetes Etiology, Immunology.pdf",
+    "2017 - Type 1 diabetes mellitus.pdf",
+    "2004 - Diabetes Genes a.pdf"
+  ],
+  "extraction_id": [
+    "8bbb4581-dc07-5410-9737-6d249f3740f6",
+    "018ac588-c327-5122-9c18-18f4d0df0f14",
+    "092a9b75-9985-5876-a650-59bc3f0d10fb",
+    "aacbb5a1-c294-5568-ba02-3d4342091e86",
+    "858559b5-74d3-585a-9f45-ffa065ecb0f7",
+    "84a487be-a531-5f09-b2d5-d0525c59d581",
+    "9cca2fe6-7584-5d28-91f3-e06edca7ed54",
+    "388e7eec-4204-59b5-a42d-e56a9032da0b",
+    "d342e632-c951-519a-b0de-505f3515403d",
+    "48f690af-58fa-59e1-a0ca-ce421aaa356c"
+  ],
+  "document_id": [
+    "38edad91-ff31-504e-91d8-eac3833615b0",
+    "699a10ff-44d7-5cb3-bc25-ec5ba85cb751",
+    "f0405966-38bf-5a04-aa2c-1474b11362bb",
+    "4a3964a4-0aea-58ee-b749-33e0d8c62228",
+    "fa9c400b-fbfa-54ce-a801-7594b489e42d",
+    "cbc7f2d3-3f65-50ba-b281-96dd1c77f2c0",
+    "36096262-86f1-5c7e-bea1-4abbc610a974",
+    "3c9823cd-3615-53b6-96c8-b7d2123d3eb0",
+    "8e8b9b6e-8dfb-5aae-8c61-5f53bd4e0242",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa"
+  ],
+  "id": [
+    "chatcmpl-ADYnJbAeICzXtvQR31T420R0p7Xn0",
+    "d156068e-31f6-5464-8ef1-eb5e7c58aa8d",
+    "b205daa9-4723-5641-9ed4-428d83cf7758",
+    "e7e8ef7b-bad0-54bc-814d-d947ea04756b",
+    "c851d17c-1ad0-5b9a-8820-ad45d0e4b075",
+    "0f6e6870-960c-560d-ad61-36c1d4d9970f",
+    "f6fd1d0f-d88e-55f7-8ed6-bba917a65b8f",
+    "00b43e01-2296-528e-82e1-5671bffe784d",
+    "0790a91d-f1c5-519a-9b0e-73a9f73b8da4",
+    "5daae5a1-9163-5850-874b-ea63ecdd4f87",
+    "65247182-02f3-501c-94d4-36f4893ff703"
+  ],
+  "contexts": [
+    "disordering particular lymphocyte subsets [57]. Viral anti-body-free BB rats show an increased frequency and accel-erated onset of diabetes, suggesting that infection may havea protective effect against the development of diabetes bythese animals [230]. Thus, we speculate that infection orimmune stimulation in humans may also reduce the pen-etrance of susceptibility genes, which could account for thelow concordance rate between identical twins of less than40% for the development of T1D [13]. Conclusion",
+    "ished immune responsiveness, a well-characterized feature of diabetes ( Shanmugam et al., 2003 ; Mowat and Baum, 1971 ). Further, we considered that the genetic component of an individuals response to glucose may influence their susceptibility to diabetic complications like retinopathy. Cell lines from individuals with diabetes with and without retinopathy reveal differences in the response to glucose at a molec-",
+    "diabetes. ISME J. 5,8291 (2011). 30. Brown, C. T. et al. Gut microbiome metagenomics analysis suggests a functional model for the development of autoimmunity for type 1 diabetes.PLoS ONE 6,e25792 (2011). 31. Endesfelder, D. et al. Compromised gut microbiota networks in children with anti-islet cell autoimmunity. Diabetes 63,2006 2014 (2014). 32. Kostic, A. D. et al. The dynamics of the human infant gut microbiome in development and in progression toward type 1 diabetes. Cell Host Microbe 17, 260273 (2015).",
+    "+T cells related to diabetes-associated",
+    "the innate immune system (8, 36, 37) are known to play important roles in the development of diabetes itself, no study to date has linked these ideas with the",
+    "same or related viruses might complete the process of immune-mediated b-cell destruction. Alternatively, chil- dren genetically predisposed to develop autoimmunediabetes might have an altered immune system that is more likely to respond to viral exposures with strongly detectable antibody levels against certain viral antigens.If so, the detectable levels of antibodies to multiple viral antigens in diabetic patients would not indicate a causal",
+    "with -cell autoimmunity and those without. Diabetes 62, 12381244 (2013).  9. Mario, E. et al. Gut microbial metabolites limit the frequency of autoimmune  T cells and protect against type 1 diabetes. Nat. Immunol. 18, 552562  (2017).  10. Needell, J. C. & Zipris, D. The role of the intestinal microbiome in type 1 diabetes pathogenesis. Curr. Diab. Rep. 16, 89 (2016).  11. Davis-Richardson, A. G. et al. Bacteroides dorei dominates gut microbiome prior",
+    "141. Filippi CM, Estes EA, Oldham JE, von Herrath MG. Immuno- regulatory mechanisms triggered by viral infections protect fromtype 1 diabetes in mice. J Clin Invest 119: 15151523, 2009. 142. Filippi CM, von Herrath MG. Viral trigger for type 1 diabetes: pros and cons. Diabetes 57: 28632871, 2008. 143. Flohe SB, Wasmuth HE, Kerad JB, Beales PE, Pozzilli P. A wheat-based, diabetes-promoting diet induces a Th1-type cytokinebias in the gut of NOD mice. Cytokine 21: 149154, 2003.",
+    "12451252 (2008). 77. Hofer,J.  etal.  Elevated proportions of recent thymic  emigrants in children and adolescents with type1  diabetes. Rejuvenation Res. 12, 311320 (2009). 78. Wong,F.S. How does Bcell tolerance contribute to  the protective effects of diabetes following induced  mixed chimerism in autoimmune diabetes? Diabetes  63, 18551857 (2014). 79. Roep,B.O. & Peakman,M. Antigen targets of type1  diabetes autoimmunity. Cold Spring Harb. Perspect.  Med.  2, a007781 (2012).",
+    "Immune Hypothesis: Evidence supporting an immune pathogenesis  is strongest for diabetic autonomic neuropathy. Autonomic ganglia heavily  infiltrated by lymphocytes, plasma cells, and macrophages were found at  autopsy in five type 1 diabetics with symptomatic autonomic neuropathy.  Striking cervical sympathetic ganglia atrophy was reported in another with  severe sensory and autonomic neuropathy.32  Autoimmune pathogenesis may be involved in proximal diabetic"
+  ],
+  "answer": "The immune system is intricately related to diabetes, particularly Type 1 Diabetes (T1D), through several mechanisms:  1. **Autoimmunity and \u03b2-cell Destruction**: T1D is characterized by the immune system mistakenly attacking and destroying insulin-producing \u03b2-cells in the pancreas. This autoimmune response is a central feature of T1D [6].  2. **Immune Responsiveness**: Diabetes is associated with diminished immune responsiveness, which can affect the body's ability to manage glucose levels and may influence susceptibility to diabetic complications [2].  3. **Role of Infections**: Infections or immune stimulation may have a protective effect against the development of diabetes. For instance, viral infections have been shown to trigger immunoregulatory mechanisms that protect against T1D in animal models [1], [8].  4. **Gut Microbiome and Autoimmunity**: The gut microbiome plays a significant role in the development of autoimmunity related to T1D. Alterations in gut microbiota networks have been observed in children with anti-islet cell autoimmunity, suggesting a link between gut health and immune responses in diabetes [3], [7].  5. **Immune Pathogenesis in Complications**: Evidence supports an immune pathogenesis for diabetic complications such as autonomic neuropathy, where immune cells infiltrate autonomic ganglia, leading to nerve damage [10].  In summary, the immune system's malfunction, particularly through autoimmunity and altered immune responses, is a key factor in the development and progression of diabetes, especially T1D.",
+  "question": "How is the immune system related to diabetes?"
+}

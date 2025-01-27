@@ -27,4 +27,16 @@ Manifest.toml
 gnqa_eval/src/_config.cfg
 gnqa_eval/.~lock.ragas_scores.ods#
 
+# From GN-AI repo
+
 _config.cfg
+__pycache__
+gnqa/paper2_eval/data/testresp2.json
+gnqa/paper2_eval/configparser
+gnqa/paper2_eval/sys
+gnqa/paper2_eval/pd
+gnqa/paper2_eval/os
+gnqa/paper2_eval/json
+.venv
+rag.env
+

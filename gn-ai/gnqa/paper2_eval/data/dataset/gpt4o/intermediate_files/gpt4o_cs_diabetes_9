@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2023 - Genetic Link Between Type 2 Diabetes Mellitus and Cardiovascular Disease.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2009 - Obesity and genetics regulate microRNAs in islets, liver, and adipose of diabetic mice.pdf",
+    "2013 - The miRNA Profile of Human Pancreatic Islets and BetaCells and Relationship to Type 2 Diabetes Pathogenesis.pdf",
+    "2015 - Epigenetic mechanisms in diabetic complications and metabolic memory.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2018 - MicroRNA profiling and their pathways in South African.pdf",
+    "2009 - Obesity and genetics regulate microRNAs in islets, liver, and adipose of diabetic mice.pdf",
+    "2016  - Epigenetic Mechanisms in Diabetic Kidney Disease.pdf",
+    "2018 - Type 2 Diabetes Mellitus and Cardiovascular Disease Genetic and Epigenetic Links.pdf"
+  ],
+  "extraction_id": [
+    "2211fc04-119d-534b-8de8-dfa4d1bfbf09",
+    "b1d2c95c-d639-5c75-8c52-278f1e187675",
+    "7d22ecdf-dd9f-53e9-aa2b-df81bd03c3bc",
+    "65ad21df-f728-54b6-b329-9ed8793c33ce",
+    "593dfb70-8b55-5a74-abd5-446394a0bd23",
+    "0cb154ce-660d-54fa-a31f-0391434a5470",
+    "14577d73-d320-54dd-93f2-c55f986bc8bc",
+    "42c407dd-9f88-57b3-b47b-e467c486e3a4",
+    "767d65c7-b99d-5427-8f5a-4afa10669e11",
+    "9e010393-b98f-5f6c-a62d-fc0646ba8667"
+  ],
+  "document_id": [
+    "c54f9f64-7e6d-5186-a1de-d487ba9d19b8",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "c3d2aced-4550-553f-abed-0d3a7ac1414f",
+    "05e7f076-6b4a-5ab0-b4d0-28e4b6eeef8f",
+    "470f1f94-792d-5273-a88f-7e06084951c5",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "b6bb090d-7176-59db-af04-582aa1d5cf10",
+    "c3d2aced-4550-553f-abed-0d3a7ac1414f",
+    "6f773bda-0b8f-5da2-a9b5-e6c013d75050",
+    "3e82a2e5-4b2c-59c0-99cd-f3b06d8dabf2"
+  ],
+  "id": [
+    "chatcmpl-AIFq5UdPTHMiHxXb8m3RyqvBs55fY",
+    "c2fa8cbd-5f7f-5086-90ec-d1e5e6df0ee9",
+    "3cd8facc-0c2c-5a48-9f7c-cbd5685d914a",
+    "f35c5082-c877-5cdf-9ba8-a91dd72da2e8",
+    "abbcafb6-f502-5648-a9a4-196466452564",
+    "8347a530-d264-5d7a-81f6-704f8ed7bf57",
+    "f0bb404a-2062-584e-850d-cf49a1e0b4a7",
+    "a9695ed0-6f3d-5e79-ab99-514119637e0b",
+    "1d9d150b-27f9-55f7-8111-1f6de79a78bc",
+    "5bf6de7b-8b41-5a32-a513-843f0f71c640",
+    "01d78f49-9996-58ea-b076-e352ff22461c"
+  ],
+  "contexts": [
+    "MicroRNAs (miRNA) ar e single -stranded, small RNA molecules that act at the post - transcriptional standard to regulate their target or source genes. Many biological processes  are regulated by this Micro RNA. Since its discovery about two decades ago. It is correlated  with a com prehensive set of diseases and described by numerous miRNAs, including T2DM  and cardiovascular diseases. Specifically, with respect to T2DM, micro RNA plays a",
+    "they can act as oncogenes or tumor suppressors  (8, 29, 72). miRs are associated with the 341  regulation of genes relevant to insulin secre tion, cholesterol biosynthesis, fat metabolism and 342  adipogenesis, crucial pathways in the pathogene sis of diabetes (53, 114, 115). miRs have also 343  been implicated in TGF-  signaling related to th e pathogenesis of diabetic nephropathy with key 344  miRs such as miR-192, miR-216a, miR-217 and miR-377 being up-regula ted in glomerular 345",
+    "Lim LP, Lau NC, Garrett-Engele P, Grimson A, Schelter JM et al (2005) Microarray analysis shows that some microRNAs down-regulate large numbers of target mRNAs. Nature 433:769773 Lovis P, Roggli E, Laybutt DR, Gattesco S, Yang JY et al (2008) Alterations in microRNA expression contribute to fatty acid-induced pancreatic beta-cell dysfunction. Diabetes 57:27282736 Nadler ST, Stoehr JP, Schueler KL, Tanimoto G, Yandell BS et al",
+    "Abstract Recent advances in the understanding of the genetics of type 2 diabetes (T2D) susceptibility have focused attention on the regulation of transcriptional activity within the pancreatic beta-cell. MicroRNAs (miRNAs) represent an important component of regulatory control, and have proven roles in the development of human disease and control of glucose",
+    "evidence demonstrates that miRNAs and lncRNAs can alsoregulate the expression of genes and modulate the actions of growth factors and inflammatory factors related to diabetic complications [ 8]. These reports have been described in sev- eral reviews [ 8,8791] and are only briefly discussed here. Numerous recent reports have demonstrated abnormal ex- pression of various miRNAs in renal, vascular and retinal cellsunder diabetic conditions, and in vivo models of related",
+    "In addition, miRNAs have been shown to be involved in T2DM. For example, miRNAs play major roles  in pancreatic islet development,  cell dysfunction, insulin synthesis and secretion and insulin   resistance [148] . Studies based on miRNA microarray analysis have identified many different miRNAs  involved in the pathology of both T1DM and T2DM; these miRNAs include mi R-375, miR -29, miR -9,  miR-124a, miR -195, miR -222, miR -126, miR -133a, miR -296, miR -96, miR -34a, miR -146b, miR -657,",
+    "26. He Y , Ding Y , Liang B, Lin J, Kim TK, Yu H, Hang H,  Wang K. A Systematic Study of Dysregulated MicroRNA in  Type 2 Diabetes Mellitus. Int J Mol Sci. 2017:18. 27. Dias S, Hemmings S, Muller C, Louw J, Pheiffer C. MicroRNA Expression Varies according to Glucose  Tolerance, Measurement Platform, and Biological Source.  Biomed Res Int. 2017;2017:1080157. 28. El Ouaamari A, Baroukh N, Martens GA, Lebrun P, Pipeleers D, van Obberghen E. miR-375 targets  3'-phosphoinositide-dependent protein kinase-1 and",
+    "nucleotide RNA molecules that potentially regulate the expression of thousands of genes. To understand therelationship between miRNA regulation and obesity- induced diabetes, we quantitatively proled approximately220 miRNAs in pancreatic islets, adipose tissue, and liver from diabetes-resistant (B6) and diabetes-susceptible (BTBR) mice. More than half of the miRNAs proled wereexpressed in all three tissues, with many miRNAs in each tissue showing signicant changes in response to genetic",
+    "11. Bartel DP. MicroRNAs: genomics, biogenesis, mechanism, and function. Cell. 2004;116(2):281 97. 12. Pirola L, Balcerczyk A, Tothill RW, et al. Genome-wide analysis distinguishes hyperglycemia regulated epigenetic signatures of pri- mary vascular cells. Genome Res. 2011;21(10):1601 15. 13.Cooper ME, El-Osta A. Epigenetics: mechanisms and implications for diabetic complications. Circ Res. 2010;107(12):1403 13.Thispaper also provides a review of evidence pertaining to the role",
+    "128. Diao X, Shen E, Wang X, Hu B. Differentially expressed microRNAs and their target genes in the hearts of streptozotocin-induced diabetic mice. Mol Med Rep (2011) 4:63340. doi:10.3892/mmr.2011.489  129. La Sala L, Cattaneo M, De Nigris V , Pujadas G, Testa R, Bonfigli AR,   et al. Oscillating glucose induces microRNA-185 and impairs an efficient antioxidant response in human endothelial cells. Cardiovasc Diabetol  (2016)  15:71. doi:10.1186/s12933-016-0390-9"
+  ],
+  "answer": "MicroRNAs (miRNAs) regulate gene expression related to diabetes by acting at the post-transcriptional level to control their target genes. They are involved in several crucial pathways associated with diabetes, including insulin secretion, cholesterol biosynthesis, fat metabolism, and adipogenesis [2]. miRNAs also play significant roles in pancreatic islet development, beta-cell dysfunction, insulin synthesis and secretion, and insulin resistance, which are key factors in the pathology of both Type 1 and Type 2 Diabetes Mellitus (T1DM and T2DM) [6]. Additionally, specific miRNAs have been implicated in the pathogenesis of diabetic complications, such as diabetic nephropathy, where miRNAs like miR-192, miR-216a, miR-217, and miR-377 are up-regulated [2]. These miRNAs can modulate the actions of growth factors and inflammatory factors, further influencing diabetic complications [5].",
+  "question": "How do microRNAs regulate gene expression related to diabetes?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf",
+    "2009 - Visual analytics for relationships in scientific data (1).pdf",
+    "2017 - Systems Genetics Analysis to Identify the Genetic Modulation of a Glaucoma-Associated Gene.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2012 - Genetic regulation of adult hippocampal neurogenesis A systems genetics approach using BXD recombinant inbred mouse strains.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2020 - Modeling the Genetic Basis of Individual Differences in Susceptibility to Gulf War Illness.pdf"
+  ],
+  "extraction_id": [
+    "1d401588-b6dc-532f-8194-4667a7d31153",
+    "1d401588-b6dc-532f-8194-4667a7d31153",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c",
+    "697332a8-8630-50ff-aa2b-f33478931d24",
+    "2455cf6d-4c9b-5272-8650-da127cc329e8",
+    "a83ca198-3b9d-5355-aa82-30d89ebf018c",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "ebea9717-52a1-5eb8-8b5a-67afb90c95f8",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "98aff04d-a5b2-5cca-bc1a-552055a74262"
+  ],
+  "document_id": [
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f",
+    "a6642ef1-8aa2-5305-9cc8-8a6263bb2b0c",
+    "67e804db-8127-5938-8d7f-a5918cdf4f86",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "c54da858-9620-588e-8e41-76a960af2ff6",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "d235d186-3d1c-5cde-90d5-9c140cd920f4"
+  ],
+  "id": [
+    "chatcmpl-AIGm7DFsh1v2eeUURegyReODMaCec",
+    "509d3815-9994-5afc-9777-52eb80281dc8",
+    "9d6a0871-3235-5fd6-855a-897e6a177db4",
+    "d8162fdc-326a-5f90-9fa4-24d86d701184",
+    "e78c3922-952f-53ea-a1d5-8edd98f9b893",
+    "18c7c27b-b51f-5ab6-9d09-4235c57811b1",
+    "9c0d7bcf-242c-5ba7-86bb-df799e6e03a6",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "2fe235ff-90ab-5f21-8e51-cbfb0e13713a",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "23de1e96-55b6-5062-a2e1-02bf06fd3565"
+  ],
+  "contexts": [
+    "considering single genes in the context of a whole gene network may provide thenecessary context within which to interpr et the disease role a given gene may play. Constructing gene networks can provide a convenient framework for exploring the context within which single genes operate. A network is simply a graphicalmodel comprised of nodes and edges. For gene networks associated with biological systems, the nodes in the network typically represent genes, gene products, or other",
+    "Genes do not carry out their functions in isolation of other genes, but instead oper- ate in complex networks that together, in a context-specic way, dene the complex behavior that emerges from biological systems. Therefore, understanding gene net- works in a diversity of contexts will lead to an increased understanding of complex system behavior, including disease. The reductionist approach to elucidating the complexity of biological systems",
+    "of links to external resources for tracing the interrelationships of a gene among multiple Web-based resources. GeneNetwork also offers a number of correlation and mapping strategies for assessing associations among multiple genes and QTLs. GeneNetwork aims to make the study of complex traits through the use of systems genetics widely available to the scientific community. A powerful tool that can be integrated with GeneNetwork or used on",
+    "genotypes and phenotypes, geneticists hope to discover and interpret the network of causal genotype-phenotype relationships that determine a trait of interest. Systems genetics research often follows a workow of nding a gene network, nding regulators of that network, and then performing a focused ge ne perturbation experiment to determine the role of the associated network on gene expre ssion or function. To be- gin, a large gene correlation graph must be sifted through , to nd a highly connected",
+    "genetics approaches can not only provide insights into the roles of  individual genes or developmental pathways but also illuminate  relationships between different levels of a biologic system, such as  the genome, transcriptome, and phenome [ 10]. One such resource  of systems genetics is the GeneNetwork website and resource  (www.genenetwork.org ) that provides access to a wide variety of  data such as genotypes (e.g., SNPs), phenotypes that are obtained",
+    "the risk of missing important biological phenomena [43].     8.4  Defining gene and QTL networks  In addition to the genetic dissection of phenotypic  variation using QTL mapping  techniques, systems geneticists are interested in r econstructing the biological net-  works that connect genes, proteins and other traits  based on their observed genetic  (co-)variation. In this context, biological network s are often defined by graphical",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "It is important to integrate the gene variants and environmental factors to the trait to understand the network controlling that trait.  In systems genetics approach, different trait networks are related to different networks of gene and environmental variants to find global genetic modulation of the complex phenotype. The availability of genetic reference panels makes it easy to acquire diverse phenotypic data and advanced computational models make it possible to analyse their relationship.   2.2.1.",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "genetic variants (SNPs, insertions, deletions, duplications, etc.) that segregate in the family [ 13]. The strains are appropriate for systems genetics /systems biology analysis [ 14], genetic mapping and genetic correlations of parameter means, and thus constitute an ideal platform for toxicogenomic research [ 15]. All data are available at www.genenetwork.org. GeneNetwork exists in two forms, GN1 and GN2 [ 16]. GN2 is an expansion and renement of the features of GN1. A tutorial of how to use GN1 may be"
+  ],
+  "answer": "A gene network is a graphical model comprised of nodes and edges, where the nodes typically represent genes, gene products, or other biological entities [1]. These networks illustrate how genes do not function in isolation but operate in complex networks that define the behavior of biological systems [2]. Understanding gene networks is crucial for interpreting the roles of individual genes within the broader context of these networks, which can provide insights into complex system behaviors, including diseases [1], [2]. By considering genes within their networks, researchers can better understand the interrelationships and regulatory mechanisms that contribute to phenotypic traits and disease processes [4].",
+  "question": "What is a gene network, and why is it important for understanding genetics?"
+}

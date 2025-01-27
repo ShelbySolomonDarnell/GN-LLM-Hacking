@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Identification of Quantitative Trait Loci in Alcoholism.pdf",
+    "2018 - Reduced complexity cross design for behavioral genetics.pdf",
+    "2005 - Genetics of body weight in the LXS recombinant inbred mouse strains.pdf",
+    "2006 - From_gene_to_behavior_and_back_again_new.pdf",
+    "2012 - Bioinformatics tools and database resources for systems genetics analysis in mice\u2014a short review and an evaluation of future needs.pdf",
+    "2012 - Bioinformatics tools and database resources for systems genetics analysis in mice\u2014a short review and an evaluation of future needs.pdf",
+    "2012 - Genetic regulation of adult hippocampal neurogenesis A systems genetics approach using BXD recombinant inbred mouse strains.pdf",
+    "2007 - Metabolic and genomic dissection of diabetes in the Cohen rat.pdf",
+    "2007 - Metabolic and genomic dissection of diabetes.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf"
+  ],
+  "extraction_id": [
+    "59e1cde3-dd67-55c0-aceb-0d4dbf22ed4d",
+    "d18c973d-30ee-5069-a101-b4d3000333eb",
+    "def0e506-3ca4-5a7f-8a4d-5968e2a36f1e",
+    "64c0287d-aeea-52eb-a074-e9591c5593ae",
+    "88873c88-94cd-5caf-b675-a99f0ae6235f",
+    "88873c88-94cd-5caf-b675-a99f0ae6235f",
+    "17184903-e412-5545-8dfc-c17e31f5201b",
+    "a20d5dd5-6dd1-54ab-8c52-647fdf644ae7",
+    "1aa37aaa-5635-57a5-b8d4-2dd9fa17d028",
+    "fb1b1f9d-81a6-59b2-b31c-80a5940d8b3f"
+  ],
+  "document_id": [
+    "11c67421-d1e1-5bde-bf97-3e313232fec7",
+    "b6797de4-6bdf-52ae-a848-d8fc4f048587",
+    "1a5be6d7-d1b8-5405-a0cb-696a5eb6a0f1",
+    "7a088b36-11b7-5379-bfe5-ce571e11de07",
+    "4bb4798b-3969-5448-ac4b-13c1b8506268",
+    "4bb4798b-3969-5448-ac4b-13c1b8506268",
+    "c54da858-9620-588e-8e41-76a960af2ff6",
+    "ce608956-7efb-5ce8-ab42-400075d012bb",
+    "5503f978-238f-59bc-ad3f-f500eb712aef",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766"
+  ],
+  "id": [
+    "chatcmpl-ADZKiurNCvLvQlfZEPvqlUva8Sekv",
+    "5db68dae-9dc1-5065-b61f-067ba20b6e19",
+    "e5fcabd8-0d42-5aa4-bebb-a355493e8ced",
+    "8efc851d-4fd4-5355-946a-4e183083eadd",
+    "fef212bc-631b-591d-b8e3-d1523da0507d",
+    "9dc3af1c-27a0-5527-b788-719c3ff01cd4",
+    "4940ec57-f3dc-55f7-9cfa-71f1e5b66287",
+    "280734af-e950-5339-b984-8718e98448ad",
+    "9ee9d05e-d3fb-5dd7-b1b5-9862c1894099",
+    "7e038f11-0794-5424-9465-eb0034442369",
+    "9a2b996d-7480-57e8-9c6a-da084c4be200"
+  ],
+  "contexts": [
+    "Methods   31  statistical language/software R (R DEVELOPMENT CORE TEAM 2008) . The core of R/qtl is a set  of functions that make use of the hidden Markov model (HMM) technology to calculate QTL  genotype probabilities, to simulate from the  joint genotype distribution and to calculate the  most likely sequence of underlying genotypes (all conditional on the observed marker data)  (BROMAN  et al.  2003) . R/qtl also calculates several functio ns that are useful for a quality",
+    "A variety of analytical methodologies are available in the R/qtl package, including, e.g., composite interval mapping or Haley-Knott regression (see Ref. 42for discussion). The scanone function in R/qtl is used to calculate log of the odds (LOD) scores. Per- mutation analysis (perm 1000) is used to establish the signi cance threshold for each phenotype ( P<.05). Additive and/or interactive covariates can be added to the model",
+    "WebQTL (Chesler et al. 2003; http://www.web- qtl.org/home.html), because each has some uniquecapabilities. R/qtl is an interactive environment for mapping QTLs in experimental crosses, implemented as anadd-on package for the freely available statisticallanguage/software R. Empirical significance valuesare calculated by permutation tests by comparing the peak likelihood ratio statistic (LRS) obtained from 1000 permutations (Churchill and Doerge1994). The permutation test results of highly sig-",
+    "The basic  pr emise  of QTL  an alysis  is simple  (Ph illips  and Belknap, 2002 ) . First,  one must  meas  ure a speci  c phen  otype  within  a popul  ation. Next, the population must be genotyped at a hundred or more marker loci186 Boehm II et al.",
+    "analyses on whole assays of (molecular) phenotypesas a batch. This enables genetical genomics studieswithout waiting times. TIQS is particularly strong inusing a cloud for large scale computing while xQTL uses pbs based traditional clusters and is more developed for data management and definitionof new analyses, so the desire is to work together.Both systems use R as the back-end language for dataanalysis in all platforms, which will enable transfer of analysis protocols between experiments and insti-",
+    "tional protocols to analyse all expression, proteomicsand metabolomics QTLs on marker maps of everincreasing density. These should include web accesstools for both experts and non-experts in sophisti-cated statistics analysis and high performance computing. The interactive QTL System (TIQS) (http://eqtl .berlios.de) is a web application that guides its usersthrough the analysis steps needed. It maximizes the distribution of computational effort (supporting trad-",
+    "four commonly used methods for doing a linkage analysis, namely; regression method, likelihood method, variance component method and Bayesian method. For statistical purpose, to check significant thresholds, either permutation test or Bayesian factors are used and for confidence interval check, bootstrapping is the preferred method.  For our study, we use WebQTL for QTL mapping. WebQTL (http://webqtl.org) uses interval mapping, to estimate the position of QTLs across a chromosome (Wang et al., 2003,",
+    "MultiQTL software package, version 2.5 (www.multiqtl.com), aspreviously described in detail (37). In brief, for initial analysis, weused by default an unrestricted model. When the results suggested thepresence of a QTL, we attempted to t the simplest and statisticallyjustied model (dominant, recessive, or additive effect) by comparingit with the nonrestricted model and replacing it if the difference wasnonsignicant. When applicable, we utilized the single-trait, multi-trait, and multienvironment analyses",
+    "MultiQTL software package, version 2.5 (www.multiqtl.com), aspreviously described in detail (37). In brief, for initial analysis, weused by default an unrestricted model. When the results suggested thepresence of a QTL, we attempted to t the simplest and statisticallyjustied model (dominant, recessive, or additive effect) by comparingit with the nonrestricted model and replacing it if the difference wasnonsignicant. When applicable, we utilized the single-trait, multi-trait, and multienvironment analyses",
+    "R/QTL [35] is an R package which includes many func tions for mapping, including  an algorithm to infer missing genotype data using H idden Markov Models. Gene-  Network (www.genenetwork.org [11]) also offers eQTL  analysis for user uploaded  data, one trait at a time, and genome-wide analysis  tools for a number of published  datasets.    4. Alternative Illumina data pre-processing  Compared with Affymetrix for example, Illumina is a  relatively new technology and"
+  ],
+  "answer": "The statistical approaches for QTLs (Quantitative Trait Loci) analysis include several methodologies and techniques. Here are some of the key approaches mentioned in the provided context:  1. **Hidden Markov Model (HMM)**: This approach is used to calculate QTL genotype probabilities, simulate from the joint genotype distribution, and calculate the most likely sequence of underlying genotypes, all conditional on the observed marker data [1].  2. **Composite Interval Mapping (CIM)**: This method is available in the R/qtl package and is used for QTL mapping [2].  3. **Haley-Knott Regression**: Another method available in the R/qtl package, used for QTL analysis [2].  4. **Log of the Odds (LOD) Scores Calculation**: The scanone function in R/qtl is used to calculate LOD scores, which are essential for identifying QTLs [2].  5. **Permutation Analysis**: This technique is used to establish the significance threshold for each phenotype, ensuring that the identified QTLs are statistically significant [2].  6. **Additive and Interactive Covariates**: These can be added to the model to account for additional sources of variation in the data [2].  7. **Regression Method**: One of the commonly used methods for linkage analysis in QTL studies [7].  8. **Likelihood Method**: Another method used for linkage analysis in QTL studies [7].  9. **Variance Component Method**: This method is also used for linkage analysis in QTL studies [7].  10. **Bayesian Method**: A method used for linkage analysis, which can also be used to check significant thresholds using Bayesian factors [7].  11. **Bootstrapping**: This method is preferred for checking confidence intervals in QTL analysis [7].  These approaches provide a comprehensive toolkit for conducting QTL analysis, allowing researchers to identify and validate QTLs effectively.",
+  "question": "what are the statistical approaches for qtls analysis?"
+}

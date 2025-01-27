@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2005 -Dipetrillo- Bioinformatics toolbox QTL.pdf",
+    "2005 - Bioinformatics toolbox for narrowing rodent quantitative trait loci .pdf",
+    "2008 - Gene Expression Profiling.pdf",
+    "2016 - Systems proteomics of liver mitochondria function.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2005 - quantitative-trait-locus-analysis-of-aggressive-behaviours-in-mi.pdf",
+    "2012 - Systems genetic analysis of the effects of iron deficiency in mouse brain.pdf",
+    "2005 -Broadkin- quantitative-trait-locus-analysis-of-aggressive-behaviours-in-mi.pdf",
+    "2020 - A Multi-Omics Perspective of Quantitative Trait Loci in Precision Medicine.pdf",
+    "2009 - Multiscale Genomic Analysis of the Corticolimbic System_ Uncoveri (1).pdf"
+  ],
+  "extraction_id": [
+    "e3adaae7-b5c1-5d35-9ba8-e082ccbb6fee",
+    "8311a931-a1b1-5228-bd9d-e9fcdd803ae9",
+    "6f6a41a6-61ef-5d73-8bce-5de9a9cc4798",
+    "1a46d28d-fc4a-5154-b887-3956d64959ef",
+    "2134720b-01d9-5e45-96bf-d1ff449d406d",
+    "c9fe8c31-86f9-5c59-8af8-8e81157cb99f",
+    "6ab990b0-4f9c-5be3-ab79-9ca6835271fa",
+    "cf8c1f06-37d2-5b82-bc22-6bc129759445",
+    "81b38987-de8d-5e87-8c09-72efc4cf781e",
+    "3296b30e-7dd3-576d-a2df-442406caa472"
+  ],
+  "document_id": [
+    "9b089457-5804-594a-99ea-e716b65c216c",
+    "5d87aefe-dee5-5f25-8b46-d87b24907dcc",
+    "59f3b969-089b-5258-93ad-892dbc9ffa9c",
+    "9843107b-2d0c-5cbe-b55f-74e8090a575d",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "0dc730ba-4ff4-52aa-a988-71075113c416",
+    "99fc80f0-f3c3-5766-a604-921552bb3298",
+    "e6027e7f-aec0-5e76-8aff-96b36389e701",
+    "8503b166-b917-5efb-a356-5ba371504cc1",
+    "3d0df5a3-7d7c-5edc-b94d-cae582f59c12"
+  ],
+  "id": [
+    "chatcmpl-ADZB337KFj8E0Gaou64p4qZLCzlv7",
+    "3aa13846-0d67-5481-8684-e414fdf712aa",
+    "a917decd-be31-53bd-9b1d-03eb6ba1e082",
+    "11bb5512-c251-5348-a53e-88ebaa9bcbbb",
+    "e4d4bbfc-d6b5-51cc-bf94-10bfc7099bf8",
+    "7d6a48a0-e046-520c-8434-7544e20b7a6c",
+    "38ba1c61-a6cc-504c-a6a3-da3c1252a17d",
+    "7ef9df1d-b21a-597a-9e74-6eace5d0c33c",
+    "fed778e8-dda5-5766-886d-287c24ff3758",
+    "c3d5e48d-ebf6-54b9-811e-6dbe2a171b77",
+    "bcb46fb1-dc0a-5f38-85e4-8c6d99809d74"
+  ],
+  "contexts": [
+    "candidate genes. These candidate genes must then betested for a causal link to the phenotype. A good starting point would be sequencing the cDNA of strong candidate genes to identify amino acid polymorphisms and testingfor mRNA and protein expression differences in target tissues of the original strains used to detect the QTL. Sequencing and expression studies will rene the list ofcandidate genes that can then be tested rigorously for proof of cause and effect. The nal proof of a causal gene",
+    "candidate genes. These candidate genes must then betested for a causal link to the phenotype. A good starting point would be sequencing the cDNA of strong candidate genes to identify amino acid polymorphisms and testingfor mRNA and protein expression differences in target tissues of the original strains used to detect the QTL. Sequencing and expression studies will rene the list ofcandidate genes that can then be tested rigorously for proof of cause and effect. The nal proof of a causal gene",
+    "do you identify the responsible gene within a QTL that you have identified?  Generally, one starts by performing a strain survey to find two parental inbred  strains that have a markedly different trait. One can now look up many different  traits of inbred mice online at the Mouse Phenome Database ( http://phenome. jax.org/pub-cgi/phenome/mpdcgi?rtn=docs/home ). However, the trait you may  want to study may not be present in wild type mice, so you may want to cross",
+    "used to test the hypothesis at locus-specific sig-nificance (LRS 12). In doing so, an additional 7 cQTLs are observed as consistent in both diets(Fig. 2I, red number). Solving QTLs: Finding the quantitative trait gene For cis-QTLs, the causal factors can be quickly identified: With few exceptions, they will be driv-en by variants within the gene itself or imme-diately adjacent. For trans-QTLs, mQTLs, and cQTLs, the identification of the causal quanti-",
+    "data is to find a quantitative trait locus, or QTL. A QTL  (http://gn1.genenetwork.org/glossary.html#Q ) is an area on a chromosome that can contain  one or many genes, that is linked to a change in phenotype. After a  QTL that is responsible for  the apparent variation  in phenotype  has been identified , one can  start stu dying the  genes  within that locus  to identify  the likely causal gene .     Once the data  is normalized appropriately  (in our case, no normalization was required) , the QTL",
+    "candidate genes that are expressed in tissues likely to inuence the traits of interest(Su et al 2004). These candidate genes are then sequenced in the two parental inbred strains looking for sequence dierences in coding or regulatory regions. After ne mapping the QTL interval and shortening the list of plausible candidate polymorphisms, the major challenge remains /C246 proving denitively which nucleotide polymorphism underlies the QTL. The most direct proof",
+    "because these strains have been genotyped at more than 14,000 markers, including single nucleotide polymorphisms (SNP). Hundreds of genes may lie within a QTL interval, so identifying the underlying genes requires complementary methods. One method is to use BXD gene expression data (a public resource at www.genenetwork.org) to screen for genes within the QTL interval whose expression correlates with the trait of interest [23].",
+    "candidate genes that are expressed in tissues likely to inuence the traits of interest(Su et al 2004). These candidate genes are then sequenced in the two parental inbred strains looking for sequence dierences in coding or regulatory regions. After ne mapping the QTL interval and shortening the list of plausible candidate polymorphisms, the major challenge remains /C246 proving denitively which nucleotide polymorphism underlies the QTL. The most direct proof",
+    "curate approaches to identify various types of QTL according to their molecular features, in par- ticular to control various confounding factors, such as dietary habit and population structure. Fine Mapping of Causal Variants and Causal Genes Despite the identi cation of large numbers of QTLs, it remains challenging to establish causal",
+    "to date, only a small handful of genes have been definitively identified for complex traits.  Our own efforts to identify a causal gene were stymied by the compound nature of QTLs  and the high gene density  in Qrr1 , and in Vol8a . Furthermore, it is now becoming clear  that in addition to the canonical candidate genes, there are multiple spliced variants,  microRNAs, and epigenetic factors to be considered.     With what appears to be an increasingly complex genom ic landscape, it is now all"
+  ],
+  "answer": "To determine which gene in your QTL is causal for the trait, you can follow these steps:  1. **Identify Candidate Genes**: Start by identifying candidate genes within the QTL interval. This can be done by looking at genes that are expressed in tissues likely to influence the traits of interest [6].  2. **Sequence Candidate Genes**: Sequence the cDNA of strong candidate genes to identify amino acid polymorphisms. This helps in detecting sequence differences in coding or regulatory regions between the two parental inbred strains [1], [6].  3. **Expression Studies**: Test for mRNA and protein expression differences in target tissues of the original strains used to detect the QTL. This will help refine the list of candidate genes [1].  4. **Fine Mapping**: Perform fine mapping of the QTL interval to shorten the list of plausible candidate polymorphisms [6].  5. **Correlation with Trait**: Use gene expression data to screen for genes within the QTL interval whose expression correlates with the trait of interest [7].  6. **Proof of Causality**: After refining the list of candidate genes, test them rigorously for proof of cause and effect. This involves proving definitively which nucleotide polymorphism underlies the QTL [1], [6].  By following these steps, you can systematically narrow down and identify the causal gene within your QTL.",
+  "question": "How do I determine which gene in my QTL is causal for the trait?"
+}

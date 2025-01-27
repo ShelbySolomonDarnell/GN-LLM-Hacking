@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2010 - Family History of Diabetes and Prevalence.pdf",
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2005 - Pathogenesis of Type 2 Diabetes Mellitus.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2011 - Type 2 diabetes across generations from pathophysiology to prevention and management.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2010 - Diabetes in Asia.pdf"
+  ],
+  "extraction_id": [
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "b91922c6-7b5b-5fa1-a740-4564ec4cfa36",
+    "5ae0e120-7064-5ced-84ff-e74fb0f90047",
+    "40d292c1-03bc-5780-a2ae-9b0fe245f39c",
+    "8e5322e6-a8a2-5d98-b87d-1ba3846d5fe1",
+    "d62a1716-bd6a-5532-ab22-ee6e7ec4cf37",
+    "f6b9d6b9-a60b-56f5-9727-d90d43efe0ac",
+    "baec13ec-c42b-51b4-9974-8ef1c2d10ddc",
+    "5a2221e0-dabc-523c-8358-3e43789e8f7a",
+    "e99fe157-eda9-5e56-9ec9-8f428de2a161"
+  ],
+  "document_id": [
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "f16c4c6e-bb5f-5d4a-9945-8af4d0df19f4",
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "75b4ae7d-7abf-57b8-bda9-5b022d698ae6",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "0f49b102-1d7e-5702-af30-35e5f2ed93a6",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "0be842b8-7f69-503b-baed-c336e5c834d6"
+  ],
+  "id": [
+    "chatcmpl-AIFqiY2VOktGY4xVSkvpvMDbynoMw",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "03dbb574-1b16-5300-af34-08b82263388e",
+    "13fa34fd-9bf6-5ae5-8a7e-e1998d56d084",
+    "527419f1-075d-5d53-a8b5-1685952ecdb0",
+    "3a807b66-fcae-5cae-b8ad-83a5c6815221",
+    "b63c48dd-b954-56d4-bdfa-8ab135e7bf47",
+    "ee3d0900-a422-59cd-a6db-308f20052cc0",
+    "2aa9f009-ae05-5c93-ac3a-58b1f516d844",
+    "353dc970-3106-5bbe-8a58-d65d13e5e6ee",
+    "6c14eef8-bb27-503a-9523-9e7a16d71021"
+  ],
+  "contexts": [
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "Metabolic Syndrome and Family History  of Diabetes Public Health Genomics 2010;13:353359 357able difference in the odds between these 2 risk levels.  This table indicates that, compared with the average fa-milial risk, a moderate or high familial risk of diabetes increases the odds for each single component of the met-a b o l i c  s y n d r o m e .  T h e s e  o d d s  v a r y  f r o m  1 . 1 9  ( 9 5 %  C I :  0.881.61) to 1.53 (95% CI: 1.301.81).   C o n c l u s i o n",
+    "For type 2 diabetes, there have been a few  studies utilising a candidate-gene approach as well as genome-wide association studies, although some argue that genetic factors play only a minor role among Caribbean populations [  90 ]. A family history of diabetes in any   rst-  degree relative (parent, sibling) or in a grandpar-ent is associated with a two- to fourfold increased risk of diabetes [  10 ,  91 ]. A family history of dia-",
+    "evidenced by a very high positive rate of family history of diabetes, and  drastically different prevalence in various ethnic groups. Therefore, there is  no doubt that type 2 diabetes is a disease with a strong genetic influence.  However, the prediction of the relative contribution of genetic influence and  number of genes involved in the pathogenesis of the disease has changed in  the past few years. Initially, enthusiastic searches of diabetes genes were",
+    "can decrease risk of diabetes.22 Diet may also play a role. High calorie diets,  including those high in fat, and especially saturated fat, have been implicated  in the development of type 2 diabetes?4-26 Family history is a very strong risk  factor for type 2 diabetes. A strong genetic component is suggested by the  58-75% concordance rates for type 2 diabetes observed in identical twins  (Table 3).3  Table 3. Estimated risk of developing type 2 diabetes by family history  One parent with type 2 diabetes",
+    "The fact that type 2 diabetes is a genetic disease is well known to clinicians by how it occurs in families, and by there being ethnic populations who are particularly high risk. The genetic link was clearly shown more than two decades ago by a famous study of identical twins in the U.K. that found essentially a 100% concordance rate for this disease if one twin developed type 2 diabetes, then the other one invariably developed it (9). However, this kind of study",
+    "genetic factors play an important role in the susceptibility to T2D. The risk of the disease developing at some point of life is ~70% when both parents are diabetic and ~40% when one parent has T2D [ 4]. Furthermore, latest data show that more than 400 genetic risk variants at 250 loci for T2D have been Genes 2018 ,9, 374; doi:10.3390/genes9080374 www.mdpi.com/journal/genes",
+    "36 Herder C, Roden M. Genetics of type 2 diabetes: pathophysiologic  and clinical relevance. Eur J Clin Invest 2011; 41: 67992. 37 Dabelea D, Hanson RL, Lindsay RS, et al. Intrauterine exposure  to diabetes conveys risks for type 2 diabetes and obesity: a study of discordant sibships. Diabetes 2000; 49: 220811. 38 Voight BF, Scott LJ, Steinthorsdottir V, et al. Twelve type 2 diabetes  susceptibility loci identi  ed through large-scale association analysis. Nat Genet 2010; 42: 57989.",
+    "long follow-up. Type 2 diabetes and impaired glucose tolerance (IGT)  cluster in families. Thus, most patients have a positive family history, and  the lifetime risk for developing type 2 diabetes is increased up to 40% (more  than five times the background rate) by having a first degree relative with the  disease. If both parents have type 2 diabetes the risk to the offspring may be  as high as 70%. Available evidence supports a polygenic mode of  inheritance with a considerable environmental input. 1",
+    "Genetic factors Type 2 diabetes has a strong genetic component and most Asian patients have a   rst-degree relative with diabetes. 48,49 Much progress has been made in our  understanding of the genetics of this disease. Importantly, most of the loci originally associated with diabetes in European populations have been replicated in Asian populations. Whereas monogenic forms of diabetes result from rare genetic mutations with large e  ects,  such as those seen in maturity-onset diabetes of young people,"
+  ],
+  "answer": "Family genetics play a significant role in the likelihood of developing diabetes. Several studies and observations highlight this connection:  1. Genetic factors are important in determining an individual's risk of developing diabetes [1]. 2. A family history of diabetes, particularly in first-degree relatives such as parents or siblings, is associated with a two- to fourfold increased risk of developing diabetes [3]. 3. Type 2 diabetes is strongly influenced by genetics, as evidenced by high concordance rates in identical twins, with studies showing a 58-75% concordance rate [5]. In some studies, the concordance rate is reported to be nearly 100% [6]. 4. The risk of developing type 2 diabetes is approximately 70% if both parents have the disease and about 40% if one parent is affected [7], [9]. 5. Type 2 diabetes clusters in families, and having a first-degree relative with the disease increases the lifetime risk significantly, up to 40% or more [9].  Overall, these findings underscore the strong genetic component in the susceptibility to diabetes, particularly type 2 diabetes.",
+  "question": "What role do family genetics play in the likelihood of getting diabetes?"
+}

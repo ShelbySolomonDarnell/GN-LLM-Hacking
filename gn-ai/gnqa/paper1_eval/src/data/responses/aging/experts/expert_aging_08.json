@@ -1,0 +1,154 @@
+{
+    "created_at": "2024-05-31T21:16:38.963061Z",
+    "data": {
+        "amplify": false,
+        "answer": "The genes associated with aging include the apolipoprotein E gene (APOE), the forkhead box O3A (FOXO3A) gene, HLA-DQA1/DRB1, LPA, CHRNA3/5, CDKN2A/B, SH2B3, and AKT1. Other genes involved in processes like growth and development, energy metabolism, oxidative stress, genomic stability maintenance, and neurocognition are also associated with aging.",
+        "context": {
+            "022c37a3-3ea8-4bb7-9997-98ed87635770": [
+                {
+                    "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                    "text": "\nGenomic analysis of longevity offers the potential to illuminate the biology of human aging.Here, using genome-wide association meta-analysis of 606,059 parents' survival, we discover two regions associated with longevity (HLA-DQA1/DRB1 and LPA).We also validate previous suggestions that APOE, CHRNA3/5, CDKN2A/B, SH2B3 and FOXO3A influence longevity.Next we show that giving up smoking, educational attainment, openness to new experience and high-density lipoprotein (HDL) cholesterol levels are most positively genetically correlated with lifespan while susceptibility to coronary artery disease (CAD), cigarettes smoked per day, lung cancer, insulin resistance and body fat are most negatively correlated.We suggest that the effect of education on lifespan is principally mediated through smoking while the effect of obesity appears to act via CAD.Using instrumental variables, we suggest that an increase of one body mass index unit reduces lifespan by 7 months while 1 year of education adds 11 months to expected lifespan."
+                },
+                {
+                    "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                    "text": "\n\nGenomic analysis of longevity offers the potential to illuminate the biology of human aging.Here, using genome-wide association meta-analysis of 606,059 parents' survival, we discover two regions associated with longevity (HLA-DQA1/DRB1 and LPA).We also validate previous suggestions that APOE, CHRNA3/5, CDKN2A/B, SH2B3 and FOXO3A influence longevity.Next we show that giving up smoking, educational attainment, openness to new experience and high-density lipoprotein (HDL) cholesterol levels are most positively genetically correlated with lifespan while susceptibility to coronary artery disease (CAD), cigarettes smoked per day, lung cancer, insulin resistance and body fat are most negatively correlated.We suggest that the effect of education on lifespan is principally mediated through smoking while the effect of obesity appears to act via CAD.Using instrumental variables, we suggest that an increase of one body mass index unit reduces lifespan by 7 months while 1 year of education adds 11 months to expected lifespan."
+                }
+            ],
+            "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7": [
+                {
+                    "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                    "text": "\n\nRecent developments on the genetics of aging can be seen as several streams of effort.In general, humans show a relatively modest (<50%) heritability of life spans (results obtained from twin studies discussed below).The apoE polymorphisms are remarkable for their influence on both cardiovascular disease and Alzheimer disease.In contrast, rare mutant genes with high penetrance cause these same diseases but with early onset and a major shortening of the life span.Shortlived laboratory models (fruit flies, nematodes, mice) are yielding rapid advances, with the discovery of mutants that increase life spans in association with altered metabolism, which leads to questions on the physiological organization of aging processes.Although these early findings do not show that a conserved genetic program actually controls aging processes across animal phylogeny, it is striking how frequently findings of metabolic rate, insulin signaling, and free radicals have emerged from very different approaches to aging in nematodes and mammals, for example.These findings hint that the genetic control of life span was already developed in the common ancestor of modern animals so that subsequent evolution of life spans was mediated by quantitative changes in the control of metabolism through insulin and the production of free radicals."
+                }
+            ],
+            "04c5378f-40dc-4690-af03-e5205779b881": [
+                {
+                    "document_id": "04c5378f-40dc-4690-af03-e5205779b881",
+                    "text": "\n\nStudies revealed from 300 to 750 genes related to longevity that are critically involved in a variety of life activities, such as growth and development, energy metabolism, oxidative stress, genomic stability maintenance, and neurocognition [4].These candidate genes include mainly APOE, a gene involved in lipoprotein metabolism [5,6].Others are those involved in cell cycle regulation, cell growth and signal transduction, the maintenance of genome stability, and the endocrine-related pathway [7][8][9].In addition, the candidates for longevity encompass genes related to drug metabolism, the ones involved in protein folding, stabilization, and degradation, as well those related to coagulation and regulation of circulation [10], etc.In most cases, these genes or their polymorphic sites were examined in multiple population replication studies, which discovered certain longevity-associated genes or pathways [4][5][6][7][8][9][10]."
+                }
+            ],
+            "4a27da1c-b184-47e8-bef2-de6435d7c3f5": [
+                {
+                    "document_id": "4a27da1c-b184-47e8-bef2-de6435d7c3f5",
+                    "text": "\n\nAdditional association studies with these families and replication of these results with an independent data set should facilitate the positional cloning of a gene that influences the ability to age well and achieve exceptional longevity.Identification of the genes in humans that allow certain individuals to live to extreme old age should lead to insights on cellular pathways that are important to the aging process."
+                }
+            ],
+            "4f709611-ea0b-4bcc-a634-df5d518ccb54": [
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nSomatic mutations with the inherited gene variations of each individual cumulatively or synergistically influence the health span and life span [11].Very few genetic variants have been associated with human longevity, but those found include the transcription factor FOXO3 gene, the APOE/TOMM40 and the CDKN2B/ ANRIL loci, which are associated with Alzheimer's disease and cellular senescence [12][13][14].In fact, the heritability for human longevity has been estimated to be approximately 20-30%, according to studies of twins, suggesting that external factors such as diet, environment, physical activity and microbiomes are important factors that influence the health span [14][15][16].The increase in the rate of retrotranscription reflects genome deregulation, creating additional mutations, DNA damage, and other forms of genome instability.For instance, the expression of several families of retrotransposable elements increases with age, as observed in mouse skeletal muscle and human fibroblasts, particularly the long interspersed nuclear element-1 (L1 LINE) [17,18]."
+                },
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nBefore the advent of NGS technologies, several scientists were interested in the study of allele variants associated with aging, but they were limited by the lack of aging rate biomarkers.Now with NGS technologies, these biomarkers have been emerged such as the epigenetic clock that is described in the DNA methylation sequencing section of this chapter.In this post-genomic era, different strategies have been developed in order to understand the genetic factors involved in aging [17].One strategy used is the study of aging in extreme longevity groups of people, called centenarians.Centenarians are a group that can reach an age above 100 years and has an incidence of 1 every 10,000 people [18].In a pioneering study using extreme longevity people (308 individuals belonging to 137 sibships showing extreme longevity), genome-wide scan analysis identified a region on chromosome 4 associated with extreme longevity [19] that corresponds to the microsomal transfer protein (MTP) [20], which is associated with abetalipoproteinemia and hypobeta lipoproteinemia in humans [21,22].Another approach to study the genetic factors involved in longevity consists in assessing allele frequencies from people of different ages, looking for those polymorphisms (SNPs) with enhanced allele frequencies in high-longevity individuals.Those alleles with diminished frequencies in aged individuals may be associated with age-related diseases.Using this approximation, an SNP that shifts isoleucine to valine was identified in the PKA-anchoring protein (AKAP2) gene.This polymorphism is associated with reduced longevity and cardiac disease [23].Genome-wide association studies (GWAS) have confirmed only three loci that affect longevity: FOXO3A, APOE, and an intergenic locus on chromosome 5q33.3[24][25][26]."
+                }
+            ],
+            "520b36a2-4c9c-4894-a818-9917bd357982": [
+                {
+                    "document_id": "520b36a2-4c9c-4894-a818-9917bd357982",
+                    "text": "\nUnbiased genome-wide studies of longevity in S. cerevisiae and C. elegans have led to the identification of more than one hundred genes that determine life span in one or both organisms.Key pathways have been uncovered linking nutrient and growth factor cues to longevity.Quantitative measures of the degree to which aging is evolutionary conserved are now possible.A major challenge for the future is determining which of these genes play a similar role in human aging and using that information to develop therapies toward age-associated diseases."
+                }
+            ],
+            "555a1533-2905-4d91-a3b6-2fca3679ab02": [
+                {
+                    "document_id": "555a1533-2905-4d91-a3b6-2fca3679ab02",
+                    "text": "\n\nInvolvement of genes in a wide range of fundamental biological processes suggests also a broad role of these genes in regulating the aging-related phenotypes."
+                }
+            ],
+            "5e6ad994-9cad-4b8b-903d-2d5c350e25dc": [
+                {
+                    "document_id": "5e6ad994-9cad-4b8b-903d-2d5c350e25dc",
+                    "text": "\n\nGene associations with age-related traits found using longitudinal study data."
+                }
+            ],
+            "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7": [
+                {
+                    "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                    "text": "\n\nIn most experimentally modified animal model systems, single-gene mutations in many different genes have major life extension effects (Fontana et al., 2010;Kenyon, 2010).However, natural human and animal longevity is presumed to be a complex trait (Finch & Tanzi, 1997).In humans, both candidate gene and genome-wide genetic association approaches have been applied in an attempt to identify longevity loci.The frequency of genetic variants has been typically compared between nonagenarian cases and young controls, revealing loci at which genetic variants may contribute to a higher or lower probability of survival into old age.The initial candidate gene studies aimed at finding human longevity genes were dominated by contradictory results (Christensen et al., 2006).The more consistent evidence obtained by repeated observation in independent cohort studies for association with longevity has so far only been observed for three loci, the apolipoprotein E (APOE) locus (Schachter et al., 1994;Christensen et al., 2006), the FOXO3A locus (Willcox et al., 2008;Flachsbart et al., 2009;Pawlikowska et al., 2009;Soerensen et al., 2010), and the AKT1 locus (Pawlikowska et al., 2009).Thus, despite the expectation that longevity would be influenced by many genetic variants with small effect sizes, the effect of variants has consistently been shown in only three genes."
+                }
+            ],
+            "932ef21b-9235-4210-a99c-6153a901bb89": [
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\n\nThe lack of success in the identification of genes related to aging in humans may be due to the complexity of the phenotype.One approach to investigate aging and longevity is to compare frequencies of genetic variants between nonagenarians or centenarians and the general population.This approach led to the discovery of an association between APOE (Deelen et al., 2011;Ewbank, 2007;Gerdes et al., 2000) and more recently FOXO3A (Anselmi et al., 2009;Flachsbart et al., 2009;Li et al., 2009a;Pawlikowska et al., 2009;Willcox et al., 2008) and human aging and longevity.However, a recent genome-wide association study (GWAS) of individuals reaching the age of 90 or older failed to identify genome-wide significant variants (Newman et al., 2010)."
+                }
+            ],
+            "99a35e24-bbd2-495b-82dc-53d7e2075191": [
+                {
+                    "document_id": "99a35e24-bbd2-495b-82dc-53d7e2075191",
+                    "text": "\n\nThus, substantially more work is needed in this area to establish whether longevity is driven by nuclear genomic stability.Diverse and unexpected bits of evidence support a relationship.For example, a disproportionate number of genes identified in unbiased and targeted genome-wide association studies (GWASs) as associated with longevity are involved in genome maintenance (75).One study involved age of natural menopause in ∼70,000 women and led to the identification of 44 genetic variants associated with early or late menopause, a strong biomarker of healthy TIFs (telomere dysfunction-induced foci): co-localization of multiple DNA damage response factors and repair proteins on uncapped telomeric DNA aging (76).Approximately two-thirds of these are associated with genome maintenance genes.Seven of ten significantly associated pathways are involved in DNA repair.The highly significant overrepresentation of DNA repair pathways indicates an intimate connection between genome maintenance and aging phenotypes.From unrelated studies, we know that reduced expression of the repair endonuclease ERCC1-XPF causes accelerated aging (3), whereas ERCC1 is one of the top genes under positive selective pressure in the longest-lived mammalian species, the bowhead whale (77).Intriguingly, hepatocytes from old rats have impaired NER, whereas caloric restriction, which extends longevity, restored the NER capacity of old rats to that of youthful levels (42).In a human interventional study, brief caloric restriction increased NER capacity in PBMCs of individuals who had low NER prior to dietary intervention (78).Therefore, increased DNA repair capacity could promote longevity and may even prove amenable to improvement."
+                }
+            ],
+            "a95e6806-06d3-4775-8287-fda4cf6ac42f": [
+                {
+                    "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                    "text": "\n\nIn addition to aging-and CR-related genes, another source of candidate genes and pathways for drug design are human longevity-associated genes (Barzilai and Shuldiner, 2001;Browner et al., 2004;Kenyon, 2010).Dozens of genes have now been associated with human longevity (de Magalha ˜es et al., 2009a), although only a handful of genes have been shown to have consistent effects across populations."
+                }
+            ],
+            "b0e49b4c-954d-476a-ba3a-0215e63c98b6": [
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "\n\nGenes/loci identified by genome-wide association studies of longevity and lifespan traits."
+                }
+            ],
+            "d174ea46-2c88-4047-a333-cb66e483a51f": [
+                {
+                    "document_id": "d174ea46-2c88-4047-a333-cb66e483a51f",
+                    "text": "\n\nThe genetic basis of human longevity has so far been primarily investigated by association studies.Most results from these experiments have been difficult to confirm in independent samples, probably owing to the modest heritability, multifactorial nature, and heterogeneity of the phenotype (Christensen et al., 2006).To date, variation in only two genes has been identified, which has an effect on longevity in various populations: (i) the apolipoprotein E gene (APOE) (Scha ¨chter et al., 1994;Christensen et al., 2006) and (ii) the forkhead box O3A (FOXO3A) gene in the insulin-IGF1 signaling (IIS) pathway (Willcox et al., 2008;Flachsbart et al., 2009).Given the apparent lack of susceptibility candidates, it is conceivable that other genetic factors influence the function or expression of genes relevant for human longevity."
+                }
+            ],
+            "efd5747f-9e8b-45e8-9e04-bb31131d44fa": [
+                {
+                    "document_id": "efd5747f-9e8b-45e8-9e04-bb31131d44fa",
+                    "text": "\n\nSince many alleles will fit the two patterns just described, it follows that we expect many genetic and biochemical mechanisms of aging.There are some experiments that have attempted to estimate the number of genes involved in aging, particularly in Drosophila.Quantitative genetic estimates of gene number have probably been subject to artifacts, [6,8] and are highly imprecise.Molecular genetic estimates using 2-D gels [3] and high-density geneexpression arrays [12] indicate the involvement of at least 300 genetic loci in Drosophila aging, and that estimate is highly conservative.For now, the best conclusion is probably that many genes are involved in aging in fruit flies.Vertebrates are unlikely to have fewer genes involved in aging, in view of their larger genomes."
+                }
+            ],
+            "f2b8524b-501d-4ec7-a3d7-048aab67ce05": [
+                {
+                    "document_id": "f2b8524b-501d-4ec7-a3d7-048aab67ce05",
+                    "text": "\n\nGenAge consists of several searchable data sets.Considering the extraordinary discoveries in the genetics of aging in model organisms, GenAge includes a data set of genes associated with longevity and/or aging in model organisms.We consider a given gene for inclusion in GenAge if genetic manipulations of the gene result in noticeable changes in the aging phenotype and/or longevity.Most genes in GenAge are from the four typical model organisms: mice, worms, fruit flies and yeast (Table 1).Strikingly, homologues of many genes -such as insulin receptors and sirtuins -have been shown to regulate aging in model organisms separated by large evolutionary distances (Kenyon, 2005;Liu et al ., 2005;Smith et al ., 2008).Moreover, we have shown that genes associated with aging and/or longevity in model organisms are evolutionary conserved in terms of having more homologues than predicted by chance (Budovsky et al ., 2007(Budovsky et al ., , 2008) ) and exhibiting slower molecular evolution rates (de Magalhães & Church, 2007).Therefore, it is now clear that at least some genes identified in model organisms may be relevant to human aging."
+                }
+            ],
+            "f3610ccc-2831-42f6-a3d3-1a0feeba4902": [
+                {
+                    "document_id": "f3610ccc-2831-42f6-a3d3-1a0feeba4902",
+                    "text": "\n\nGene associations with age-related traits found using longitudinal study data."
+                }
+            ],
+            "f6bde053-64e5-42d9-966d-9d5d5d82a068": [
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\n\nMost of the human candidate gene studies were performed in cross-sectional designs (Box 1 and Fig. 1), comparing allele frequencies of potential longevity loci between highly aged individuals and young controls.The candidate gene studies based on single genes have pointed a role for genes involved in, e.g., GH/insulin/IGF-1 signaling, immune regulation, and lipoprotein metabolism (Supporting Information Table S1), although most of these results have not (yet) been confirmed in sufficient independent studies.The most convincing human longevity loci today are APOE and FOXO3A which have frequently been associated with longevity in cross-sectional studies (see for a review [26]) and survival in prospective studies [27][28][29] (Fig. 3).APOE encodes the protein apolipoprotein E which seems to play a role in e.g., lipoprotein metabolism, cognitive function, and immune regulation [30].FOXO3A encodes the protein forkhead box O3 which acts as a transcription factor for many different genes involved in processes like apoptosis and oxidative stress [31]."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "B0164472D40098296DA0836E50978AC8",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "APOE",
+            "FOXO3A",
+            "HLA-DQA1&DRB1",
+            "LPA",
+            "CHRNA3&5",
+            "CDKN2A&B",
+            "SH2B3",
+            "AKT1",
+            "ERCC1-XPF",
+            "MTP"
+        ],
+        "metadata": [],
+        "question": "What genes are associated with aging?",
+        "subquestions": null,
+        "task_id": "B0164472D40098296DA0836E50978AC8",
+        "usage": {
+            "chatgpt": 7627,
+            "gpt-4": 4474,
+            "gpt-4-turbo-preview": 3537
+        },
+        "user_id": 2
+    },
+    "document_id": "B0164472D40098296DA0836E50978AC8",
+    "task_id": "B0164472D40098296DA0836E50978AC8"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2009 - Genes and gene expression modules associated with caloric.pdf",
+    "2009 - Visual analytics for relationships in scientific data (1).pdf",
+    "2007 - Integrating physical and genetic maps from genomes to interaction networks.pdf",
+    "2010 - Systems genetics, bioinformatics and eQTL mapping.pdf",
+    "2013 - Pathways, Networks and Systems Medicine Conferences.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf"
+  ],
+  "extraction_id": [
+    "29c980ec-bd6e-5ae7-a61c-5abd67d0ef67",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "c0983224-1ade-5c10-9f2b-847e9b33f706",
+    "56129761-d500-59b9-bd9b-cd9cbcada21c",
+    "d64d8cf5-5b57-5a29-99b4-a8d2ab4bda21",
+    "ba1a83a3-d0e9-5f1e-870f-228abdae771d",
+    "298ee1f5-58a9-567c-86ba-8ac5967e1718",
+    "4cdc439f-bd23-5978-9f34-a34e1cb33cf4",
+    "a3ae6875-b0fc-5a4e-866f-4fee99c7d2a2",
+    "9c89683f-aca5-57f9-b28d-62e9eb64377b"
+  ],
+  "document_id": [
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "893ba204-2e69-563f-9046-7246ca61494f",
+    "a6642ef1-8aa2-5305-9cc8-8a6263bb2b0c",
+    "a9a113e2-d5e5-5903-91de-4b45b37d870f",
+    "27c922c6-e449-5f83-868a-3ad7284facc8",
+    "b50a9732-7d01-5d4d-8f33-a9d43dbc7df3",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101"
+  ],
+  "id": [
+    "chatcmpl-AIGsO45INZIWjU37FcOiRroinBDZj",
+    "302feae2-3bab-5fb8-8483-0cea906c83e8",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "0374a059-20c1-5b75-a7a7-bf69ce03740c",
+    "860be786-e27d-5dd1-96bf-4bcc48957b4d",
+    "4488c0f4-c24a-5b6d-814a-a30b15cc4c03",
+    "9f6fb84a-f487-5ea6-a84e-403642b6d76e",
+    "0858b8f7-66f3-5741-ae7e-4504bca7292f",
+    "a02b4589-65ec-50e1-9849-090971ddb2b0",
+    "7d3e3705-c5e7-5a37-91c1-a87842f5b9a7",
+    "73198d17-f9ce-5528-89d8-f6e466258708"
+  ],
+  "contexts": [
+    "52.Zhu J et al. (2007) Increasing the power to detect causal associations by combining genotypicand expression data in segregating populations. PLoS Comput Biol 3:e69 53.Zhu J et al. (2008) Integrating large-scale functional genomic data to dissect the complexity ofyeast regulatory networks. Nat Genet 40:854861 54.Kim JK et al. (2005) Functional genomic analysis of RNA interference in C. elegans. Science308:11641167",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "expression and its effect on disease . Nature 2008, 452 (7186):423-428.  12. Chen LS, Emmert-Streib F, Storey JD: Harnessing naturally randomized  transcription to infer regulatory relationships amo ng genes . Genome Biol  2007, 8(10):R219.  13. Aten JE, Fuller TF, Lusis AJ, Horvath S: Using genetic markers to orient  the edges in quantitative trait networks: the NEO s oftware . BMC Syst  Biol 2008, 2:34.  14. Millstein J, Zhang B, Zhu J, Schadt EE: Disentangling molecular",
+    "and unknown function by large-scale coexpression analysis. Plant Physiol  2008, 147:41-57. 98. Wolfe CJ, Kohane IS, Butte AJ: Systematic survey reveals gen- eral applicability of \"guilt-by-a ssociation\" within gene coex- pression networks.   BMC Bioinformatics  2005, 6:227. 99. Lee NH: Genomic approaches for reconstructing gene net- works.   Pharmacogenomics  2005, 6:245-58. 100. Goutsias J, Lee NH: Computational and experimental approaches for modeling ge ne regulatory networks.   Curr",
+    "the discovery of interface genes. These mRNA transcripts regulate expression of genes in those structures, and thereby couple multiple networks a nd biological processes. The detection of these transcripts and the analysis of their gen es regulatory polymorphisms 37",
+    "Rev. Genet 2007;8:437449. [PubMed: 17510664] A review of theory and approaches to mapping genetic interaction networks. 16. Bork P, et al. Protein interaction networks from yeast to human. Curr. Opin. Struct. Biol 2004;14:292 299. [PubMed: 15193308] 17. Ewing B, Hillier L, Wendl MC, Green P. Base-calling of automated sequencer traces using phred. I. Accuracy assessment. Genome Res 1998;8:175185. [PubMed: 9521921]",
+    "CC represents a dramatic improvement over existinggenetic resources for mammalian systems biology appli- cations (Adam et al. 2007 ; Chesler et al. 2008 ). A number of gene expression data sets from microarray experiments,particularly those for mouse and rat, have been integrated into GeneNetwork ( http://www.genenetwork.org ), which is essentially a web knowledgebase in which the entire dataset and relevant metadata (data about the data) are com- bined with sophisticated statistical and computation tools",
+    "gene, and the first f unctional anti -sense miRNA, Lastly, we have used  comparative genomics to infer regulatory networks based on individual  conserved instances of regulatory motifs, which show functional enrichments  similar and sometimes higher to genome -scale experimental met hods such as  ChIP -chip.  As part of the ENCODE and modENCODE projects, we are now  studying dynamics of developmental and cell -differentiation networks in",
+    "(ncRNAs) from the Rfam database (Grifths-Jones et al. , 2005) and predicted regu- latory sites from the cisRED database (Robertson et al. , 2006). There is much to do in both of these emerging areas but even preliminary data have already given new insights into mammalian biology: it seems there is high lineage specic expansion of some ncRNA classes relative to protein-coding genes (Birney et al. , 2006). Another growing area of activity is in cataloguing the genetic variation present in human",
+    "(ncRNAs) from the Rfam database (Grifths-Jones et al. , 2005) and predicted regu- latory sites from the cisRED database (Robertson et al. , 2006). There is much to do in both of these emerging areas but even preliminary data have already given new insights into mammalian biology: it seems there is high lineage specic expansion of some ncRNA classes relative to protein-coding genes (Birney et al. , 2006). Another growing area of activity is in cataloguing the genetic variation present in human"
+  ],
+  "answer": "The context provided does not explicitly mention the impact of recent discoveries in non-coding RNA regulation on refining gene interaction maps on GeneNetwork.org. However, there are some relevant points that can be inferred:  1. GeneNetwork.org has been updated with new tools and data, including multi-omics analysis, which could potentially incorporate non-coding RNA data to enhance gene interaction maps [2]. 2. The integration of gene expression data sets, particularly for mouse and rat, into GeneNetwork.org suggests that the platform is equipped to handle complex genetic data, which may include non-coding RNA interactions [7]. 3. There is ongoing research and data collection on non-coding RNAs, as indicated by references to databases like Rfam and cisRED, which could contribute to refining gene interaction maps by providing insights into regulatory networks [9], [10].  While the specific impact of non-coding RNA discoveries on GeneNetwork.org is not detailed, the platform's enhancements and the broader research context suggest that such discoveries could play a role in improving the accuracy and depth of gene interaction maps.",
+  "question": "What impact have recent discoveries in non-coding RNA regulation had on refining gene interaction maps on GeneNetwork.org?"
+}

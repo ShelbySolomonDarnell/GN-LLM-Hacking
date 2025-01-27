@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2017 - Regular exercise participation improves genomic stability in diabetic patients an exploratory study to analyse telomere length and DNA damage.pdf",
+    "2008 - Telomeres and Aging.pdf",
+    "2002 - Mitochondrial dysfunction leads to telomere attrition.pdf",
+    "2006 - Sex-specific telomere length profiles.pdf",
+    "2018 - Sex Differences in Aging Genomic Instability.pdf",
+    "2008 - Telomeres and Aging.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2006 - Sex-specific telomere length profiles.pdf",
+    "2010 - Roles of Werner syndrome protein in protection of genome integrity.pdf"
+  ],
+  "extraction_id": [
+    "efd18101-9cf2-56b5-8f86-c2aba6caa0bc",
+    "0e53122e-a308-55f7-8ee8-a0857ac9c52f",
+    "13990eb4-bef2-58ce-bf3e-0e3bc294caab",
+    "b92ede07-74a7-524a-8d2c-54b2559e8425",
+    "6d3bfe47-f26e-50dc-8d77-19f3797e53a0",
+    "396708f1-aa0a-571e-a8d3-7cb8404e9502",
+    "e57aa746-20f1-50b3-b8ab-3139a9a910fc",
+    "3b0cb0ab-421d-54d7-9816-c6a2e6f1ac68",
+    "eb8d8e40-a484-57cb-8125-3fd5eb3f6389",
+    "32528f9c-b6bb-593e-94c5-1ed12d0ac4ad"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "dcaf7b09-2d54-5cbf-b061-e3c4e6c6c518",
+    "61d9c326-d36e-55c1-a891-335dc943e70f",
+    "d8bc729b-7513-58b7-b12e-0db1fb6d3b7d",
+    "09c78a17-4a1f-52c1-be4d-994fd9fd71d0",
+    "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f",
+    "61d9c326-d36e-55c1-a891-335dc943e70f",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "09c78a17-4a1f-52c1-be4d-994fd9fd71d0",
+    "ec3e4f66-1619-5f71-9860-c1ad048d1841"
+  ],
+  "id": [
+    "chatcmpl-ADZJpRmTN4COm0TDjwpOtSCKK6Mex",
+    "28e98b7e-f273-5bdd-9979-185133f311af",
+    "bb069c10-45f1-5a83-95e3-4b7655874ba7",
+    "5f940245-af1d-5eee-84dc-942017c523d0",
+    "7fad29bd-12bf-53d0-af89-aadd38b974ff",
+    "607cbd31-d430-5517-8212-208b25af32bf",
+    "53508a9e-d064-58a3-a4f9-0785470a1462",
+    "36de43a5-e151-5300-8c34-ed15ec66ea52",
+    "f181e6da-58b6-5f26-87a2-355e25388673",
+    "64ef9964-1831-5a7a-8a69-5e8d0c332d37",
+    "dd9a3905-0225-5345-891b-4469af6336ee"
+  ],
+  "contexts": [
+    "Telomeres are arrays of linked nucleotide hexamer repeats that are found at the  ends of chromosomes in a vast clade of organisms [14]. While the sequence of  these telomeric repeats can vary between organisms, their biological function is  highly conserved, which is to limit damage inflicted on genes during the replica- tion of chromosomes. Telomere length is progressively shortened with each round  of genomic replication, unless it is restored through the action of a ribonucleo-",
+    "repetitive nucleotide sequences at the end of each eukaryotic chromosome, which protects them from attrition and damage. Although the relationship between leukocyte telomere length (LTL) and diabetes is still questioned 8,  different studies have shown that T2D individuals have shorter leukocyte telomeres than non-T2D individuals9, 10   that may be associated with disease progression11. Indeed, the decreased antioxidant capacity described in patients",
+    "telomere length,a phenomenon attributed to higher levels of oxidativestress at the cellular level (70). More recent studies havelinked telomere length in smooth muscle cells with senes-cence and disease severity in patients with atherosclero-sis (141, 150). Leukocyte telomere length was also short ina cohort of similar patients and associated with a higherrisk of developing occult cardiovascular disease (71).More data are needed to understand and validate the useof leukocyte telomere length as a biomarker",
+    "TTAGGG sequence that cap the ends of chromosomes, protect-ing them from degradation and fusion. The length of telomererepeats is primarily maintained by active telomerase, which iscomposed of Telomerase RNA (TR) and a catalytic subunitTelomerase Reverse Transcriptase (TERT) (Blackburn, 2001).Extensive evidence has shown that telomere shortening anderosion lead to chromosome end-to-end fusions and genomicinstability (Blasco   et al  ., 1997; Hande   et al  ., 1999), causing",
+    "age telomere length through accumulation of several short telo- meres (Londono-Vallejo et al., 2001; Martens et al., 2000) is  responsible for senescence or whether a speci  c chromosome  arm limits the replication potential of human cells (Hemann et al., 2001). Individual chromosome arms were shown to have  large variations in their length (Lansdorp et al., 1996; Benn,  1997; Londono-Vallejo et al., 2001), and chromosome 17p seemed to be equipped with especially short telomeres in hu-",
+    "Telomeres are specialized structures that protect the ends of linear chromosomes. They shorten during aging due to the unidirectional activity of DNA polymerase, which leaves a section of DNA unrepli-cated on the lagging strand. Telomeres also are subject to shortening by genotoxic stress, such as oxidative damage (33). Among many eukaryotes, the enzyme telomerase maintains telomere length; but telomerase activity varies over the lifespan and between cell types, tissues, and species (34). In most human",
+    "ends. For example, chromosome 17p typi-cally has shorter telomeres than most other chromosomeends (26, 137). In human nucleated blood cells, the aver-age telomere length shows a highly signicant declinewith age that is most pronounced for the cells of theimmune system (Fig. 2). Telomeres prevent the ends oflinear chromosomes from appearing as DNA double-strand (ds) breaks and protect chromosome ends fromdegradation and fusion. It has been proposed that telo-meres can switch between an open state (in",
+    "telomeres, the repetitive sequence at the end of linear chromosomes, has garnered much attention for its relation to aging. Telomere repeats serve as an internal clock for cycling cells because each round of replication results in the loss of telomeric DNA in the absence of active telomerase (reviewed in [66]). Eventually, this loss over cellular generations culminates in telomere crisis and a permanent state of",
+    "a pivotal role in maintenance of genomic integrity and func-tion (Moyzis et al., 1988; McElligott and Wellinger, 1997; van  Steensel and de Lange, 1997).   It is generally accepted that telomeres shorten during DNA  replication both in vitro and in vivo. In individuals, short telomeres are considered to be a sign of advanced age. Cawthon  and coworkers (2003) showed that telomere shortening in hu-",
+    "Telomeres are nucleoprotein complexes situated at the ends of thelinear chromosomes that prevent chromosome termini from beingrecognized as broken DNA ends ( i.e., DSBs). In most of the organisms studied, telomeres consist of long repetitive G-rich and C-rich DNAstrands, the ribonucleoprotein telomerase, and telomere bindingand associated proteins [179] . Loss of telomeric repeats or loss of"
+  ],
+  "answer": "The length of telomeres is significant for several reasons:  1. **Protection of Chromosomes**: Telomeres are repetitive nucleotide sequences at the ends of chromosomes that protect them from attrition and damage during replication [2], [4], [7]. They prevent chromosome ends from being recognized as broken DNA ends, which could otherwise lead to degradation and fusion [4], [10].  2. **Aging and Cellular Senescence**: Telomere length decreases with each round of genomic replication due to the unidirectional activity of DNA polymerase, which leaves a section of DNA unreplated on the lagging strand [1], [6]. This progressive shortening acts as an internal clock for cellular aging, eventually leading to cellular senescence when telomeres become critically short [8].  3. **Disease Association**: Shorter telomeres have been linked to various diseases. For example, individuals with Type 2 Diabetes (T2D) have been shown to have shorter leukocyte telomeres, which may be associated with disease progression [2]. Similarly, shorter telomeres in smooth muscle cells have been linked to senescence and disease severity in patients with atherosclerosis [3]. Leukocyte telomere length has also been associated with a higher risk of developing cardiovascular disease [3].  4. **Genomic Stability**: Telomere shortening and erosion can lead to chromosome end-to-end fusions and genomic instability, which are detrimental to cellular function and can lead to various genetic disorders [4].  5. **Biomarker Potential**: Due to their association with aging and disease, telomere length is being studied as a potential biomarker for various conditions, including cardiovascular diseases and diabetes [3].  In summary, telomere length is crucial for maintaining chromosome integrity, regulating cellular aging, and potentially serving as a biomarker for disease progression and risk assessment.",
+  "question": "What is the significance of the length of telomeres?"
+}

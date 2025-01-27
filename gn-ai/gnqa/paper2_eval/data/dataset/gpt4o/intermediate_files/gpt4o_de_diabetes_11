@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2013 -Whole-Exome Sequencing of 2,000 Danish Individuals.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2013 -Whole-Exome Sequencing of 2,000 Danish Individuals.pdf",
+    "2016 - The genetic architecture of type 2 diabetes.pdf",
+    "2013 -Whole-Exome Sequencing of 2,000 Danish Individuals.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2013 -Whole-Exome Sequencing of 2,000 Danish Individuals.pdf",
+    "2015 - Genetics, genomics and personalized medicine in Type 2 Diabetes.pdf",
+    "2020 - Insights into pancreatic islet cell dysfunction from type 2 diabetes mellitus genetics..pdf",
+    "2013 -Whole-Exome Sequencing of 2,000 Danish Individuals.pdf"
+  ],
+  "extraction_id": [
+    "01778b74-61b2-5f64-be8e-775c79af171d",
+    "0f2a8ab2-1666-50c0-b0b0-2a37e1f6917f",
+    "01778b74-61b2-5f64-be8e-775c79af171d",
+    "c266fa33-e779-514b-9337-636a69c6e6a4",
+    "89a75bbb-f0f6-5391-98fd-56631343a38e",
+    "524594ab-31ca-5f5c-8126-7c58060bb73e",
+    "01778b74-61b2-5f64-be8e-775c79af171d",
+    "5cd40b2d-72d6-5386-be94-b4e8188e4114",
+    "36db7673-abd7-55b1-9caf-b66498e19e78",
+    "89a75bbb-f0f6-5391-98fd-56631343a38e"
+  ],
+  "document_id": [
+    "2f2f6ff1-8f05-510d-bcf6-b1860fd9350c",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "2f2f6ff1-8f05-510d-bcf6-b1860fd9350c",
+    "d7e2a9de-46f1-5191-9cb0-dd68eb9f365a",
+    "2f2f6ff1-8f05-510d-bcf6-b1860fd9350c",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "2f2f6ff1-8f05-510d-bcf6-b1860fd9350c",
+    "d8b85c3e-62f3-5e67-99b0-d0a2f225aff0",
+    "2a386c81-8f24-5993-8e48-0e89d7fb4fec",
+    "2f2f6ff1-8f05-510d-bcf6-b1860fd9350c"
+  ],
+  "id": [
+    "chatcmpl-AIHJu3dzRIlHnqdmlSb6lzwzfrntr",
+    "935ff4d1-9840-5fab-8ad8-82e668319e91",
+    "b6905dfe-c622-58cd-b9ac-2cdcedada7e4",
+    "0ab59821-8bf4-50d3-92e7-b0dd593883a8",
+    "e266cecd-e881-5c64-8ce3-4894cbe47db5",
+    "aacfbc09-f4ec-5b71-a4a8-efd43cf8b6db",
+    "0977e7bd-4c4c-5c6c-a4d1-3b5f6fda03c5",
+    "9a3d06ce-e86f-511f-82ac-97e486618e47",
+    "451c2da6-3fd5-53f4-a58e-32b4f1d2cbbd",
+    "40f471a6-3615-52f3-a306-9f3568680409",
+    "a5469aca-198e-56f5-ab92-16fd00c5e0fc"
+  ],
+  "contexts": [
+    "and rare coding variants do not account for much of theheritability of type 2 diabetes. Under this scenario, themissing heritability could be located in common orlow-frequency and rare variants in noncoding regionsof the genome. Recent studies that jointly modeled dia-betes or obesity risk as a function of genetic relatednessacross all of the GWAS SNPs have suggested that much of the heritability of these traits can be explained by",
+    "T2D heritability. 3. Uncovering the Signicance of Rare-Coding and Non-Coding Genetic Variants in the Etiology of Type 2 Diabetes As previously stated, GWASs have uncovered many new genetic associations that are relevant to T2D, but GWAS ndings represent common and mid-frequency genetic variations, thus excluding rare frequency variants and also cumulative effect of many variants with small effect sizes. Missing heritability refers to the portion of genetic variance that cannot be explained by all signicant",
+    "could be accounted for by low-frequency and rare variants of moderate effect in a small number of genes. Our whole-exome sequencing study has explicitly addressed thisquestion. Additionally, we did not examine whether thereare fewer than 20 genes involved in type 2 diabetes butrather looked at whether rare coding variants in fewerthan 20 genes account for much of the heritability. In such a model, any number of other genes that do not",
+    "contribute to individual risk, has been long debated. Genome-wide association studies have identified scores of common  variants associated with type 2 diabetes, but in aggregate, these explain only a fraction of the heritability of this disease.  Here, to test the hypothesis that lower-frequency variants explain much of the remainder, the GoT2D and T2D-GENES  consortia performed whole-genome sequencing in 2,657 European individuals with and without diabetes, and exome",
+    "One common disease that has been subjected to intense genetic study is type 2 diabetes. 32The heritability of type 2 diabetes has been estimated to be around 30%.3335 Through GWASs, 63 loci have been reproducibly associ-ated with type 2 diabetes. 36However, as for other complex traits, the associated SNPs can only account for <20% of the heritability estimated from family studies.36 Here, we seek to evaluate the role that rare coding vari-",
+    "prevalence of T2D. These authors found rare variants that were not detected previously in population studies, but none of them were associated with T2D [ 49]. Larger multi-population studies and more advanced study methods are needed to reliably identify rare variants that are exclusively associated with T2D to eventually uncover missing T2D heritability. 3.2. Genetic Variants in Familial Studies of Type 2 Diabetes The development of T2D is driven by the combined effect of environmental factors and a",
+    "variance in disease risk that can be accounted for bythe 63 previously identied associations with commonvariants. Our empirical and simulation results are compatible with a variety of different genetic architectures for type2 diabetes. First, if rare coding variants are responsiblefor the majority of the heritability of the trait, the variants are most likely scattered across many ( >20) different",
+    "Genome-wide association studies (GWAS) have been helpful in identifying a large number of genetic variants conferring risk to T2D. However, only close to 10% heritability is explained by these variants. Other genetic variants, particularly those which are rare but with significant effects need to be identified.",
+    "and rare sequence variants associated with elevated  or reduced risk of type 2 diabetes. Nat. Genet. 46,  294298 (2014). 168. Lek, M. etal. Analysis of protein-coding genetic  variation in 60,706 humans. Nature 536, 285291  (2016).169. Xue, A. etal. Genome-wide association analyses  identify 143 risk variants and putative regulatory  mechanisms for type 2 diabetes. Nat. Commun. 9,  2941 (2018). 170. Huyghe, J. R. etal. Exome array analysis identifies",
+    "diabetes. In particular, our study suggests that when clus-tered in a small number of genes, rare coding variants ofmoderate to strong effect are unlikely to account formuch of the missing heritability. Rather, if rare coding var-iants are an important factor in type 2 diabetes risk, theyare most likely scattered across many genes. Our resultshave important implications for the design and interpreta- tion of future medical resequencing studies. Subjects and Methods Study Populations"
+  ],
+  "answer": "Rare variants identified through whole-genome sequencing contribute to the heritability of Type 2 diabetes by potentially explaining some of the \"missing heritability\" that common variants identified through genome-wide association studies (GWAS) do not account for. While GWAS have identified many common variants associated with Type 2 diabetes, these explain only a fraction of the heritability of the disease [4]. The missing heritability could be located in low-frequency and rare variants, particularly in noncoding regions of the genome [1]. However, studies have shown that rare coding variants, especially when clustered in a small number of genes, are unlikely to account for much of the missing heritability [10]. Instead, if rare coding variants are significant, they are likely scattered across many genes [10]. Therefore, while rare variants may contribute to the heritability of Type 2 diabetes, their exact role and impact remain to be fully elucidated, and larger multi-population studies are needed to reliably identify rare variants exclusively associated with Type 2 diabetes [6].",
+  "question": "How do rare variants identified through whole-genome sequencing contribute to the heritability of Type 2 diabetes?"
+}

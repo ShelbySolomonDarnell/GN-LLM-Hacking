@@ -1,0 +1,154 @@
+{
+    "created_at": "2024-04-02T12:00:22.254831Z",
+    "data": {
+        "amplify": false,
+        "answer": "Yes, significant quantitative trait loci (QTLs) have been found in aging studies. Three examples include:\n\n1. Lfdr1: This QTL was found on chromosome 7 and affects lifespan and fertility in response to dietary restriction. It also has suggestive effects on fuel efficiency (FE).\n\n2. Fedr1 and Fedr2: These QTLs were identified on chromosomes 9 and 15 respectively. They have significant effects on fuel efficiency in response to dietary restriction.\n\n3. QTLs associated with age-related thymic involution: These were identified in a study using C57BL/6 J X DBA/2 J (BXD) recombinant inbred (RI) strains of mice.",
+        "context": {
+            "0c6c0977-2cf9-4bbf-bc31-fe025f008089": [
+                {
+                    "document_id": "0c6c0977-2cf9-4bbf-bc31-fe025f008089",
+                    "text": "Genetic associations for two biological age measures point\nto distinct aging phenotypes. Aging Cell 20:e13376. DOI: https://doi.org/10.1111/acel.13376, PMID:\n34038024\nLang DH, Gerhard GS, Griffith JW, Vogler GP, Vandenbergh DJ, Blizard DA, Stout JT, Lakoski JM, McClearn GE. 2010. Quantitative trait loci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD) recombinant inbred mice. Aging Clinical and Experimental Research 22:8–19. DOI: https://doi.org/10.1007/BF03324809, PMID:\n20305363\nLappalainen T. 2015. Functional genomics bridges the gap between quantitative genetics and molecular\nbiology. Genome Research 25:1427–1431."
+                }
+            ],
+            "1fb6e4db-79c1-49c9-a358-3414f6a674da": [
+                {
+                    "document_id": "1fb6e4db-79c1-49c9-a358-3414f6a674da",
+                    "text": "Pharmacol Biochem Behav 81, 764–768. Hsu, H.C., Lu, L., Yi, N., Van Zant, G., Williams, R.W. & Mountz, J.D. (2007) Quantitative trait locus (QTL) mapping in aging systems. Methods Mol Biol 371, 321–348. Hurlin, P.J. & Huang, J. (2006) The MAX-interacting transcription\nfactor network. Semin Cancer Biol 16, 265–274. Jones, B.C. , Tarantino, L.M. , Rodriguez, L.A., Reed, C.L. , McClearn,\nG.E. , Plomin, R. & Erwin, V.G. (1999) Quantitative-trait loci analysis\nof cocaine-related behaviours and neurochemistry. Pharmacogenetics 9, 607–617. Jones, B.C. , Beard, J.L. , Gibson, J.N. , Unger, E.L., Allen, R.P. ,\nMcCarthy, K.A. & Earley, C.J."
+                }
+            ],
+            "2464a084-1a11-44eb-8bce-4b344de049ff": [
+                {
+                    "document_id": "2464a084-1a11-44eb-8bce-4b344de049ff",
+                    "text": "Genetic associations for two biological age measures point\nto distinct aging phenotypes. Aging Cell 20:e13376. DOI: https://doi.org/10.1111/acel.13376, PMID:\n34038024\nLang DH, Gerhard GS, Griffith JW, Vogler GP, Vandenbergh DJ, Blizard DA, Stout JT, Lakoski JM, McClearn GE. 2010. Quantitative trait loci (QTL) analysis of longevity in C57BL/6J by DBA/2J (BXD) recombinant inbred mice. Aging Clinical and Experimental Research 22:8–19. DOI: https://doi.org/10.1007/BF03324809, PMID:\n20305363\nLappalainen T. 2015. Functional genomics bridges the gap between quantitative genetics and molecular\nbiology. Genome Research 25:1427–1431."
+                }
+            ],
+            "47c12133-5a30-45b9-bcb8-b96f00737f31": [
+                {
+                    "document_id": "47c12133-5a30-45b9-bcb8-b96f00737f31",
+                    "text": "Interestingly, the correlation analysis indicates\nQTL Mapping in Aging Systems\n\n333\n\nFig. 5. Basic statistics provided by the WebQTL GeneNetwork website. The strain\ndistribution pattern (SDP) of the quantitative trait is presented in the basic statistics page\nof WebQTL in the following ways: (A) the raw data of the quantitative trait obtained\nfrom each BXD recombinant inbred (RI) strain, (B) data mean and distribution, (C) bar\ngraph showing the mean and variable of each strain, and (D) the normal probability plot\nof the SDP."
+                },
+                {
+                    "document_id": "47c12133-5a30-45b9-bcb8-b96f00737f31",
+                    "text": "23\nQuantitative Trait Locus (QTL) Mapping in Aging\nSystems\nHui-Chen Hsu, Lu Lu, Nengjun Yi, Gary Van Zant, Robert W. Williams,\nand John D. Mountz\nSummary\nUnderstanding the genetic basis of the effects of aging on the decline in the immune\nresponse is an enormous undertaking. The most prominent age-related change in the\nimmune system is thymic involution. This chapter will focus on the use of C57BL/6 J X\nDBA/2 J (BXD) recombinant inbred (RI) strains of mice to map genetic loci associated\nwith age-related thymic involution in mice."
+                }
+            ],
+            "5b2055ca-65c0-49a5-a442-e4ea8d5e8efb": [
+                {
+                    "document_id": "5b2055ca-65c0-49a5-a442-e4ea8d5e8efb",
+                    "text": "\n\nFor further prioritization, we converted the mouse QTL regions to the corresponding syntenic regions in the human genome and retrieved GWAS annotations for these intervals (Buniello et al., 2019).We specifically searched for the traits: epigenetic aging, longevity, age of menarche/menopause/puberty, Alzheimer's disease, and age-related cognitive decline and dementia.This highlighted five genes in Eaa11 and three genes in Eaa19 (Supplementary file 4c).We also identified a GWAS that found associations between variants near Myof-Cyp26a1 and human longevity (Yashin et al., 2018), and a meta-GWAS that found gene-level associations between Nkx2-3 and Cutc, and epigenetic aging (Supplementary file 4c; McCartney et al., 2021)."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Jiang, C. and Zeng, Z. B. (1995). Multiple trait analysis of genetic mapping for quantitative\ntrait loci. Genetics 140, 1111–1127. Jin, W., Riley, R. M., Wolfinger, R. D.et al. (2001). The contributions of sex, genotype and age\nto transcriptional variance in Drosophila melanogaster. Nat Genet 29, 389–395. Kempermann, G., Chesler, E. J., Lu, L. et al. (2006). Natural variation and genetic covariance\nin adult hippocampal neurogenesis. Proc Natl Acad Sci U S A 103, 780–785. Kendziorski, C. M., Chen, M., Yuan, M. et al. (2006). Statistical methods for expression\nquantitative trait loci (eQTL) mapping. Biometrics 62, 19–27."
+                }
+            ],
+            "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7": [
+                {
+                    "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                    "text": "\n\nHypothesis-free genome-wide approaches have also been undertaken.Genome-wide linkage scans reported evidence for linkage with longevity on chromosome 4q25 (Puca et al., 2001), 3p24-22, 9q31-34, and12q24 (Boyden &Kunkel, 2010).However, the evidence for these loci is still very weak as the results, obtained in centenarians and their families, could not be replicated in nonagenarian sibling pairs (Beekman et al., 2006) or have yet to be tested in other studies.A meta GWAS of survival to 90 years or older in 1836 cases and 1955 controls did not find any significant genome-wide associations (Newman et al., 2010).Thus far, hypothesis-free approaches have not identified any loci involved in longevity."
+                }
+            ],
+            "75e0ffe8-7675-4e11-be3e-880bfeb3dabd": [
+                {
+                    "document_id": "75e0ffe8-7675-4e11-be3e-880bfeb3dabd",
+                    "text": "Abiola O, Angel JM, Avner P, Bachmanov AA, Belknap JK, Bennett B, et al. The nature and identification of quantitative trait loci: a community’s view. Nat Rev Genet. Nature Publishing Group; 2003; 4:\n911–916. https://doi.org/10.1038/nrg1206 PMID: 14634638\n\n18. Grupe A, Germer S, Usuka J, Aud D, Belknap JK, Klein RF, et al. In silico mapping of complex diseaserelated traits in mice. Science. American Association for the Advancement of Science; 2001; 292:\n1915–1918. https://doi.org/10.1126/science.1058889 PMID: 11397946\n\n19. Pletcher MT, McClurg P, Batalov S, Su AI, Barnes SW, Lagler E, et al."
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\ncoid levels, etc.The mapping project should thus help to guide the search for human genes that regulate these interesting phenotypes and at the same time spark new investigations, in animal models, for the biochemical differences that mediate the genetic effects we detect.At the same time, the dataset that emerges should also allow us to test more general questions about the nature of aging and its genetic control.We may, for example, be able to identify QTLs that not only retard the development of one or more age-sensitive T-cell subsets, but also retard age-dependent changes in protein conformation, bone matrix turnover, and brain GFAP levels.Such a finding would imply that these changes are influenced, together, by a common biochemical pathway, and the corresponding QTLs would be excellent candidates for genes that regulate aging per se, rather than merely one among the many more agesensitive traits.In the same way, it will be of particular interest to determine if QTLs that regulate age-sensitive traits also are associated with differences in life span, and conversely if QTLs identified on the basis of longevity effects modify one (or nearly all?) of the age-sensitive traits in our test battery."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "\n\nThe strategy for mapping such quantitative trait loci (QTL) involves looking for preferential segregation of specific alleles or allele combina-tions in mice that differ in life span (or, more generally, any age-sensitive trait of interest).Our test population, called UM-HET3, consisted of a group of mice bred as the progeny of females of the (BALB/c × C57BL/6)F1 genotype and males of the (C3H/HeJ × DBA/2)F1 genotype.Mice bred in this way are, from a genetic perspective, all siblings; each shares a random half of its alleles with every other animal in the UM-HET3 population.The current set of analyses was conducted when genotype and longevity data were available from a group of 110 virgin males and 143 virgin females.The analytical method adjusted, by permutation testing, for Type I errors attributable to the simultaneous evaluation of multiple linkage hypotheses, and also included gender as a covariate to look for instances of sex-specific genetic effects.Because we had particular interest in regulation of late-life diseases rather than in causes of premature death, and because of evidence that genetic influences on mouse longevity were particularly strong when early deaths were not considered (Covelli et al., 1989), we repeated each analysis after exclusion of those animals dying before 657 days of age, i.e., the age at which 20 percent of the animals had already died."
+                }
+            ],
+            "9ac0b7e7-6294-4cfb-97e3-e5a4546af324": [
+                {
+                    "document_id": "9ac0b7e7-6294-4cfb-97e3-e5a4546af324",
+                    "text": "The proportion of the phenotypic variance accounted for by\nthe QTL yield for Hbact and Hbrear was substantial and of the\nsame order of magnitude as that contributed by age. A small\nnumber of age-dependent QTL were found in the midst of\na majority of age-stable QTL (see discussion above). These\nage-sensitive loci point toward genes whose functions are\ncorrelated with important behavioral changes during aging."
+                }
+            ],
+            "9fed8fd1-fce5-4fc1-9911-05d312f88521": [
+                {
+                    "document_id": "9fed8fd1-fce5-4fc1-9911-05d312f88521",
+                    "text": "\n\nAgeing genes and pathways.Assessing the loci of interest for colocalisation with gene expression quantitative trait loci (eQTL), we find strong evidence (FDR SMR < 5%; P HEIDI > 1%; see \"Methods\") of cis-acting eQTL colocalisation for eight out of 10 loci.In total, we highlight 27 unique genes acting across 32 tissues, especially whole blood (12 genes) and the tibial nerve (7 genes) (Supplementary Data 5).In blood, higher expression levels of BCL3 and CKM (near APOE); CTC-510F12.2, ILF3, KANK2 and PDE4A (near LDLR); USP28 and ANKK1 (near ZW10); and CDKN2B are linked to an increase in multivariate ageing traits (i.e.improved survival), while the opposite is true for EXOC3L2 (near APOE), TTC12 (near ZW10), and FOXO3.For the multivariate signal near SLC4A7 we find colocalisation with expression of NEK10 (liver); for the signal near LPA we find colocalisation with expression of SLC22A1/A3 (multiple tissues) and MAP3K4 (pituitary); and for the signal near FGD6 we find colocalisation with expression of FGD6 itself (adipose/arterial).Including trans-acting eQTL from blood, while keeping the same thresholds for colocalisation, we additionally discover higher expression levels of FOXO3B colocalises with the life-extending signal near FOXO3.When we include genes which could not be tested for heterogeneity (N eQTL < 3), we identify one additional cis-acting and 49 additional trans-acting genes (of which 10 colocalise with the signal near LINC02513) (Table 2; Supplementary Data 5)."
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Jiang, C. and Zeng, Z. B. (1995). Multiple trait analysis of genetic mapping for quantitative\ntrait loci. Genetics 140, 1111–1127. Jin, W., Riley, R. M., Wolfinger, R. D.et al. (2001). The contributions of sex, genotype and age\nto transcriptional variance in Drosophila melanogaster. Nat Genet 29, 389–395. Kempermann, G., Chesler, E. J., Lu, L. et al. (2006). Natural variation and genetic covariance\nin adult hippocampal neurogenesis. Proc Natl Acad Sci U S A 103, 780–785. Kendziorski, C. M., Chen, M., Yuan, M. et al. (2006). Statistical methods for expression\nquantitative trait loci (eQTL) mapping. Biometrics 62, 19–27."
+                }
+            ],
+            "cb3f9967-9762-4a9b-96cb-0acccdc316d2": [
+                {
+                    "document_id": "cb3f9967-9762-4a9b-96cb-0acccdc316d2",
+                    "text": "Quantitative trait loci (QTLs) can be identified in several ways, but is\nthere a definitive test of whether a candidate locus actually corresponds to a specific QTL? NIH-PA Author Manuscript\n\nMuch of the genetic variation that underlies disease susceptibility and morphology is complex\nand is governed by loci that have quantitative effects on the phenotype. Gene-gene and geneenvironment interactions are common and make these loci difficult to analyse. Here, we present\na community’s view on the steps that are necessary to identify genetic loci that govern\nquantitative traits, along with a set of interpretive guidelines."
+                }
+            ],
+            "d1f04d58-2589-4183-aee4-569820dae052": [
+                {
+                    "document_id": "d1f04d58-2589-4183-aee4-569820dae052",
+                    "text": "QTL Analysis in Hematopoiesis\n\n47\n\n3\nQuantitative Trait Analysis in the Investigation\nof Function and Aging of Hematopoietic Stem Cells\nHans-Willem Snoeck\nSummary\nExtensive genetically determined quantitative variation exists in the number and function of hematopoietic stem cells in inbred mouse strains. Furthermore, aging of hematopoietic stem cells is genetically determined. Gene identification of quantitative trait loci\ninvolved in the regulation and aging of hematopoietic stem cells would provide novel\ninsights into regulatory mechanisms that are relevant in vivo and may be clinically important."
+                }
+            ],
+            "dbfe8986-e861-496f-a534-7bb9ca061ad6": [
+                {
+                    "document_id": "dbfe8986-e861-496f-a534-7bb9ca061ad6",
+                    "text": "\n\nIn order to find the causal loci for heritable differences in transcript levels and possible interactions between age and genotype, we applied a two-time-point model.In this model, we used three factors-(1) relative age, (2) genotype (marker), and (3) the interaction between factors 1 and 2-to explain the differences in gene expression between RILs and age groups.With this mapping procedure, we found almost 900 genes that had an eQTL or gxa eQTL in developing and/or aging worms (P < 0.0001; Fig. 2).Almost half of these genes with heritable transcript differences were found to have a genotype-by-age effect (396 at P < 0.0001; Table 1) allocated to a specific marker, which we coined genotype-by-age expression-QTL ( gxa eQTL).One specific hotspot (trans-band) for gxa eQTL was found on chromosome IV for aging worms and a trans-band for eQTL on chromosome I was detected in developing worms (Fig. 2)."
+                }
+            ],
+            "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748": [
+                {
+                    "document_id": "e2eaa1f2-1a1c-42b7-ab7f-e69a0394f748",
+                    "text": "NIH-PA Author Manuscript\n\nWe found three significant QTLs (genetic regions harboring genes controlling these various\naging traits, Supplementary Table 5). On chromosome 7, we found a QTL affecting lifespan\nand fertility after DR that we have named Lfdr1 for “longevity and fertility response to\ndietary restriction, QTL 1; this QTL also has suggestive effects on FE (Fig. 5D). Two QTLs\nhaving significant effects on FE were identified on chromosomes 9 and 15. These we have\nnamed Fedr1 and Fedr2, respectively, for “fuel efficiency response to dietary restriction”\nQTLs 1 and 2."
+                }
+            ],
+            "f041550e-5f2d-430e-8f46-15ebea6ca496": [
+                {
+                    "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                    "text": "Quantitative trait locus (QTL) mapping in\naging systems. Methods in Molecular Biology (Clifton, NJ ). 2007; 371:321–348. Hunter KW, Crawford NPS. The future of mouse QTL mapping to diagnose disease in mice in the age\nof whole-genome association studies. Annual Review of Genetics. 2008; 42:131–141. Ito R, Robbins TW, Everitt BJ. Differential control over cocaine-seeking behavior by nucleus\naccumbens core and shell. Nature Neuroscience. 2004; 7:389–397. [PubMed: 15034590]\nKapp MB. Ethical and legal issues in research involving human subjects: do you want a piece of me? Journal of Clinical Pathology. 2006; 59:335–339."
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Jiang, C. and Zeng, Z. B. (1995). Multiple trait analysis of genetic mapping for quantitative\ntrait loci. Genetics 140, 1111–1127. Jin, W., Riley, R. M., Wolfinger, R. D.et al. (2001). The contributions of sex, genotype and age\nto transcriptional variance in Drosophila melanogaster. Nat Genet 29, 389–395. Kempermann, G., Chesler, E. J., Lu, L. et al. (2006). Natural variation and genetic covariance\nin adult hippocampal neurogenesis. Proc Natl Acad Sci U S A 103, 780–785. Kendziorski, C. M., Chen, M., Yuan, M. et al. (2006). Statistical methods for expression\nquantitative trait loci (eQTL) mapping. Biometrics 62, 19–27."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "F609F53687E61A2158330F914066FE89",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "aging",
+            "QTL",
+            "quantitative&trait&loci",
+            "longevity",
+            "epigenetic&aging",
+            "Alzheimers&disease",
+            "cognitive&decline",
+            "dementia",
+            "GWAS",
+            "eQTL"
+        ],
+        "metadata": [],
+        "question": "Do we find significant quantitative trait loci in aging studies, if so give the top three examples with descriptions?",
+        "subquestions": null,
+        "task_id": "F609F53687E61A2158330F914066FE89",
+        "usage": {
+            "chatgpt": 7623,
+            "gpt-4": 5054,
+            "gpt-4-turbo-preview": 3989
+        },
+        "user_id": 2
+    },
+    "document_id": "F609F53687E61A2158330F914066FE89",
+    "task_id": "F609F53687E61A2158330F914066FE89"
+}

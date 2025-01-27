@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2012 - Structural, functional and molecular analysis.pdf",
+    "2017 - Metformin alters the gut microbiome of individuals with treatment-naive type 2 diabetes, contributing to the therapeutic effects of the drug.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2012 - Structural, functional and molecular analysis.pdf",
+    "2012 - Structural, functional and molecular analysis.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Blood-based epigenetic estimators.pdf",
+    "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf"
+  ],
+  "extraction_id": [
+    "07a2b9a1-d683-568d-b2e6-c2cc1fcffba5",
+    "faae2e40-6de8-5285-8410-ac1ef5dac6ad",
+    "b2654364-b3e8-5e26-9664-d19ca8f5605e",
+    "c50b343b-3eef-548c-88cd-d5bda6605619",
+    "66edc533-58a4-5ad1-96c4-7e0c05462de5",
+    "d9ef944b-b9a5-5b45-aaa6-c48f6fe54893",
+    "307ac6d0-46d2-50e8-a618-d640136d4131",
+    "a0bb2ab8-44b4-5409-814c-22005b259479",
+    "062e4ac3-ef28-5bfa-be8c-770757083cfb",
+    "bca61863-81b3-5ef7-850d-10cc9577a9e1"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "0e803003-d6e5-570e-a810-1aea89d7ea63",
+    "448d68d1-19a8-5f4c-a48b-8d33597bd03b",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "0e803003-d6e5-570e-a810-1aea89d7ea63",
+    "0e803003-d6e5-570e-a810-1aea89d7ea63",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "2673299f-21e5-5746-9c33-84b99b373355",
+    "4d082da4-fa48-5170-8147-c4fea47a5d4b"
+  ],
+  "id": [
+    "chatcmpl-AIHXx0hXjoPni1lj2qiHnS6BLuSSU",
+    "1bcfcf33-d9b4-55b7-a384-bc8e08893a22",
+    "f4ec4435-00f7-5477-984a-68d1eff9e7a0",
+    "393bd8fc-14c6-5fc3-be3b-3ddf1c218531",
+    "0856bafc-06ce-5716-af52-f65dc3abfafe",
+    "3742fdda-bdba-5c09-bf7c-732b2554c5fe",
+    "bb367137-9186-53aa-8765-af837b7b4242",
+    "a6a78000-8744-5f89-bcbb-d26781ece651",
+    "39564137-871b-5464-b364-ba63cbf9cc31",
+    "7a775400-f8f2-5758-af40-b461adc83aa3",
+    "35f973f6-2ca0-5d89-98b2-8e28a67323c5"
+  ],
+  "contexts": [
+    "the adaptation of the microbiota to the physiological changes of the long aging  process. It has been demonstrated that the microbiota on this population maintains  the health and promotes the survival. Additionally, a relationship between a healthy  microbiota and longevity had been proposed [44]. A possible pathway is an immu- nological and metabolic regulation linked to the increase of bacterial compounds  like Christensenellaceae, Akkermansia, and Bifidobacterium [44, 45].",
+    "Marchesi JR, Falush D, Dinan T, Fitzgerald G, et al:Composition, variability, and temporal stability of the intestinal microbiota of the elderly. Proc Natl Acad Sci USA 2011, 108(Suppl 1):4586 4591. 21. Maegawa S, Hinkal G, Kim HS, Shen L, Zhang L, Zhang J, Zhang N, Liang S, Donehower LA, Issa JP: Widespread and tissue specific age-related DNA methylation changes in mice. Genome Res 2010, 20(3):332 340. 22. Englander EW: Gene expression changes reveal patterns of aging in the",
+    "microbiota present in infants, adults, and the elderly. Appl. Environ. Microbiol.  73,  77677770 (2007). 40. Kong, F. et al.  Gut microbiota signatures of longevity. Curr. Biol.  26, R832R833  (2016). 41. Tremaroli, V. et al. Roux-en-Y gastric bypass and vertical banded gastroplasty induce  long-term changes on the human gut microbiome contributing to fat mass regulation.  Cell Metab.  22, 228238 (2015). 42. Everard, A. et al. Microbiome of prebiotic-treated mice reveals novel targets involved",
+    "Therefore, research in the field has demonstrated that aging is a potential modi- fier of the composition and function of the human microbiome. Figure 9.3 shows the  local composition of the microbiome in an average older adult. It can be seen that  Bacteroidetes and Firmicutes species are the most prevalent in this age. Recent data has shown that older people hide a microbiota that differs in the  type and number of microorganisms from that of younger adults [38]. Young people",
+    "related malnutrition. Furthermore, it has been shownthat aging can cause bacterial overgrowth in the smallintestine [16,17] and promote changes in microbial com- position in the colon [18-20]. In addition, reported age- related changes in DNA methylation of the mouseintestine [21] might play a role in the altered gene expression levels observed in the duodenum and colon of aging mice [22]. Together these observations demon-strate that although certain aspects of the aging intestine",
+    "detectable. Changes in the gut microbiota in terms of compos- ition and functionality during the process of aging have previously been reported [19,20,51] and it hasbeen postulated that these changes might contribute to the development of immunosenescence and inflam- maging [18,52]. To establish whether the enhanced expression of genes playing a role in the immune sys- tem are due to modifications in the microbiota wemeasured the total number of all bacteria and of the",
+    "37. Li H, Qi Y , Jasper H.Preventing age-related decline of gut compartmentalization limits micro- biota Dysbiosis and extends lifespan. Cell Host Microbe. 2016;19(2):24053.  38. Mihajlovski A, Dor J, Levenez F, Alric M, Brugre J.Molecular evaluation of the human gut  methanogenic archaeal microbiota reveals an age-associated increase of the diversity. Environ  Microbiol Rep. 2010;2(2):27280.  39. Quercia S, Candela M, Giuliani C, Turroni S, Luiselli D, Rampelli S, etal. From lifetime to",
+    "[26], but at advanced ages, dramatic changes in its composition are associated with  various diseases and frailty [27, 28]. Regarding pathological processes, it is known that cancer, obesity, diabetes, and  inflammatory bowel disease (IBD) are associated with specific microbial alterations  [29, 30]. In older ages, a burden of intrinsic and extrinsic factors affects the compo- sition of the microbiome and plays a determining role in every tract and tissue. Such  mentioned factors can be seen in Fig.9.2.",
+    "Osawa R. Age-related changes in gut microbiota composition from newborn to centenarian: a cross-sectional study. BMC Microbiol. 2016;16:90. 14. Dugue PA, Bassett JK, Joo JE, Jung CH, Ming Wong E, Moreno-Betancur M, Schmidt D, Makalic E, Li S, Severi G, et al. DNA methylation-based biological aging and cancer risk and survival: pooled analysis of seven prospective studies. Int J Cancer. 2018;142(8):1611 9. 15. Levine ME, Hosgood HD, Chen B, Absher D, Assimes T, Horvath S. DNA",
+    "survival advantage that is age- and site-specific: Results from a large multi-site study. Aging Cell  18, e12905 (2019). [PubMed: 30801953]  51. Houtkooper RHet al.The metabolic footprint of aging in mice. Sci. Rep. 1, 134 (2011). [PubMed:  22355651]  52. Morrison KE, Jaarevi E, Howard CD & Bale TL Its the fiber, not the fat: significant effects of  dietary challenge on the gut microbiome. Microbiome 8, 15 (2020). [PubMed: 32046785]"
+  ],
+  "answer": "Changes in the gut microbiome composition are closely linked to aging and longevity. As individuals age, the composition and function of the gut microbiome undergo significant modifications. These changes are thought to contribute to various age-related processes, including immunosenescence and inflammaging, which are associated with the aging immune system [6].   Research has shown that a healthy microbiota can promote survival and is linked to longevity. Specifically, certain bacterial families such as Christensenellaceae, Akkermansia, and Bifidobacterium have been associated with immunological and metabolic regulation, which may contribute to increased lifespan [1].   Additionally, the gut microbiota of older adults differs in type and number of microorganisms compared to younger adults, with Bacteroidetes and Firmicutes being the most prevalent species in older individuals [4]. These changes in microbial composition can be influenced by both intrinsic and extrinsic factors, which play a significant role in the health and function of the microbiome as people age [8].   Overall, maintaining a healthy gut microbiome is crucial for promoting longevity and mitigating some of the negative effects associated with aging.",
+  "question": "How do changes in the gut microbiome composition correlate with aging and longevity?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Pharmacogenetics of Anti-Diabetes Drugs.pdf",
+    "2002 - Genetic Effects on Age-Dependent Onset and Islet Cell.pdf",
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2004 - Interaction and Association Analysis of a Type 1 Diabetes Susceptibility Locus.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf",
+    "2011 - Obesity and Type 2 Diabetes What Can Be Unified.pdf",
+    "2017 - Spectrum of mutations in monogenic diabetes genes identified from high-throughput DNA sequencing of 6888 individuals.pdf",
+    "2010 - Genomics, Type 2 Diabetes, and Obesity.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf"
+  ],
+  "extraction_id": [
+    "73e1aaff-7ef6-5ca2-9c94-23f5674a4f88",
+    "3dbc9428-663d-58ba-9268-3d87957bad4d",
+    "d7bd898b-1d46-557a-b065-f94fc5310b2a",
+    "d71343b2-f7c5-52b4-96f9-bcc98f97fe81",
+    "2643b341-8c50-5cea-af36-86a8b070a80e",
+    "037a2c9e-51be-5bd8-957a-4b3dfcc82e46",
+    "b24927c4-ee83-51a8-b431-b43be7d3b678",
+    "8a28c11f-e0d2-526b-ac85-2f2fbf054fc5",
+    "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07",
+    "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07"
+  ],
+  "document_id": [
+    "ffeebaf9-ff76-5751-9b8b-7a2a4a4f1dc3",
+    "2598ed03-43da-5894-8a62-41c8f53559d1",
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "4246f8d0-69e8-56cf-9674-d379467dfb61",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d",
+    "07e715c3-4f95-54f4-8461-5062e62d0fe6",
+    "18a8a000-69ed-5d34-b13f-f5ae016d1067",
+    "3d629777-f1b6-5450-94ef-56736e5a4e10",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10"
+  ],
+  "id": [
+    "chatcmpl-ADZQut2fnFLEnMmGsKclOiiWtUmw9",
+    "437a7129-63b8-5f34-8273-2eef9535e987",
+    "e2cc78dc-8af3-5459-bc88-84939f5aced4",
+    "47e8bd94-fd61-57f2-b1d0-cc139d71936a",
+    "a495dcc8-5cee-58a9-9f15-95be8fbc9b6a",
+    "aa72551a-ac0c-5d7d-8057-34f229f68eb1",
+    "9a42b2f0-cad6-56af-9aa4-0d2f9bedd351",
+    "748d13eb-eec0-5f79-8138-e3227a188b52",
+    "b4efc562-0077-5428-be43-f3eeafeb6847",
+    "d184bcc3-8c38-5969-859a-22db976fec35",
+    "3e22864f-a062-55b2-a9a3-a64cde8bd388"
+  ],
+  "contexts": [
+    "gene are associated with NIDDM in Caucasians. Diabetes 1996 , 45, 825-831.  46.  Tarasov, A.I.; Nicolson, T.J. ; Riveline, J.P.; Taneja, T.K. ; Baldwin, S.A.; Baldwin, J.M.;  Charpentier, G.; Gautier, J.F. ; Froguel, P.; Vaxillaire, M.; et al.  A rare mutation in ABCC8/SUR1  leading to altered ATP-sensitive K+ channel activ ity and beta-cell glucose sensing is associated  with type 2 diabetes in adults. Diabetes 2008 , 57, 1595-1604.",
+    "gene is associated with insulin-dependent diabetes mellitus. Diabetes 33:176 183, 1984 6. Bennett ST, Lucassen AM, Gough SCL, Powell EE, Undlien DE, Pritchard LE, Merriman ME, Kawaguchi Y, Drons eld MJ, Pociot F, Nerup J, Bouzekri N, Cambon-Thomasen A, R nningen KS, Barnett AH, Bain SC, Todd JA: Susceptibility to human type 1 diabetes at IDDM2 is determinedby tandem repeat variation at the insulin gene minisatellite locus. Nat Genet 9:284 292, 1995",
+    "of Diabetes   Results of several genome-wide association stud- ies (GWAS) have linked the following common gene variants with a 1520% increased risk of diabetes: reduced insulin secretion via reduce beta-cell mass (CDKAL1, CDKN2A, CDKN2B) and beta-cell dysfunction (MTNR1B, TCF7L2, KCNJ11) and increased insulin resistance related to obesity (FTO) and unrelated to obesity (IRS1, PPARG) [  11 ]. While most of the early studies",
+    "gene is associated with insulin-dependent diabetes mellitus. Diabetes 33:176 183, 1984 3. Nistico L, Buzzetti R, Pritchard L, Van der Auwera B, Giovannini C, Bosi E, Larrad M, Rios M, Chow C, Cockram C, Jacobs K, Mijovic C, Bain S,Barnett A, Vandewalle C, Schuit F, Gorus F, Tosi R, Pozzilli P, Todd J: TheCTLA-4 gene region of chromosome 2q33 is linked to, and associated with,type 1 diabetes: Belgian Diabetes Registry. Hum Mol Genet 5:1075 1080, 1996",
+    "ly associated with type 2 diabetes: TCF7L2, KCNJ11,   and PPARG . 5-7 However, in 2007, a number of novel  genetic variants ( CDKAL1, IGF2BP2,  the locus on  chromosome 9 close to CDKN2A/CDKN2B, FTO,  HHEX, SLC30A8,  and WFS1)8-14 were shown to in - crease susceptibility to type 2 diabetes in repro - ducible studies. Furthermore, a recent meta-analy - sis identified six novel variants ( JAZF1, CDC123/ CAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, and NOTCH2 ) that are associated with type 2 dia - betes. 15",
+    "date gene approaches now have identified /H1101140 genes as- sociated with type 2 diabetes (17, 18) and a similar num-ber, albeit largely different, with obesity. Most type 2diabetes genes appear to be related to /H9252-cell dysfunction,",
+    "HNF1A ,HNF4A ,HNF1B ,INS,NEUROD1 ,PDX1 ,PAX4 , ABCC8 ,KCNJ11 ,KLF11 ,CEL, and BLK), 6 genes associ- ated with recessive diseases that include diabetes as a phenotype ( WFS1 ,NEUROG3 ,EIF2AK3 ,GLIS3 ,RFX6 , andSLC19A2 ), and 3 genes in which heterozygous mu- tations have been shown to cause diabetes mellitus (PAX6 ,GATA6 , and PPARG ). Our primary objectives were to (1) identify subjects with potentially undiag- nosed monogenic diabetes, (2) compare and contrast the",
+    "4. ORahilly S. Human genetics illumi - nates the paths to metabolic disease. Na - ture 2009;462:307-14. 5. McCarthy MI. Growing evidence for  diabetes susceptibility genes from genome scan data. Curr Diab Rep 2003;3:159-67. 6. Hattersley AT, McCarthy MI. What  makes a good genetic association study? Lancet 2005;366:1315-23. 7. Altshuler D, Hirschhorn JN, Klanne - mark M, et al. The common PPARgamma Pro12Ala polymorphism is associated with decreased risk of type 2 diabetes. Nat Genet 2000;26:76-80.",
+    "genes including interlukin-6 ( IL-6), tumor necrosis  factor- and IL-10 genes were found to be associated  with greater risk of developing type 2 diabetes[171], in  addition to genetic variants in the genes for IL12B ,  IL23R  and IL23A  genes[172]. In a study involving the  hormone sensitive lipase re sponsible for lipolysis  in adipose tissues, a deletion null mutation, which  resulted in the absence of the protein from adipocytes,  was reported to be associated with diabetes[173]. Nine",
+    "2 diabetes[144,149,150], however, not all of these genes  showed consistent and reproducible association with  the disease[151]. Genome wide association studies  (GWAS) in various populations identified 70 loci  associated with type 2 diabetes and revealed positive  linkage of many mutations and SNPs that influence  the expression and physiological impact of the related  proteins and risk to develop type 2 diabetes. One study  involved several thousand type 2 diabetes patients and"
+  ],
+  "answer": "Several genes have been associated with diabetes, both type 1 and type 2, according to the provided context:  1. **Type 1 Diabetes:**    - **Insulin gene minisatellite locus (IDDM2)**: Susceptibility to type 1 diabetes is determined by tandem repeat variation at this locus [2].    - **CTLA-4 gene region of chromosome 2q33**: This gene region is linked to and associated with type 1 diabetes [4].  2. **Type 2 Diabetes:**    - **ABCC8/SUR1**: A rare mutation in this gene affects ATP-sensitive K+ channel activity and beta-cell glucose sensing, leading to type 2 diabetes [1].    - **Common gene variants**: Several genome-wide association studies (GWAS) have linked common gene variants with increased risk of type 2 diabetes, including:      - **CDKAL1, CDKN2A, CDKN2B**: Associated with reduced insulin secretion via reduced beta-cell mass [3].      - **MTNR1B, TCF7L2, KCNJ11**: Associated with beta-cell dysfunction [3].      - **FTO**: Associated with increased insulin resistance related to obesity [3].      - **IRS1, PPARG**: Associated with increased insulin resistance unrelated to obesity [3].    - **Other genes**: Additional genes associated with type 2 diabetes include:      - **TCF7L2, KCNJ11, PPARG, CDKAL1, IGF2BP2, FTO, HHEX, SLC30A8, WFS1** [5].      - **JAZF1, CDC123/CAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, NOTCH2** [5].    - **Genes related to beta-cell dysfunction**: Many type 2 diabetes genes appear to be related to beta-cell dysfunction [6].    - **Monogenic diabetes genes**: Genes such as **HNF1A, HNF4A, HNF1B, INS, NEUROD1, PDX1, PAX4, ABCC8, KCNJ11, KLF11, CEL, BLK** are associated with monogenic forms of diabetes [7].    - **Genes associated with recessive diseases that include diabetes**: **WFS1, NEUROG3, EIF2AK3, GLIS3, RFX6, SLC19A2** [7].    - **Genes with heterozygous mutations causing diabetes mellitus**: **PAX6, GATA6, PPARG** [7].    - **Inflammatory genes**: Genes such as **IL-6, TNF-\u03b1, IL-10, IL12B, IL23R, IL23A** are associated with a greater risk of developing type 2 diabetes [9].  These references provide a comprehensive list of genes associated with both type 1 and type 2 diabetes.",
+  "question": "what genes are associated with diabetes?"
+}

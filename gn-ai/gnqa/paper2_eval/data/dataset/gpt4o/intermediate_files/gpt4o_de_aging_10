@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Chromatin Remodeling, DNA Damage Repair and Aging.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2016 - Genome Integrity in Aging.pdf",
+    "2017 - Regular exercise participation improves genomic stability in diabetic patients an exploratory study to analyse telomere length and DNA damage.pdf",
+    "2018 - Genomic Instabilities, Cellular Senescence, and Aging In Vitro, In Vivo and Aging-Like Human Syndromes.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2019 - Towards Understanding Genomic Instability, Mitochondrial.pdf"
+  ],
+  "extraction_id": [
+    "d9a12bd9-c65e-547a-89aa-4e0231558ddc",
+    "e3e52327-4a23-5003-b418-dafdcdcae82c",
+    "3da50120-f7fd-5256-ae05-4ffd57876a5c",
+    "fdd9c5d5-2cca-5fe1-baed-c672f464dab0",
+    "a5caef7f-f1c1-55af-8807-3c9db425df7b",
+    "4cd1741b-c96f-592f-af69-95f3a10a157b",
+    "2b1396d1-ea5d-5708-a6b1-2adf1712c7b4",
+    "2b1396d1-ea5d-5708-a6b1-2adf1712c7b4",
+    "0a7a0a01-a262-51bf-bfaf-4f301a0a467b",
+    "93dbd5fc-d568-5b19-a9cd-fa192ed94ca7"
+  ],
+  "document_id": [
+    "594e5dbe-b92a-5b0c-9f65-2a10670f9517",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "85d5fcbb-5385-5a01-8139-d11fc8b1fe3a",
+    "dcaf7b09-2d54-5cbf-b061-e3c4e6c6c518",
+    "7de8d462-8a3c-5625-8cbb-374f3bb46425",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "9b34514d-3d0e-52b5-8e5e-2f3c0708fd82"
+  ],
+  "id": [
+    "chatcmpl-AIHXSI5xx8VWq2TPqps22AUgX04Pq",
+    "42a07dfa-c5ac-535f-9a65-8c53b8f10aec",
+    "86bd9226-94dc-5186-984e-3dd140de9af3",
+    "79535f3c-51b2-5696-9081-3fdf146e8e61",
+    "6b4d2b61-4c6b-5b9e-a175-7a3c53a923a5",
+    "609e97e2-babd-5a49-9451-1a6162eb01e4",
+    "9fac0777-2bcb-528c-9c16-cbcd85e28522",
+    "b9de772a-53c5-5128-a595-9baf9420e534",
+    "1d1662ae-28d6-514d-a600-8860b061a504",
+    "43c4d87f-c0ce-5148-b601-77e6fd8956b2",
+    "0acc43f6-5d5b-53f5-af2f-53077b26591a"
+  ],
+  "contexts": [
+    "Chromatin Remodeling, DNA Damage Repair and Aging Current Genomics, 2012 , Vol. 13, No. 7    539  Ercc1 also show premature aging phenotypes, providing evi- dence of a direct correlation between impaired DDR and premature aging [137, 138].    The relationship between DNA damage accumulation  and aging has gained maximum credibility through studies",
+    "genome is being transcribed or replicated, the threshold of damage needed to activate DDRs, and the choice of cell fate in response to genotoxic stress. It is important to point out that cross-sectional studies, which are largely all we have to date, yield information about the burden of DNA damage and cannot inform as to whether lesions accumulate over time. Longitudinal studies on tissues that can be serially accessed are desperately needed. DNA Repair Capacity Decreases with Aging",
+    "INTRODUCTION Damage to DNA occurs with surprising frequency. DNA lesions can cause mutations, blocktranscription and replication, and trigger the DNA damage response (DDR). The DDR arrests cell cycle progression and activates signaling pathways that impact cell fate: repair, apoptosis, or cellular senescence. DNA damage is widely recognized as a cause of cancer, and strong evidencenow links DNA damage to aging and diseases associated with aging.",
+    "DNA damage and persistent DDR signalling as a shared causative mechanism of cellular senescence andageing. Curr. Opin. Genet. Dev. 26:8995 103. Rodier F, Coppe JP, Patil CK, Hoeijmakers WA, Munoz DP, et al. 2009. Persistent DNA damage signalling triggers senescence-associated inammatory cytokine secretion. Nat. Cell Biol. 11:97379 104. Garinis GA, Uittenboogaard LM, Stachelscheid H, Fousteri M, van Ijcken W, et al. 2009. Persistent",
+    "persistent DNA damage response (DDR) at telomeres and that even long telomeres may be a target for the accu-mulation of irreparable DNA damage. Therefore, DDR activation either at critically short telomeres or caused by persistent telomeric DNA damage represents the trigger of replicative cellular senescence or apoptosis 48, 50. The  analysis of apoptosis by TUNEL assay showed that leukocytes from untrained T2D subjects were more sensitive to H",
+    "E) (2931) and have alleviated the dependency on invitro  and  invivo models by using direct human samples. AGe-ReLATeD DNA DAMAGe AND DNA  DAMAGe ReSPONSe (DDR) ACTiviTY Age-related accumulation of DNA damage has been studied  thoroughly, showing correlation between age and damage levels  or mutation frequency (32, 33). In the presence of DNA lesions  or abnormalities, the DDR, a complex multigenic pathway, is",
+    "Spontaneous damage is stochastic. But the response to DNA damage is highly conserved, geneti-cally controlled, and with evolution exceedingly more complex. DNA damage triggers activation of signaling pathways termed the DDR, which facilitates repair and arrests cell cycle progression until repair is complete. If DNA damage is extensive or irreparable, DDR effectors trigger celldeath (apoptosis) or cell senescence. These are potent tumor suppressor mechanisms. However,",
+    "to senescence. Genetic attenuation of the DDR enables reversal of cellular senescence (81). Incontrast, introduction of DSBs in mouse liver, using a tetracycline-inducible SacI restriction endonuclease system, increases the burden of senescent cells in vivo and triggers hallmarks of liver aging (82), illustrating a clear path for how DNA damage can play a causal role in aging. Markers of senescence are detected at higher levels in tissues of older mice, humans, and other",
+    "mechanisms. In general, it appears that DDR signaling enhances DNA repair and autophagy tocontrol the level of damage in the cell. Interestingly, evidence, albeit early evidence, has been found that DNA damage is linked to proteostasis. Expression of proteins containing polyglutamine tracts that drive protein aggrega- tion linked to neurodegeneration activates the DDR and H2AX foci (148). Interestingly, DNA breaks in cells and H2AX foci in brain of a murine model of Huntington disease are detected",
+    "its relevance to age -related functional decline at the molecular  and cellular level.   The importance of oxidative stress and key DNA damage response (DDR) pathways  in cellular aging is discussed, with a special focus on poly (ADP -ribose) polymerase  1, whose persistent activation depletes cellular energy reserves, leading to   mitochondrial dysfunction, loss of energy homeostasis , and altered cellular  metabolism. Elucidation  of the relationship between genomic instability ,"
+  ],
+  "answer": "The DNA damage response (DDR) plays a crucial role in both replicative and chronological aging by maintaining genomic stability and influencing cell fate in response to DNA damage. Here are the key points regarding its significance:  1. **Premature Aging and DDR Impairment**: Impaired DDR is directly correlated with premature aging phenotypes, as evidenced by studies on certain genetic models like Ercc1 [1]. This suggests that a functional DDR is essential for normal aging processes.  2. **Cellular Senescence and DDR**: Persistent DDR signaling is a shared mechanism that triggers cellular senescence, which is a hallmark of aging [4]. This indicates that DDR not only repairs damage but also influences aging by promoting senescence when damage is irreparable.  3. **Replicative Senescence**: DDR activation at telomeres, especially when they are critically short or damaged, triggers replicative cellular senescence or apoptosis [5]. This highlights the role of DDR in controlling the replicative lifespan of cells.  4. **Age-related DNA Damage Accumulation**: As organisms age, DNA damage accumulates, and the DDR pathway becomes increasingly important in managing this damage to prevent mutations and maintain cellular function [6].  5. **Tumor Suppression and Aging**: While DDR mechanisms like apoptosis and senescence are potent tumor suppressors, they also contribute to aging by removing or halting the proliferation of damaged cells [7].  Overall, the DDR is significant in aging as it balances repair and cell fate decisions, influencing both the replicative capacity of cells and the overall aging process by managing DNA damage and maintaining genomic integrity.",
+  "question": "What is the significance of the DNA damage response (DDR) in the context of both replicative and chronological aging?"
+}

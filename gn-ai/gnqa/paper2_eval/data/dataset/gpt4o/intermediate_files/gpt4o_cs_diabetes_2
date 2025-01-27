@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Genome-wide meta-analysis of genetic susceptible genes for Type 2 Diabetes.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf",
+    "2010 - A Genome-Wide Association Study Identifies.pdf",
+    "2012 - Association between type 2 diabetes genetic susceptibility loci and visceral and subcutaneous fat area as determined by computed tomography.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2010 - Genomics, Type 2 Diabetes, and Obesity.pdf",
+    "2008 - SNPs in KCNQ1 are associated with susceptibility to type 2 diabetes.pdf",
+    "2010 - Diabetes in Asia.pdf",
+    "2003 - Genome-wide screen in obese pedigrees with type 2 diabetes.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf"
+  ],
+  "extraction_id": [
+    "e61efd89-f844-5c3a-98b9-1a827b58b507",
+    "2643b341-8c50-5cea-af36-86a8b070a80e",
+    "f5b0ecdc-fdf2-5ac3-bebb-9c9ff5863935",
+    "e0bbfc0e-ae79-568c-b704-96febad87d6f",
+    "aba850e8-8c0d-5256-b2ba-fa1dfc221114",
+    "8a28c11f-e0d2-526b-ac85-2f2fbf054fc5",
+    "706cb4a1-57c4-5b63-9d4e-4a7ea027a8f1",
+    "11faf4fe-7b71-562e-9901-c428ab20b285",
+    "1110f7b4-ab5a-5b41-b37d-a992b29cb20c",
+    "0aae948a-50f9-568a-b0dc-5960a2d2ceaa"
+  ],
+  "document_id": [
+    "f5096148-3f85-57c1-8414-2f240ea42068",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d",
+    "0301881d-40dd-5343-b22e-927d58c2cb2a",
+    "b86d3101-f383-520b-8360-7d80bc7ec6fa",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "3d629777-f1b6-5450-94ef-56736e5a4e10",
+    "78702b1e-0f14-5757-b967-9bcb7852f6ac",
+    "0be842b8-7f69-503b-baed-c336e5c834d6",
+    "335a3c08-14d3-5511-ab84-340e64c6f993",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d"
+  ],
+  "id": [
+    "chatcmpl-AIFpDYOJMy59ARMmvejZqYaNW81X4",
+    "47558743-2803-51a7-856b-8f6606712d08",
+    "aa72551a-ac0c-5d7d-8057-34f229f68eb1",
+    "225792f4-c56b-5139-8bec-d5d1d393a6b2",
+    "8b718138-167a-50b0-afb7-4b507abc05ff",
+    "e3cbe02b-9a3c-5b66-a5fb-d9d75b5db3f9",
+    "f3ce8455-f123-5840-8a50-da7885c7e18d",
+    "dfba6b2e-1531-5ac4-a41d-aa4a6d76d7e0",
+    "78d81651-7215-596a-b128-37e429dc7edb",
+    "b0d3a09d-36a3-5c6e-a110-3fccddaa74b7",
+    "8469faae-c6c9-5fd4-8437-870eef394dd1"
+  ],
+  "contexts": [
+    "novel risk loci for type 2 diabetes. Nature 2007, 445(7130) :881-885.5. Gaulton KJ, Willer CJ, Li Y, Scott LJ, Conneely KN, Jackson AU, Duren WL, Chines PS, Narisu N, Bonnycastle LL, et al:Comprehensive association study of type 2 diabetes and related quantitative traits with 222 candidate genes. Diabetes 2008, 57(11) :3136-3144. 6. Hu C, Zhang R, Wang C, Wang J, Ma X, Lu J, Qin W, Hou X, Bao Y, Xiang K, et al:PPARG, KCNJ11, CDKAL1, CDKN2A-CDKN2B, IDE-KIF11-HHEX,",
+    "ly associated with type 2 diabetes: TCF7L2, KCNJ11,   and PPARG . 5-7 However, in 2007, a number of novel  genetic variants ( CDKAL1, IGF2BP2,  the locus on  chromosome 9 close to CDKN2A/CDKN2B, FTO,  HHEX, SLC30A8,  and WFS1)8-14 were shown to in - crease susceptibility to type 2 diabetes in repro - ducible studies. Furthermore, a recent meta-analy - sis identified six novel variants ( JAZF1, CDC123/ CAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, and NOTCH2 ) that are associated with type 2 dia - betes. 15",
+    "2009. There are now at least 19 loci containing genes that increase risk of T2D, including PPARG [27], KCNJ11 [27], KCNQ1 [28,29], PLoS Genetics | www.plosgenetics.org 1 February 2010 | Volume 6 | Issue 2 | e1000847",
+    "et al. Association between type 2 diabetes loci and measures of fatness. PLoS One 5, e8541 (2010). 22 Ng, M. C., Park, K. S., Oh, B., Tam, C. H., Cho, Y. M., Shin, H. D. et al. Implication of genetic variants near TCF7L2, SLC30A8, HHEX, CDKAL1, CDKN2A/B, IGF2BP2, and FTO in type 2 diabetes and obesity in 6,719 Asians. Diabetes 57,22262233 (2008). 23 Thorsby, P. M., Midthjell, K., Gjerlaugsen, N., Holmen, J., Hanssen, K. F., Birkeland, K. I.",
+    "Genome-wide association studies validated these old culprits of T2D and expanded them to include hundreds of single-nucleotide variants (SNVs) that represent more than 150 genomic loci that are associated with T2D, insulin secretion, and insulin resistance [ 11]. Besides TCF7L2 ,PP ARG , and KCNJ11 loci, the most replicated T2D susceptibility variants identied in GWASs were found in and around CDKN2A/2B ,IGF2BP2 ,SLC30A8 ,CDKAL1 and FTO genes [ 1215]. The variants that are most",
+    "Meta-analysis of genome-wide association data and large-scale replication identifies additional susceptibility loci for type 2 diabetes. Nat Genet 2008;40:638-45. 20. Dupuis J, Langenberg C, Prokopenko  I, et al. New genetic loci implicated in fasting glucose homeostasis and their im - pact on type 2 diabetes risk. Nat Genet 2010;42:105-16. 21. Qi L, Cornelis MC, Kraft P, et al. Ge - netic variants at 2q24 are associated with susceptibility to type 2 diabetes. Hum Mol Genet 2010;19:2706-15.",
+    "multiple loci associated with susceptibility to type 2 diabetes, includ- ingTCF7L2 (transcription factor 7-like 2), which had been originally identied by a large-scale association mapping prompted by prior evidence of linkage in that area2,SLC30A8 (solute carrier family 30 member 8), HHEX (haematopoietically expressed homeobox), CDKAL1 (CDK5 regulatory subunit associated protein 1-like 1), CDKN2A/B (cyclin-dependent kinase inhibitor 2A/B) and IGF2BP2 (insulin-like growth factor 2 mRNA-binding protein 2)37.",
+    "associated with susceptibility to type 2 diabetes mellitus. Nat Genet 2008; 40: 109297 . 74 Unoki H, Takahashi A, Kawaguchi T, et al. SNPs in KCNQ1 are  associated with susceptibility to type 2 diabetes in East Asian and European populations. Nat Genet 2008; 40: 1098102. 75 Lyssenko V, Lupi R, Marchetti P, et al. Mechanisms by which  common variants in the TCF7L2 gene increase risk of type 2 diabetes. J Clin Invest 2007; 117: 215563.  76 Lyssenko V, Jonsson A, Almgren P, et al. Clinical risk factors, DNA",
+    "type 2 diabetes or the inability to replicate linkage withdened loci. However, at least one susceptibility gene, namelyCAPN10, was found using a genome-wide scan approach [3]. Obesity is the greatest risk factor for type 2 diabetes mellitus, as it is known to induce insulin resistance via variousmechanisms ( TNF     release, free fatty acids, etc.). Both",
+    "Clinical Risk Factors, DNA Variants, and the Development of Type 2 Diabetes n engl j med 359;21 www.nejm.org november 20, 2008 2231MPP subjects (P = 0.001) and from 0.79 to 0.83 in  the Botnia subjects (P = 0.006). Of the 16 loci that have been associated with  type 2 diabetes previously,8-15 we showed that 11   TCF7L2, PPARG, FTO, KCNJ11, NOTCH2, WFS1,  CDKAL1, IGF2BP2, SLC30A8, JAZF1, and HHEX    were associated with an enhanced risk of future"
+  ],
+  "answer": "The most common genetic loci associated with an increased risk of Type 2 diabetes include:  1. **TCF7L2** [2], [5], [7] 2. **KCNJ11** [2], [5] 3. **PPARG** [2], [5] 4. **CDKAL1** [2], [5], [7] 5. **CDKN2A/CDKN2B** [2], [5], [7] 6. **IGF2BP2** [2], [5], [7] 7. **SLC30A8** [2], [5], [7] 8. **FTO** [2], [5] 9. **HHEX** [2], [5], [7]  These loci have been identified and replicated in multiple studies as being associated with an increased susceptibility to Type 2 diabetes.",
+  "question": "What are the most common genetic loci associated with an increased risk of Type 2 diabetes?"
+}

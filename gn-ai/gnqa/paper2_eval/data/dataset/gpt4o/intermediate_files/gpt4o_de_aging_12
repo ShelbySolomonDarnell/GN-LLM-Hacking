@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2023 - A transcriptome-based single-cell biological age model.pdf",
+    "2023 - A transcriptome-based single-cell biological age model.pdf",
+    "2007 - Biological Aging Is No Longer.pdf",
+    "2018 - Human Ageing Genomic Resources new and updated.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2018 - Predicting age from the transcriptome.pdf",
+    "2019 - Improved precision of epigenetic clock.pdf",
+    "2011 - How pleiotropic genetics of the musculoskeletal system.pdf"
+  ],
+  "extraction_id": [
+    "660d608e-8333-590f-8183-31b51779cec3",
+    "1af20df8-561f-59cb-9996-106a3be3f82f",
+    "f9312bd9-9f67-5e36-9986-f01d66d4b7ac",
+    "f9312bd9-9f67-5e36-9986-f01d66d4b7ac",
+    "5362f054-bb14-53fd-8d6d-9fb7aa41b3f3",
+    "62ff5c38-25a5-5729-a160-ce89e2ceb1c8",
+    "5a07784a-755c-598d-9d2d-3eb2ab8285cc",
+    "be79444e-743f-5289-9607-db6bc3b35493",
+    "6e048749-b423-54c0-9505-439db5595254",
+    "1b0806b9-729c-581f-9e3f-a98a5e0ce7eb"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+    "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+    "efef1c11-52f9-5b95-878a-07980080f0f8",
+    "82726cea-f77c-5a92-9f2e-ecccc369953a",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "73128c69-30e0-5b7a-9504-1502e3f062c7",
+    "556d0179-023f-581f-9c2d-febe4e75722f",
+    "ed31486c-a651-5894-bd96-21fbd78f2646"
+  ],
+  "id": [
+    "chatcmpl-AIHXkz3iFRslvxy1Jaw30l5EF9v8O",
+    "8139ed83-471f-5aa8-a6e1-2294b106ffd7",
+    "eeed3c27-9717-5592-8d69-937eca35bfff",
+    "b545cd47-00c7-5bd8-bd25-8d2bf59be62e",
+    "4b418218-07f6-5103-a9f4-4a28be7247c8",
+    "11d9e838-e4a1-50d4-92e8-658d4ff57b68",
+    "71a04373-81b9-5219-bbde-6f9cd1935491",
+    "ed814cb1-4fd3-5586-bd75-131d2a3ae96b",
+    "bb3a61fd-7137-5735-b65c-8aabab7eb971",
+    "c2ea0dae-b466-5c5b-babb-bfa74243bd34",
+    "96135704-e84c-53fc-9b57-b1e7b8dcd81f"
+  ],
+  "contexts": [
+    "tifications of biological aging: do they measure the same thing? Am J Epidemiol.  2018;187(6):122030.  74. Putin E, etal. Deep biomarkers of human aging: application of deep neural networks to bio- marker development. Aging (Albany NY). 2016;8(5):102133.  75. Rehkopf DH, etal. Leukocyte telomere length in relation to 17 biomarkers of cardiovascular  disease risk: a cross-sectional study of US adults. PLoS Med. 2016;13(11):e1002188.",
+    "studied (Table 13.1). Thus, due to the generation of these data and technological  advances, possibly in the future, artificial intelligence programs will be able to  reliably forecast the life of an individual, as well as the possible diseases that he  may suffer in ageing; so these advances and discoveries will allow us to achieve  a personalized medical treatment as a result of to the integration of biomarkers  of ageing.  Ageing Is aTreatable Condition",
+    "the data. However, construction of such models is often highlydegenerate, yielding little overlap of identified biomarkers be-tween studies and thus making results difficult to interpret(Thompson et al. 2018; Galkin et al. 2020). Among the many computational algorithms, linear regres- sion and its variants have been widely used to select aging-relatedbiomarkers and build aging clocks, namely, predictors of chro- nological age and biological age, in various omics data sets and ag-",
+    "states, which can be monitored using various biomarkers (Belskyet al. 2015). These markers are usually measurable indicators of aparticular outcome or source of aging, such as phenotypical mea-sures like frailty and molecular measures like DNA methylation dy- namics (Schumacher et al. 2021; Lpez-Otn et al. 2023). Although informative, they are not always quantitatively predictive of anindividual s true biological age, nor are they easy to obtain. The ad-",
+    "biomarkers of the aging process.",
+    "supervisedmachinelearningappliedtoageingresearch. Biogerontology ,18,171188. 47. Kriete,A.,Lechner,M.,Clearfield,D.andBohmann,D.(2011) Computationalsystemsbiologyofaging. WileyInterdiscip.Rev.Syst. Biol.Med. ,3,414428.Downloaded from https://academic.oup.com/nar/article/46/D1/D1083/4599180 by guest on 14 October 2023",
+    "associated with age, such as mouth width, nose width, and eye corner droop. This  type of bioimage analysis has rendered relatively accurate calculations of the actual  age, although this accuracy tended to fall with increasing age after 40years [71].  Integration ofBiomarkers ofAgeing Biomarkers of ageing allow estimating the biological age of an organism (Table 13.1)  while providing information on their health status. Different studies are looking for",
+    "Background There is a marked heterogeneity in human lifespan and health outcomes for people of the same chronological age. Thus, one fundamental challenge is to identify mo- lecular and cellular biomarkers of aging that could pre- dict lifespan and be useful in evaluating lifestyle changes and therapeutic strategies in the pursuit of healthy aging. Here, we developed a computational method to predict biological age from gene expression data in skin fibro-",
+    "Background Ageing is a major risk for diseases and mortality [ 1,2]. Chronological age has been widely used as a marker of ageing due to ease and accuracy of measurement [ 1]. However, it is not necessarily a good predictor of biological ageing since individuals with the same chronological age can vary in health, especially in later life [ 3]. Therefore, researchers have attempted to search for biomarkers of ageing that can predict functional cap- ability at a later age [ 4,5]. In 2013, Hannum et al. and",
+    "discriminate between adverse aging-related events, such as frailty (Mitnitski et al. 2002 ), immobility (Simonsick et al. 2001 ), and propensity to fall (Lord et al.1994 ). There are additional considerations when choosing biomarkers to characterize aging. First, biomarkers measured at a given age are merely snapshots of important regulatory systems (Seeman et al. 2004 ); there is no information on system dynamics if each biomarker is measured only once. Having longitudinal"
+  ],
+  "answer": "Advancements in machine learning and artificial intelligence significantly aid in the identification of biomarkers for biological aging by enabling the development of predictive models and personalized medical treatments. These technologies allow for the integration and analysis of complex biological data, which can be used to forecast an individual's lifespan and potential age-related diseases, thereby facilitating personalized medical interventions [2]. Machine learning algorithms, such as linear regression and its variants, are employed to select aging-related biomarkers and construct aging clocks, which are predictors of chronological and biological age based on various omics datasets [3]. Additionally, computational methods have been developed to predict biological age from gene expression data, which can help in evaluating lifestyle changes and therapeutic strategies aimed at promoting healthy aging [8].",
+  "question": "How do advancements in machine learning and artificial intelligence aid in the identification of biomarkers for biological aging?"
+}

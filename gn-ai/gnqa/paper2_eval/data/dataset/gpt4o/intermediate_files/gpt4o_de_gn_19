@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2012 - Genome-Scale Studies of Aging Challenges and Opportunities.pdf",
+    "2012 - Systems Biology in Aging Linking the Old and the Young.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2020 - Multivariate genomic scan implicates novel loci.pdf",
+    "2019 - Bioinformatic prediction of critical genes and pathways.pdf",
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2012 - Systems Biology in Aging Linking the Old and the Young.pdf"
+  ],
+  "extraction_id": [
+    "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d",
+    "53c57cc4-4d43-505a-974c-442d06e144df",
+    "e26cef53-9a67-508e-8a29-2f40a6aa45b0",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+    "a053b8da-7ec4-5c4f-b4cc-4005e7792d1a",
+    "4109e561-4721-5f4e-b4d5-4353f8d1741d",
+    "e6fb876b-e91c-505a-aa16-7b428ec61f10",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "df213743-7428-59be-ba19-2563f8ce5c70",
+    "a74345ec-ceee-5290-990b-ea338e735937"
+  ],
+  "document_id": [
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "b77aace0-fa36-5fd4-8e2a-c8932198acd1",
+    "cf7a8c59-4b4d-5e04-94b6-dd97edcb47a8",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "8529f0c6-a65b-53ed-9663-02d52dd82631",
+    "01201944-11f2-52d9-ac3e-7af685d4a4c4",
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "cf7a8c59-4b4d-5e04-94b6-dd97edcb47a8"
+  ],
+  "id": [
+    "chatcmpl-AIGtEMdN8awavmFIcxxBrdyWkpsf8",
+    "496d27de-6dd0-5f6a-bedb-64d4c252981d",
+    "df726361-271a-5dbb-b6d1-03dab5a63006",
+    "300065ff-2ddb-532e-ab5d-a9b0903c8d21",
+    "4d6876c5-9226-587c-8d3e-d4957ee42dba",
+    "15f6d690-61b1-5de3-ac40-10e46777afa8",
+    "9f662099-6f46-5af7-a6c1-4d0945b9a931",
+    "c96b67f8-ad31-50fd-b053-07b127938ef2",
+    "786d2756-4c4d-5ac0-8d3d-63f914d51664",
+    "a05a46db-5443-566c-9494-212f86ee2eb3",
+    "016ee489-a313-5648-803d-db50217ae084"
+  ],
+  "contexts": [
+    "the different pathways linked with aging and even study genenetworks. In such works, GenAge is an adequate resource asit provides a framework for the functional genomics of aging.For example, Xue   et     al  . (2007) used GenAge to construct a modular network of aging and obtain insights into aging, including thefact that genes connecting different modules are more likely toaffect longevity and/or aging, an hypothesis the authors validatedexperimentally in worms (Xue   et     al",
+    "[111], and for generation of networks based on known gene  interactions such as GeneMania [112] and Cytoscape [113], as well as for identifying cross-species orthology relation-ships [114], network-based thinking has been increasingly applied to the study of aging and lifespan [115-118]. Re-cently, the novel computational method of network identifi- cation by regression (NIR) [119] has been used to identify",
+    "network analysis is a useful approach toward identifying genetic  determinants of longevity . PLoS One , 2008 , 3(11), e3802.  [38] Bell, R.; Hubbard, A.; Che ttier, R.; Chen, D.; Miller, J.P.; Kapahi,  P.; Tarnopolsky, M.; Sahasrabuhde, S.; Melov, S.; Hughes, R.E. A  human protein interaction network shows conservation of aging  processes between human and invertebrate species . PLoS Genet ,  2009 , 5(3), e1000414.  [39] Budovsky, A.; Abramovich, A.; Cohen, R.; Chalifa-Caspi, V.;",
+    "genes (http://genomics.senescence.info/genes/), more than700 genes have been identified that regulate lifespan inmodel organisms (de Magalha es et al., 2009a). Many ofthese genes and their associated pathwayssuch as theinsulin/IGF1/GH pathwayhave been shown to affect lon-gevity across different model organisms (Kenyon, 2010).Therefore, at least some mechanisms of aging are evolu-tionarily conserved and may have potential therapeuticapplications (Baur et al., 2006). For example, evidencesuggests the use of",
+    "30. Vartiainen, S., Aarnio, V., Lakso, M. & Wong, G. Increased lifespan in transgenic Caenorhabditis elegans overexpressing human -synuclein. Exp. Gerontol. 41, 871 876 (2006). 31. Lpez-Otn, C. et al. The hallmarks of aging. Cell153, 1194 1217 (2013). 32. Kenyon, C. J. The genetics of ageing. Nature 464, 504 512 (2010). 33. Liberzon, A. et al. The molecular signatures database hallmark gene set collection. Cell Syst. 1, 417 425 (2015).",
+    "1118 compared to young ones. Overall, our results revealed that six pathways and six key genes might play pivotal roles  in regulating longevity, and three interacting genes might be implicated in longevity. The results will not only provide new insight into the mechanisms of longevity, but also provide novel ideas for network-based approaches for longevity-related research. Keywords Drosophila melanogaster Longevity Gene Pathway Network Introduction",
+    "During the past century, remarkable progress has been  made in unveiling the mechanisms of aging. Genetic and molecular pathways that regulate healthspan and lifespan have been identified in various model organisms, provid-ing a rich knowledge base (Longo etal. 2015; Lopez-Otin etal. 2013, 2016; Singh etal. 2019). However, the focus on",
+    "In addition to aging- and CR-related genes, another source of candidate genes and pathways for drug designare human longevity-associated genes (Barzilai andShuldiner, 2001; Browner et al., 2004; Kenyon, 2010).Dozens of genes have now been associated with humanlongevity (de Magalha es et al., 2009a), although only ahandful of genes have been shown to have consistenteffects across populations. Many longevity-associated genes are related to spe-",
+    "been associated with human longevity in genetic asso-ciation studies. The parallel emergence of networkapproaches offers prospects to develop multitargetdrugs and combinatorial therapies. Understandinghow the environment modulates aging-related genesmay lead to human applications and disease therapiesthrough diet, lifestyle, or pharmacological interven-tions. Unlocking the capacity to manipulate humanaging would result in unprecedented health benefits. I. Introduction",
+    "Network approaches are instrumental in discerning  global properties of aging/lifespan regulators, making com- putational predictions and inferring the modularity and rela-tionships of various aging regulators. However, they should be applied with great caution as to avoid bias introduced by  the literature, the lack of spatial and temporal information, or  the limited coverage of the network [44].   4. EPIGENETIC REGULATION OF AGING   In addition to gene expression changes, the states of epi-"
+  ],
+  "answer": "GeneNetwork.org studies have identified novel genetic pathways related to aging and lifespan through various approaches. One notable method is the use of network identification by regression (NIR), which has been applied to identify novel pathways in the context of aging and lifespan [2]. Additionally, network-based approaches have revealed six pathways and six key genes that might play pivotal roles in regulating longevity, providing new insights into the mechanisms of longevity [6]. These findings highlight the potential of network-based methods to uncover novel genetic pathways associated with aging and lifespan.",
+  "question": "What novel genetic pathways have been identified in GeneNetwork.org studies related to aging and lifespan?"
+}

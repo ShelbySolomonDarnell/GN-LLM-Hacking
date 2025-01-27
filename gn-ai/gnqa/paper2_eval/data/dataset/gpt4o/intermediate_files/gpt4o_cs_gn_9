@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2012 - Genetic and Genomic Web Resources for Research on Alcohol Use and Abuse.pdf",
+    "2012 - Systems genetic analysis of the effects of iron deficiency in mouse brain.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2012 - Genetic and Molecular Network Analysis of Behavior.pdf",
+    "2009 - High\u2010throughput behavioral phenotyping in the expanded panel of BXD recombinant inbred strains.pdf",
+    "2009 - Genetical Toxicogenomics in Drosophila Identifies Master Modulatory Loci that are Regulated by Developmental Exposure to Lead.pdf"
+  ],
+  "extraction_id": [
+    "14530ed7-e49e-5a1a-9df6-820c7495a8ce",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a",
+    "83ae495f-31a2-5977-a63a-57e704c394e2",
+    "22ed818f-78a7-5409-9f6a-1b83284db25d",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c",
+    "308bef07-d720-5686-990d-d1e26a48e8a1",
+    "be1e859f-c4c7-576d-8a52-9588e15fab44",
+    "21f8c6e4-ef9b-582b-ac32-2679933c3b59",
+    "7a89fb44-80f8-5890-b2ae-a4643b587737",
+    "3ca48658-ca83-5952-8f8d-eb7ae491e6b6"
+  ],
+  "document_id": [
+    "f2f0dc2f-eaf5-57f6-9ffa-816d3fab6640",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104",
+    "08b12d72-9776-5acb-b1ef-7ee402781897",
+    "99fc80f0-f3c3-5766-a604-921552bb3298",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "4b6759f8-fdaf-59a1-94bd-5a7cf184e1f9",
+    "423c6929-9d69-5c95-b510-bff6757fed7d",
+    "301d6469-2a9c-5960-88ac-8437212d78ab"
+  ],
+  "id": [
+    "chatcmpl-AIGlpL9doFmtJJWVoX5DvTMPsImCv",
+    "7beda13b-1ea5-53c0-9380-72eee2df79fe",
+    "a1124460-ae34-57fb-846b-e033f4bbf49c",
+    "d45f4d61-dfd4-57ef-9b52-ae6cbff0e6f4",
+    "2b47c0db-8e09-51a2-8689-defa87ee8ac1",
+    "067136a5-b89e-5108-85b0-f638c041e68c",
+    "94f60899-c281-586e-8741-135a4fef2663",
+    "4b91e1d0-f7ce-577c-bad2-b59bd75173b0",
+    "2f453c67-3f97-5d7b-b92d-0530f86e26ee",
+    "c61e7911-9138-5a2e-8b2f-e035f374e9e3",
+    "40ecbff2-5039-57f0-a01e-9d412d559dbe"
+  ],
+  "contexts": [
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "Category 1: Web Resources for Online Analysis of the Genetics of Alcoholism and More GeneNetwork  (www.genenetwork.org): This is a comprehensive resource for learning about genetics, but users may",
+    "GeneNetwork also features a phenotype database, a public repository of data from over 700 traits previously measured across several laboratories in BXD RI (and other) strains. These include behavioral, biochemical, and anatomical traits. The data consist of strain means, not raw data from individual mice, and so we use the term genetic correlation. Using this database, we performed correlation and network analyses to identify relationships with",
+    "biological function of the new gene list. As mentioned previously, GeneNetwork (www.genenetwork.org) is a collaborative Web-based resource equipped with tools and features for studying gene/gene and exploring genetic correlates to neurobehavioral phenotypes (Chesler et al., 2003, 2004). The Web site is home to a growing collection of gene expression and phenotypic data from a variety of species and brain regions, with a host",
+    "(description of GeneNetwork provided by Dr. Robert W. Williams). Both of these websites focus to a large extent on correlations of behavioral phenotype with gene expression levels in recombinant inbred and inbred panels of mice and rats, and on QTL analyses, as a means to identify candidate genes for complex traits. What distinguishes PhenoGen, in addition to the tools for raw expression data analysis described above, is that the user can not only",
+    "with another database, GeneNetwork, correlating behavioral phenotypes with geneO'Brien et al. Page 11 Int Rev Neurobiol . Author manuscript; available in PMC 2014 July 21. NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript",
+    "interested in behavioral variation and in ways to exploit bioinformatic resources and  methods to dissect and (we hope) reassemble and model behavior. You do not need to be a  statistician or geneticist to use these tools. In order to use GeneNetwork, we have to start with some ground rules and assumptions. The  first is that behavioral traits must vary significantly. This is a chapter about behavioral  variation  with an equal emphasis on both words. If a behavior is a \"fixed action pattern\" that",
+    "facilitated through the development of GeneNetwork(www.genenetwork.org), an Inte rnet resource for the multi- variate genetic analysis of complex traits in genetic reference populations (Chesler et al. 2003, 2004; Wang et al. 2003). GeneNetwork aids in identication of candidate genesand bio-molecular mechanisms underlying addiction-relatedphenotypes and includes a wealth of data on mRNAexpression proles from various tissues of the centralnervous system (Chesler et al. 2005; Peirce et al. 2006;",
+    "deposited in the GeneNetwork website (http://www.genenetwork.org) so that other investigators can look for correlations between gene expression patterns and phenotypic traits. The GeneNetwork is an open resource and consists of a set of linked resources for systems genetics. It has been designed for integration of networks of genes, transcripts, and traits such as toxicity, cancer susceptibility, and behavior for several species. Phenotypic QTLs using the"
+  ],
+  "answer": "Yes, GeneNetwork.org can be used to learn about genetic influences on behavior. It is a comprehensive resource equipped with tools and features for studying genetic correlates to neurobehavioral phenotypes [5]. The platform includes a phenotype database with data on behavioral traits, among others, which can be used for correlation and network analyses to identify relationships with genetic data [4]. Additionally, GeneNetwork focuses on correlations of behavioral phenotypes with gene expression levels in recombinant inbred and inbred panels of mice and rats, which helps in identifying candidate genes for complex traits [6]. The resource is designed for the multivariate genetic analysis of complex traits, including behavior, in genetic reference populations [9].",
+  "question": "Can GeneNetwork.org be used to learn about genetic influences on behavior?"
+}

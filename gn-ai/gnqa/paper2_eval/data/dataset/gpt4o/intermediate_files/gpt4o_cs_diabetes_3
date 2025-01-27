@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Prioritizing genes for follow-up from genome wide association studies using information on gene expression in tissues relevant for type 2 diabetes mellitus.pdf",
+    "2009 - Cohorts for Heart and Aging Research in Genomic.pdf",
+    "2014 - Identification of novel risk genes associated with type 1 diabetes mellitus.pdf",
+    "2020 - Genome-wide association analysis of type 2 diabetes in the EPIC-InterAct study.pdf",
+    "2007 - Genome\u2013wide association studies provide new insights into type 2 diabetes aetiology..pdf",
+    "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf",
+    "2021 - Genome-wide association studies identify two novel loci.pdf",
+    "2015 - Genome-wide studies to identify risk factors for kidney disease.pdf",
+    "2020 - Identification of novel functional CpG-SNPs associated with type 2 diabetes and coronary artery disease..pdf",
+    "2009 - Gene prioritization based on biological plausibility over genome wide association studies renders new loci associated with type 2 diabetes.pdf"
+  ],
+  "extraction_id": [
+    "e2b46a32-6616-55ad-8511-31ee8f9cce45",
+    "746e7837-d0f3-5a73-bfef-adfd748e35d6",
+    "4b1681f4-4088-5b15-a704-040e35e31080",
+    "2c601441-443d-5c47-95bb-6343378dd5dc",
+    "aa94128a-99f6-59f3-b5fa-33ac97b858d5",
+    "9369222f-e125-58c0-8f2b-cf5daa867f77",
+    "fc9812ae-7b35-5dac-af9b-6d60f4faaa54",
+    "92bd58f8-6770-5c1c-8202-19b08bd57df8",
+    "2341dbc6-8084-5d51-a52e-f8f667b79bbb",
+    "0c5401ea-2a43-5578-af0b-6ad1e818fa42"
+  ],
+  "document_id": [
+    "4b1a56e7-6821-5504-b6da-27dcdf57c6a5",
+    "9534989a-a5a5-52d8-95b8-0ad2926f228c",
+    "97fe33b0-a6c7-59b6-bd34-05528e77293f",
+    "5dd7d700-03db-595d-b1a5-beca77f9579e",
+    "2ad9b6c6-56ed-5ba6-ad88-c1a6777f5196",
+    "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f",
+    "7131256d-7d55-597d-aac5-a62956736923",
+    "3e696b99-6306-5429-bce9-8d04a2471b2d",
+    "f0385a45-ad3e-5813-ab1f-b3e227d5164b",
+    "0fd2b5c8-9bda-5cc8-adb4-231d3842d50f"
+  ],
+  "id": [
+    "chatcmpl-AIFpJNprqmrM6nedwSTz4Aw1PacbM",
+    "b6827ec6-aa43-53e3-8d00-19e802bc3010",
+    "9abaf02e-eee2-504d-be20-d589cb9a3164",
+    "a1e3ca85-6fd1-5364-87c5-442c3f96ba74",
+    "263ea999-9662-5518-a606-939f69d09f90",
+    "53c3668c-95f8-5fb9-b978-e4c03ddfa40f",
+    "7fd80e84-ec0c-564c-8e8b-278b8c622abb",
+    "9afcf9a9-3abf-5441-a711-55e25f1ef9b7",
+    "ad7955f2-824c-59f8-8357-6ee201756ec9",
+    "5488da5b-5efa-55cd-92c3-a0d77e587fce",
+    "7f17fa56-1b7a-5d51-a111-3c74b31a5821"
+  ],
+  "contexts": [
+    "BMC Medical Genomics  2009, 2:72 http://www.biomedcentral.com/1755-8794/2/72 Page 2 of 8 (page number not for citation purposes)Background Genome-wide association study (GWAS) offers unbiased ways to examine association of more than a million singlenucleotide polymorphisms (SNPs) with disease [1]. Sev-eral GWAS have indentified novel genomic regions influ-encing risk for type 2 diabetes mellitus (T2DM) [2-6].However, the challenge remains to prioritize SNPs from",
+    "GWAS have successfully identified genetic loci associ- ated with a variety of conditions such as type 2 diabetes2 and coronary disease.35The large number of statistical tests required in GWAS poses a special challenge because few studies that have DNA and high-quality phenotypedata are sufficiently large to provide adequate statisticalpower for detecting small to modest effect sizes. 6Meta- analyses combining previously published findings have im-proved the ability to detect new loci.",
+    "diabetes mellitus6,7. However, the traditional GWAS ignored a large number of loci with moderate effects, because of the strin-gent signi cance thresholds used. Gene-based analysis takes a gene as a basic unit for association analysis. As this method can combine genetic information given by all the SNPs in a gene to obtain moreinformative results 8, it is being used as a novel method com- plementing SNP-based GWAS to identify disease susceptibilitygenes. Notably, this method can increase our chance of nd-",
+    "1. Genome-wide association studies (GW AS) have made considerable progress in identifying genetic risk  factors and in providing evidence for more in-depth understanding of the biological and pathological pathways underlying T2D. A recent study performed a meta-analysis of T2D across 32 GW AS of European ancestry par - ticipants and identified 243 genome-wide significant loci (403 distinct genetic variants) associated with T2D risk",
+    "that a genome-wide approach could uncover  previously unexpected disease pathways. In early 2007, GW AS provided by far the  biggest increment to date in our knowledge of  the genetics of this common health problem. Six new gene regions identified Together, the six recent GW AS papers  provide convincing evidence for six new  gene regions involved in type   2 diabetes1621;  a seventh publication describes how one  of these variants alters BMI and represents by far the best example of an association",
+    "Abstract Genome-wide association studies (GWASs) have discovered association of several loci with Type 2 diabetes (T2D), a common complex disease characterized by impaired insulin secretion by pancreatic bcells and insulin signaling in target tissues. However, effect of genetic risk variants on continuous glycemic measures in nondiabetic subjects mainly elucidatesperturbation of insulin secretion. Also, the disease associated genes do not clearly converge on functional categories",
+    "mechanisms of DR remain poorly understood. A genome-wide association study (GWAS) is a powerful tool to identify genetic loci for complex diseases, and a large number of genetic loci for the susceptibility to various diseases, such astype 2 diabetes, have been successfully identified through GWAS (69). GWAS for DR have been performed, but most of the studies only reported suggestive signals with no replication ( 5)b e c a u s e of their limited sample sizes. Recently, several loci with genome-",
+    "kidney disease, several loci have been identi ed and validated, but the results were quite heterogenic across different popula- tions and depended on the type of diabetes and stage of disease. The major bene t of GWAS results is to be found in the in- creased understanding of disease mechanism and identi ca- tion of novel pathways and possibly new therapeutic targets.Follow-up studies are important in order to identify variants with speci c biological effect and may provide important",
+    "Abstract Genome-wide association studies (GWASs) have identified hundreds of single nucleotide polymorphisms (SNPs) associated with type 2 diabetes (T2D) and coronary artery disease (CAD), respectively. Nevertheless, these studies were generally per -",
+    "linkage or association data. But, none of these studies include in the analysis existing data from GWAs. Finally, a recent study identied additional susceptibility loci for type 2 diabetes by performing a meta-analysis of three published GWAs.21As acknowledged by the authors, GWAs are limited by the modest effect sizes of individual common variants and the need for stringent statistical thresholds. Thus, by combining data involving 10,128 samples, the authors found"
+  ],
+  "answer": "Genome-wide association studies (GWAS) help in identifying diabetes-related genes by examining associations between a large number of single-nucleotide polymorphisms (SNPs) and the disease, such as type 2 diabetes mellitus (T2DM) [1]. GWAS have successfully identified genetic loci associated with T2DM, providing insights into the genetic risk factors and biological pathways underlying the disease [2], [4]. These studies have identified hundreds of SNPs associated with T2DM, which can uncover previously unexpected disease pathways and contribute significantly to our understanding of the genetics of diabetes [5], [9]. Additionally, meta-analyses of GWAS data have improved the ability to detect new loci by combining findings from multiple studies, thereby increasing statistical power [2], [10]. Despite challenges such as the modest effect sizes of individual variants and stringent significance thresholds, GWAS remain a powerful tool for identifying genetic loci for complex diseases like diabetes [7], [10].",
+  "question": "How does genome-wide association studies (GWAS) help in identifying diabetes-related genes?"
+}

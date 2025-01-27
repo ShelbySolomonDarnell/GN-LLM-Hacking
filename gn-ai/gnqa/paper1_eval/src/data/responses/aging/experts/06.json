@@ -1,0 +1,402 @@
+{
+    "created_at": "2024-05-31T20:53:55.182883Z",
+    "data": {
+        "amplify": false,
+        "answer": "Mapping gene loci that control aging in humans is difficult due to several reasons. Firstly, aging is a complex phenotype influenced by multiple genes and numerous different pathophysiological processes and diseases. Secondly, any common variation in genes associated with aging probably has a small effect, requiring large studies for identification. Thirdly, human studies face issues like environmental heterogeneity, genetic diversity, and lack of birth matched controls. Lastly, the influence of environmental factors and human-specific confounders like psychosocial, economic, and cultural factors can potentially mask purely biological aging mechanisms, making the analysis more difficult.",
+        "context": {
+            "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7": [
+                {
+                    "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                    "text": "\n\nRecent developments on the genetics of aging can be seen as several streams of effort.In general, humans show a relatively modest (<50%) heritability of life spans (results obtained from twin studies discussed below).The apoE polymorphisms are remarkable for their influence on both cardiovascular disease and Alzheimer disease.In contrast, rare mutant genes with high penetrance cause these same diseases but with early onset and a major shortening of the life span.Shortlived laboratory models (fruit flies, nematodes, mice) are yielding rapid advances, with the discovery of mutants that increase life spans in association with altered metabolism, which leads to questions on the physiological organization of aging processes.Although these early findings do not show that a conserved genetic program actually controls aging processes across animal phylogeny, it is striking how frequently findings of metabolic rate, insulin signaling, and free radicals have emerged from very different approaches to aging in nematodes and mammals, for example.These findings hint that the genetic control of life span was already developed in the common ancestor of modern animals so that subsequent evolution of life spans was mediated by quantitative changes in the control of metabolism through insulin and the production of free radicals."
+                }
+            ],
+            "0d6942b4-e75f-4f44-98ac-b8378ef1d3c7": [
+                {
+                    "document_id": "0d6942b4-e75f-4f44-98ac-b8378ef1d3c7",
+                    "text": "FUTURE DIRECTIONS: HIGHER RESOLUTION DATA VIA HIGHER THROUGHPUT ASSAYS\n\nOne inescapable conclusion of the aggregate results of genome-wide studies of aging to date (see summary Table 1) is that we have not come close to saturating the number of potentially lifespan-altering genes in any organism.This is in no small part because directly generating survival curves is a relatively time-consuming process in most model organisms using current methods.There are several possible ways to address this.One way that has been tried is by attempting to find surrogate phenotypes [72,73,126] that can be screened more rapidly, or even scored under selection.Another is mining candidates from the many whole-genome expression profiles.Results to date with these have been very fruitful, but have not suggested that these methods alone will rapidly saturate our search for lifespan-and healthspan-altering genes in tractable model organisms."
+                }
+            ],
+            "113cb521-b79d-4b44-8250-dc1013ea2cb3": [
+                {
+                    "document_id": "113cb521-b79d-4b44-8250-dc1013ea2cb3",
+                    "text": "\n\nChromosome mapping of genes that were differentially expressed in mice of different ages and/or in response to CR revealed a wide distribution of genes with some physical clustering of responsive genes within the genome.The latter findings are consistent with the concept that aging is a complex process and that evolutionary adaptations to aging, if they exist, may or may not involve geographic clustering of functionally related genes."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Genetic\nlinkage studies of long-lived human families identified a\nlongevity locus while candidate gene approaches have been\nused to identify and confirm the association between\nspecific variants in the FOXO3A gene and human\nlongevity [3–7]. Genome-wide association studies have\nalso been used to identify the association of APOE with life\n\n123\nAging Clin Exp Res\n\nspan and have yielded insights into potential biological\npathways and processes related to aging. Despite these\nsuccesses, several problems are inherent in human\nlongevity studies including potentially high degrees of\nenvironmental heterogeneity, genetic diversity, and lack of\nbirth matched controls, among others [8]."
+                }
+            ],
+            "4ca8d070-8b58-4bd5-86be-127089b70324": [
+                {
+                    "document_id": "4ca8d070-8b58-4bd5-86be-127089b70324",
+                    "text": "\n\nThe aging process most certainly is under highly polygenic controls… This should not discourage us from pursuing a search for those loci which may be of profound importance to human aging as it ordinarily occurs in most human beings."
+                }
+            ],
+            "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7": [
+                {
+                    "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                    "text": "\n\nIn most experimentally modified animal model systems, single-gene mutations in many different genes have major life extension effects (Fontana et al., 2010;Kenyon, 2010).However, natural human and animal longevity is presumed to be a complex trait (Finch & Tanzi, 1997).In humans, both candidate gene and genome-wide genetic association approaches have been applied in an attempt to identify longevity loci.The frequency of genetic variants has been typically compared between nonagenarian cases and young controls, revealing loci at which genetic variants may contribute to a higher or lower probability of survival into old age.The initial candidate gene studies aimed at finding human longevity genes were dominated by contradictory results (Christensen et al., 2006).The more consistent evidence obtained by repeated observation in independent cohort studies for association with longevity has so far only been observed for three loci, the apolipoprotein E (APOE) locus (Schachter et al., 1994;Christensen et al., 2006), the FOXO3A locus (Willcox et al., 2008;Flachsbart et al., 2009;Pawlikowska et al., 2009;Soerensen et al., 2010), and the AKT1 locus (Pawlikowska et al., 2009).Thus, despite the expectation that longevity would be influenced by many genetic variants with small effect sizes, the effect of variants has consistently been shown in only three genes."
+                }
+            ],
+            "606c59c5-5ae4-47e9-b3eb-58afa55669d1": [
+                {
+                    "document_id": "606c59c5-5ae4-47e9-b3eb-58afa55669d1",
+                    "text": "1993), and\ngene expression microarrays (Pletcher et al. 2002). Given the ambiguities and limitations of large-effect mutant studies of aging, discussed earlier, those publications do not\nprovide very useful evidence with respect to the question of the number of loci that\naffect aging. At present, the best answer to the question of the number of genes controlling aging is many (Rose and Long 2002), in keeping with the original expectations of\nevolutionary biologists. However, studies of the genetics of the experimental evolution of aging are now\namenable to the application of genomic methods."
+                }
+            ],
+            "690a2ae6-962a-438c-91ca-60425a0c8d02": [
+                {
+                    "document_id": "690a2ae6-962a-438c-91ca-60425a0c8d02",
+                    "text": "Accepted Article\n\n© 2013 The Authors Aging Cell © 2013 Blackwell Publishing Ltd/Anatomical Society of Great Britain and Ireland over 90 years and 1,955 controls between 55 and 80 years did not reveal genome-wide significant loci (Newman et al., 2010) and neither did the analyses of all-cause mortality and survival free of major disease in this cohort (Walter et al., 2011).A smaller Dutch study of 403 nonagenarians and 1,670 controls younger than 65 years identified the APOE gene as a mortality locus (Deelen et al., 2011), which was confirmed in a German study of 763 long-lived individuals and 1,085 younger controls (Nebel et al., 2011) and a longitudinal study of 1,606 Danes showed that the effect size of this association increases at the highest ages (Jacobsen et al., 2010).Apparently, the influence of the common genetic variation on longevity is small which requires large meta-GWA studies for identification.Alternatively, rare genetic variants may play a more important role in longevity.Since the previous linkage studies showed contradictory results potentially due to heterogeneity in the longevity phenotype, it is expected that longevity is influenced by many private rare variants."
+                }
+            ],
+            "78a43a45-84b0-4d73-9396-95b99cfd3983": [
+                {
+                    "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                    "text": "\n\nAgeing is complex and takes a long time to study -a lifetime in fact.This makes it difficult to discern its causes, among the countless possibilities based on an individual's genes, behaviour or environment.While thousands of regions in an individual's genetic makeup are known to influence their risk of different diseases, those that affect how long they will live have proved harder to disentangle.Timmers et al. sought to pinpoint such regions, and then use this information to predict, based on their DNA, whether someone had a better or worse chance of living longer than average."
+                }
+            ],
+            "932ef21b-9235-4210-a99c-6153a901bb89": [
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\n\nSeveral explanations are possible for the lack of genomewide significant findings.First, mortality is arguably 1 of the most complex phenotypes, and several trajectories toward extreme old age have been identified (Evert et al., 2003).Multiple genes could mediate the aging process but would have their effects through numerous different patho-physiological processes and diseases that act as intermediate factors on the pathway to death (de Magalhaes et al., 2010).Therefore, any common variation in genes associated with aging probably has a small effect."
+                },
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\n\nSecond, the largely negative findings of this and other studies contrast with the intriguing animal studies of longevity.Very large effects of single genes on lifespan have indeed been observed in laboratory animals, but humans often have several homologues of these genes which might significantly differ in function or compensate for mutated genes through redundant mechanisms (Kuningas et al., 2008).This could explain why our top findings did not include genes in these pathways found in animal models.Animal models also represent genetically homogenous populations and are exposed to controlled environmental influences.The lack of replication of animal model findings in humans suggests that the use of knockout animals may not provide the optimal approach to understanding the variation in survival in humans as interactions with environmental factors may obscure the associations and prevent the identification of loci in humans."
+                },
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\n\nThe lack of success in the identification of genes related to aging in humans may be due to the complexity of the phenotype.One approach to investigate aging and longevity is to compare frequencies of genetic variants between nonagenarians or centenarians and the general population.This approach led to the discovery of an association between APOE (Deelen et al., 2011;Ewbank, 2007;Gerdes et al., 2000) and more recently FOXO3A (Anselmi et al., 2009;Flachsbart et al., 2009;Li et al., 2009a;Pawlikowska et al., 2009;Willcox et al., 2008) and human aging and longevity.However, a recent genome-wide association study (GWAS) of individuals reaching the age of 90 or older failed to identify genome-wide significant variants (Newman et al., 2010)."
+                }
+            ],
+            "97290894-086d-438a-bbd2-907dd4cea2ab": [
+                {
+                    "document_id": "97290894-086d-438a-bbd2-907dd4cea2ab",
+                    "text": "\n\nIn addition to timing differences, a small proportion of genes (10%-15%) exhibit opposite trends of expression changes with age in humans and macaques (Supplemental Fig. S13).Interestingly, such differences are ;1.5 times more common in aging than in development, an observation consistent with the lower strength of purifying selection on the gene regulation at old age (discussed below).These differences could also reflect extreme shifts in developmental timing between species, as well as technical artifacts.Future studies, using additional species and alternative methodology, are needed to address this issue."
+                }
+            ],
+            "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed": [
+                {
+                    "document_id": "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed",
+                    "text": "1993), and\ngene expression microarrays (Pletcher et al. 2002). Given the ambiguities and limitations of large-effect mutant studies of aging, discussed earlier, those publications do not\nprovide very useful evidence with respect to the question of the number of loci that\naffect aging. At present, the best answer to the question of the number of genes controlling aging is many (Rose and Long 2002), in keeping with the original expectations of\nevolutionary biologists. However, studies of the genetics of the experimental evolution of aging are now\namenable to the application of genomic methods."
+                }
+            ],
+            "a95e6806-06d3-4775-8287-fda4cf6ac42f": [
+                {
+                    "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                    "text": "\n\nThe remarkable discoveries of the past 2 decades showing that single genes can regulate aging in model organisms demonstrate that aging can be genetically manipulated (Finch and Ruvkun, 2001;Kenyon, 2010).Hundreds of genes that modulate longevity have now been identified in model organisms (de Magalha ˜es et al., 2009a).In some cases (e.g., in worms), mutations in single genes can extend lifespan by almost 10-fold (Ayyadevara et al., 2008).Nonetheless, aging is a complex process that derives not from single genes but from the interactions of multiple genes with each other and with the environment.Evidence from animal systems shows a major impact of the environment on aging, yet environmental manipulations of aging act through genes and proteins, usually by triggering signaling pathways and modulating gene expression.In fact, some genes have been shown in model organisms to have varying effects on lifespan depending on diet (Heikkinen et al., 2009).Genes that can regulate aging in model organisms cannot be directly applied to humans through genetic manipulations for numerous legal, ethical, and technical reasons.If we could understand how the environment modulates these aging-related genes, we might be able to create antiaging therapies applicable to humans, potentially through diet, lifestyle, and even pharmacological interventions.Therefore, understanding genome-environment interactions in the context of aging can be a powerful approach to identify attractive targets for drug design."
+                }
+            ],
+            "b0e49b4c-954d-476a-ba3a-0215e63c98b6": [
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "TRANSLATION OF LONGEVITY MODEL ORGANISMS AND CORE AGING PATHWAYS\n\nGenetic studies on lifespan have proven to be challenging.While longevity is a defining trait for a given species, the lifespan of individuals is of limited heritability, making analyses more difficult.Exceptional human life span, although a rare phenotype, is likely multifactorial; refined analyses are required to obtain statistically robust genomic signatures of longevity (Zhang et al., 2020) and these have proven elusive.Unlike laboratory models, the effect of environmental variance cannot be controlled in human studies, potentially masking purely biological aging mechanisms.Even laboratory models cannot replicate the complex \"environment\" of humans; it includes psychosocial, economic, and cultural factors, rather than strictly biological.These human-specific confounders are difficult or impossible to target in traditional model organisms.Despite these limitations, experimentally tractable model organisms have proven invaluable in deciphering the purely genetic contribution to lifespan, including genes and pathways conserved across the tree of life."
+                },
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "ANALYSIS OF HUMAN VARIATION IN THE GENETIC CONTROL OF LONGEVITY\n\nHeritability studies have convincingly demonstrated that at least some fraction of human lifespan is heritable.In tandem, large-scale genome-wide association studies (GWAS) have identified numerous loci associated with age-related traits (Buniello et al., 2019).While genetic studies have functionally shown an inverse effect of multiple age-related, diseaseassociated variants on lifespan regulation, the number of well-replicated longevity-conferring variants remains limited to variants in APOE (ApoE ε2), and more recently, CDKN2A/B and IL6 (see Table 1).To date, studies in humans have been hampered by the specific phenotype definitions used, sample sizes of the extreme phenotypes, and modest heritability of the longevity-related traits (Breitbach et al., 2019).This is due to the complex interplay of biological and social factors involved in human aging, as well as the limited power of GWAS, which require sampling thousands of subjects to achieve statistical significance (Breitbach et al., 2019).Genetic studies of aging have also been hindered by an inconsistent use of definitions of aging (reviewed in Baghdadi et al., 2020).The two main ways of conducting research on the genetics of longevity in human populations are by studying (i) the lifespan (continuous trait, years lived) and (ii) the longevity (dichotomous trait, i.e., being among the longest-lived individuals within a specific population).These complexities have limited the resolution and capability of broad association studies of human longevity.Importantly, these genomic analyses focus on a shift of survival in a population; these variables may be genetically distinct from the mechanisms establishing potential for longevity overall (Figure 1A).We argue that an understanding of this shift in lifespan as well as genetic mechanisms of regulating a species specific 'set points' (Figure 1B) will aid in the conceptual distinction of aging and longevity in humans."
+                }
+            ],
+            "efd5747f-9e8b-45e8-9e04-bb31131d44fa": [
+                {
+                    "document_id": "efd5747f-9e8b-45e8-9e04-bb31131d44fa",
+                    "text": "\n\nWith modern genomic technologies and largescale data analysis methods, it is possible to sift through the genes of populations to find the loci that act to postpone aging. [3]There are uncertainties with the comparison of populations with different rates of aging.However, it is superior to experimental designs that only consider age-dependence or dietary-response, without determining causal mechanisms."
+                }
+            ],
+            "f6bde053-64e5-42d9-966d-9d5d5d82a068": [
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\n\nMost of the human candidate gene studies were performed in cross-sectional designs (Box 1 and Fig. 1), comparing allele frequencies of potential longevity loci between highly aged individuals and young controls.The candidate gene studies based on single genes have pointed a role for genes involved in, e.g., GH/insulin/IGF-1 signaling, immune regulation, and lipoprotein metabolism (Supporting Information Table S1), although most of these results have not (yet) been confirmed in sufficient independent studies.The most convincing human longevity loci today are APOE and FOXO3A which have frequently been associated with longevity in cross-sectional studies (see for a review [26]) and survival in prospective studies [27][28][29] (Fig. 3).APOE encodes the protein apolipoprotein E which seems to play a role in e.g., lipoprotein metabolism, cognitive function, and immune regulation [30].FOXO3A encodes the protein forkhead box O3 which acts as a transcription factor for many different genes involved in processes like apoptosis and oxidative stress [31]."
+                },
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "Conclusions and prospects\n\nOver the past two decades the human aging field has built up the necessary resources to study the biology of aging and longevity by establishing human populations with a diversity of designs.Meta-analyses integrating genetic and phenotypic datasets have successfully identified variants associated with a range of age-related traits and diseases.Despite these accomplishments, the number of novel leads contributing to human lifespan regulation is limited.Although positive regions of linkage and suggestive GWAS hits have been reported, the field has not yet identified the loci that explain the clustering of longevity in families and the variation in biological aging rate in the population.As for animal models, down-signaling of the IIS and mTOR pathway appeared to be relevant in humans.These findings are being followed up by molecular and physiological profiling using skin, fat and muscle tissue of long-lived family members and controls.Human studies now also include the response of nutrient sensing systems to the application of dietary and physical challenges."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                "section_type": "main",
+                "text": "\n\nThe lack of success in the identification of genes related to aging in humans may be due to the complexity of the phenotype.One approach to investigate aging and longevity is to compare frequencies of genetic variants between nonagenarians or centenarians and the general population.This approach led to the discovery of an association between APOE (Deelen et al., 2011;Ewbank, 2007;Gerdes et al., 2000) and more recently FOXO3A (Anselmi et al., 2009;Flachsbart et al., 2009;Li et al., 2009a;Pawlikowska et al., 2009;Willcox et al., 2008) and human aging and longevity.However, a recent genome-wide association study (GWAS) of individuals reaching the age of 90 or older failed to identify genome-wide significant variants (Newman et al., 2010)."
+            },
+            {
+                "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                "section_type": "main",
+                "text": "\n\nSeveral explanations are possible for the lack of genomewide significant findings.First, mortality is arguably 1 of the most complex phenotypes, and several trajectories toward extreme old age have been identified (Evert et al., 2003).Multiple genes could mediate the aging process but would have their effects through numerous different patho-physiological processes and diseases that act as intermediate factors on the pathway to death (de Magalhaes et al., 2010).Therefore, any common variation in genes associated with aging probably has a small effect."
+            },
+            {
+                "document_id": "efd5747f-9e8b-45e8-9e04-bb31131d44fa",
+                "section_type": "main",
+                "text": "\n\nWith modern genomic technologies and largescale data analysis methods, it is possible to sift through the genes of populations to find the loci that act to postpone aging. [3]There are uncertainties with the comparison of populations with different rates of aging.However, it is superior to experimental designs that only consider age-dependence or dietary-response, without determining causal mechanisms."
+            },
+            {
+                "document_id": "606c59c5-5ae4-47e9-b3eb-58afa55669d1",
+                "section_type": "main",
+                "text": "1993), and\ngene expression microarrays (Pletcher et al.  2002).  Given the ambiguities and limitations of large-effect mutant studies of aging, discussed earlier, those publications do not\nprovide very useful evidence with respect to the question of the number of loci that\naffect aging.  At present, the best answer to the question of the number of genes controlling aging is many (Rose and Long 2002), in keeping with the original expectations of\nevolutionary biologists.\n However, studies of the genetics of the experimental evolution of aging are now\namenable to the application of genomic methods."
+            },
+            {
+                "document_id": "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed",
+                "section_type": "main",
+                "text": "1993), and\ngene expression microarrays (Pletcher et al.  2002).  Given the ambiguities and limitations of large-effect mutant studies of aging, discussed earlier, those publications do not\nprovide very useful evidence with respect to the question of the number of loci that\naffect aging.  At present, the best answer to the question of the number of genes controlling aging is many (Rose and Long 2002), in keeping with the original expectations of\nevolutionary biologists.\n However, studies of the genetics of the experimental evolution of aging are now\namenable to the application of genomic methods."
+            },
+            {
+                "document_id": "4ca8d070-8b58-4bd5-86be-127089b70324",
+                "section_type": "main",
+                "text": "\n\nThe aging process most certainly is under highly polygenic controls… This should not discourage us from pursuing a search for those loci which may be of profound importance to human aging as it ordinarily occurs in most human beings."
+            },
+            {
+                "document_id": "113cb521-b79d-4b44-8250-dc1013ea2cb3",
+                "section_type": "main",
+                "text": "\n\nChromosome mapping of genes that were differentially expressed in mice of different ages and/or in response to CR revealed a wide distribution of genes with some physical clustering of responsive genes within the genome.The latter findings are consistent with the concept that aging is a complex process and that evolutionary adaptations to aging, if they exist, may or may not involve geographic clustering of functionally related genes."
+            },
+            {
+                "document_id": "0d6942b4-e75f-4f44-98ac-b8378ef1d3c7",
+                "section_type": "main",
+                "text": "FUTURE DIRECTIONS: HIGHER RESOLUTION DATA VIA HIGHER THROUGHPUT ASSAYS\n\nOne inescapable conclusion of the aggregate results of genome-wide studies of aging to date (see summary Table 1) is that we have not come close to saturating the number of potentially lifespan-altering genes in any organism.This is in no small part because directly generating survival curves is a relatively time-consuming process in most model organisms using current methods.There are several possible ways to address this.One way that has been tried is by attempting to find surrogate phenotypes [72,73,126] that can be screened more rapidly, or even scored under selection.Another is mining candidates from the many whole-genome expression profiles.Results to date with these have been very fruitful, but have not suggested that these methods alone will rapidly saturate our search for lifespan-and healthspan-altering genes in tractable model organisms."
+            },
+            {
+                "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                "section_type": "main",
+                "text": "\n\nRecent developments on the genetics of aging can be seen as several streams of effort.In general, humans show a relatively modest (<50%) heritability of life spans (results obtained from twin studies discussed below).The apoE polymorphisms are remarkable for their influence on both cardiovascular disease and Alzheimer disease.In contrast, rare mutant genes with high penetrance cause these same diseases but with early onset and a major shortening of the life span.Shortlived laboratory models (fruit flies, nematodes, mice) are yielding rapid advances, with the discovery of mutants that increase life spans in association with altered metabolism, which leads to questions on the physiological organization of aging processes.Although these early findings do not show that a conserved genetic program actually controls aging processes across animal phylogeny, it is striking how frequently findings of metabolic rate, insulin signaling, and free radicals have emerged from very different approaches to aging in nematodes and mammals, for example.These findings hint that the genetic control of life span was already developed in the common ancestor of modern animals so that subsequent evolution of life spans was mediated by quantitative changes in the control of metabolism through insulin and the production of free radicals."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "main",
+                "text": "\n\nMost of the human candidate gene studies were performed in cross-sectional designs (Box 1 and Fig. 1), comparing allele frequencies of potential longevity loci between highly aged individuals and young controls.The candidate gene studies based on single genes have pointed a role for genes involved in, e.g., GH/insulin/IGF-1 signaling, immune regulation, and lipoprotein metabolism (Supporting Information Table S1), although most of these results have not (yet) been confirmed in sufficient independent studies.The most convincing human longevity loci today are APOE and FOXO3A which have frequently been associated with longevity in cross-sectional studies (see for a review [26]) and survival in prospective studies [27][28][29] (Fig. 3).APOE encodes the protein apolipoprotein E which seems to play a role in e.g., lipoprotein metabolism, cognitive function, and immune regulation [30].FOXO3A encodes the protein forkhead box O3 which acts as a transcription factor for many different genes involved in processes like apoptosis and oxidative stress [31]."
+            },
+            {
+                "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                "section_type": "main",
+                "text": "\n\nThe remarkable discoveries of the past 2 decades showing that single genes can regulate aging in model organisms demonstrate that aging can be genetically manipulated (Finch and Ruvkun, 2001;Kenyon, 2010).Hundreds of genes that modulate longevity have now been identified in model organisms (de Magalha ˜es et al., 2009a).In some cases (e.g., in worms), mutations in single genes can extend lifespan by almost 10-fold (Ayyadevara et al., 2008).Nonetheless, aging is a complex process that derives not from single genes but from the interactions of multiple genes with each other and with the environment.Evidence from animal systems shows a major impact of the environment on aging, yet environmental manipulations of aging act through genes and proteins, usually by triggering signaling pathways and modulating gene expression.In fact, some genes have been shown in model organisms to have varying effects on lifespan depending on diet (Heikkinen et al., 2009).Genes that can regulate aging in model organisms cannot be directly applied to humans through genetic manipulations for numerous legal, ethical, and technical reasons.If we could understand how the environment modulates these aging-related genes, we might be able to create antiaging therapies applicable to humans, potentially through diet, lifestyle, and even pharmacological interventions.Therefore, understanding genome-environment interactions in the context of aging can be a powerful approach to identify attractive targets for drug design."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "main",
+                "text": "Conclusions and prospects\n\nOver the past two decades the human aging field has built up the necessary resources to study the biology of aging and longevity by establishing human populations with a diversity of designs.Meta-analyses integrating genetic and phenotypic datasets have successfully identified variants associated with a range of age-related traits and diseases.Despite these accomplishments, the number of novel leads contributing to human lifespan regulation is limited.Although positive regions of linkage and suggestive GWAS hits have been reported, the field has not yet identified the loci that explain the clustering of longevity in families and the variation in biological aging rate in the population.As for animal models, down-signaling of the IIS and mTOR pathway appeared to be relevant in humans.These findings are being followed up by molecular and physiological profiling using skin, fat and muscle tissue of long-lived family members and controls.Human studies now also include the response of nutrient sensing systems to the application of dietary and physical challenges."
+            },
+            {
+                "document_id": "97290894-086d-438a-bbd2-907dd4cea2ab",
+                "section_type": "main",
+                "text": "\n\nIn addition to timing differences, a small proportion of genes (10%-15%) exhibit opposite trends of expression changes with age in humans and macaques (Supplemental Fig. S13).Interestingly, such differences are ;1.5 times more common in aging than in development, an observation consistent with the lower strength of purifying selection on the gene regulation at old age (discussed below).These differences could also reflect extreme shifts in developmental timing between species, as well as technical artifacts.Future studies, using additional species and alternative methodology, are needed to address this issue."
+            },
+            {
+                "document_id": "f2b8524b-501d-4ec7-a3d7-048aab67ce05",
+                "section_type": "main",
+                "text": "\n\nAlthough the models data set comprises all genes (to our knowledge) shown by the time of the latest update to statistically increase longevity or alter the aging process in a noticeable way, in the human data set we try to evaluate whether a given intervention is affecting the aging process itself or not.For example, many mutations may increase longevity by decreasing the incidence of specific diseases, rather than by altering the basic process of aging (de Magalhães et al ., 2005a(de Magalhães et al ., , 2005b)).Therefore, the human data set is not merely an extension of the work conducted in model organisms and of its bibliography, but a manually selected list of the most pertinent human aging candidate genes, each presented with a higher annotation level.We cite studies on whether the functions of aging-associated genes in model organisms are conserved in their human orthologues.Likewise, we cite flaws in previous studies based on new published observations, although we have a neutral stance on conflicting findings from different research groups.Our policy is to cite all conflicting reports and let visitors make their own decisions on how to interpret them.By contrast, each entry in GenAge model organisms has only one reference: the first publication reporting an association of the gene with longevity or aging.Moreover, one of the latest enhancements in the human data set was the inclusion of Gene Ontology annotation.Gene Ontology terms and annotation files were obtained from the Gene Ontology Consortium website (http://www.geneontology.org/ ) and provide an additional layer of description for the gene products in a cellular context (Ashburner et al ., 2000)."
+            },
+            {
+                "document_id": "555a1533-2905-4d91-a3b6-2fca3679ab02",
+                "section_type": "main",
+                "text": "\n\nEven more disappointing result is that some genes predisposing to geriatric diseases discovered by GWAS appear to be not correlated with human longevity (Beekman et al. 2010;Deelen et al. 2011).This result questions whether findings obtained from GWAS may provide insights into the bio-genetic mechanisms underlying a healthy lifespan.In fact, this finding is very surprising because (1) genetic studies of non-human species have discovered numerous genes predisposing to aging-related processes (Cutler and Mattson 2006;Vijg and Suh 2005;Kenyon 2005;Johnson 2006;Greer and Brunet 2008), (2) nongenetic association studies show that the long-living individuals are typically in better health compared to the short-living individuals (Barzilai et al. 2003;Willcox et al. 2008b;Willcox et al. 2008a;Evert et al. 2003), and (3) candidate-gene studies (but not GWAS) document that the same genes can affect diseases and lifespan (Koropatnick et al. 2008;Kulminski et al. 2011).This is an apparent paradox which has to be carefully examined.A prominent geneticist and evolutionary biologist T. G. Dobzhansky asserts that \"nothing in biology makes sense except in the light of evolution. \"Evolution primarily maximizes fitness of individuals of reproductive age.The classical evolutionary biological theory of aging claims that aging occurs because of decline in the force of natural selection with age (Kirkwood and Austad 2000).Then, according to that theory, aging-related (senescent) phenotypes with post-reproductive manifestation are non-adaptive and subject to stochastic variation.Therefore, at a first glance evolution should not be relevant to senescent phenotypes (apart so-called grandmother hypothesis; Hawkes et al. 1998).Such phenotypes, however, can be caused by reproductive-age-related risk factors making, thus, evolution to be relevant to them (Vijg and Suh 2005;Di Rienzo and Hudson 2005;Drenos and Kirkwood 2010)."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "\n\nResults from mutational analysis across eukaryote model organisms have shown unexpected conservation of genes and processes regulating aging.While unique properties exist within particular organisms that modulate these foundational networks, the conservation provides a tool to refine human genetic studies.As noted, GWAS for human longevity metrics suffer from large sample size requirements to obtain statistical resolution due to multiple hypothesis testing across the genome.Assuming that evolutionary genesets for longevity could be generated with confidence, an intersection of them with human variation data would increase the sensitivity of association studies.This would serve as a selective filter to refine the number of loci investigated for association in human populations.Similarly, such evolutionary filters could refine analysis of rare, unique variation within genome sequence data from extremely long-lived cohorts.A similar approach to refine human longevity GWAS used an intersection with age-related disease datasets.This 'disease-informed' GWAS helped refine candidates (iGWAS, Fortney et al., 2015), though, it should be noted that this particular strategy would further blur the distinction between aging and longevity as discussed above.The definition of gene sets from evolutionary experiments in longevity, across clades, would similarly empower detection of networks previously hidden under GWAS in human population analyses (Figure 3)."
+            },
+            {
+                "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                "section_type": "main",
+                "text": "Genetic\nlinkage studies of long-lived human families identified a\nlongevity locus while candidate gene approaches have been\nused to identify and confirm the association between\nspecific variants in the FOXO3A gene and human\nlongevity [3–7].  Genome-wide association studies have\nalso been used to identify the association of APOE with life\n\n123\nAging Clin Exp Res\n\nspan and have yielded insights into potential biological\npathways and processes related to aging.  Despite these\nsuccesses, several problems are inherent in human\nlongevity studies including potentially high degrees of\nenvironmental heterogeneity, genetic diversity, and lack of\nbirth matched controls, among others [8]."
+            },
+            {
+                "document_id": "18e216d9-ea5c-4dfe-a30d-632163fcf39e",
+                "section_type": "main",
+                "text": "Conclusions\n\nIn the absence of a consensus phenotype for aging, genetic research is impeded (Melzer et al. 2007).At present, it is difficult to determine whether preventative and therapeutic strategies (such as calorie restriction) have beneficial effects in humans because there are no validated biomarkers that can serve as surrogate markers of aging (Matkovic et al. 1990).To have the \"phenome of aging\" (Xue et al. 2007) much better defined, we propose using the musculoskeletal aging phenotypes as an example and starting point."
+            },
+            {
+                "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                "section_type": "main",
+                "text": "\n\nBefore the advent of NGS technologies, several scientists were interested in the study of allele variants associated with aging, but they were limited by the lack of aging rate biomarkers.Now with NGS technologies, these biomarkers have been emerged such as the epigenetic clock that is described in the DNA methylation sequencing section of this chapter.In this post-genomic era, different strategies have been developed in order to understand the genetic factors involved in aging [17].One strategy used is the study of aging in extreme longevity groups of people, called centenarians.Centenarians are a group that can reach an age above 100 years and has an incidence of 1 every 10,000 people [18].In a pioneering study using extreme longevity people (308 individuals belonging to 137 sibships showing extreme longevity), genome-wide scan analysis identified a region on chromosome 4 associated with extreme longevity [19] that corresponds to the microsomal transfer protein (MTP) [20], which is associated with abetalipoproteinemia and hypobeta lipoproteinemia in humans [21,22].Another approach to study the genetic factors involved in longevity consists in assessing allele frequencies from people of different ages, looking for those polymorphisms (SNPs) with enhanced allele frequencies in high-longevity individuals.Those alleles with diminished frequencies in aged individuals may be associated with age-related diseases.Using this approximation, an SNP that shifts isoleucine to valine was identified in the PKA-anchoring protein (AKAP2) gene.This polymorphism is associated with reduced longevity and cardiac disease [23].Genome-wide association studies (GWAS) have confirmed only three loci that affect longevity: FOXO3A, APOE, and an intergenic locus on chromosome 5q33.3[24][25][26]."
+            },
+            {
+                "document_id": "04405b2b-901a-423c-9f08-418f5514c535",
+                "section_type": "main",
+                "text": "\n\nThese considerations suggest an intriguing question: why did \"Mother Nature\" conserve a common pathway of regulation between two genes involved in a process that is believed to have come out of natural selection?It has been recently proposed that a programmed and altruistic aging may occur in higher eukaryotes [5].Our findings are in line with this idea, although the deep evolutionary force that has driven such an architecture along evolution needs to be explored.The markers used for haplotype analysis are the following (in order): A21631G for PSMD13, G477T and 1-6 VNTR intron5 for SIRT3.Haplotype relative frequencies (RF) and standard errors (SE) are ×100.The p values refer to the null hypothesis of no difference between the transcription activity of the entire 788-bp promoter and the transcription activity of the deletion construct (ANOVA and LSD post hoc tests)."
+            },
+            {
+                "document_id": "4a27da1c-b184-47e8-bef2-de6435d7c3f5",
+                "section_type": "main",
+                "text": "\n\nAdditional association studies with these families and replication of these results with an independent data set should facilitate the positional cloning of a gene that influences the ability to age well and achieve exceptional longevity.Identification of the genes in humans that allow certain individuals to live to extreme old age should lead to insights on cellular pathways that are important to the aging process."
+            },
+            {
+                "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                "section_type": "main",
+                "text": "\n\nSecond, the largely negative findings of this and other studies contrast with the intriguing animal studies of longevity.Very large effects of single genes on lifespan have indeed been observed in laboratory animals, but humans often have several homologues of these genes which might significantly differ in function or compensate for mutated genes through redundant mechanisms (Kuningas et al., 2008).This could explain why our top findings did not include genes in these pathways found in animal models.Animal models also represent genetically homogenous populations and are exposed to controlled environmental influences.The lack of replication of animal model findings in humans suggests that the use of knockout animals may not provide the optimal approach to understanding the variation in survival in humans as interactions with environmental factors may obscure the associations and prevent the identification of loci in humans."
+            },
+            {
+                "document_id": "690a2ae6-962a-438c-91ca-60425a0c8d02",
+                "section_type": "main",
+                "text": "Accepted Article\n\n© 2013 The Authors Aging Cell © 2013 Blackwell Publishing Ltd/Anatomical Society of Great Britain and Ireland over 90 years and 1,955 controls between 55 and 80 years did not reveal genome-wide significant loci (Newman et al., 2010) and neither did the analyses of all-cause mortality and survival free of major disease in this cohort (Walter et al., 2011).A smaller Dutch study of 403 nonagenarians and 1,670 controls younger than 65 years identified the APOE gene as a mortality locus (Deelen et al., 2011), which was confirmed in a German study of 763 long-lived individuals and 1,085 younger controls (Nebel et al., 2011) and a longitudinal study of 1,606 Danes showed that the effect size of this association increases at the highest ages (Jacobsen et al., 2010).Apparently, the influence of the common genetic variation on longevity is small which requires large meta-GWA studies for identification.Alternatively, rare genetic variants may play a more important role in longevity.Since the previous linkage studies showed contradictory results potentially due to heterogeneity in the longevity phenotype, it is expected that longevity is influenced by many private rare variants."
+            },
+            {
+                "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                "section_type": "main",
+                "text": "\n\nIn most experimentally modified animal model systems, single-gene mutations in many different genes have major life extension effects (Fontana et al., 2010;Kenyon, 2010).However, natural human and animal longevity is presumed to be a complex trait (Finch & Tanzi, 1997).In humans, both candidate gene and genome-wide genetic association approaches have been applied in an attempt to identify longevity loci.The frequency of genetic variants has been typically compared between nonagenarian cases and young controls, revealing loci at which genetic variants may contribute to a higher or lower probability of survival into old age.The initial candidate gene studies aimed at finding human longevity genes were dominated by contradictory results (Christensen et al., 2006).The more consistent evidence obtained by repeated observation in independent cohort studies for association with longevity has so far only been observed for three loci, the apolipoprotein E (APOE) locus (Schachter et al., 1994;Christensen et al., 2006), the FOXO3A locus (Willcox et al., 2008;Flachsbart et al., 2009;Pawlikowska et al., 2009;Soerensen et al., 2010), and the AKT1 locus (Pawlikowska et al., 2009).Thus, despite the expectation that longevity would be influenced by many genetic variants with small effect sizes, the effect of variants has consistently been shown in only three genes."
+            },
+            {
+                "document_id": "606c59c5-5ae4-47e9-b3eb-58afa55669d1",
+                "section_type": "main",
+                "text": "These examples serve to illustrate the general point that the more complex designs of\nexperiments that manipulate the level of imposed mortality rates, unlike the simpler\nprocedure of altering the first age of reproduction in a laboratory population, may in turn\nmake these experiments systematically more difficult to interpret.  Futuyma and Bennett\n(this volume) also discuss the merits of simple experimental manipulations.\n THE NUMBER OF GENES AFFECTING AGING\n\nEarly evolutionary discussions of aging, such as those by Williams (1957) and Maynard\nSmith (1966), characteristically concluded that a large number of loci are likely to affect\naging."
+            },
+            {
+                "document_id": "a440a3fa-74e7-4fd8-8a7f-d0391300d6ed",
+                "section_type": "main",
+                "text": "These examples serve to illustrate the general point that the more complex designs of\nexperiments that manipulate the level of imposed mortality rates, unlike the simpler\nprocedure of altering the first age of reproduction in a laboratory population, may in turn\nmake these experiments systematically more difficult to interpret.  Futuyma and Bennett\n(this volume) also discuss the merits of simple experimental manipulations.\n THE NUMBER OF GENES AFFECTING AGING\n\nEarly evolutionary discussions of aging, such as those by Williams (1957) and Maynard\nSmith (1966), characteristically concluded that a large number of loci are likely to affect\naging."
+            },
+            {
+                "document_id": "9fed8fd1-fce5-4fc1-9911-05d312f88521",
+                "section_type": "main",
+                "text": "\n\nThe antagonistic pleiotropy and hyperfunction theories of ageing predict the presence of genetic variants important for growth and development in early life with deleterious effects towards the end of the reproductive window 19,20 .While we are unable to directly capture the genetic effects on individuals before age 40 due to the study design of our datasets, we found that the life-extending variant near FOXO3 is associated with a delay in the age at menarche and a decrease in intracranial volume and cognitive abilities.It thus appears that there are loci exhibiting antagonistic effects, although we are unable to discern whether this is due to true pleiotropy or due to linkage of causal variants within a region  Genes which showed a significant effect (FDR < 5%) of gene expression on ageing traits are displayed here.Gene names are annotated with the direction of effect, where + andindicate whether the life-extending association of the locus is linked with higher or lower gene expression, respectively.Locus: nearest gene to lead variant in the multivariate analysis, Chr: chromosome, Position: base-pair position of lead variant (GRCh37), Cis-genes: genes in physical proximity (<500 kb) to the lead variant of the locus which colocalise with the multivariate signal, Trans-genes: genes located more than 500 kb from the lead variant of the locus."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "abstract",
+                "text": "\nHuman lifespan variation is mainly determined by environmental factors, whereas the genetic contribution is 25-30% and expected to be polygenic.Two complementary fields go hand in hand in order to unravel the mechanisms of biological aging: genomic and biomarker research.Explorative and candidate gene studies of the human genome by genetic, transcriptomic, and epigenomic approaches have resulted in the identification of a limited number of interesting positive linkage regions, genes, and pathways that contribute to lifespan variation.The possibilities to further exploit these findings are rapidly increasing through the use of novel technologies, such as next-generation sequencing.Genomic research is progressively being integrated with biomarker studies on aging, including the application of (noninvasive) deep phenotyping and omics data -generated using novel technologies -in a wealth of studies in human populations.Hence, these studies may assist in obtaining a more holistic perspective on the role of the genome in aging and lifespan regulation."
+            },
+            {
+                "document_id": "5e157c2e-91b8-466d-a9fd-f91f8f432f0c",
+                "section_type": "main",
+                "text": "\n\nWhy then are we not devoting significantly greater resources to understanding more about the greatest risk factor for every age-associated pathology by attempting to answer this fundamental question: \"What changes occur in biomolecules that lead to the manifestations of aging at higher orders of complexity and then increase vulnerability to all age-associated pathology?\""
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "TRANSLATION OF LONGEVITY MODEL ORGANISMS AND CORE AGING PATHWAYS\n\nGenetic studies on lifespan have proven to be challenging.While longevity is a defining trait for a given species, the lifespan of individuals is of limited heritability, making analyses more difficult.Exceptional human life span, although a rare phenotype, is likely multifactorial; refined analyses are required to obtain statistically robust genomic signatures of longevity (Zhang et al., 2020) and these have proven elusive.Unlike laboratory models, the effect of environmental variance cannot be controlled in human studies, potentially masking purely biological aging mechanisms.Even laboratory models cannot replicate the complex \"environment\" of humans; it includes psychosocial, economic, and cultural factors, rather than strictly biological.These human-specific confounders are difficult or impossible to target in traditional model organisms.Despite these limitations, experimentally tractable model organisms have proven invaluable in deciphering the purely genetic contribution to lifespan, including genes and pathways conserved across the tree of life."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "main",
+                "text": "\n\nHuman lifespan variation is mainly determined by environmental factors, whereas the genetic contribution is 25-30% and expected to be polygenic.Two complementary fields go hand in hand in order to unravel the mechanisms of biological aging: genomic and biomarker research.Explorative and candidate gene studies of the human genome by genetic, transcriptomic, and epigenomic approaches have resulted in the identification of a limited number of interesting positive linkage regions, genes, and pathways that contribute to lifespan variation.The possibilities to further exploit these findings are rapidly increasing through the use of novel technologies, such as next-generation sequencing.Genomic research is progressively being integrated with biomarker studies on aging, including the application of (noninvasive) deep phenotyping and omics data -generated using novel technologies -in a wealth of studies in human populations.Hence, these studies may assist in obtaining a more holistic perspective on the role of the genome in aging and lifespan regulation."
+            },
+            {
+                "document_id": "996e02bf-91b2-4e81-89ba-1f661dfc662a",
+                "section_type": "main",
+                "text": "Concluding Remarks\n\nRather than expect differences in defensive or protective genes to regulate the pace of aging, which have never been found ( 13), it appears that the genetic factors that drive development may also regulate aging rates.Looking at aging as the unintended outcome of a programmed, well-orchestrated development explains why adult life span is proportional to developmental time among mammals.This perspective is also consistent with the antagonistic pleiotropy theory (53): alleles that favor early reproduction and a faster development may entail deleterious late-life effects and thus cause a faster senescence.Besides, mammals feature a robust set of developmental strategies, particularly compared with amphibians, and therefore it is not surprising that aging in different species of mammals appears to be the same process only timed at radically different rates."
+            },
+            {
+                "document_id": "04c5378f-40dc-4690-af03-e5205779b881",
+                "section_type": "abstract",
+                "text": "\nBackground: Genetic research on longevity has provided important insights into the mechanism of aging and aging-related diseases.Pinpointing import genetic variants associated with aging could provide insights for aging research.Methods: We performed a whole-genome sequencing in 19 centenarians to establish the genetic basis of human longevity.Results: Using SKAT analysis, we found 41 significantly correlated genes in centenarians as compared to control genomes.Pathway enrichment analysis of these genes showed that immune-related pathways were enriched, suggesting that immune pathways might be critically involved in aging.HLA typing was next performed based on the whole-genome sequencing data obtained.We discovered that several HLA subtypes were significantly overrepresented.Conclusions: Our study indicated a new mechanism of longevity, suggesting potential genetic variants for further study."
+            },
+            {
+                "document_id": "555a1533-2905-4d91-a3b6-2fca3679ab02",
+                "section_type": "main",
+                "text": "\n\nOn the other hand, the same evolutionary-motivated strategy suggesting to focus on more heterogeneous phenotypes (as opposite to more homogenous) can be highly beneficial for unraveling genetic predisposition to fundamental mechanisms of intrinsic biological aging and, consequently, to geriatric diseases.Indeed, aging is associated with systemic remodeling of an organism's functioning which increases chances of virtually all geriatric disorders (Franco et al. 2009;Franceschi et al. 2000;Martin et al. 2007;Cutler and Mattson 2006).Experiments with laboratory animals (Johnson 2006) and heritability estimates in humans (Christensen et al. 2006;Iachine et al. 1998) show that aging can be genetically regulated (Finch and Tanzi 1997;Martin et al. 2007;Vaupel 2010).Accordingly, yielding insights in genetic predisposition to aging-related processes in an organism could be a major breakthrough in preventing and/or ameliorating not one geriatric trait, but perhaps a major subset of such traits (Martin et al. 2007) that can greatly advance progress in solving the problem of extending healthy lifespan in humans."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "main",
+                "text": "\n\nOne way to overcome (part of) this problem is by using a family-based study design (Box 1 and Fig. 1), in which the offspring of long-lived individuals -representing ''healthy agers'' -are compared to similar-aged controls from the general population.The differential gene expression profiles identified using this design may represent markers of healthy aging and familial longevity.This approach has been applied in the LLS to explore the transcriptome in whole blood for association with human familial longevity.Genes belonging to the mTOR pathway, as well as ASF1A and IL7R, were differentially expressed between offspring and controls [59,60].In addition, the expression of mTOR genes in blood associated to prevalent diabetes and serum glucose.However, the association with familial longevity was not dependent on this.Thus, gene expression profiles in blood mark human longevity in middle age and potentially provide information on the pathways that contribute to healthy aging and longevity."
+            },
+            {
+                "document_id": "fe32b103-5dba-4cf0-b8af-762a71a5f5e6",
+                "section_type": "main",
+                "text": "\n\nAlthough many theories have tried to explain aging, only few experimental advances were made prior to the last two decades.Since then rapid progress in the genetics of aging has been made in invertebrate models such as C. elegans and D. melanogaster, demonstrating the existence of regulatory pathways that control the rate of aging in these organisms [1][2][3][4][5][6][7][8][9][10][11][12][13][14].They include the insulin-like pathway, the Jun kinase pathway and the Sir2 deacetylase pathway.Moreover, it was rapidly shown that some of these pathways are conserved from yeast to humans."
+            },
+            {
+                "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                "section_type": "main",
+                "text": "\n\nAgeing is complex and takes a long time to study -a lifetime in fact.This makes it difficult to discern its causes, among the countless possibilities based on an individual's genes, behaviour or environment.While thousands of regions in an individual's genetic makeup are known to influence their risk of different diseases, those that affect how long they will live have proved harder to disentangle.Timmers et al. sought to pinpoint such regions, and then use this information to predict, based on their DNA, whether someone had a better or worse chance of living longer than average."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "ANALYSIS OF HUMAN VARIATION IN THE GENETIC CONTROL OF LONGEVITY\n\nHeritability studies have convincingly demonstrated that at least some fraction of human lifespan is heritable.In tandem, large-scale genome-wide association studies (GWAS) have identified numerous loci associated with age-related traits (Buniello et al., 2019).While genetic studies have functionally shown an inverse effect of multiple age-related, diseaseassociated variants on lifespan regulation, the number of well-replicated longevity-conferring variants remains limited to variants in APOE (ApoE ε2), and more recently, CDKN2A/B and IL6 (see Table 1).To date, studies in humans have been hampered by the specific phenotype definitions used, sample sizes of the extreme phenotypes, and modest heritability of the longevity-related traits (Breitbach et al., 2019).This is due to the complex interplay of biological and social factors involved in human aging, as well as the limited power of GWAS, which require sampling thousands of subjects to achieve statistical significance (Breitbach et al., 2019).Genetic studies of aging have also been hindered by an inconsistent use of definitions of aging (reviewed in Baghdadi et al., 2020).The two main ways of conducting research on the genetics of longevity in human populations are by studying (i) the lifespan (continuous trait, years lived) and (ii) the longevity (dichotomous trait, i.e., being among the longest-lived individuals within a specific population).These complexities have limited the resolution and capability of broad association studies of human longevity.Importantly, these genomic analyses focus on a shift of survival in a population; these variables may be genetically distinct from the mechanisms establishing potential for longevity overall (Figure 1A).We argue that an understanding of this shift in lifespan as well as genetic mechanisms of regulating a species specific 'set points' (Figure 1B) will aid in the conceptual distinction of aging and longevity in humans."
+            },
+            {
+                "document_id": "f2b8524b-501d-4ec7-a3d7-048aab67ce05",
+                "section_type": "main",
+                "text": "\n\nGenAge consists of several searchable data sets.Considering the extraordinary discoveries in the genetics of aging in model organisms, GenAge includes a data set of genes associated with longevity and/or aging in model organisms.We consider a given gene for inclusion in GenAge if genetic manipulations of the gene result in noticeable changes in the aging phenotype and/or longevity.Most genes in GenAge are from the four typical model organisms: mice, worms, fruit flies and yeast (Table 1).Strikingly, homologues of many genes -such as insulin receptors and sirtuins -have been shown to regulate aging in model organisms separated by large evolutionary distances (Kenyon, 2005;Liu et al ., 2005;Smith et al ., 2008).Moreover, we have shown that genes associated with aging and/or longevity in model organisms are evolutionary conserved in terms of having more homologues than predicted by chance (Budovsky et al ., 2007(Budovsky et al ., , 2008) ) and exhibiting slower molecular evolution rates (de Magalhães & Church, 2007).Therefore, it is now clear that at least some genes identified in model organisms may be relevant to human aging."
+            },
+            {
+                "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                "section_type": "main",
+                "text": "IV. Genome-Environment Interactions as Targets for Dietary Interventions and Drug Discovery\n\n\"…[It's] possible that we could change a human gene and double our life span. \"-CynthiaKenyon (Duncan, 2004) According to the GenAge database of aging-related genes (http://genomics.senescence.info/genes/),more than 700 genes have been identified that regulate lifespan in model organisms (de Magalha ˜es et al., 2009a).Many of these genes and their associated pathways-such as the insulin/IGF1/GH pathway-have been shown to affect longevity across different model organisms (Kenyon, 2010).Therefore, at least some mechanisms of aging are evolutionarily conserved and may have potential therapeutic applications (Baur et al., 2006).For example, evidence suggests the use of lowered IGF signaling (e.g., by targeting IGF receptors) to treat certain age-related diseases such as cancer (Pollak et al., 2004), Alzheimer's disease (Cohen et al., 2009), and autoimmune diseases (Smith, 2010).Moreover, a number of genes and pathways associated with longevity and CR are part of nutrient-sensing pathways that also regulate growth and development, including the insulin/IGF1/GH pathway (Narasimhan et al., 2009;Stanfel et al., 2009).Many of these genes modulate the response to environmental signals, such as food availability, and act in signaling pathways that if understood can be targeted (Fig. 1).The genetic regulation of aging is therefore an emerging field with multiple applications in the human nutrition, cosmetic, and pharmaceutical industries."
+            }
+        ],
+        "document_id": "E1F24400EE215327FE987A4DDC0768C8",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "APOE",
+            "FOXO3A",
+            "GWAS",
+            "longevity",
+            "aging",
+            "human",
+            "gene",
+            "lifespan",
+            "genetic",
+            "environment"
+        ],
+        "metadata": [
+            {
+                "object": "Transient overexpression of WRKY79 in protoplasts results in up-regulation of Gene:542165, Gene:541974, Gene:100274033, Gene:542688, Gene:542150, Gene:542151, Gene:100273457, Gene:100285509, Gene:103626248, Gene:103646045, Gene:100217270, Gene:100279981, Gene:100281950, Gene:542476, Gene:542369, Gene:100281950, and Gene:542260.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab969966"
+            },
+            {
+                "object": "Data suggest that the redox status of serum apoE might be related to the synthesis of HDL; the cysteine-thiol residue of reduced-apoE is in a naive state, while that of non-reduced-apoE is in a reversibly or irreversibly oxidized state. Data suggest that apoE homodimer and apoE-AII complex are typical reversibly oxidized forms of apoE. apoE-AII complex = a complex of apolipoprotein E and apolipoprotein A-II",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab212832"
+            },
+            {
+                "object": "APOE genotype status moderated the age-related declines in episodic memory: APOE-epsilon4+ middle-aged adults exhibited impairments relative to both APOE-epsilon4- middle-aged participants, and APOE-epsilon4+ younger adults.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab77520"
+            },
+            {
+                "object": "In an Amish population, using expression profiling of genes within regions identified by a meta-analysis GWAS of survival to age 90, we localized PAPSS2 as a candidate gene for extended life span. These results provide novel evidence for genetic loci implicated in longevity and incorporate gene expression results from a unique population to locate positional candidates.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab389107"
+            },
+            {
+                "object": "Genome-wide associations P < 5 x 10-8 were found at the PCSK9 gene, the APOB gene, theLPL gene, the APOA1-APOA5 locus, the LIPC gene, the CETP gene, the LDLR gene, and the APOE locus.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab320109"
+            },
+            {
+                "object": "There was no association between the extended psychosis phenotype and BDNF rs6265/COMT rs4680 polymorphisms. The lack of an association between different expression levels of the extended psychosis phenotype and the BDNF rs6265/ COMT rs4680 polymorphism might be related to sample characteristics, underlying gene-gene, gene-environment and gene-environment-gene interactions.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab888369"
+            },
+            {
+                "object": "Data suggest that modulation of ARHGEF3 gene expression in humans with a promoter-localized SNP plays a role in human megakaryocytes and human platelet function-a finding resulting from the biological follow-up of human genetic studies. Arhgef3 KO mice partially recapitulate the human phenotype.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab209151"
+            },
+            {
+                "object": "Very high gene-level linkage in Bayesian GWAS using Kutalik/Timmers data and MAGMA gene-level reanalysis to human longevity LOD 14.5; RW Williams July 2019. Linkage to longevity is second only to the TOMM40-APOE-APOC1-PVRL2-APOC4 region on Chr 19.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab6647"
+            },
+            {
+                "object": "NO evident relationship was found between gene polymorphism of Eco RI loci of Apo B gene, Xba I loci of Apo B gene or 3'-VNTR of Apo B gene and ANFH.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab529998"
+            },
+            {
+                "object": "Data suggest that modulation of ARHGEF3 gene expression in humans with a promoter-localized SNP plays a role in human megakaryocytes and human platelet function-a finding resulting from the biological follow-up of human genetic studies. Arhgef3 KO mice partially recapitulate the human phenotype.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab209152"
+            }
+        ],
+        "question": "Why is it so diffuclut to map gene loci that control aging in humans?",
+        "subquestions": null,
+        "task_id": "E1F24400EE215327FE987A4DDC0768C8",
+        "usage": {
+            "chatgpt": 7866,
+            "gpt-4": 4669,
+            "gpt-4-turbo-preview": 3717
+        },
+        "user_id": 2
+    },
+    "document_id": "E1F24400EE215327FE987A4DDC0768C8",
+    "task_id": "E1F24400EE215327FE987A4DDC0768C8"
+}

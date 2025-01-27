@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2014 -Neuroinformatic analyses of common and distinct genetic components associated with major neuropsychiatric disorders.pdf",
+    "2015 - Somatic mutation in cancer.pdf",
+    "2014 -Neuroinformatic analyses of common and distinct genetic components associated with major neuropsychiatric disorders.pdf",
+    "2018 - Comprehensive functional genomic resource and integrative model forthe human brain.pdf",
+    "2019 - Beyond Genome-wide Significance Integrative Approaches to the Interpretation and Extension of GWAS Findings for Alcohol Use Disorder.pdf",
+    "2014 -Neuroinformatic analyses of common and distinct genetic components associated with major neuropsychiatric disorders.pdf",
+    "2017 - Genomewide Association Study of Alcohol Dependence Identifies Risk Loci Altering Ethanol-response Behaviors in Model Organisms.pdf",
+    "2014 - Analyzing_gene_expression_data_in_mice_w.pdf",
+    "2022 -Restrepo- Predict impulsivity in children.pdf",
+    "2022 - Corticolimbic DCC gene co-expression networks as predictors of impulsivity in children.pdf"
+  ],
+  "extraction_id": [
+    "0749dafa-17cf-5434-aad9-151a128e357b",
+    "feb6add1-ae89-5c82-8d59-6d4d66ea6779",
+    "300d8f31-5e42-5c17-a801-2f7afad3995e",
+    "82c75078-0fc5-508c-95ba-f2975fdec2c5",
+    "f623501d-c824-5334-98d7-dd599d0c063d",
+    "b3e6daa0-872e-546c-bee5-873b8f716c77",
+    "4c500aa5-faeb-5273-83a9-c5c91a27c697",
+    "848a85f6-382c-54e8-947b-670d71bb0639",
+    "10e3b0c3-e7cc-52e9-a6c2-e721a848bae5",
+    "8c7a2723-caa8-5ae1-a47c-c0c889443919"
+  ],
+  "document_id": [
+    "38896019-c47e-5288-88a9-302779568cd3",
+    "0801355e-6f92-5526-a0b7-85a2bc859c51",
+    "38896019-c47e-5288-88a9-302779568cd3",
+    "24caaa62-2368-534f-8c42-f088c3409510",
+    "f59b3e10-a887-5708-b520-c5e8adb48dcd",
+    "38896019-c47e-5288-88a9-302779568cd3",
+    "045eff7e-5ff3-5b0e-9858-76eb8560e9d4",
+    "643f0642-d9c6-52f8-8b86-e469e778c003",
+    "15c3ab55-d6e6-532e-a655-759059ab7c07",
+    "fdecd4db-5e3a-5a3a-8145-28d05392822e"
+  ],
+  "id": [
+    "chatcmpl-AIGrl5sKA3HUkZ2rgn7crnu6ec7EE",
+    "2aaaf2f2-8ea8-5f34-82ce-60cdce021b1c",
+    "06a4a00d-2b22-557a-b744-e4ac1fa8a5a2",
+    "cf9ea924-eb96-5444-9a8b-ed45c932b130",
+    "88756a11-58d2-59ec-8eed-08a96fc24ca0",
+    "f771b6cd-babd-56c2-a536-fbafc07c9be7",
+    "fd183495-c22b-5b6e-af12-ec216a838141",
+    "224463d2-e8a3-5a17-ab9b-9d6a39a081b8",
+    "18de97fd-e46c-5600-b45d-82de340e0d6b",
+    "366961c5-4349-5d93-abf5-203de53a4928",
+    "d7155850-29e4-5fec-b5a2-974f8ead2fef"
+  ],
+  "contexts": [
+    "Lotan et al. Neuroinformatics of major neuropsychiatric disorders We demonstrated that although these disorders share a rela- tively small set of genes, there are two fundamental yet distinctgenetic components, or vectors, that are both shared by all sixdisorders. While the rst component is involved in CNS develop- ment, neural projections and synaptic transmission, the second",
+    "genetic variation) for any psychiatric disorder (Fig. 1), there is sufficient information to drawsome general conclusions. The polygenicity of psychiatric illness In addition to finding specific genes, molecu- lar genetics can provide information about theheritability of psychiatric disease, an approach that has led to some important insights about the genetic architecture of psychiatric illness.The degree of SNP sharing among disease cases estimates the common, inherited portion of a",
+    "of shared and unique genetic factors highlights key gene sets and molecular processesthat may ultimately translate into improved diagnosis and treatment of these debilitating disorders. Keywords: major neuropsychiatric disorders, neuroinformatics, cross-species, translational, genetic components, genome wide association studies, enrichment INTRODUCTION Common psychiatric disorders including attention-",
+    "6. D. H. Geschwind, J. Flint, Genetics and genomics of psychiatric disease. Science 349, 1489 1494 (2015). doi: 10.1126/science. aaa8954 ; pmid: 26404826 7. S. Cichon et al ., Genomewide association studies: History, rationale, and prospects for psychiatric disorders. Am. J. Psychiatry 166, 540 556 (2009). doi: 10.1176/ appi.ajp.2008.08091354 ; pmid: 19339359 8. A. Battle et al., Genetic effects on gene expression across human tissues. Nature 550, 204 213 (2017). doi: 10.1038/ nature24277 ; pmid: 29022597",
+    "the Psychiatric Genomics Consortium found that the results were highly correlated between  methods in a comparison of methods applied across several psychiatric disorders ( Network  Pathway Analysis Subgroup of Psychiatric Genomics Consortium 2015 ). A second  limitation of pathway-based analysis is that it is still biased by our incomplete prior  knowledge of gene function in the etiology of psychiatric illness. Despite these challenges, pathway-based analyses have identified biological pathways",
+    "Lotan et al. Neuroinformatics of major neuropsychiatric disorders GENES FROM THE NHGRI-CROSS-DISORDER SET CLUSTER IN THREE CO-EXPRESSION MODULES WITH DISTINCT SPATIO-TEMPORALEXPRESSION PATTERNS AND FUNCTIONAL BIASES One of the major properties of genes involved in regulation of",
+    "Genet. 2009; 85:847861. [PubMed: 19931040]  Brownlee DJ, Fairweather I. Exploring the neurotransmitter labyrinth in nematodes. Trends Neurosci.  1999; 22:1624. [PubMed: 10088995]  Bucholz KK, Cadoret R, Cloninger CR, Dinwiddie SH, Hesselbrock VM, Nurnberger JI Jr, Reich T,  Schmidt I, Schuckit MA. A new, semi-structured psychiatric interview for use in genetic linkage  studies: a report on the reliability of the SSAGA. J Stud Alcohol. 1994; 55:149158. [PubMed:  8189735]",
+    "with shared effects on ve major psychiatric disorders: a genome- wide analysis. Lancet 381(9875):13711379 Davis S, Meltzer P (2007) Geoquery: a bridge between the gene expression omnibus (geo) and bioconductor. Bioinformatics 14:18461847 de Mooij-van Malsen AJG, Vinkers CH, Peterse DP, Olivier B, Kas MJH (2011) Cross-species behavioural genetics: a starting point for unraveling the neurobiology of human psychiatric disorders. Prog Neuropsychopharmacol Biol Psychiatr 35(6):13831390",
+    "systems biology approach based on gene co-expression networks and genotype-gene expression (rather than genotype-disease)associations, these results further validate our methodology to construct polygenic scores linked to the overall biological function of tissue-speci c gene networks. Molecular Psychiatry (2022) 27:27422750; https://doi.org/10.1038/s41380-022-01533-7 INTRODUCTION Several psychiatric disorders of developmental origin are char-",
+    "systems biology approach based on gene co-expression networks and genotype-gene expression (rather than genotype-disease)associations, these results further validate our methodology to construct polygenic scores linked to the overall biological function of tissue-speci c gene networks. Molecular Psychiatry (2022) 27:27422750; https://doi.org/10.1038/s41380-022-01533-7 INTRODUCTION Several psychiatric disorders of developmental origin are char-"
+  ],
+  "answer": "The insights obtained from GeneNetwork.org regarding the genetic basis of psychiatric disorders include the identification of two fundamental yet distinct genetic components shared by major neuropsychiatric disorders. The first component is involved in central nervous system (CNS) development, neural projections, and synaptic transmission [1]. Additionally, the polygenicity of psychiatric illnesses has been highlighted, indicating that psychiatric disorders are influenced by multiple genes, and there is a degree of single nucleotide polymorphism (SNP) sharing among disease cases, which helps estimate the common, inherited portion of these disorders [2]. Furthermore, shared and unique genetic factors have been identified, which highlight key gene sets and molecular processes that may lead to improved diagnosis and treatment of psychiatric disorders [3].",
+  "question": "What novel insights have been obtained from GeneNetwork.org regarding the genetic basis of psychiatric disorders?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "2010 - Teaching Bioinformatics and Neuroinformatics by using Free Web-Based Tools.pdf",
+    "2012 - Biological Databases for Behavioral Neurobiology.pdf",
+    "2008 - (Infectious Disease) Karl A. Western (auth.), Vassil St. Georgiev PhD, Karl A. Western MD, John J. McGowan PhD (eds.) - National Institute of Allergy and Infectious Diseases, NIH_ Frontiers in Researc (3).pdf",
+    "2008 - Biotools for Determining the Genetics of Susceptibility to Infectious Diseases.pdf"
+  ],
+  "extraction_id": [
+    "49a42e3c-e1f9-5433-9643-192a592454d4",
+    "a1588a50-8f88-5d50-9232-706bdc46ec88",
+    "11762190-61cd-585d-96c1-7aa6717d9d47",
+    "af1c63bf-772d-554e-be88-bd62daee49ee",
+    "025c4afb-d749-54a7-a183-9a7b8b1332c7",
+    "c0098aa5-5eba-5b6a-97f2-661388daeb82",
+    "0017cf22-e712-5a41-9bb7-ea3632bb825a",
+    "9a38ba60-52da-5f67-9c75-db1ac7a7b7ec",
+    "16c8fbb0-ab2a-563f-a6b2-e0d8733b69fb",
+    "fe6eb7f0-9f09-50f8-a7a1-c71e507226d5"
+  ],
+  "document_id": [
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "c802c4ea-e99d-501a-ba20-1cd1b369dfc3",
+    "99d3a5c1-8511-5fba-92ce-1ceef2b6c402",
+    "4db8c752-c8e2-5f6d-a091-dc4f1d0c48bc",
+    "fcbbb3ce-6524-50e3-9f8d-c191dc551231"
+  ],
+  "id": [
+    "chatcmpl-ADZArO5xKdt382Vj4oDYlsZwv0rng",
+    "fcbb83a7-84f2-55cd-b26d-80883a022c52",
+    "7f1ea794-1c26-5a90-abe3-f60f338f5985",
+    "8473f1fc-d615-54de-92de-a3faf5e2045e",
+    "4741caf7-1306-52e8-874c-fa200f067978",
+    "f74f9aa9-3464-58e8-a0f6-e3e38efa3c40",
+    "4121b591-0dda-5347-9833-23e3d9c6d8fe",
+    "f337b34c-de96-5b8c-ac3e-80417634b5c1",
+    "df5e9619-d45e-5958-a88d-d33ecc59387d",
+    "71eac758-37cb-5fec-8380-7d9f4d4c2845",
+    "e4180707-bb0f-5b00-8de7-f6937bc38e07"
+  ],
+  "contexts": [
+    "for people to exchange data easily over the Web. Two other notable developments are BioMart and GBrowse. The BioMart project (http://www.biomart.org/), originally a spin-off from Ensembl, offers a generic data management system that allows complex searches of biological data such as sequence annotation. The GBrowse project (Stein et al. , 2002; http://www.gmod.org/) has produced a generic genome browser that can be customized to organize, display and query a new genome scale data set. These",
+    "for people to exchange data easily over the Web. Two other notable developments are BioMart and GBrowse. The BioMart project (http://www.biomart.org/), originally a spin-off from Ensembl, offers a generic data management system that allows complex searches of biological data such as sequence annotation. The GBrowse project (Stein et al. , 2002; http://www.gmod.org/) has produced a generic genome browser that can be customized to organize, display and query a new genome scale data set. These",
+    "for people to exchange data easily over the Web. Two other notable developments are BioMart and GBrowse. The BioMart project (http://www.biomart.org/), originally a spin-off from Ensembl, offers a generic data management system that allows complex searches of biological data such as sequence annotation. The GBrowse project (Stein et al. , 2002; http://www.gmod.org/) has produced a generic genome browser that can be customized to organize, display and query a new genome scale data set. These",
+    "(http://ensembl.org/ ) and the National Center for Biotechnology Information (NCBI) (http://www.ncbi.nlm.nih.gov/ ) all provide portals to the most current, and archived public assemblies. These sites also provide means of searching the assem- blies, such as BLAST (Altschul et al. , 1997), BLAT (Kent, 2002) and SSAHA (Ning et al. , 2001) as well as precomputed annotation for the genome assemblies that can be readily incorporated into comparative genomic analyses.",
+    "(http://ensembl.org/ ) and the National Center for Biotechnology Information (NCBI) (http://www.ncbi.nlm.nih.gov/ ) all provide portals to the most current, and archived public assemblies. These sites also provide means of searching the assem- blies, such as BLAST (Altschul et al. , 1997), BLAT (Kent, 2002) and SSAHA (Ning et al. , 2001) as well as precomputed annotation for the genome assemblies that can be readily incorporated into comparative genomic analyses.",
+    "(http://ensembl.org/ ) and the National Center for Biotechnology Information (NCBI) (http://www.ncbi.nlm.nih.gov/ ) all provide portals to the most current, and archived public assemblies. These sites also provide means of searching the assem- blies, such as BLAST (Altschul et al. , 1997), BLAT (Kent, 2002) and SSAHA (Ning et al. , 2001) as well as precomputed annotation for the genome assemblies that can be readily incorporated into comparative genomic analyses.",
+    "resources. We present an easy-to-adopt module that weaves together several important bioin-formatic tools so students can grasp how these tools are used in answering research questions.Students integrate information gathered from websites dealing with anatomy (Mouse BrainLibrary), quantitative trait locus analysis (WebQTL from GeneNetwork), bioinformatics and geneexpression analyses (University of California, Santa Cruz Genome Browser, National Center forBiotechnology Informations Entrez Gene, and the",
+    "References Altman RB. Building successful biological databases. Briefings in Bioinformatics. 2004; 5:45.  [PubMed: 15153301]  Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, Cherry JM, et al. Gene ontology: Tool for the  unification of biology. The Gene Ontology Consortium. Nature Genetics. 2000; 25:2529.  [PubMed: 10802651]  Ashish N, Ambite JL, Muslea M, Turner JA. Neuroscience data integration through mediation: an",
+    "Sequences, Protein Structures, Complete Genomes, Tax- onomy, Medical Genetics resources (see later), and others (see   http://www.ncbi.nlm.nih.gov/Database/index.html     for a complete listing of databases).  Entrez   PubMed provides  access to full-text articles at journal websites and other related web resources, some of which are free to the  public. This site also provides links to other molecular biology resources.      The National Center for Biotechnology Information (  http://",
+    "Sequences, Protein Structures, Complete Genomes, Tax- onomy, Medical Genetics resources (see later), and others (see   http://www.ncbi.nlm.nih.gov/Database/index.html     for a complete listing of databases).  Entrez   PubMed provides  access to full-text articles at journal websites and other related web resources, some of which are free to the  public. This site also provides links to other molecular biology resources.      The National Center for Biotechnology Information (  http://"
+  ],
+  "answer": "For text and biological resources, it seems you are referring to adding web resources such as Ensembl to your system. This is evident from the context which mentions various web-based biological data management systems and genome browsers like BioMart, GBrowse, and Ensembl [1], [4]. These resources provide portals to current and archived public assemblies, as well as tools for searching and annotating genome assemblies [4], [6]. Therefore, it appears you are more focused on integrating web resources rather than books.",
+  "question": "For text and biological resources, do you mean add some books (on biology stuff) or/and web resources (as ensembl) on your system?"
+}

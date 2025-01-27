@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - When Family Means More (or Less) Than Genetics.pdf",
+    "2012 - Mitochondrial Genomic Analysis of Late Onset.pdf",
+    "2017 - Parental influence on human germline de novo.pdf",
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2015 - Self-reported race or ethnicity in the age of genomic.pdf",
+    "2009 - When Family Means More (or Less) Than Genetics.pdf",
+    "2017 - Parental influence on human germline de novo.pdf",
+    "1996 - IDDM2-VNTR-encoded Susceptibility to Type 1 Diabetes.pdf",
+    "2012 - Mitochondrial Genomic Analysis of Late Onset.pdf",
+    "2016 - A genetic method for dating ancient genomes provides.pdf"
+  ],
+  "extraction_id": [
+    "baf15552-4198-5701-9175-c3fd31b2068e",
+    "ed29f84f-f2c9-5cbe-bab1-f5d5d2a334b6",
+    "a3b7edd7-f50f-53f1-b875-6d6733ddfde9",
+    "472c8adc-54e7-5c27-a7b8-882b7e49cd2b",
+    "6d68e979-ad62-5f85-ab03-5e898ce1c73b",
+    "baf15552-4198-5701-9175-c3fd31b2068e",
+    "163ce027-26ce-5625-8b63-5b7a910b4462",
+    "a324397e-1525-55ff-a9e8-92dc2aafa237",
+    "ed29f84f-f2c9-5cbe-bab1-f5d5d2a334b6",
+    "fcf5296e-6be4-5789-b1e1-ac57fef15119"
+  ],
+  "document_id": [
+    "7ba44399-3765-5ef5-9fdd-119b62117f66",
+    "5404a17c-34a9-5881-8b1a-2acacdc996a8",
+    "7c8bee23-b142-5fce-be77-6910277a136f",
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "51ff0b84-193b-525a-b686-f29a423fcef9",
+    "7ba44399-3765-5ef5-9fdd-119b62117f66",
+    "7c8bee23-b142-5fce-be77-6910277a136f",
+    "bbaa99aa-3ae9-558d-bc97-7f85b6d0cf81",
+    "5404a17c-34a9-5881-8b1a-2acacdc996a8",
+    "5a5e67ea-4830-5fe8-95c3-ccfcc8324036"
+  ],
+  "id": [
+    "chatcmpl-ADZAODsOOCY3TdcinzGlvT4IHQgnR",
+    "f19ba98e-963f-5ecf-ad88-47215a3096e1",
+    "0e3b3480-c288-53cb-ac18-1d57478f9d34",
+    "06d4d82e-6eb9-59aa-a762-64de13149041",
+    "99a2cfc1-5a54-53af-b2a4-4c274e1d5ef1",
+    "612366c9-fcdc-5081-bc6d-47cd39922eeb",
+    "2ca2ab07-78b5-5268-93f1-297d83447163",
+    "db1fe67a-3d0c-549f-a54a-74ea0fa44d11",
+    "74ef6cdc-ea40-5d10-9ee8-b4288b3a70b4",
+    "27f40683-de33-5ec1-852d-6905f2dc389c",
+    "74484e0c-c862-5091-9fb5-957453a069af"
+  ],
+  "contexts": [
+    "variation with cultural practices around lineage. In certain societies, individuals place greater importance on (and have greater knowledge about) one side of the family than another (unilineal descent). Thus, individuals in patrilineal groups trace relationships through males only so that your fathers brothers children are members of your family, but not your fathers sisters (Kottak, 2007 ). They are members of their husbands group or family. Efforts to create",
+    "maternal lineage membership with those who weredirectly genotyped. Based on these pedigree (matrilineal) relation-",
+    "in three-generation families, and read pair tracing DNMs with phased variants. In the former approach, we determined the parent of origin as in our previous  analysis4. For example, if an offspring of the proband was a carrier of the DNM  allele and had haplotype sharing to paternal chromosome of the proband, we  assigned the mutation to the father. Meanwhile, if the offspring was not a DNM  allele carrier, we would assign it to the maternal germline. We restricted the haplo -",
+    "Unlike the nuclear genome, which requires both paternal and maternal contributions, mtDNA is inherited solely from the maternal lineage. It is unclear what advantage a uniparental mtDNA transmission confers, but one possibil-ity is to minimize the number of distinct genomes to maxi-mize the efficiency of a multi-genomic system (Hill etal. 2019). In fact, humans have developed complex, redundant mechanisms to ensure uniparental inheritance of mtDNA (DeLuca and OFarrell 2012; Rojansky etal. 2016). Paternal",
+    "c) Mitochondrial DNA (maternal line testing) markers: mitochondrial DNA or mtDNA haploid is the maternally inherited mitochondrial genome (mtDNA) [ 44]. All children inherit mtDNA from their mother, with no admixture from the father. Like Y-line DNA, mtDNA is passed intact from one generation to the next but through maternal line. Mitochondrial DNA does not follow any surname. In fact, the surname changes in every generation when women marry. Polymorphisms of mtDNA",
+    "a family pedigree may be hampered if the participant is not familiar with her mothers relatives, but her mothers brothers children (her cousins) may be able to supplement her overall family history. Knowledge about the cultural system of unilineal descent avoids assuming the universality of bilateral descent. Cultural beliefs such as these also have implications in the conduct of genetic research in terms of confidentiality and autonomy (Benkendorf et al.,",
+    "225 three-generation families using haplotype sharing (Fig. 1c and  Methods), 80.4% were found to be of paternal origin (Extended Data  Fig. 1). Figure 1e shows a strong relationship between the number of  paternal DNMs and the fathers age at conception (1.47 per year, 95%  CI 1.341.59) and a weaker impact of the mothers age on the number  of maternal DNMs (0.37 per year, 95% CI 0.300.45). The parental origin of all DNMs was also assessed by read pair",
+    "sistent with a maternal imprinting effect in familiesfrom France [18], the USA[10, 18, 21] (Figure 2; Table3) and Canada [27]. However, in a large family dataset from the UK, and in smaller data sets fromDenmark and Sardinia, the transmission of VNTRsusceptibility alleles is more pronounced frommothersthanfromfathers,andnowsignicantlysoinUK families (Figure 2; Table 3). Comparison of theresults from the USAwith those from the UK suggestthat unexplained inter-population differences in thisparent-of-origin",
+    "started with the largest matrilineage and worked down the list. Theparticipants selected for mtDNA sequencing were selected inde-pendent of their cognitive or dementia status. 274 matrilineageswere represented by this dataset. As a result, the sequencedmitochondrial genomes also represent as many different majormitochondrial haplogroups and clusters as possible (Table 1).Selection was made blind to case-control status. 287 samples weresent to Family Tree DNA (www.familytreedna.com) for Sangersequencing of",
+    "genetics-based population divergence studies. Am J Phys Anthropol 128(2):415 423.22. Helgason A, Hrafnkelsson B, Gulcher JR, War d R, Stefnsson K (2003) A populationwide coalescent analysis of Icelandic matrilineal and patrilineal genealogies: Evidence for a faster evolutionary rate of mtDNA lineages than Y chromosomes. Am J Hum Genet 72(6): 1370 1388. 23. Amster G, Sella G (2015) Life history effects on the molecular clock of autosomes and sex chromosomes. Proc Natl Acad Sci USA 113(6):1588 1593."
+  ],
+  "answer": "Genetic tracing is often matrilineal rather than patrilineal primarily because mitochondrial DNA (mtDNA) is inherited solely from the maternal lineage. Unlike nuclear DNA, which is a combination of both paternal and maternal contributions, mtDNA is passed down from mothers to all their children without any admixture from the father [4], [5]. This uniparental inheritance of mtDNA simplifies the tracing of maternal lineage as it remains relatively unchanged through generations, making it a reliable marker for genetic studies [4], [5]. Additionally, humans have developed complex mechanisms to ensure this uniparental inheritance of mtDNA, which further supports its use in genetic tracing [4].",
+  "question": "Why is genetic tracing matrilineal rather than patrilineal?"
+}

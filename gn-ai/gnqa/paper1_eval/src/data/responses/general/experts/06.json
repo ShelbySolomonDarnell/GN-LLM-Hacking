@@ -1,0 +1,398 @@
+{
+    "created_at": "2024-06-01T14:27:38.978700Z",
+    "data": {
+        "amplify": false,
+        "answer": "Human centromeres contain the CENP-B box, a 17-bp motif that is bound by the centromere protein CENP-B. This motif is present on every chromosome except for the Y chromosome. It is necessary for the formation of de novo centromeres on artificial chromosomes, but it is not essential for the formation of neocentromeres. Mice lacking CENP-B are viable and fertile.",
+        "context": {
+            "395a51ba-bd2a-4160-8396-b13a3bf762ff": [
+                {
+                    "document_id": "395a51ba-bd2a-4160-8396-b13a3bf762ff",
+                    "text": "\n\nPrimate and mouse centromeric DNA contain the CENP-B box, a 17-bp motif that is bound by the centromere protein CENP-B.In humans, the CENP-B box is present on every chromosome except for the Y chromosome [20].It is paradoxically necessary for formation of de novo centromeres on artificial chromosomes, but it is not essential for the formation of neocentromeres, and mice lacking CENP-B are viable and fertile [21,22]."
+                }
+            ],
+            "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262": [
+                {
+                    "document_id": "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262",
+                    "text": "Box 3 Mechanism of homologous recombination and end joining\n\nThe severe phenotype of the mouse mutants and the highly cancer-prone human syndromes highlight the importance of homologous recombination.Mouse KU mutants display sensitivity to agents that lead to breaks in DNA, and have immunological problems because the KU proteins are involved in V(D)J recombination of antibody gene sequences.In addition, these mutants display poor development, several features of premature ageing and increased apoptosis of postmitotic neurons in the developing brain.Mice with defects in DNA-PK cs (SCID mice) display a similar but generally milder phenotype.In contrast, XRCC4-and ligase IV-knockout mice seem more severe, with late embryonic lethality resulting from massive ATM-and p53-dependent neuronal apoptosis 33,38 ."
+                },
+                {
+                    "document_id": "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262",
+                    "text": "\n\nCells in G1 have only the homologous chromosome for recombination repair.However, this may be difficult to find in the complex genome.Moreover, it is potentially dangerous as a template for repair as it may lead to homozygosity for recessive mutations.As an alternative, the end-joining reaction simply links ends of a DSB together, without any template, using the end-binding KU70/80 complex and DNA-PK cs , followed by ligation by XRCC4-ligase4 (reviewed by 27,33; see the right panel of the figure, stages V-VII).The function of KU70/80 might involve end protection and approximating the ends, in addition to a signalling function by DNA-PK cs .End joining may be further facilitated when the ends are still held together through nucleosomes or other structures.End joining is sometimes associated with gain or loss of a few nucleotides if internal microhomologies are used for annealing before sealing.This implies the involvement of DNA polymerases and/or nucleases.Note that the KU complex is also involved in telomere metabolism 27,62 .found to be lethal 34 .Inactivation of ATR by itself is inviable already at the blastocyst stage.Inactivation of BRCA1 and BRCA2 in mice is also embryonically lethal; cell lines display defects in homologous recombination [35][36][37] ."
+                },
+                {
+                    "document_id": "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262",
+                    "text": "371\n\nA tentative scenario for the homologousrecombination reaction is depicted in the left panel of the figure.To promote strand invasion into homologous sequences, the 5፱-3፱ exonuclease activity of the RAD50/MRE11/NBS1 complex (also a substrate for ATM phosphorylation) exposes both 3፱ ends 30 (I).RPA facilitates assembly of a RAD51 nucleoprotein filament that probably includes RAD51-related proteins XRCC2, XRCC3, RAD51B, C and D. RAD52 stimulates filament assembly (II).RAD51 has, like its Escherichia coli RecA counterpart, the ability to exchange the single strand with the same sequence from a double-stranded DNA molecule.Correct positioning of the sister chromatids by cohesins probably facilitates the identification of a homologous sequence.A candidate for the complex chromatin transactions associated with these DNA gymnastics is RAD54, a member of the SWI/SNF family of DNA-dependent ATPases.After identification of the identical sister chromatid sequence, the intact double-stranded copy is used as a template to properly heal the broken ends by DNA synthesis (III).Finally, the so-called Hollidayjunctions are resolved by resolvases 27,33,60 (IV).Homologous recombination involves the simultaneous action of large numbers of the same molecules, which are found to be concentrated in radiation-induced nuclear foci.These depend on, and also include, the BRCA1 and BRCA2 proteins 36 .Recent evidence implicates BRCA2 directly or indirectly in nuclear translocation of RAD51 (ref.61)."
+                }
+            ],
+            "748cfe7e-e4f2-453f-8575-50dfe84e2538": [
+                {
+                    "document_id": "748cfe7e-e4f2-453f-8575-50dfe84e2538",
+                    "text": "\n\nThis picture poses more questions than it seeks to answer.Is the grouping of the regions by product rather than by type of region correct?Given that the recombina- tion fraction between HLA-A and HLA-B is of the order of .08%,and that this is likely to represent a distance of at least hundreds of thousands of nucleotides, how are the pieces put together over such relatively long distances?Is it possible that regions of the DNA loop out, so that transcripts can be made directly from noncon- tiguous DNA sequences, the loops being held in place by small RNAs as suggested for the control of splicing by Steitz, and her colleagues [24] and by others [25]?If these small RNAs are coded for well outside the HLA region, does this provide a mechanism for control of expression of products by unlinked genes, as may be the case for one of the constituent polypeptides of the HLA-DR product?What might be the nature of the signals that control which of a multiple set of alternative regions is expressed by any given chromosome?"
+                }
+            ],
+            "7a451204-390c-4ff2-8a1d-b4de62b73503": [
+                {
+                    "document_id": "7a451204-390c-4ff2-8a1d-b4de62b73503",
+                    "text": "Mamm Genome. 2006; 17:220–229. [PubMed: 16518689]\n72. Romanoski CE, et al. Systems genetics analysis of gene-by-environment interactions in human\ncells. Am J Hum Genet. 2010; 86:399–410. [PubMed: 20170901]\n73. Myers S, Freeman C, Auton A, Donnelly P, McVean G. A common sequence motif associated\nwith recombination hot spots and genome instability in humans. Nature Genet. 2008; 40:1124–\n1129. [PubMed: 19165926]\n74. Myers S, et al. Drive against hotspot motifs in primates implicates the PRDM9 gene in meiotic\nrecombination. Science. 2010; 327:876–879. [PubMed: 20044541]\n75. Cordell HJ. Detecting gene-gene interactions that underlie human diseases. Nature Rev Genet. 2009; 10:392–404."
+                }
+            ],
+            "8604652e-2477-4552-8f43-f5f19e421df2": [
+                {
+                    "document_id": "8604652e-2477-4552-8f43-f5f19e421df2",
+                    "text": "Classification of common conserved sequences in mammalian\nintergenic regions. Hum. Mol. Genet. 2002, 11, 669–674. 25. Zhu, L.; Swergold, G.D.; Seldin, M.F. Examination of sequence homology between human\nchromosome 20 and the mouse genome: Intense conservation of many genomic elements. Hum. Genet. 2003, 113, 60–70. 26. Pevzner, P.; Tesler, G. Human and mouse genomic sequences reveal extensive breakpoint reuse in\nmammalian evolution. Proc. Natl. Acad. Sci. USA 2003, 100, 7672–7677. 27. Christmann, R.B. ; Sampaio-Barros, P.; Stifano, G.; Borges, C.L. ; de Carvalho, C.R. ; Kairalla, R.;\nParra, E.R. ; Spira, A.; Simms, R.; Capellozzi, V.L. ; et al."
+                }
+            ],
+            "9d82958a-45b0-4f1d-b765-38d018e4b140": [
+                {
+                    "document_id": "9d82958a-45b0-4f1d-b765-38d018e4b140",
+                    "text": "\n\na The table lists proteins in which mutations have been shown to increase homologous recombination (HR), gross chromosomal rearrangements (GCRs), chromosomal instability (CIN), sister chromatid exchanges (SCEs), tri-nucleotide repeat expansions and contractions (TNR), telomere fusions (Tel fusion), or fragile telomeres (Tel fragility).A phenotype inside brackets ([ ]) indicates that it is caused by overexpression of the protein.For further details and references see Supplementary Table1.Abbreviations: DSB, double-strand break; PCNA, proliferating cell nuclear antigen; RFC, replication factor C complex; SCF, Skp1-Cdc53/Cullin-F-box."
+                },
+                {
+                    "document_id": "9d82958a-45b0-4f1d-b765-38d018e4b140",
+                    "text": "\n\nFigure 3 Intermediates and chromosome structural alterations, as observed by different techniques. (a) Replication fork stalling, as monitored by 2D-gel electrophoresis and Southern analysis in yeast (for details about the technique, see Reference 161). (b) Slower human replication forks covering shorter DNA synthesis tracks, as determined by incorporation of IdU and CldU via DNA combing (52), which permits visualization of the process of replication on DNA fibers. (c) Accumulation of double-strand breaks (DSBs) or replicative stress, as inferred by γH2AX foci or by γH2AX pan staining, respectively, in human cells. (d ) DSBs or ssDNA (single-stranded DNA) gaps as seen directly by nuclear \"comet tails\" via single-cell electrophoresis assays in human cells (52). (e) Sister-chromatid exchanges (SCEs), as determined by Giemsa staining in human cells (207). ( f ) Hyper-recombination, as determined by colony sectoring in yeast (5). ( g) Gross chromosomal rearrangements (GCRs), as determined by spectral karyotyping in mouse cells (118). (h) Translocations, as visualized by pulse-field gel electrophoresis in yeast (168). (i ) Fragile sites, as detected by mitotic spreads in human cells (109). ( j) Telomere fusions, as determined by CO-FISH (chromosome-orientation fluorescent in situ hybridization) in mouse cells (124). (k) Anaphase bridges, presumably resulting from unfinished replication, dicentric chromosomes, and sister-chromatid nondisjunction, as detected by fluorescence microscopy in mouse cells.Arrows indicate the specific structural alterations referred to in each panel; in panel h, closed and open arrows indicate the position where the translocated or missing parental chromosome migrate or should migrate, respectively.When necessary, a normal control is shown on top of the panel, with the exception of panel a, which is shown on the left.Detailed description of each technique can be found in the references provided.Photos are from the laboratories of A. Nussenzweig ( g), A. Losada (k), M. Blasco ( j), L. Tora (i ), and ours (all others).Abbreviations: HR, homologous recombination; NHEJ, nonhomologous end-joining."
+                }
+            ],
+            "9ee491f4-5f16-4cb2-b803-54f2fdee1dba": [
+                {
+                    "document_id": "9ee491f4-5f16-4cb2-b803-54f2fdee1dba",
+                    "text": "\n\nIn humans, the pericentromeric region of chromosome 9 is densely packed with segmental genomic duplications (segdups) and is prone to microdeletions and microduplications. 5In order to evaluate this region for microdeletions and microduplications in family T, we screened genomic DNA from affected individual II-7 by arrayCGH with the Nimblegen HD2 platform with the previously described CHP-SKN sample 6 as the reference.Data were normalized and CNVs were called by identifying regions where Z-scores consistently deviated from the diploid mean.At 9q21.11, a genomic duplication of ~270 kb was apparent in the genomic DNA of II-7 (Figure 1D).The Genomic duplications may or may not be in tandem with their parent segment and may be either in the same or inverted orientation. 7We developed primers that would uniquely amplify genomic DNA with the duplication under each of these conditions.Forward (5 0 -CCCAGCAGA AGCAATGGTGGTAGCC-3 0 ) and reverse (5 0 -GGTGGTGAA TCCAAAAACACAAGAACAAAGTC-3 0 ) primers diagnostic for a tandem inverted duplication (Figure 2A) yielded products of expected size in family T relatives with hearing loss, but yielded no product in unaffected family T relatives (Figure 2B).Genotypes of all 58 participating relatives in family T indicated that the tandem inverted duplication was coinherited with hearing loss.The duplication spans approximately positions 71,705,804 to 71,974,823 (hg19) on chromosome 9 for a size of ~269,023 bp.The duplication includes the entire locus for the tight junction protein TJP2, which spans positions 71,788,971 to 71,870,124 (hg19)."
+                }
+            ],
+            "ab0a3234-c3b3-46be-8954-01eda9bc962e": [
+                {
+                    "document_id": "ab0a3234-c3b3-46be-8954-01eda9bc962e",
+                    "text": "Chromosomal context of human NORs\n\nHuman NORs are positioned on the short arms of the acrocentric chromosomes that still remain unsequenced and thus missing from the current human genome draft, GRCh38.p7.Seeking an understanding of the chromosomal context of human NORs and to identify potential NOR regulatory elements, my laboratory has begun to characterize the sequences on both proximal (centromeric) and distal (telomeric) sides of the rDNA arrays (Fig. 3A; Floutsakou et al. 2013).Building on earlier reports of sequences distal and proximal to the rDNA array on HSA21 and HSA22, respectively (Worton et al. 1988;Sakai et al. 1995;Gonzalez and Sylvester 1997), 207 kb of sequence immediately proximal and 379 kb distal to rDNA arrays have been reported recently (Floutsakou et al. 2013).Consensus proximal junction (PJ) and distal junction (DJ) sequences were constructed mostly from chromosome 21 BACs (bacterial artificial chromosomes).Comparison of these sequences with BACs and cosmids derived from the other acrocentrics revealed that the PJ and DJ sequences are, respectively, ∼95% and 99% identical between all five acrocentric chromosomes.Conservation of DJ sequences among the acrocentrics is consistent with frequent recombination between the rDNA arrays on each of the acrocentric chromosomes (Worton et al. 1988).However, conservation of PJ sequences suggests that there must also be frequent recombination events in the interval between the centromere and rDNA arrays.Proximal sequences are almost entirely segmentally duplicated, similar to the regions bordering centromeres.Consequently, they are unlikely to contain any specific elements that would regulate the activity of the linked NOR.In contrast, the distal sequence is predominantly unique to the acrocentric short arms and is dominated by a very large inverted repeat.Each arm of the inverted repeat is >100 kb, and they share an average sequence identity of 80%.There is a large (∼40-kb) block of a 48base-pair (bp) satellite repeat, CER, at the distal end of the DJ (Fig. 3A).CER blocks are found distal to the rDNA on all acrocentric chromosomes, with additional pericentromeric blocks on chromosomes 14 and 22. Finally, there are two blocks of a novel 138-bp tandem repeat, ACRO138, present within the DJ."
+                },
+                {
+                    "document_id": "ab0a3234-c3b3-46be-8954-01eda9bc962e",
+                    "text": "\n\nThe conservation of DJ sequence between the five human acrocentric chromosomes provides a unique opportunity to visualize NORs by FISH.Whereas the rDNA content of NORs can vary greatly, probing of human metaphase chromosome spreads with a DJ BAC results in signal that is consistent between NORs (Floutsakou et al. 2013).Using this probing scheme, it was observed that in most human cell lines analyzed, including multiple primary lines, at least one and sometimes as many as four of the NORs present have very little or no detectable rDNA (C van Vuuren and B McStay, unpubl. ).Many studies have used silver staining of metaphase spreads prepared from stimulated human peripheral blood lymphocytes to determine how many NORs are active in normal human cells.The number of active NORs ranges from seven to 10, with an average of eight (Heliot et al. 2000).Possibly, NORs with low rDNA content are active but fall below a detection threshold in silver staining.At this point, it is worth considering the distribution of active versus silent rDNA repeats in humans and other mammals.If 50% of rDNA repeats are truly repressed, there are insufficient \"silent\" NORs to house them.We must conclude that active NORs are a mosaic of active and silent repeats."
+                }
+            ],
+            "b04f2221-de28-4c4b-893e-9da982ff864c": [
+                {
+                    "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                    "text": "However, excluding some cases, recombination\nsuppression occurs in a small genomic tract\nwhere these genes are located, and it does\nnot extend over most of the sex chromosome\npair, as occurs in mammals and birds (Bergero\nand Charlesworth, 2009). It is not clear if this\nsuppression occurs by the presence of inversions or as a modulation of the recombination\nmechanism itself, but both could be involved\n(Bergero and Charlesworth, 2009). Evidence of\nrecombination in the SD region in sex reversal\nindividuals supports the second hypothesis."
+                }
+            ],
+            "d4fb56e4-06ab-4c01-b7a0-a193c4a40800": [
+                {
+                    "document_id": "d4fb56e4-06ab-4c01-b7a0-a193c4a40800",
+                    "text": "\n\nOrthologous chromosomes between baboon and human"
+                }
+            ],
+            "da485354-fcdc-49b8-9a41-0f673610156a": [
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "Lichter P, Cremer T, Borden J, Manuelidis L, Ward DC (1988) Delineation of\nindividual human chromosomes in metaphase and interphase cells by in situ suppression hybridization using recombinant DNA libraries. Hum Genet 80:224–234\n3. Jang W, Yonescu R, Knutsen T, Brown T, Reppert T, Sirotkin K, Schuler GD, Ried\nT, Kirsch IR (2006) Linking the human cytogenetic map with nucleotide sequence:\nthe CCAP clone set. Cancer Genet Cytogenet 168:89–97\n4."
+                },
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "Nature\nGenet 1:222–225\n55. Foote S, Vollrath D, Hilton A, Page DC (1992) The human Y chromosome: overlapping DNA clones spanning the euchromatic region. Science 258:60–66\n56. Chumakov IM, Rigault P, Le Gall I et al (1995) A YAC contig map of the human\ngenome. Nature 377:175–297\n57. Hudson TJ, Stein LD, Gerety SS et al (1995) An STS-based map of the human\ngenome. Science 270:1945–1954\n58. Coffey AJ, Roberts RG, Green ED et al (1992) Construction of a 2.6-Mb contig in\nyeast artificial chromosomes spanning the human dystrophin gene using an STSbased approach. Genomics 12:474–484\n59."
+                }
+            ],
+            "e4541c0c-53fb-4c2c-b550-40728c356549": [
+                {
+                    "document_id": "e4541c0c-53fb-4c2c-b550-40728c356549",
+                    "text": "\n\nFigure 4 Schematic depiction of proposed mechanisms for observed intrachromosomal rearrangements.The blue and red arrows indicate the orientation of the integrated plasmid loci and the recovered mouse sequences, respectively, on the original non-rearranged chromosome (left column).All four combinations are given for an arbitrarily orientated chromosome (green line).The middle column shows how two breakpoints (lightning signs) could lead to the inversion or deletion of the encompassed chromosomal sequence (yellow-orange dual tone line) and result in a recoverable mutation in the right column.The last row indicates the two options for a transposition, in which either the transgene locus or the recovered mouse sequence is copied or excised (as indicated by the pink and light blue arrows) and integrates in the breakpoint at the other location."
+                },
+                {
+                    "document_id": "e4541c0c-53fb-4c2c-b550-40728c356549",
+                    "text": "\n\nAs mentioned above, by taking into account that for a genome rearrangement to be detected, the 5Ј plasmid sequence of the breakpoint in lacZ must remain intact and end immediately in front of the recovered mouse sequence, the simplest intrachromosomal mutation that could have taken place was inferred (Fig. 4).Rearrangements with breakpoints in the mouse genome on either site of the integrated plasmid concatamer, but with reversely orientated sequences, could be inversions (Fig. 4).Rearrangements in the direction of the integrated plasmids, proximal for chromosome 3 and distal for chromosome 4 (Fig. 3), with similarly orientated breakpoints in the mouse genome, could be deletions (Fig. 4).Rearrangements in the reverse direction of the integrated plasmids, with reversely orientated mouse sequences, are more complicated and might be owing to transpositions (Fig. 4).According to these schemes, half of the intrachromosomal rearrangements would have been inversions, whereas deletions and transpositions each made up one fourth (Fig. 3).Alternatively, these rearrangements could be explained by translocations involving the transgene clusters integrated on either the homolog or the other chromosome."
+                }
+            ],
+            "f08c0391-2d72-491c-a472-5db71bf11ac8": [
+                {
+                    "document_id": "f08c0391-2d72-491c-a472-5db71bf11ac8",
+                    "text": "\n\nFIGURE 3. Telomere arrays of chicken and human chromosomes: the chicken genome contains more telomere sequence than the human genome.Chicken (a) and human (b) metaphase chromosomes and interphase cells hybridized with a telomeric sequence-peptide nucleic acid (PNA)-fluorescein probe.Human and chicken slide preparations were processed, and images were captured using the same parameters.Qualitatively, the telomere-positive fluorescent signals (white spots) from chicken cells and chromosomes have greater intensity than those of human (4′,6 diamidino-2-phenylindole, DAPI counterstain)."
+                }
+            ],
+            "f4762690-64e9-4f6d-9031-c249dc4a6d85": [
+                {
+                    "document_id": "f4762690-64e9-4f6d-9031-c249dc4a6d85",
+                    "text": "\n\nIn a previous study on the accumulation of spontaneous genome rearrangements in normal mice with aging, we discovered that 50% of the events were intrachromosomal, i.e., large deletions or inversions [22].In contrast, in this present study most of the rearrangements resulted from inter-chromosomal recombination, in both the Ercc1-mutant and control animals (Table 3).Previously, we used lacZ-plasmid line 60 mice with integration sites on Chromosomes 3 and 4, while in the present study line 30 mice were used with a single integration site on Chromosome 11.This indicates that the relative frequency of translocations is founder line specific and could be due to the position of the lacZ-plasmid cluster on the chromosome.Indeed, the chromosomal integration sites in line 60 mice are in the E1 region of Chromosome 3 (half way along the chromosome) and the C5 region of Chromosome 4 (two-thirds of the way along the chromosome) [22], while the integration site of founder line 30 (used in this study) is on the centromeric tip of Chromosome 11 (region A1-A2; not shown).The proximal location on Chromosome 11 prevents the detection of all but relatively small intra-chromosomal recombinations; larger events would lead to loss of the centromere and, therefore, the entire chromosome.If the orientation of the integration site in line 30, which is currently unknown, is towards the centromere, transpositions and inversions towards the distal end are the only detectable large intra-chromosomal rearrangements (for a detailed explanation of the different chromosomal events that can occur at the lacZ locus, see [22])."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "f4762690-64e9-4f6d-9031-c249dc4a6d85",
+                "section_type": "main",
+                "text": "\n\nIn a previous study on the accumulation of spontaneous genome rearrangements in normal mice with aging, we discovered that 50% of the events were intrachromosomal, i.e., large deletions or inversions [22].In contrast, in this present study most of the rearrangements resulted from inter-chromosomal recombination, in both the Ercc1-mutant and control animals (Table 3).Previously, we used lacZ-plasmid line 60 mice with integration sites on Chromosomes 3 and 4, while in the present study line 30 mice were used with a single integration site on Chromosome 11.This indicates that the relative frequency of translocations is founder line specific and could be due to the position of the lacZ-plasmid cluster on the chromosome.Indeed, the chromosomal integration sites in line 60 mice are in the E1 region of Chromosome 3 (half way along the chromosome) and the C5 region of Chromosome 4 (two-thirds of the way along the chromosome) [22], while the integration site of founder line 30 (used in this study) is on the centromeric tip of Chromosome 11 (region A1-A2; not shown).The proximal location on Chromosome 11 prevents the detection of all but relatively small intra-chromosomal recombinations; larger events would lead to loss of the centromere and, therefore, the entire chromosome.If the orientation of the integration site in line 30, which is currently unknown, is towards the centromere, transpositions and inversions towards the distal end are the only detectable large intra-chromosomal rearrangements (for a detailed explanation of the different chromosomal events that can occur at the lacZ locus, see [22])."
+            },
+            {
+                "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                "section_type": "main",
+                "text": "Lichter P, Cremer T, Borden J, Manuelidis L, Ward DC (1988) Delineation of\nindividual human chromosomes in metaphase and interphase cells by in situ suppression hybridization using recombinant DNA libraries.  Hum Genet 80:224–234\n3.  Jang W, Yonescu R, Knutsen T, Brown T, Reppert T, Sirotkin K, Schuler GD, Ried\nT, Kirsch IR (2006) Linking the human cytogenetic map with nucleotide sequence:\nthe CCAP clone set.  Cancer Genet Cytogenet 168:89–97\n4."
+            },
+            {
+                "document_id": "9d82958a-45b0-4f1d-b765-38d018e4b140",
+                "section_type": "main",
+                "text": "\n\na The table lists proteins in which mutations have been shown to increase homologous recombination (HR), gross chromosomal rearrangements (GCRs), chromosomal instability (CIN), sister chromatid exchanges (SCEs), tri-nucleotide repeat expansions and contractions (TNR), telomere fusions (Tel fusion), or fragile telomeres (Tel fragility).A phenotype inside brackets ([ ]) indicates that it is caused by overexpression of the protein.For further details and references see Supplementary Table1.Abbreviations: DSB, double-strand break; PCNA, proliferating cell nuclear antigen; RFC, replication factor C complex; SCF, Skp1-Cdc53/Cullin-F-box."
+            },
+            {
+                "document_id": "395a51ba-bd2a-4160-8396-b13a3bf762ff",
+                "section_type": "main",
+                "text": "\n\nPrimate and mouse centromeric DNA contain the CENP-B box, a 17-bp motif that is bound by the centromere protein CENP-B.In humans, the CENP-B box is present on every chromosome except for the Y chromosome [20].It is paradoxically necessary for formation of de novo centromeres on artificial chromosomes, but it is not essential for the formation of neocentromeres, and mice lacking CENP-B are viable and fertile [21,22]."
+            },
+            {
+                "document_id": "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262",
+                "section_type": "main",
+                "text": "Box 3 Mechanism of homologous recombination and end joining\n\nThe severe phenotype of the mouse mutants and the highly cancer-prone human syndromes highlight the importance of homologous recombination.Mouse KU mutants display sensitivity to agents that lead to breaks in DNA, and have immunological problems because the KU proteins are involved in V(D)J recombination of antibody gene sequences.In addition, these mutants display poor development, several features of premature ageing and increased apoptosis of postmitotic neurons in the developing brain.Mice with defects in DNA-PK cs (SCID mice) display a similar but generally milder phenotype.In contrast, XRCC4-and ligase IV-knockout mice seem more severe, with late embryonic lethality resulting from massive ATM-and p53-dependent neuronal apoptosis 33,38 ."
+            },
+            {
+                "document_id": "7a451204-390c-4ff2-8a1d-b4de62b73503",
+                "section_type": "main",
+                "text": "Mamm Genome.  2006; 17:220–229.  [PubMed: 16518689]\n72.  Romanoski CE, et al.  Systems genetics analysis of gene-by-environment interactions in human\ncells.  Am J Hum Genet.  2010; 86:399–410.  [PubMed: 20170901]\n73.  Myers S, Freeman C, Auton A, Donnelly P, McVean G. A common sequence motif associated\nwith recombination hot spots and genome instability in humans.  Nature Genet.  2008; 40:1124–\n1129.  [PubMed: 19165926]\n74.  Myers S, et al.  Drive against hotspot motifs in primates implicates the PRDM9 gene in meiotic\nrecombination.  Science.  2010; 327:876–879.  [PubMed: 20044541]\n75.  Cordell HJ.  Detecting gene-gene interactions that underlie human diseases.  Nature Rev Genet.\n 2009; 10:392–404."
+            },
+            {
+                "document_id": "d4fb56e4-06ab-4c01-b7a0-a193c4a40800",
+                "section_type": "main",
+                "text": "\n\nOrthologous chromosomes between baboon and human"
+            },
+            {
+                "document_id": "748cfe7e-e4f2-453f-8575-50dfe84e2538",
+                "section_type": "main",
+                "text": "\n\nThis picture poses more questions than it seeks to answer.Is the grouping of the regions by product rather than by type of region correct?Given that the recombina- tion fraction between HLA-A and HLA-B is of the order of .08%,and that this is likely to represent a distance of at least hundreds of thousands of nucleotides, how are the pieces put together over such relatively long distances?Is it possible that regions of the DNA loop out, so that transcripts can be made directly from noncon- tiguous DNA sequences, the loops being held in place by small RNAs as suggested for the control of splicing by Steitz, and her colleagues [24] and by others [25]?If these small RNAs are coded for well outside the HLA region, does this provide a mechanism for control of expression of products by unlinked genes, as may be the case for one of the constituent polypeptides of the HLA-DR product?What might be the nature of the signals that control which of a multiple set of alternative regions is expressed by any given chromosome?"
+            },
+            {
+                "document_id": "e4541c0c-53fb-4c2c-b550-40728c356549",
+                "section_type": "main",
+                "text": "\n\nFigure 4 Schematic depiction of proposed mechanisms for observed intrachromosomal rearrangements.The blue and red arrows indicate the orientation of the integrated plasmid loci and the recovered mouse sequences, respectively, on the original non-rearranged chromosome (left column).All four combinations are given for an arbitrarily orientated chromosome (green line).The middle column shows how two breakpoints (lightning signs) could lead to the inversion or deletion of the encompassed chromosomal sequence (yellow-orange dual tone line) and result in a recoverable mutation in the right column.The last row indicates the two options for a transposition, in which either the transgene locus or the recovered mouse sequence is copied or excised (as indicated by the pink and light blue arrows) and integrates in the breakpoint at the other location."
+            },
+            {
+                "document_id": "f08c0391-2d72-491c-a472-5db71bf11ac8",
+                "section_type": "main",
+                "text": "\n\nFIGURE 3. Telomere arrays of chicken and human chromosomes: the chicken genome contains more telomere sequence than the human genome.Chicken (a) and human (b) metaphase chromosomes and interphase cells hybridized with a telomeric sequence-peptide nucleic acid (PNA)-fluorescein probe.Human and chicken slide preparations were processed, and images were captured using the same parameters.Qualitatively, the telomere-positive fluorescent signals (white spots) from chicken cells and chromosomes have greater intensity than those of human (4′,6 diamidino-2-phenylindole, DAPI counterstain)."
+            },
+            {
+                "document_id": "e4541c0c-53fb-4c2c-b550-40728c356549",
+                "section_type": "main",
+                "text": "\n\nAs mentioned above, by taking into account that for a genome rearrangement to be detected, the 5Ј plasmid sequence of the breakpoint in lacZ must remain intact and end immediately in front of the recovered mouse sequence, the simplest intrachromosomal mutation that could have taken place was inferred (Fig. 4).Rearrangements with breakpoints in the mouse genome on either site of the integrated plasmid concatamer, but with reversely orientated sequences, could be inversions (Fig. 4).Rearrangements in the direction of the integrated plasmids, proximal for chromosome 3 and distal for chromosome 4 (Fig. 3), with similarly orientated breakpoints in the mouse genome, could be deletions (Fig. 4).Rearrangements in the reverse direction of the integrated plasmids, with reversely orientated mouse sequences, are more complicated and might be owing to transpositions (Fig. 4).According to these schemes, half of the intrachromosomal rearrangements would have been inversions, whereas deletions and transpositions each made up one fourth (Fig. 3).Alternatively, these rearrangements could be explained by translocations involving the transgene clusters integrated on either the homolog or the other chromosome."
+            },
+            {
+                "document_id": "ab0a3234-c3b3-46be-8954-01eda9bc962e",
+                "section_type": "main",
+                "text": "Chromosomal context of human NORs\n\nHuman NORs are positioned on the short arms of the acrocentric chromosomes that still remain unsequenced and thus missing from the current human genome draft, GRCh38.p7.Seeking an understanding of the chromosomal context of human NORs and to identify potential NOR regulatory elements, my laboratory has begun to characterize the sequences on both proximal (centromeric) and distal (telomeric) sides of the rDNA arrays (Fig. 3A; Floutsakou et al. 2013).Building on earlier reports of sequences distal and proximal to the rDNA array on HSA21 and HSA22, respectively (Worton et al. 1988;Sakai et al. 1995;Gonzalez and Sylvester 1997), 207 kb of sequence immediately proximal and 379 kb distal to rDNA arrays have been reported recently (Floutsakou et al. 2013).Consensus proximal junction (PJ) and distal junction (DJ) sequences were constructed mostly from chromosome 21 BACs (bacterial artificial chromosomes).Comparison of these sequences with BACs and cosmids derived from the other acrocentrics revealed that the PJ and DJ sequences are, respectively, ∼95% and 99% identical between all five acrocentric chromosomes.Conservation of DJ sequences among the acrocentrics is consistent with frequent recombination between the rDNA arrays on each of the acrocentric chromosomes (Worton et al. 1988).However, conservation of PJ sequences suggests that there must also be frequent recombination events in the interval between the centromere and rDNA arrays.Proximal sequences are almost entirely segmentally duplicated, similar to the regions bordering centromeres.Consequently, they are unlikely to contain any specific elements that would regulate the activity of the linked NOR.In contrast, the distal sequence is predominantly unique to the acrocentric short arms and is dominated by a very large inverted repeat.Each arm of the inverted repeat is >100 kb, and they share an average sequence identity of 80%.There is a large (∼40-kb) block of a 48base-pair (bp) satellite repeat, CER, at the distal end of the DJ (Fig. 3A).CER blocks are found distal to the rDNA on all acrocentric chromosomes, with additional pericentromeric blocks on chromosomes 14 and 22. Finally, there are two blocks of a novel 138-bp tandem repeat, ACRO138, present within the DJ."
+            },
+            {
+                "document_id": "b04f2221-de28-4c4b-893e-9da982ff864c",
+                "section_type": "main",
+                "text": "However, excluding some cases, recombination\nsuppression occurs in a small genomic tract\nwhere these genes are located, and it does\nnot extend over most of the sex chromosome\npair, as occurs in mammals and birds (Bergero\nand Charlesworth, 2009).  It is not clear if this\nsuppression occurs by the presence of inversions or as a modulation of the recombination\nmechanism itself, but both could be involved\n(Bergero and Charlesworth, 2009).  Evidence of\nrecombination in the SD region in sex reversal\nindividuals supports the second hypothesis."
+            },
+            {
+                "document_id": "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262",
+                "section_type": "main",
+                "text": "\n\nCells in G1 have only the homologous chromosome for recombination repair.However, this may be difficult to find in the complex genome.Moreover, it is potentially dangerous as a template for repair as it may lead to homozygosity for recessive mutations.As an alternative, the end-joining reaction simply links ends of a DSB together, without any template, using the end-binding KU70/80 complex and DNA-PK cs , followed by ligation by XRCC4-ligase4 (reviewed by 27,33; see the right panel of the figure, stages V-VII).The function of KU70/80 might involve end protection and approximating the ends, in addition to a signalling function by DNA-PK cs .End joining may be further facilitated when the ends are still held together through nucleosomes or other structures.End joining is sometimes associated with gain or loss of a few nucleotides if internal microhomologies are used for annealing before sealing.This implies the involvement of DNA polymerases and/or nucleases.Note that the KU complex is also involved in telomere metabolism 27,62 .found to be lethal 34 .Inactivation of ATR by itself is inviable already at the blastocyst stage.Inactivation of BRCA1 and BRCA2 in mice is also embryonically lethal; cell lines display defects in homologous recombination [35][36][37] ."
+            },
+            {
+                "document_id": "9d82958a-45b0-4f1d-b765-38d018e4b140",
+                "section_type": "main",
+                "text": "\n\nFigure 3 Intermediates and chromosome structural alterations, as observed by different techniques. (a) Replication fork stalling, as monitored by 2D-gel electrophoresis and Southern analysis in yeast (for details about the technique, see Reference 161). (b) Slower human replication forks covering shorter DNA synthesis tracks, as determined by incorporation of IdU and CldU via DNA combing (52), which permits visualization of the process of replication on DNA fibers. (c) Accumulation of double-strand breaks (DSBs) or replicative stress, as inferred by γH2AX foci or by γH2AX pan staining, respectively, in human cells. (d ) DSBs or ssDNA (single-stranded DNA) gaps as seen directly by nuclear \"comet tails\" via single-cell electrophoresis assays in human cells (52). (e) Sister-chromatid exchanges (SCEs), as determined by Giemsa staining in human cells (207). ( f ) Hyper-recombination, as determined by colony sectoring in yeast (5). ( g) Gross chromosomal rearrangements (GCRs), as determined by spectral karyotyping in mouse cells (118). (h) Translocations, as visualized by pulse-field gel electrophoresis in yeast (168). (i ) Fragile sites, as detected by mitotic spreads in human cells (109). ( j) Telomere fusions, as determined by CO-FISH (chromosome-orientation fluorescent in situ hybridization) in mouse cells (124). (k) Anaphase bridges, presumably resulting from unfinished replication, dicentric chromosomes, and sister-chromatid nondisjunction, as detected by fluorescence microscopy in mouse cells.Arrows indicate the specific structural alterations referred to in each panel; in panel h, closed and open arrows indicate the position where the translocated or missing parental chromosome migrate or should migrate, respectively.When necessary, a normal control is shown on top of the panel, with the exception of panel a, which is shown on the left.Detailed description of each technique can be found in the references provided.Photos are from the laboratories of A. Nussenzweig ( g), A. Losada (k), M. Blasco ( j), L. Tora (i ), and ours (all others).Abbreviations: HR, homologous recombination; NHEJ, nonhomologous end-joining."
+            },
+            {
+                "document_id": "8604652e-2477-4552-8f43-f5f19e421df2",
+                "section_type": "main",
+                "text": "Classification of common conserved sequences in mammalian\nintergenic regions.  Hum.  Mol.  Genet.  2002, 11, 669–674.\n 25.  Zhu, L.; Swergold, G.D.; Seldin, M.F.  Examination of sequence homology between human\nchromosome 20 and the mouse genome: Intense conservation of many genomic elements.  Hum.  Genet.\n 2003, 113, 60–70.\n 26.  Pevzner, P.; Tesler, G. Human and mouse genomic sequences reveal extensive breakpoint reuse in\nmammalian evolution.  Proc.  Natl.  Acad.  Sci.  USA 2003, 100, 7672–7677.\n 27.  Christmann, R.B. ; Sampaio-Barros, P.; Stifano, G.; Borges, C.L. ; de Carvalho, C.R. ; Kairalla, R.;\nParra, E.R. ; Spira, A.; Simms, R.; Capellozzi, V.L. ; et al."
+            },
+            {
+                "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                "section_type": "main",
+                "text": "Nature\nGenet 1:222–225\n55.  Foote S, Vollrath D, Hilton A, Page DC (1992) The human Y chromosome: overlapping DNA clones spanning the euchromatic region.  Science 258:60–66\n56.  Chumakov IM, Rigault P, Le Gall I et al (1995) A YAC contig map of the human\ngenome.  Nature 377:175–297\n57.  Hudson TJ, Stein LD, Gerety SS et al (1995) An STS-based map of the human\ngenome.  Science 270:1945–1954\n58.  Coffey AJ, Roberts RG, Green ED et al (1992) Construction of a 2.6-Mb contig in\nyeast artificial chromosomes spanning the human dystrophin gene using an STSbased approach.  Genomics 12:474–484\n59."
+            },
+            {
+                "document_id": "9ee491f4-5f16-4cb2-b803-54f2fdee1dba",
+                "section_type": "main",
+                "text": "\n\nIn humans, the pericentromeric region of chromosome 9 is densely packed with segmental genomic duplications (segdups) and is prone to microdeletions and microduplications. 5In order to evaluate this region for microdeletions and microduplications in family T, we screened genomic DNA from affected individual II-7 by arrayCGH with the Nimblegen HD2 platform with the previously described CHP-SKN sample 6 as the reference.Data were normalized and CNVs were called by identifying regions where Z-scores consistently deviated from the diploid mean.At 9q21.11, a genomic duplication of ~270 kb was apparent in the genomic DNA of II-7 (Figure 1D).The Genomic duplications may or may not be in tandem with their parent segment and may be either in the same or inverted orientation. 7We developed primers that would uniquely amplify genomic DNA with the duplication under each of these conditions.Forward (5 0 -CCCAGCAGA AGCAATGGTGGTAGCC-3 0 ) and reverse (5 0 -GGTGGTGAA TCCAAAAACACAAGAACAAAGTC-3 0 ) primers diagnostic for a tandem inverted duplication (Figure 2A) yielded products of expected size in family T relatives with hearing loss, but yielded no product in unaffected family T relatives (Figure 2B).Genotypes of all 58 participating relatives in family T indicated that the tandem inverted duplication was coinherited with hearing loss.The duplication spans approximately positions 71,705,804 to 71,974,823 (hg19) on chromosome 9 for a size of ~269,023 bp.The duplication includes the entire locus for the tight junction protein TJP2, which spans positions 71,788,971 to 71,870,124 (hg19)."
+            },
+            {
+                "document_id": "3dfe0ec3-b3a6-4a08-8929-e54cab3ec262",
+                "section_type": "main",
+                "text": "371\n\nA tentative scenario for the homologousrecombination reaction is depicted in the left panel of the figure.To promote strand invasion into homologous sequences, the 5፱-3፱ exonuclease activity of the RAD50/MRE11/NBS1 complex (also a substrate for ATM phosphorylation) exposes both 3፱ ends 30 (I).RPA facilitates assembly of a RAD51 nucleoprotein filament that probably includes RAD51-related proteins XRCC2, XRCC3, RAD51B, C and D. RAD52 stimulates filament assembly (II).RAD51 has, like its Escherichia coli RecA counterpart, the ability to exchange the single strand with the same sequence from a double-stranded DNA molecule.Correct positioning of the sister chromatids by cohesins probably facilitates the identification of a homologous sequence.A candidate for the complex chromatin transactions associated with these DNA gymnastics is RAD54, a member of the SWI/SNF family of DNA-dependent ATPases.After identification of the identical sister chromatid sequence, the intact double-stranded copy is used as a template to properly heal the broken ends by DNA synthesis (III).Finally, the so-called Hollidayjunctions are resolved by resolvases 27,33,60 (IV).Homologous recombination involves the simultaneous action of large numbers of the same molecules, which are found to be concentrated in radiation-induced nuclear foci.These depend on, and also include, the BRCA1 and BRCA2 proteins 36 .Recent evidence implicates BRCA2 directly or indirectly in nuclear translocation of RAD51 (ref.61)."
+            },
+            {
+                "document_id": "ab0a3234-c3b3-46be-8954-01eda9bc962e",
+                "section_type": "main",
+                "text": "\n\nThe conservation of DJ sequence between the five human acrocentric chromosomes provides a unique opportunity to visualize NORs by FISH.Whereas the rDNA content of NORs can vary greatly, probing of human metaphase chromosome spreads with a DJ BAC results in signal that is consistent between NORs (Floutsakou et al. 2013).Using this probing scheme, it was observed that in most human cell lines analyzed, including multiple primary lines, at least one and sometimes as many as four of the NORs present have very little or no detectable rDNA (C van Vuuren and B McStay, unpubl. ).Many studies have used silver staining of metaphase spreads prepared from stimulated human peripheral blood lymphocytes to determine how many NORs are active in normal human cells.The number of active NORs ranges from seven to 10, with an average of eight (Heliot et al. 2000).Possibly, NORs with low rDNA content are active but fall below a detection threshold in silver staining.At this point, it is worth considering the distribution of active versus silent rDNA repeats in humans and other mammals.If 50% of rDNA repeats are truly repressed, there are insufficient \"silent\" NORs to house them.We must conclude that active NORs are a mosaic of active and silent repeats."
+            },
+            {
+                "document_id": "e4541c0c-53fb-4c2c-b550-40728c356549",
+                "section_type": "main",
+                "text": "\n\nOne possible explanation for the high number of genome rearrangements observed in this present study is that some or even most of the events scored by us as genome rearrangements are artifacts of the procedure applied to recover the mutant plasmids (Fig. 1).Although it is impossible to completely rule this out, we have addressed the possibility of artifacts extensively in a previous paper in which various control experiments had been performed on plasmids grown in E. coli, mixed with nontransgenic mouse genomic DNA, and mock-rescued into E. coli.Such experiments generally indicated significantly lower mutation frequencies in E. coli than in the mouse and no evidence for genome rearrangements as indicated by a mouse sequence at a lacZ breakpoint (Dolle ´et al. 1999b).Also, enhanced instability caused by the artificial nature of the lacZ-plasmid cluster in the mouse genome is unlikely to be responsible for the observed mutations.Indeed, neither the mutation frequencies nor their spectra are dramatically different from results reported with endogenous reporter genes such as HPRT, APRT, or HLA.Mutation frequencies at these loci were generally in the same range as our own values and also indicated a significant fraction of all mutations caused by genome rearrangements (Grist Significance between age groups within organs for genome rearrangements using the Wilcoxon rank sum test.et al. 1992;Dempsey et al. 1993;Stambrook et al. 1996;Albertini 2001).In general, mutation frequencies at HPRT were among the lowest, possibly because of selection against HPRT mutant lymphocytes in vivo.Interestingly, although virtually all results obtained with HPRT and other endogenous reporters involved lymphocytes, in a study using human kidney cells, significantly higher mutation frequencies were found, that is, up to ∼4 ‫ן‬ 10 ‫4מ‬ , than in lymphocytes (Martin et al. 1996;Colgin et al. 2002).This could reflect a significantly lower selection pressure operating on kidney cells than in lymphocytes.About 15% of these HPRT mutations were genome rearrangements such as deletions.Based on the 44-kb target size of HPRT, a similar extrapolation as performed for the lacZ-reporter gene resulted in up to four genome rearrangements per kidney cell, which might be an underestimate owing to the lethality of such events at this X-linked locus.Preliminary data on the same lacZ-reporter construct, but now integrated as a single copy transgene, in Drosophila show a similar or even higher frequency of genome rearrangements, also indicating that the concatamer of constructs in the current mouse model is not intrinsically less stable than a single copy transgene.Finally, the observed organ specificities and age-related increase make it highly unlikely that a significant fraction of the mutants scored in our system as genome rearrangements are artifacts."
+            },
+            {
+                "document_id": "ab37ae93-c6dd-41a2-a9d0-35666249c057",
+                "section_type": "main",
+                "text": "\n\nUnfortunately, flanking regions of 80 bp in length, that could be synthesized as oligonucleotide primers and used in a one-step PCR strategy as in S. cerevisiae (Baudin et al. 1993;Lorenz et al. 1995), appear to be insufficient to allow efficient homologous recombination in U. maydis (A. Brachmann, unpublished).Therefore we designed primers to amplify flanking regions for homologous recombination that are between 0.8 and 1 kb in length.Flanking sequences of this length have been shown to be sufficient to generate gene disruption mutants in eight different cases in two wild type strains each.The rate of homologous integration varied between 3% and 40%, with an average of 13% (P.Becht and M. Feldbru¨gge, unpublished).Using the SfiI sites that are introduced by PCR, the flanking regions can be combined with any gene replacement insert from our collection."
+            },
+            {
+                "document_id": "bd0f30e8-81e1-4553-bf88-762bc49197a3",
+                "section_type": "main",
+                "text": "\n\nEven with a large amount of human genomic DNA surrounding the repeat, the third characteristic (range of amplifications) remains moderate in our models, in the mice carrying 45 CAG in the AR YAC (44) and in the transgenic mice carrying 78 CAG in the DRPLA gene (45).In all CAG repeat models, the range of amplification is smaller in mice and there is often a tendency towards contraction after female transmissions.Using a large repeat surrounded by extensive human genomic flanking sequences, we obtained a higher range of expansions, and CTG repeat instability was remarkably similar in its characteristics and dynamics to the CTG repeat instability observed in DM patients.However, even with > 300 CTG, the largest amplification observed in a single generation was 60 CTG.Enlargements of several hundred repeats (or 'big jumps'), which are observed in DM families, were not observed in mice.If intergenerational instability results from the mosaicism observed in the germline, with enlargement of the CTG repeat throughout life, then the lower level of amplification in mice may result from their shorter reproductive life-span, as suggested previously (45).Alternatively, the mechanisms involved in trinucleotide repeat instability may act at a greater repeat length in mice than in humans.The DNA repair system may be more efficient and the repeat size threshold for 'big jumps' may be higher in mice.We found a negative correlation between the size of the repeat and the range of expansions after male but not after female transmission.Therefore, we will continue to breed DM300 transgenic females to determine the extent to which the repeat can be expanded in mouse and whether a threshold can be reached to obtain big jumps in amplification."
+            },
+            {
+                "document_id": "f0db8a37-76fc-4eaf-a667-4d2422ecc32f",
+                "section_type": "main",
+                "text": "\n\nFigure 1.The density of interspersed repeats and processed pseudogenes in (a) the mouse and (b) the human genomes.Pseudogene and the repeats are grouped according to the G þ C content of the surrounding 100-kb DNA.TRENDS in Genetics"
+            },
+            {
+                "document_id": "9588738f-b0d2-4b37-9554-f0699a66c4fb",
+                "section_type": "main",
+                "text": "[PMID: 19426536]\nWong AC, Shkolny D, Dorman A, Willingham D, Roe BA,\nMcDermid HE.  Two novel human RAB genes with near\nidentical sequence each map to a telomere-associated region:\nthe subtelomeric region of 22q13.3 and the ancestral telomere\nband 2q13.  Genomics 1999; 59:326-34.  [PMID: 10444334]\nMah N, Stoehr H, Schulz HL, White K, Weber BH.\n Identification of a novel retina-specific gene located in a\nsubtelomeric region with polymorphic distribution among\nmultiple human chromosomes.  Biochim Biophys Acta 2001;\n1522:167-74.  [PMID: 11779631]\nMalone K, Sohocki MM, Sullivan LS, Daiger SP.  Identifying\nand mapping novel retinal-expressed ESTs from humans.  Mol\nVis 1999; 5:5."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "Proc Natl Acad Sci U S A 102, 4795–4800.\n Martin, J., Han, C., Gordon, L. A. et al.  (2004).  The sequence and analysis of duplication-rich\nhuman chromosome 16.  Nature 432, 988–994.\n Mattick, J. S. (2004).  RNA regulation: a new genetics?  Nat Rev Genet 5, 316–323.\n Mayor, C., Brudno, M., Schwartz, J. R. et al.  (2000).  VISTA: visualizing global DNA sequence\nalignments of arbitrary length.  Bioinformatics 16, 1046–1047.\n McDonald, J. H. and Kreitman, M. (1991).  Adaptive protein evolution at the Adh locus in\nDrosophila.  Nature 351, 652–654.\n Miles, C., Elgar, G., Coles, E. et al.  (1998)."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "Proc Natl Acad Sci U S A 102, 4795–4800.\n Martin, J., Han, C., Gordon, L. A. et al.  (2004).  The sequence and analysis of duplication-rich\nhuman chromosome 16.  Nature 432, 988–994.\n Mattick, J. S. (2004).  RNA regulation: a new genetics?  Nat Rev Genet 5, 316–323.\n Mayor, C., Brudno, M., Schwartz, J. R. et al.  (2000).  VISTA: visualizing global DNA sequence\nalignments of arbitrary length.  Bioinformatics 16, 1046–1047.\n McDonald, J. H. and Kreitman, M. (1991).  Adaptive protein evolution at the Adh locus in\nDrosophila.  Nature 351, 652–654.\n Miles, C., Elgar, G., Coles, E. et al.  (1998)."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "Proc Natl Acad Sci U S A 102, 4795–4800.\n Martin, J., Han, C., Gordon, L. A. et al.  (2004).  The sequence and analysis of duplication-rich\nhuman chromosome 16.  Nature 432, 988–994.\n Mattick, J. S. (2004).  RNA regulation: a new genetics?  Nat Rev Genet 5, 316–323.\n Mayor, C., Brudno, M., Schwartz, J. R. et al.  (2000).  VISTA: visualizing global DNA sequence\nalignments of arbitrary length.  Bioinformatics 16, 1046–1047.\n McDonald, J. H. and Kreitman, M. (1991).  Adaptive protein evolution at the Adh locus in\nDrosophila.  Nature 351, 652–654.\n Miles, C., Elgar, G., Coles, E. et al.  (1998)."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "Proc Natl Acad Sci U S A 102, 4795–4800.\n Martin, J., Han, C., Gordon, L. A. et al.  (2004).  The sequence and analysis of duplication-rich\nhuman chromosome 16.  Nature 432, 988–994.\n Mattick, J. S. (2004).  RNA regulation: a new genetics?  Nat Rev Genet 5, 316–323.\n Mayor, C., Brudno, M., Schwartz, J. R. et al.  (2000).  VISTA: visualizing global DNA sequence\nalignments of arbitrary length.  Bioinformatics 16, 1046–1047.\n McDonald, J. H. and Kreitman, M. (1991).  Adaptive protein evolution at the Adh locus in\nDrosophila.  Nature 351, 652–654.\n Miles, C., Elgar, G., Coles, E. et al.  (1998)."
+            },
+            {
+                "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                "section_type": "main",
+                "text": "Kim UJ, Shizuya H, de Jong, PJ, Birren B, and Simon MI (1992) Stable propagation of cosmid sized human DNA inserts in an F factor based vector.  Nucleic Acids\nRes 20:1083–1085\n17.  Hoskins RA, Nelson CR, Berman BP et al (2000) A BAC-based physical map of\nthe major autosomes of Drosophila melanogaster.  Science 287:2271–2274\n18.  Morton NE.  (1991) Parameters of the human genome Proc Natl Acad Sci USA\n88:7474–6\n19. International Human Genome Sequencing Consortium (2001) Initial sequencing\nand analysis of the human genome.  Nature 409:860–921\n20."
+            },
+            {
+                "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                "section_type": "main",
+                "text": "(2004) were selected, from chromosome\n21, on the basis of a simple threshold identity in man to mouse alignment, and also\non the ability to PCR amplify homologous sequences from 14 mammalian species.\n 134\n\nCH 6 COMPARATIVE GENOMICS\n\nConsequently, these sequences should represent the subset of CNGs that both have\nthe highest nucleotide identity and are the most constrained through mammalian\nevolution.  Ironically, a whole-genome analysis of non-coding conservation has since\nshown that human chromosome 21 is the only autosome devoid of so-called ultraconserved elements (Bejerano et al. , 2004)."
+            },
+            {
+                "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                "section_type": "main",
+                "text": "(2004) were selected, from chromosome\n21, on the basis of a simple threshold identity in man to mouse alignment, and also\non the ability to PCR amplify homologous sequences from 14 mammalian species.\n 134\n\nCH 6 COMPARATIVE GENOMICS\n\nConsequently, these sequences should represent the subset of CNGs that both have\nthe highest nucleotide identity and are the most constrained through mammalian\nevolution.  Ironically, a whole-genome analysis of non-coding conservation has since\nshown that human chromosome 21 is the only autosome devoid of so-called ultraconserved elements (Bejerano et al. , 2004)."
+            },
+            {
+                "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                "section_type": "main",
+                "text": "(2004) were selected, from chromosome\n21, on the basis of a simple threshold identity in man to mouse alignment, and also\non the ability to PCR amplify homologous sequences from 14 mammalian species.\n 134\n\nCH 6 COMPARATIVE GENOMICS\n\nConsequently, these sequences should represent the subset of CNGs that both have\nthe highest nucleotide identity and are the most constrained through mammalian\nevolution.  Ironically, a whole-genome analysis of non-coding conservation has since\nshown that human chromosome 21 is the only autosome devoid of so-called ultraconserved elements (Bejerano et al. , 2004)."
+            },
+            {
+                "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                "section_type": "main",
+                "text": "(2004) were selected, from chromosome\n21, on the basis of a simple threshold identity in man to mouse alignment, and also\non the ability to PCR amplify homologous sequences from 14 mammalian species.\n 134\n\nCH 6 COMPARATIVE GENOMICS\n\nConsequently, these sequences should represent the subset of CNGs that both have\nthe highest nucleotide identity and are the most constrained through mammalian\nevolution.  Ironically, a whole-genome analysis of non-coding conservation has since\nshown that human chromosome 21 is the only autosome devoid of so-called ultraconserved elements (Bejerano et al. , 2004)."
+            },
+            {
+                "document_id": "bd0f30e8-81e1-4553-bf88-762bc49197a3",
+                "section_type": "main",
+                "text": "\n\nIn all mouse models generated so far, the mutability of the CAG/CTG repeat appears to be strongly correlated with the size of the repeat but also with the presence of human flanking sequences.Long repeats (>100 CAG/CTG) are very unstable in mice (40,41,46); however, human flanking sequences seem to be necessary to reproduce instability for moderate amplifications such as 55 CTG in our mice, 45 CAG in the YAC carrying the SBMA gene or 78 CAG in the cosmid carrying the DRPLA gene (39,44,45).It has been observed that, for the CAG repeat involved in Huntington's disease (HD), the 48 repeats carried by a 4.6 kb fragment of human genomic flanking DNA are moderately unstable in transgenic mice, with 2% of meioses resulting in repeat changes.Interestingly, this 48 CAG repeat shows a similar frequency of mutation in knock-in experiments and a larger repeat of 109 CAG has a higher mutation frequency (73%) (46).These results also demonstrate the determinant effect of the size of the repeat for trinucleotide repeat mutability.In addition, comparison of these knock-in models with transgenic mice carrying stable 79 CAG repeats (37) suggests that, to some extent, the mouse hd cis-sequences allow some mutability of the CAG repeat.Such mutability probably depends on cross-species conservation of sequences and/or functional elements (like origin of replication) involved in the instability mechanisms.This crossspecies conservation may differ for the various loci involved in trinucleotide diseases."
+            },
+            {
+                "document_id": "e074ba47-cd7a-4bb2-8bcb-9a15da69cc2d",
+                "section_type": "main",
+                "text": "Effect of SNPs overlapping p53-RE half-sites\nUsing the p53-REs as a test case, we sought to assess the impact of human non-coding\nsingle nucleotide polymorphisms (SNPs) on the p53-RE transactivation capability.  To do\nthis, using the UCSC genome browser [99], we made an intersection of 199 validated\np53-REs and human non-coding SNPs.  There were 36 non-coding SNPs overlapping\nwith a known validated p53-RE (Table 2).  Of these 33 overlapped with dimers, out of\nwhich 10 SNPs were predicted to impact the transactivation capacity by our predictor."
+            },
+            {
+                "document_id": "ab0a3234-c3b3-46be-8954-01eda9bc962e",
+                "section_type": "main",
+                "text": "\n\nFigure 3.The chromosomal context of human NORs located on acrocentric short arms. (A) Schematic human acrocentric chromosome short arm showing the NOR (rDNA array), expanded below into rDNA repeats, and the PJ (orange) and DJ (green) regions.The DJ region is further expanded to show the location of inverted repeats (light green arrows), DJ promoters and transcripts, Acro138 repeat blocks (red), and CER satellite (blue). (B) Cartoonshowing the transition from normal nucleolar organization to segregated nucleolar organization in response to AMD treatment or the introduction of rDNA double-strand breaks (DSBs).rDNA (red) retreats from the nucleolar interior (black) to the nucleolar periphery, forming caps adjacent to DJ sequences (green) that are embedded in PNH (dark blue)(Floutsakou et al. 2013;van Sluis and McStay 2015)."
+            },
+            {
+                "document_id": "7a7773ed-2548-4297-86ad-b7ce115448e0",
+                "section_type": "main",
+                "text": "At the recombination joint points formed at the site of deletion, the IS-elements (or other transposable genetic elements), or\nrepeated sequences have been found in different species of bac-\n\nG. B. Smirnov\n\nteria (13, 45).  This means that the integrations of genetic material and deletions are facilitated by the listed types of nucleotide\nsequences forming the preferable recombination sites."
+            },
+            {
+                "document_id": "ad14b0c4-2a38-411b-9bb1-cacf9203f29d",
+                "section_type": "main",
+                "text": "At the recombination joint points formed at the site of deletion, the IS-elements (or other transposable genetic elements), or\nrepeated sequences have been found in different species of bac-\n\nG. B. Smirnov\n\nteria (13, 45).  This means that the integrations of genetic material and deletions are facilitated by the listed types of nucleotide\nsequences forming the preferable recombination sites."
+            },
+            {
+                "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                "section_type": "main",
+                "text": "Shao Z, Zhao H, Giver L, Arnold FH (1998) Random-priming in vitro recombination: an effective tool for directed evolution.  Nucleic Acids Res 26:\n681–683\n18.  Volkov AA, Shao Z, Arnold FH (1999) Recombination and chimeragenesis by in\nvitro heteroduplex formation and in vivo repair.  Nucleic Acids Res 27:e18\n19.  Voigt CA, Martinez C, Wang ZG, Mayo SL, Arnold FH (2002) Protein building\nblocks preserved by recombination.  Nat Struct Biol 9:553–558\n20.  Ostermeier M, Shim JH, Benkovic SJ (1999) A combinatorial approach to hybrid\nenzymes independent of DNA homology.  Nat Biotechnol 17:1205–1209\n21."
+            }
+        ],
+        "document_id": "575BE8FB36E8D520760A31B2CAE92034",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "CENP-B&box",
+            "human&centromeres",
+            "recombination",
+            "chromosome&11",
+            "Ercc1-mutant",
+            "lacZ-plasmid",
+            "inversions",
+            "translocations",
+            "NORs",
+            "rDNA"
+        ],
+        "metadata": [
+            {
+                "object": "we show that Wnt5a rapidly represses rDNA gene transcription in breast cancer cells and generates a chromatin state with reduced transcription of rDNA by RNA polymerase I Pol I. These effects were specifically dependent on Dishevelled1 DVL1, which accumulates in nucleolar organizer regions NORs and binds to rDNA regions of the chromosome.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1013349"
+            },
+            {
+                "object": "W22A, W22K, W22D, W22Y, and W22F substitutions were made in Munc13-1. The GFP-tagged constructs were expressed in Neuro-2a cells. Their membrane translocation in response to phorbol ester was observed in live cells by confocal microscopy. Munc13-1 translocated to the plasma membrane, the C1 domain translocated to internal membranes in response to phorbol ester. Trp-588 is important for ligand binding and translocation.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab997956"
+            },
+            {
+                "object": "results suggest that histone H1 represses recombination at the rDNA by a mechanism that is independent of the recombination pathways regulated by Sir2",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab669454"
+            },
+            {
+                "object": "during AID-induced class switch recombination, UNG in association with recombination factors may facilitate the stabilization of the S-S synapse to facilitate efficient recombination.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab243376"
+            },
+            {
+                "object": "Study found that HIF1alpha overexpression led to an enhanced betacatenin nuclear translocation, while betacatenin silencing inhibited betacatenin nuclear translocation. The enhanced betacatenin nuclear translocation induced resulted in an enhanced cell proliferation and cell invasion, an altered cell cycle distribution, decreased apoptosis, and improved nonhomologous end joining repair under normal and irradiation cond...",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab741909"
+            },
+            {
+                "object": "Beckwith-Wiedemann syndrome patients that inherited a maternal translocation or inversion of chromosome 11 also demonstrated reduced expression of the growth suppressing imprinted gene, CDKN1C.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab98104"
+            },
+            {
+                "object": "The amount of multiprotein complex UAF determines the rDNA copy number that is stably maintained. UAF ensures rDNA production not only by rDNA transcription activation but also by its copy-number maintenance.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab779628"
+            },
+            {
+                "object": "Here, recombinant fowlicidin-2 was successfully produced by E. coli recombinant expression system.The recombinant peptide exhibited high antibacterial activity against the Gram-positive and Gram-negative bacteria, and even drug-resistant strains.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab338954"
+            },
+            {
+                "object": "Our results suggest that macroscopic rate of UvrD monomer translocation is not limited by each ATPase cycle but by a slow step pause in each translocation cycle that occurs after four to five rapid 1 nt translocation steps.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab563146"
+            },
+            {
+                "object": "this study shows that Sox2 is expressed in activated B cells, but almost exclusively in those that have undergone IgH class switch recombination, enforced expression of Sox2 in splenic B cells severely inhibits AID expression and IgH class switch recombination, and that deletion of Sox2 increases the frequency of IgH:c-Myc translocations",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab949995"
+            }
+        ],
+        "question": "What about recombination in human centromeres?",
+        "subquestions": null,
+        "task_id": "575BE8FB36E8D520760A31B2CAE92034",
+        "usage": {
+            "chatgpt": 8855,
+            "gpt-4": 5918,
+            "gpt-4-turbo-preview": 4935
+        },
+        "user_id": 2
+    },
+    "document_id": "575BE8FB36E8D520760A31B2CAE92034",
+    "task_id": "575BE8FB36E8D520760A31B2CAE92034"
+}

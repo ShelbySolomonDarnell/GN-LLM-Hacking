@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 -precision-medicine-for-managing-diabetes.pdf",
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2021 - Interpreting type 1 diabetes risk.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf",
+    "2018 - Quantitative Relationship Between Cumulative Risk Alleles Based.pdf",
+    "2011 - Shared Genomics of Type 2 and Gestational Diabetes Mellitus.pdf",
+    "2019 - Biomarkers for type 2 diabetes.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf"
+  ],
+  "extraction_id": [
+    "f53ccf4e-f47f-5b44-8b41-f7068efc8be3",
+    "2610c9c1-5e75-528e-98d8-c4a543ea2f89",
+    "254be2dd-1b4f-5cf9-af93-dbf3d5867510",
+    "640f3749-a2bf-5b6b-adab-72ce7f029a28",
+    "6db9f25e-36fd-51c0-be36-6dfacd963b1b",
+    "41fefdf5-447e-556e-b95f-c132bdea7c41",
+    "bc4717c3-d353-5f44-9513-50634f8d5196",
+    "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07",
+    "0aae948a-50f9-568a-b0dc-5960a2d2ceaa",
+    "38bacfcd-d182-5220-b8bc-18f6c74b14a8"
+  ],
+  "document_id": [
+    "80949bab-d085-5f61-b98a-4bee043bc4e2",
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "9f13ec69-195b-55eb-a549-b3eb3dc0f321",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d",
+    "d585896e-1c32-51cb-827d-e4fd3b3943f3",
+    "bef0cabe-0bca-5715-9ffc-0b825744fbcf",
+    "c8ee94fc-f9bc-5a32-9524-9d1d9cf37159",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d"
+  ],
+  "id": [
+    "chatcmpl-AIFrBAew5HsqHnMUVkuc9dpSmo0io",
+    "263dc0cb-dfa0-5ee2-b927-f9a196294d46",
+    "988cae28-e149-5190-8ff0-6ecce8d001bc",
+    "ca9e53b7-6e51-5ae6-9ef4-8f2f5f40acb5",
+    "61f523a8-f466-5148-afba-6400c44ed278",
+    "151d8a78-8aa8-5024-8e15-54fba4f1857b",
+    "f692be48-b905-5463-8101-22eaf14e6405",
+    "48c93a37-d0d5-51de-b2d1-5c6122c01ab1",
+    "82debd98-f2fe-51aa-931c-63e11249de7b",
+    "8469faae-c6c9-5fd4-8437-870eef394dd1",
+    "387e1774-0250-5c72-b11c-069bdf3ef9ea"
+  ],
+  "contexts": [
+    "Genes signifying increased risk for both type 1 and type 2 dia-betes have been identified. Genomewide association studies have identified over 50 loci associated with an increased genetic risk of type 1 diabetes. Several T1D candidate genes for increased risk of developing type 1 diabetes have been sug-gested or identified within these regions, but the molecular basis by which they contribute to islet cell inflammation and beta cell destruction is not fully understood. 12 Also, several",
+    "Genetics of Type 2 Diabetes Chapter 12 197400 multiallelic markers (short tandem repeats or microsatellites,  with a density of   1 marker/10   cmol) allows identi  cation of  polymorphic markers showing strong allele identity by descent in diabetic family members (i.e. allele sharing in sibships is signi  - cantly higher than 50%). Once identi  ed, such susceptibility  genes for diabetes may then be positionally cloned in the intervals of linkage.",
+    "3. Katsarou, A. etal. Type 1 diabetes mellitus. Nat. Rev. Dis. Primers 3, 17016 (2017). 4. Onengut-Gumuscu, S. etal. Fine mapping of type 1 diabetes susceptibility loci and evidence for colocalization of causal variants with lymphoid gene enhancers. Nat. Genet.  47, 381386 (2015). 5. Barrett, J. C. etal. Genome-wide association study and meta-analysis find that over 40  loci affect risk of type 1 diabetes. Nat. Genet. 41, 703707 (2009).",
+    "Clinical Risk Factors, DNA Variants, and the Development of Type 2 Diabetes n engl j med 359;21 www.nejm.org november 20, 2008 2229(Fig. 3). An increase in the BMI and a concomi - tant decrease in insulin sensitivity during the  8-year period were consistent findings, with no differences between subjects at high and low genetic risk (Fig. 3A and 3B). However, subjects with a high genetic risk did not increase their insulin secretion (disposition index) to compen -",
+    "and genetic markers to improve the prediction of type 2 diabetes: theEPIC-Potsdam Study. Diabetes Care . 2009;32:2116 2119 (in eng). 56. Cauchi S, Meyre D, Durand E, et al. Post genome-wide association studies of novel genes associated with type 2 diabetes show gene-gene interaction and high predictive value. PLoS One . 2008;3(5): e2031 . 57. Lyssenko V, Jonsson A, Almgren P, et al. Clinical risk factors, DNA variants, and the development of type 2 diabetes. N Engl J Med . 2008;359:2220 2232 (in eng).",
+    "etically expressed homeobox variant (rs1111875) on type 2 diabetes risk.  Molecular Genetics  and Metabolism  ,  102 (2), 194199.   Watanabe, R. M., Black, M. H., Xiang, A. H., Allayee, H., Lawrence, J. M., & Buchanan, T. A. (2007).  Genetics of gestational diabetes mellitus and type 2 diabetes.  Diabetes Care  ,  30 (Suppl. 2),  S134S140.   Williams, M. A., Qiu, C., Dempsey , J. C., & Luthy , D. A. (2003). Familial aggregation of type 2",
+    "markers, genetic markers do not change with disease progression.Dimas and collaborators examined the association of 37 establishedT2D susceptibility loci and indices of proinsulin processing, insulin secretion, and insulin sensitivity in 58,614 nondiabetic subjects [6]. Cluster analysis classi ed the risk loci into ve major categories on the basis of their association with glycemic phenotypes. The rst cluster was characterized by the effects of the risk alleles of PPARG ,KLF14 ,",
+    "recently, meta-analysis of GWAS data involving African  American type 2 diabetes patients identified similar loci  to the previous studies with the addition of two novel  loci, HLA-B and INS-IGF[157]. These results provide  strong evidence of common genetic determinants  including common specific genes that are linked to  diabetes. A small list of specific genetic markers seem  strongly associated with the risk of developing type 2  diabetes including the TCF7L2[158] and CAPN10[159,160]",
+    "Clinical Risk Factors, DNA Variants, and the Development of Type 2 Diabetes n engl j med 359;21 www.nejm.org november 20, 2008 2231MPP subjects (P = 0.001) and from 0.79 to 0.83 in  the Botnia subjects (P = 0.006). Of the 16 loci that have been associated with  type 2 diabetes previously,8-15 we showed that 11   TCF7L2, PPARG, FTO, KCNJ11, NOTCH2, WFS1,  CDKAL1, IGF2BP2, SLC30A8, JAZF1, and HHEX    were associated with an enhanced risk of future",
+    "Clinical Risk Factors, DNA Variants, and the Development of Type 2 Diabetes n engl j med 359;21 www.nejm.org november 20, 2008 2227(Fig. 1B), whereas impaired fasting glucose or  impaired glucose tolerance developed in 313 of 2039 subjects (15.4%). Clinical Factors Predicting Incidence   of Diabetes In both the MPP and Botnia studies, a family his - tory of diabetes, an increased BMI, and increased levels of blood pressure and serum levels of tri -"
+  ],
+  "answer": "Yes, there are specific genetic markers that can indicate a higher risk for Type 1 versus Type 2 diabetes.  For Type 1 diabetes, genome-wide association studies have identified over 50 loci associated with an increased genetic risk. Several candidate genes within these regions have been suggested or identified, although the exact molecular mechanisms by which they contribute to islet cell inflammation and beta cell destruction are not fully understood [1].  For Type 2 diabetes, specific genetic markers have also been identified. Some of the loci associated with an increased risk include TCF7L2, PPARG, FTO, KCNJ11, NOTCH2, WFS1, CDKAL1, IGF2BP2, SLC30A8, JAZF1, and HHEX [9]. Additionally, markers such as TCF7L2 and CAPN10 have been strongly associated with the risk of developing Type 2 diabetes [8].  These findings indicate that while both types of diabetes have genetic components, the specific markers and loci associated with each type differ, reflecting their distinct pathophysiological mechanisms.",
+  "question": "Are there specific genetic markers that can indicate a higher risk for Type 1 versus Type 2 diabetes?"
+}

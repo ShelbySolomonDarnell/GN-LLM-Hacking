@@ -1,0 +1,39 @@
+[
+{
+  "faithfulness": 0.75,
+  "context_utilization": 0.49586940836114385,
+  "context_relevancy": 0.4489795918367347,
+  "answer_relevancy": 0.9050522628722737
+},
+{
+  "faithfulness": 0.75,
+  "context_utilization": 0.5332560296769832,
+  "context_relevancy": 0.4489795918367347,
+  "answer_relevancy": 0.9274337314167257
+},
+{
+  "faithfulness": 0.75,
+  "context_utilization": 0.49586940836114385,
+  "context_relevancy": 0.4489795918367347,
+  "answer_relevancy": 0.9274337314167257
+}
+]
+,
+{
+  "faithfulness": 0.75,
+  "context_utilization": 0.49586940836114385,
+  "context_relevancy": 0.2857142857142857,
+  "answer_relevancy": 0.9050522628722737
+},
+{
+  "faithfulness": 0.75,
+  "context_utilization": 0.49586940836114385,
+  "context_relevancy": 0.4489795918367347,
+  "answer_relevancy": 0.9050692102679129
+},
+{
+  "faithfulness": 0.75,
+  "context_utilization": 0.49586940836114385,
+  "context_relevancy": 0.4489795918367347,
+  "answer_relevancy": 0.9050522628722737
+}

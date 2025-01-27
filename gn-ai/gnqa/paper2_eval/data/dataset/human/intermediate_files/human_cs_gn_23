@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2011 - Genetics and Genomics of Cholesterol and Polyunsaturated Fatty Acid Metabolism in Relation to Coronary Heart Disease Risk.pdf",
+    "2011 - Analysis of cognitive functions in recombinant inbred strains of rats produced by crossbreeding of SHR and BN Lx. lines.pdf",
+    "2018 - Multivariate analysis of genomics data to identify potential pleiotropic genes.pdf",
+    "2008 - The Common P446L Polymorphism in GCKR Inversely.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2018 - Genomic 5-mC contents in peripheral.pdf",
+    "2021- Development of genome-wide polygenic risk scores for lipid traits and clinical applications for dyslipidemia, subclinical atherosclerosis, and diabetes cardiovascular complications among East Asians.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf"
+  ],
+  "extraction_id": [
+    "1745eb7d-e39e-5304-96a5-c351809d4795",
+    "b3d1c55f-bcdc-59b2-8191-623e8e79b87b",
+    "4bee64c1-92ce-5b8c-925d-f30c4acab84b",
+    "e54089b3-5559-55f8-b482-ceae887ce6ca",
+    "9738a79c-f506-5134-87c7-0ef5020c0077",
+    "3fc1141e-011e-5606-952c-5d7d9201459e",
+    "a95613b6-a2e8-5d84-841f-ae8879611a9e",
+    "e860a438-567e-50e4-99a9-759ff52ffdda",
+    "c194ef31-2e93-5de6-9c35-6365056b1e54",
+    "e464416a-2dc9-53c0-988c-b0131883aa79"
+  ],
+  "document_id": [
+    "111e0e1e-d336-55ee-87a8-2f03b02473c2",
+    "6f628ea8-1286-5d74-80e5-55439f21805d",
+    "2f7bad8a-28aa-5add-b9c3-8c2d445719f5",
+    "1d74871a-be20-5ca3-ab8f-0a68e885dcf4",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "f720cb59-3a8f-58e0-9cb8-e34b7d0bb74f",
+    "ce8040c7-157f-54c5-b28b-3224e8871415",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae"
+  ],
+  "id": [
+    "chatcmpl-ADZM6xG6YQyyKS0yjhUsqz3mB8jmi",
+    "53aa581f-06d1-52b3-b847-08ea3d95a980",
+    "799c27b2-d017-5ded-bb75-76b3d65b0bf6",
+    "142eead0-6648-5c97-a2da-770aff4986f6",
+    "0cbbec43-43bb-502d-a26d-fbc669ff29ee",
+    "60c771fb-a2fa-5f19-a13c-e4086864bcd5",
+    "bd69128b-7357-5e87-ab9a-af6f4f3fc733",
+    "3fd58cb6-d19a-5337-9a84-a8e4e4e0b97c",
+    "134d285e-3f83-5ed6-ab9d-774b81068a3d",
+    "7a2c163e-e4ef-58ee-86dc-399d15d20eb7",
+    "cba6153e-0a7f-540c-897b-40cbf9284ea9"
+  ],
+  "contexts": [
+    "Deregulated lipid metabolism (dyslipidemia) that manifests as hypercholesterolemia,  hypertriglyceridemia, low high -density -lipoprotein (HDL) cholesterol levels or a  combination of those is an established risk factor for CHD among other established risk  factors. The liver is of major importance in maintaining whole- body lipid metabolic",
+    "23   Atherogenic dyslipidemia, manifested by raised triglycerides and low  concentrations of HDL cholesterol. There could be p resent other lipoprotein abnormalities  as well, e.g., increased lipoproteins, elevated apo lipoprotein B, small LDL and HDL  particles. All of these abnormalities have been imp licated as being atherogenic (Kolovou et  al., 2005; Ginsberget al., 2000).   Elevated blood pressure  strongly associates with obesity and commonly occu rs in  insulin-resistant persons.",
+    "plasma TGisdetermined bythelevel ofVLDL-TG (the balance between synthesis and clear- ance ofVLDL-TG), and thesynthesis ofVLDL-TG isassociated with total fatmass and liver fat[59]. Thus, thelarge amount offatmass inobese patients leads toincreasing synthesis of VLDL-TG, buttheclearance ofVLDL-TG remains unchanged. Hypertriglyceridemia isaprin- cipal characteristic ofdyslipidemia and islinked tomany other types ofdyslipidemia such as",
+    "Dyslipidemia status Normolipidemia 2,731 898 (0.33) 1,319 (0.48) 514 (0.19) 42.97End-of-study cases 2,102 611 (0.29) 1,057 (0.50) 434 (0.21) 45.79 0.01, 1.12 (1.021.22)Incident cases 959 293 (0.31) 472 (0.49) 194 (0.20) 44.84 0.9, 0.99 (0.911.09) Overall risk data are P, OR (95% CI) and incident risk data are P, HR (95% CI). Hyperglycemia and type 2 diabetes were dened according to 1997 American Diabetes Association criteria",
+    "The most characteristic lipoprotein abnormality in patients with  diabetes, especially type 2, is elevated triglyceride, i.e. VLDL, reduced HDL,  and smaller dense LDL. This lipoprotein profile is sometimes referred to as  diabetic dyslipidemia. Moreover, in conjunction with obesity, and insulin  resistance this lipoprotein profile constitutes part of the \"polymetabolic  syndrome\". The primary lipoprotein abnormality is hypertriglyceridemia .",
+    "Hyperlipidemia 63 (23%) 100 (38%) < 0.001c Diabetes 66 (24%) 106 (40%) < 0.001c TC (mmol/L) 4.36  0.55 4.37  1.07 0.832b,d TG (mmol/L) 1.01 (0.77~1.28) 1.35 (1.00~1.92) < 0.001d,e HDL-C (mmol/L) 1.26 (1.13~1.42) 1.10 (0.94~1.34) < 0.001d,e LDL-C (mmol/L) 2.57  0.36 2.43  0.88 0.017b,d FBG (mmol/L) 4.71 (4.35~5.15) 5.84 (5.31~6.87) < 0.001e PBLs counts (109/L) 5.30 (4.60~6.29) 6.58 (5.33~7.92) < 0.001e PBLs classifications (PBMCs %)40.31  8.11 34.48  10.16 < 0.001b",
+    "lipid traits as (lipid follow-up lipid baseline ) / lipid baseline . Dyslipidemia/abnormal lipid levels were defined according to the thresholds used in clinical practice guidelines [ 19]: (1) TC 5.1 mmol/l; TG 1.1 mmol/l; and LDL-C 3.4 mmol/l in children; (2) TC 5.1 mmol/l; TG1.4 mmol/l; and LDL-C 3.4 mmol/l in adolescents; (3) TC 5.2 mmol/l; TG 1.7 or 1.97 mmol/l; and LDL- C1.8 or 2.6 mmol/l in adults or patients with T2D. In the two cohorts of adult women, cIMT was mea-",
+    "dyslipidemia. It also lowered in ammatory biomarkers (CRP and PAI - 1) associated",
+    "usually associated with reduced HDL cholesterol and small dense LDL.  Biliary  cholesterol  +  Bile acids  Blood vessel  Figure 3. HDL metabolism: HDL production requires addition of lipid  to small, nascent particles. This lipid arrives via hydrolysis of VLDL and  chylomicrons with transfer of surface lipids (phospholipid PL, and free  cholesterol, FC) via the actions of phospholipid transfer protein (PL TP). A  second pathway is via effiux of cellular free cholesterol (FC), a process",
+    "shift in the composition of the lipoprotein particle from one de  ned as VLDL to"
+  ],
+  "answer": "Dyslipidemia is defined as deregulated lipid metabolism that manifests as hypercholesterolemia (high cholesterol levels), hypertriglyceridemia (high triglyceride levels), low high-density lipoprotein (HDL) cholesterol levels, or a combination of these conditions [1]. It is an established risk factor for coronary heart disease (CHD) and can involve various lipoprotein abnormalities, such as increased lipoproteins, elevated apolipoprotein B, and small LDL and HDL particles [2].",
+  "question": "Define dyslipidemia."
+}

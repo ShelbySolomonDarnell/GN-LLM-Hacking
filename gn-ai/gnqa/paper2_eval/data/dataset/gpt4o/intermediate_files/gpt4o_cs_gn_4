@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2016 - A Systems-Level Understanding of Cardiovascular Disease through Networks.pdf",
+    "2009 - Basic Genetics and Genomics A Primer for Nurses.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2017 - Systems Genetics Analysis to Identify the Genetic Modulation of a Glaucoma-Associated Gene.pdf",
+    "2019 - Implementation of Genomic Medicine.pdf",
+    "2012 - Generating Embryonic Stem Cells from the Inbred Mouse Strain DBA2J, a Model of Glaucoma and Other Complex Diseases.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf"
+  ],
+  "extraction_id": [
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "82e07232-dd92-52f6-8230-d90a03c71b4f",
+    "a58546e6-fe89-5d04-8adb-08d1991dc53c",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "2455cf6d-4c9b-5272-8650-da127cc329e8",
+    "90e220eb-61ba-56bd-b455-ac29a1df5867",
+    "ee03f7c5-6eee-5c66-8174-688f06da1587",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a"
+  ],
+  "document_id": [
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "96657025-7e50-571d-9a6b-1a202cb8a690",
+    "c37e2ace-171b-5776-8969-86eda9736481",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "67e804db-8127-5938-8d7f-a5918cdf4f86",
+    "a7faf15a-ed90-575b-805c-11f33fb2d6dd",
+    "a9b08d55-2f85-5d3a-abbf-389eed34009c",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104"
+  ],
+  "id": [
+    "chatcmpl-AIGlO1Tf6FzOyoXrb1Vnt5VYQUM0R",
+    "27bb3941-5a92-56a2-b67d-c5e64603c1a3",
+    "1c8d31d6-bd59-56da-83b8-f603b4a9ec2b",
+    "f8a32960-cfe3-5440-9d5c-b55dfe52ea6d",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "d8162fdc-326a-5f90-9fa4-24d86d701184",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "18c7c27b-b51f-5ab6-9d09-4235c57811b1",
+    "a9bbd320-eb89-5ae7-a3af-703ca68c8305",
+    "504b72fb-9a5e-53a4-b6a6-0fc6be18ec4e",
+    "a1124460-ae34-57fb-846b-e033f4bbf49c"
+  ],
+  "contexts": [
+    "users can take advantage of a systems genetics approach (Rosen et al., 2003, 2007). While the candidate gene approach asks which one gene mutation causes a particular disease, the systems genetics approach explores which phenotypes and diseases result from diverse sets of genetic and molecular markers (Rosen et al., 2003, 2007). The majority of data sets in GeneNetwork are collected from GRPs consisting of hundreds of diverse, inbred strains of",
+    "Based on this, Goh et al. created networks using data from the Online Mendelian Inheritance in Man (OMIM) [18]database that houses lists of disease gene links. Two networks emerged: the human disease network inwhich disease nodes were connected if they were caused by mutations in the same gene, and the disease gene network where gene nodes were",
+    "Genetics Home Reference - Genetics Home Reference provides consumer-friendly  information about the effects of genetic variations on human health.  http://ghr.nlm.nih.gov/   Gene Reviews  Features expert-authored, peer-reviewed, current disease descriptions  that apply genetic testing to the diagnosis, management, and genetic counseling of  patients and families with specific inherited conditions. www.genetests.org/servlet/access?",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "of links to external resources for tracing the interrelationships of a gene among multiple Web-based resources. GeneNetwork also offers a number of correlation and mapping strategies for assessing associations among multiple genes and QTLs. GeneNetwork aims to make the study of complex traits through the use of systems genetics widely available to the scientific community. A powerful tool that can be integrated with GeneNetwork or used on",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "genetics approaches can not only provide insights into the roles of  individual genes or developmental pathways but also illuminate  relationships between different levels of a biologic system, such as  the genome, transcriptome, and phenome [ 10]. One such resource  of systems genetics is the GeneNetwork website and resource  (www.genenetwork.org ) that provides access to a wide variety of  data such as genotypes (e.g., SNPs), phenotypes that are obtained",
+    "eron Genetics Center ( https://www.regeneron.com/ge - netics-center ), and aims to identify rare loss-of-function  mutations in founder populations to delineate further the  genetic factors that underpin health and disease. This ini - tiative is also addressed at developing countries and those  in resource-limiting environments, under the coordina - tion of the Genomic Medicine Alliance ( http://www.ge - nomicmedicinealliance.org ), a founding partner of the",
+    "to understand the genetics of a variety of diseases andbiological systems including aging, the immune system and ironregulation [26,27,28,29,30]. Much of this work has been madeavailable through GeneNetwork (formerly WebQTL ) an on-line",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the"
+  ],
+  "answer": "GeneNetwork.org aids in finding the genetic causes of common diseases by utilizing a systems genetics approach. This approach allows researchers to explore which phenotypes and diseases result from diverse sets of genetic and molecular markers, rather than focusing on single gene mutations [1]. GeneNetwork provides access to a wide variety of data, including genotypes (e.g., SNPs) and phenotypes, which can be used to study complex traits [7]. The platform integrates data on gene expression, protein interactions, and DNA-protein binding to construct biological networks that are predictive of disease [4]. Additionally, GeneNetwork offers correlation and mapping strategies for assessing associations among multiple genes and quantitative trait loci (QTLs), facilitating the study of complex traits [5]. This makes GeneNetwork a powerful tool for predictive medicine and systems genetics, helping researchers understand the genetic underpinnings of common diseases [6].",
+  "question": "How does GeneNetwork.org help in finding the genetic causes of common diseases?"
+}

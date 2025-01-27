@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2015 - Quantitative and logic modelling of molecular and gene networks.pdf",
+    "2005 - Combinatorial Genetic Regulatory Network Analysis Tools for High Throughput Transcriptomic Data.pdf",
+    "2016 - Integrating Multidimensional Data Sources to Identify Genes Regulating Complex Phenotypes.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2007 - How to infer gene networks from expression profiles.pdf",
+    "2015 - Biological network inference from microarray data, current solutions, and assessments.pdf",
+    "2016 - Integrating Multidimensional Data Sources to Identify Genes Regulating Complex Phenotypes.pdf",
+    "2015 - Biological network inference from microarray data, current solutions, and assessments.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf"
+  ],
+  "extraction_id": [
+    "d0102d97-2e08-50c3-86f4-d1103da9cca1",
+    "e23eae56-f71e-55fb-b443-e95adfe8ef22",
+    "2d776c48-9d99-5feb-9c18-113416c86d96",
+    "3292d5e1-b06c-5041-8190-44119ec0fdf0",
+    "f71776c8-e5c9-55e0-ad54-3725550dea19",
+    "452b1ade-c691-5feb-9a12-cfe83ae314af",
+    "b5c98115-372f-5bee-8517-80dc9b6838ee",
+    "c2a8a3ab-2531-55c1-920b-d908fa07c027",
+    "ae0e55f7-f33c-5179-ba14-8221c2a07be8",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1"
+  ],
+  "document_id": [
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "8db6a373-be03-5653-beaf-1b2ae1d98c31",
+    "5ded506d-7935-53f9-a118-57a9f3943376",
+    "8c395e40-b6b9-5b00-9f32-ca35a598c595",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "5067a047-b97d-522a-9a7e-5372e3bbd102",
+    "f64cf13c-d989-50da-be0d-81e34a735a42",
+    "8c395e40-b6b9-5b00-9f32-ca35a598c595",
+    "f64cf13c-d989-50da-be0d-81e34a735a42",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a"
+  ],
+  "id": [
+    "chatcmpl-AIGs9vl6ZxGFt8u7h4G1USup0nUIZ",
+    "83b84d63-4942-5c91-b93e-3ea1164c600e",
+    "05de9482-4937-5a26-b7fc-0a3cd86c4c40",
+    "b0b9c2ba-ff4b-5b2c-854f-70007eba8fd4",
+    "951c0969-df10-5038-b235-1bf4fa358ebb",
+    "09527834-da5e-5c34-9439-cf078f40870f",
+    "98fdd553-df98-510e-8e0d-62739abf5518",
+    "29e3d52a-5651-5cdc-94a7-babb6142e244",
+    "6bda096f-f5e1-51c9-9818-6c13cdfc8fe9",
+    "fbae4b79-573c-5b0b-ba0f-3761dbb22590",
+    "c63cfaee-749e-547b-9c0a-086266f10670"
+  ],
+  "contexts": [
+    "genetic data which are shifting the paradigm of net work inferences by providing  statistical evidence to support directed links betw een genes, proteins, metabolites or  diseases. In Chapter 6 , different approaches using genetic data for gene network  inference that have been proposed are reviewed. Chapter 7  examines the statistical  potential of such methods under different realistic  settings: varying population sizes  and in the presence or absence of hidden factor var iation and suggests ways to",
+    "73. Yu,J., Smith,V.A., Wang,P .P ., Hartemink,A.J. &  Jarvis,E.D. Advances to Bayesian network   inference for generating causal networks from  observational biological data. Bioinformatics 20,  35943603 (2004). 74. Sachs,K., Perez,O., Peer,D., Lauffenburger,D. A. &  Nolan,G. P . Causal protein signaling networks derived  from multiparameter single cell data. Science 308,  523529 (2005). 75. Feizi,S., Marbach,D., Mdard,M. & Kellis,M.  Network deconvolution as a general method to",
+    "Causal Inference of Regulator-Target Pairs by Gene Mapping 97 1.2 Background: Inferring Regula tory Networks from Correlated Gene Expression Independent of the data sets described so far, large collections of gene expres- sion over time course (Spellman et al., 1998) or varying environmental con- ditions (Gasch et al., 2000; Hughes et al., 2000) have been studied to reveal dependent variation among genes and thereby deduce regulatory relationships.",
+    "data, to infer possible pathways and help build a link from the phe-notype back to a causal gene. In many cases, such interaction data are already available in public archives and need not be generated anew by the researcher [  1 ]. These different sources of interaction  data can be collated into  network   models ( see   Note     1  ) which  allow analysis using techniques borrowed from graph theory.",
+    "relationships with a causal inference test . BMC Genet 2009, 10 :23.  60. Chaibub Neto E, Ferrara CT, Attie AD, Yandell B S: Inferring causal  phenotype networks from segregating populations . Genetics 2008,  179 (2):1089-1100.  61. Li Y, Tesson BM, Churchill GA, Jansen RC: Critical preconditions for  causal inference in genome-wide association studies  under review 2010.  62. Aten JE, Fuller TF, Lusis AJ, Horvath S: Using genetic markers to orient",
+    "T, Samson L, T I (2006) A systems approach to mapping DNAdamage response pathways. Science 312:10541059 Yu J, Smith V A, Wang PP, Hartemink AJ, Jarvis ED (2004) Advances to bayesian network inference for generating causal networks fromobservational biological data. Bioinformatics 20:35943603How to infer gene networks from expression proles M Bansal et al 10Molecular Systems Biology 2007 &2007 EMBO and Nature Publishing Group",
+    "with the data. To cope with this problem, Siegenthaler et al. proposed a novel assessment procedure that incorporates the inferability of gene regulatory interactions by redening the confusion matrix interms of inferability of the network, i.e., the possibility of the network to be determined from data. The inferability of GRNs was analyzed based on the causal information that could beextracted from experiments. Authors used data from the DREAM",
+    "and can thus be helpful in determining the causal structure of gene networks. Often, such data have already been gathered previously in the form of single-gene experiments and other links can be gleaned from a search of the published literature. In a few cases, a relevant  database   exists which can be used as a data source. Links  of this type will all be directed edges from gene to phenotype (where the phenotype is the same as used as the seed).",
+    "tional methodologies in gene regulatory net-works. IGI Global, Hershey, PA, pp 127 11. Roy S, Das D, Choudhury D, Gohain GG, Sharma R, Bhattacharyya DK (2013) Causality inference techniques for in-silico gene regu-latory network, Mining intelligence and knowl-edge exploration. Springer, New York, pp 432443 12. Olsen C, Meyer PE, Bontempi G (2009) Infer- ring causal relationships using information the-oretic measures. In Proceedings of the 5th Benelux Bioinformatics Conference (BBC09)",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small"
+  ],
+  "answer": "The latest strategies for inferring causal relationships within gene networks using data from GeneNetwork.org involve several advanced methodologies. One approach is the use of Bayesian network inference, which has been advanced to generate causal networks from observational biological data [2]. This method allows for the modeling of probabilistic relationships between genes and can help infer causality from complex datasets.  Additionally, there is a focus on using genetic markers to orient causal inference in genome-wide association studies, which is critical for understanding the genetic basis of phenotypes [5]. This involves identifying genetic variants that can serve as markers to infer causal pathways.  Another strategy involves the use of network deconvolution, a general method to infer direct dependencies in networks, which can be applied to gene networks to clarify causal relationships [2].  Furthermore, the integration of multi-omics data and the use of updated tools on platforms like GeneNetwork.org enhance the ability to perform predictive medicine and systems genetics analyses, which are crucial for inferring causal relationships in gene networks [10].  These strategies collectively leverage statistical, computational, and biological insights to improve the inference of causal relationships in gene networks.",
+  "question": "What are the latest strategies for inferring causal relationships within gene networks using data from GeneNetwork.org?"
+}

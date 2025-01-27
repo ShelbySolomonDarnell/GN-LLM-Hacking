@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2011 - Inherited destiny Genetics and gestational diabetes mellitus.pdf",
+    "2015 - Genetics, genomics and personalized medicine in Type 2 Diabetes.pdf",
+    "2017 - Spectrum of mutations in monogenic diabetes genes identified from high-throughput DNA sequencing of 6888 individuals.pdf",
+    "2018 - Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2010 - Evidence of Interaction between Type 2 Diabetes.pdf",
+    "2013 - Genome-Wide Contribution of Genotype by Environment Interaction.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2012 - Gene-Environment Interactions in the Development of Type 2 Diabetes.pdf"
+  ],
+  "extraction_id": [
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "48c3e4a4-db23-5fca-9c46-775e80894655",
+    "52a000e5-d790-55f2-9eac-14554d426173",
+    "b24927c4-ee83-51a8-b431-b43be7d3b678",
+    "9190d1c1-41a4-5af3-a570-7fea6a15e71a",
+    "455b92f7-6156-5735-8586-29a66af0f9e5",
+    "d2de4ed1-897b-5e5b-bc29-c03310096d64",
+    "f3975a2c-8a66-582e-a4b8-868b1f4722d4",
+    "cb5c4aab-77ed-58cd-98b8-9e1ba64eb9cf",
+    "89bf4316-d0cc-5310-a45e-1dd8b8aefe1b"
+  ],
+  "document_id": [
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "6d341cd2-ae56-5807-9aff-39298efc4d06",
+    "d8b85c3e-62f3-5e67-99b0-d0a2f225aff0",
+    "18a8a000-69ed-5d34-b13f-f5ae016d1067",
+    "ab2868dd-62f6-5350-994c-fcea4328e8a3",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "1a33b1d1-23ee-5b33-b42d-c745c8210166",
+    "8c310d76-0a3b-574c-9859-859258870ee5",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "ea9601ed-ad83-506e-b1b7-e7211671ff73"
+  ],
+  "id": [
+    "chatcmpl-AIHJknEcr96E1ybbJw2DE0EMMQI1v",
+    "b092c8b9-edb1-55fb-ae16-c67e3298946e",
+    "55f842a4-506a-5992-9b6e-47c81aee6809",
+    "728c47bb-e8e2-5359-9ff5-9ad9b13f999c",
+    "15872da6-8175-5db6-b741-10ae3cf85088",
+    "53fd1ea0-5ca7-5066-bb07-e7469c640e22",
+    "027f0c97-d38d-551d-add3-4a759a406895",
+    "155260c5-ba90-540f-8d48-bafece83fa47",
+    "3d00ac57-9828-5146-a895-9840de9af5f7",
+    "518d294f-67c5-5870-9f28-3cb4dfa81e42",
+    "6b83f0af-1145-5679-9dae-0f645771d25d"
+  ],
+  "contexts": [
+    "that genetic studies will ultimately identify key genetic elements that help determine susceptibility to diabetes,disease progression, and responsiveness to specific therapies, as well as help identify novel targets for futureintervention. A substantial number of genetic loci, gene polymorphisms, and mutations have already beenreported as having variable degrees of association with one or other type of diabetes (type 1, type 2, maturityonset diabetes of the young [MODY]), while others appear to be involved",
+    "ponse to thiazolidinedione therapy and candidate genes  [100103]. Results from pharmacogenetic studies could  potentially provide physicians with a powerful tool to  adjust therapy appropriately for those individuals carry ing variants known to affect a given medication. Distefano  and Watanabe have recently reviewed the pharmaco genetics of diabetes [104]. Genegene and geneenvironment interactions are also  likely to be helpful to the clinician in making therapeutic",
+    "Genomics of T2D Diet, lifestyle, environment, and even genetic variation influence an individuals response to disease therapy. Like GWAS which identify genetic variants conferring risk for a disease, studies have been carried out for iden - tifying genetic variants responsible for patient differ -",
+    "ease caused by interactions between multiple genetic and environmental factors. Significant progress has been made in understanding the genetic architecture of T2D over the past 10 years [1]. A number of genome-wide as- sociation studies in diverse human populations have identified more than 60 common variants and loci asso- ciated with risk for T2D [2]. These studies have also revealed a significant overlap between traits and pheno- types of monogenic diabetes with related common",
+    "21582171 (2014).  29. Wood, A. R. et al. A genome-wide association study of IVGTT-based measures of first-phase insulin secretion refines the underlying physiology of  type 2 diabetes variants. Diabetes  66, 22962309 (2017). 30. Pickrell, J. K. Joint analysis of functional genomic data and genome-  wide association studies of 18 human traits. Am. J. Hum. Genet. 94,   559573 (2014).  31. Plenge, R. M., Scolnick, E. M. & Altshuler, D. Validating therapeutic targets",
+    "by GWASs [ 16,28,29]. A wide variety of network-based approaches have been applied to investigate the extent to which the genetics of T2D predisposition converge on a restricted set of biological pathways. Several T2D risk variants have been identied as primary regulators of insulin secretion, insulin action, and pancreatic islet transcription factors. [ 10,16]. The newly discovered SNVs allow the better characterization of abnormalities in early insulin processing and secretion. TCF7L2 ,SLC30A8 ,C2CD4B ,",
+    "[10] , many environmental factors  [11] , and the interac- tions among those genetic and environmental factors. Physical activity and dietary fat have been reported to be important modifiers of the associations between glucose homeostasis and well-known candidate genes for T2DM   [12]  and there is reason to believe that a significant pro- portion of the susceptibility genes identified by GWASs will interact with these environmental factors to influ-ence the disease risk. Florez et al.",
+    "interactions suggest a way by which genetic risk may beameliorated, these environmental factors are of great relevanceto public health, and are the focus of a growing number of studies [7]. Environmental factors, such as diet and lifestyle, are important in the onset, development and progression of T2D and its related phenotypes [8,9]. The interactions of environmental factors with",
+    "cases. J Am Med Assoc. 1956;161:1628 30. 3. Duncan LE, Keller MC. A critical review of the first 10 years of candidate gene-by-environment interaction research in psychiatry. Am J Psychiatry. 2011;168:1041 9. 4. Brito EC et al. Previously associated type 2 diabetes variants may interact with physical activity to modify the risk of impaired glu- cose regulation and type 2 diabetes: a study of 16,003 Swedish adults. Diabetes. 2009;58:1411 8.",
+    "this occurs. Findings to date, however, indicate that behavioral changes can substantially mitigate diabetogenic and obesogenic effects of individual or multiple risk alleles, which has much broader clinical and public health implications.We have seen considerable progress in our understanding of the role that both environ- ment and genetics play in the development of T2D. Recent work suggests that the adverse effect of some established T2D-associated loci may be greatly attenuated by appropriate"
+  ],
+  "answer": "Recent studies on the interaction between genetic variants and environmental factors in diabetes development have identified several potential therapeutic targets. These include:  1. **Primary Regulators of Insulin Secretion and Action**: Several type 2 diabetes (T2D) risk variants have been identified as primary regulators of insulin secretion, insulin action, and pancreatic islet transcription factors. This suggests that targeting these pathways could be a potential therapeutic strategy [6].  2. **Specific Genetic Variants**: Newly discovered single nucleotide variants (SNVs) allow for better characterization of abnormalities in early insulin processing and secretion. Genes such as TCF7L2, SLC30A8, and C2CD4B have been highlighted as potential targets due to their roles in these processes [6].  3. **Gene-Environment Interactions**: The interaction between genetic susceptibility and environmental factors such as physical activity and dietary fat has been shown to modify the risk of glucose homeostasis and T2D. This indicates that interventions targeting these environmental factors could potentially mitigate the genetic risk [7].  These findings underscore the importance of considering both genetic and environmental factors in developing therapeutic strategies for diabetes.",
+  "question": "What potential therapeutic targets have been identified through recent studies on the interaction between genetic variants and environmental factors in diabetes development?"
+}

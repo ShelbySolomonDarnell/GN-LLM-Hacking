@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Genetic regulation of adult hippocampal neurogenesis A systems genetics approach using BXD recombinant inbred mouse strains.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2005 -Pomp- GenomeExploitation.pdf",
+    "2006 - Marker Assisted Backcrossing .pdf",
+    "2013 - Host Genes and Resistance.pdf",
+    "2014 - Fine-mapping QTLs in advanced intercross lines and other.pdf",
+    "2007 - Latexin is a newly discovered regulator of hematopoietic stem cells.pdf",
+    "2020 - Large?scale pathway specific polygenic risk and transcriptomic.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2015 - Functional Analysis of Genomic Variation and Impact on Molecular and Higher Order Phenotypes.pdf"
+  ],
+  "extraction_id": [
+    "ebea9717-52a1-5eb8-8b5a-67afb90c95f8",
+    "3276b251-2e60-53e8-8fd1-07702f486a43",
+    "80f97b13-9dd9-5d52-9d55-0abac724605e",
+    "da78b007-359c-548c-8cb0-ba4a3dab0f86",
+    "661e7fb0-804c-53e2-b948-6512c372ac57",
+    "a5c455c9-50f6-5f12-84cd-26d335001e6b",
+    "91470df2-7451-59d2-af9f-98cdf2f85486",
+    "a53c7001-432d-5289-9cc1-b3d75a721da4",
+    "4a7ed73c-26c7-5852-8a02-a39cd0d611ec",
+    "cec82840-0f05-5fc5-bfcf-a4b928124fef"
+  ],
+  "document_id": [
+    "c54da858-9620-588e-8e41-76a960af2ff6",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "a77aefe9-379e-54a2-b029-8f5f3e798e64",
+    "5efc1bdf-f847-5eaf-a808-9cf71b9399ce",
+    "cc6cf2b5-0440-51e8-aad4-d0b4b5331ab2",
+    "eb30392e-f079-511d-8c6c-a6e6c98d2167",
+    "63467ba8-940b-59f6-bbd5-0b0ce7883d49",
+    "96119357-a6dd-5ea3-8bcb-9c047f0a336e",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "263d327b-f5db-54e4-a215-b3f8a51cd7d6"
+  ],
+  "id": [
+    "chatcmpl-AIGrF12QPoEwoc2D22aSA5ivwYW2D",
+    "2fe235ff-90ab-5f21-8e51-cbfb0e13713a",
+    "e26ebc1e-e05d-56fb-8718-604275994a84",
+    "b17b43c6-1ba8-5849-8664-3b5cd78877b5",
+    "037c669c-da80-5e1e-abe3-c4344145a4ed",
+    "fb5944f3-bb0e-599e-827c-a8b7c6934746",
+    "a860695e-fe40-55eb-9eb8-072e1daf5cf2",
+    "22301737-122c-57be-a2f1-9d631ad101b3",
+    "101c1f27-4a98-5d1c-b013-c5f1950aee95",
+    "91ac7cb9-ec59-5bd6-9f24-aa840caf2c27",
+    "6e933f07-26d6-5cf1-8ee0-9bf6ec68b1ff"
+  ],
+  "contexts": [
+    "It is important to integrate the gene variants and environmental factors to the trait to understand the network controlling that trait.  In systems genetics approach, different trait networks are related to different networks of gene and environmental variants to find global genetic modulation of the complex phenotype. The availability of genetic reference panels makes it easy to acquire diverse phenotypic data and advanced computational models make it possible to analyse their relationship.   2.2.1.",
+    "Processing Large-Scale, High-Dimension Genetic 325 another. We anticipate these types of networks becoming increasingly important in the human genetics space to gain a mechanistic understanding of how a given DNAperturbation induces changes in one or more genes that go on to affect networks that cause disease. The integration of genotypic and expression and other data have recently been shown, in a Bayesian network framework [76], to enhance the overall",
+    "2. GENETICAL GENOMICS In recent years, there has been growing interest in uniting genetic and genomic approaches to enable more comprehensive dissections of complex traits and their genetic architecture. Jansen and Nap (2001) termed this synthesis genetical ge-",
+    "2. GENETICAL GENOMICS In recent years, there has been growing interest in uniting genetic and genomic approaches to enable more comprehensive dissections of complex traits and their genetic architecture. Jansen and Nap (2001) termed this synthesis genetical ge-",
+    "42.Chesler EJ, et al. 2005. Complex trait analysis of gene expression uncovers polygenic and pleiotropic networks that modulate nervous system func-tion. Nat. Genet. 37:233242. 43.Iraqi FA, Churchill G, Mott R. 2008. The Collaborative Cross, develop- ing a resource for mammalian systems genetics: a status report of theWellcome Trust cohort. Mamm. Genome 19:379 381. 44.Xiao J, et al. 2010. A novel strategy for genetic dissection of complex traits:",
+    "multiple-SNP analysis of GWAS summary statistics identiesadditional variants inuencing complex traits. Nat Genet 44(369375):S1S3. doi: 10.1038/ng.2213 Yang J, Zaitlen NA, Goddard ME et al (2014) Advantages and pitfalls in the application of mixed-model association methods. NatGenet 46:100106. doi: 10.1038/ng.2876 Yazbek SN, Buchner DA, Geisinger JM et al (2011) Deep congenic",
+    "10.  The power of integrating all these genetic and genomic data has now been well documented, offering a glimpse of what the future of com-plex trait genetics will look like. Model systems that are genetically more complex, including extensive eight-strain crosses 11,12 and haplotype  association studies using large panels of regular inbred strains of mice, and even humans, are",
+    "tive analysis of omics summary data reveals putative mechanisms  underlying complex traits. Nat Commun 9:918  33. Yang J, Hong Lee S, Goddard ME, Visscher PM (2011) GCTA:  a tool for genome-wide complex trait analysis. Am J Hum Genet  88:7682  34. Zeisel A, Hochgerner H, Lnnerberg P, Johnsson A, Memic F,  van der Zwan J etal (2018) Molecular architecture of the mouse  nervous system. Cell 174:999.e221014.e22  35. Zhan X, Hu Y, Li B, Abecasis GR, Liu DJ (2016) RVTESTS:",
+    "used to identify molecular traits involved in the p athology of diseases and to eluci-  date the networks underlying complex phenotypes. Re cent studies have pushed the  genetical genomics concept further towards data int egration and interpretation  within and across molecular levels, and have also r evealed remaining challenges.  The focus of this review is to discuss these challe nges and their possible solutions in",
+    "2 large populations. The new methods have allowed us to dissect the genetic architecture of  complex disorders including the identification of the causal genomic loci, estimation of  the disease heritability, estimation of effect sizes of different loci and their non-additive  interactions.    Linkage analysis     The earlier breakthroughs in linking genotype with phenotype involved studies of  Mendelian disorders that can be mapped to a single gene and a single mutation. These"
+  ],
+  "answer": "Recent advancements in network-based integrative genomics have significantly enhanced our understanding of complex trait architectures by enabling a more comprehensive analysis of the interactions between genetic and environmental factors. These advancements allow for the integration of gene variants and environmental factors to better understand the networks controlling complex traits [1]. The use of systems genetics approaches facilitates the connection of different trait networks with networks of gene and environmental variants, which helps in identifying the global genetic modulation of complex phenotypes [1].  Moreover, the integration of genotypic, expression, and other data within a Bayesian network framework has been shown to improve our mechanistic understanding of how DNA perturbations can induce changes in gene networks that ultimately affect disease outcomes [2]. This integrative approach provides a more detailed view of the polygenic and pleiotropic networks that modulate complex traits, such as those affecting the nervous system [5].  Overall, these advancements in network-based integrative genomics offer a more nuanced and interconnected view of complex trait architectures, moving beyond single-gene analyses to consider the broader network of interactions that contribute to phenotypic outcomes.",
+  "question": "How do recent advancements in network-based integrative genomics alter our understanding of complex trait architectures?"
+}

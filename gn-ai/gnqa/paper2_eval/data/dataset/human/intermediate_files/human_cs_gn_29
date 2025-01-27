@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Genetic architecture supports mosaic brain evolution and independent brain\u2013body size regulation_.pdf",
+    "2012 - Genetic architecture supports mosaic brain evolution and independent brain\u2013body size regulation_(1).pdf",
+    "2018 - Integrative functional genomic.pdf",
+    "2003 - Imaging genomics.pdf",
+    "2008 - The Aging Brain.pdf",
+    "2009 - Age-associated cognitive decline.pdf",
+    "2021 - System genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+    "2022 - System genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+    "2011 - A genome-wide association study of aging.pdf",
+    "2015 - A Systems-Genetics Analyses of Complex Phenotypes.pdf"
+  ],
+  "extraction_id": [
+    "e4c6a021-c822-5c6e-96ee-bdfcd9e087b6",
+    "cb9a0594-ed63-533f-b872-eea0ab9dd781",
+    "33bb0b60-582f-56b5-87da-66601ba8a482",
+    "76e11f30-b4f4-5fee-ae1f-eaf8daefc962",
+    "64f9170a-04bd-57be-ba0b-cc61edec0f37",
+    "87274deb-c57b-51c7-96f2-17111737c026",
+    "3c4e5025-5c02-522d-81f0-2354118cbf61",
+    "347bc44e-9705-5922-bfcd-22d65eb7cd80",
+    "253a4339-29d4-58c2-8a01-5137d94873b6",
+    "3f7d819b-ed86-50c7-a0c9-1955df2cead9"
+  ],
+  "document_id": [
+    "c2d37851-b1a9-5572-8de1-1cc627e5c89e",
+    "655ce593-3f0f-5065-9ce0-e9c130b6e7e4",
+    "6e37d26b-e45b-5eb8-8d79-339d9c0e05bd",
+    "b4aee92d-491c-5f9d-9c40-adb5c5cceeb6",
+    "874f5d02-35c9-5233-8ded-6e06c7570ca9",
+    "746ed855-8647-558a-9abc-c0e2d4254868",
+    "9ab8b190-fb4f-5bb0-8d04-1cd07a42192a",
+    "4198ec53-60f1-55d1-8759-b9ede1d098c0",
+    "8e9c1150-1047-54a2-bf85-1cc5000a6811",
+    "030d0226-b782-5964-8452-339777dc9658"
+  ],
+  "id": [
+    "chatcmpl-ADZMaWRstSGrYv65Txc4tWg1NphEi",
+    "340e7007-f00f-56b9-b99c-9bbf6591889a",
+    "3e7b4f88-a18f-5cdb-aa31-0eb92d4d226c",
+    "f494980a-326f-5454-8faa-890eed0a343f",
+    "54eeed5e-a1c7-566a-981d-3c40211b3992",
+    "772ad124-6371-5435-ad48-4e8546f766a0",
+    "2e99dbdc-ea40-5e40-864b-4d0ad745bc09",
+    "e5058bc7-2fc5-5a2b-852e-39efb9adc7c0",
+    "e6ce00e3-8a5d-5f20-9d18-fb8b8932dc54",
+    "919fafa2-a013-5549-9f1b-c7ccb2181215",
+    "2cc5e05a-e8fc-57cb-a7dc-c1d3ea8204a9"
+  ],
+  "contexts": [
+    "ARTICLE  nATuRE C ommunICATIons | 3:1079 | DoI: 10.1038/ncomms2086 | www.nature.com/naturecommunications  2012 Macmillan Publishers Limited. All rights reserved.Received 8 may 2012 | Accepted 23 Aug 2012 | Published 25 sep 2012 DOI: 10.1038/ncomms2086 The mammalian brain consists of distinct parts that fulfil different functions. Finlay and   Darlington have argued that evolution of the mammalian brain is constrained by",
+    "ARTICLE  nATuRE C ommunICATIons | 3:1079 | DoI: 10.1038/ncomms2086 | www.nature.com/naturecommunications  2012 Macmillan Publishers Limited. All rights reserved.Received 8 may 2012 | Accepted 23 Aug 2012 | Published 25 sep 2012 DOI: 10.1038/ncomms2086 The mammalian brain consists of distinct parts that fulfil different functions. Finlay and   Darlington have argued that evolution of the mammalian brain is constrained by",
+    "Daniel H. Geschwind, Michael J. Hawrylycz, Matthew W. State, Stephan J. Sanders, Patrick F. Sullivan, Mark B. Gerstein , Ed S. Lein , James A. Knowles , Nenad Sestan  INTRODUCTION: The brain is responsible for cognition, behavior, and much of what makes us uniquely human. The development of the brain is a highly complex process, and this process is reliant on precise regulation of molecular and cellular events grounded in the spatiotemporal regulation of the transcrip-",
+    "addition,each study implemented rigorous controls for non-genetic factors suchas age, gender, IQ and performance on the experimental task. They alsocapitalized on existing functional paradigms designed to explorephysiological aspects of distinct neural systems.",
+    "brain to prevent theapoptosis of irreplaceable neurons, even in the",
+    "Funding Funding from the BBSRC, EPSRC, ESRC and MRC is gratefully acknowledged. References 1 Brayne C (2007) The elephant in the room: healthy brains in later life, epidemiology and public health. Nat Rev Neurosci ,8, 233239. 2 Gow J, Gilhooly M (2003) Risk Factors for Dementia and Cognitive Decline . Glasgow: NHS Health Scotland. 3 House of Lords (2005) Ageing: scientific aspects. London: The Stationery Office. 4 Stern PC, Carstensen LL (2000) The Aging Mind. Washington, DC: National Academy Press.",
+    "1124 the brain. Nature Reviews Neuroscience. Nat Rev Neurosci; 2012. pp. 225239.  1125 doi:10.1038/nrn3209 1126 75. van Praag X, Fleshner M, Schwartz MW, Mattson MP. Exercise, energy intake,  1127 glucose homeostasis, and the brain. J Neurosci. 2014;34: 1513915149.  1128 doi:10.1523/JNEUROSCI.2814-14.2014 1129 76. Rafalski VA, Brunet A. Energy metabolism in adult neural stem cell fate. Progress in  1130 Neurobiology. Prog Neurobiol; 2011. pp. 182203.  1131 doi:10.1016/j.pneurobio.2010.10.007",
+    "1124 the brain. Nature Reviews Neuroscience. Nat Rev Neurosci; 2012. pp. 225239.  1125 doi:10.1038/nrn3209 1126 75. van Praag X, Fleshner M, Schwartz MW, Mattson MP. Exercise, energy intake,  1127 glucose homeostasis, and the brain. J Neurosci. 2014;34: 1513915149.  1128 doi:10.1523/JNEUROSCI.2814-14.2014 1129 76. Rafalski VA, Brunet A. Energy metabolism in adult neural stem cell fate. Progress in  1130 Neurobiology. Prog Neurobiol; 2011. pp. 182203.  1131 doi:10.1016/j.pneurobio.2010.10.007",
+    "for the creation of redun-dancy in brain circuitry, which is associated with functionalreserve and resiliency. Brain function regulates most of thecompensatory strategy supporting maintenance of homeo-static equilibrium. Both of these processes are essential tohealthy aging and longevity.",
+    "of complex traits. It has been said that The brain is the chief architect,  orchestrator and driver of behavior; behavior, in turn, is the principal function of  the brain (Gomez -Marin et al., 2014, p. 1455) , and therefore to understand one  we need to understand the other. The brain and the behaviours that it causes are  highly complex traits influen ced by many factors including genes (Hager et al.,  2012; Hitzemann et al., 2013; McCarroll and Hyman, 2013) , environment (Carola"
+  ],
+  "answer": "The proper functioning of the brain is ensured by several factors:  1. **Precise Regulation of Molecular and Cellular Events**: The development of the brain is a highly complex process that relies on the precise regulation of molecular and cellular events, which are grounded in the spatiotemporal regulation of transcription [3].  2. **Energy Metabolism**: Energy metabolism plays a crucial role in the fate of adult neural stem cells, which is essential for maintaining brain function [8].  3. **Functional Reserve and Resiliency**: The creation of redundancy in brain circuitry is associated with functional reserve and resiliency, which are critical for maintaining homeostatic equilibrium and supporting healthy aging and longevity [9].  These factors collectively ensure that the brain works effectively.",
+  "question": "what ensures brains work"
+}

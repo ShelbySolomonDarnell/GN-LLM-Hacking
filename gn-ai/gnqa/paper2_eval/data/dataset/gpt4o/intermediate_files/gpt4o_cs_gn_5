@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Genome-wide polygenic scores for common diseases.pdf",
+    "2018 - Communication of cancer-related genetic and genomic information A landscape analysis of reviews.pdf",
+    "2012 - Population-based screening in the era of genomics.pdf",
+    "2009 - From Disease Association to Risk Assessment.pdf",
+    "2010 - Interactions of Dietary Whole-Grain Intake.pdf",
+    "2014 -  Impact of Delivery Models on Understanding Genomic Risk for Type 2 Diabetes.pdf",
+    "2014 -  Impact of Delivery Models on Understanding Genomic Risk for Type 2 Diabetes.pdf",
+    "2009 - Basic Genetics and Genomics A Primer for Nurses.pdf",
+    "2010 - Considerations for the Impact of Personal Genome Information.pdf",
+    "2004 - The emergence of epidemiology.pdf"
+  ],
+  "extraction_id": [
+    "df306ee1-389f-56bb-bc5e-80ca8ff68fff",
+    "672e1f6a-25dd-5973-b19e-8d9371ec8973",
+    "706f0647-f63c-5383-9167-724c83faf79c",
+    "6f819601-6eea-54a4-ab88-27e1b0602287",
+    "37a4db8f-72a7-5e4e-b396-94bc0532a29d",
+    "3b79395f-0e1c-564c-9965-b04acf204132",
+    "074c3cae-ea97-5e74-8607-74c099df35cd",
+    "a58546e6-fe89-5d04-8adb-08d1991dc53c",
+    "694d74ca-68c2-5874-b143-113c6cc7802a",
+    "d7c4830a-8d69-531b-855a-eda3fa2ea5e7"
+  ],
+  "document_id": [
+    "a8cefcf1-7edf-52cc-8aeb-b4d353acaef5",
+    "2a560126-b122-55dc-a213-a16bc00300b7",
+    "3a8d8722-9a3a-5062-9548-48e3c3bd6247",
+    "a61066d0-0d1a-5f10-96c3-aa96bacdad5e",
+    "e4d4a19e-18a0-5a08-9ab7-537f31b7cdc1",
+    "b2665466-da66-59f0-8581-a68131e924bf",
+    "b2665466-da66-59f0-8581-a68131e924bf",
+    "c37e2ace-171b-5776-8969-86eda9736481",
+    "e4f3c9ce-1cc1-56f1-a290-b874455e53f9",
+    "53cc9020-d5d9-5c5b-a8df-66b3f1019961"
+  ],
+  "id": [
+    "chatcmpl-AIGlUj81qIxsp6ZB9jZOhAF3uBNfA",
+    "d31fc0e8-028a-5879-b262-ec03ca586488",
+    "d57998c0-b045-5f68-a2ad-2173add21137",
+    "65aa608a-7e60-54bb-a299-ae1e2e66d0cd",
+    "deab786b-11ed-5c75-8ff5-fd2812138917",
+    "946c47ae-bbaf-5151-88f0-afa898c28a66",
+    "563b865d-03a4-5607-a6c5-a0ee977010b4",
+    "8ac717f0-586c-5ee3-b4e3-4334657938b5",
+    "f8a32960-cfe3-5440-9d5c-b55dfe52ea6d",
+    "3c0229cb-f853-5ef6-b45f-5462f62ede91",
+    "60497a7a-5c86-51a3-bc73-e373ca716270"
+  ],
+  "contexts": [
+    "Letters NATure GeNeTicsIn our testing dataset, 19.8% of participants were at   threefold  increased risk for at least 1 of the 5 diseases studied (Table 2). The potential to identify individuals at significantly higher genetic  risk, across a wide range of common diseases and at any age, poses a number of opportunities and challenges for clinical medicine. Where effective prevention or early detection strategies are  available, key issues will include the allocation of attention and",
+    "genetic risks of disease on risk-reducing health behaviour: Systematic  review with meta-analysis. BMJ. 2016;352:i1102. 57. Vernarelli JA. Impact of genetic risk assessment on nutrition-related life- style behaviours. Proc Nutr Soc . 2013;72(1):153159. 58. Marteau TM, French DP , Griffin SJ, et  al. Effects of communicating DNA- based disease risk estimates on risk-reducing behaviours. Cochrane  Database Syst Rev . 2010;(10).  59. National Human Genome Research Institute. All about The Human",
+    "personalized screening based on age and  polygenic risk profile. 12 Pashayan N, Pharoah P. Translating genomics  into improved population screening: hype or  hope? Hum. Genet.  130(1), 1921 (2011). 13 Pharoah PD, Antoniou A, Bobrow M,  Zimmern RL, Easton DF, Ponder BA. Polygenic susceptibility to breast cancer and  implications for prevention. Nat. Genet.  31(1),  3336 (2002). nn\t Examines the potential for prediction of  risk based on common genetic variation and  compares this with the prediction that",
+    "Eur J Hum Genet. 12. Janssens AC, van Duijn CM (2008) Genome-based prediction of common diseases: advances and prospects. Hum Mol Genet 17: R166173. 13. Wray NR, Goddard ME, Visscher PM (2007) Prediction of individual genetic risk to disease from genome-wide association studies. Genome Res 17:15201528. 14. Wray NR, Goddard ME, Visscher PM (2008) Prediction of individual genetic risk of complex disease. Curr Opin Genet Dev 18: 257263. 15. Jakobsdottir J, Gorin MB, Conley YP, Ferrell RE, Weeks DE (2009)",
+    "within the general population and toutedfor its potential contribution to personal-ized medicine (1315), although the un-derlying clinical utility has yet to bedemonstrated (16,17). Given the poten-tial for individual genetic risk to beempirically quantied and rapidly com-municated, it is of interest to both clini-cians and the general public to discover ifmodiable characteristics like diet canmitigate risk in individuals empiricallydened as high risk on the basis ofgenotype.",
+    "Comprehension of Genomic Risk for  Diabetes  Public Health Genomics 2014;17:95104  DOI: 10.1159/000358413103  9 Green MJ, Peterson SK, Baker MW, Harper  GR, Friedman LC, Rubinstein WS, Mauger DT: Effect of a computer-based decision aid on knowledge, perceptions, and intentions about genetic testing for breast cancer suscep-tibility: a randomized controlled trial. JAMA 2004;    292:   442452.   10 Bernhardt JM, McClain J, Parrott RL: Online",
+    "Comparison of family history and SNPs for predicting risk of complex disease. PLoS Ge-net 2012;    8:e1002973.    Downloaded from http://karger.com/phg/article-pdf/17/2/95/3426597/000358413.pdf by guest on 03 July 2023",
+    "Genetics Home Reference - Genetics Home Reference provides consumer-friendly  information about the effects of genetic variations on human health.  http://ghr.nlm.nih.gov/   Gene Reviews  Features expert-authored, peer-reviewed, current disease descriptions  that apply genetic testing to the diagnosis, management, and genetic counseling of  patients and families with specific inherited conditions. www.genetests.org/servlet/access?",
+    "Khoury, M. J. (2006). Family history of type 2 diabetes: apopulation-based screening tool for prevention? Genetics in Medicine, 8 (2), 102 108. Hunter, D. J., Khoury, M. J., & Drazen, J. M. (2008). Letting the genome out of the bottle will we get our wish? The New England Journal of Medicine, 358 (2), 105 107. Ioannidis, J. P. A. (2009). Personalized genetic prediction: too limited, too expensive, or too soon? Annals of Internal Medicine, 150 (2), 139141.",
+    "genomic profiling for measuring susceptibility to common diseasesand targeting interventions. Genet Med 2004; 6:3847. 42Vineis P, Christiani DC. Genetic testing for sale. Epidemiology 2004; 15:35. 43Haga SB, Khoury MJ, Burke W. Genomic profiling to promote ahealthy lifestyle: not ready for prime time. Nat Genet 2003; 34:34750. 44Yang Q, Khoury MJ, Botto L et al. Improving the prediction of complex diseases by testing for multiple disease-susceptibility genes.Am J Hum Genet 2003; 72:63649."
+  ],
+  "answer": "The context provided does not specifically mention GeneNetwork.org or its capabilities in predicting health conditions based on genetic information. However, the context does discuss the general potential of genetic information to predict disease risk. For example, it mentions the ability to identify individuals at higher genetic risk for common diseases [1], and the potential for genomic profiling to measure susceptibility to diseases [10].   While these references indicate that genetic information can be used to assess disease risk, there is no direct mention of GeneNetwork.org's specific capabilities in this area. Therefore, based on the provided context, it is unclear if GeneNetwork.org itself offers such predictive services.",
+  "question": "Can GeneNetwork.org predict my risk of developing certain health conditions based on my genes?"
+}

@@ -1,0 +1,406 @@
+{
+    "created_at": "2024-06-01T14:22:47.136754Z",
+    "data": {
+        "amplify": false,
+        "answer": "GeneNetwork utilizes datasets containing phenotypes and genotypes for QTL mapping analysis. These datasets may include genetic, genomic, and phenotypic data. The data are often formatted and normalized, and come with metadata. The database also includes data on complex phenotypes ranging from gene expression to behavior in standard inbred strains, and panels of mouse recombinant inbred strains. Rat and Arabidopsis populations are also represented in the database.",
+        "context": {
+            "071b4686-f5c4-4759-a038-14d79a45dac7": [
+                {
+                    "document_id": "071b4686-f5c4-4759-a038-14d79a45dac7",
+                    "text": "The project also provides online analysis tools to allow\nidentification of correlations within its data set. GeneNetwork (http://www.genenetwork.org), encompassing WebQTL, is a database of\ngenotypes and complex phenotypes ranging from gene expression to behaviour in standard\ninbred strains, and six panels of mouse recombinant inbred strains including the two largest\nsets (BXD and LXS) of approximately 80 strains each. Rat and Arabidopsis populations are\nalso represented. Approximately 1500 phenotypes spanning the 25 year history of these\nstrains are incorporated in this public resource, many of which were retrieved from the\nliterature."
+                }
+            ],
+            "0e6c370f-b514-4551-b6ed-9cc72e6f6b75": [
+                {
+                    "document_id": "0e6c370f-b514-4551-b6ed-9cc72e6f6b75",
+                    "text": "GN spares the\nuser most of these problem. Data are formatted and normalized, and usually come with good\nmetadata (often in the form of links to more information). This greatly simplifies QTL and\neQTL analysis, candidate gene discovery, coexpression analysis, and hypothesis testing [3,\n10]."
+                },
+                {
+                    "document_id": "0e6c370f-b514-4551-b6ed-9cc72e6f6b75",
+                    "text": "Suitable for quantitative\ngenetics (QTL mapping) and systems genetics, including correlation and\nnetwork analysis to compare associations between tissues and between\nother rodent or human data sets\n\nDescription and usage\n\n[32]\n\n[31]\n\n[30]\n\n[11]\n\nReferences\n\nMany of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential\nusage."
+                }
+            ],
+            "2a92d7b5-946c-4a22-a4b9-26e950b0f757": [
+                {
+                    "document_id": "2a92d7b5-946c-4a22-a4b9-26e950b0f757",
+                    "text": "Bioinformatics\nAll of the genetic analyses were carried out in GeneNetwork, which\nis an open source bioinformatics resource for systems genetics that\nexists as both a repository for genetic, genomic and phenotypic\ndata together with a suite of statistical programs for data analysis that includes mapping and evaluating QTLs, examining phenotype/genotype correlations and building interaction networks. QTL mapping\nThe QTL mapping module of GeneNetwork was used to identify\nQTLs for hippocampal morphometry and radial maze trait data. This\nmodule enables interval mapping, composite interval mapping and\na pairwise scan option to identify epistatic effects."
+                }
+            ],
+            "389bdbf3-0224-4edb-a4fb-71a54971ba66": [
+                {
+                    "document_id": "389bdbf3-0224-4edb-a4fb-71a54971ba66",
+                    "text": "There\nare four options for QTL mapping on the GeneNetwork website: interval\nmapping, marker regression analysis, composite interval mapping, and pairscan analysis. In this case, interval mapping was used to compute linkage\nmaps for the entire genome. The log of odds (LOD) score was used to\nassert that a causal relation exists between a chromosomal location and a\nphenotypic variant, such as Gsto1 expression variation."
+                }
+            ],
+            "3df1bffa-3d23-4b6b-9d59-6ef8b0001f48": [
+                {
+                    "document_id": "3df1bffa-3d23-4b6b-9d59-6ef8b0001f48",
+                    "text": "Webqtl is an online database [110] of linked datasets, including genotype and expression\ndata, covering multiple species including mouse, macaque monkey, rat, drosophila,\narabidopsis, plants and humans [60]. While this tool cannot be used to calculate eQTLs, it\ncan be used to find and visualize eQTLs in different species, strains and tissues. It can\nperform single- and multiple-interval QTL mapping of up to 100 selected traits. Users can\nalso upload their own trait data for populations included in the database. It can also calculate\nand display trait-correlation matrices and network graphs (also for up to 100 traits)."
+                }
+            ],
+            "43407486-b9c2-487b-b19c-b605c4d201c6": [
+                {
+                    "document_id": "43407486-b9c2-487b-b19c-b605c4d201c6",
+                    "text": "GN spares the\nuser most of these problem. Data are formatted and normalized, and usually come with good\nmetadata (often in the form of links to more information). This greatly simplifies QTL and\neQTL analysis, candidate gene discovery, coexpression analysis, and hypothesis testing [3,\n10]."
+                },
+                {
+                    "document_id": "43407486-b9c2-487b-b19c-b605c4d201c6",
+                    "text": "Suitable for quantitative\ngenetics (QTL mapping) and systems genetics, including correlation and\nnetwork analysis to compare associations between tissues and between\nother rodent or human data sets\n\nDescription and usage\n\n[32]\n\n[31]\n\n[30]\n\n[11]\n\nReferences\n\nMany of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential\nusage."
+                }
+            ],
+            "516cc395-4e7c-4371-9444-24edb56a7233": [
+                {
+                    "document_id": "516cc395-4e7c-4371-9444-24edb56a7233",
+                    "text": "QTL MAPPING AND QTG DISCOVERY IN THE RCC\nA variety of statistical methods and tools have been developed for QTL mapping and\nimplemented in free software for public use. These methods are well suited for simple\nbackcross and F2 RCC populations. R/qtl9,39 was developed for identiﬁcation of\nQTLs and higher order modeling. Another Web-based tool, GeneNetwork or\nWebQTL (GeneNetwork.org),40 was developed for QTL mapping and to explore\nassociations between variants, molecular traits (e.g. , gene expression), and higher order\nphenotypes (e.g. , behavior) and facilitate QTG identiﬁcation."
+                }
+            ],
+            "550c099f-88d0-483f-865a-01ef7362e2be": [
+                {
+                    "document_id": "550c099f-88d0-483f-865a-01ef7362e2be",
+                    "text": "This enables gene expression\ncorrelation and interval mapping, candidate gene searches and multitrait analyses. Each exported dataset was subject to an interval mapping analysis,\nwhich uses GeneNetwork’s embedded MapManager software\n(Manly et al . 2001) to perform Haley–Knott regression. Empirical P values were derived using 1000 permutations using the incorporated\npermutation feature of WebQTL. The peak of each statistically\nsignificant (P -value <0.05) or suggestive (P -value <0.63) (Lander\n& Kruglyak 1995) QTL was determined based on empirical P values (Doerge & Churchill 1996). A one-LOD drop-off was used\nto determine the QTL confidence interval about each peak."
+                }
+            ],
+            "581f83bc-3521-4cb3-ad3c-d905a90ecc29": [
+                {
+                    "document_id": "581f83bc-3521-4cb3-ad3c-d905a90ecc29",
+                    "text": "The peak linkage value\nand position was databased in GeneNetwork and users\ncan rapidly retrieve and view these mapping results for\nany probe set. Any of the QTL maps can also be rapidly\nregenerated using the same Haley-Knott methods, again\nusing functions imbedded in GeneNetwork. GeneNetwork also enable a search for epistatic interactions (pair\nscanning function) and composite interval mapping with\ncontrol for a single marker. Data quality control\n\nWe used two simple but effective methods to confirm\ncorrect sample identification of all data entered into\nGeneNetwork."
+                }
+            ],
+            "5bd8262b-b2cd-4098-a494-ede168941a9a": [
+                {
+                    "document_id": "5bd8262b-b2cd-4098-a494-ede168941a9a",
+                    "text": "QTL analysis\nAll QTL mapping for phenotypes was performed using the WebQTL software module of the\n\n170\n\nGeneNetwork (www.genenetwork.org) [34]. Interval mapping to evaluate potential QTLs was\ncalculated from the likelihood ratio statistics (LRS) as the software’s default measurement of\nthe association between differences in traits and differences in particular genotype markers. Another common measure score, the log of the odds (LOD) ratio, can be converted from the\nLRS (LRS/4.61). Suggestive and significant LRS values were determined by applying 1000\n\n175\n\npermutations."
+                }
+            ],
+            "80eb54fe-0d83-4300-9fba-e17ce5d1e5b4": [
+                {
+                    "document_id": "80eb54fe-0d83-4300-9fba-e17ce5d1e5b4",
+                    "text": "Unlike interval-specific haplotype analysis, which is most useful for narrowing a QTL shared by\nmultiple crosses, genome-wide haplotype analysis\nrequires only phenotype information from many inbred\nstrains and can effectively narrow a QTL identified in\nonly one experimental cross [36]. After narrowing the QTL to an interval that is !5 Mb\nusing these bioinformatics techniques or classical experimental methods, strain-specific sequence and gene\nexpression comparisons are effective for focusing on a\nfew strong candidate genes (Figure 7)."
+                }
+            ],
+            "86b86235-b7a8-4dfc-be13-d119dc31b377": [
+                {
+                    "document_id": "86b86235-b7a8-4dfc-be13-d119dc31b377",
+                    "text": "We considered QTL intervals that achieved genome-wide\nsignificance for one phenotype, and genome-wide suggestive for\nothers, as highest priority for candidate gene analysis. The January 2017 BXD genotype file was used4 . Updated linear mixed model mapping algorithms are now\navailable on GeneNetwork 25 (Sloan et al. , 2016), that account for\nkinship among strains. These new algorithms include GEMMA\n(Zhou and Stephens, 2012), pyLMM6 (Sul et al. , 2016), and\nR/qtl27 ."
+                }
+            ],
+            "9b2a48a0-f85e-4104-944f-0c47a3b03a9b": [
+                {
+                    "document_id": "9b2a48a0-f85e-4104-944f-0c47a3b03a9b",
+                    "text": "The peak linkage value\nand position was databased in GeneNetwork and users\ncan rapidly retrieve and view these mapping results for\nany probe set. Any of the QTL maps can also be rapidly\nregenerated using the same Haley-Knott methods, again\nusing functions imbedded in GeneNetwork. GeneNetwork also enable a search for epistatic interactions (pair\nscanning function) and composite interval mapping with\ncontrol for a single marker. Data quality control\n\nWe used two simple but effective methods to confirm\ncorrect sample identification of all data entered into\nGeneNetwork."
+                }
+            ],
+            "a4508fb3-c66b-4526-b2a2-a327505d085a": [
+                {
+                    "document_id": "a4508fb3-c66b-4526-b2a2-a327505d085a",
+                    "text": "There\nare four options for QTL mapping on the GeneNetwork website: interval\nmapping, marker regression analysis, composite interval mapping, and pairscan analysis. In this case, interval mapping was used to compute linkage\nmaps for the entire genome. The log of odds (LOD) score was used to\nassert that a causal relation exists between a chromosomal location and a\nphenotypic variant, such as Gsto1 expression variation."
+                }
+            ],
+            "b5c36c1e-458e-4009-818e-9c0c2ee23e45": [
+                {
+                    "document_id": "b5c36c1e-458e-4009-818e-9c0c2ee23e45",
+                    "text": "eQTL mapping\n\nQTL mapping was performed with GeneNetwork, an online bioinformatics resource\nfeaturing tools for systems genetic and complex trait analysis [9, 35]. QTL mapping\ninvolves entering VMB and CP iron data (strain means and SEM) as quantitative traits; the\nsoftware generates whole-genome interval maps for each trait. The interval maps graphically\nillustrate phenotype–genotype associations as peaks (QTL) indicating the strength of\nassociation between genomic polymorphisms and the quantitative trait throughout the\ngenome."
+                }
+            ],
+            "baacd740-efc8-42f2-af22-6f5ac9710900": [
+                {
+                    "document_id": "baacd740-efc8-42f2-af22-6f5ac9710900",
+                    "text": "Genetic Mapping\nIn this study we utilize GeneNetwork, a database containing phenotypes and genotypes,\nand also serves as an analysis engine for quantitative trait locus (QTL) mapping, genetic\ncorrelations, and phenome-wide association studies (PheWAS) (Sloan et al. , 2016; Mulligan et\nal. , 2017; Watson and Ashbrook, 2020). QTL analysis involves connecting phenotype data with\ngenotype data to examine genetic variation in traits controlled by multiple genes and their\ninteraction with the environment (also called complex traits)(Lynch et al. , 1998; Myles and\nWayne, 2008; Goddard et al. , 2016)."
+                }
+            ],
+            "beb7a242-21fe-4a66-8b44-7f228c0d3640": [
+                {
+                    "document_id": "beb7a242-21fe-4a66-8b44-7f228c0d3640",
+                    "text": "Once the resulting record set of the\nquery is returned, it can be further restricted by selecting\nrelevant records based on attached annotations before forwarding it for further analysis. To map genetic loci associated with mRNA abundance or\ntrait phenotypes, any one of the three QTL mapping functions currently employed by GeneNetwork's WebQTL\nmodule can be used. These are 1. interval mapping, 2. single-marker regression, or 3. composite mapping [29,30]."
+                }
+            ],
+            "e70f7c61-1734-4048-8a79-382e9b381686": [
+                {
+                    "document_id": "e70f7c61-1734-4048-8a79-382e9b381686",
+                    "text": "genenetwork.org/) a set of 3795 markers. Linkage is reported with\ngenome-wide significance levels based on 2000 permutation tests. Two types of QTL mapping analyses–simple mapping using the Haley–\nKnott regression equation, and composite interval mapping–were\nutilized in this study. Simple interval mapping was performed to\nillustrate the significance of any QTLs that regulate the TID. As a\nsecondary analysis, composite interval mapping which controlled for\nthe influence of Tyrp1 was also performed with the goal of identifying\nany secondary QTLs that may have been masked by the major QTL on\nChr 4."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "baacd740-efc8-42f2-af22-6f5ac9710900",
+                "section_type": "main",
+                "text": "Genetic Mapping\nIn this study we utilize GeneNetwork, a database containing phenotypes and genotypes,\nand also serves as an analysis engine for quantitative trait locus (QTL) mapping, genetic\ncorrelations, and phenome-wide association studies (PheWAS) (Sloan et al. , 2016; Mulligan et\nal. , 2017; Watson and Ashbrook, 2020).  QTL analysis involves connecting phenotype data with\ngenotype data to examine genetic variation in traits controlled by multiple genes and their\ninteraction with the environment (also called complex traits)(Lynch et al. , 1998; Myles and\nWayne, 2008; Goddard et al. , 2016)."
+            },
+            {
+                "document_id": "550c099f-88d0-483f-865a-01ef7362e2be",
+                "section_type": "main",
+                "text": "This enables gene expression\ncorrelation and interval mapping, candidate gene searches and multitrait analyses.\n Each exported dataset was subject to an interval mapping analysis,\nwhich uses GeneNetwork’s embedded MapManager software\n(Manly et al .  2001) to perform Haley–Knott regression.  Empirical P values were derived using 1000 permutations using the incorporated\npermutation feature of WebQTL.  The peak of each statistically\nsignificant (P -value <0.05) or suggestive (P -value <0.63) (Lander\n& Kruglyak 1995) QTL was determined based on empirical P values (Doerge & Churchill 1996).  A one-LOD drop-off was used\nto determine the QTL confidence interval about each peak."
+            },
+            {
+                "document_id": "beb7a242-21fe-4a66-8b44-7f228c0d3640",
+                "section_type": "main",
+                "text": "Once the resulting record set of the\nquery is returned, it can be further restricted by selecting\nrelevant records based on attached annotations before forwarding it for further analysis.\n\n To map genetic loci associated with mRNA abundance or\ntrait phenotypes, any one of the three QTL mapping functions currently employed by GeneNetwork's WebQTL\nmodule can be used.  These are 1. interval mapping, 2. single-marker regression, or 3. composite mapping [29,30]."
+            },
+            {
+                "document_id": "86b86235-b7a8-4dfc-be13-d119dc31b377",
+                "section_type": "main",
+                "text": "We considered QTL intervals that achieved genome-wide\nsignificance for one phenotype, and genome-wide suggestive for\nothers, as highest priority for candidate gene analysis.\n The January 2017 BXD genotype file was used4 .\n Updated linear mixed model mapping algorithms are now\navailable on GeneNetwork 25 (Sloan et al. , 2016), that account for\nkinship among strains.  These new algorithms include GEMMA\n(Zhou and Stephens, 2012), pyLMM6 (Sul et al. , 2016), and\nR/qtl27 ."
+            },
+            {
+                "document_id": "516cc395-4e7c-4371-9444-24edb56a7233",
+                "section_type": "main",
+                "text": "QTL MAPPING AND QTG DISCOVERY IN THE RCC\nA variety of statistical methods and tools have been developed for QTL mapping and\nimplemented in free software for public use.  These methods are well suited for simple\nbackcross and F2 RCC populations.  R/qtl9,39 was developed for identiﬁcation of\nQTLs and higher order modeling.  Another Web-based tool, GeneNetwork or\nWebQTL (GeneNetwork.org),40 was developed for QTL mapping and to explore\nassociations between variants, molecular traits (e.g. , gene expression), and higher order\nphenotypes (e.g. , behavior) and facilitate QTG identiﬁcation."
+            },
+            {
+                "document_id": "3df1bffa-3d23-4b6b-9d59-6ef8b0001f48",
+                "section_type": "main",
+                "text": "Webqtl is an online database [110] of linked datasets, including genotype and expression\ndata, covering multiple species including mouse, macaque monkey, rat, drosophila,\narabidopsis, plants and humans [60].  While this tool cannot be used to calculate eQTLs, it\ncan be used to find and visualize eQTLs in different species, strains and tissues.  It can\nperform single- and multiple-interval QTL mapping of up to 100 selected traits.  Users can\nalso upload their own trait data for populations included in the database.  It can also calculate\nand display trait-correlation matrices and network graphs (also for up to 100 traits)."
+            },
+            {
+                "document_id": "e70f7c61-1734-4048-8a79-382e9b381686",
+                "section_type": "main",
+                "text": "genenetwork.org/) a set of 3795 markers.  Linkage is reported with\ngenome-wide significance levels based on 2000 permutation tests.\n Two types of QTL mapping analyses–simple mapping using the Haley–\nKnott regression equation, and composite interval mapping–were\nutilized in this study.  Simple interval mapping was performed to\nillustrate the significance of any QTLs that regulate the TID.  As a\nsecondary analysis, composite interval mapping which controlled for\nthe influence of Tyrp1 was also performed with the goal of identifying\nany secondary QTLs that may have been masked by the major QTL on\nChr 4."
+            },
+            {
+                "document_id": "2a92d7b5-946c-4a22-a4b9-26e950b0f757",
+                "section_type": "main",
+                "text": "Bioinformatics\nAll of the genetic analyses were carried out in GeneNetwork, which\nis an open source bioinformatics resource for systems genetics that\nexists as both a repository for genetic, genomic and phenotypic\ndata together with a suite of statistical programs for data analysis that includes mapping and evaluating QTLs, examining phenotype/genotype correlations and building interaction networks.\n\n QTL mapping\nThe QTL mapping module of GeneNetwork was used to identify\nQTLs for hippocampal morphometry and radial maze trait data.  This\nmodule enables interval mapping, composite interval mapping and\na pairwise scan option to identify epistatic effects."
+            },
+            {
+                "document_id": "0e6c370f-b514-4551-b6ed-9cc72e6f6b75",
+                "section_type": "main",
+                "text": "Suitable for quantitative\ngenetics (QTL mapping) and systems genetics, including correlation and\nnetwork analysis to compare associations between tissues and between\nother rodent or human data sets\n\nDescription and usage\n\n[32]\n\n[31]\n\n[30]\n\n[11]\n\nReferences\n\nMany of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork.  The Description and Usage column provides details about the data set and potential\nusage."
+            },
+            {
+                "document_id": "43407486-b9c2-487b-b19c-b605c4d201c6",
+                "section_type": "main",
+                "text": "Suitable for quantitative\ngenetics (QTL mapping) and systems genetics, including correlation and\nnetwork analysis to compare associations between tissues and between\nother rodent or human data sets\n\nDescription and usage\n\n[32]\n\n[31]\n\n[30]\n\n[11]\n\nReferences\n\nMany of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork.  The Description and Usage column provides details about the data set and potential\nusage."
+            },
+            {
+                "document_id": "071b4686-f5c4-4759-a038-14d79a45dac7",
+                "section_type": "main",
+                "text": "The project also provides online analysis tools to allow\nidentification of correlations within its data set.\n GeneNetwork (http://www.genenetwork.org), encompassing WebQTL, is a database of\ngenotypes and complex phenotypes ranging from gene expression to behaviour in standard\ninbred strains, and six panels of mouse recombinant inbred strains including the two largest\nsets (BXD and LXS) of approximately 80 strains each.  Rat and Arabidopsis populations are\nalso represented.  Approximately 1500 phenotypes spanning the 25 year history of these\nstrains are incorporated in this public resource, many of which were retrieved from the\nliterature."
+            },
+            {
+                "document_id": "581f83bc-3521-4cb3-ad3c-d905a90ecc29",
+                "section_type": "main",
+                "text": "The peak linkage value\nand position was databased in GeneNetwork and users\ncan rapidly retrieve and view these mapping results for\nany probe set.  Any of the QTL maps can also be rapidly\nregenerated using the same Haley-Knott methods, again\nusing functions imbedded in GeneNetwork.  GeneNetwork also enable a search for epistatic interactions (pair\nscanning function) and composite interval mapping with\ncontrol for a single marker.\n Data quality control\n\nWe used two simple but effective methods to confirm\ncorrect sample identification of all data entered into\nGeneNetwork."
+            },
+            {
+                "document_id": "9b2a48a0-f85e-4104-944f-0c47a3b03a9b",
+                "section_type": "main",
+                "text": "The peak linkage value\nand position was databased in GeneNetwork and users\ncan rapidly retrieve and view these mapping results for\nany probe set.  Any of the QTL maps can also be rapidly\nregenerated using the same Haley-Knott methods, again\nusing functions imbedded in GeneNetwork.  GeneNetwork also enable a search for epistatic interactions (pair\nscanning function) and composite interval mapping with\ncontrol for a single marker.\n Data quality control\n\nWe used two simple but effective methods to confirm\ncorrect sample identification of all data entered into\nGeneNetwork."
+            },
+            {
+                "document_id": "5bd8262b-b2cd-4098-a494-ede168941a9a",
+                "section_type": "main",
+                "text": "QTL analysis\nAll QTL mapping for phenotypes was performed using the WebQTL software module of the\n\n170\n\nGeneNetwork (www.genenetwork.org) [34].  Interval mapping to evaluate potential QTLs was\ncalculated from the likelihood ratio statistics (LRS) as the software’s default measurement of\nthe association between differences in traits and differences in particular genotype markers.\n Another common measure score, the log of the odds (LOD) ratio, can be converted from the\nLRS (LRS/4.61).  Suggestive and significant LRS values were determined by applying 1000\n\n175\n\npermutations."
+            },
+            {
+                "document_id": "389bdbf3-0224-4edb-a4fb-71a54971ba66",
+                "section_type": "main",
+                "text": "There\nare four options for QTL mapping on the GeneNetwork website: interval\nmapping, marker regression analysis, composite interval mapping, and pairscan analysis.  In this case, interval mapping was used to compute linkage\nmaps for the entire genome.  The log of odds (LOD) score was used to\nassert that a causal relation exists between a chromosomal location and a\nphenotypic variant, such as Gsto1 expression variation."
+            },
+            {
+                "document_id": "a4508fb3-c66b-4526-b2a2-a327505d085a",
+                "section_type": "main",
+                "text": "There\nare four options for QTL mapping on the GeneNetwork website: interval\nmapping, marker regression analysis, composite interval mapping, and pairscan analysis.  In this case, interval mapping was used to compute linkage\nmaps for the entire genome.  The log of odds (LOD) score was used to\nassert that a causal relation exists between a chromosomal location and a\nphenotypic variant, such as Gsto1 expression variation."
+            },
+            {
+                "document_id": "80eb54fe-0d83-4300-9fba-e17ce5d1e5b4",
+                "section_type": "main",
+                "text": "Unlike interval-specific haplotype analysis, which is most useful for narrowing a QTL shared by\nmultiple crosses, genome-wide haplotype analysis\nrequires only phenotype information from many inbred\nstrains and can effectively narrow a QTL identified in\nonly one experimental cross [36].\n After narrowing the QTL to an interval that is !5 Mb\nusing these bioinformatics techniques or classical experimental methods, strain-specific sequence and gene\nexpression comparisons are effective for focusing on a\nfew strong candidate genes (Figure 7)."
+            },
+            {
+                "document_id": "7dc4230d-c0a3-484b-9fb4-04d5ff09956b",
+                "section_type": "main",
+                "text": "Unlike interval-specific haplotype analysis, which is most useful for narrowing a QTL shared by\nmultiple crosses, genome-wide haplotype analysis\nrequires only phenotype information from many inbred\nstrains and can effectively narrow a QTL identified in\nonly one experimental cross [36].\n After narrowing the QTL to an interval that is !5 Mb\nusing these bioinformatics techniques or classical experimental methods, strain-specific sequence and gene\nexpression comparisons are effective for focusing on a\nfew strong candidate genes (Figure 7)."
+            },
+            {
+                "document_id": "1b31c086-dbd1-4b0d-8b51-c33b074b8e9d",
+                "section_type": "main",
+                "text": "Genotyping and QTL mapping\nQTL and eQTL mapping was performed using GeneNetwork http://www.genenetwork.org and a standardized set\nof 3795 genotyped markers (mapping algorithm and genotypes described at http://www.genenetwork.org/dbdoc/\nBXDGeno.html; genotypes downloadable as a text file\nfrom\nhttp://www.genenetwork.org/genotypes/\nBXD.geno).  Residuals from the model described above\n(Trait 10701) were simple interval mapped using a modified Haley-Knott algorithm [36,37], weighted by the\nwithin strain variances.  Genome-wide significance was\ncalculated by comparing the best likelihood ratio statistic\nof the original data set with the distribution of highest LRS\ncomputed for 10,000 permutations."
+            },
+            {
+                "document_id": "9d225f6f-e434-45a7-b199-f3a09eda1d04",
+                "section_type": "main",
+                "text": "Next, we used GeneNetwork2, an online analysis tool and data repository containing\nlegacy SNP and transcriptome datasets to explore gene regulatory networks (Chesler et al.  2004; Mulligan et al.\n 2017).  We conducted both eQTL and PheQTL-eQTL network analysis using several BXD RI gene expression\ndatasets from multiple brain regions (datasets documented in Supplementary Information) and using the\nentirety of > 7,000 BXD Published Phenotypes deposited in GeneNetwork2 [BXDPublish; GN602]."
+            },
+            {
+                "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                "section_type": "main",
+                "text": "Once the data is normalized appropriately (in our case, no normalization was required), the QTL\ncan be mapped.  To do this, select the mapping tools drop down window (Figure 6).  There are\nthree methods to choose from, GEMMA, Haley-Knott Regression, and R/qtl (Figure 6).  Genomewide Efficient Mixed Model Analysis (GEMMA; github.com/genetics-statistics/GEMMA; (Zhou\nand Stephens, 2012) is a multivariate linear mixed model mapping tool that is used to map\nphenotypes with SNPs with a correction for kinship or any other covariate of interest.  This\nability to account for covariates is highly useful, but also this increases the time taken for\ncomputations."
+            },
+            {
+                "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                "section_type": "main",
+                "text": "Once the data is normalized appropriately (in our case, no normalization was required), the QTL\ncan be mapped.  To do this, select the mapping tools drop down window (Figure 6).  There are\nthree methods to choose from, GEMMA, Haley-Knott Regression, and R/qtl (Figure 6).  Genomewide Efficient Mixed Model Analysis (GEMMA; github.com/genetics-statistics/GEMMA; (Zhou\nand Stephens, 2012) is a multivariate linear mixed model mapping tool that is used to map\nphenotypes with SNPs with a correction for kinship or any other covariate of interest.  This\nability to account for covariates is highly useful, but also this increases the time taken for\ncomputations."
+            },
+            {
+                "document_id": "8dad24f7-b658-44fa-af65-6f33db69c15a",
+                "section_type": "main",
+                "text": "The values were analysed by using\nthe software program MapManager QTX (KF Manley,\nhttp://www.mapmanger.org) [20] and WebQTL (http://\nwww.webqtl.org) [15, 16] in order to perform a genomewide search for mapping QTL.  In this case, the user is not\nrequired to discriminate between ‘B’ and ‘D’ phenotypes.\n Rather, the quantitative phenotypic data for each RI\nstrain serve as the starting point for analysis.  This results\nin statistics that are essentially two-tailed, more conservative than may be warranted in some situations with\nextreme differences between parental lines."
+            },
+            {
+                "document_id": "89fdce49-cd76-446e-bc47-9484071f9d3e",
+                "section_type": "main",
+                "text": "GeneNetwork and WebQTL are our group’s first attempts to embrace these\nnew opportunities (Wang et al.  2003) and to generate\nan appropriate research environment that combines\ndata sets, statistical resources, and summaries of\nfindings—a knowledgebase (www.genenetwork.org).\n Mapping traits will become far easier; cloning allelic\nvariants for molecular and cellular phenotypes will\nprogress from difficult to trivial as it already has for\nmost cis-QTL with high LOD scores."
+            },
+            {
+                "document_id": "18d12255-3cc6-415b-bd30-ff94bb087813",
+                "section_type": "main",
+                "text": "These estimates were uploaded to GeneNetwork (genenetwork.org;\nhttp://gn2.genenetwork.org; GN IDs 21497-21517) (Mulligan et al. , 2017; Parker et al. , 2017; Sloan et al. ,\n2016), and quantitative trait loci (QTL) were mapped.\n 2.14.  QTL mapping\nQTL mapping allows the identification of linkage between any region of the genome, and a phenotype of\ninterest.  The fast linear regression equations of Haley and Knott (Haley and Knott, 1992) were used for\ninitial QTL mapping.  Using 5000 permutations of the phenotypes, genome-wide significant (p < 0.05), and\nsuggestive (p < 0.63) thresholds were calculated within GeneNetwork."
+            },
+            {
+                "document_id": "4439ac39-e421-482f-9aa9-9ad11fa641c1",
+                "section_type": "main",
+                "text": "WebQTL is the primary module in the GeneNetwork online resource (www.genenetwork.org),\nand provides a powerful environment to analyze\ntraits controlled by genetic variants (Chesler et al.\n 2004; Wang et al.  2003).  It includes data from many\n\n485\n\nFig.  2.  Complexity of eQTL data.  The graph shows a threedimensional schematic view of the high dimensionality of\nthe eQTL data set generated from the BXH/HXB RI strain\npanel (Hubner et al 2005; unpublished)."
+            },
+            {
+                "document_id": "0e6c370f-b514-4551-b6ed-9cc72e6f6b75",
+                "section_type": "main",
+                "text": "GN spares the\nuser most of these problem.  Data are formatted and normalized, and usually come with good\nmetadata (often in the form of links to more information).  This greatly simplifies QTL and\neQTL analysis, candidate gene discovery, coexpression analysis, and hypothesis testing [3,\n10]."
+            },
+            {
+                "document_id": "43407486-b9c2-487b-b19c-b605c4d201c6",
+                "section_type": "main",
+                "text": "GN spares the\nuser most of these problem.  Data are formatted and normalized, and usually come with good\nmetadata (often in the form of links to more information).  This greatly simplifies QTL and\neQTL analysis, candidate gene discovery, coexpression analysis, and hypothesis testing [3,\n10]."
+            },
+            {
+                "document_id": "85ee9743-b34d-4d49-9017-d7d2e5d4b996",
+                "section_type": "main",
+                "text": "1 The\n\n2\n3\n4\n\nIntroduction\n\nModern high-throughput technologies generate large amounts of genomic, transcriptomic, proteomic and metabolomic data.  However, existing open source web-based tools for QTL analysis, such as webQTL\n[358] and QTLNetwork [377], are not easily extendable to diﬀerent settings and computationally scalable for whole genome analyses.  xQTL\nworkbench makes it easy to analyse large and complex datasets using\nstate-of-the-art QTL mapping tools and to apply these methods to millions of phenotypes using parallelized ‘Big Data’ solutions [342]."
+            },
+            {
+                "document_id": "516cc395-4e7c-4371-9444-24edb56a7233",
+                "section_type": "main",
+                "text": "In this section, we will\nfocus mainly on QTL analysis performed in F2 mice using the R package R/qtl.  For a\nreview of GeneNetwork tools and functions, see Ref.  41.\n A variety of analytical methodologies are available in the R/qtl package, including,\ne.g. , composite interval mapping or Haley-Knott regression (see Ref.  42 for discussion).\n The “scanone” function in R/qtl is used to calculate log of the odds (LOD) scores.  Permutation analysis (perm ¼ 1000) is used to establish the signiﬁcance threshold for each\nphenotype (P < .05).  Additive and/or interactive covariates can be added to the model\n(e.g."
+            },
+            {
+                "document_id": "99eb95e6-f439-453e-b90f-4752f1b66d0b",
+                "section_type": "main",
+                "text": "able to estimate the quality of the several thousand\nQTL results that each data set typically produces.\n This direct replication clearly shows that many\neQTL, particularly cis-acting QTL, are high-quality,\nreplicable observations and that eQTL data sets are a\nvaluable means of understanding gene expression\nrelationships.\n Using our data, researchers without the luxury of\na confirmatory F2 data set can estimate the fraction\nof QTL in a similar RI data set that are likely to also\nbe observed in a relatively small F2 data set, and they\ncan select significance thresholds that reflect desired\nvalues of this fraction."
+            },
+            {
+                "document_id": "bbf4a07f-b30d-4bd6-ba32-16ad470231b1",
+                "section_type": "main",
+                "text": "Genetic dissection of gene expression\n\n2.2.4\n\nDensity of the genetic grid in QTL analysis The computational\ndemand of QTL mapping can be decreased by using a sparser genetic grid\nfor a genome scan.  Most of the currently used QTL mapping strategies are\nbased on interval mapping where QTL are evaluated at regular intervals\n(e.g.  1 cM) on the genetic map.  In a situation where markers are fully informative Coffman et al.  (2003) suggest that a genome scan using single marker\ninformation can be equally or even more powerful than analyses based on\nflanking markers.  We evaluated three alternatives."
+            },
+            {
+                "document_id": "8bb7e3b1-bdb0-4c54-a916-6424237616da",
+                "section_type": "main",
+                "text": "Expression QTLs Mapping\nSince we had not any co-segregated genetical marker, a simple query in related gene\nexpression database in GeneNetwrok resources was done to find the most biologically\nrelated genes to our candidate genes.  We used the MDC/CAS/ICL Kidney 230A (Apr05)\nMAS5 database for above the purpose (for more information about this population reader\nconsult WebQtl site http://www.webqtl.org/).  Using publicly available data on gene\nexpression, SNP linkage maps and all the related software’s freely available at WebQTL\nserver (www.genenetwork.org), we ran eQTL mapping to get insights into systems\ngenetics of candidate genes."
+            },
+            {
+                "document_id": "f0bf9619-6bb9-41c7-9d2b-51d9b650d5b2",
+                "section_type": "main",
+                "text": "The raw microarray data is available from the Gene Expression\nOmnibus (GSE14563) as well as from WebQTL (Wang et al.  2003).\n MDP QTL Mapping\nHigh density single nucleotide polymorphism (SNP) data was used to perform eQTL mapping\nin the MDP (McClurg et al.  2007).  Association mapping was carried out using FastMap (Gatti\net al.  2009) as detailed above.  Population structure was identified using a PCA plot of the SNP\ndata and two major strata were identified; C57BL/6J, C57BL/10J, C57BLKS/J, C57BR/cdJ &\nC57L/J were in one stratum and the remaining strains were in the other."
+            },
+            {
+                "document_id": "2845fea0-7cf7-4bb8-915e-ff13c41f0176",
+                "section_type": "main",
+                "text": "QTL mapping was performed using web-based complex\ntrait analysis (www.  genenetwork.org) which uses QTL reaper software.  A single marker regression\nacross all chromosomes was performed where a hypothetical QTL was evaluated at the location of\n8222 informative markers.  At a single chromosomal level, interval mapping evaluates potential\nQTL at regular intervals and estimates the significance at each location with a graphical\nrepresentation of the likelihood ratio statistic (LRS).  A permutation test establishes genome-wide\nsignificance criteria of 5% for the trait.\n Correlation analysis and gene network construction."
+            },
+            {
+                "document_id": "2e0bbb7b-45cd-4208-b2f0-e229df86d8ff",
+                "section_type": "main",
+                "text": "Genetical genomics analysis\nQuantitative trait locus (QTL) mapping was performed for the\nsaline and ethanol treated RMA datasets, as well as the saline vs\nethanol S-score dataset, using a subset of informative microsatellite\nand SNP markers that have been used to genotype the BXD\nfamily [37,38], and are available from GeneNetwork (genenetwork.org/genotypes/BXD.geno).  Linkage between genotypes and\nexpression phenotypes was assessed by performing Haley-Knott\nregression using R/qtl [39].  Genome-wide adjusted p-values were\nderived using distributions of maximum LOD scores obtained\nfrom 1,000 permutations of each probe-set’s expression data."
+            },
+            {
+                "document_id": "bbd1d762-faab-409d-9243-bc94023e16c0",
+                "section_type": "main",
+                "text": "WebQTL contains\ncomprehensive, manually curated, publicly available data\nfor phenotypic and gene expression proﬁling of a number\nof RI and F2 crosses in both mice and rats along with the\ndense genetic marker maps for these strains.  These data\ncan be used to search for correlations between the phenotypes, gene expression, and genetic markers, that is, to\nperform in silico genotype-phenotype association analysis.  The inherent signiﬁcance of the deﬁned reference genetic populations, such as BXD RI strains, is in the ability\nto connect historical data generated in many laboratories\nto the exact genetic map of each strain."
+            },
+            {
+                "document_id": "cc4fd4f5-b5b8-419e-9631-2df633d53570",
+                "section_type": "main",
+                "text": "QTL mapping was carried out using simple and\ncomposite interval mapping in GeneNetwork (http://\nwww.genenetwork.org).  Candidate genes in QTL regions\nwere ranked using PGMapper.  SNP genotypes of candidate genes were verified directly using PCR amplification and sequencing."
+            },
+            {
+                "document_id": "b5c36c1e-458e-4009-818e-9c0c2ee23e45",
+                "section_type": "main",
+                "text": "eQTL mapping\n\nQTL mapping was performed with GeneNetwork, an online bioinformatics resource\nfeaturing tools for systems genetic and complex trait analysis [9, 35].  QTL mapping\ninvolves entering VMB and CP iron data (strain means and SEM) as quantitative traits; the\nsoftware generates whole-genome interval maps for each trait.  The interval maps graphically\nillustrate phenotype–genotype associations as peaks (QTL) indicating the strength of\nassociation between genomic polymorphisms and the quantitative trait throughout the\ngenome."
+            },
+            {
+                "document_id": "6b5ae9e0-ea61-45e2-9b6d-663b532c1a81",
+                "section_type": "main",
+                "text": "An automated QTL mapping strategy needs to rely strictly on\nstatistical measures to highlight candidate regions because manual\ninspection of QTL results across the genome for individual traits,\nwhich is common in standard QTL mapping, is not feasible for\nevery individual gene transcript.  In this study, we will apply various\n\n© The Author 2004.  Published by Oxford University Press.  All rights reserved.  For Permissions, please email: journals.permissions@oupjournals.org\n\n2383\nÖ.Carlborg et al.\n\n standard QTL mapping scenarios to analyse data from one of the\nfirst publicly available genetical genomics datasets (Chesler et al. ,\n2005)."
+            }
+        ],
+        "document_id": "39076B38EDAF24ECEEB91924D370F4AD",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "GeneNetwork",
+            "QTL",
+            "mapping",
+            "genotype",
+            "phenotype",
+            "interval&mapping",
+            "composite&interval&mapping",
+            "marker&regression",
+            "eQTL",
+            "haplotype"
+        ],
+        "metadata": [
+            {
+                "object": "The genotype GG group had higher consumption of Remifentanil than the genotype AA group P<0.05, but the genotype AG group was not different from the genotype AA and GG groups P>0.05. The analepsia time, autonomous respiratory recovery time, and orientation recovery time in the genotype GG group were longer than in the genotype AA group P<0.05, but the genotype AG group was not different from the genotype AA and GG.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab818259"
+            },
+            {
+                "object": "We showed that Rheumatoid was more likely with the AA genotype compared with the AG genotype of SNP rs2977537, and with the TT genotype, or the GG genotype compared with the GT genotype of rs2929973, and with the AA genotype or GG genotype vs the AG genotype of rs2977530",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1013556"
+            },
+            {
+                "object": "APOE genotype and haplotype distributions differ significantly along the age classes Genotype: p=0.014; Haplotype: p=0.005 with APOE*epsilon4 genotype status and haplotype displaying negative association Genotype: O.R.=0.377, p=0.002, Haplotype: O.R.=0.447, p=0.005",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab77498"
+            },
+            {
+                "object": "LTA4H genotype predicted survival of HIV-uninfected patients, with TT-genotype patients significantly more likely to survive tuberculous meningitis than CC-genotype patients. LTA4H genotype and HIV infection influence pretreatment inflammatory phenotype and survival from tuberculous meningitis. LTA4H genotype may predict adjunctive corticosteroid responsiveness in HIV-uninfected individuals.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab464785"
+            },
+            {
+                "object": "A haplotype block across a 24-kb region within the TOX2 gene reached genome-wide significance in haplotype-block-based regional heritability mapping. Single-SNP- and haplotype-based association tests demonstrated that five of nine genotyped SNPs and two haplotypes within this block were significantly associated with major depressive disorder.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab17193"
+            },
+            {
+                "object": "Apa1 Aa genotype compared to AA genotype had odds ratios of 1.65, 1.79 and 1.64 respectively p > 0.05. In TMJ-ID women versus healthy women Aa genotype had 2.06 fold p = 0.15 odds compared to AA genotype. In TMJ-ID women versus healthy women Aa genotype had 2.06 fold p = 0.15 odds compared to AA genotype. our results do not confirm susceptibility of VDR polymorphisms to TMJ-ID/TMJOA",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab76039"
+            },
+            {
+                "object": "DICER rs3742330 AG+GG genotype was associated with more advanced T stage compared to AA genotype  P=0.009. More patients with XPO5 rs2257082 CC genotype had poorly differentiated tumors compared with CT+TT genotype carriers.., carriers of RAN rs14035 CC genotype had higher three-year OS rate than carriers of CT+TT genotype adjusted HR 3.174; 95% CI 1.010, 9.973; P=0.048.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab229028"
+            },
+            {
+                "object": "The antiproteinuric response to olmesartan by genotype was: genotype TT: 76.8%; genotype MM: 67.3%; genotype MT: 65.8%, significantly higher P<.05 for genotype TT compared to genotypes MM and MT.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab780501"
+            },
+            {
+                "object": "A significant QTL for intraocular pressure IOP in 10-13 months-old BXD family mice maps to proximal Chr 5 15 to 18 Mb near Gnai1 Record ID 12309. Data by Monica Jablonski and Lu Lu. Gnai1 is a cis eQTL in eye LRS of 18.6. Other candidates include Cacna2d1 and Pclo and both are also cis eQTLs. Hgf is also a candidate. This is the same region as the eye weight QTL possibly Hgf of Zhou and Williams 1999. This QTL is not significant at younger ages.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab130"
+            },
+            {
+                "object": "The antiproteinuric response to olmesartan by genotype was: DD: 71.4%; genotype ID: 60.6%, genotype II: 34.8%, significantly higher P<.05 for genotype DD compared to genotypes ID and II, and also P<.05 for genotype ID compared to II.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab780500"
+            }
+        ],
+        "question": "what type of dataset is useful for qtl mapping analysis in genenetwork2?",
+        "subquestions": null,
+        "task_id": "39076B38EDAF24ECEEB91924D370F4AD",
+        "usage": {
+            "chatgpt": 5013,
+            "gpt-4": 3398,
+            "gpt-4-turbo-preview": 2412
+        },
+        "user_id": 2
+    },
+    "document_id": "39076B38EDAF24ECEEB91924D370F4AD",
+    "task_id": "39076B38EDAF24ECEEB91924D370F4AD"
+}

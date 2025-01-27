@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - A Systems-Level Understanding of Cardiovascular Disease through Networks.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2015 - Cell cycle gene expression networks discovered using systems biology Significance in carcinogenesis.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2010 - Genomics, Type 2 Diabetes, and Obesity.pdf",
+    "2020 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf",
+    "2012 - Identifying Gene Networks Underlying the Neurobiology of Ethanol and Alcoholism.pdf"
+  ],
+  "extraction_id": [
+    "362cb4d9-306b-5bbe-a2b7-3fedfb2cae2a",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "5b6d04d2-3aa2-5a43-814a-b13e60e3bb1d",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "8dc4ac39-16e2-508e-aaa3-016c51410c79",
+    "14530ed7-e49e-5a1a-9df6-820c7495a8ce",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c",
+    "40850ed1-db52-594e-a9d6-0b661e0bc494"
+  ],
+  "document_id": [
+    "96657025-7e50-571d-9a6b-1a202cb8a690",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "6f354254-4f4d-52ad-bed7-9356f43c0b20",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "3d629777-f1b6-5450-94ef-56736e5a4e10",
+    "f2f0dc2f-eaf5-57f6-9ffa-816d3fab6640",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f",
+    "c02542c0-eff8-5ec7-8f73-78f5d28d4226"
+  ],
+  "id": [
+    "chatcmpl-AIGlzcVkzqXfNsnzBiVpVbwVplFu6",
+    "70bf64a4-327c-517d-8ccb-a9012bcfc453",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "dcb29dfe-ba22-54bc-91f7-af3261a18fd2",
+    "d7e5ef8a-d43a-587d-8ffd-cd5e8e63f6ab",
+    "b0020ac6-de30-5090-817a-d14d770abd1e",
+    "7beda13b-1ea5-53c0-9380-72eee2df79fe",
+    "a1124460-ae34-57fb-846b-e033f4bbf49c",
+    "0b2bd83d-680a-52d2-8116-50cce4f35cc3",
+    "067136a5-b89e-5108-85b0-f638c041e68c",
+    "1cf9d2ee-62b7-5dc8-8f58-23cecab650dc"
+  ],
+  "contexts": [
+    "mation on gene function and how altered function leads to disease. Elucidating the mechanisms of action for newly minted disease genes is amajor bottleneck in translating genetic discoveries into new therapeutics.Addressing this limitation, it has been shown that networks can provideinsight on gene function [71,72] . The premise behind this is simple dgenes",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "of importance in the emergence of precision medicine ( Curtis, 2015 ; Desautels et al., 2014 ;  Glade Bender et al., 2015 ; Jorgensen, 2015 ; Kummar et al., 2015 ; Marquet et al., 2015 ;  Rubin, 2014 ) wherein therapeutic strategies need to be aligned with specific properties of  tumors. Methods GeneNetwork and WebGestalt GeneNetwork is an open access, online data analysis resource for systems biology and  systems genetics. It contains a large number of microarray datasets from multiple tissues of",
+    "gathered together into an easily accessible format, not siloed into disparate data pools that  cannot easily be integrated, valid ated, o r extended.  This approach will allow us to make animal  models of so called  precision medicine, although perhaps more accurately, we want   predictive medicine , where a phenotypic outcome (such as disease) can be predicted , and  avoided .    GeneNetwork   (genenetwork.or g; GN) is  one tool for systems genetics and predictive medicine,",
+    "vidual patients. For the time being, the contribu - tion of genetic information to therapy is most likely to come through the drug-discovery pipe - line. Information from genetic studies could be used to identify new targets for pharmaceutical intervention that have validated effects on physi - ological characteristics, to provide information about new and existing targets (e.g., clues about the long-term safety of pathway intervention), 32",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "al., 2005). GeneNetwork is designed primarily as a web service for exploratory and statistical analysis of large published phenotype and genome datasets, and includes data from several species (see Supplementary Discussion). GeneNetwork includes extensive phenotype data extracted from the literature and submitted by users, which makes it practical to compare data on drug responses with gene expression patterns. Gene expression",
+    "biological function of the new gene list. As mentioned previously, GeneNetwork (www.genenetwork.org) is a collaborative Web-based resource equipped with tools and features for studying gene/gene and exploring genetic correlates to neurobehavioral phenotypes (Chesler et al., 2003, 2004). The Web site is home to a growing collection of gene expression and phenotypic data from a variety of species and brain regions, with a host",
+    "is tackling this immense challenge bystudying networks of genes, proteins,metabolites, and other biomarkers thatrepresent models of genuine biologicalpathways. Studying complex diseasesin terms of gene networks rather thanindividual genes or genomic loci shouldaid in uncovering disease genes. Withthis approach, the effects of multiplegenes in the network are combined,producing a stronger signal and reducingthe number of statistical tests of associ-ation that must be performed."
+  ],
+  "answer": "The information on GeneNetwork.org aids in developing new treatments for diseases in several ways:  1. **Insight into Gene Function**: GeneNetwork.org provides insights into gene function and how altered gene function can lead to disease. This understanding is crucial for translating genetic discoveries into new therapeutics, as it helps elucidate the mechanisms of action for newly identified disease genes, which is a major bottleneck in drug development [1].  2. **Predictive Medicine and Systems Genetics**: The platform is an exciting resource for predictive medicine and systems genetics. It integrates data from multiple species and omics analyses, which can be used to predict phenotypic outcomes such as disease, potentially allowing for the development of treatments that can prevent these outcomes [2], [4].  3. **Identification of Drug Targets**: Genetic information from GeneNetwork.org can be used to identify new targets for pharmaceutical intervention. This includes providing information about the long-term safety of pathway interventions, which is crucial for developing effective and safe treatments [5].  4. **Exploratory and Statistical Analysis**: GeneNetwork.org is designed for exploratory and statistical analysis of large phenotype and genome datasets. This makes it practical to compare data on drug responses with gene expression patterns, facilitating the identification of potential therapeutic targets [8].  5. **Studying Gene Networks**: By studying networks of genes, proteins, metabolites, and other biomarkers, GeneNetwork.org helps uncover disease genes. This network-based approach combines the effects of multiple genes, producing stronger signals and reducing the complexity of statistical analyses, which can accelerate the discovery of new treatments [10].  Overall, GeneNetwork.org serves as a comprehensive tool for researchers to explore genetic data and develop insights that are critical for the creation of new therapeutic strategies.",
+  "question": "How does the information on GeneNetwork.org help in developing new treatments for diseases?"
+}

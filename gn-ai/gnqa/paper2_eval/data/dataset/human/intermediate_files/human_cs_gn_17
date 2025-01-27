@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - INTEGRATIVE ANALYSIS OF GENETIC, GENOMIC AND PHENOTYPIC DATA FOR ETHANOL BEHAVIORS A NETWORK-BASED PIPELINE FOR IDENTIFYING MECHANISMS AND POTENTIAL DRUG TARGETS.pdf",
+    "2008 - The Environmental Genome Project Reference Polymorphisms for Drug Metabolism Genes and Genome Wide Association Studies.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2013 - Genome-Wide Contribution of Genotype by Environment Interaction.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2019 - Beyond Genome-wide Significance Integrative Approaches to the Interpretation and Extension of GWAS Findings for Alcohol Use Disorder.pdf",
+    "2016- Gene-Based Genome-Wide Association.pdf",
+    "2008 - The Environmental Genome Project Reference Polymorphisms for Drug Metabolism Genes and Genome Wide Association Studies.pdf",
+    "2015 - Genetic associations at 53 loci highlight cell types and biological pathways relevant for kidney function.pdf"
+  ],
+  "extraction_id": [
+    "cc02b251-60c5-571f-9ff8-ef64c61eee5a",
+    "0f19f50f-ee04-5e99-8547-8a7e71a1dd9c",
+    "200d489e-301f-50bc-9870-260894c8fc41",
+    "6b4157fa-dcf0-5b70-b508-38ffb5fcda8d",
+    "5ade83ec-421a-58be-ac06-c9076076483c",
+    "1d401588-b6dc-532f-8194-4667a7d31153",
+    "bca29f20-2764-5d16-888e-3af671c9d8b0",
+    "db605926-64e1-5fc5-ac90-22f0f33b2a50",
+    "1b1aabee-8555-5ba8-b147-7f250fdcbc6b",
+    "0127b2c2-37b8-580d-b974-a2e3c69015ab"
+  ],
+  "document_id": [
+    "0e2a1075-1e04-5097-b87f-3ca41d55e025",
+    "15e4c746-42a2-598b-992f-dfbf468865ed",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "8c310d76-0a3b-574c-9859-859258870ee5",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "f59b3e10-a887-5708-b520-c5e8adb48dcd",
+    "8cb14287-762d-5366-8ad9-3d638f02d0d6",
+    "15e4c746-42a2-598b-992f-dfbf468865ed",
+    "ea82333b-b64c-5416-9843-2e3ffeb1902a"
+  ],
+  "id": [
+    "chatcmpl-ADZKtYz4STZ5YGDkrchFPqAthSpVB",
+    "1b947a05-d204-5524-b7a6-4ddce62449f8",
+    "47097a55-da1c-5802-8ee7-549e16db2927",
+    "1dbbef8d-ece1-534d-a3f0-0cc46024cae6",
+    "0b7e9c6d-60e3-5d66-b23f-8222b327d91e",
+    "43aa64fe-556a-5938-a489-fff5aac6829d",
+    "6e7cd04d-d23a-5a7d-a0cd-7958608010f2",
+    "3a9e43ef-294d-5b1b-b4f9-62fa70064045",
+    "b4a50b95-3a61-5495-b8b2-c18f8edcaa8f",
+    "5e4b2bf5-f842-5c20-8031-48a29fd3d25a",
+    "619bcf7e-2724-571a-ba3c-4214ff014f21"
+  ],
+  "contexts": [
+    "1. Formatting genome wide association study (GWAS) data . For this step, a  human GWAS results file is needed that contains SNP names and raw p- values for the association of each SNP with a trait of interest. Because the  nodes of the dmGWAS network will represent genes, as opposed to SNPs,  gene-wise p-values need to be calculated from the raw SNP p-values. This  can be accomplished by using programs like VEGAS2 (Versatile Gene- Based Association Study) [ 10] or KGG (Knowledge-based mining system",
+    "A general outline for GWAS is provided in Figure 2. These studies usually begin with thousands of individuals who are charact erized for the phenotype of interest using continuous measurements, or dichotomous classi fication as a case (affected) or control (unaffected). Statistical analysis, typically us ing linear or logistic regression, tests the association of each SNP against the phenotype (including relevant covariate variables) to",
+    "GWAS has also provided polygenic characteristics of diseases. Figure 1 presents a block  of GWAS in disease prediction. There are many steps  during a gene-set analysis. They are  shown below as Steps 1 through Step 6:  Step 1:  Preliminary genome-wide analysis and data preproces sing;  Step 2:  Identifying gene-set definitions whose patterns have  to be recognized;   Step 3:  Processing genomic data such as filtering and ident ifying gene patterns;",
+    "GWAS in disease prediction. There are many steps during a gene-set analysis. They are shown below as Steps 1 through Step 6: Step 1: Preliminary genome-wide analysis and data preprocessing; Step 2: Identifying gene-set denitions whose patterns have to be recognized; Step 3: Processing genomic data such as ltering and identifying gene patterns; Step 4: Identify gene set analysis models, such as identifying the statistical hypothesis; Step 5: Assessing the statistical magnitude;",
+    "include: 1) generate bed, bimand fam files for GWAS genotype data using PLINK; 2) generategrm.gz and grm.id files using make-grm; 3) prepare a",
+    "7 Constructing Gene Networks to Enhance GWAS and GOGE Results As discussed, generating a GOGE data set and performing a rst-pass analysis on this scale of data is a major undertaking. The identication of or other DNA markersthat associate with the expression of one or more genes is a primary goal of a GOGE study. However, if analysis of GOGE data stopped at the identication of SNPs that associate with expression, the true v alue of these data would not be realized.",
+    "Aggregating GWAS data into biological units GWAS data can be further combined into biological units using gene and network-based  approaches. Gene-based approaches There is a high multiple testing burden in the context of a GWAS. Gene-based approaches,  which aggregate across summary statistics derived from association analyses of multiple loci  to derive p-values for association at the level of the gene, developed as one way to reduce",
+    "Steps involved inthegene-based association testwere described asbelow: 1)Generating intermediate datasets which integrate original GWAS Pvalues, rsID, position and chromo- some column foreach SNP. Atotal of6,559,815 European-specific and 5,351,262 Asian-spe- cific autosomal SNPs were used forsubsequent analysis after excluding theSNPs that could notberecognized byKGG and that located insexchromosomes (XorY);2)Defining asetof",
+    "248 M. J. RIEDER ET AL. Figure 2 An overview of GWAS. Samples with  a phenotype(s) or trait(s) of interest are identified; typically, thousands of samples are required to achieve appropri ate statistical power. Large-scale genotyping is carried out using commercially available chips (Affymetrix or  Illumina). P-values are generated from the associa- tion between the phenotype and genotype for each SNP tested. Highly associated SNPs will typically cluster",
+    "2006). 40. Welter, D. et al. The NHGRI GWAS Catalog, a curated resource of SNP-trait associations. Nucleic Acids Res. 42,D1001D1006 (2014).41. Wang, X. et al. Comparing methods for performing trans-ethnic meta-analysis of genome-wide association studies. Hum. Mol. Genet. 22,23032311 (2013). 42. Purcell, S. et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet. 81,559575 (2007)."
+  ],
+  "answer": "### How-to Guide for GWAS Analysis  Genome-Wide Association Studies (GWAS) are a powerful tool for identifying genetic variants associated with traits or diseases. Below is a step-by-step guide to performing a GWAS analysis:  #### Step 1: Preliminary Genome-Wide Analysis and Data Preprocessing 1. **Sample Collection**: Collect thousands of samples characterized for the phenotype of interest. This can be done using continuous measurements or dichotomous classification as a case (affected) or control (unaffected) [2]. 2. **Genotyping**: Perform large-scale genotyping using commercially available chips such as Affymetrix or Illumina [9]. 3. **Data Formatting**: Prepare the GWAS genotype data by generating bed, bim, and fam files using tools like PLINK [5].  #### Step 2: Identifying Gene-Set Definitions 1. **Gene-Set Identification**: Identify gene-set definitions whose patterns need to be recognized [4].  #### Step 3: Processing Genomic Data 1. **Filtering and Identifying Gene Patterns**: Process the genomic data by filtering and identifying gene patterns [4]. 2. **Intermediate Datasets**: Generate intermediate datasets that integrate original GWAS p-values, rsID, position, and chromosome column for each SNP [8].  #### Step 4: Statistical Analysis 1. **Association Testing**: Perform statistical analysis, typically using linear or logistic regression, to test the association of each SNP against the phenotype, including relevant covariate variables [2]. 2. **Gene-Wise P-Values**: Calculate gene-wise p-values from the raw SNP p-values using programs like VEGAS2 or KGG [1].  #### Step 5: Aggregating GWAS Data 1. **Gene-Based Approaches**: Aggregate GWAS data into biological units using gene-based approaches to reduce the multiple testing burden. This involves deriving p-values for association at the level of the gene [7].  #### Step 6: Assessing Statistical Magnitude 1. **Statistical Hypothesis**: Identify gene set analysis models and assess the statistical magnitude of the associations [4].  #### Step 7: Constructing Gene Networks 1. **Enhancing GWAS Results**: Construct gene networks to enhance GWAS results. This involves identifying DNA markers that associate with the expression of one or more genes [6].  By following these steps, you can systematically perform a GWAS analysis to identify genetic variants associated with your trait or disease of interest.",
+  "question": "Create a how-to guide for GWAS analysis?"
+}

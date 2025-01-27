@@ -1,0 +1,140 @@
+{
+    "created_at": "2024-06-01T14:24:19.558227Z",
+    "data": {
+        "amplify": false,
+        "answer": "The ethical considerations surrounding prenatal genetic testing and selective termination of pregnancies based on genetic factors include the potential for implicit pressure on individuals to violate personal ethics to reduce financial burden on society, the risk of routinization of testing leading to social or medical expectations of testing in all eligible individuals, and the potential compromise of values of informed consent and individual autonomy. There are also cultural and religious beliefs to consider, as well as the potential psychological impact on parents who may feel guilt if they are carriers of genetic conditions. Furthermore, the decision to terminate a pregnancy based on genetic factors is a joint decision between parents, and the involvement of extended family members in this process varies greatly across different cultures.",
+        "context": {
+            "30eabd29-2f48-459a-b162-bd90d99f1411": [
+                {
+                    "document_id": "30eabd29-2f48-459a-b162-bd90d99f1411",
+                    "text": "\n\nA number of additional ethical implications must be considered.Associating financial investments with the prevention of disease, especially where reproductive decisions are involved, requires sensitivity, caution, and ethical rigor.Funding decisions based on imputed cost-savings must not result in implicit pressure on individuals to violate personal ethics to reduce financial burden on society.As discussions regarding prenatal testing have demonstrated, 35 is risk that \"routinization\" of testing may lead to social or medical expectations of testing in all eligible individuals.These expectations, if linked with financial incentives for the health system, could risk applying implicit pressure on serious, and potentially irreversible, personal decisions.Such expectations, if applied at the population level, could risk becoming normalized, compromising the values of informed consent and individual autonomy."
+                },
+                {
+                    "document_id": "30eabd29-2f48-459a-b162-bd90d99f1411",
+                    "text": "\n\nWith regard to pregnancies affected by a genetic condition identified through population carrier screening, we modeled the decision to terminate affected pregnancies conservatively (0.50).This is despite the literature suggesting rates above 0.90 for elective TOP for conditions such as Down syndrome 33 and SMA. 34We recognize this issue is controversial, and that laws and ethical positions vary considerably between countries/ jurisdictions.Variations in population attitudes based on age, religion, and other factors, as well as the criticality of preserving individual choice, were acknowledged in adopting this highly conservative estimate."
+                }
+            ],
+            "56cf7be3-8c73-498d-b48f-8d99592b0213": [
+                {
+                    "document_id": "56cf7be3-8c73-498d-b48f-8d99592b0213",
+                    "text": "\n\nThe use of genetic testing from pre-conception through adulthood is expanding rapidly.As a result of this expansion, new ethical issues are emerging related to genetic testing and informed consent.These new issues create ethical challenges for nurses and all healthcare providers.Currently expanding areas include newborn screening and genetic testing of children.These new ethical challenges will be described below."
+                },
+                {
+                    "document_id": "56cf7be3-8c73-498d-b48f-8d99592b0213",
+                    "text": "The use of genetic testing from pre-conception through adulthood is expanding rapidly. Psychological risks for parents who are carriers may include parental guilt."
+                }
+            ],
+            "64d87c52-1185-4080-8d06-134c32dae5fd": [
+                {
+                    "document_id": "64d87c52-1185-4080-8d06-134c32dae5fd",
+                    "text": "\n\nEthnic and cultural backgrounds may also play a role in the decisions that families make regarding prenatal testing.Moyer et al. (1999) concluded that Caucasian women more often undergo prenatal diagnoses than African American or Asian women, or Latinas.Furthermore, Awwad et al. (2008) found American couples less inclined to involve extended relatives in the prenatal decision-making process than Native Palestinian couples.Both of these examples clearly indicate that cultural differences can impact the ways in which families negotiate prenatal decisions.Further research needs to investigate how different families engage in such discussions and decision-making processes, especially as prenatal testing becomes more common and better able to predict or prevent a wider range of genetic conditions.Tightly closed ethnic groups remain at high risk of serving as carriers for genetic mutations, but the management of this possibility varies greatly.For example, some Ashkenazi Jewish groups use screening for mutations for Tay-Sachs disease (TSD) as the basis for rabbinical marriage advice; whereas, children born to Amish families in Pennsylvania more often present with glutaric aciduria type 1 (GA1) but, given their beliefs, parents tend not to accept prenatal testing because of the implication of abortion (McKusick, 2000)."
+                },
+                {
+                    "document_id": "64d87c52-1185-4080-8d06-134c32dae5fd",
+                    "text": "\n\nResearchers studying factors that contribute toward a couple's choice to undergo prenatal testing have determined that partners base their decision upon several factors, including, but not limited to: parental beliefs about abortion, attitudes regarding disability and their \"perceptions of the usefulness of having the information revealed by genetic tests\" (Moyer et al., 1999, p. 522).Abortion beliefs constitute a key issue in the decision-making process.Even though a majority of parents receiving abnormal prenatal test results terminate their pregnancies (Redlinger-Grosse, Bernhardt, Berg, Muenke, & Biesecker, 2002), Moyer et al. noted that, when asked, more families reported that they would make use of prenatal testing than would be willing to terminate a pregnancy.The decision to continue or terminate a pregnancy after prenatal testing Downloaded by [University of the Sunshine Coast] at 10:32 05 August 2017 comprises a joint decision between both parents (e.g., Awwad et al., 2008;Beeson & Golbus, 1985); however, the nature of the conversations leading to the decision and the involvement of extended family members in the decisionmaking process remains highly understudied."
+                },
+                {
+                    "document_id": "64d87c52-1185-4080-8d06-134c32dae5fd",
+                    "text": "The Genetic Divide(s) and Communication\n\nThe ability of scientists to \"map\" disease through several generations (Collins, 1999) raises practical and ethical issues of access to resulting opportunities and creates family communication challenges.Currently, prenatal testing for chromosomal diseases has become increasingly common (Moyer et al., 1999).Options such as pre-implantation genetic diagnosis (PGD) can identify over 1,250 disease-related mutations creating an opportunity for parents to select unaffected embryos for implantation in the womb (R. M. Green, 2008).Test results provide potential parents with information that may lead to decisions involving intervention in the genetic makeup of future children.Although some families welcome such options, others may be unable or unwilling to consider such procedures, due to fi nancial concerns or moral/ethical/religious beliefs."
+                }
+            ],
+            "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa": [
+                {
+                    "document_id": "6c0eb981-977a-42f5-a3b1-136e1ccfc5aa",
+                    "text": "Privacy Issues\n\nFinally, privacy issues should be seriously considered when the use of genetic testing is contemplated, especially with respect to whole-genome sequencing of healthy people.It is an unanswered question under what circumstances, to what extent, and by what means genetic data should be incorporated into the medical record.Although easy access to such data could be helpful to providers in improving patient care, it remains to be seen how other parties (eg, insurance companies) might act on the data in ways that do not benefit patients.The US Congress acted to prohibit discrimination by employers and health insurers on the basis of genetic testing with the Genetic Information Nondiscrimination Act in 2008, but further safeguards will undoubtedly be needed as the health implications of genetic data become clearer."
+                }
+            ],
+            "782103fd-2cb6-44c8-9b39-d82430d335c9": [
+                {
+                    "document_id": "782103fd-2cb6-44c8-9b39-d82430d335c9",
+                    "text": "\n\nThe ethical evaluation of genetic testing in children is traditionally based on the balance of clinical benefits and risks (American Society of Human Genetics Board of Directors and the American College of Medical Genetics All correspondence concerning this article should be addressed to Benjamin Wilfond, MD, Treuman Katz Center for Pediatric Bioethics, Seattle Children's Hospital, Metropolitan Park West M/S: MPW 8-2, 1100 Olive Way, Room 876, Seattle WA 98101, USA.E-mail: benjamin.wilfond@seattlechildrens.org Board of Directors, 1995;Andrews, Fullerton, Holtzman, & Motolsky, 1994;Clarke, 1994;Wertz, Fanos, & Reilly, 1994).In the early 1990s, when there were only scant data about children who had received genetic tests results, the presumption was to give greater weight to the potential risks and to restrict testing.However, this criterion is not necessarily consistent with the general practice of respecting broad parental discretion in health care decisionmaking for and on behalf of their children.In general, parents are the presumed decision makers for their children and their decisions are respected unless they are abusive or neglectful (Buchanan & Brock, 1989;Goldstein, Freud, & Solnit, 1979;Ross, 1998).The tension between assessments of benefits and risks made by health care providers and policy makers, and the procedural respect owed to parental authority will be clearly tested as the ability to conduct and interpret whole-genome sequencing and related technologies gain in momentum."
+                },
+                {
+                    "document_id": "782103fd-2cb6-44c8-9b39-d82430d335c9",
+                    "text": "Ethical Considerations in Developing Policy for ''Comprehensive'' Genomic Testing\n\nIn the near future, genomic testing is likely to become more accessible and will provide both information about the risks of common conditions such as heart disease, diabetes, and hypertension as well as predictions about individual responses to specific pharmaceuticals and other medical therapies (Aspinall & Hamermesh, 2007).Over time, the number and range of conditions for which such testing is available is likely to expand to include more behavioral traits, ranging from information about anxiety and depression, to attention and addiction (Rothstein, 2005)."
+                },
+                {
+                    "document_id": "782103fd-2cb6-44c8-9b39-d82430d335c9",
+                    "text": "\nObjective Ethical evaluation of genetic testing in children is traditionally based on balancing clinical benefits and risks.However, this focus can be inconsistent with the general practice of respecting parental decision-making about their children's health care.We argue that respect for parental decision-making should play a larger role in shaping pediatric genetic testing practices, and play a similar role regarding decisions to use emerging genomic technologies.Methods Genomic testing involves the examination of thousands of DNA markers spanning genes throughout the genome and their interrelationships, yielding virtually limitless interpretations.We presume that parents and providers should proceed cautiously in applying genomic testing in children, as we explore how genomic testing will stress the fault lines of the traditional ethical analysis.Results Empirical data about the psychosocial risks and benefits of genetic testing of children do not reveal serious harms, yet virtually no such data exist yet about genomic testing.Unless empirical social and behavioral data indicate that genomic testing is highly likely to cause serious harms to the children, parental decisions to obtain comprehensive genomic testing in their children should be respected.Once comprehensive genomic testing of children becomes routine, resultant information may be more easily integrated by families than anticipated.Conclusions Research on the social and behavioral impact of comprehensive genomic testing on children and their families is needed to further inform parents, clinicians, and policy makers."
+                },
+                {
+                    "document_id": "782103fd-2cb6-44c8-9b39-d82430d335c9",
+                    "text": "\n\nObjective Ethical evaluation of genetic testing in children is traditionally based on balancing clinical benefits and risks.However, this focus can be inconsistent with the general practice of respecting parental decision-making about their children's health care.We argue that respect for parental decision-making should play a larger role in shaping pediatric genetic testing practices, and play a similar role regarding decisions to use emerging genomic technologies.Methods Genomic testing involves the examination of thousands of DNA markers spanning genes throughout the genome and their interrelationships, yielding virtually limitless interpretations.We presume that parents and providers should proceed cautiously in applying genomic testing in children, as we explore how genomic testing will stress the fault lines of the traditional ethical analysis.Results Empirical data about the psychosocial risks and benefits of genetic testing of children do not reveal serious harms, yet virtually no such data exist yet about genomic testing.Unless empirical social and behavioral data indicate that genomic testing is highly likely to cause serious harms to the children, parental decisions to obtain comprehensive genomic testing in their children should be respected.Once comprehensive genomic testing of children becomes routine, resultant information may be more easily integrated by families than anticipated.Conclusions Research on the social and behavioral impact of comprehensive genomic testing on children and their families is needed to further inform parents, clinicians, and policy makers."
+                },
+                {
+                    "document_id": "782103fd-2cb6-44c8-9b39-d82430d335c9",
+                    "text": "\n\nTo the extent that ''personal meaning'' gains wider acceptance as a legitimate criterion for expanding the availability of new tests and applications of genomic technology, the current policies and practices of restricting some genetic testing of children and mandating other tests will need to be reevaluated.There will be some parents who will find the information that becomes available through new technologies and data useful in shaping their parenting practices, while others will be more skeptical of their value.These disparate parental judgments may be independent of professional assessments of clinical validity and utility.Extrapolating from the empirical data about predictive genetic testing of children in at-risk families discussed earlier, we speculate that once comprehensive genomic testing of children becomes routine, the information may be more easily integrated by families than might be predicted.This is not meant to imply that whatever information parents want about their children should be provided carte blanche.Clearly, education and counseling will be crucial to ensure that families understand the limitations of the information.However, restrictions and mandates should be based on a criterion of risk of serious harm (Diekema, 2004).Given the lack of data confirming harm and the related data that indicate children may fare better than anticipated, such restrictions and mandates cannot be justified.Policies and practices will also need to clarify the role of the older adolescent in the decision-making process, although the issues related to balancing and assessing parental and adolescent interests and preferences goes beyond the focus of this article.This is also not meant to ignore the professional and moral obligation to educate parents and to help parents make good decisions on behalf of their children.It is morally appropriate for providers to strongly recommend particular tests in infancy and young childhood (i.e., PKU testing), and to strongly discourage other tests (e.g., ApoE testing of children for adult onset Alzheimer disease and heart disease because ApoE is not predictive but only provides an increased relative risk and has limited sensitivity and specificity) (Roberts, Cupples, Relkin, Whitehouse, & Green, 2005).Selective and directive recommendations are a routine aspect of pediatric practice.However, it will become increasingly important for professional organizations to begin to reconcile their support for mandatory genetic testing for some conditions and their support for restrictions for other conditions with the broad discretion that parents have and need in the health care arena in order to promote their children's well-being."
+                },
+                {
+                    "document_id": "782103fd-2cb6-44c8-9b39-d82430d335c9",
+                    "text": "\n\nWhat limits should be imposed, if any, need to be determined prior to commercial feasibility.In this article, we consider how genetic testing decisions for children have been made traditionally and how the anticipation of comprehensive genomic testing in the near future will stress the fault lines of traditional approaches.The potential for comprehensive genomic testing in children could shift the equilibrium towards expanding or reducing parental discretion, and forces us to reexamine the evidence for our genetic testing policies and practices.We will highlight specific domains where further empirical social and behavioral research is necessary to inform policy and practice."
+                }
+            ],
+            "93dc581e-5e45-48b4-b82f-35e32d7bd58e": [
+                {
+                    "document_id": "93dc581e-5e45-48b4-b82f-35e32d7bd58e",
+                    "text": "\n\nPrenatal genetics is largely practiced by maternal-fetal medicine specialists due to severe deficiency in the number of qualified clinical geneticists.Recent years have witnessed a tremendous growth in the demand for chorionic villous sampling and amniocentesis for the diagnosis of single gene disorders.At KFSHRC alone, the number of prenatal samples that are tested for single gene disorders has increased from 5 in 2004 to 250 in 2013.Therapeutic abortion is permitted by law if performed within 120 days from the time of fertilization in order to comply with the Islamic view of the timing of ensoulment (Alkuraya and Kilani 2001).However, the approved indication for the procedure, which is \"severe malformation\", must be authorized by three attending-level physicians.The definition of \"severe\" is left to the discretion of the medical team after consulting with the family.For example, intellectual disability is a common indication for many therapeutic abortion procedures.Contrary to commonly held views, we have shown that early prenatal diagnosis is the method of choice for couples who had one or more children with single gene disorders, as long as they are provided with a culturally sensitive genetic counseling that addresses their religious and cultural concerns (Alkuraya and Kilani 2001).Nearly 45% of these couples opt for early prenatal diagnosis compared to 35% who choose preimplantation genetic diagnosis (PGD) (Alkuraya 2013a).PGD is available freely at KFSHRC but is also provided by the private sector.Noninvasive prenatal screening using cell-free fetal DNA in maternal blood is quickly becoming integrated in prenatal care.KFSHRC offers this test routinely to all pregnant women regardless of their perceived risk and the MOH is considering making this test available throughout its vast network of hospitals and medical centers."
+                }
+            ],
+            "9f21007a-1487-46d8-8e9e-cde8df4af6d5": [
+                {
+                    "document_id": "9f21007a-1487-46d8-8e9e-cde8df4af6d5",
+                    "text": "\n\nSocial and psychological implications of accessing genetic services and information."
+                }
+            ],
+            "a4b0655d-895c-4368-9401-ee2903b15d42": [
+                {
+                    "document_id": "a4b0655d-895c-4368-9401-ee2903b15d42",
+                    "text": "\n\nA corollary of the predictive power of genetic information is the limited ability to prevent or treat many conditions with significant genetic factors involved.Indeed, virtually all of the complex ethical and legal issues relevant to genetic testing would disappear if there were effective preventions or treatments available for genetic conditions.The ability to predict future disease in conjunction with a limited ability to do much about it has important social and psychological implications that must be addressed in conducting genetic research."
+                }
+            ],
+            "b0b60080-2338-411b-bc44-1f5626a3c442": [
+                {
+                    "document_id": "b0b60080-2338-411b-bc44-1f5626a3c442",
+                    "text": "\n\nInterpretations of the literature will likely mirror the priorities and evaluative tendencies of the reader.Are you willing to accept the overall trends in genetic and genomic testing evaluation and to trust that the existing clinical approaches will apply informed consent appropriately while identifying and supporting the rare individual who has a serious adverse response to the testing?If so, you might advocate that attention be turned more toward other issues relevant to the effective implementation of genetic and genomic testing.Or do you feel a strong need to understand in more detail the possible psychosocial harms of the testing, particularly the subtler impacts or responses of individuals who do not fit the norm?In that case, you would likely encourage renewed and innovative efforts to study the psychosocial consequences of the receipt of risk information from genetic and genomic testing."
+                }
+            ],
+            "f7fe5d02-ee7c-4ec2-b6c4-ca9aa5efb41f": [
+                {
+                    "document_id": "f7fe5d02-ee7c-4ec2-b6c4-ca9aa5efb41f",
+                    "text": "\n\nOther social issues require our attention if genomic medicine is to benefit our patients.How should genetic tests be regulated?What, if any, are the appropriate uses of direct-to-consumer marketing of genetic tests?The Internet has recently had a proliferation of genetic-testing sites that feature claims grounded in greed and pseudoscience, rather than in data or reality.How will health care providers and the public distinguish between these and responsible testing services, whether they are available through the Internet or in the hospital?"
+                }
+            ],
+            "f97246cb-7a71-409b-bb1a-dd01a5ef5c5e": [
+                {
+                    "document_id": "f97246cb-7a71-409b-bb1a-dd01a5ef5c5e",
+                    "text": "Environmental Factors\n\nAs widespread use of genetic testing increases, it is the responsibility of the medical community to ensure its equitable use across socioeconomic and cultural spectrums."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "F7FF28704C5239FB329F508530F982CC",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "Tay-Sachs&disease",
+            "glutaric&aciduria&type&1",
+            "Ashkenazi&Jewish",
+            "Amish",
+            "Down&syndrome",
+            "SMA",
+            "PGD",
+            "KFSHRC",
+            "Genetic&Information&Nondiscrimination&Act",
+            "Islamic"
+        ],
+        "metadata": [],
+        "question": "What are the ethical considerations surrounding prenatal genetic testing and the selective termination of pregnancies based on genetic factors?",
+        "subquestions": null,
+        "task_id": "F7FF28704C5239FB329F508530F982CC",
+        "usage": {
+            "chatgpt": 6791,
+            "gpt-4": 4502,
+            "gpt-4-turbo-preview": 3567
+        },
+        "user_id": 2
+    },
+    "document_id": "F7FF28704C5239FB329F508530F982CC",
+    "task_id": "F7FF28704C5239FB329F508530F982CC"
+}

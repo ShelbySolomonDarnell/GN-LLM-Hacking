@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2005 -Dipetrillo- Bioinformatics toolbox QTL.pdf",
+    "2005 - Bioinformatics toolbox for narrowing rodent quantitative trait loci .pdf",
+    "2020 - A Multi-Omics Perspective of Quantitative Trait Loci in Precision Medicine.pdf",
+    "2016 - Genotyping by sequencing for identification and mapping of QTLs for bioenergy-related traits in sweet sorghum.pdf",
+    "2005 -Dipetrillo- Bioinformatics toolbox QTL.pdf",
+    "2005 - Bioinformatics toolbox for narrowing rodent quantitative trait loci .pdf",
+    "2016 - Genetic Regulation of Gelsolin in Lung in Mouse Model and its Potential.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf",
+    "2020 - A Multi-Omics Perspective of Quantitative Trait Loci in Precision Medicine.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf"
+  ],
+  "extraction_id": [
+    "63fcced2-fd9b-5b8c-917e-8a5502f89624",
+    "ede4bc5e-f495-5c65-b2e6-a5dc0625b0d0",
+    "03e2ebd6-ce89-551c-ba81-59a4ded02515",
+    "ea640aeb-71cc-578d-8ad3-6940f2b892da",
+    "294efef3-6516-5c74-8cc5-bc8401f6602b",
+    "4cf47fab-c25f-52a4-953b-3c3508a26274",
+    "311be2a2-4428-5887-8ed2-35875eac9fcb",
+    "2b670f5c-5b0c-5d8f-b236-2cbff81eff5a",
+    "6f44c216-c9a1-582e-8081-d6ad912369db",
+    "52bb366e-161f-51fd-a5a2-bef21f1b4c01"
+  ],
+  "document_id": [
+    "9b089457-5804-594a-99ea-e716b65c216c",
+    "5d87aefe-dee5-5f25-8b46-d87b24907dcc",
+    "8503b166-b917-5efb-a356-5ba371504cc1",
+    "d6da662e-cb6e-5628-8a42-5aca1b978447",
+    "9b089457-5804-594a-99ea-e716b65c216c",
+    "5d87aefe-dee5-5f25-8b46-d87b24907dcc",
+    "ec8452c0-1c16-54e6-9b9f-3e741a8c7340",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda",
+    "8503b166-b917-5efb-a356-5ba371504cc1",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101"
+  ],
+  "id": [
+    "chatcmpl-ADZKWNKiSvqnmJLiG5DiGZqUhCrfq",
+    "7a9f6af0-22c9-5bd7-a443-f0b0111551fa",
+    "b89fda54-1dd8-5033-9caa-c8e6079d4e28",
+    "db4d7722-ff83-54a4-9fb6-23d331ead769",
+    "5604e763-06b5-5528-be49-9003bf547ae2",
+    "7019c554-cbae-528e-8207-b8575d99daf4",
+    "3fe2119e-e576-5608-91e1-2a010b91515c",
+    "51757b6b-0492-5077-ba69-90a2ddf3da9d",
+    "7cd326b3-1669-55f1-b4ce-376b5159a6fb",
+    "ae35202f-70ed-5fb8-a075-ce1e63616fb2",
+    "0049fb65-142a-54a1-8ab5-2d747bc521a0"
+  ],
+  "contexts": [
+    "rodent QTLs. Here we discuss each tool, illustrate itsapplication and generate a bioinformatics strategy fornarrowing QTLs. Combining these bioinformatics toolswith classical experimental methods should accelerateQTL gene identication. Introduction Quantitative trait locus (QTL) analysis is a method to localize chromosomal regions harboring genetic variants that affect a continuously distributed, polygenic phenotype(including many common diseases) [1]. It is particularly",
+    "rodent QTLs. Here we discuss each tool, illustrate itsapplication and generate a bioinformatics strategy fornarrowing QTLs. Combining these bioinformatics toolswith classical experimental methods should accelerateQTL gene identication. Introduction Quantitative trait locus (QTL) analysis is a method to localize chromosomal regions harboring genetic variants that affect a continuously distributed, polygenic phenotype(including many common diseases) [1]. It is particularly",
+    "Table 2. Computational Approaches for Identi cation of QTLs Tools Link Programming languageRefs Linear models CPMAtranseqtl https://github.com/cotsapaslab/CPMAtranseqtl R/Python [ 176] eMap www.gnu.org/software/gsl/ R FastMap https://sourceforge.net/projects/fastmapunix/ JAVA [ 134] lme4qtl https://github.com/variani/lme4qtl R[ 175] Matrix eQTL www.bios.unc.edu/research/genomic_software/ Matrix_eQTLR/Matlab [ 133] Meta-eQTL https://haok01.u.hpc.mssm.edu/meta_eQTL/ R/C [ 177]",
+    "2012). Tools for QTL analysis have been de veloped and released for researchers such as  R/qtl, QTL cartographer, M apQTL, and WebQTL. Recently, Wang et al. (2012)  developed a free software for QTL mapping called QTL IciMapping which constructs genetic linkage maps and QTL analysis  by simple interval mapping and inclusive  composite interval mapping.  QTL IciMapping is available for segregating and inbred                PREVIEW",
+    "incorrect, the analysis can separate the QTL peak into twoTable 1. Summary of bioinformatics tools for dissecting rodent QTLs Bioinformatics tool Summary Resolution Comparative genomics Identies regions of chromosomal synteny in QTLs that are concordant across species1020 Mb Combined cross analysis Recodes genotype information from multiple crosses detecting a shared QTL into one susceptibility and one resistance genotype to combine the crosses in a singleQTL analysis1020 Mb Interval-specic haplotype",
+    "incorrect, the analysis can separate the QTL peak into twoTable 1. Summary of bioinformatics tools for dissecting rodent QTLs Bioinformatics tool Summary Resolution Comparative genomics Identies regions of chromosomal synteny in QTLs that are concordant across species1020 Mb Combined cross analysis Recodes genotype information from multiple crosses detecting a shared QTL into one susceptibility and one resistance genotype to combine the crosses in a singleQTL analysis1020 Mb Interval-specic haplotype",
+    "QTL/interval analysis  QTL  mapping  was conducted  using  publically  available  software   on GeneNetwork  (http://www .genenetwork .org/webqtl /main .py).  One  important  feature  of the GeneNetwork  is WebQTL , which  is the  leading  GeneNetwork  module , and has been  optimized  for on-line  analysis  of traits  that are controlled  by combinations  of allelic  variants   and environmental  factors  [15]. A simple  graphical  user interface",
+    "model selection approach for mapping multiple interacting QTL [376] and Plink, a library for association QTL mapping on single nu cleotide polymorphisms (SNP) in natural populations [277]. 3.2.3 Add new analysis tools xQTL workbench supports exible adding of more QTL analysis s oft- ware: any R-based, or command-line tool, can be plugged in. A ll anal- ysis results are uploaded, stored and tracked in the xQTL workbench database through an R-API. When new tools are added, they can b uild",
+    "717 730 14. Delaneau, O. et al. (2017) A complete tool set for molecular QTL discovery and analysis. Nat. Commun. 8, 1545215. Liu, B.H. (2017) Statistical Genomics: Linkage, Mapping, and QTL Analysis , CRC Press 16. Gibson, G. et al. (2015) Expression quantitative trait locus anal- ysis for translational medicine. Genome Med. 7, 1 14 17. Ritchie, M.D. et al. (2015) Methods of integrating data to uncover genotype-phenotype interactions. Nat. Rev. Genet. 16, 185 197",
+    "236 CH 10 TOOLS FOR STATISTICAL GENETICS Lastly, Bayesian methods allow the consideration of multiple QTLs, QTL positions and QTL strengths (Jansen, 1996; Satagopan et al. , 1996; Uimari et al. , 1996; Sillanpaa and Arjas, 1998, Borevitz et al. , 2002). Multimapper (Sillanpaa, 1998), for example, allows the automatic building of models of multiple QTLs within the same linkage group. It is designed to work as a companion program to QTL Cartographer (Basten"
+  ],
+  "answer": "The bioinformatics tools for QTLs analysis include:  1. **R/qtl** - A comprehensive tool for QTL mapping [4]. 2. **QTL Cartographer** - Used for QTL mapping and analysis [4]. 3. **MapQTL** - Another tool for QTL mapping [4]. 4. **WebQTL** - An online tool optimized for the analysis of traits controlled by combinations of allelic variants and environmental factors [4], [7]. 5. **QTL IciMapping** - A free software for QTL mapping that constructs genetic linkage maps and performs QTL analysis by simple interval mapping and inclusive composite interval mapping [4]. 6. **CPMAtranseqtl** - Available on GitHub, supports R/Python [3]. 7. **eMap** - Available on GNU, supports R [3]. 8. **FastMap** - Available on SourceForge, supports JAVA [3]. 9. **lme4qtl** - Available on GitHub, supports R [3]. 10. **Matrix eQTL** - Available on the UNC website, supports R/Matlab [3]. 11. **Meta-eQTL** - Available on HPC MSSM, supports R/C [3]. 12. **Plink** - A library for association QTL mapping on single nucleotide polymorphisms (SNP) in natural populations [8]. 13. **Multimapper** - Allows the automatic building of models of multiple QTLs within the same linkage group and works as a companion program to QTL Cartographer [10].  These tools can be used in combination with classical experimental methods to accelerate QTL gene identification [1], [2].",
+  "question": "what are the bioinformatics tools for QTLs analysis?"
+}

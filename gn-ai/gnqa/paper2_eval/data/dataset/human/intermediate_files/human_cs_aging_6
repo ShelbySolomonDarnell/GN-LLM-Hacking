@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+    "2020 - A multidimensional systems biology.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2020 - Whole-genome sequencing of Chinese.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf",
+    "2000 - Genome-wide study of aging and oxidative stress.pdf",
+    "2007 - Temporal and spatial transcriptional profiles.pdf",
+    "2008 - Evolution of the Aging Brain Transcriptome and Synaptic.pdf"
+  ],
+  "extraction_id": [
+    "81c68113-aa96-5af3-b4fc-5898fa20e379",
+    "9d1656aa-32d2-5094-8232-4817655b1cbd",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "0d3deffe-1f4d-5a6b-9acb-56d56141ad60",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+    "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+    "2b1a11ea-1574-5df6-b73a-a34052098751",
+    "ac5d00c0-f445-5c6a-b248-12c82c985d9a",
+    "2e42619b-d0b2-5d33-aab8-6f04002ee807",
+    "bab54a5c-0b3c-5c5b-9b2b-5e7a67492a9c"
+  ],
+  "document_id": [
+    "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+    "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "9ac921c7-3991-579b-bd53-7966b91e3aae",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "6f250b15-61b3-57ed-8900-5aa4a173fa8c",
+    "3fc2266c-d677-54f9-b3a2-5129eedf214a",
+    "38f27ec7-08bf-5397-b2b8-bde95e0dc3f8",
+    "cf413489-3986-5a5f-925d-58f94fa57428"
+  ],
+  "id": [
+    "chatcmpl-ADZVfJ7vrTDhDZNUBDMrr0RnqmSWE",
+    "6f04401a-b938-5a60-8b69-d37f9086748c",
+    "61baeaa5-d65a-54b5-bfee-9bab8bbf1985",
+    "b719fbc0-94e4-5df0-abb7-0d13fc36214c",
+    "02b405a4-71d7-5b85-9138-8a97c537601c",
+    "4d6876c5-9226-587c-8d3e-d4957ee42dba",
+    "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+    "8f8848f4-d5fb-5f8c-a6b1-0f965f2abbc6",
+    "43abb9e9-5ffb-58d8-b5b9-251c50c1283d",
+    "bf2cd208-273f-5848-b243-df8b95ea7833",
+    "9430a0cd-5e05-536b-9d47-5b0b0674df5d"
+  ],
+  "contexts": [
+    "OTHER AGING RELATED GENES",
+    "genes driving cellular senescence, and perform various integrative analyses. Genes inducing cellular senescence tend to be overexpressed with age in human tissues and are significantly overrepresented in anti-longevity and tumor-suppressor genes, while genes inhibiting cellular senescence overlap with pro-longevity and oncogenes. Furthermore, cellular senescence genes are strongly conserved in mammals but not in invertebrates. We also build",
+    "lar signatures of mammalian aging. Some of the genes",
+    "ation of the process of aging. Studies revealed from 300 to 750 genes related to longev- ity that are critically involved in a variety of life activities, such as growth and developme nt, energy metabolism, oxi- dative stress, genomic stability maintenance, and neurocog- nition [ 4]. These candidate genes include mainly APOE, a gene involved in lipoprotein metabolism [ 5,6]. Others are those involved in cell cycle regulation, cell growth and signal transduction, the maintenance of genome stability,",
+    "genes (http://genomics.senescence.info/genes/), more than700 genes have been identified that regulate lifespan inmodel organisms (de Magalha es et al., 2009a). Many ofthese genes and their associated pathwayssuch as theinsulin/IGF1/GH pathwayhave been shown to affect lon-gevity across different model organisms (Kenyon, 2010).Therefore, at least some mechanisms of aging are evolu-tionarily conserved and may have potential therapeuticapplications (Baur et al., 2006). For example, evidencesuggests the use of",
+    "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes   et     al  ., 2005a). The",
+    "down-regulated during aging were genes involved in DNA repair and chromatin remodelling. 55 While these studies revealed thousands of age-regulated genes,  the ultimate causes of these expression perturbations remain unknown. Analyzing age-dependent gene expression changes using multi-dimensional genetical genomics could bring the identification of genes causing the age-induced alterations  and thereby future therapeutic intervention strategies  one step  closer.  Adding the dimension of epigenetics",
+    "Aging is a biological process universal to eukaryotic organ- isms, and its underlying mechanisms are under intensive study. Genetic analyses of yeast, nematode, fly, and mouse haveuncovered a number of genes, whether mutated or misexpressed,that would increase the lifespans of these organisms (1). These genes include superoxide dismutase , a free-radical scavenger; methuselah , a potential G protein-coupled receptor, in Drosoph- ila melanogaster ; and p66 shc, an oxidative stress-response gene, in",
+    "The multifactorial and temporal features of aging can beanalyzed efficiently by genome-wide transcriptional profiling,which has been conducted in various model organisms and hu-mans (Melov and Hubbard 2004). Aging is associated with alter-ations in transcript levels of many genes, including those in-volved in evolutionarily conserved mitochondrial and protea-somal functions (McCarroll et al. 2004), some of which havebeen shown to be directly involved in regulating lifespan in C.",
+    "5. Jiang CH, Tsien JZ, Schultz PG, Hu Y (2001) The effects of aging on gene expression in the hypothalamus and cortex of mice. Proc Natl Acad Sci U S A 98: 19301934. 6. Lu T, Pan Y, Kao SY, Li C, Kohane I, et al. (2004) Gene regulation and DNA damage in the ageing human brain. Nature 429: 883891. 7. Fraser HB, Khaitovich P, Plotkin JB, Paabo S, Eisen MB (2005) Aging and gene expression in the primate brain. PLoS Biol 3: e274. 8. Zahn JM, Poosala S, Owen AB, Ingram DK, Lustig A, et al. (2007) AGEMAP: a"
+  ],
+  "answer": "Several genes are involved in the aging process, as identified in various studies:  1. **APOE**: This gene is involved in lipoprotein metabolism and is critically related to longevity [4]. 2. **Superoxide dismutase**: A free-radical scavenger gene that has been shown to increase lifespan in model organisms [8]. 3. **Methuselah**: A potential G protein-coupled receptor gene in *Drosophila melanogaster* associated with increased lifespan [8]. 4. **p66shc**: An oxidative stress-response gene involved in aging [8]. 5. **Insulin/IGF1/GH pathway genes**: These genes are part of a pathway that affects longevity across different model organisms [5]. 6. **Genes involved in DNA repair and chromatin remodeling**: These genes are down-regulated during aging [7]. 7. **Genes associated with cellular senescence**: These include genes that induce or inhibit cellular senescence, which are overexpressed with age and are linked to anti-longevity and tumor-suppressor functions [2].  Additionally, studies have identified between 300 to 750 genes related to longevity that are involved in various life activities such as growth, development, energy metabolism, oxidative stress, genomic stability maintenance, and neurocognition [4].",
+  "question": "which genes are involved in aging"
+}

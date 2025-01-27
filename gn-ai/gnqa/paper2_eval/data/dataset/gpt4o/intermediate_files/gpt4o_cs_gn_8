@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf",
+    "2017 - Analyses of differentially expressed genes after exposure to acute stress, acute ethanol, or a combination of both in mice.pdf"
+  ],
+  "extraction_id": [
+    "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "308bef07-d720-5686-990d-d1e26a48e8a1",
+    "4ca2fc9e-7d42-5ea3-b1b7-a296bfbc6a09",
+    "7dd82b3f-58bd-5915-9eea-250f11412ff2",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "223e442e-898d-5aea-866a-5cdc0ac915e8",
+    "4f3d275e-f521-5ae9-b550-0411d2a1bb33"
+  ],
+  "document_id": [
+    "76a715a4-8222-598b-8e65-6d5b6e807989",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "d11a87ca-4989-59af-95e3-ab90af7d9212",
+    "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda",
+    "433904cc-23b8-50a5-ba84-0ee4d41d23c2"
+  ],
+  "id": [
+    "chatcmpl-AIGljdYmj6PqUgXHWW6b3NFcoOufn",
+    "21936758-94b1-506f-9229-77e26001ae44",
+    "0b2bd83d-680a-52d2-8116-50cce4f35cc3",
+    "fa07b1bf-94e6-515b-8400-cf3afa8b8741",
+    "94f60899-c281-586e-8741-135a4fef2663",
+    "7ce6c0fe-8b0a-5ce9-83d1-6e6b99b4f24d",
+    "30e2423f-2b2b-5c7d-8808-b025242fa0c7",
+    "76ca1a96-ff40-515d-8d8b-5b1cde3c32b5",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "72cac585-5de7-56ca-8ea5-c133d3ff7acf",
+    "90151329-53f0-5d76-b428-da316848daf3"
+  ],
+  "contexts": [
+    "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes are two such examples of possible tools. For this study, we",
+    "al., 2005). GeneNetwork is designed primarily as a web service for exploratory and statistical analysis of large published phenotype and genome datasets, and includes data from several species (see Supplementary Discussion). GeneNetwork includes extensive phenotype data extracted from the literature and submitted by users, which makes it practical to compare data on drug responses with gene expression patterns. Gene expression",
+    "data are entered into GeneNetwork after they have been shepherded through a system like PhenoGen that has extensive capabilities for normalization and quality control. A comparison of the brain gene expression datasets and some of the tools for data analysis available on PhenoGen and GeneNetwork is shown in Table 3, and more detailed information on features provided by each site is outlined in the Supplementary DiscussionHoffman et al. Page 5 Addict Biol . Author manuscript; available in PMC 2012 July 1.",
+    "(description of GeneNetwork provided by Dr. Robert W. Williams). Both of these websites focus to a large extent on correlations of behavioral phenotype with gene expression levels in recombinant inbred and inbred panels of mice and rats, and on QTL analyses, as a means to identify candidate genes for complex traits. What distinguishes PhenoGen, in addition to the tools for raw expression data analysis described above, is that the user can not only",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "by example in the Supplementary Methods, and in the Users Manual that can be downloaded from the website. There are a number of databases that investigators can use to assist in various aspects of gene expression data storage and mining (e.g., (Chesler et al., 2005; Galperin and Cochrane, 2009; Gentleman et al., 2004; Mailman et al., 2007; Saal et al., 2002; Swertz et al., 2010)). One relatively well-known database is GeneNetwork (www.genenetwork.org) (Chesler et",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "from co-regulation patterns found within tens of thousands of samples for which gene expression was measured. GeneNetwork provid es un- precedented resolution and predictive power across multip le cell types and tissues. Analogous to discovering patterns in expressi on data, the network of protein-protein interactions can also be comput ationally pre- dicted using various methods[381]. The combined current knowledge of how cells control functio ns",
+    "differentially expressed were further evaluated. Bioinformatic analyses were predominantly  performed using tools available at GeneNetwork. org, and included gene ontology, presence of cis- regulation or polymorphisms, phenotype correlations, and principal component analyses.  Comparisons of differential gene expression between groups showed little overlap. Gene Ontology  demonstrated distinct biological processes in each group with the combined exposure (RSE) being"
+  ],
+  "answer": "Scientists use GeneNetwork.org to study differences in gene expression by leveraging a variety of analytical tools and datasets available on the platform. GeneNetwork provides access to large published phenotype and genome datasets from several species, allowing for exploratory and statistical analysis [2]. The platform includes microarray data of gene expression in the brain and other phenotypes, which can be used to compare traits across different datasets [1].   GeneNetwork also facilitates the comparison of gene expression patterns with drug responses and other phenotypic data, making it practical for identifying candidate genes for complex traits through QTL analyses [2], [4]. The platform supports correlation and network analysis to compare associations between tissues and across rodent or human datasets, which is useful for systems genetics mapping [5].   Additionally, bioinformatic analyses on GeneNetwork.org include tools for gene ontology, presence of cis-regulation or polymorphisms, phenotype correlations, and principal component analyses, which help in evaluating differentially expressed genes and understanding distinct biological processes [10].",
+  "question": "How do scientists use GeneNetwork.org to study differences in gene expression?"
+}

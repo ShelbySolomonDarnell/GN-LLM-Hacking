@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Germline de novo mutation clusters arise.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Germline de novo mutation clusters arise.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf"
+  ],
+  "extraction_id": [
+    "af805fbb-a39f-5a29-a0b0-9add1126b553",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "403bbc25-ce94-5a4f-a409-436cc02fb204",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "907c33dd-34b8-51f5-a91f-fb83cf11f7f9",
+    "403bbc25-ce94-5a4f-a409-436cc02fb204",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "c07e5efe-7d80-547e-847b-eef61bb661cc",
+    "8cba1054-1540-57ee-a5c4-350f5555081f"
+  ],
+  "document_id": [
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "f2b2ca83-a34f-5f99-b9f2-357b2ddbe136",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "f2b2ca83-a34f-5f99-b9f2-357b2ddbe136",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858"
+  ],
+  "id": [
+    "chatcmpl-ADZJ5u5h9f6SgdrxrixAsqUmOQgLr",
+    "72da6034-227d-5dac-9ef6-90c246ec2b40",
+    "66e5e009-5496-5e18-bfbe-9a9567cad60c",
+    "2f2342b3-4c07-5bfd-80c6-8bc47fead6b6",
+    "ab92961e-c267-5e56-aeb9-0d03fd0a4102",
+    "fb421292-e4ea-510b-8a69-48e12e6e6a43",
+    "3b5635bb-8308-5c6b-8ee0-d65293257362",
+    "788b6b85-7ef2-5805-bc0c-d8af71332e0d",
+    "4802fb82-204d-57b6-b24f-5683f3731aea",
+    "c8e7e683-487f-5075-bbef-126ca0203c6c",
+    "5da6f433-231d-586b-a057-558a4c68f741"
+  ],
+  "contexts": [
+    "Genes 2018 ,9, 615 18 of 20 97. McFarlane, R.J.; Humphrey, T.C. A role for recombination in centromere function. Trends Genet. 2010 ,26, 209213. [CrossRef] 98. Talbert, P .B.; Henikoff, S. Centromeres convert but dont cross. PLoS Biol. 2010 ,8, e1000326. [CrossRef] 99. Durfy, S.J.; Willard, H.F. Concerted Evolution of Primate Alpha Satellite DNA Evidence for an Ancestral Sequence Shared by Gorilla and Human X Chromosome Satellite. J. Mol. Biol. 1990 ,216, 555566. [CrossRef]",
+    "4.1. Recombination and Repair at Centromeres: Errors in Copying and Mending Highly Repetitive DNA Why are centromeres so cold?, asked Andy Choo in his review of centromeres [ 96]. He was referring to centromere DNA as being cold to recombination. While maternal and paternal chromosomes suffer multiple DNA double-stranded breaks (DSBs) to induce recombination and exchange of genetic information by crossing over during meiosis, centromere loci are refractory",
+    "exacerbates centromere rearrangements [ 54], indicating that there may be active mechanisms to suppress centromeric recombination and these may, at least in part, involve core centromeric proteins. Centromere alpha-satellite DNA is estimated to represent between 3% and 10% of the human genome [ 101], reviewed in [ 19]. During each round of replication, unperturbed cells suffer over 40 DNA DSBs [ 102], of which at least half are repaired by homologous recombination (HR) in S-phase and G2,",
+    "347357 (1998).  31. Baudat, F. et al. PRDM9 is a major determinant of meiotic recombination hotspots in humans and mice. Science  327, 836840 (2010).  32. Kong, A. et al. Recombination rate and reproductive success in humans. Nat.Genet.  36, 12031206 (2004).  33. Ottolini, C. S. et al. Genome-wide maps of recombination and chromosome segregation in human oocytes and embryos show selection for maternal recombination rates. Nat. Genet.  47, 727735 (2015).",
+    "to this process. This led to the assumption that centromeres do not undergo recombination and that the repetitive arrays are maintained as stable. However, this clashed with the notion that centromeres very origin stems from recombination to create the repetitive array, where multiple short- and long-range recombination events may be responsible for the generation and reiteration of blocks of highly homogenized alpha-satellite DNA throughout the centromere [ 97,98]. Furthermore, in addition",
+    "of these DSBs through recombination-dependent pathways, such as homologous recombination (HR),  may disrupt centromere integrity in several ways: (1) Crossover between sister chromatids will lead  to sister chromatid exchange (SCE), which has been  reported at human cent romeres. (2) Search for  the homologous sequence may erroneously identify an  identical or nearly identical sequence within  the same chromatid downstream or upstream of the break site. Recombination between these two",
+    "higher in regions of high recombination. Trends Genet.  18, 337340 (2002). 26. Webster, M. T. & Hurst, L. D. Direct and indirect consequences of meiotic recombination: implications for genome evolution. Trends Genet.  28,  101109 (2012).  27. Alexandrov, L. B. et al. Signatures of mutational processes in human cancer. Nature  500, 415421 (2013).",
+    "to chromosome-specic alpha-satellites, certain centromeric sequences are shared by all chromosomes, evidence that formation of these arrays is dominated by interchromosomal exchanges [ 8,98100]. This invites new questions about the stability of centromere DNA outside of meiosis. Indeed, our recent analysis has shown that centromeres can undergo recombination during a single round of cell division in primary human cells [ 54]. Depletion of CENP-A and other CCAN proteins",
+    "shown to play a role in DNA repair (reviewed in [ 125]), and in vitro experiments show that this hybridization may facilitate DSB repair by bridging the broken DNA fragments in a Rad52-dependent manner during recombination [126]. Centromeres have been suggested [ 127,128], but not proven, to behave like fragile sites of the human genome. Common fragile sites are described as genomic loci where ongoing replication collides",
+    "Cell Biol. 2016 ,17, 1629. [CrossRef] [PubMed] 54. Giunta, S.; Funabiki, H. Integrity of the human centromere DNA repeats is protected by CENP-A, CENP-C, and CENP-T. Proc. Natl. Acad. Sci. USA 2017 ,114, 19281933. [CrossRef] [PubMed] 55. Giunta, S. Centromere Chromosome Orientation Fluorescent in situ Hybridization (Cen-CO-FISH) Detects Sister Chromatid Exchange at the Centromere in Human Cells. Bio-Protocol 2018 ,8. [CrossRef]"
+  ],
+  "answer": "Recombination in human centromeres is generally suppressed, making these regions \"cold\" to recombination events [2]. This suppression is thought to be actively maintained by core centromeric proteins [3]. Despite this, there is evidence suggesting that centromeres can undergo recombination, particularly through mechanisms that involve homologous recombination (HR) during DNA repair processes [6]. For instance, crossover between sister chromatids, known as sister chromatid exchange (SCE), has been reported at human centromeres [6]. Additionally, centromeres may experience recombination during a single round of cell division in primary human cells [8]. This indicates that while recombination is generally suppressed in centromeres, it can still occur under certain conditions, potentially impacting centromere integrity and stability [5], [6], [8].",
+  "question": "What about recombination in human centromeres?"
+}

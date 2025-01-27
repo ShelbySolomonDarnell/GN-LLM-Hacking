@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2019 - Genomic Analysis in the Age.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2018 - Effects of Genetic Background on Susceptibility and the Acceleration of Hearing Loss in Mice.pdf",
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf"
+  ],
+  "extraction_id": [
+    "c91e328e-4a01-5952-85b8-d7b5b47237c5",
+    "c91e328e-4a01-5952-85b8-d7b5b47237c5",
+    "5da5fc5d-1fe6-58f0-9141-72b9b2996fff",
+    "7fb68eb5-75cc-5db7-a182-d0ea055d49fe",
+    "06285eb9-37a8-5f76-a6d4-69cab398f2c0",
+    "97796d0a-1595-5cc9-a0db-c4186788ad07",
+    "97796d0a-1595-5cc9-a0db-c4186788ad07",
+    "97796d0a-1595-5cc9-a0db-c4186788ad07",
+    "a97b6b0b-d841-5cd3-a79f-f6d283b8337c",
+    "e5aa10c8-8b26-517f-9725-cb809cb4a37a"
+  ],
+  "document_id": [
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "f50c4d62-acab-5024-8ec7-526fffbfbf25",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "0567de5c-e886-5660-82de-8b80d2b580a9",
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33"
+  ],
+  "id": [
+    "chatcmpl-ADZBtpMuJOymoi8ODiNQwPGHnYpg6",
+    "a2d9c614-903d-513a-ad88-5a40f3534988",
+    "aa1d9f58-486c-522f-9981-5ce7e943b87f",
+    "47703589-35f9-5cff-8e62-ed299caa3356",
+    "5bd5b104-1b21-536e-90b2-2179bd152858",
+    "f49954d4-5769-5b9d-b06c-9f0050ab9e81",
+    "aec521d0-0c70-59bc-b457-6d801e8a7ab7",
+    "7445eff9-43fa-5328-84b7-5db7f16197e2",
+    "76137d35-eb92-5512-bbff-fa90de8e445c",
+    "63009249-a23b-5b5f-b9aa-34dc63c88218",
+    "c80d766b-4629-5a42-b3c2-877aa3f5af7c"
+  ],
+  "contexts": [
+    "for sequencing on existing short-read instrumentation,  after which data are split by barcode and reassembled  with the knowledge that fragments sharing barcodes Barcodes A series of known bases  addedto a template molecule  either through ligation or  amplification. After  sequencing, these barcodes  can be used to identify which  sample a particular read is  derived from. Figure 5 | Real-time and synthetic long-read sequencing approaches.",
+    "sequence 2D read. Synthetic long-reads.  Unlike true sequencing platforms,  synthetic long-read technology relies on a system of  barcoding to associate fragments that are sequenced on  existing short-read sequencers61. These approaches par - tition large DNA fragments into either microtitre wells  or an emulsion such that very few molecules exist in  each partition. Within each partition the template frag - ments are sheared and barcoded. This approach allows",
+    "sequencing. This platform is used by the Illumina  suite of platforms. 36. Dohm,J.C., Lottaz,C., Borodina,T . &  Himmelbauer,H. Substantial biases in ultra-short read  data sets from high-throughput DNA sequencing.  Nucleic Acids Res. 36, e105 (2008). 37. Nakamura,K. etal.  Sequence-specific error profile  ofIllumina sequencers. Nucleic Acids Res. 39, e90  (2011). 38. Minoche,A.E., Dohm,J.C. & Himmelbauer,H.  Evaluation of genomic high-throughput sequencing  data generated on Illumina HiSeq and genome",
+    "Comparison of short-read platforms.  Individual short- read sequencing platforms vary with respect to through - put, cost, error profile and read structure (TABLE1 ).  Despite the existence of several NGS technology pro - viders, NGS research is increasingly being conducted  within the Illumina suite of instruments21. Although  this implies high confidence in their data, it also raises  concerns about systemic biases derived from using a  single sequencing approach2628. As a consequence, new",
+    "short-read sequencing. arXiv, arXiv:1203.3907v2, https://arxiv.org/abs/ 12073907 . Garrison, E., Sire n, J., Novak, A.M., Hickey, G., Eizenga, J.M., Dawson, E.T., Jones, W., Garg, S., Markello, C., Lin, M.F., et al. (2018). Variation graph toolkit improves read mapping by representing genetic variation in the reference. Nat. Biotechnol. 36, 875879 . Giambartolomei, C., Vukcevic, D., Schadt, E.E., Franke, L., Hingorani, A.D.,",
+    "or  transcriptomic structure53. Long-read sequencing Overview.  It has become apparent that genomes are  highly complex with many long repetitive elements,  copy number alterations and structural variations that  are relevant to evolution, adaptation and disease5456.  However, many of these complex elements are so long  that short-read paired-end technologies are insufficient  to resolve them. Long-read sequencing delivers reads in  excess of several kilobases, allowing for the resolution of",
+    "these large structural features. Such long reads can span  complex or repetitive regions with a single continuous  read, thus eliminating ambiguity in the positions or size  of genomic elements. Long reads can also be useful for  transcriptomic research, as they are capable of span - ning entire mRNA transcripts, allowing researchers to  identify the precise connectivity of exons and discern  geneisoforms. Currently, there are two main types of long-read tech -",
+    "nologies: single-molecule real-time sequencing  approaches  and synthetic approaches that rely on existing short- read technologies to construct long reads  insilico . The  single-molecule approaches differ from short-read  approaches in that they do not rely on a clonal popula - tion of amplified DNA fragments to generate detectable Figure 2 | Sequencing by ligation methods. a | SOLiD sequencing. Following cluster  generation or bead deposition onto a slide, fragments are sequenced by ligation, in",
+    "Tools for alignment-free analyses of sequencing data The vast majority of next-generation sequencing experiments in mouse have read alignment  to a reference genome as their first step. However, the primary data from any sequencing  experiment are the reads themselves. Recognition that the raw reads are information-rich has  led to the development of alignment-free algorithms for error correction (among many  others, Chaisson and Pevzner 2008 ), abundance estimation ( Patro et al. 2014 ), and de novo",
+    "(right). Sequencing adaptors (depicted by short red bars and short purple bars) are subsequently ligated to each cDNA fragment (green lines) and short sequence reads (single end or paired ends) from each cDNA are generated using high-throughput sequencing technology. The resulting sequence reads [short lines beneath the genome sequence with three genes shown (fat blue bars)] are aligned with the reference genome to"
+  ],
+  "answer": "Sure! Let's break down the difference between short-read and long-read sequencing in a way that's easy to understand.  ### Short-Read Sequencing: 1. **Read Length**: Short-read sequencing generates small fragments of DNA, typically around 50-300 base pairs long [4]. 2. **Technology**: This method is commonly used by platforms like Illumina [3]. 3. **Advantages**:     - **High Throughput**: It can produce a large amount of data quickly and is relatively cost-effective [4].    - **Accuracy**: Generally, short-read sequencing has a lower error rate per base compared to long-read sequencing [4]. 4. **Limitations**:    - **Complex Regions**: It struggles to accurately sequence complex regions of the genome, such as those with long repetitive elements or structural variations [6].    - **Assembly**: Because the reads are short, assembling them into a complete genome can be challenging and may leave gaps or errors [6].  ### Long-Read Sequencing: 1. **Read Length**: Long-read sequencing produces much longer fragments, often several kilobases (thousands of base pairs) in length [6]. 2. **Technology**: There are two main types:    - **Single-Molecule Real-Time Sequencing**: This method reads long DNA fragments directly without needing to amplify them [8].    - **Synthetic Long-Reads**: This method uses short-read technology to create long reads in a computational process [2]. 3. **Advantages**:    - **Complex Regions**: It can span complex or repetitive regions in a single read, making it easier to resolve these areas accurately [7].    - **Transcriptomics**: Long reads can cover entire mRNA transcripts, helping researchers understand gene structures and variations better [7]. 4. **Limitations**:    - **Cost and Throughput**: Long-read sequencing is generally more expensive and produces less data per run compared to short-read sequencing [4].    - **Error Rate**: The error rate per base can be higher than that of short-read sequencing, although this is improving with new technologies [4].  In summary, short-read sequencing is like reading a book by looking at many small snippets of text, which is fast and accurate but can be tricky if the text is very repetitive or complex. Long-read sequencing, on the other hand, is like reading longer passages at a time, which helps to understand the context better but might be slower and more expensive.",
+  "question": "Can you explain the difference between sequencing with short reads vs long reads? Please make you answer accessible to a non-expert."
+}

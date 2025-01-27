@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2011 - Interaction Between Exercise and Genetics.pdf",
+    "2010 - A Genome-Wide Association Study of Treated A1C.pdf",
+    "2004 - Common polymorphisms of the PPAR-\u03b32 (Pro12Ala) and PGC-1\u03b1 (Gly482Ser) genes are associated with the conversion from impaired glucose tolerance to type 2 diabetes in the STOP-NIDDM trial.pdf",
+    "2016 - Hypomethylation within gene promoter regions and type 1 diabetes.pdf",
+    "2010 - Genome-scale approaches to the epigenetics of common.pdf",
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf",
+    "2003 -Genetic epidemiology of type 1 diabetes.pdf",
+    "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+    "2013 - Continuous Aging of the Human DNA Methylome.pdf",
+    "2001 - The genetics of type 2 diabetes.pdf"
+  ],
+  "extraction_id": [
+    "861346c7-0fcf-5cae-ace6-a012a370d297",
+    "cce780d7-60c0-5cb3-976f-15e9808cab59",
+    "feb52f56-db94-5e03-90a8-af3bf38d087e",
+    "bc569d05-fc39-5487-95e7-63b0d7bf9b7e",
+    "8881623e-fe7a-53bd-b703-2e8bf6a5c240",
+    "2778ece8-df84-58d2-9002-e036f0d007dc",
+    "592fd011-4dfb-5a78-8973-482e35541468",
+    "551087b1-8e80-5a7b-839a-304f566a6417",
+    "a0916b04-3463-5247-94da-0c97fd5da20d",
+    "737e4fe2-91ba-50c5-8f64-1149944fb60c"
+  ],
+  "document_id": [
+    "c36db75e-4b76-540d-9efb-d0e156e61541",
+    "4de9f054-4a02-5b6a-905d-420744075755",
+    "07b6ab4b-1aff-5d0e-aa98-d49a66b7b5d1",
+    "3d0f1bab-738c-5ba3-8fd9-206b3455704d",
+    "3f21702c-3fdf-50b5-8060-04a9a1ce09ae",
+    "17637a6f-804e-50e4-9cf5-37318e17f15c",
+    "cbc7f2d3-3f65-50ba-b281-96dd1c77f2c0",
+    "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+    "34783678-d4c2-566f-9b5b-0db18a72e86d",
+    "8ab06972-1c6c-5d68-a270-65fb0af0917b"
+  ],
+  "id": [
+    "chatcmpl-AIHJckmqoH46qp1BDk6zYdLg1Akw5",
+    "6623716f-8275-5f17-be27-a8241560a645",
+    "15e73a17-cae0-5dc1-8cad-5805809ae872",
+    "c57caee6-9b8f-5cb5-ab53-337dda1d92a7",
+    "bcfe4c03-f0bb-540d-b529-adda644998a6",
+    "4e393756-1b48-56f7-a3e7-33d15a55dc73",
+    "a4c3abc2-635c-5ace-ad39-c678a505fa48",
+    "f295f1d3-43d5-5eef-a39f-a8b91c47500f",
+    "0cd29c12-48e8-5f9f-9744-6b8acfaae0c7",
+    "3a9e7574-8914-5a96-86b6-b7b87a89b894",
+    "af680560-47c6-5556-bb80-c7584d762f66"
+  ],
+  "contexts": [
+    "Studies of twins also provide compelling evidence for a genetic component to  T2D. Estimates for concordance rates range from 0.29 to 1.00 in monozygotic (MZ) twins, while in dizygotic (DZ) twins the range is 0.100.43 [57, 58, 6164].  The high levels of heritability observed for insulin sensitivity and insulin secretion [6567] further reinforce the role of genetics in diabetes and indicate the primary genetic lesions for diabetes are likely to localize to genes in beta-cell-centric pathways.",
+    "It is therefore intriguing that A1C levels are signicantly correlated in monozygotic twins whether they are concor- dant for type 1 diabetes or not (4): in a discordant twin pairone twin is treated with insulin, whereas the other oneisnt, and thus this degree of correlation suggests thatgenetic contributors to A1C may be detectable despite thesuperimposition of a strong environmental modier. Rig-orous estimates of heritability of treated A1C, however, are not available.",
+    "Concordance rate for type II diabetes mellitus in monozy-gotic twins: actuarial analysis. Diabetologia 42:146150 3. Lehtovirta M, Kaprio J, Forsblom C, Eriksson J, Tuomilehto J, Groop L (2000) Insulin sensitivity and insulin secretionin monozygotic and dizygotic twins. Diabetologia43:285293 4. Florez JC, Hirschhorn J, Altshuler D (2003) The inherited basis of diabetes mellitus: implications for the genetic anal-ysis of complex traits. Annu Rev Genomics Hum Genet4:257291",
+    "disease susceptibility is not explained by genetics alone; environ- mental factors, gene by environment interactions, and epigenetic inuences are likely to play important roles in the etiology of T1D [5,6] . Monozygotic (MZ) twin pairs, discordant for T1D, represent an ideal system to test susceptibility factors not attributable to genetic variation, especially epigenetic variation, since the ge- nomes of the twins are identical. The ascertainment of disease-",
+    "epigenetic differences among monozygotic twins. A critical question is whether epigenetic marks are transmitted intactfrom parent to offspring and whether DNAm is allele- specific and covaries with allele-specific gene expression. For example, can we develop an epigenetic transmissiontest comparable to the transmission disequilibrium test used in genetic epidemiology? Finally, and most excitingly, we",
+    "their dietary and physical activity habits (Maes et al, 1997 ). There is also ample evidence that diabetes has a substantial genetic component. The con- cordance of type 2 diabetes in monozygotictwins ranges between 50 and 70% compared to 2037% in dizygotic twins (Kaprio et al, 1992 ; Newman et al, 1987 ; Poulsen et al 1999). Further evidence comes from studies that compare therisk in offspring with a family history of type 2 diabetes with offspring without such a fam-",
+    "monozygotic and dizygotic Danish twin pairs withinsulin dependent diabetes mellitus. Bmj 1997: 314:1575 1579. 30. R EDONDO MJ, R EWERS M, Y UL et al. Genetic deter- mination of islet cell autoimmunity in monozygotictwin, dizygotic twin, and non-twin siblings of patientswith type 1 diabetes: prospective twin study. Bmj 1999:318: 698 702. 31. L EVY-M ARCHAL C, P ATTERSON C, G REEN A. Variation",
+    "Studies in twins have demonstrated that 5070 % in the body mass index (BMI) variance may be explained by genetics (   Allison et al., 1996   ), and T2DM concordance was reported ranging from 1737 % in dizygotic to 5070 % in monozygotic twins (   Kaprio et al., 1992   ;    Medici et al., 1999   ;    Poulsen et al., 1999   ). In addition, family and adoption studies have reported heritability ranging from 2060 % for obesity (   Rice et al., 1999   ;    Stunkard et al., 1986   ) and 3070 % for T2DM (   Meigs",
+    "Monozygotic twins exhibit numerous epigenetic differences: clues to twindiscordance? Schizophr Bull 29: 169178. 8. Oates NA, van Vliet J, Duffy DL, Kroes HY, Martin NG, et al. (2006) Increased DNA methylation at the AXIN1 gene in a monozygotic twin from a pair discordant for a caudal duplication anomaly. Am J Hum Genet 79: 155162. 9. Kuratomi G, Iwamoto K, Bundo M, Kusumi I, Kato N, et al. (2008) Aberrant DNA methylation associated with bipolar disorder identified from discordant",
+    "5 E/C128orts to estimate the heritability of T2D by a comparison of the concordance rates in mono- and dizygotic twins have varied greatly as a result of di/C128erences in ascertainment scheme, diagnostic criteria and follow-up duration.69Concordance for diabetes is generally higher in identical twins (supporting a genetic basis for disease), although the extremely high concordance rates in some early studies6were undoubtedly inated by ascertainment bias. Evidence from population studies"
+  ],
+  "answer": "The study of monozygotic twins discordant for diabetes provides valuable insights into the etiology of the disease by highlighting the roles of both genetic and epigenetic factors. Since monozygotic twins share identical genomes, any differences in disease manifestation between them can often be attributed to non-genetic factors, such as epigenetic modifications or environmental influences.  1. **Genetic Component**: The high concordance rates for diabetes in monozygotic twins, compared to dizygotic twins, underscore a significant genetic component to the disease [1], [6]. This suggests that genetic predispositions, particularly those affecting insulin sensitivity and secretion, play a crucial role in the development of diabetes [1].  2. **Epigenetic Influences**: Despite identical genetic makeup, monozygotic twins can exhibit differences in disease susceptibility due to epigenetic variations. These variations can arise from environmental factors and gene-environment interactions, which are crucial in understanding the etiology of diabetes [4]. Epigenetic differences, such as DNA methylation patterns, have been observed in monozygotic twins and may contribute to discordance in disease states [9].  3. **Environmental and Lifestyle Factors**: The discordance in diabetes among monozygotic twins also points to the influence of environmental factors and lifestyle choices, such as diet and physical activity, which can modify epigenetic marks and affect disease outcomes [6].  In summary, the study of monozygotic twins discordant for diabetes highlights that while genetic predispositions are significant, epigenetic modifications and environmental factors also play critical roles in the disease's etiology. This understanding can help in developing more targeted prevention and treatment strategies that consider both genetic and non-genetic factors.",
+  "question": "How do genetic and epigenetic differences between monozygotic twins discordant for diabetes inform our understanding of its etiology?"
+}

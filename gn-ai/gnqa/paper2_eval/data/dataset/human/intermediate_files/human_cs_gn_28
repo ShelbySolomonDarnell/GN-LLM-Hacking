@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2003 - Telomeres in the chicken genome stability and chromosome ends.pdf",
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2010 - Water Buffalo Genome Science Comes of Age.pdf",
+    "2009 - Genetic pathways of Lyst and exfoliation syndrome.pdf",
+    "2003 - Telomeres in the chicken genome stability and chromosome ends.pdf",
+    "2005 - Numerical Algorithms for Mapping of Multiple Quantitative Trait Loci in Experimental Populations.pdf",
+    "2005 -Ljungberg- Numerical algos for Multi QTL.pdf",
+    "2018 - Invited review Genetic and genomic_ xmltexbreak_ mouse models for livestock research.pdf",
+    "2013 - Baboons as a Model to Study Genetics and Epigenetics of Human Disease.pdf"
+  ],
+  "extraction_id": [
+    "34fa36d0-0b64-5c70-8645-ba3576d9262c",
+    "02efe8ed-062d-51d2-9dd6-5a29a178b708",
+    "070b22be-cafb-5fd4-a338-ae3c62939c24",
+    "86b3157e-5b20-5e1f-aeee-f4a6f652694d",
+    "4165230b-bfd7-506c-8cfc-02868fa6bf21",
+    "b5cb2e6d-631c-5dad-bae9-26acf1dd9fb6",
+    "7c86a795-7202-5bfb-8da3-148cd8e66358",
+    "1b359995-cabb-5e75-ba37-7df272c6c232",
+    "fa8c1f01-7655-597d-8718-67ad0bc3b5ee",
+    "4dd22813-9004-571c-a351-80a2ec0f9b92"
+  ],
+  "document_id": [
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "c9124b17-6f3f-50fd-b6fc-d329db6b7cdd",
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "fda7e83a-8e8c-5592-8302-687dab622323",
+    "5f35f50f-2f13-5b4c-9cfd-a96926e82f8c",
+    "c9124b17-6f3f-50fd-b6fc-d329db6b7cdd",
+    "dd7d3ea5-b23a-514e-898f-a4259ce6f6f9",
+    "bea0655c-7ef4-5754-ba14-817b72a21be2",
+    "5b167564-85a2-5886-b800-37932c3143a9",
+    "9f0acb79-6236-5add-b27e-1fb81ee4915d"
+  ],
+  "id": [
+    "chatcmpl-ADZMXN8MM8gEy7UyxGzfomf1l430J",
+    "597a0fb1-4a16-5fd3-9bdc-8be977741b82",
+    "06d5d1e7-9474-5389-9f00-5669172e73a7",
+    "65b220a4-b96c-5bcb-a65f-ed6954e44757",
+    "d9101bd9-f565-57c1-98f2-0a43b8a073b1",
+    "9712b652-cddb-522b-a7b6-053cecb6c9d9",
+    "53079eb2-6661-5082-8a3a-e9b577cbcbe9",
+    "b597e6e2-4b16-5955-8b97-972ba3cc7053",
+    "9e3ef47b-6e78-50d9-bc28-01c227f0a2ce",
+    "fbf0608e-28ec-540e-9d18-5acbfaacec5d",
+    "73394dbd-8c20-5c5c-8ac5-ac76d4bab36f"
+  ],
+  "contexts": [
+    "As seen in this karyotypic spread, the typical human cell has 46 chromosomes with 22 pairs of autosomes (numbered 122) and a pair of sex chromosomes, either XX or XY . Downloaded from http://ahajournals.org by on July 10, 2023",
+    "FIGURE 3. Telomere arrays of chicken and human chromosomes: the chicken genome contains more telomere sequence than the human",
+    "In sexually reproducing organisms, body cells contain 2 sets of chromosomes (1 set from each parent). To maintain this state, the egg and sperm that unite during fertilization each contain a single set of chromosomes. During meiosis, diploid cells undergo DNA replication, followed by 2 rounds of  cell division, producing 4 gametes, each of which has 1 set  of chromosomes (for humans, 23 unpaired chromosomes). Recombination occurs during meiosis. Mendelian diseaseSame as monogenic disease. Named",
+    "some set. Therefore, chromosome morphology sup-ports the designation of two separate genera [5].  Sex Chromosomes   Several studies have revealed high degrees of  homology among autosomal chromosomes of bovids with similar banding patterns and gene order among the chromosome arms of ca ttle, river buffalo, sheep,  and goats [14, 15]. Bovid sex chromosomes, unlike the highly similar autosomal chromosomes, share a slightly more complex rearrangement of sequences",
+    "14  Mice share an anatomy, physiology, and genome that is similar, though not  identical, to humans (May a nd Lutjen-Drecoll 2002; Smith 2002; Emes, Goodstadt et al.  2003; Huang, Winter et al. 2004). Mice and hum ans also share a su sceptibility to many  similar diseases. As an experimental genetic platform for vertebrates, tools for studying  and manipulating the mouse genome are near ly, if not completely, unparalleled",
+    "DELANY ET AL. 920 TABLE 1. Cytogenetic and telomere characteristics of vertebrate animal species (in vivo) Organism Terminal reference 2n/no. of telomere Telomere (maximum longevity) Telomeres array sizes shortening Rainbow trout 5860/116120 20 kb Unknown Oncohynchus mykiss Lejnine et al., 1995(20 yr) African clawed toad 36/72 1050 kb No Xenopus laevisBassham et al., 1998(15 yr) Laboratory mouse 40/80 50150 kb No Mus musculusKipling and Cooke, 1990(2 yr) Wild mouse 40/80 525 kb Yes",
+    "A human has 23 pairs of chromosomes, i.e. 46 in total. In each pair one chromosome has been inherited from the mother and the other from the father. The chromosomes in a pair are said to be homologous. They have the same genes at the same loci, but they may have different variants, different so called alleles, of the gene. Recall the eye color example from standard high school texts on genetics. We inherit one eye color allele from each parent, either a",
+    "A human has 23 pairs of chromosomes, i.e. 46 in total. In each pair one chromosome has been inherited from the mother and the other from the father. The chromosomes in a pair are said to be homologous. They have the same genes at the same loci, but they may have different variants, different so called alleles, of the gene. Recall the eye color example from standard high school texts on genetics. We inherit one eye color allele from each parent, either a",
+    "and zebra sh (http://www.alliancegenome.org, last access: 3 January 2018). 3 The mouse as a model animal for livestock research Mice are mammals, sharing 92 to 95 % of protein cod- ing genes with humans and other mammalian livestock species, such as cattle (Elsik et al., 2009), pigs (Humphray et al., 2007), sheep (Iannuzzi et al., 1999), and goats (Schibler et al., 1998). The mouse genome is structured into 19 autosomes and the sex chromosomes. The mouse",
+    "Figure 3: Comparison of human and baboon chromosomes. (A) Conservation of microsatellite marker order for orthologs human 12and baboon 11. (B) C hromosome inversion between orthologs hu- man 4 and baboon 5. The y-axis indicates chromosome length incentimorgans. Microsatellite markers identi ed in human have identi cation numbers that begin with D,and microsatellite markers identi ed in baboon have identi cation numbers that begin swith Pha. Figure 2: Papio hamadryas anubis (Olive baboon)"
+  ],
+  "answer": "Humans have 46 chromosomes, arranged in 23 pairs [1], [7]. The animal that has the same number of chromosomes as humans is the baboon, specifically the Olive baboon (Papio hamadryas anubis), which also has 46 chromosomes [10].",
+  "question": "which animal has the same number of chromosomes as human"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - Regular exercise participation improves genomic stability in diabetic patients an exploratory study to analyse telomere length and DNA damage.pdf",
+    "2009 - Antidiabetic drug metformin (GlucophageR) increasesbiogenesis of Alzheimer\u2019s amyloid peptides viaup-regulatingBACE1transcription.pdf",
+    "2016 - The dog aging project translational geroscience in companion.pdf",
+    "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+    "2004 - Diabetes Mellitus and Risk of Alzheimer Disease and Decline in Cognitive Function.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2016 - Whole-Genome Sequencing of a Healthy Aging Cohort.pdf",
+    "2010 - Genetics, pathogenesis and clinical interventions in type\u20091 diabetes.pdf",
+    "2016 - The genetic architecture of type 2 diabetes.pdf",
+    "2016 - Genetic predisposition for beta cell fragility underlies type 1 and type 2 diabetes.pdf"
+  ],
+  "extraction_id": [
+    "0e53122e-a308-55f7-8ee8-a0857ac9c52f",
+    "660377a1-3bd9-5628-ba52-4603b485267a",
+    "0d62683a-9b2d-535a-9464-15df3187bff3",
+    "ec07ba94-177b-599e-8104-92b2e0b943e6",
+    "d301fa41-68c5-5d02-94cc-ef3f83f2df8a",
+    "eb3de845-98db-505c-bb7f-c0f3259875fc",
+    "c55b4a12-6cc8-5594-87d4-53e4f8f023d1",
+    "6d537deb-a8fa-59cf-a961-aa3da56b18da",
+    "8b8b572d-68f5-5470-b5ed-ec5c6219dd5e",
+    "77681744-9c95-530f-afec-248e183fd78c"
+  ],
+  "document_id": [
+    "dcaf7b09-2d54-5cbf-b061-e3c4e6c6c518",
+    "78818ecc-83cb-5189-8eba-2ed7cb6d3a7f",
+    "e841c6bd-78b8-56e1-b3dd-e2bcc8a0f590",
+    "cc708325-df0a-55ec-9e9b-2bf97835c992",
+    "a6fca397-1f0f-5a8d-846d-78e92ef5c088",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "3a287979-e475-545b-99e6-4c1925653a79",
+    "46ac7ad7-a672-5d91-abf8-9c2f6307cd38",
+    "d7e2a9de-46f1-5191-9cb0-dd68eb9f365a",
+    "5b239c51-7b4c-58e0-acca-2061593fe317"
+  ],
+  "id": [
+    "chatcmpl-ADZQlbMdmyuTz6o9831V2evAJSxPf",
+    "a2125212-46c1-5020-ab62-196db673c2f5",
+    "962238ce-db77-5c91-8f41-33640d0bf501",
+    "6da64757-8c4d-5ec8-9c70-8da1be37af81",
+    "2747746a-5ede-5c96-aa43-8b71a29c1ce0",
+    "916717da-d554-5e4c-95d5-780d96c8bad2",
+    "9fc663d2-2833-51e7-ae6a-55b007a6e27c",
+    "19faf41b-7716-5244-a9c3-196c2e5cd477",
+    "5bc52c12-3339-542b-82a2-b839203370b9",
+    "13ca56ac-b751-5bc8-b557-e7a7a12a1b04",
+    "652c144e-94d8-519b-8d1f-1bcb2bf1b7b3"
+  ],
+  "contexts": [
+    "The biological processes linking aging and disease risk are poorly understood. Still, aging is considered to date as  one of the main factors responsible for several complex diseases including cancer, cardiovascular diseases, and diabetes. Particularly, type 2 diabetes (T2D) has become very prevalent all over the world, with a projected increas- ing growth rate for the years ahead 1. The pathophysiological mechanism that underlines diabetic complications",
+    "fects correlate with the functional alterations associated withaging of the brain and with AD pathogenesis (411). The vastmajority of AD cases are late onset and sporadic in origin withaging being the most profound risk factor. Insulin signaling isknown to be involved in the process of brain aging (1220).Insulin dysfunction/resistance in diabetes mellitus (DM) is notonly a common syndrome in the elderly but also considered a riskfactor for AD, especially for vascular dementia (21, 22). The link",
+    "striking similarities to people with respect to age-associ- ated increases in risk for several diseases, the relative risk for individual diseases is not always shared. For example,although the prevalence of type II diabetes in older dogs increases with age, it is still much lower than the current prevalence of type II diabetes in people, and the mostcommon form of diabetes in dogs resembles type I diabetes in people (Nelson and Reusch 2014 ). Whether this reects",
+    "strong inverse association between BMI and age at diagnosis of type 2 diabetes. When type 2 diabetes presents in later life, the severity of insulin resistance is often greater among individuals with a history of protracted and severe obesity, particularly with excess visceral adiposity. 28",
+    "COMMENT In a cohort of more than 800 older persons, we found thatdiabetes mellitus sometime in the study was associated withan increased risk of developing AD during a mean of 5.5years of observation. The risk of incident AD was 65% higherin those with diabetes mellitus than in those without it.Overall, results were similar in analyses restricted to dia-",
+    "insulin resistance, hypertension, and dyslipidemia (Obesity Education Initiative Expert Panel,  1998 ). Insulin resist-ance increases with age, and the incidence of diabetes rises sharply in the elderly (American Diabetes Association,  2010a ).   In a few patients, genetic mutations appear to be associ- ated with T2D (Roche  et al.  ,  2005 ; American Diabetes  Association,  2010a ). For example, recent work using the DPP data has led to the identi  cation of 27 single nucle-",
+    "et al., 2012 ), possibly due to the indirect and/or a mixed relation- ship between individual genetic disease risk loci and exceptional longevity (as discussed by Fortney et al., 2015 ) versus the poten- tially more direct relationship between aging in the absence of disease and overall genetic disease risk. On the other hand, no difference in genetic risk is observed for type 2 diabetes genetic risk and cancer. Some of these ndings (type 2 diabetes, colon, and lung cancer) can be explained by the",
+    "equal number of adults over 18 are thought to develop the disease,although incidence in older people receives less media/research attention. In this review, we discuss our current understanding of the cellular/molecular mechanisms of disease aetiology and progres-sion, the usefulness and limitations of rodent models of spontaneousdiabetes, the factors that are influencing the current increased inci-dence and the clinical opportunities for those affected.",
+    "associated with maturity onset diabetes of the young and early onset-age of  type 2 diabetes. J. Diabetes Complications 26, 343347 (2012). 19. Langenberg, C. et al. Design and cohort description of the InterAct Project:    an examination of the interaction of genetic and lifestyle factors on the incidence of type 2 diabetes in the EPIC Study. Diabetologia 54, 22722282  (2011).",
+    "in the precipitation of diabetes. Saturated fatty acids drive the apoptosis  and senescence of beta cells27,41, with increased oxidative stress42 and  endoplasmic reticulum stress41. As increased body mass index is asso - ciated with earlier onset of T1D43, it is possible that dietary fat is acting  as a sensitizer similar to insHEL, in effect lowering the threshold for  autoimmune stress to precipitate clinical diabetes. The male-specific susceptibility to diabetes in this model is in sharp"
+  ],
+  "answer": "Yes, there is a direct association between aging and susceptibility to having diabetes. Aging is considered one of the main factors responsible for several complex diseases, including diabetes, particularly type 2 diabetes (T2D) [1]. Additionally, insulin resistance, which is a key factor in the development of diabetes, increases with age, and the incidence of diabetes rises sharply in the elderly [6].",
+  "question": "Is there a direct association between aging and susceptibility to having diabetes?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Use of rat genomics for investigating the metabolic syndrome.pdf",
+    "2007 - The 20th International Mammalian Genome Conference Meeting Report.pdf",
+    "2009 - Use of rat genomics for investigating the metabolic syndrome.pdf",
+    "2009 - Use of rat genomics for investigating the metabolic syndrome.pdf",
+    "2007 - The 20th International Mammalian Genome Conference Meeting Report.pdf",
+    "2018 - Reproducibility and replicability of rodent phenotyping in preclinical studies.pdf",
+    "2014 - An evolutionarily conserved role for the aryl hydrocarbon receptor in the regulation of movement.pdf",
+    "2021 - Characterizing modifier genes of cardiac fibrosis phenotype in hypertrophic cardiomyopathy.pdf",
+    "2009 - Prioritizing genes for follow-up from genome wide association studies using information on gene expression in tissues relevant for type 2 diabetes mellitus.pdf",
+    "1999 - Functional Genomics and Rat Models.pdf"
+  ],
+  "extraction_id": [
+    "29832535-60a1-5d5f-9909-6b38160bb183",
+    "b846ba66-5f3b-5ff4-bf49-4324909d52c5",
+    "9de9e2d1-114a-5fa2-ae3f-e646f59ee116",
+    "6027b20e-d480-5485-874b-62cbe06c9c57",
+    "b846ba66-5f3b-5ff4-bf49-4324909d52c5",
+    "6af0332a-a004-5933-91e1-fb3fcd42fc2d",
+    "10934f40-1148-5e89-a06d-01909c6807e7",
+    "31573012-679a-513b-a878-882723f39855",
+    "9d081a37-83c4-52f5-9ed1-43a05a44a62c",
+    "2a252f5b-a6a1-54bd-bc0a-c25642002243"
+  ],
+  "document_id": [
+    "b06c0e90-1be1-5ba1-ad60-02b238070d07",
+    "d8b5b643-b7e7-5534-81fa-ee2e3679102d",
+    "b06c0e90-1be1-5ba1-ad60-02b238070d07",
+    "b06c0e90-1be1-5ba1-ad60-02b238070d07",
+    "d8b5b643-b7e7-5534-81fa-ee2e3679102d",
+    "2c03b37f-8c92-5fee-b19d-c582df5edb13",
+    "6a49b34d-b451-5b28-9e66-34c37b3ace6e",
+    "b29bc6c1-384d-5d91-bc0e-d6907116871c",
+    "4b1a56e7-6821-5504-b6da-27dcdf57c6a5",
+    "dd8b0499-f6d2-5202-8093-1a36d99796de"
+  ],
+  "id": [
+    "chatcmpl-ADZA6mykgNrrlE5Rh6Pwwt7u5tbjM",
+    "9a5513d0-5aeb-5c7e-9343-1794cee269d1",
+    "e47b58b3-214c-55a7-8a82-ea5d3b3e91db",
+    "ddc43bd2-6e83-5e79-9f3e-682a77398eeb",
+    "b35435ab-72c5-50c2-ab3d-df1f6c9fc445",
+    "74508b6c-cbb0-56ea-8acb-47a1c271e820",
+    "54b6e5a7-49e5-5e2a-9c35-86c10f671cd8",
+    "c9ca3828-4dcd-554c-97ef-5af644093f54",
+    "27781fa3-a3bd-5d17-9e77-b039ec04126b",
+    "5c92f513-fea8-51fa-8432-929553dc9e32",
+    "976a6422-6743-5d92-b368-3712cd13d3d2"
+  ],
+  "contexts": [
+    "417 Use of Rat Genomics for Investigating the Metabolic Syndrome and phenotypic traits are available to the scientific community  in databases, such as Ensembl ( http://www.ensembl.or g), the  Rat Genome Database ( http://www.rgd.mcw.ed u), eQTL  Explorer ( http://www. web.bioinformatics.ic.ac.uk/eqtlexplore r)  or GeneNetwork ( http://www.genenetwork.or g). Additional  online rat genetic resources have been recently reviewed by  Twigger et  al. (11).",
+    "Howard Jacob (Medical College of Wisconsin) discussed the Rat Genome Database disease portals, a platform for genetic and genomic research. Thereare 845 strains of rats, 573 of which are inbred,including substrains. Historically, biologists usingthe rat as a model have been disease focused,studying diseases, related phenotypes, pathways, and biological processes. The Rat Genome Database",
+    "10. Consortium STAR, Saar K, Beck A, Bihoreau  MT, Birney E, Brocklebank D, Chen Y et  al  (2008) SNP and haplotype mapping for  genetic analysis in the rat. Nat Genet  40:560566  11. Twigger SN, Pruitt KD, Fernndez-Surez  XM, Karolchik D, Worley KC, Maglott DR  et al (2008) What everybody should know about the rat genome and its online resources.  Nat Genet 40:523527  12. Butcher LM, Beck S (2008) Future impact of  integrated high-throughput methylome anal- yses on human health and disease. J Genet",
+    "for linkage analyses using new methods of efficient genotyping  based on genechip microarrays (10). In addition, over 800,000  ESTs and 5,000 annotated rat gene sequences are available for  functional analyses of candidate genes. Development of new  methodologies for high throughput phenotyping, such as expres- sion profiling, are becoming routinely used. Most of these genetic 2. Recent  Advances in Rat  Genetics and  Genomics",
+    "serves as a repository of all rat QTLs related to thedisease area as well as associated mouse and humanQTLs, strains used as disease models, phenotypedata, related references, expression data, genome-wide views of disease genes, and QLS via GViewer,comparative maps of disease-related regions, cus-tomization of data sets and download options, and analysis and visualization of function and cellular localization makeup of gene sets (http://www.rgd.mcw.edu/). ENU mutagenesis is now being done with rats.",
+    "3. Can data sharing in rodent phenotyping help with replicability? Laboratory mice and rats are the main mammalian models currently used for high-throughput genomic and behavior genetic research, and are employed primarily to explore and test gene function. This is con- sidered by some to be the great challenge facing biologists today  (Collins et al., 2007 ). Rodent models are used extensively as part of preclinical development and testing of treatments for disease in hu-",
+    "Bioinformatics and Statistical Analysis R was used for basic analysis of phenotypic data. GeneNetwork (www.genenetwork.org) was used for correlation and genetic analyses. The original phenotypes published in this paper and all microarray data generated in these cohorts are available for public analysis or download using the GeneNetwork database (Species: Mouse, Group: BXD, Type: Adipose mRNA, Liver mRNA, or Muscle mRNA, then select the EPFL datasets). The three",
+    "[23]. Shimoyama M, De Pons J, Hayman GT, Laulederkind SJ, Liu W, Nigam R, Petri V , Smith JR,  Tutaj M, Wang S-J, The Rat Genome Database 2015: genomic, phenotypic and environmental  variations and disease, Nucleic acids research 43(D1) (2014) D743D750. [PubMed: 25355511]  [24]. Dickinson ME, Flenniken AM, Ji X, Teboul L, Wong MD, White JK, Meehan TF, Weninger WJ,  Westerberg H, Adissu H, High-throughput discovery of novel developmental phenotypes, Nature  537(7621) (2016) 508. [PubMed: 27626380]",
+    "database (dbSNP) build 130 to identify genes located inthe vicinity of selected SNPs. Homologues of the genes formouse and rat were identified using the NCBI's Homolo-Gene release 64. We included only those genes that wereevolutionarily conserved in three different species namelyhuman, mouse and rat. Analysis of microarray data",
+    "(data not shown). Therefore, it seems logical to position the rat field so themechanistic, disease-based research canbe integrated into the awesome power ofthe human and mouse genome projects. Progress of the Rat Genome Project Recognizing the usefulness of the rat as amodel system, NIH, led by the NationalHeart, Lung, and Blood Institute(NHLBI), has funded the Rat GenomeProject (RGP), the Rat Expressed Se-quence Tag (RGP EST) Project, and the Rat"
+  ],
+  "answer": "You can use the Rat Genome Database (RGD) for genetic, genomics, phenotype, and disease-related data generated from rat research. The RGD is specifically mentioned as a platform for genetic and genomic research, including disease portals and phenotypic data [2], [5]. Additionally, it serves as a repository for various types of data such as QTLs, strains used as disease models, expression data, and more [5]. The database can be accessed at http://www.rgd.mcw.edu [1], [5].",
+  "question": "Which database can I use for genetic, genomics, phenotype, and disease-related data generated from rat research?"
+}

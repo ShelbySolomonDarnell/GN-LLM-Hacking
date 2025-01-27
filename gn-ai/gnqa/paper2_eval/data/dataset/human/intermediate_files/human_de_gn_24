@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2014 - The genetic basis of obesity-associated type 2 diabetes (diabesity) in polygenic mouse models.pdf",
+    "2006 - Quantitative Trait Loci on Chromosome 8q24.pdf",
+    "2017 - Genomic regulation of type 2 diabetes endophenotypes Contribution.pdf",
+    "2015 - A Chromosome 13 locus is associated with male-specific mortality in mice.pdf",
+    "2008 - Meta-Analysis Approach identifies Candidate Genes and associated Molecular Networks for Type-2 Diabetes Mellitus.pdf",
+    "2016 - The genetic architecture of type 2 diabetes.pdf",
+    "1998 - Genetic dissection of ``OLETF_, a rat model for non-insulin-dependent diabetes mellitus.pdf",
+    "2015 - Transcript Expression Data from Human.pdf",
+    "2004 - Interaction and Association Analysis of a Type 1 Diabetes Susceptibility Locus.pdf",
+    "2001 - Genetic Analysis of a New Mouse Model for Non-InsulinDependent Diabetes.pdf"
+  ],
+  "extraction_id": [
+    "1ab308e3-565f-5d14-86bc-2909dd9a1de0",
+    "d35d2e8c-0e2f-5be4-a902-18d5c857746d",
+    "9dfc060c-bf5e-5958-b446-cfc12a4f85c5",
+    "cc39ccbe-150c-5d7e-8b6b-f6c98738cb95",
+    "309adb8f-fa42-5806-9e50-95742ba90857",
+    "8b8b572d-68f5-5470-b5ed-ec5c6219dd5e",
+    "c29fe565-1167-5821-8715-559cb48f2090",
+    "b9d039d0-8982-52c6-ba45-be2e2eeda7d5",
+    "b7586c99-af71-5f11-8fed-fd8395c783b6",
+    "4cc0bd43-c6a8-55fb-8300-d2228636c89d"
+  ],
+  "document_id": [
+    "1459a93f-3052-5cea-ba83-caf266ef9b86",
+    "8c5ffeac-5108-5b03-acd0-57aa09469af5",
+    "fef1ae33-b3af-50ea-909c-f1b57f7fe981",
+    "ad8f2626-87fb-520e-8cef-ee9a9cc3ab0b",
+    "4060609b-1464-55fa-93cd-fefaf2cac900",
+    "d7e2a9de-46f1-5191-9cb0-dd68eb9f365a",
+    "0f04bb9f-6d45-5511-a05c-a09f8ee9a5e9",
+    "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+    "4246f8d0-69e8-56cf-9674-d379467dfb61",
+    "c6086f32-0a3a-5a92-9e5b-4d2fa7fbbc93"
+  ],
+  "id": [
+    "chatcmpl-ADZBUB9zekyDDARKA9rzHsVGglrzJ",
+    "313e590c-40a4-5adb-a2d8-18577f465b30",
+    "f5220a71-d1bc-50ae-933a-2b92bab0c4ae",
+    "569bb9be-0b57-535a-ab0c-206d85f1dd4a",
+    "f3de711d-7dff-5b13-89c1-720bb6be9e12",
+    "6299defb-19e0-5f6d-aaea-44b36cdece6e",
+    "807bf364-408f-50c9-bacd-b9da438a1703",
+    "410c1b39-1d2a-5954-ac2c-9bf4ad38aa58",
+    "0ea7a0f3-5fdd-5d9f-8f53-4620492867f7",
+    "517a8a37-697b-500b-a5e8-7eff80fc0f79",
+    "af834bd3-8462-5159-99e8-59a2fc1f09c9"
+  ],
+  "contexts": [
+    "genes that are responsible for obesity-associated diabetes. By the generation of subcongenic lines of a QTL, if pos- sible starting with chromosome substitution strains, thensmall critical regions that harbor the gene(s) in question can be identied with certainty. Sequence analysis and mRNA proling together with gene targeting in-vitro andin-vivo may lead to a solid chain of evidence linking sequence differences with altered molecular, cellular, and",
+    "tensive nondiabetic families, the QTLs on chromosomes 8q24 and 7q11, which are located in regions previouslyidentied as harboring type 2 diabetesassociated genes,may govern insulin sensitivity and insulin secretion in thepresence of insulin resistance before development of overttype 2 diabetes. Follow-up ne-scale mapping aroundthese loci and well-designed candidate gene studies, inparticular, are strongly encouraged. ACKNOWLEDGMENTS",
+    "studies used the QTL approach for statistical analysis of genotypes and phenotypes measured in the crosses. The concept of genetic dissection of diabetes into quantitative endophenotypes was introduced and resulted in the detection of genetic loci responsible for the control of fasting glycemia [39,42] , fasting insulinemia [39,43] , glucose tolerance [39,41,42] , insulin secretion induced by glucose or arginine [39], body weight [39,41,44] , adiposity [39], b-",
+    "indicating that risk factors exist on both genetic back- grounds [ 29]. QTL mapping studies indicate that these murine metabolic traits have a complex genetic architec- ture that is not dominated by any single allele [ 2931], much like humans [ 32,33]. Prior work identied candidate genes on Chr 13 that might underlie diabetes-related traits, including RASA1, Nnt, andPSK1. RASA1 show strong sequence differences between B6 and D2 strains [ 34]. Rasche et al. [ 35] reported that",
+    "genetic background [4]. Linkage analyses have shown that several quantitative trait loci interact with each other and with the environment to elicit obesity syndromes that are potentially diabetic. Several recent genome-wide associa- tion studies have identified novel candidate genes for T2DM but the effect of these variants on disease suscepti- bility is generally low, with odds ratios mostly around 1.5 [5-11]. Multiple studies on the transcriptome level have been per-",
+    "(2011). 7. Steinthorsdottir, V. et al. Identification of low-frequency and rare sequence variants associated with elevated or reduced risk of type 2 diabetes. Nat. Genet.   46, 294298 (2014).8. Ma, R. C. et al. Genome-wide association study in a Chinese population  identifies a susceptibility locus for type 2 diabetes at 7q32 near PAX4.  Diabetologia 56, 12911305 (2013). 9. Huyghe, J. R. et al. Exome array analysis identifies new loci and low-frequency",
+    "nificant QTL, strongly associated with body weight (Galli et al.1996; Gauguier et al. 1996). Moreover, Gauguier and colleagues(1996) mapped a QTL linked to postprandial insulin secretion intheregionofChr4wherewedetectedasuggestiveQTL.DifferentNIDDM models (obese OLETF rats and lean GK rats) may carryalleles conferring NIDDM susceptibility in the same genes. Thecombined results imply the possibility of common genetic factorsunderlyingNIDDMinhumans,notwithstandingthehighdegreeofgenetic heterogeneity in human",
+    "data indicates that variants regulating islet gene transcription influence type 2 diabetes(T2D) predisposition and glucose homeostasis. However, the specific genes through whichthese regulatory variants act remain poorly characterized. We generated expression quanti-tative trait locus (eQTL) data in 118 human islet samples using RNA-sequencing and high-density genotyping. We identified fourteen loci at which cis-exon-eQTL signals overlapped",
+    "linkage analysis assists in the identication of possiblegene-gene interactions and that 5q11-q13 and 7q32together constitute a signicant susceptibility factorfor type 1 diabetes. Diabetes 53:15841591, 2004Type 1 diabetes is a common multifactorial dis- ease characterized by autoimmune destructionof the insulin-producing /H9252-cells in the endocrine pancreas, resulting in deranged metabolic ho-",
+    "model for common forms of NIDDM in humans associ-ated with obesity. This study identies the location of amajor QTL and additional independent QTLs contrib-uting to development of hyperglycemia in TH malemice. We have also elucidated genegene interactionsbetween QTLs in the development of NIDDM, detect-ing new QTLs that reveal their signicant effects onlywhen they interact with other QTLs. This complexinheritance pattern associated with genegene inter-actions may be of prime importance in"
+  ],
+  "answer": "In QTL (Quantitative Trait Loci) analyses, several genes have been identified as being associated with diabetes. Specifically:  1. **RASA1, Nnt, and PSK1** on chromosome 13 have been identified as candidate genes underlying diabetes-related traits [4]. 2. **PAX4** near the locus 7q32 has been identified in a genome-wide association study in a Chinese population as a susceptibility locus for type 2 diabetes [6]. 3. **Genes on chromosomes 8q24 and 7q11** have been associated with insulin sensitivity and insulin secretion, which are critical factors in the development of type 2 diabetes [2]. 4. **Genes on 5q11-q13 and 7q32** have been identified as significant susceptibility factors for type 1 diabetes [9].  These genes and loci are typically associated with diabetes in QTL analyses, highlighting the complex genetic architecture of the disease.",
+  "question": "which genes are typically associated with diabetes in QTL analyses?"
+}

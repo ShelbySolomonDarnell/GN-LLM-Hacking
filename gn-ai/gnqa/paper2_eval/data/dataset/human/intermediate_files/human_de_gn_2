@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Shared (epi)genomic background connecting neurodegenerative diseases.pdf",
+    "2018 - DNA methylation in the APOE genomic.pdf",
+    "2016 - Te-Mata-Ira-Genome-Research-Guidelines.pdf",
+    "2015 - Maternal diabetes, gestational diabetes and the role of epigenetics in their long term effects on offspring.pdf",
+    "2011 - Molecular Genomic Research Designs.pdf",
+    "2022 - Genomics and Epigenomics of Gestational Diabetes Mellitus Understanding the Molecular Pathways of the Disease Pathogenesis.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2008 - Genetic Effects on Environmental Vulnerability to Disease Novartis Foundation Symposium 293.pdf",
+    "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf"
+  ],
+  "extraction_id": [
+    "8963fcd1-8685-5518-9dd4-cb6d7075fe56",
+    "f8846e53-c9c0-5feb-8616-f2adcbf139eb",
+    "05ecf103-b037-5216-93f5-329714fc422c",
+    "746af210-6a0f-5814-80b6-8a3147246af2",
+    "66dfdd26-c34d-58b7-bc9b-fddd291c80c4",
+    "0072a2f8-0a81-5327-bfc9-24ed9886ef28",
+    "2f188d05-2160-5e55-b7b7-e18adebcfb12",
+    "9c1c1db0-57cf-5fae-bedd-f7fc61e8e6cb",
+    "eb19a2ea-02e9-5b7b-b493-2ed13c25a0e2",
+    "83da0679-fd33-562c-a3a7-1d7d4c5b79ed"
+  ],
+  "document_id": [
+    "3a7a3370-8de6-5d16-aac8-ba62336c7397",
+    "34b623d2-af48-5fc7-8e9f-e83b5f7a799a",
+    "86047c9b-e1f6-5c2d-b1d2-5becf4cb0957",
+    "3e92bd8e-fbf7-5bc4-9395-0a6dd0b0934e",
+    "ced08e27-8655-59a4-bf63-0ba746f139b7",
+    "f2353e3e-a250-5543-9906-d7d675c10eca",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "5d65e407-34e5-5c1c-b394-989b7a09b57d",
+    "6f250b15-61b3-57ed-8900-5aa4a173fa8c"
+  ],
+  "id": [
+    "chatcmpl-ADZ9QxtSzyI2BzaSwoHdkiSzca6zm",
+    "bc59df3b-f204-5bf4-8915-9d172cdc040f",
+    "bb94a5a9-2c25-5952-940d-05e102f2f8e5",
+    "9b4ddd27-ffbd-5c10-beae-e808c75e7fa5",
+    "8530798b-380a-5511-a61c-bcb75004a2f1",
+    "de68ac40-3950-53e5-b13e-7459026f02a9",
+    "d96d8aca-6024-5f5b-80bc-e1e018a8ceed",
+    "4e952f12-2c91-54fd-9662-4200ed92cad8",
+    "6030ef44-f93f-5637-8f09-2ab6cd06d180",
+    "1aacc908-4ed2-54ee-bb8f-5f8e000d4ae3",
+    "e3cf7319-1be5-5c01-b462-559ef450d72c"
+  ],
+  "contexts": [
+    "to regulate lifetime and aging processes. In fact, epigenetics modulate gene expression without altering the DNA sequence. This is possible by means of different kinds of epigenetic modifications, including DNA methylation and histone modifications (which might affect gene transcription), and noncoding (nc)RNAs (which might change gene expression at the post-transcriptional level)[59]. Given the crucial role of epigenetics in the modulation of gene expression, its alteration can contribute to",
+    "can regulate gene expression while the underlying DNA sequence remains the same. The epigenome is influenced both by underlying genetic variants as well as by environ- mental factors including the social environment, health behaviors, and environmental pollutants [ 11]. Methylation of CpG dinucleotides, the best understood epigenetic mechanism, is also dynamic over the life course. It is well established that epigenomic patterns of DNA methylation change with age [ 12]. A recent study in lymphocytes",
+    "Epigenetics Changes arising from alterations in gene expression  levels that are caused by reversible chemical  modification of DNA, but not changes to the DNA  sequence passed on from parents to offspring.",
+    "Epigenetic changes refer to heritable changes in gene expression which do not involve changes in DNA sequences. Several epigenetic mechanisms have been found to regulate gene expression. Whilst the most studied mechanism relates to DNA methylation, other changes, including histone modi cations and non-coding RNAs, also play an important role, and can be transmitted from one generation to the next. DNA methylation involves the addition of methyl groups to DNA, mainly at CpG sites, which converts cytosine",
+    "EPIGENETIC STUDIES   An epigenetic mechanism is a biochemical alteration to the DNA molecule that  does not change the sequence of the DNA but does in  uence gene expression.   Epigenetics   is often de  ned as the study of mitotically and/or meiotically heri- table changes in gene function that cannot be explained by changes in DNA sequence (Russo, Martienssen, & Riggs, 1996, p. 1).   The epigenetic/epigenomic approach shares many advantages and disad-",
+    "ity and expression of genes without changing their DNA sequence [ 4]. These modications are: DNA methylation, histone modications, and ncRNAs including miRNA [4]. The en- vironment and lifestyle can induce epigenetic changes, such as pollution, tobacco smoking, obesity, lack of physical activity, and alcohol consumption [ 108]. Furthermore, exposure to such environmental factors can have a buttery effect: epigenetic modications may",
+    "epigenetics is the study of mitotically heritable alterations in gene expression potential that are not caused by changes in DNA sequence (Jaenisch and Bird,  2003 ). Hence, rather than encompassing all of developmental biology, modern epigenetics is focused on understanding the spe-ci c molecular mechanisms that convey cellular memory.   Within the nucleus, the mammalian genome is wrapped",
+    "gene expression can also occur by  trans-epigenetics ( Bonasio et al., 2010 ), in which proteins and RNAs inuence gene expres-sion and repression. Stable transcription factor networks are anexample of trans -epigenetics ( Young, 2011 ). Clearly, enzymes that modify DNA and histones (methyltransferases, demethy-lases, acetyltransferases, deacetylases) are central epigeneticregulatory mechanisms ( Rando and Chang, 2009 ). The essence of epigenetics is not only the establishment, but",
+    "pay attention to epigenetic effects on gene expressionmeaning changes that are heritable but that do not involve any change in DNA sequence (see Rutter 2006). Three key points are relevant. First, genes only have effects when they are expressed. Many genes are expressed in only some body tissues and only at certain phases in development. Second, there are multiple inherited DNA elements that do not code for proteins but yet which have important effects through their in  uence on gene expression. We need to",
+    "genetics of gene expression (i.e. regular genetical genomics) and the genetics of epigenetics could be studied simultaneously, thus revealing genes that directly or indirectly affect epigenetic gene states. An additional issue that could be addressed by such an approach is to estimate the percentage of variation in gene expression that can be explained by different epigenetic conformations."
+  ],
+  "answer": "Epigenetics influences gene expression without changing the underlying DNA sequence through several mechanisms. These include:  1. **DNA Methylation**: This involves the addition of methyl groups to DNA, primarily at CpG sites, which can affect gene transcription by converting cytosine to 5-methylcytosine, thereby repressing gene activity [1], [4]. 2. **Histone Modifications**: Chemical modifications to histone proteins, such as methylation, acetylation, phosphorylation, and ubiquitination, can alter the chromatin structure, making genes more or less accessible for transcription [1], [6]. 3. **Non-coding RNAs (ncRNAs)**: These RNAs, including microRNAs (miRNAs), can regulate gene expression at the post-transcriptional level by binding to messenger RNAs (mRNAs) and preventing their translation into proteins [1], [6].  These epigenetic modifications are influenced by both genetic variants and environmental factors such as pollution, tobacco smoking, obesity, lack of physical activity, and alcohol consumption [2], [6]. These changes are heritable and can be passed from one generation to the next without altering the DNA sequence itself [4], [5].",
+  "question": "How does epigenetics inluence gene expression without changing the underlying DNA sequence?"
+}

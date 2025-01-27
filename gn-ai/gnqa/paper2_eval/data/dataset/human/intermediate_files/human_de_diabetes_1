@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Combining classical trait and microarray data to dissect transcriptional regulation a case study.pdf",
+    "2017 - Genomic regulation of type 2 diabetes endophenotypes Contribution.pdf",
+    "2010 - Neural tube defect genes and maternal diabetes during pregnancy.pdf",
+    "2009 - Prioritizing genes for follow-up from genome wide association studies using information on gene expression in tissues relevant for type 2 diabetes mellitus.pdf",
+    "2022 - System Genetics in the Rat Family.pdf",
+    "2022 - Systems genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+    "2022 -Senko- Hippocampal neurogenesis serum glucose.pdf",
+    "2022 -Senko- System Genetics in the Rat HXB\uf022BXH Family.pdf",
+    "2020 - ChREBP downregulates SNAT2 amino acid transporter expression through interactions with SMRT in response to a high-carbohydrate diet.pdf",
+    "2015 - Targeted Allelic Expression.pdf"
+  ],
+  "extraction_id": [
+    "1e5ec803-ae2d-5bbd-8d40-438fb1ec1eab",
+    "a0845748-d229-56b1-8666-5fd7708267b4",
+    "eaa27c67-ef56-5b12-8dc0-a656cc36c529",
+    "543f1861-21f2-52de-88e5-fa81a7b6ef64",
+    "ec24c99e-4654-5fb7-a1ed-ec3f8a941711",
+    "184f8279-2ea5-5f18-8e15-2804ee9e62d5",
+    "c597d023-1a22-5849-8c4f-9f3448c22962",
+    "a56d014f-d78d-582c-845d-2b10823f5424",
+    "a575ca7c-aa73-5b6a-a152-0ff08ddec434",
+    "37df3b54-130c-5424-90f6-af59ecb5cdf8"
+  ],
+  "document_id": [
+    "bb54e43d-7f70-5ee2-a5b9-0e20000dfd97",
+    "fef1ae33-b3af-50ea-909c-f1b57f7fe981",
+    "aa74b552-7e06-5596-8dec-298c40ad558c",
+    "4b1a56e7-6821-5504-b6da-27dcdf57c6a5",
+    "426b5aeb-1550-5039-8f2a-bd83d17c8648",
+    "e6323aba-6fec-500b-99e3-a41c2e7f17ff",
+    "bac2ab98-4317-59ed-99ef-deda8c22786d",
+    "c67a6829-954a-5202-85fb-7524b03fab28",
+    "fbfc6093-648c-55f7-9fc8-2ec4964278f1",
+    "a0f46d1e-81be-5b29-9082-86c1114c3edd"
+  ],
+  "id": [
+    "chatcmpl-ADYmUfKwQ32pLN2HQWzuhXDWOhemk",
+    "08c0f648-0618-56cb-935a-c627000943f4",
+    "1b2895af-da13-52dd-9fd2-133a43b98b5f",
+    "39d6e4a1-5bbd-5f35-80b2-d3c205a5457c",
+    "2a71b5a3-67d8-55d8-97f8-cb34cbfcaa41",
+    "1e08685d-0f9d-5ead-84c1-e97fe346e025",
+    "4c381a87-dc30-5d3a-95a9-a32255cfe571",
+    "e8e69e50-076e-5459-ac5a-8e267fa33e13",
+    "0be84448-80cf-52bd-a84c-668a9ac49b20",
+    "6b49a027-22fc-59c5-aa87-3155663fd003",
+    "0feb3ea0-bd53-5e94-8a65-8cd2bdecdf0e"
+  ],
+  "contexts": [
+    "Lan H, Rabaglia ME, Stoehr JP, Nadler ST, Schueler KL et al (2003) Gene expression proles of nondiabetic and diabetic obese mice suggest a role of hepatic lipogenic capacity in diabetes susceptibility. Diabetes 52:688700Theor Appl Genet (2008) 116:683690 689 123",
+    "Effects of high fat feeding on liver gene expression in diabetic goto-kakizaki rats, Gene Regul. Syst. Bio 6 (2012) 151 e168. [23] P.J. Kaisaki, G.W. Otto, J.F. McGouran, A. Toubal, K. Argoud, H. Waller-Evans, C. Finlay, S. Cald /C19erari, M.T. Bihoreau, B.M. Kessler, D. Gauguier, R. Mott, Ge- netic control of differential acetylation in diabetic rats, PLoS One 9 (2014) e94555 . [24] S.P. Wilder, P.J. Kaisaki, K. Argoud, A. Salhan, J. Ragoussis, M.T. Bihoreau,",
+    "Figure 2. Diabetes increases the variability of gene expression levels in other experimental paradigms. ( A) Microarray data from gene",
+    "also showed differential expression in the liver, where it regulates a number of genes involved in both glucose andlipid metabolism. These results add further support to aTable 3: Numbers of genes for which expressi on levels in pancreas, skel etal muscle, adipose tissue or  liver were altered in dia betes as  compared to controls P < 0.01 (DGI) P < 0.05 (DGI) P < 0.01 (WTCCC) 11 42 P < 0.05 (WTCCC) 30 115 P < 0.01 in DGI and P < 0.05 in WTCCC or  P < 0.01 in WTCCC and P < 0.05 in DGI60",
+    "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci- sive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis- tance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks ofgenes and potential regulators whose activation and inhibition could explain insulin resis- tance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+    "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci- sive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis- tance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks ofgenes and potential regulators whose activation and inhibition could explain insulin resis- tance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+    "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci- sive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis- tance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks ofgenes and potential regulators whose activation and inhibition could explain insulin resis- tance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+    "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci- sive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis- tance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks ofgenes and potential regulators whose activation and inhibition could explain insulin resis- tance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+    "mRNA in diabetic liver. Biochem Biophys Res Commun 290: 903-908, 2002. 712 42. Watson PJ, Fairall L, and Schwabe JW . Nuclear hormone receptor co-repressors: 713 structure and function. Mol Cell Endocrinol 348: 440-449, 2012. 714 43. Yamashita H, Takenoshita M, Sakurai M, Bruick RK, Henzel WJ, Sh illinglaw 715 W, Arnot D, and Uyeda K . A glucose-responsive transcr iption factor that regulates 716 carbohydrate metabolism in the liver. Proc Natl Acad Sci U S A 98: 9116-9121, 2001. 717",
+    "impacts gene expression in a cell type-dependent manner. Science 2009;325:1246 1250diabetes.diabetesjournals.org Locke and Associates 1491Downloaded from http://diabetesjournals.org/diabetes/article-pdf/64/4/1484/580211/db140957.pdf by Kenya Institution user on 11 July 2023"
+  ],
+  "answer": "Gene expression in the liver is significantly affected by diabetes in several ways:  1. **Hepatic Lipogenic Capacity**: In diabetic obese mice, gene expression profiles suggest a role of hepatic lipogenic capacity in diabetes susceptibility, indicating that genes involved in lipid metabolism are differentially expressed in the liver of diabetic individuals [1].  2. **High Fat Feeding**: In diabetic Goto-Kakizaki rats, high fat feeding alters liver gene expression, which implies that dietary factors can further influence the gene expression changes associated with diabetes [2].  3. **Variability of Gene Expression**: Diabetes increases the variability of gene expression levels in the liver, affecting the regulation of genes involved in both glucose and lipid metabolism [3], [4].  4. **Glucose Homeostasis and Insulin Resistance**: The liver, along with skeletal muscle and adipose tissue, plays a crucial role in maintaining glucose homeostasis. Functional analysis of differentially expressed genes in the liver has identified networks of genes and potential regulators whose activation and inhibition could explain insulin resistance and dysglycemia in diabetic conditions [5], [6], [7], [8].  5. **Carbohydrate Metabolism**: A glucose-responsive transcription factor that regulates carbohydrate metabolism in the liver is affected by diabetes, indicating changes in the expression of genes involved in glucose metabolism [9].  Overall, diabetes leads to significant changes in the expression of genes in the liver, affecting pathways related to lipid and glucose metabolism, insulin resistance, and overall metabolic homeostasis.",
+  "question": "How is gene expression in the liver affected by diabetes?"
+}

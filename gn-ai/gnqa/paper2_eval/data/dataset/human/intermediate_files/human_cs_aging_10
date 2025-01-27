@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2001 - The genetics of aging.pdf",
+    "2011 - A genome-wide association study confirms APOE as the major gene influencing.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2018 - Sex Differences in Aging Genomic Instability.pdf",
+    "2007 - Genetic correlates of brain aging on MRI and cognitive test measures a genome-wide association and linkage analysis in the Framingham study.pdf",
+    "2021 - Genome-wide association studies identify.pdf",
+    "2021 - Footprints in the Sand Deep Taxonomic Comparisons in Vertebrate Genomics to Unveil the Genetic Programs of Human Longevity.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2016 - Progress on the role of DNA methylation in aging.pdf"
+  ],
+  "extraction_id": [
+    "76bae746-eabf-51ed-a01f-d32ecc89c11b",
+    "210aa417-372c-5bf6-b961-e281a1817458",
+    "7ada6b55-99c2-5e20-bf96-d153f927256c",
+    "0104338d-cc9c-538f-be29-8343a64da37d",
+    "3f7edb2f-b8c8-511a-9fb3-c746b6f7f213",
+    "cd7730b6-22dc-5256-9310-79fc348b3226",
+    "34223e0e-590c-5f26-b120-b7250cd91b99",
+    "fd143ef8-c605-51d8-9969-4e681493b826",
+    "4ea8424f-1cd8-569c-a1df-3f0f54206e70",
+    "bcb3c620-b960-5af6-95ea-13215c31672e"
+  ],
+  "document_id": [
+    "aa9a9193-b6f3-5ef8-aefd-e01ec44abb46",
+    "63b27b06-db2c-5542-9b1a-cb9ebe64d339",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f",
+    "56b25b5a-fc9e-5d61-8502-1c110466ba16",
+    "60c2e869-1fee-53ea-b332-26d9c2abc747",
+    "0dc45abe-ab02-5b07-9916-7093b53323c0",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "e4cdc02f-4415-5638-aab8-f848b4d64a22"
+  ],
+  "id": [
+    "chatcmpl-ADZWBvqLDNy2CwnWNpuZ7tlbpCfWr",
+    "e09c33ea-4139-5cc2-9cf5-a40045f26a0c",
+    "2d0a20b8-4196-5451-9d99-282f82234464",
+    "3117c019-7311-53ae-8ab1-927ca822c709",
+    "a9434032-4a9d-54f8-a7a6-16110d1b3118",
+    "3ff3cf0b-c00f-5548-b4fb-21a57042c91c",
+    "9fa00091-9661-57bd-91c7-f0bf436805a7",
+    "f6ed1f0c-e4ea-5459-bb63-136decc11eee",
+    "12868be9-1c5a-57ea-a5e3-f521b977cef2",
+    "a0672677-71ad-5603-8427-a0648eec407f",
+    "c1b5a31a-066d-571b-af1f-db746d9d17f6"
+  ],
+  "contexts": [
+    "Recent developments on the genetics of aging can be seen as several streams of effort. In general, humans show a relatively modest ( <50%) heritability of",
+    "effect  genetic  variants  on  human  longevity.  Aging  2,  612620. Yu,  C.E.,  Seltman,  H.,  Peskind,  E.R.,  Galloway,  N.,  Zhou,  P.X.,  Rosenthal,  E.,  Wijsman, E.M.,  Tsuang,  D.W.,  Devlin,  B.,  Schellenberg,  G.D.,  2007.  Comprehensive  analysis of  APOE  and  selected  proximate  markers  for  late-onset  Alzheimers  disease: patterns  of  linkage  disequilibrium  and  disease/marker  association.  Genomics",
+    "It is undisputed that genetic factors influence aging. In a remarkable",
+    "males: what are the molecular and evolutionary causes? Aging Cell. 2007;6:225233. doi:10.1111/j.1474-9726.2007.00279.x  63. Benayoun BA, Pollina EA, Brunet A. Epigenetic regulation of ageing: link- ing environmental inputs to genomic stability. Nat Rev Mol Cell Biol. 2015;16:593610. doi:10.1038/nrm4048  64. Sen P, Shah PP, Nativio R, Berger SL. Epigenetic mechanisms of longevity  and aging. Cell. 2016;166:822839. doi:10.1016/j.cell.2016.07.050",
+    "Genet  1998, 81:92-97. 3. Pedersen NL, Posner SF, Gatz M: Multiple-threshold models for genetic influences on age of  onset for Alzheimer disease: findings in Swedish twins.   Am J Med Genet  2001, 105:724-728. 4. Gudmundsson H, Gudbjartsson DF, Frigge M, Gulcher JR, Stefansson K: Inheritance of human longevity in Iceland.   Eur J Hum Genet 2000, 8:743-749. 5. Flossmann E, Schulz UG, Rothwell PM: Systematic review of methods and results of studie s of the genetic epidemiology",
+    "population dynamics on the genetic architecture of human longevity. Aging (Albany NY). 2018;10(8):1947 63. 68. Bellenguez C, Kucukali F, Jansen I, Andrade V, Morenau-Grau S, Amin N, et al. Large meta-analysis of genome-wide association studies expands knowledge of the genetic etiology of Alzheimer disease and highlights potential translational opportunities. medRxiv. 2020. 69. Kojima T, Shimazui T, Hinotsu S, Joraku A, Oikawa T, Kawai K, et al. Decreased expression of CXXC4 promotes a",
+    "discover core mechanisms of regulation.ANALYSIS OF HUMAN VARIATION IN THE GENETIC CONTROL OF LONGEVITY Heritability studies have convincingly demonstrated that at least some fraction of human lifespan is heritable. In tandem, large-scale genome-wide association studies (GWAS) have identied numerous loci associated with age-related traits (Buniello et al., 2019). While genetic studies have functionally shown an inverse eect of multiple age-related, disease-",
+    "than in healthy elderly patients [71].  Concluding Remarks The study of the human aging process is complex and multifactorial, where genetic  and environmental variables are key players in its development. That is why we sug- gest a series of different biomarkers which include hormonal, inflammatory, and  oxidative stress biomarkers. However, it is possible that other biomarkers such as  DNA damage, telomere length determination, DNA repair mechanisms and p53",
+    "Clinical Genetics and Genomics of Aging",
+    "standing the cause and mechanisms of aging is imperative in assisting to suppress age-related diseases and promote healthylongevity. It is well-known that aging is influenced by a combin- ation of genetic and environmental factors. Previous twin stud- ies have shown that the genetic contribution to general human longevity is about 2030% [ 4,5], whereas environmental factors in human aging and longevity still account for the largest effect. Epigenetic factors influence the regulation of gene expres-"
+  ],
+  "answer": "Genetic factors play a significant role in influencing aging in humans. Here are some key points based on the provided context:  1. **Heritability of Longevity**: Human longevity shows a relatively modest heritability of less than 50% [1]. Twin studies have estimated the genetic contribution to general human longevity to be about 20-30% [10].  2. **Genome-Wide Association Studies (GWAS)**: Large-scale GWAS have identified numerous loci associated with age-related traits, indicating that specific genetic variations can influence aging [7].  3. **Specific Genetic Variants**: The APOE gene and its variants have been comprehensively analyzed for their association with late-onset Alzheimer's disease, which is an age-related condition [2]. This suggests that certain genetic markers are linked to age-related diseases.  4. **Epigenetic Regulation**: Epigenetic mechanisms, which involve changes in gene expression without altering the DNA sequence, also play a crucial role in aging. Environmental inputs can affect genomic stability through epigenetic regulation [4].  5. **Inheritance Studies**: Studies on the inheritance of human longevity, such as those conducted in Iceland, have provided insights into the genetic factors that contribute to a longer lifespan [5].  In summary, aging in humans is influenced by a combination of genetic factors, including specific genetic variants, heritability, and epigenetic regulation [1], [2], [4], [5], [7], [10].",
+  "question": "What genetic factors influence aging in humans?"
+}

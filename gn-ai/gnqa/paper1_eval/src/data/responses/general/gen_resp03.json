@@ -1,0 +1,156 @@
+{
+    "created_at": "2024-04-01T11:59:12.696644Z",
+    "data": {
+        "amplify": false,
+        "answer": "For mammals, DNA can be extracted using a DNA Isolation Kit for Mammalian Blood, following the manufacturer's instructions. This process typically involves mixing blood with lysis buffer and Proteinase K, followed by the addition of isopropanol and Inhibitor Removal Buffer. The DNA is then washed, centrifuged, and the supernatant discarded. The remaining pellet, which contains the purified genomic DNA, is diluted in TE buffer.\n\nFor plants, the mixed alkyl trimethyl ammonium bromide (MATAB) procedure can be used. This involves grinding plant material in liquid nitrogen, incubating it in extraction buffer, and then purifying it with chloroform:isoamylalcohol. The DNA extracts are then precipitated with isopropanol and resuspended in a buffer. The extracts are further purified on anion exchange columns.",
+        "context": {
+            "05c26b4c-cc56-49bc-914e-066ba0f05e97": [
+                {
+                    "document_id": "05c26b4c-cc56-49bc-914e-066ba0f05e97",
+                    "text": "DNA and RNA extraction of tissues\n\nGenomic DNA was extracted from frozen placentae (n ϭ 3/group) and liver (n ϭ 9/group) using a modified version of an established protocol (28,29).Total RNA was extracted from the remaining tissue using TRIzol, as per the manufacturer's instructions (Invitrogen Canada Inc).Genomic DNA and RNA purity and concentration were assessed using spectrophotometric anal-ysis, and integrity was verified using agarose gel [1% (wt/vol)] electrophoresis."
+                }
+            ],
+            "147b69a0-1397-4b1a-aa01-fa310677edb9": [
+                {
+                    "document_id": "147b69a0-1397-4b1a-aa01-fa310677edb9",
+                    "text": "Taxon Sampling and DNA Extractions\n\nWe extracted DNA from 72 pinned specimens from the National Museum of Natural History (NMNH) Entomology collection for this study.We plucked middle legs from the pinned bees using a pair of sterilized forceps and washed the tissue in 95% ethanol to remove dust, pollen, and other forms of accumulated debris on the bee legs.After evaporation of the ethanol (by drying the tissue on a clean Kimwipe ™ ), the samples were placed in a freezer for several hours.DNA was then extracted destructively by grinding the frozen tissue with a sterile pestle, using a DNeasy Blood and TissueKit (Qiagen, Valencia, CA, USA) and following the manufacturer's protocol, except the DNA was eluted in 130μL ddH 2 O instead of the supplied buffer.We ran 10μL of each extract for 60 min at 100 volt on 1.5% agarose SB (sodium borate) gels, to estimate size of the genomic DNA."
+                }
+            ],
+            "1c1f2541-c4ff-407a-b541-0e7859f5b49a": [
+                {
+                    "document_id": "1c1f2541-c4ff-407a-b541-0e7859f5b49a",
+                    "text": "DNA extraction\n\nDNA was extracted from PBMCs using the QIAamp DNA Mini kit (Qiagen, CA, USA), following the manufacturer's instructions for the spin protocol.The DNA was eluted in 60 μl of AE elution buffer and stored at -20°C.The concentration and quality of the DNA was assessed with the Qubit dsDNA HS Assay (Invitrogen, Eugene, OR, USA)."
+                }
+            ],
+            "27b471ec-acc3-4624-9050-57516328da07": [
+                {
+                    "document_id": "27b471ec-acc3-4624-9050-57516328da07",
+                    "text": "Methods\n\nLaboratory procedures.We initially screened 107 ancient samples (Supplementary Data 1) in dedicated clean facilities at the ancient DNA lab of Jilin University, China, following published protocols for DNA extraction and library preparation 36,37 .Prior to sampling, we wiped all skeletal elements with 5% bleach and irradiated with UV-light for 30 min from each side.We drilled teeth to obtain fine powder using a dental drill (Dremel, USA).We sampled the dense part of petrous bones around the cochlea by first removing the outer part using the sandblaster (Renfert, Germany), and then grinding the clean inner part into fine powder with the mixer mill (Retsch, Germany).We digested the powder (50-100 mg) in 900 μl 0.5 M EDTA (Sigma-Aldrich), 16.7 μl of Proteinase K (Sigma-Aldrich), and 83.3 μl ddH 2 O (Thermo Fisher, USA) at 37 °C for 18 h.Then we transferred the supernatant to a MinElute silica spin column (QIAGEN, Germany) after fully mixed with the 13 ml custom binding buffer [5 M guanidine hydrochloride (MW 95.53), 40% Isopropanol, 90 mM Sodium Acetate (3 M), and 0.05% Tween-20] followed by two washes with PE buffer (80% ethanol).Then we eluted the DNA with 100 μl TET buffer (QIAGEN, Germany)."
+                }
+            ],
+            "3bde9884-e31d-4719-b42f-02dca25d6c08": [
+                {
+                    "document_id": "3bde9884-e31d-4719-b42f-02dca25d6c08",
+                    "text": "DNA Extraction\n\nAfter blood was drawn into EDTA tubes, genomic DNA was extracted using a DNA Isolation Kit for Mammalian Blood Kit (Roche Applied Science, Indianapolis, IN, USA) according to the manufacturer's recommendations.Briefly, 300 μl of whole blood from each sample was mixed with 200 μl of lysis buffer (50 mM Tris pH 8.0, 100 mM EDTA, 100 mM NaCl, 1% SDS) and 40 μl of Proteinase K, followed by addition of 100 μl of isoproponal and 500 μl of Inhibitor Removal Buffer (5M guanidine-HCl, 20 mM Tris-HCl pH 6.6).The DNA was washed with a buffer (20 mM NaCl; 2 mM Tris-HCl; pH 7.5), centrifuged twice at 2000 rpm, washed using cold 70% ethanol and centrifuged at 3000 rpm.The supernatant was discarded and the pellet containing purified genomic DNA was diluted in TE buffer (1 mM EDTA; 10 mM Tris-HCl, pH 7.5) to a concentration of approximately 50 ng/μl."
+                }
+            ],
+            "58f36772-b82e-437e-a5dd-2442277089f5": [
+                {
+                    "document_id": "58f36772-b82e-437e-a5dd-2442277089f5",
+                    "text": "Genomic DNA extraction\n\nLeukocytes were isolated from 5-ml peripheral blood samples.DNA was prepared by phenol extraction and chloroform extraction followed by isopropanol precipitation, washed with ethanol, and air-dried.Tris-EDTA buffer pH 8.0 was used to dissolve the final genomic DNA product."
+                }
+            ],
+            "5b4350f1-779d-4763-a0e1-23008db25633": [
+                {
+                    "document_id": "5b4350f1-779d-4763-a0e1-23008db25633",
+                    "text": "\n\nThe pulled down DNA fragments were extracted and purified using phenolchloroform extraction/ethanol precipitation.The samples were stored at -20 °C until use."
+                }
+            ],
+            "752b2413-8c90-4af7-b65b-db429145b3bb": [
+                {
+                    "document_id": "752b2413-8c90-4af7-b65b-db429145b3bb",
+                    "text": "DNA extraction for genotyping\n\nFor the majority of samples, DNA was extracted from either spleen or the exocrine fraction of the islet isolation using the Tissue DNA Purification Kit according to manufacturer's instructions on an automated Maxwell 16 system (both Promega, USA).When no other tissue was available, DNA was extracted from human islets using the Trizol fraction remaining after extraction of RNA (see above).To precipitate the DNA, 300μl 100% ethanol was added to the thawed solution.This mixture was incubated at room temperature for a minimum of 30 minutes.DNA was then pelleted by centrifugation at 4,000 x g for 5 minutes at 4°C.After removing the supernatant, the pellet was twice washed with 0.1M trisodium citrate (Sigma Aldrich, UK) in 10% ethanol and left at room temperature for 30 minutes, followed by another wash step with 75% ethanol.After the final wash step, pellets were air-dried for 10 minutes to remove residual ethanol and re-suspended in a minimum of 100 μL 8mM NaOH (Sigma Aldrich).Extracted DNA was stored at -20°C before further use."
+                }
+            ],
+            "9292750d-3941-465c-8e2c-bb041f6bea0b": [
+                {
+                    "document_id": "9292750d-3941-465c-8e2c-bb041f6bea0b",
+                    "text": "DNA extraction\n\nTissue samples were incubated at 50°C overnight with shaking in DNA extraction buffer (100 mM NaCl, 10 mM Tris.HCl pH8, 25 mM EDTA, 0.5% (w/v) SDS), containing 200 μg/ml proteinase K. DNA was isolated by two rounds of phenol:chloroform extraction, followed by RNAse A treatment, precipitation in absolute ethanol containing 10% (v/v) sodium acetate (3 M, pH 5.2), and resuspended in 100 μl nuclease-free water (Ambion, Austin, TX, USA) or using salting out method followed by purification with Qiagen blood and tissue kit (Qiagen, Mississauga, ON, USA).DNA was stored at -20°C."
+                }
+            ],
+            "9605f23b-0620-4c0c-8f38-d9e0171e7e64": [
+                {
+                    "document_id": "9605f23b-0620-4c0c-8f38-d9e0171e7e64",
+                    "text": "Methods\n\nHuman DNA samples DNA was extracted from human patient tissue samples acquired from the University of Minnesota Tissue Procurement Facility from BioNet (IRB#0805E32181).See Supplemental Table S4 for patient data.Briefly, 2 mg of tissue was digested overnight at 55°C on a rotating platform in 710 mL of digest buffer (1 M Tris at pH 8.0, 1 mM EDTA, 13 SSC, 1% SDS, 1 Mm NaCl, 10 mg/mL Proteinase K).Following digest, DNA was purified using phenolchloroform-isoamyl alcohol (Life Sciences) isolation protocol."
+                }
+            ],
+            "9981a933-8fdf-4107-a6fd-3f9ef71f5d08": [
+                {
+                    "document_id": "9981a933-8fdf-4107-a6fd-3f9ef71f5d08",
+                    "text": "3.2.2 Isolation of genomic DNA\nGenomic DNA was isolated from frozen liver tissue. The isolation was conducted using the\nQiagen DNeasy Blood & Tissue Kit (Qiagen) according to the manufacturer’s protocol. DNA concentration was evaluated photometrically at a wavelength of 260 nm using\nthe FusionTM Universal Microplate Analyzer. For nucleic acid quantification, the Beer-Lambert\n(A = ε * b * c) equation is modified to use an extinction coefficient with units of M-1 cm-1."
+                }
+            ],
+            "a4e27158-1e54-4ee2-9cc1-049489a628bc": [
+                {
+                    "document_id": "a4e27158-1e54-4ee2-9cc1-049489a628bc",
+                    "text": "\n\nMost typically, DNA is extracted from blood samples, dried blood spots, buccal swabs, saliva, tissue and even urine and stool samples.In forensic science, other sources have been validated e.g.bone, tooth pulp, dandruff and others."
+                }
+            ],
+            "c10ff8e0-81ff-4ac2-b1cc-2fdc89640166": [
+                {
+                    "document_id": "c10ff8e0-81ff-4ac2-b1cc-2fdc89640166",
+                    "text": "DNA isolation\n\nHigh-molecular weight DNAs was isolated from the samples by organic solvent extraction method, followed by precipitation in cold ethanol [14]."
+                }
+            ],
+            "c6b165b1-a39e-4278-9615-8285c1999e7e": [
+                {
+                    "document_id": "c6b165b1-a39e-4278-9615-8285c1999e7e",
+                    "text": "Genomic DNA extraction\n\nDNA from MEF cultures or mouse liver was isolated by phenol/chloroform extraction, as described [11]."
+                }
+            ],
+            "da485354-fcdc-49b8-9a41-0f673610156a": [
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "DNA is\nusually recovered from cells by methods that include cell rupture but that\nprevent the DNA from fragmenting by mechanical shearing. This is generally undertaken in the presence of EDTA, which chelates the magnesium ions\nneeded as cofactors for enzymes that degrade DNA, termed DNase. Ideally,\ncell walls, if present, should be digested enzymatically (e.g. , lysozyme in the\nbacteria or bacterial cell). In addition the cell membrane should be solubilized\nusing detergent."
+                },
+                {
+                    "document_id": "da485354-fcdc-49b8-9a41-0f673610156a",
+                    "text": "DNA solutions can be stored frozen,\nalthough repeated freezing and thawing tends to damage long DNA molecules\nby shearing. A flow diagram summarizing the extraction of DNA is given in\nFig. 1.2. The above-described procedure is suitable for total cellular DNA. If the DNA from a specific organelle or viral particle is needed, it is best to\nisolate the organelle or virus before extracting its DNA, because the recovery\nof a particular type of DNA from a mixture is usually rather difficult."
+                }
+            ],
+            "f0849937-dc25-42f4-a512-99783761674d": [
+                {
+                    "document_id": "f0849937-dc25-42f4-a512-99783761674d",
+                    "text": "Genomic DNA extraction\n\nGenomic DNA was extracted by the mixed alkyl trimethyl ammonium bromide (MATAB) procedure.Briefly, 250 mg of plant material was ground in liquid nitrogen and immediately incubated in 2 ml of pre-warmed extraction buffer (100 mM Tris-HCl, pH 8, containing 20 mM EDTA, 1.4 M NaCl, 2% (w/v) MATAB, 1% (w/v) PEG6000 (polyethylene glycol), 0.5% (w/v) sodium sulfite, 20% (w/v) Igepal CA630, 20% (w/v) lithium dodecyl sulfate, and 20% (w/v) sodium deoxycholate) at 74 °C for 20 min.After purification with 2 ml of chloroform:isoamylalcohol (24:1, v/v), DNA extracts were precipitated with 1.6 ml of isopropanol then resuspended in 1 ml of buffer (50 mM Tris-HCl, pH 8, containing 10 mM EDTA and 0.7 M NaCl).The extracts were purified on anion exchange columns (QIAGEN-tip 20) following the manufacturer's instructions (QIAGEN, Valencia, CA)."
+                }
+            ],
+            "f9002547-db31-4f9e-abc1-7aace5c8ea18": [
+                {
+                    "document_id": "f9002547-db31-4f9e-abc1-7aace5c8ea18",
+                    "text": "DNA extraction and enzymatic digestion\n\nTotal DNA was isolated from whole blood and separated blood subtypes using a Qiagen DNeasy Blood & Tissue Kit following the manufacturer instructions.After extraction, DNA was quantified by NanoDrop (Thermo Scientific NanoDrop products, Wilmington, DE).The isolated genomic DNA was enzymatically digested according to previously described method.Briefly, DNA (3 μg) was first denatured by heating at 95 °C for 5 min and then chilling on ice for 2 min.Then, 1/10 volume of S1 nuclease buffer (30 mM CH 3 COONa, pH 4.6, 280 mM NaCl, 1 mM ZnSO 4 ) and 100 units of S1 nuclease were added before the mixture (20 μL) was incubated at 37 °C for 16 h.Subsequently, after 1/10 volume of alkaline phosphatase buffer (50 mM Tris-HCl, 10 mM MgCl 2 , pH 9.0), 0.002 units of venom phosphodiesterase I, and 10 units of alkaline phosphatase were added, the solution was incubated at 37 °C for an additional 4 h followed by extraction with an equal volume of chloroform for twice.The aqueous layer was collected and lyophilized to dryness and then reconstituted in 100 μL water.About 30 μL of the obtained samples were then subjected to liquid chromatography-electrospray ionization-tandem mass spectrometry (LC-ESI-MS/MS) analysis."
+                }
+            ],
+            "fabfccb1-4ba7-47b4-8415-941742ddea40": [
+                {
+                    "document_id": "fabfccb1-4ba7-47b4-8415-941742ddea40",
+                    "text": "\n\nThe conventional DNA extraction procedure involved the homogenization of single D. magna in 400 l of sperm lysis buffer (100 mM Tris-HCl, pH 8; 500 mM NaCl; 10 mM ethylenediaminetetraacetic acid [EDTA], pH 8; 1% SDS; 2% mercaptoethanol) followed by RNase treatment (40 g, 37ЊC for 1.5 h).The DNA was then extracted in phenol (pH 8) and chloroform:isoamyl alcohol (1:1).The DNA was finally precipitated by two volumes of ice-cold ethanol in the presence of 3 M sodium acetate (1/10 of the DNA volume) and was incubated at Ϫ80ЊC overnight.Precipitated DNA was harvested by centrifugation, dried in air, and the final pellet dissolved in sterile analytic grade water."
+                }
+            ],
+            "fd5edd5b-25d5-41ef-b9ad-7599905b844f": [
+                {
+                    "document_id": "fd5edd5b-25d5-41ef-b9ad-7599905b844f",
+                    "text": "DNA extraction and quantification\n\nDNA was extracted from whole organs by standard techniques (34) with emphasis on minimizing shearing or nicking of DNA as nicked DNA has been shown to be refractory to LX-PCR (35).DNA from the brain was extracted from the right hemisphere.Extracted DNA was resuspended in 10 mM Tris 1 mM EDTA (pH 8) (TE) and stored at 4_C.A number of samples were normalized for mtDNA content by dot blotting and hybridization with digoxigenin-labeled full-length mtDNA and densitometry.In cases where mtDNA quantification was not carried out, the DNAs were normalized by A 260 of total DNA."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "D5884AA974550493E54BFAD47AAEB737",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "DNA",
+            "extraction",
+            "phenol",
+            "chloroform",
+            "ethanol",
+            "precipitation",
+            "Qiagen",
+            "EDTA",
+            "Proteinase&K",
+            "isopropanol"
+        ],
+        "metadata": [],
+        "question": "How would one extract the DNA, from say, mammals or plants?",
+        "subquestions": null,
+        "task_id": "D5884AA974550493E54BFAD47AAEB737",
+        "usage": {
+            "chatgpt": 6218,
+            "gpt-4": 4090,
+            "gpt-4-turbo-preview": 3185
+        },
+        "user_id": 2
+    },
+    "document_id": "D5884AA974550493E54BFAD47AAEB737",
+    "task_id": "D5884AA974550493E54BFAD47AAEB737"
+}

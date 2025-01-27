@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Integrated genomic approaches to identification of candidate genes underlying metabolic and cardiovascular phenotypes in the spontaneously hypertensive rat.pdf",
+    "2015 - Multipronged approach to identify and validate a novel upstream regulator of Sncg.pdf",
+    "The FEBS Journal - 2015 - Chintalapudi - Multipronged approach to identify and validate a novel upstream regulator of Sncg.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "2018 - Genetic Networks Activated by Blast Injury to the Eye.pdf",
+    "2010 - Identification of a Chr 11 quantitative trait locus that modulates proliferation in the rostral migratory stream of the adult mouse brain_.pdf",
+    "2011 - Genetic Regulatory Network Analysis for Rpe65 in the Eye of BXD Mice.pdf",
+    "2013 - Effects of Glaucoma on Chrna6 Expression in the Retina.pdf"
+  ],
+  "extraction_id": [
+    "bb30622c-7f00-5ee4-928d-6f4f6f9f9e3d",
+    "ad4bf6de-f811-5ebc-82be-5fbd3aa1ba03",
+    "184d5422-8e35-57ca-b542-3bcfbd821b5a",
+    "af7722e9-a91e-533e-9403-e54ff59ffd73",
+    "9f3fd618-f56f-538a-b955-c7205a7c8107",
+    "d528a008-6931-562b-831c-f3c6dd925fac",
+    "c02d0625-3478-52d4-8339-78b2df351668",
+    "5eb43710-e1c0-5955-a34c-fb4b7204f421",
+    "86c6e14a-66bf-5a33-bcb6-750fbf259c87",
+    "1b9b34cc-e87b-53c2-aab5-2913d1e6fd25"
+  ],
+  "document_id": [
+    "ec54d632-be36-5d11-8437-2233e07049a0",
+    "803e3b96-d4ed-5f1f-b788-eb7564d4f6b4",
+    "734e6a57-5d63-5e10-b01d-1ccc04618c8a",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "57e3820f-7a5d-51f1-a0c6-ecfbdf546005",
+    "0b7c325a-0be0-54a2-9c8f-d4607d0f7151",
+    "44e70f2d-3bda-563c-ae0b-83833b98529b",
+    "3d3e03db-a961-5668-bd69-44039142fb87"
+  ],
+  "id": [
+    "chatcmpl-ADZAAr5I5AVyGWpvGliJuDqL5V4HD",
+    "0b23b976-d97e-56ea-bb4d-6372a12cd48e",
+    "d71e9649-f56e-5376-9b97-79d450e932de",
+    "96700d1c-5c9b-545d-bec5-338a5aa8ea19",
+    "cbf58283-6ec3-5fc4-8a1e-73b1f0aa27f3",
+    "4a7fc44c-82d5-5808-a864-2dd4dd1ce33f",
+    "5008de52-b46c-5eb4-b033-66bdccda49a1",
+    "0db6fb13-b666-586a-bfe6-63b31e44ec5d",
+    "6d6bf436-2af4-5f8b-bf8b-81de331d2ad7",
+    "602fed11-6848-5916-89cd-67189890f37c",
+    "2c979a43-4536-5171-9f11-2c620a117551"
+  ],
+  "contexts": [
+    "were identied using the RGD (68). This resource provides infor-mation regarding the physiological trait studied, strain combina-tion used, associated linkage statistics, and the genomic coordi-nates of the pQTL region. For pQTL regions identied from RGD,the original data (Supplementary Table S3) were examined, and the99% condence interval [within the 2 logarithm of the odds (LOD)drop from the peak of linkage] was estimated. Cis-eQTLs were",
+    "RGCs. The discovery of this relationship may help inguiding studies that explore the disease mechanismsassociated with altered protein transport and foldingin RGCs. In glaucoma, the identication and conr-mation of these two proteins in RGC health and dis-ease holds great promise for the development ofmolecular targets to slow or reverse RGC damage, which, in turn, will preserve vision. Experimental procedures Human donor eyes Human donor eyes were collected in accordance with the",
+    "RGCs. The discovery of this relationship may help inguiding studies that explore the disease mechanismsassociated with altered protein transport and foldingin RGCs. In glaucoma, the identication and conr-mation of these two proteins in RGC health and dis-ease holds great promise for the development ofmolecular targets to slow or reverse RGC damage, which, in turn, will preserve vision. Experimental procedures Human donor eyes Human donor eyes were collected in accordance with the",
+    "(http://www.cbil.upenn.edu/PaGE/). All microarray platforms and image-analysis software are supported. In addition, RAD is being used for CGH, ChIP , and SAGE data. RAD can produce MAGE-ML les for export of data to other databases or software packages. RAD is part of a more general Genomics Unied Schema, which provides a platform to integrate gene and transcript data from a variety of organisms. Advantages RAD is a scalable, Web-accessible database that can accommodate data from sev-",
+    "(http://www.cbil.upenn.edu/PaGE/). All microarray platforms and image-analysis software are supported. In addition, RAD is being used for CGH, ChIP , and SAGE data. RAD can produce MAGE-ML les for export of data to other databases or software packages. RAD is part of a more general Genomics Unied Schema, which provides a platform to integrate gene and transcript data from a variety of organisms. Advantages RAD is a scalable, Web-accessible database that can accommodate data from sev-",
+    "(http://www.cbil.upenn.edu/PaGE/). All microarray platforms and image-analysis software are supported. In addition, RAD is being used for CGH, ChIP , and SAGE data. RAD can produce MAGE-ML les for export of data to other databases or software packages. RAD is part of a more general Genomics Unied Schema, which provides a platform to integrate gene and transcript data from a variety of organisms. Advantages RAD is a scalable, Web-accessible database that can accommodate data from sev-",
+    "differentiallysusceptibletodeath,withalpha-RGCsandintrinsicallyphotosensitiveRGCs (ipRGCs) being less sensitive to cell death than other RGC subtypes in a mouse model of glaucoma. Keywo rds: retinal ganglion cells, gene regulatory networks, transcription factors, recombinant inbred strain, subtypes INTRODUCTION Theretinalganglioncell(RGC)isthenaloutputneuronoftheretina,projectingthroughtheoptic nerve to the brain, where it targets a number of functionally distinct areas: for visual perception,",
+    "AG18245 (DG), NIAAA U01AA014425 (LL), and P20 DA021131 (RW). We thank Derek Rains, Gurjit Rai, Meifen Lu, Richard Cushing, Erich Brauer, and Alan Weatherford for their invaluable technical assistance. Abbreviations BrdU bromodeoxyuridine CV cresyl violet GF growth fraction LOD likelihood of the odds LRS likelihood ratio statistic NSCs neural stem cells OB olfactory bulb DG dentate gyrus QTL quantitative trait locus RI recombinant inbred RMS rostral migratory stream SGZ subgranular zone",
+    "Rdh10, Lrat,) whose biology functions are directly associated w ith the metabolism of  retinoid.  RGR (retinal G protein-coupled receptor, protein of  Rgr ) is a protein that structurally resembles  visual pigments and other G protein-coupled recepto rs. Light isomerizes 11- cis - into all-trans - retinal, triggering a conformational transition of the opsin molecule that initiates phototransduction .  After bleaching all- trans -retinal leaves the opsin, and light sensitivity mu st be restored by",
+    "GeneNetwork system, we were able to define robust expression covariance signatures for RGCs and confirmed membership of Chrna6 within the RGC cell type of the retina using new array data sets and RT-PCR tracking through a progressive RGC loss mouse line. Chrna6  can be added as reliable biomarker for RGCs and RGC loss secondary to glaucoma. It is important to note that in addition to providing evidence for Chrna6 expression as a"
+  ],
+  "answer": "RGD refers to a resource that provides information regarding physiological traits studied, strain combinations used, associated linkage statistics, and the genomic coordinates of the pQTL (protein Quantitative Trait Loci) region. For pQTL regions identified from RGD, the original data were examined, and the 99% confidence interval within the 2 logarithm of the odds (LOD) drop from the peak of linkage was estimated [1].",
+  "question": "What is RGD?"
+}

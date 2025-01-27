@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2020 - A multidimensional systems biology.pdf",
+    "2022 - Functional genomics of inflamm-aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2007 - Two faces of p53 aging and tumor suppression.pdf",
+    "2015 - Cellular and Molecular Biology of Aging Endothelial Cells.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2016 - Genome Integrity in Aging.pdf",
+    "2020 - A multidimensional systems biology.pdf"
+  ],
+  "extraction_id": [
+    "4b00515d-e599-5ce1-84e3-012d7efe1a30",
+    "95744ef5-34b9-5540-a5e5-01fd580539e6",
+    "1635dbe1-1dcb-5213-9446-74129d50c5f8",
+    "6a2a94de-cfc0-50eb-b50e-bf3a0f813c78",
+    "2b1396d1-ea5d-5708-a6b1-2adf1712c7b4",
+    "4a95fed4-61db-58e9-96d7-3a9dcf87ef7f",
+    "10f1fcbd-35a6-507d-880f-1f3f303737ea",
+    "029ae7be-b0ab-55f8-84a2-5a74681e454d",
+    "102fcfb3-b333-5b67-ab94-08033f04ba5c",
+    "fe4ec57e-6ae7-59c4-b8fa-da73fe77ce96"
+  ],
+  "document_id": [
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3",
+    "435dc081-e3d1-52c5-93a1-caa11206422f",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "b1ef905a-c145-5270-9110-ae6954ea3d72",
+    "815d7f3e-e219-502f-aba0-57a68ae787d3",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "85d5fcbb-5385-5a01-8139-d11fc8b1fe3a",
+    "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3"
+  ],
+  "id": [
+    "chatcmpl-AIFi4Qsa1GjY5azJi3IYJdr8DLXln",
+    "2f35de05-41ee-5471-870d-a4e663cf32f6",
+    "1efa76cb-2289-5dd3-9fa5-776083aa5cd5",
+    "9faa9b6b-6a97-5979-bf49-8bbdb4bb383d",
+    "6d4a1a0b-2af3-5cc4-b7c0-a7223ce3edfa",
+    "45f74737-847a-52c2-a0b9-bf9de335a7ce",
+    "bd5fffd3-cf7a-5f67-b581-6cb803a48de4",
+    "27d74137-3987-571d-87ab-2c12ec66d1f7",
+    "180adffa-397c-599b-adb3-64a7f464aaaa",
+    "93b3cc74-a414-5097-802a-7dc2ad10171d",
+    "3593241d-677d-5042-a1e9-dd92760a8c0e"
+  ],
+  "contexts": [
+    "senescence, exhausting the ability for a tissue to regenerate after injury, impacting mitochondrial function,and inducing protein aggregation. Senescent cells have altered metabolism, and they can secreteproinammatory factors and alter the local tissue environment, thereby contributing to aging andage-related degenerative diseases. In addition, stem cell function can be impacted by DNA damage by bothcell autonomous and nonautonomous mechanisms. Proper function of mitochondria is dependent upongenome",
+    "[87] and the accumulation of senescent cells in human tissues with age has been implicated as a driver of aging- related diseases. Indeed, pharmacological approaches targeting senescent cells, like senolytics, are a major and timely area of research that could result in human clin- ical applications [ 5,88]. It is imperative that we fully understand and deconstruct cellular senescence in order to target aging-related diseases. We hope that CellAge will help researchers understand the role that CS plays",
+    "An important source of inflammatory signals in aged organ- isms is thought to be the accumulation of senescent cells across tissues [ 5,7]. Indeed, accumulating evidence has shown that senescent cells are characterized by a senescence-associatedsecretory phenotype [ 810], which includes a panoply of pro-inflammatory cytokines, proteases, growth factors and metabolites [ 10,11]. The impact of senescent cells on age-related inflammation, and their potential role as a target for pro-",
+    "senescent cells [150]. SASP factors exert their functions in either an autocrine or a  paracrine manner and are responsible for the induction of the chronic inflammation  and cell proliferation that contributes to cell dysfunction and cancer. Thus, the accu- mulation of senescent cells in tissue is closely associated with aging-related dis- eases. Recently, it was determined that senescent fibroblasts significantly increase  the expression of HLA-E, which inhibits the receptor NKG2A in killer cells, and",
+    "atherosclerosis, osteoarthritis, sarcopenia, ulcer formation, cancer, and Alzheimer disease, which is suggestive of a causative role. However, the most convincing evidence that senescent cells causeaging comes from recent genetic (85) and pharmacologic studies (86) revealing that clearance of senescent cells can prevent or delay tissue dysfunction and extend health span. Senescent cells induce autocrine, as well as paracrine, signaling by secretion of proinamma-",
+    "senescence can deplete both stem (5153) and stromal (10,11) cell pools. Moreover, because senescent cellspersist, they have the ability to alter the tissue micro-environment, and can therefore also promote the degen-eration of organs and stem cell niches (14,46). Finally, senescent cells secrete factors such as matrix metallopro- teinase-3 (MMP-3), which favors extra-cellular matrixremodeling, promotes defects in epithelial cell dierentia-tion and stimulates cancer cell growth (46,54,55).",
+    "potential role of senescence in in vivo  aging and disease has been difficult to assess and somewhat controversial   [146]. However, recent studies have shown that senescent cells accumulate in normal arterial tissue over the  lifespan of humans  [147, 148]. Likewise, the accumulation of senescent cells has been reported in diseased  tissues, such as atherosclerotic plaques  [149] and abdominal aortic aneurysms  [150]. Baker et al.  showed that",
+    "51. Jeyapalan JC, Ferreira M, Sedivy JM, Herbig U. 2007. Accumulation of senescent cells in mitotic tissue of aging primates. Mech. Ageing Dev. 128:3644 52. Boyle J, Kill IR, Parris CN. 2005. Heterogeneity of dimer excision in young and senescent human dermal broblasts. Aging Cell 4:24755 53. Seluanov A, Mittelman D, Pereira-Smith OM, Wilson JH, Gorbunova V. 2004. DNA end joining becomes less efcient and more error-prone during cellular senescence. PNAS 101:762429",
+    "in many accelerated-aging mouse models and in a plethora of human age-associated pathologies, including osteoporosis, atherosclerosis, glomerular disease, diabetic venous ulcers, chronic ob-structive pulmonary disease and emphysema, osteoarthritis, herniated intervertebral discs, and vascular calcication (112). Senescent cells are resistant to apoptosis and accumulate exponen- tially with age as a consequence of inefcient clearance. Unlike apoptotic tissues, senescent tissues 436 VermeijHoeijmakersPothof",
+    "wound healing [ 8], and immune clearance [ 9,10]. By contrast, the gradual accumulation and chronic persistence of senescent cells with time promotes dele- terious effects that are considered to accelerate deterior- ation and hyperplasia in aging [ 11]. Senescent cells secrete a cocktail of inflammatory and stromal regula- torsdenoted as the senescence-associated secretory phenotype, or SASP which adversely impact neighbor- ing cells, the surrounding extracellular matrix, and other"
+  ],
+  "answer": "Senescent cells are cells that have stopped dividing and have entered a state of permanent growth arrest. They are characterized by an altered metabolism and the secretion of pro-inflammatory factors, a phenomenon known as the senescence-associated secretory phenotype (SASP) [1], [3]. These cells accumulate in tissues over time and are resistant to apoptosis, meaning they are not easily cleared from the body [9].  Senescent cells contribute to aging and age-related diseases in several ways. They impact the tissue environment by secreting inflammatory cytokines, proteases, and growth factors, which can lead to chronic inflammation and tissue dysfunction [3], [4]. This chronic inflammation is a significant factor in the development of age-related degenerative diseases [1], [4]. Additionally, senescent cells can alter the tissue microenvironment, promoting the degeneration of organs and stem cell niches, and potentially stimulating cancer cell growth [6].  The accumulation of senescent cells is associated with various age-related pathologies, such as atherosclerosis, osteoarthritis, and Alzheimer's disease [5], [9]. Recent studies have shown that clearing senescent cells can prevent or delay tissue dysfunction and extend health span, highlighting their causative role in aging [5].",
+  "question": "What are senescent cells and how do they contribute to aging?"
+}

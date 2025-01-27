@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - Epigenetics and aging.pdf",
+    "2012 - Genome-Wide RNAi Longevity Screens in Caenorhabditis elegans.pdf",
+    "2015 - Transcriptomic profiles of aging in purified.pdf",
+    "2015 - Transcriptomic profiles of aging in purified.pdf",
+    "2016 - Epigenetics and aging.pdf",
+    "2015 - The mechanism of ageing primary role of transposable elements.pdf",
+    "2012 - Replicative and Chronological Aging.pdf",
+    "2015 - Transcriptomic profiles of aging in purified.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2015 - Transcriptomic profiles of aging in purified.pdf"
+  ],
+  "extraction_id": [
+    "9b7b806c-cac3-549e-9ae9-424cc3e5f869",
+    "f160f818-03bf-5b4e-b1f4-bfbd3b0bfb99",
+    "a972e2fb-b73f-51bf-980a-85c9db1482be",
+    "a972e2fb-b73f-51bf-980a-85c9db1482be",
+    "9b7b806c-cac3-549e-9ae9-424cc3e5f869",
+    "20245b79-fa8f-52fc-832e-1478a080d6e1",
+    "8bc194af-6e9d-51c5-8116-6d4186a885dd",
+    "e5fd1ff0-8df5-577f-9f2d-31b0941d5ce5",
+    "0d4cd402-e032-5edd-98eb-170357a3092e",
+    "e5fd1ff0-8df5-577f-9f2d-31b0941d5ce5"
+  ],
+  "document_id": [
+    "71b206ec-81bd-5194-8b21-ae522f8cbc2d",
+    "7589fec2-e893-5a4d-9f0c-09abb35858ab",
+    "50f357a3-e0f2-5e32-a6b2-771fb4b1e1c6",
+    "50f357a3-e0f2-5e32-a6b2-771fb4b1e1c6",
+    "71b206ec-81bd-5194-8b21-ae522f8cbc2d",
+    "de558db9-dc04-5bbd-83bf-3e3368ff906b",
+    "496e387e-4278-5f74-8ecc-4edc1cee7dfe",
+    "50f357a3-e0f2-5e32-a6b2-771fb4b1e1c6",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "50f357a3-e0f2-5e32-a6b2-771fb4b1e1c6"
+  ],
+  "id": [
+    "chatcmpl-AIHYO1XLJbUnaqsOWyFh9a97rwIzB",
+    "603183d9-d22c-5008-bfa5-147ee5df4198",
+    "a6d18c4e-632c-52a2-b3f9-6296025e0ce7",
+    "d43449f1-2d90-5e0e-8ba8-8afdc306f32d",
+    "ca8ae9e1-f598-56b9-952e-bb5bea62d8fe",
+    "581ca468-d3f3-5846-9fba-7f1f860df956",
+    "a2effd64-3d9d-5bdf-8fc6-0cd72762763d",
+    "f82ef429-c823-5173-a93b-5c476df110f5",
+    "949f7420-bfb6-564d-8537-18c47e40bbc6",
+    "8ede28e5-ed8e-5c68-bd03-18c3c96bb31b",
+    "82060e66-87b7-5ac2-9877-fc7b26325b73"
+  ],
+  "contexts": [
+    "D. Carmona-Gutierrez, C. Ruckenstuhl, J. Ring, W. Reichelt, K. Schimmel, T. Leeb,C. Moser, S. Schatz, L.-P. Kamolz, C. Magnes, F. Sinner, S. Sedej, K.-U. Frhlich,G. Juhasz, T. R. Pieber, J. Dengjel, S. J. Sigrist, G. Kroemer, F. Madeo, Nucleocytosolic de-pletion of the energy metabolite acetyl-coenzyme a stimulates autophagy and prolongs lifespan. Cell Metab. 19, 431 444 (2014). 225. S. Gelino, M. Hansen, Autophagy An emerging anti-aging mechanism. J. Clin. Exp. Pathol. (Suppl. 4), pii: 006 (2012).",
+    "[73] Vellai, T. Autophagy genes and ageing . Cell Death Differ. , 2009 ,  16(1), 94-102.  [74] Kaeberlein, M.; Kapahi, P. Cell signaling. Aging is RSKy business .  Science , 2009 , 326(5949), 55-6.  [75] Hansen, M.; Chandra, A.; Mitic, L.L.; Onken, B.; Driscoll, M.;  Kenyon, C. A role for autophagy genes in the extension of lifespan  by dietary restriction in C. elegans.  PLoS Genet. , 2008 .  [76] Hansen, M.; Taubert, S.; Crawford, D.; Libina, N.; Lee, S.J.;",
+    "chinery and upstream regulators provide evidence for a transcriptional decline in autophagy gene expression with age in human monocytes. The identification of key genes contributing to a decline in autophagy are of great interest, as pharmacologic activation of au- tophagy has been linked with increasing lifespan in animal models, including mice [45]. Further, dysfunc- tional autophagy is now widely implicated in patho- physiological processes of many age-related diseases",
+    "invasive pathogens, and to transport these cargos to the lysosomes for degradation [25]. In the aging field, im- paired autophagy is considered one of the principal de- terminants of cellular aging, which is supported by in vitro and animal study findings that autophagy de- clines with age [26]. However, studies of autophagy and age in humans are sparse. One of the most significant age-gene expression asso- ciations we observed in monocytes from 1,264 individ-",
+    "226. F. Madeo, N. Tavernarakis, G. Kroemer, Can autophagy promote longevity? Nat. Cell Biol. 12, 842 846 (2010). 227. J. Fllgrabe, M. A. Lynch-Day, N. Heldring, W. Li, R. B. Struijk, Q. Ma, O. Hermanson, M. G. Rosenfeld, D. J. Klionsky, B. Joseph, The histone H4 lysine 16 acetyltransferase hMOF regulates the outcome of autophagy. Nature 500, 468 471 (2013). 228. F. Ng, B. L. Tang, Sirtuins modulation of autophagy. J. Cell. Physiol. 228, 2262 2270 (2013).",
+    "(2013) The hallmarks of aging. Cell 153(6):11941217. doi: 10. 1016/j.cell.2013.05.039 3. Vellai T, Takacs-Vellai K, Sass M, Klionsky DJ (2009) The regulation of aging: does autophagy underlie longevity? TrendsCell Biol 19(10):487494. doi: 10.1016/j.tcb.2009.07.007 4. Kirkwood TB (2008) A systematic look at an old problem. Nature 451(7179):644647. doi: 10.1038/451644a 5. Koubova J, Guarente L (2003) How does calorie restriction work? Genes Dev 17(3):313321. doi: 10.1101/gad.1052903",
+    "Eisenberg, T., Knauer, H., Schauer, A., Bu ttner, S., Ruckenstuhl, C., Carmona- Gutierrez, D., Ring, J., Schroeder, S., Magnes, C., Antonacci, L., et al. (2009).Induction of autophagy by spermidine promotes longevity. Nat. Cell Biol. 11, 13051314. Enns, L.C., Morton, J.F., Treuting, P.R., Emond, M.J., Wolf, N.S., Dai, D.F., McKnight, G.S., Rabinovitch, P.S., and Ladiges, W.C. (2009). Disruption of protein kinase A in mice enhances healthy aging. PLoS ONE 4, e5963.",
+    "its essential part in the anti-aging mechanism of caloric restriction. Ann N Y Acad Sci. 2007;1114:69 78. 41. Cuervo AM, Bergamini E, Brunk UT, Droge W, Ffrench M, Terman A. Autophagy and aging: the importance of maintaining clean cells. Autophagy. 2005;1:131 40. 42. Terman A. The effect of age on formation and elimination of autophagic vacuoles in mouse hepatocytes. Gerontology. 1995;41 Suppl 2:319 26. 43. Donati A, Recchia G, Cavallini G, Bergamini E. Effect of aging and anti-aging",
+    "103 Experimental findings showing increased oxidative  stress, impaired bioavailability of NO, and upregulation of in-flammatory mediators in autophagy-deficient endothelial cells  support this view. 104 Further, pharmacological interventions  that stimulate autophagy (eg, trehalose or spermidine treat-ment) were reported to reverse aspects of arterial aging. 105,106  Proteasomes degrade unneeded or damaged proteins by pro-teolysis. There is evidence that proteasome activity declines in  advanced aging",
+    "Phosphorylation of ULK1 (hATG1) by AMP-activated protein kinase connects energy sensing to mitophagy. Science. 2011;331:456 61. 38. Xiao B, Sanders MJ, Underwood E, Heath R, Mayer FV, Carmena D, et al. Structure of mammalian AMPK and its regulation by ADP. Nature. 2011;472:230 3. 39. Tang D, Kang R, Livesey KM, Cheh CW, Farkas A, Loughran P, et al. Endogenous HMGB1 regulates autophagy. J Cell Biol. 2010;190:881 92. 40. Bergamini E, Cavallini G, Donati A, Gori Z. The role of autophagy in aging:"
+  ],
+  "answer": "Recent developments in autophagy research have significantly enhanced our understanding of its role in aging and longevity. Here are some key contributions:  1. **Energy Metabolism and Lifespan Extension**: Research has shown that the depletion of acetyl-coenzyme A, an energy metabolite, can stimulate autophagy and prolong lifespan. This suggests that autophagy is closely linked to energy metabolism and can be a mechanism for extending lifespan [1].  2. **Autophagy as an Anti-Aging Mechanism**: Autophagy is increasingly recognized as an emerging anti-aging mechanism. It plays a crucial role in maintaining cellular homeostasis by degrading and recycling damaged cellular components, which is essential for longevity [1].  3. **Genetic Regulation and Dietary Restriction**: Studies have identified autophagy genes as important for lifespan extension, particularly in the context of dietary restriction. This indicates that genetic regulation of autophagy is a key factor in promoting longevity [2].  4. **Pharmacological Activation**: There is evidence that pharmacological activation of autophagy can increase lifespan in animal models, including mice. This highlights the potential for therapeutic interventions targeting autophagy to promote healthy aging [3].  5. **Impaired Autophagy and Cellular Aging**: Impaired autophagy is considered a principal determinant of cellular aging. The decline in autophagy with age is linked to various age-related diseases, emphasizing the importance of maintaining autophagic activity for longevity [4].  6. **Spermidine and Longevity**: The induction of autophagy by compounds like spermidine has been shown to promote longevity, further supporting the role of autophagy in extending lifespan [7].  These findings collectively underscore the critical role of autophagy in aging and longevity, suggesting that enhancing autophagic processes could be a viable strategy for promoting healthy aging and extending lifespan.",
+  "question": "How do recent developments in autophagy research contribute to our understanding of its role in aging and longevity?"
+}

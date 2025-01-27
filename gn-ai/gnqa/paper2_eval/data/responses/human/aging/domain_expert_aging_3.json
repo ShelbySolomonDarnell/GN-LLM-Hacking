@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2011 - How pleiotropic genetics of the musculoskeletal system.pdf",
+    "2021 - Genome-wide association studies identify.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2001 - A genome-wide scan for linkage to human.pdf",
+    "2007 - Temporal and spatial transcriptional profiles.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2020 - Role of Helicobacter pylori infection in the manifestation of old age-related diseases.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf"
+  ],
+  "extraction_id": [
+    "7ada6b55-99c2-5e20-bf96-d153f927256c",
+    "b5b3c74a-90de-5b1e-9580-8031b10be7ec",
+    "cd7730b6-22dc-5256-9310-79fc348b3226",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "4ea8424f-1cd8-569c-a1df-3f0f54206e70",
+    "17246c43-2e44-579b-867d-3dc7150ceedd",
+    "2e42619b-d0b2-5d33-aab8-6f04002ee807",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "e6916baa-9f9d-57aa-b44d-95fb614610a8",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89"
+  ],
+  "document_id": [
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "ed31486c-a651-5894-bd96-21fbd78f2646",
+    "60c2e869-1fee-53ea-b332-26d9c2abc747",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "1431984a-82d9-51d4-a23c-5f76a02ab554",
+    "38f27ec7-08bf-5397-b2b8-bde95e0dc3f8",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "e99c68d2-4f35-5591-8072-cfdb31966e68",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec"
+  ],
+  "id": [
+    "chatcmpl-ABLwW9HA9VG184zgOmenEBU2eMIMc",
+    "3117c019-7311-53ae-8ab1-927ca822c709",
+    "0ad664d2-6756-5123-b192-8a56cf6887a5",
+    "9fa00091-9661-57bd-91c7-f0bf436805a7",
+    "786d2756-4c4d-5ac0-8d3d-63f914d51664",
+    "a0672677-71ad-5603-8427-a0648eec407f",
+    "e0cce1c5-8709-5218-99b6-48a6ba242931",
+    "bf2cd208-273f-5848-b243-df8b95ea7833",
+    "413f8f54-b5cc-5089-9f5c-d9e3b8bcf594",
+    "50581d4f-396c-5d12-aec6-5f42e2ab88ef",
+    "3c369292-4b9c-5156-a80f-4b3301026f30"
+  ],
+  "contexts": [
+    "It is undisputed that genetic factors influence aging. In a remarkable",
+    "perform a study of the genetic sources of biological aging. However, to be successful, the genetic study of acomplex condition requires a heritable phenotype to be developed and validated. Genome-wide association studies offer an unbiased approach to identify newcandidate genes for human diseases. It is hypothesized that convergent results from multiple aging-related traits will point out the genes responsible for the general agingof the organism. This perspective focuses on the",
+    "population dynamics on the genetic architecture of human longevity. Aging (Albany NY). 2018;10(8):1947 63. 68. Bellenguez C, Kucukali F, Jansen I, Andrade V, Morenau-Grau S, Amin N, et al. Large meta-analysis of genome-wide association studies expands knowledge of the genetic etiology of Alzheimer disease and highlights potential translational opportunities. medRxiv. 2020. 69. Kojima T, Shimazui T, Hinotsu S, Joraku A, Oikawa T, Kawai K, et al. Decreased expression of CXXC4 promotes a",
+    "In addition to aging- and CR-related genes, another source of candidate genes and pathways for drug designare human longevity-associated genes (Barzilai andShuldiner, 2001; Browner et al., 2004; Kenyon, 2010).Dozens of genes have now been associated with humanlongevity (de Magalha es et al., 2009a), although only ahandful of genes have been shown to have consistenteffects across populations. Many longevity-associated genes are related to spe-",
+    "Clinical Genetics and Genomics of Aging",
+    "effect fundamental mechanisms of aging (14, 16). The drawbacksof such studies include the improbability of picking the right geneto study the myriad of known and unknown genes affecting theprocess of interest (17). The linkage study described heremarkedly improves the efficiency of such association studies bydefining a region likely to contain polymorphism(s) with signif-icant influence on life span. Additional association studies with these families and repli-",
+    "The multifactorial and temporal features of aging can beanalyzed efficiently by genome-wide transcriptional profiling,which has been conducted in various model organisms and hu-mans (Melov and Hubbard 2004). Aging is associated with alter-ations in transcript levels of many genes, including those in-volved in evolutionarily conserved mitochondrial and protea-somal functions (McCarroll et al. 2004), some of which havebeen shown to be directly involved in regulating lifespan in C.",
+    "overexpressed with age seem to be a response to aging,in that they have been previously found to have protec-tive functions (de Magalha es et al., 2009b). As such,these genes may help organisms manage aging andcould be targets for manipulation. Likewise, gene ex-pression analysis of CR has been conducted to identifyassociated genes (Lee et al., 1999, 2000). A number ofmolecular signatures have emerged from such studiesthat could be useful to identify candidate processes andpathways that affect aging,",
+    "Mol Genet Genomic Med. 2020;00:e1157.     |  1 of 11 https://doi.org/10.1002/mgg3.1157 wileyonlinelibrary.com/journal/mgg3 1 | INTRODUCTION Aging is one of the inevitably dominant risk associated with  many diseases. Several biological factors contribute to this etiology which",
+    "al., 2009; Stanfel et al., 2009). Many of these genesmodulate the response to environmental signals, such asfood availability, and act in signaling pathways that ifunderstood can be targeted (Fig. 1). The genetic regula-tion of aging is therefore an emerging field with multipleapplications in the human nutrition, cosmetic, and phar-maceutical industries. AGING GENES AS TARGETS FOR DRUG DISCOVERY 91"
+  ],
+  "answer": "Genetic factors associated with aging include:  1. **Genome-wide association studies (GWAS)**: These studies offer an unbiased approach to identify new candidate genes for human diseases, including those related to aging. Convergent results from multiple aging-related traits can point out the genes responsible for the general aging of the organism [2].  2. **Longevity-associated genes**: Dozens of genes have been associated with human longevity, although only a handful have shown consistent effects across populations. These genes are often related to specific biological pathways and processes [4].  3. **Genes involved in mitochondrial and proteasomal functions**: Aging is associated with alterations in the transcript levels of many genes, including those involved in evolutionarily conserved mitochondrial and proteasomal functions. Some of these genes have been shown to be directly involved in regulating lifespan [7].  4. **Genes with protective functions**: Certain genes that are overexpressed with age seem to have protective functions, helping organisms manage aging. These genes could be targets for manipulation to potentially influence the aging process [8].  These genetic factors highlight the complex interplay of various genes and pathways in the aging process.",
+  "question": "what genetic factor are associated with aging"
+}

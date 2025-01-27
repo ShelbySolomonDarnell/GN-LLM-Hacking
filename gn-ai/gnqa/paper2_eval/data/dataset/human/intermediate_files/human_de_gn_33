@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2014 - A Population Genetic Signal of Polygenic Adaptation.pdf",
+    "2021 - Correlational selection in the age of genomics.pdf",
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2020 - A Multi-Omics Perspective of Quantitative Trait Loci in Precision Medicine.pdf",
+    "2010 - Systems genetics, bioinformatics and eQTL mapping.pdf",
+    "2022 -Chunduri- Drugs Animal Models.pdf",
+    "2022 - New Insights on Gene by Environmental Effects of Drugs of Abuse in Animal Models Using GN.pdf",
+    "2022 - New Insights on Gene by Environmental Effects of Drugs of Abuse in Animal Models Using GeneNetwork.pdf",
+    "2016 - Mouse genome-wide association and systems genetics identifies Lhfp as a regulator of bone mass.pdf"
+  ],
+  "extraction_id": [
+    "c28f56f2-4e3d-5c8c-afcc-c6ac1dc43074",
+    "2aea6aad-eaf7-5e30-b505-4c08b47a8e98",
+    "0c3d0cb3-d4b0-5655-8b04-285a87710636",
+    "ea23303c-d909-5bda-9a48-8c78fb60cf8c",
+    "2d44caa2-d625-5252-87a1-a9691af99e36",
+    "298ee1f5-58a9-567c-86ba-8ac5967e1718",
+    "3df0d755-b4aa-5635-a223-3bc6d454a196",
+    "d01794ca-a660-5319-af06-8f0b9ee8e060",
+    "407f64ca-3b4b-57b8-954c-b5a58132d458",
+    "2cecc2f8-8211-544f-88e7-23e270d34f63"
+  ],
+  "document_id": [
+    "5760b25c-236b-527d-98d6-563a85888727",
+    "5449975c-261a-5e45-a979-04fad61cefd8",
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "8503b166-b917-5efb-a356-5ba371504cc1",
+    "27c922c6-e449-5f83-868a-3ad7284facc8",
+    "9cfa4f4c-37ce-5c0f-9da6-3bbb075fdc45",
+    "6f5d0c5b-0bbb-5eca-9e3e-73c3b0675472",
+    "d71efa0d-5de8-549c-964d-489ef6b73a1f",
+    "a554412b-b074-5bcd-9617-06ea69647b8a"
+  ],
+  "id": [
+    "chatcmpl-ADZCTjdARUSr934Zl60dbSl3iWvA2",
+    "75b9b0fa-38e8-5674-8000-ae14f26a1780",
+    "1641cea6-8773-516e-b08e-fad820ebfdb9",
+    "fa1981fe-6730-59a1-b331-c6c7250b0f2c",
+    "72b37b21-1d41-55bd-b835-f0bd267a3970",
+    "108483cf-404b-5a9c-bf1f-be58ebf6d16d",
+    "68a13597-c223-54d9-9664-604d69b97c50",
+    "ed4ddc1b-45f9-5d9c-8969-e881d96edc4e",
+    "73b8e482-b204-5da6-b92d-f090efb622f1",
+    "60a84952-41ed-57ee-b689-6da313793843",
+    "616a41e7-df46-54d5-979e-1654973aa642"
+  ],
+  "contexts": [
+    "ST, see [40,120122]). Such tools may also offer a way of incorporating GxE interactions, as multiple GWAS for the same trait in different environments can be treated as correlatedtraits [123]. As association data for a greater variety of populations, species, and traits becomes available, we view the methods described outhere as a productive way forward in developing a quantitativeframework to explore the genetic and phenotypic basis of local adaptation. Materials and Methods",
+    "has been achieved by quantitative trait loci mapping, admixture  mapping and GW AS131, which have limited power to detect  small-effect-size genes. Newer approaches map pleiotropy by simultaneously associating genomic loci with multiple traits 54  and can also detect epistatic interactions using machine learning algorithms 132.Detecting the genomic signatures of correlational selectionCorrelational selection could potentially be inferred from  signatures of selective sweeps at loci under strong selection",
+    "pairs that include many genes within the seg- ment. On the other hand, GWAS may point to several or even many genomic locations for the trait of interest, complicating further functional analysis. Analysis of Quantitative Trait Loci (QTL) QTL analysis reveals statistically signicant linkage between phenotypes and genotypes, thereby providing explanation for the genetic basis of variation in complex traits (Falconer and Mackay, 1996; Lynch and Walsh, 1998). In a sense, QTL analysis can be viewed as incom-",
+    "studies.    There are  many possible causal networks even in a simple syst em consisting of  a genomic locus (QTL) and two traits, T1 and T2 ( Figure 1 ). Causal inference in  GWLS and GWAS involves, in its simplest form, the i dentification of pairs of traits  with a common QTL (QTL-trait-trait triads) and dete rmining whether the QTL  directly affects each of two traits (independent), or if the QTL affects only one trait",
+    "tions by matching patterns of expression QTL and GWAS. Am. J. Hum. Genet. 92, 92 160. Giambartolomei, C. et al. (2014) Bayesian test for colocalisation between pairs of genetic association studies using summary statistics. PLoS Genet. 10, e1004383 161. Porcu, E. et al. (2019) Mendelian randomization integrating GWAS and eQTL data reveals genetic determinants of com-plex and clinical traits. Nat. Commun. 10, 3300 162. Zhu, Z. et al. (2016) Integration of summary data from GWAS",
+    "knowledge of the true QTL location (Doss et al. 2005 ), which can be used to empirically estimate the power of aGWAS performed at a similar scale (Hao et al. 2008 ; Schadt et al. 2008 ). A GWAS on its own does little more than establish correlations between changes in DNA at agiven locus and changes in a disease trait of interest, with respect to populations of interest. Further, these studies on",
+    "Another method to identify candidate genes is to leverage data generated in another population or species. Phenome-wide association studies (PheWAS) take a gene or variant of interest and nd all reported associations in GWAS datasets. A number of these GWAS tools exist, using either different methods, or different human cohorts (https://atlas.ctglab. nl/PheWAS, http://pheweb.sph.umich.edu/, accessed on 2 February 2022). Mouse QTL mapping has high power but low precision (i.e., we can detect a QTL, but",
+    "Another method to identify candidate genes is to leverage data generated in another population or species. Phenome-wide association studies (PheWAS) take a gene or variant of interest and nd all reported associations in GWAS datasets. A number of these GWAS tools exist, using either different methods, or different human cohorts (https://atlas.ctglab. nl/PheWAS, http://pheweb.sph.umich.edu/, accessed on 2 February 2022). Mouse QTL mapping has high power but low precision (i.e., we can detect a QTL, but",
+    "Another method to identify candidate genes is to leverage data generated in another population or species. Phenome-wide association studies (PheWAS) take a gene or variant of interest and nd all reported associations in GWAS datasets. A number of these GWAS tools exist, using either different methods, or different human cohorts (https://atlas.ctglab. nl/PheWAS, http://pheweb.sph.umich.edu/, accessed on 2 February 2022). Mouse QTL mapping has high power but low precision (i.e., we can detect a QTL, but",
+    "narrow regions ofthegenome harboring trait associated genetic variants. Itisstill, however, a challenge toidentify causal genes and several approaches have been developed that canassist inbridging thisgap. Specifically, systems genetics approaches involving theintegration of other types of-omics data have proven useful [25]. Two systems genetics approaches for informing GWAS areexpression quantitative trait loci(eQTL) discovery and co-expression"
+  ],
+  "answer": "Yes, the landscape of QTL (Quantitative Trait Loci) and GWAS (Genome-Wide Association Studies) hits can be used to find relationships between traits. This can be achieved through several methods:  1. **Correlated Traits in Different Environments**: Multiple GWAS for the same trait in different environments can be treated as correlated traits, which helps in exploring the genetic and phenotypic basis of local adaptation [1].  2. **Mapping Pleiotropy**: Newer approaches map pleiotropy by simultaneously associating genomic loci with multiple traits, which can reveal relationships between traits [2].  3. **QTL-Trait-Trait Triads**: Causal inference in GWAS and QTL studies involves identifying pairs of traits with a common QTL and determining whether the QTL directly affects each of the two traits independently or if it affects only one trait, which then influences the other [4].  4. **Colocalization and Integration of Data**: Methods such as Bayesian tests for colocalization between pairs of genetic association studies using summary statistics, and Mendelian randomization integrating GWAS and eQTL data, can reveal genetic determinants of complex and clinical traits, thereby identifying relationships between traits [5].  These methods collectively demonstrate that the landscape of QTL and GWAS hits can indeed be used to find relationships between traits.",
+  "question": "Can landscape of QTL and GWAS hits be used to find relationships between traits?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+    "2018 - Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.pdf",
+    "2011 - Type 1 Diabetes Etiology, Immunology.pdf",
+    "2011 - Type 1 Diabetes Etiology, Immunology.pdf",
+    "2015 -precision-medicine-for-managing-diabetes.pdf",
+    "2016 - The Genomics of Type 1 Diabetes.pdf",
+    "2001 - The genetics of type 2 diabetes.pdf",
+    "2007 - Localization of type 1 diabetes susceptibility to the MHC Class 1 Genes.pdf",
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2010 - A recombination hotspot leads to sequence variability.pdf"
+  ],
+  "extraction_id": [
+    "46f1cae6-a01f-5445-b20f-0eadf892f8bf",
+    "43eecb5d-aca2-5c3e-9351-afbef000a795",
+    "682b7a19-c6f3-5773-8286-c027adef1fd3",
+    "69694cc4-e333-599c-9046-17a192ef3080",
+    "f53ccf4e-f47f-5b44-8b41-f7068efc8be3",
+    "e1274c5c-c854-52b0-83d9-72487111ba34",
+    "737e4fe2-91ba-50c5-8f64-1149944fb60c",
+    "92a54171-9f94-51ea-83cb-11698b1f0c21",
+    "7a2a9981-4096-5049-a717-3e69eb609777",
+    "7cf0ebfd-7231-540b-b44f-9c94316fdf80"
+  ],
+  "document_id": [
+    "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+    "af63c74d-a204-5f9f-9a32-3451b112e5ba",
+    "3c9823cd-3615-53b6-96c8-b7d2123d3eb0",
+    "3c9823cd-3615-53b6-96c8-b7d2123d3eb0",
+    "80949bab-d085-5f61-b98a-4bee043bc4e2",
+    "4933cdc2-7d36-5181-87c9-63b58498839f",
+    "8ab06972-1c6c-5d68-a270-65fb0af0917b",
+    "3887995f-fa61-5472-b0a2-90b7b39592c2",
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "72115ac1-f66b-58c5-9a6f-2230ec7eacb4"
+  ],
+  "id": [
+    "chatcmpl-ADZ9vHPpqfR4t9mEA9x34UA73YZmX",
+    "abf69b53-da1e-5d4a-b957-e528cf986a22",
+    "2308bc87-b4e4-5e68-80f0-877bfd340377",
+    "bad4e085-d889-5a45-a5a4-f943a33bf72a",
+    "027471f3-0ccd-5b0d-b5d6-d8027ee07326",
+    "263dc0cb-dfa0-5ee2-b927-f9a196294d46",
+    "a76c839e-ec94-5fdb-b5b9-a3bd6eff1315",
+    "d8447ac5-d246-5cca-9336-693710b17f7a",
+    "4658d1c8-e096-54d3-8e93-4bf95a6ca114",
+    "84259ad2-080b-5f5c-82f3-0fe9a88500f4",
+    "ac8cfb6b-42cd-5c42-a4a3-b525790a22b1"
+  ],
+  "contexts": [
+    "are involved in the development of the disease [127 ].  There is evidence that more  than twenty regions of the genome are involved in t he genetic susceptibility to T1D.   The genes most strongly associated with T1D are loc ated in the HLA region of  chromosome 6 [128].  Similar to T1D, T2D has a stro ng genetic component.  To date,  more than 50 candidate genes for T2D have been inve stigated in various populations  worldwide.  Candidate genes are selected due to the ir interference with pancreatic",
+    "pre-existing statistical support for a role in T1D-susceptibility: these are the major histocompatibility complex (MHC), the genes encod- ing insulin, CTLA-4 (cytotoxic T-lymphocyte associated 4) and PTPN22 (protein tyrosine phosphatase, non-receptor type 22), and the regions around the interleukin 2 receptor alpha ( IL2RA/CD25 ) and interferon-induced helicase 1 genes ( IFIH1 /MDA5)94. However, these signals can explain only part of the familial aggregation of T1D.",
+    "C. The Insulin Gene A lesser genetic predisposition to T1D is conferred by the IDDM2 locus on chromosome 11 containing the insu-lin gene region. A polymorphic region located 5 =of the insulin gene was rst reported in 1984 to be associatedwith T1D in caucasoids (39). Now established as a pri- TYPE 1 DIABETES: FROM CAUSE TO CURE 81 Physiol Rev VOL 91 JANUARY 2011 www.prv.org Downloaded from journals.physiology.org/journal/physrev (041.090.188.152) on July 14, 2023.",
+    "ception of the insulin gene (434). The genetic susceptibil-ity component of T1D allows some targeting of primarypreventive care to family members of diagnosed T1Dpatients, but there is no complete inheritance of the dis-ease. Nevertheless, the risk for developing T1D comparedwith people with no family history is /H110111015 times greater. Although /H1101170% of individuals with T1D carry",
+    "Genes signifying increased risk for both type 1 and type 2 dia-betes have been identified. Genomewide association studies have identified over 50 loci associated with an increased genetic risk of type 1 diabetes. Several T1D candidate genes for increased risk of developing type 1 diabetes have been sug-gested or identified within these regions, but the molecular basis by which they contribute to islet cell inflammation and beta cell destruction is not fully understood. 12 Also, several",
+    "14   carried out on large cohorts including collections of families with  affected sibling pairs (Pociot   et al., 2010). These studies have provided evidence for over forty T1D susceptibility regions ,  but the  exact mechanisms by which the variation found in these regions  confer susceptibility to  T1D is still not clear (Noble and Erlich, 2012). The most important genes contributing to T1D  susceptibility are located in the MHC class II region , also  referred to as t he Human Leukocyte",
+    "The ultimate proof of an inherited contribution to disease pathogenesis comes from the identication of susceptibility genes. As described below, an increasing number of T2D susceptibility genes have been discovered in the past decade, especially,but not exclusively, in monogenic subtypes. Collectively, these probably account for294 A. L. Gloyn and M. I. McCarthy",
+    "loci contribute to Type 1 Diabetes (T1D) susceptibility and age at T1D onset. Hum. Immunol. 66,301313 (2005). 9. Aly, T. A. et al. Extreme genetic risk for type 1A diabetes. Proc. Natl Acad. Sci. USA 103, 14074 14079 (2006). 10. Noble, J. A. et al. The HLA class I A locus affects susceptibility to type 1 diabetes. Hum. Immunol. 63,657664 (2002). 11. Honeyman, M. C., Harrison, L. C., Drummond, B., Colman, P. G. & Tait, B. D. Analysis of families at risk for insulin-dependent diabetes mellitus reveals that",
+    "failure linked to T2D genetic risk and pathophysiology. Single celltranscriptome analysis of human islet cells indicate that multiplemonogenic diabetes genes are highly expressed in beta cells (e.g., PDX1, PAX4, INS, HNF1A, andGCK)[27]. However, other non-beta cell types express genes mutated in monogenic diabetes (such as PAX6 and RFX6 ), congenital hyperinsulinemia ( HADH, UCP2 ) and those implicated as T2D GWAS target/effector genes [28].",
+    "chain promoter (Serreze and Leiter 2001). This observation, alongwith human genetic studies, suggests that increased T1D risk in humans may also result from the combination of rare and common variants within the human population (Concannon et al. 2009b). Despite the identification of several Iddgenes to date, this limited collection does not fully explain T1D pathogenesis or the underlying genetic architecture for T1D risk. One of the many Idd"
+  ],
+  "answer": "The genes that give a predisposition to developing Type 1 Diabetes (T1D) include:  1. **Major Histocompatibility Complex (MHC)** genes located in the HLA region of chromosome 6 [1], [2], [6]. 2. **Insulin gene (INS)** located in the IDDM2 locus on chromosome 11 [3]. 3. **CTLA-4 (Cytotoxic T-Lymphocyte Associated 4)** [2]. 4. **PTPN22 (Protein Tyrosine Phosphatase, Non-Receptor Type 22)** [2]. 5. **IL2RA/CD25 (Interleukin 2 Receptor Alpha)** [2]. 6. **IFIH1/MDA5 (Interferon-Induced Helicase 1)** [2].  These genes are strongly associated with T1D and contribute to the genetic susceptibility to the disease.",
+  "question": "Which genes give a predisposition to developing T1D?"
+}

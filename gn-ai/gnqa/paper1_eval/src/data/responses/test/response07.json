@@ -1,0 +1,203 @@
+{
+    "created_at": "2024-03-25T14:14:08.479589Z",
+    "data": {
+        "amplify": false,
+        "answer": "C57BL/6 and DBA/2 mice differ in several ways. C57BL/6 mice are more accurate in tasks with greater demands and make fewer impulsive responses. They also have larger brain weights and are more resistant to radiation-induced genomic instability. DBA/2 mice, on the other hand, make fewer omission errors, respond more vigorously to certain influenza viruses, and perform better in less spatially demanding tasks. They also have larger cortical areas when adjusted for brain weight and are more sensitive to acute nephrotoxicity. Genetic differences between the two strains affect various responses including activity, memory, learning tasks, and responses to alcohol and opioids.",
+        "context": {
+            "069247f3-7209-4dbb-85e3-e9f11e273812": [
+                {
+                    "document_id": "069247f3-7209-4dbb-85e3-e9f11e273812",
+                    "text": "However, when the data were adjusted\nfor brain weight, there was a significant (p = 0.008) difference between DBA/2J and C57BL/6J (2.14 ± 0.06 mm2\nand 1.96 ± 0.03 mm2, respectively) making the DBA/2J\nlarger by 8.50%. Total brain weight of DBA/2J animals\nwas significantly (p < 0.0001) smaller than that of C57BL/\n6J animals (0.35 ± 0.01 g, 0.42 ± 0.01 g respectively)."
+                }
+            ],
+            "08a6ce71-133e-426d-adfe-600ff52802a2": [
+                {
+                    "document_id": "08a6ce71-133e-426d-adfe-600ff52802a2",
+                    "text": "Phenotypes are often very different between mouse strains with\ndiverse genetic backgrounds and the strain characteristics of DBA/\n2J are often contrasted with other genetically distinct inbred strains\nsuch as C57BL/6J. These defined genetic backgrounds provide an\nexcellent system for mapping modifier genes [20,21,22]. To study\nthese differences a number of DBA/2J-relevant resources have\nbeen generated. For instance, a genome-wide panel of congenic\nstrains has been created that contain portions of DBA/2J\nchromosomes on a C57BL/6J background [23]. These 65 strains\ncontain more than 95% of the DBA/2J genome."
+                }
+            ],
+            "0de2ad4a-b7e3-484e-8778-5ea47e42a4e4": [
+                {
+                    "document_id": "0de2ad4a-b7e3-484e-8778-5ea47e42a4e4",
+                    "text": "Well-documented behavioral differences between C57 and\nDBA, including enhanced closed-arm preference and deficits in conditional fear, were\nobserved. This suggests at a minimum that the influence of previous testing in the two\nparental strains was comparable. The use of DBA/2J donor segments for the GTM panel may have implications for loci\nidentified in tests involving auditory stimuli, as this strain is known to undergo progressive\nhearing loss with age. While no rigorous examination of hearing capacity in the GTM has\nbeen conducted, inspection of time course data for individual mice in both the general\n\nMol Psychiatry."
+                }
+            ],
+            "1d3f76c8-87f6-402c-a488-4f6266bb7c9c": [
+                {
+                    "document_id": "1d3f76c8-87f6-402c-a488-4f6266bb7c9c",
+                    "text": "Particularly\nstriking is the difference in their locomotor response:\nthe C57BL/6J strain shows a marked locomotor activation following an acute opiate administration,\nwhich is virtually absent in DBA/2 mice [6, 25, 29]. After chronic morphine treatment, either tolerance or\nsensitization of the locomotor response was evidenced in C57BL/6J mice, depending on the treatment paradigm, whereas no altered responses were\nobserved in the DBA/2J strain [1, 22, 29, 31]. Other\ninter-strain differences in reactions to opioids have\nalso been reported, including a greater sensitivity to\nopioid reward and stronger withdrawal symptoms in\nthe C57BL/6J strain [2, 6, 17, 30, 35]."
+                }
+            ],
+            "27e062d0-d5ed-4ee9-8783-f22882284865": [
+                {
+                    "document_id": "27e062d0-d5ed-4ee9-8783-f22882284865",
+                    "text": "Although\nno differences in attentional performance were detected\nbetween C57BL/6J and DBA/2J, in line with previous reports\nin the 5-CSRTT and five-choice CPT (Loos et al . 2010;\nYoung et al . 2009), we observed significant differences\namong BXD recombinant inbred strains that transgressed\nbeyond the phenotypes of the founders. This suggested the\ncontribution of multiple genetic loci to these phenotypes,\nof which we detected a significant one on chromosome 16\nfor response variability."
+                }
+            ],
+            "2a92d7b5-946c-4a22-a4b9-26e950b0f757": [
+                {
+                    "document_id": "2a92d7b5-946c-4a22-a4b9-26e950b0f757",
+                    "text": "Given the large differences that we found\npreviously (Crusio 2013) between C57BL/6 and DBA/2, this is\nunexpected. One possible explanation for the lower than expected\nperformance of the C57BL/6 and (at least some) BXD strains\nlies in the housing conditions. Our animal facility was built to\nhouse about 500 cages in one large breeding room. However,\nthe cage-washing installation (and the available personnel)\ncould not handle that many cages at a time. As a result,\nevery day one or two racks of cages were changed. C57BL/6\nmice are sensitive to such disruptions and, indeed, breeding\nresults were only mediocre."
+                }
+            ],
+            "581f83bc-3521-4cb3-ad3c-d905a90ecc29": [
+                {
+                    "document_id": "581f83bc-3521-4cb3-ad3c-d905a90ecc29",
+                    "text": "C57BL/6 and DBA/2 mice is not yet fully understood but\ninvolves multiple genetic differences between the two mouse\nlineages, affecting several pathways and processes (1). Certain\ninfluenza viruses grow to higher titers in DBA/2 mice (A/Hong\nKong/213/2003 [H5N1] or A/Memphis/33/2008 [H1N1]) (data\nnot shown) while others do not (H7N3 and H10N5) (this\nstudy). Irrespective of the difference in viral loads, DBA/2 mice\nrespond more vigorously, producing larger quantities of certain proinflammatory molecules like TNF-␣, which was shown\nto correlate with increased morbidity and mortality in humans\n(5)."
+                }
+            ],
+            "5e5b18da-984c-415e-b2ce-e33b3c44b731": [
+                {
+                    "document_id": "5e5b18da-984c-415e-b2ce-e33b3c44b731",
+                    "text": "Additionally, in this protocol the strains DBA/2J, A/J, NOD/ShiLt/J,\nC57BL/10J, SM/J, and C57BR/cdJ are AA sensitive; the strains\nCAST/EiJ and BTBR T⫹ tf/J are resistant; and the strains\nNZW/LacJ, KK,HIJ, and SWR/J have intermediate resistance to\nAA-induced acute nephrotoxicity (supplementary data; all supplementary material for this article is available online at the\njournal web site.). For this QTL study, C57BL/6J and DBA/2J mice were used\nas resistant and sensitive strains, respectively. Each strain has\na complete genomic sequence available, and the genetic basis\nof differences in their ability to respond to xenobiotics is\nextensively studied (reviewed in Ref. 8)."
+                }
+            ],
+            "66baf01d-e081-4034-b7ec-03592eac90a7": [
+                {
+                    "document_id": "66baf01d-e081-4034-b7ec-03592eac90a7",
+                    "text": "The C57BL/6J X DBA/2J (BXD) recombinant inbred (RI)\nmouse strains, which are unique mosaic of alleles derived from\nthe parental C57BL/6J (B6) and DBA/2J (D2) strains have been\nconstructed as a high precision genetic reference population\nfor systems genetics in unraveling the genetic architecture\nof polygenic traits (Ashbrook et al. , 2019). The BXD family\nconsists of more than 150 BXD fully inbred strains that\nsegregate for ∼6 million genetic variants and thus can be\nused as an informative murine genetic reference panel."
+                }
+            ],
+            "810a8c3f-5ec5-4ce8-9ad1-149ce98a573d": [
+                {
+                    "document_id": "810a8c3f-5ec5-4ce8-9ad1-149ce98a573d",
+                    "text": "Because\nwe have now shown that the parental strains C57BL/6J\nand DBA/2J markedly differ in both quantitative measures\nof cortex area size [6] and shape, this assures variation in\nthe derivative BXD lines, and provides an empirical basis\nfor using the BXD panel to study cortical development. Conclusion\nC57BL/6J and DBA/2J have markedly different cortical\narea maps, in both size and shape. These differences suggest polymorphism in genetic factors underlying cortical\nspecification, even between common isogenic strains. Comparing cortical phenotypes between normally varying inbred mice or between genetically modified mice can\nidentify genetic contributions to cortical specification."
+                }
+            ],
+            "8df298ea-4052-4a4a-bcd3-2e36818844f4": [
+                {
+                    "document_id": "8df298ea-4052-4a4a-bcd3-2e36818844f4",
+                    "text": "The\nC57BL/6 mice were more accurate than DBA/2 mice at the\nshorter SD where the task demands were greater, and they also\nmade anticipatory (impulsive) responses at a lower rate. In contrast, the DBA/2 mice made fewer omission errors than the\nC57BL/6 but this effect was not seen until the final stages of\nthe experimental procedures. These findings are in agreement\nwith those of Greco et al. [18]. Although they used different breeders as well as different test chambers, training protocols and reinforcers, the results were similar: DBA/2 males\nwere less accurate and made more anticipatory responses than\nC57BL/6 males."
+                },
+                {
+                    "document_id": "8df298ea-4052-4a4a-bcd3-2e36818844f4",
+                    "text": "DBA/2 mice perform poorly in other\nspatial tasks as well as in the 5-CSRTT (see Section 1) but\nthis is by no means true for paradigms that are less spatially\ndemanding. For instance, in the four-arm baited and cued versions of the radial maze, as well as in auditory fear conditioning,\nC57BL/6 and DBA/2 do not differ [1,30]; DBA/2 mice even\nperform better than C57BL/6 with regard to two-way active\navoidance learning [37]."
+                },
+                {
+                    "document_id": "8df298ea-4052-4a4a-bcd3-2e36818844f4",
+                    "text": "While the factorial structure\nof C57BL/6 mice remained the same as under low attentional\ndemands (two factors), there was only one factor for DBA2\nmice. This factor was characterised by high positive loadings\n(>0.78) from the percent of correct responses and omission\nerrors, and a high negative loading (0.87) from anticipatory\nresponses. 4. Discussion\nThe results indicated that both C57BL/6 and DBA/2 mice\nwere able to learn the complex 5-CSRTT task but there were\nconsiderable quantitative differences in their performance."
+                },
+                {
+                    "document_id": "8df298ea-4052-4a4a-bcd3-2e36818844f4",
+                    "text": "It can be seen that at all SD, accuracy was\ngreater for C57BL/6 than for DBA/2 mice. The clearest difference was at 1 s SD where C57BL/6 mice were responding at\na mean accuracy of 80% compared with the DBA/2 group for\nwhich the mean was 59% (Fig. 1(A)). With a SD of 5 s there was\nno significant main effect for group (F1,28 = 3.13), whereas at 2\nand 1 s SD significant group effects were achieved (F1,28 = 5.44\nand 25.1; P < 0.05 and 0.001, respectively)."
+                }
+            ],
+            "a67372ac-02b7-41c4-bb55-5152444c5479": [
+                {
+                    "document_id": "a67372ac-02b7-41c4-bb55-5152444c5479",
+                    "text": "In marked contrast, the C57BL/6J strain\nwas found to have the highest level of oral morphine consumption [6]. However, sensitivity to the reinforcing\neffects of morphine in conditioned place preference and\nintravenous self-administration paradigms was higher in\nDBA mice than in C57BL [10]. The two frequently used\nlaboratory strains of mice C57BL/6J and DBA/2J show\nremarkable differences in analgesic response to morphine. Moreover, several studies have reported profound\ndifferences in morphine induced locomotor activity\nbetween the sensitive C57BL/6 and insensitive DBA/2\nmice [3,7]."
+                }
+            ],
+            "b73879de-43a6-48b0-ad69-98afadbfb997": [
+                {
+                    "document_id": "b73879de-43a6-48b0-ad69-98afadbfb997",
+                    "text": ", increased exploration of the open\nareas) in both tests. One explanation is that DBA/2J is “susceptible”\nto this stressor, whereas C57BL/6J is “resilient.” However, a more\ncircumscribed but potentially more accurate interpretation is that\nboth strains react strongly to this particular stress regime, but\ndiffer in the manner in which the response manifests behaviorally. Thus, DBA/2J may develop a classic “passive” anxiety-like\nsuppression of approach behavior, whereas C57BL/6J may exhibit more of an “active” response to stress. This could reflect an\nincreased panic-like escape drive or manic-like reaction to stress\nin C57BL/6J, rather than a decrease in anxiety-like behavior."
+                }
+            ],
+            "d608e1a6-2bf1-4ad6-993d-453a328896a0": [
+                {
+                    "document_id": "d608e1a6-2bf1-4ad6-993d-453a328896a0",
+                    "text": "Differences in radiation sensitivity between the BXD parental strains were first described\nby Roderick more than 45 years ago, with DBA/2J succumbing more quickly than\nC57BL/6J to a lethal dose of radiation (26). At more modest doses, C57BL/6J mice\nwere shown to be more resistant to radiation-induced genomic instability than DBA/2J\n(38, 84, 85)."
+                }
+            ],
+            "dbe5a781-3561-48cb-9f63-cfb4f3246434": [
+                {
+                    "document_id": "dbe5a781-3561-48cb-9f63-cfb4f3246434",
+                    "text": "Genetic differences between C57 and DBA mice have been shown to translate into a broad spectrum\nof CNS related functional and molecular correlates, for example, differences in activity, impulsive\naction, hippocampal related memory and learning tasks, post- and pre-synaptic protein expression,\nand synaptic transmission and plasticity [27–40]. Through genetic linkage analyses, the genetic and\nphenotypic differences in the BXD panel of RI strains have resulted in identification of genes and loci\ninvolved in complex CNS functions, such as impulsivity [41], reversal learning [42], attention [43],\nneuronal oscillations [44], hearing loss [45], and fear and spatial learning [39,40]."
+                }
+            ],
+            "f4e26cf0-d214-41bf-b392-9c63a903b0b8": [
+                {
+                    "document_id": "f4e26cf0-d214-41bf-b392-9c63a903b0b8",
+                    "text": "For example, the\nC57BL/6J (B6) and DBA2/J (D2)\ninbred mice frequently are used in\nalcohol research because they clearly\ndiffer in various responses to alcohol,\nincluding development of functional\ntolerance (Grieve and Littleton 1979),\nlocomotor activation (Phillips et al. 1998), and sensitivity to withdrawal\nsymptoms (Metten and Crabbe 1994). Because the environmental conditions\nin these experiments can be controlled,\nany differences observed between the\nmouse strains in these phenotypes most\nlikely can be attributed to genetic differences."
+                }
+            ],
+            "f6abed2a-3182-46be-aae6-97d99f08e73e": [
+                {
+                    "document_id": "f6abed2a-3182-46be-aae6-97d99f08e73e",
+                    "text": "For example, when subjected to HFD, DBA/2J had 12.5% more body fat compared\nto C57BL/6J (P < 0.0001, Fig 1A). Additionally, the F1 offspring generated by DBA/2J dams\n(DBA/2J x C57BL/6J) had 10.6% more body fat (P < 0.001) compared to the F1 from C57BL/\n2J dams (C57BL/6J x DBA/2J). While the source of these latter effects appears to be maternal,\nfurther studies are needed to identify the molecular basis of these differences. In general,\ngenetic differences between strains impacted body weight variation throughout the experiment\n(P < 0.05) (Fig 1B)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "393CA44A783B1B62AE4A38BDC3BA656E",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "C57BL/6",
+            "DBA/2",
+            "accuracy",
+            "anticipatory&responses",
+            "omission&errors",
+            "genetic&differences",
+            "cortical&area",
+            "alcohol&research",
+            "CNS&functions",
+            "AA-induced&acute&nephrotoxicity"
+        ],
+        "metadata": [
+            {
+                "object": "A 2.8-kb cDNA encoding an 80-kDa melanoma Ag defined by a syngeneic anti-B16 melanoma mAb able to block anti-melanoma cytotoxic T cell responses. Mela transfectants are brightly stained with the antibody. Northern blot showed that this transcript was detected in mouse melanoma cells of C57BL/6 and DBA/2 origin, C1300 A/J neuroblastoma, L cell C3H and EL-4 T lymphoma C57BL/6, but not in other tumors, such as S913 fibrosarcoma C57BL/10, NIH3T3, 70 Z/3 pre-B lymphoma, and P3U1 plasmacytoma.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab89"
+            },
+            {
+                "object": "findings indicate that hippocampal pCREB is closely tied to this form of associative conditioning only in C57BL/6 mice and that different neural substrates may support trace conditioning in C57BL/6 and DBA/2 strains",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab289786"
+            },
+            {
+                "object": "KLK6 protein from 129 mice showed reduced SDS-PAGE mobility compared with that from C57BL/6 mice; recombinant KLK6 protein from 129 mice had a higher optimum pH and >15 times higher hydrolytic enzymatic activity for several substrates than that from C57BL/6 mice. These results suggest that KLKs may contribute to the genetic basis of the differences between mouse strains.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab439223"
+            },
+            {
+                "object": "genetic differences in the VDR gene may be involved in the development of AITD and the activity of GD, whereas the genetic differences in the GC and CYP2R1 genes may be involved with the intractability of GD.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab316964"
+            },
+            {
+                "object": "Using MDR and RF, the overall best classifier of lung cancer status were SNPs rs1799732 DRD2, rs5744256 IL-18, rs2306022 ITGA11 with training accuracy of 0.6592 and a testing accuracy of 0.6572 and a cross-validation consistency of 10/10 with permutation testing P<0.0001",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab989251"
+            },
+            {
+                "object": "studied time course of TLR9 and BD-2 gene expression by corneal epithelial cells in herpetic keratitis in C57Bl/6 and BALB/c mice; reduced TLR9 gene expression in the cornea of C57Bl/6 mice was associated with high sensitivity to infection caused by HSV-1",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab733376"
+            },
+            {
+                "object": "S100P achieved 96.4% sensitivity, 93.3% specificity, 98.2% PPV, 87.5% NPV and 95.8% total accuracy, while IMP3 achieved 91.2% sensitivity, 86.7% specificity, 96.2% PPV, 72.2% NPV and 90.3% total accuracy for pancreatic ductal adenocarcinoma PDA.Both markers were sensitive and specific for diagnosis of PDA.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab690502"
+            },
+            {
+                "object": "The expression intensity for the aldehyde dehydrogenase 7A1 ALDH7A1 mRNA and protein was significantly higher in C57BL/6 mice than DBA/2 mice.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab807658"
+            },
+            {
+                "object": "The capability to express IL-4 and other Th2 cytokines is greater in DBA/2 splenocytes and CD4+ T cells than in C57BL/6 cells, a difference that correlates with altered IL-4 mRNA stability.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab788438"
+            },
+            {
+                "object": "Comparison of behavioral studies in wild-type C57BL/6 mice and hemizygous Drd2 mice backcrossed into C57BL/6 background finds open-field locomotion, conditioned place preference, and avoidance learning are indistinguishable in the transgenic lines.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab151446"
+            }
+        ],
+        "question": "How are C57BL/6 and DBA/2 different?",
+        "subquestions": null,
+        "task_id": "393CA44A783B1B62AE4A38BDC3BA656E",
+        "usage": {
+            "chatgpt": 5792,
+            "gpt-4": 3986,
+            "gpt-4-turbo-preview": 3013
+        },
+        "user_id": 2
+    },
+    "document_id": "393CA44A783B1B62AE4A38BDC3BA656E",
+    "task_id": "393CA44A783B1B62AE4A38BDC3BA656E"
+}

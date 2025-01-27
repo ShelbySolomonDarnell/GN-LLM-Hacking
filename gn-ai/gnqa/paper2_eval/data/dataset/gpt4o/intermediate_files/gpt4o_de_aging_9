@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2021 - Epigenetics of Aging and Aging-Associated Diseases.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2021 - Epigenetics of Aging and Aging-Associated Diseases.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf"
+  ],
+  "extraction_id": [
+    "fcc88af4-1949-59fe-8111-200ec0dcb7d6",
+    "c072d600-8450-5842-ade1-aefd03854312",
+    "8db25d5e-25bd-5873-a53d-3815badbfd32",
+    "267468ed-0f9f-5a55-9334-9630792f300d",
+    "625c559f-9ef6-5bef-8b4c-c57a72d421ed",
+    "7d0ed573-4d0a-5de2-8be2-1ec0fb3a5800",
+    "1caf6ac0-0409-5b28-8fcf-bdffff2738a8",
+    "5f85264a-a5cd-5ef6-a4c9-900dcb7b07ad",
+    "e2bc9b8e-2349-509b-a148-fbd86f0455f4",
+    "267468ed-0f9f-5a55-9334-9630792f300d"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "70945353-4808-539a-80f9-5632c27913e5",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "70945353-4808-539a-80f9-5632c27913e5",
+    "62b635c3-040e-512a-b016-6ef295308a1e"
+  ],
+  "id": [
+    "chatcmpl-AIHXK8F2Ohi1RX10guI90pglYXyhM",
+    "9e4d48fb-e942-52a6-8e7e-57313d567a72",
+    "d7a12958-6d0b-546f-b0aa-152b6812e2fd",
+    "093e7604-5108-5fda-850e-007817090a9a",
+    "9a06df0b-a5b6-52d8-82c1-9dda446f9132",
+    "49c65d89-ec44-5412-a5bf-d94649e4afc3",
+    "a5ffc379-24d5-5c73-8435-41ca43af6347",
+    "7387d1f6-323a-52ea-90d4-6821fea31bf9",
+    "a02244c8-44da-595f-8a61-42bae541d784",
+    "4eb34c07-921b-55bb-98eb-ff013bb2ace0",
+    "c6c119e6-362e-5ae7-a1f1-a5e75eb456ba"
+  ],
+  "contexts": [
+    "models of ageing, but it will also drastically accelerate the generation of refined ver - sions of those models or even allow the development of new research approaches in  non-model organisms. Moreover, CRISPR-based genome editing is already having  a significant impact in research aiming to understand the cellular and molecular  origins of age-related diseases, as well as developing potential treatments against 11 Applications ofCRISPR-Cas inAgeing Research",
+    "of ageing. Finally, we will review how CRISPR-Cas has been used for creating new  models for the study of age-related diseases, as well as for manipulating disease-  associated gene pathways. S. Haston et al.",
+    "ularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9) will be beneficial in clari- fying aging-processes across species.   An improved understanding of epigenetic mechanisms affecting longevity will be  deciding crucial step towards the identification of new potential therapeutic targets. In  fact, epigenetic drugs are of particular interest to the clinic due to their reversible and  transient effect.  A limitation of manifold epigenetic studies, however, are the variations among sin-",
+    "224 high-throughput assays able to further delineate important molecular pathways  involved in inducing and maintaining cellular senescence in both physiological  ageing and age-associated diseases.  Applications ofCRISPR-Cas intheStudy ofAgeing-Related  Disease  Cardiovascular Disease One of the most notable contributions of CRISPR-Cas to ageing research is its  ability to target non-proliferating cells (contrary to HDR-directed gene targeting),",
+    "219  Applications ofCRISPR-Cas inBasic Research oftheMolecular  Causes ofAgeing  Investigating theMechanisms ofLongevity Currently there have been no studies exploring the utility of the CRISPR-Cas sys- tem on experimentally extending the lifespan of physiologically aged laboratory  animals. A main issue in this regard is that established vertebrate models already  possess relatively long lifespans that make longevity extension studies economi-",
+    "CRISPR-Cas genome- editing tools will provide feasible implementation of 11 Applications ofCRISPR-Cas inAgeing Research",
+    "the basis for future investigations into the spatio-temporal dynamics of the telom- erase protein invivo.11 Applications ofCRISPR-Cas inAgeing Research",
+    "induced by telomere erosion. Protein Cell. 2019;10:3705.11 Applications ofCRISPR-Cas inAgeing Research",
+    "using bulk mRNA or even analyzing single cells (scRNA-seq). In addition, advances in molecular biology and cell culture approaches (for instance Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9) will be benecial in clarifying aging-processes across species. An improved understanding of epigenetic mechanisms affecting longevity will be deciding crucial step towards the identication of new potential therapeutic targets. In",
+    "In recent years, CRISPR-Cas technologies have significantly contributed to studies  addressing the molecular pathogenesis of age-related neurodegenerative conditions  such as Alzheimers disease (AD) and Parkinsons disease (PD). Currently, it has  mostly been utilised for developing new or improved tools in which to study the  molecular mechanisms underlying these diseases, such as in patient-derived cell  lines carrying pathogenic mutations."
+  ],
+  "answer": "Recent advancements in CRISPR/Cas9 technology have opened new avenues for studying and potentially reversing aging in several ways:  1. **Development of New Research Models**: CRISPR/Cas9 is significantly impacting research by enabling the creation of new models for studying age-related diseases. This includes manipulating disease-associated gene pathways, which can lead to a better understanding of the cellular and molecular origins of these diseases [1], [2].  2. **Understanding Aging Processes Across Species**: The technology is beneficial in clarifying aging processes across different species. This improved understanding, particularly of epigenetic mechanisms affecting longevity, is crucial for identifying new potential therapeutic targets [3], [9].  3. **Targeting Non-Proliferating Cells**: One notable contribution of CRISPR/Cas9 to aging research is its ability to target non-proliferating cells. This capability is important for studying cellular senescence, which is a key factor in both physiological aging and age-associated diseases [4].  4. **Molecular Pathogenesis of Neurodegenerative Diseases**: CRISPR/Cas technologies have significantly contributed to studies on the molecular pathogenesis of age-related neurodegenerative conditions such as Alzheimer's and Parkinson's diseases. This includes developing new tools to study the molecular mechanisms underlying these diseases using patient-derived cell lines with pathogenic mutations [10].  These advancements suggest that CRISPR/Cas9 technology not only aids in understanding the mechanisms of aging but also holds potential for developing interventions that could reverse or mitigate age-related conditions.",
+  "question": "How do recent advancements in CRISPR/Cas9 technology open new avenues for studying and potentially reversing aging?"
+}

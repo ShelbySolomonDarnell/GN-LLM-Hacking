@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Human Ageing Genomic Resources Integrated.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "1999 - Molecular Biology of Aging.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2013 - Gene expression changes with age in skin.pdf",
+    "2011 - Clinical aspects and molecular diagnostics of skin aging.pdf",
+    "2013 - Gene expression changes with age in skin.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2007 - Characterization of a bidirectional promoter shared between two human.pdf"
+  ],
+  "extraction_id": [
+    "25e9d8a3-54ac-5412-8efb-3b56d93f363f",
+    "68b12e10-d643-570a-aa63-eda62de81928",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+    "66c6e911-2b6e-5d79-9e13-9f0e370c6fa6",
+    "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+    "18e9f96b-9af8-59bf-9323-084df9a4f9b6",
+    "39cc0d86-f175-5fe3-990f-8471c7395ba4",
+    "dfb687b2-f1ff-5e22-8a67-4a1db9ebeb3c",
+    "68b12e10-d643-570a-aa63-eda62de81928",
+    "a5581fce-8af9-5131-a94b-8fce7fbf9557"
+  ],
+  "document_id": [
+    "5f554cc7-c94d-5fbd-9567-528499663ed6",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "6f122d3a-d8ca-598f-8767-c059a941cef3",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "5c121bbb-57b8-51cc-8461-effa1bfd87b9",
+    "e32f8f2c-d3ad-5dae-a393-9bd87c370ebe",
+    "5c121bbb-57b8-51cc-8461-effa1bfd87b9",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "e9a81a0d-52b4-5ced-be05-130eed317085"
+  ],
+  "id": [
+    "chatcmpl-AIFgbQ1pPISWJITI2YHN6poeJtTyV",
+    "0ae63c75-df5f-59b0-9561-30d5115f0f74",
+    "c258bd44-b5b3-5eb5-9c72-60b365f18f81",
+    "4d6876c5-9226-587c-8d3e-d4957ee42dba",
+    "0671ed95-2909-54ac-baea-b156ee0ea8f8",
+    "650300e1-898c-56e2-9358-0bb6625b0073",
+    "cc78a209-081f-5e0c-877a-36b85d5105a6",
+    "a3859151-a94e-5085-8e7a-3c1d50716319",
+    "d53018ae-0881-5ef4-9c49-48623e8aa342",
+    "a4773f1a-f2d3-5950-a81e-d22357e97a0f",
+    "91530253-7015-5b7a-bb7b-506ddeb3c3f8"
+  ],
+  "contexts": [
+    "potentially associated with human ageing. For eachgene, a description compiled from the studies that linkthe gene to ageing is provided. It should be noted thatour focus is on genes that might affect the ageingprocess, rather than individual age-related pathologies; genes affecting multiple, even if not all, age-related",
+    "showing that single genes can regulate aging in modelorganisms demonstrate that aging can be geneticallymanipulated (Finch and Ruvkun, 2001; Kenyon, 2010).Hundreds of genes that modulate longevity have nowbeen identified in model organisms (de Magalha es et al.,2009a). In some cases (e.g., in worms), mutations insingle genes can extend lifespan by almost 10-fold (Ayy-adevara et al., 2008). Nonetheless, aging is a complexprocess that derives not from single genes but from theinteractions of multiple genes",
+    "genes (http://genomics.senescence.info/genes/), more than700 genes have been identified that regulate lifespan inmodel organisms (de Magalha es et al., 2009a). Many ofthese genes and their associated pathwayssuch as theinsulin/IGF1/GH pathwayhave been shown to affect lon-gevity across different model organisms (Kenyon, 2010).Therefore, at least some mechanisms of aging are evolu-tionarily conserved and may have potential therapeuticapplications (Baur et al., 2006). For example, evidencesuggests the use of",
+    "key genes and pathways important in aging; geneticstudies of heritable diseases that cause the appearanceof premature aging in affected people; physiological ex-Introductionperiments that relate the pace of aging to caloric intake;Is aging the final act in the script of developmental biol-and advances in human genetics, as well as cell andogy? The characteristic changes that are part and parcelmolecular biology leading to an understanding of theof aging appear similar to developmentally regulatedbasis of",
+    "shown that genes associated with aging and/or longevity inmodel organisms are evolutionary conserved in terms of havingmore homologues than predicted by chance (Budovsky   et     al  .,2007, 2008) and exhibiting slower molecular evolution rates (de Magalhes & Church, 2007). Therefore, it is now clear that atleast some genes identified in model organisms may be relevantto human aging. To allow researchers to focus specifically on human aging,",
+    "expression of certain genes have an effect upon longevity. Although similar aging processes are likely to operateacross multiple species [30], it has been much more diffi-cult to identify longevity candidate genes in human studies[30]. A key question in human aging is to what extent asignature of aging may be detectable across tissues. Until now there has been a lack of large transcriptional profiles from the same human individuals in multiple tissues. TheMuTHER study provides ins ight into the human aging",
+    "complex.108,109Studies on models such as the yeast Sac- charomyces cerevisiae110the nematode Caenorhabditis elegans,111the fly Drosophila melanogaster,112-114the mouse Mus musculus,115and humans116show that single gene mutations can contribute to the initiation of aging andinduce premature aging syndromes. There are, however, nospecial genes that can cause aging-associated damages. Themanifestation of aging is mostly due to the failure of main-tenance and repair mechanisms. 117,118",
+    "on model organisms [3] or have been confined to specificaging-associated disorders such as progeria syndromes [4]. A study of postmortem human brain tissue from 30 individuals aged 26 to 106 years [5] showed that approxi- mately 4% of approximately 11,000 genes analyzed show a significant age-related expression change (1.5-fold or more) in individuals aged >40 years. These genes were reported to play central roles in synaptic plasticity, vesi- cular transport, and mitoch ondrial function. Another",
+    "of multiple genes with each other and withthe environment. Evidence from animal systems showsa major impact of the environment on aging, yet envi-ronmental manipulations of aging act through genesand proteins, usually by triggering signaling pathwaysand modulating gene expression. In fact, some geneshave been shown in model organisms to have varyingeffects on lifespan depending on diet (Heikkinen et al.,2009). Genes that can regulate aging in model organ-isms cannot be directly applied to humans through",
+    "[2] L. Partridge, D. Gems, Mechanisms of ageing: public or private? Nat. Rev. Genet. 3 (2002) 165 175. [3] A.M. Leroi, et al., What evidence is there for the existence of individual genes with antagonistic pleiotropic effects? Mech. Ageing Dev. 126 (2005)421429. [4] S.N. Austad, Is aging programmed? Aging Cells 3 (2004) 249 251. [5] V.D. Longo, J. Mitteldorf, V.P. Skulachev, Opinion: programmed and altruistic ageing, Nat. Rev. Genet. 6 (2005) 866 872."
+  ],
+  "answer": "Genes affect the aging process in humans through complex interactions and pathways. Research has shown that single genes can regulate aging in model organisms, indicating that aging can be genetically manipulated [2]. Hundreds of genes have been identified that modulate longevity in these organisms, and some of these genes and their associated pathways, such as the insulin/IGF1/GH pathway, have been shown to affect longevity across different species, suggesting that some mechanisms of aging are evolutionarily conserved [3].   In humans, it has been more challenging to identify specific longevity candidate genes, but studies have shown that certain genes associated with aging in model organisms are evolutionarily conserved and may be relevant to human aging [5]. Additionally, approximately 4% of genes analyzed in a study of postmortem human brain tissue showed significant age-related expression changes, indicating that these genes play central roles in processes like synaptic plasticity, vesicular transport, and mitochondrial function [8].   Overall, while aging is a complex process involving multiple genes and their interactions with the environment, genetic studies in model organisms provide insights that may be applicable to understanding human aging [9].",
+  "question": "How do genes affect the aging process in humans?"
+}

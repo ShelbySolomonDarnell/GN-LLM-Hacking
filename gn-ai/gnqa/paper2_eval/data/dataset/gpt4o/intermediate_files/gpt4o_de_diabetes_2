@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+    "2022 - Genome-wide meta-analysis and omics integration identifies novel genes associated with diabetic kidney disease.pdf",
+    "2016 - Genome-Wide Association Studies of Type 2 Diabetes.pdf",
+    "2012 - Recent Developments in the Genetic and Genomic Basis of Type 2 Diabetes.pdf",
+    "2010 - Liver and Adipose Expression Associated SNPs.pdf",
+    "2016 - Transcriptomics in type 2 diabetes Bridging the gap between genotype and phenotype.pdf",
+    "2012 - Recent Developments in the Genetic and Genomic Basis of Type 2 Diabetes.pdf",
+    "2012 - Finding Genetic Risk Factors of Gestational Diabetes.pdf",
+    "2015 - Genetic Studies on Diabetic Microvascular Complications.pdf"
+  ],
+  "extraction_id": [
+    "5f148509-8a55-5e9c-8c68-e327f519c1c9",
+    "692b342f-5d48-5046-84f9-37f1cf4275b5",
+    "d7e0e5ad-bad5-5b14-896e-45702d6605f9",
+    "a620eedf-5d5b-506f-97f5-c25dbe0493c0",
+    "1213249d-8ed3-5d13-9137-f11b87a7a78b",
+    "35ce49d5-7af3-5f24-927c-f800e8ae024d",
+    "71934c29-338d-57a2-8f45-e3e795e0ec9b",
+    "924d35c5-0ee8-53a7-9fdf-9309a27ce9ae",
+    "e7bf3f2d-8180-5a84-965c-8289f107a718",
+    "d3335459-5fec-5104-932f-f4fd7566edf7"
+  ],
+  "document_id": [
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "368e0215-393e-5bec-a87c-e976adaa3ca5",
+    "b9194555-5fdb-549e-9edb-d108132a7dd1",
+    "185aad8a-6a5b-5b18-81c4-ef251edef5e7",
+    "7d051350-d939-5183-be22-742727573a75",
+    "ebeef1bf-341d-5aa1-807b-1f23186cf2bc",
+    "98e49a13-9887-5b27-879b-0816a3da1c1d",
+    "7d051350-d939-5183-be22-742727573a75",
+    "81d6ccba-6203-5879-b206-b8711d1ff35c",
+    "1df9d9a8-0fb0-5a03-9749-9471b4b2b2f3"
+  ],
+  "id": [
+    "chatcmpl-AIHIcyJRqSPUlYLtzZ5hVN5aLL9iw",
+    "0c0634ba-c437-52d3-b3a9-caa5eda120c6",
+    "1ab64c6e-e930-597e-bc12-ed540eabcf46",
+    "46ac5572-ac56-5f29-b7bf-49a1e29d3936",
+    "6d5d4c24-5bc8-539a-9faa-8b2370f8c87a",
+    "54da57b3-e577-5c00-a7d5-6f569a41d28b",
+    "0cf52952-0d83-58ed-b402-05dd2f085841",
+    "2a91a466-c271-5368-b0a1-cf15e6478bb1",
+    "de3b49f1-9dcc-5056-8232-b76e5f985736",
+    "72622bca-2fce-5732-9c8b-2909d231d09d",
+    "5af0c2b9-9957-5c8f-b8ae-c115e365576f"
+  ],
+  "contexts": [
+    "wide association study identi es novel risk loci for type 2 diabetes. Nature (2007) 445:881 5. doi: 10.1038/nature05616 27. Scott LJ, Mohlke KL, Bonnycastle LL, Willer CJ, Li Y, Duren WL, et al. A genome-wide association study of type 2 diabetes in Finns detects multiple susceptibility variants. Science (2007) 316:1341 5. doi: 10.1126/science.1142382 28. Fuchsberger C, Flannick J, Teslovich TM, Mahajan A, Agarwala V, Gaulton KJ, et al. The genetic architecture of type 2 diabetes. Nature (2016) 536:41 7.",
+    "novel loci for type 1 diabetes. Diabetes 58:290295. DOI: https://doi.org/10.2337/db08-1022, PMID:  18840781 Huang J, Ellinghaus D, Franke A, Howie B, Li Y . 2012. 1000 Genomes- based imputation identifies novel and  refined associations for the Wellcome Trust Case Control Consortium phase 1 Data. European Journal of  Human Genetics 20:801805. DOI: https://doi.org/10.1038/ejhg.2012.3, PMID: 22293688 Hundhausen C, Roth A, Whalen E, Chen J, Schneider A, Long SA, Wei S, Rawlings R, Kinsman M, Evanko SP ,",
+    "general population, these loci show limited effect in DKD, especially in individuals with type 1 diabetes [ 6]. Genome- wide association studies (GWAS) have previously identified ahandful of genetic loci for DKD at the genome-wide signifi- cance level ( p<510 8)[711]. Recently, a meta-analysis of GWAS, including up to 19,406 individuals with type 1 diabetes from the Diabetic Nephropathy Collaborative Research",
+    "Table 2.1 Major published T2D GWAS and meta-analyses StudyEthnicity/ origin NcasesaN controlsaNovel loci identiedGWAS or meta-analysis discoveryapproach GWAS arrayReference panel forimputationT2D phenotype denition/otherspecs Diabetes Gene Discovery Group (Sladek et al. 2007 ), NatureEuropean 694 645 SLC30A8 ,HHEX /IDE GWA Illumina 300k +  Family history of T2D, AAO <45 years, BMI <30 kg/m 2 FinlandUS Investi-gation of NIDDMGenetics (FUSION)(Scott et al. 2007a ), ScienceEuropean 1161 1174 CDKN2A/2B ,",
+    "scale gene-centric meta-analysis across 39 studies identifies type 2diabetes loci. Am J Hum Genet. 2012;90(3):410 25. 13. Haiman C, Fesinmeyer M, Spencer K, Buzkova P, V oruganti V , Wan P, et al. Consistent directions ofeffect for established type 2 diabetes risk variants across populations: the Population Architectureusing Genomics and Epidemiology (PAGE) Consortium. Diabetes. 2012;61(6):1642 7.In the most complete trans-ethnic T2D GWAS",
+    "9. Sladek R, Rocheleau G, Rung J, Dina C, Shen L, et al. (2007) A genome-wide association study identifies novel risk loci for type 2 diabetes. Nature 445:881885. 10. Zeggini E, Scott LJ, Saxena R, Voight BF, Marchini JL, et al. (2008) Meta- analysis of genome-wide association data and large-scale replication identifies additional susceptibility loci for type 2 diabetes. Nat Genet 40: 638645.11. Altshuler D, Daly MJ, Lander ES (2008) Genetic mapping in human disease. Science 322: 881888.",
+    "scale ongoing efforts to localize and characterize T2D susceptibility genes using genome-wide association study (GWAS) approaches. To date, the GWAS method has achieved substantial success in localizing novel T2D susceptibility loci and loci for T2D-related glycemic traits (about 90 loci), obesity loci (~90), and loci for metabolic syndrome or its components (~50 loci), e.g. reviews: [4,20,28,29,41,47,51,64,65,67] . However, common variants identi ed by GWAS explain only about",
+    "T2D GWA meta-analysis performed by the DIAbetes Genet-ics Replication and Meta-analysis (DIAGRAM) Consortium [6]. Using genotype data from almost 150,000 individuals, predominantly of European descent, the consortium was ableto define 10 novel T2D-susceptibility loci to genome-wide significance, and to highlight several hundreds more that, whilst failing to reach the stringent criteria typically regardedas proof, are nonetheless highly likely to reflect genuine",
+    "18. Sladek R, Rocheleau G, Rung J, Dina C, Shen L, Serre D, et al.  A genome-wide association study identifies novel risk loci for type 2 diabetes. Nature 2007;445:881-885. 19. Scott LJ, Mohlke KL, Bonnycastle LL, Willer CJ, Li Y, Duren  WL, et al. A genome-wide association study of type 2 diabetes  in Finns detects multiple susceptibility variants. Science 2007;  316:1341-1345. 20. Diabetes Genetics Initiative of Broad Institute of Harvard and  MIT , Lund University, and Novartis Institutes of BioMedical",
+    "additive, dominant, and recessive) and did not adjust for mul - tiple comparisons. The third study is the largest GWAS con - ducted to date and is a meta-analysis of two GWASs, Genetics  of Kidneys in Diabetes (GoKinD) and Epidemiology of Dia - betes Interventions and Complications (EDIC) studies [24].  This study by Grassi et al. [24] involved 2,829 European sub - jects with T1DM. The most significant variant was rs476141  located in a long non-coding RNA ( LOC339529 ) in chromo -"
+  ],
+  "answer": "The latest meta-analyses of large-scale genome-wide association studies (GWAS) have identified several novel loci associated with diabetes. Specifically, the DIAbetes Genetics Replication and Meta-analysis (DIAGRAM) Consortium, using genotype data from almost 150,000 individuals predominantly of European descent, identified 10 novel type 2 diabetes (T2D) susceptibility loci that reached genome-wide significance [8].",
+  "question": "What novel diabetic loci have been identified through the latest meta-analyses of large-scale genome-wide association studies (GWAS)?"
+}

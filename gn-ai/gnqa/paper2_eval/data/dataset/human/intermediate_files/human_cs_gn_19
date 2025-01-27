@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Precision and Personalized Medicine How Genomic.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2015 -Pandey- Functional Analysis of Genomic Variation and Impact on Molecular.pdf",
+    "2015 - Functional Analysis of Genomic Variation and Impact on Molecular and Higher Order Phenotypes.pdf",
+    "2017 - Infection control in the new age of genomic epidemiology.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2008 - Gene Expression Profiling.pdf"
+  ],
+  "extraction_id": [
+    "de09f30d-e9ba-5379-8c7a-85b2cd2ed6c8",
+    "5da5fc5d-1fe6-58f0-9141-72b9b2996fff",
+    "f4e989e5-c3d0-5d5c-b8c3-95894a14630b",
+    "fa426831-7c04-56c1-a191-1ebbc35342ed",
+    "04f06fb6-b2ff-57d4-bac0-de5cf4782ff3",
+    "4cdf13c0-c505-5ff9-9a6e-b10e5d1c8819",
+    "4cdf13c0-c505-5ff9-9a6e-b10e5d1c8819",
+    "5da5fc5d-1fe6-58f0-9141-72b9b2996fff",
+    "cad1dcca-621d-5003-ba3a-81950819bc52",
+    "c14d1c74-a14a-5037-8d3f-f32a60faa9a5"
+  ],
+  "document_id": [
+    "cd11028a-933b-52a0-9534-c173323056ef",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "93381e23-494b-5bc2-9d09-ef315506601f",
+    "263d327b-f5db-54e4-a215-b3f8a51cd7d6",
+    "8f028916-b990-5e95-b2a6-e69f451cc291",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "59f3b969-089b-5258-93ad-892dbc9ffa9c"
+  ],
+  "id": [
+    "chatcmpl-ADZLI3pesAhKfrcor9tw6wwv6rY5l",
+    "8477a774-dddb-5541-b8d7-d51a7e56b0af",
+    "13a6b6f9-4a9a-5eb9-ac79-d986d9e613f0",
+    "d1158643-3625-5855-a03d-eec4ac96eb4d",
+    "cdf2b80f-1509-50a2-9cb2-a36dd6f3f2cc",
+    "f8ae01ae-cea8-5b8b-95c0-7147055de596",
+    "d2540614-9397-5e3e-8b5f-ad328ca973b2",
+    "199e1929-dc7c-58d4-8c8d-1c931e658e9c",
+    "1e324977-2ca5-5062-8a09-7659d516e899",
+    "98010acc-fd11-5d33-bced-626ef29f2896",
+    "3e782f01-a06e-51b6-ac8a-0e0a56939d08"
+  ],
+  "contexts": [
+    "36. Sequencing, H.G. Finishing the euchromatic sequence of the human genome. Nature 2004 ,431, 931945. 37. Heather, J.M.; Chain, B. The sequence of sequencers: The history of sequencing DNA. Genomics 2016 ,107, 18. [CrossRef] 38. Rothberg, J.M.; Leamon, J.H. The development and impact of 454 sequencing. Nat. Biotechnol. 2008 ,26, 11171124. [CrossRef] [PubMed] 39. Shendure, J.; Ji, H. Next-generation DNA sequencing. Nat. Biotechnol. 2008 ,26, 11351145. [CrossRef] [PubMed]",
+    "22. Karow, J. Qiagen launches GeneReader NGS System  atAMP; presents performance evaluation by broad.  GenomeWeb  [online], https:// www.genomeweb.com/ molecular-diagnostics/qiagen-launches-genereader- ngs-system-amp-presents-performance-evaluation   (4Nov 2015). 23. Smith,D.R. & McKernan,K. Methods of producing  and sequencing modified polynucleotides . US Patent  8058030 (2011). 24. Margulies,M. etal.  Genome sequencing in  microfabricated high-density picolitre reactors. Nature  437, 376380 (2005).",
+    "11 BIOINFORMATIC CHALLENGES FOR GENOMIC MEDICINE      Processing and managing of high-throughput sequence data     High throughput sequencing offers severa l advantages relative to array-based  genotyping or expression assays. First, unlike genotyping arrays, whole genome sequencing is not limited to interrogating onl y known sequence variants. Similarly, RNA- sequencing (RNA-seq) enables expression quanti fication of novel transcripts that are not",
+    "11 BIOINFORMATIC CHALLENGES FOR GENOMIC MEDICINE      Processing and managing of high-throughput sequence data     High throughput sequencing offers severa l advantages relative to array-based  genotyping or expression assays. First, unlike genotyping arrays, whole genome sequencing is not limited to interrogating onl y known sequence variants. Similarly, RNA- sequencing (RNA-seq) enables expression quanti fication of novel transcripts that are not",
+    "High-throughput bacterial genome sequencing: an embarrassment of choice, aworldof opportunity.NatRevMicrobiol2012;10:599-606. 11.CroucherNJ,DidelotX.Theapplicationof genomicstotracingbacterialpathogen transmission.CurrOpinMicrobiol2015;23:62-7. 12.ShendureJ,JiH.Next-generationDNAsequencing.NatBiotechnol2008;26:1135- 45. 13.MillerJR,KorenS,SuttonG.Assemblyalgorithmsfornext-generationsequencing data.Genomics2010;95:315-27. 14.OlsonND,LundSP,ColmanRE,FosterJT,SahlJW,SchuppJM,etal.Bestpractices",
+    "sequencing. Genome Res. 20, 11651173 (2010). 64. English,A.C. etal.  Assessing structural variation in a  personal genome-towards a human reference diploid  genome. BMC Genomics 16, 286 (2015). 65. Carneiro,M.O. etal.  Pacific Biosciences sequencing  technology for genotyping and variation discovery in  human data. BMC Genomics 13, 375 (2012). 66. Quail,M.A. etal.  A tale of three next generation  sequencing platforms: comparison of Ion T orrent,  Pacific Biosciences and Illumina MiSeq sequencers.",
+    "Nat. Biotechnol. 30, 10331036 (2012). 111. Chrystoja,C.C. & Diamandis,E.P . Whole genome  sequencing as a diagnostic test: challenges and  opportunities. Clin. Chem. 60, 724733 (2014). 112. McGuire,A.L. etal.  Point-counterpoint. Ethics and  genomic incidental findings. Science 340, 10471048  (2013). 113. Bowers,J. etal.  Virtual terminator nucleotides for  next-generation DNA sequencing. Nat. Methods 6,  593595 (2009). 114. Heger,M. Chinas Direct Genomics unveils new",
+    "sequencing. Bioinformatics 31, 20402042 (2015). 46. Qiagen.  Oncology insights enabled by knowledge base- guided panel design and the seamless workflow of the  GeneReader NGS system  Press Release. Qiagen   [online], http://www.genereaderngs.com/PROM-9192- 001_1100403_WP_GeneReader_NGS_0116_NA.pdf   (2016). 47. Forgetta,V. etal.  Sequencing of the Dutch elm disease  fungus genome using the Roche/454 GS-FLX Titanium  System in a comparison of multiple genomics core",
+    "FURTHER INFORMATION 10X Genomics: http://www.10xgenomics.com 454 Sequencing: http://www.454.com Advances in Genome Biology and Technology (AGBT):  http://www.agbt.org BGISEQ500: http://seq500.com/en/portal/Sequencer.shtml Illumina: http://www.illumina.com Ion Torrent: https://www.thermofisher.com/us/en/home/ brands/ion-torrent.html Oxford Nanopore Technologies: https://www.nanoporetech. com Pacific Biosciences: http://www.pacb.com Personal Genome Project: http://www.personalgenomes.org",
+    "DNA), and provide the means to link sequences containing applications. First,  base- callers like Phred (4,5) extract raw sequences from raw data. There are  also contig assemblers like Phrap (University of Washington, http://bozeman. mbt.washington.edu/phrap.docs/phrap.html ) or CAP3 (6) that assemble frag- ments to contigs and packages like consed (7) or GAP4 (8), which are used to  finish sequencing projects. These programs are not explained in detail here."
+  ],
+  "answer": "### How-to Guide for Genetic Sequencing  Genetic sequencing is a powerful tool used to determine the order of nucleotides in DNA. This guide will walk you through the basic steps involved in genetic sequencing, referencing specific sources for more detailed information.  #### Step 1: Sample Preparation 1. **DNA Extraction**: Begin by extracting DNA from your sample. This can be done using various commercial kits or standard laboratory protocols. 2. **DNA Quantification and Quality Check**: Measure the concentration and purity of the extracted DNA using spectrophotometry or fluorometry. Ensure the DNA is of high quality and free from contaminants.  #### Step 2: Library Preparation 1. **Fragmentation**: Fragment the DNA into smaller pieces. This can be achieved through mechanical shearing, enzymatic digestion, or sonication. 2. **End Repair and A-tailing**: Repair the fragmented DNA ends and add an adenine (A) base to the 3' ends to prepare them for adapter ligation. 3. **Adapter Ligation**: Ligate sequencing adapters to the ends of the DNA fragments. These adapters are necessary for the fragments to bind to the sequencing platform.  #### Step 3: Amplification and Enrichment 1. **PCR Amplification**: Amplify the adapter-ligated DNA fragments using polymerase chain reaction (PCR). This step increases the quantity of DNA available for sequencing. 2. **Size Selection**: Select DNA fragments of the desired size range using gel electrophoresis or magnetic beads.  #### Step 4: Sequencing 1. **Loading the Sequencer**: Load the prepared DNA library onto the sequencing platform. Popular platforms include Illumina, Ion Torrent, and Pacific Biosciences [6], [9]. 2. **Sequencing Run**: Initiate the sequencing run. The platform will read the nucleotide sequences of the DNA fragments and generate raw sequence data [1], [5].  #### Step 5: Data Processing 1. **Base Calling**: Convert raw data into nucleotide sequences using base-calling software such as Phred [10]. 2. **Sequence Assembly**: Assemble the short DNA sequences into longer contiguous sequences (contigs) using software like Phrap or CAP3 [10]. 3. **Quality Control**: Assess the quality of the assembled sequences and remove any errors or low-quality reads.  #### Step 6: Data Analysis 1. **Variant Calling**: Identify genetic variants such as single nucleotide polymorphisms (SNPs) and insertions/deletions (indels) using variant calling software. 2. **Annotation**: Annotate the identified variants to understand their potential impact on gene function and association with diseases.  #### Step 7: Interpretation and Reporting 1. **Bioinformatics Analysis**: Use bioinformatics tools to interpret the sequencing data in the context of the research question or clinical application [3], [4]. 2. **Report Generation**: Generate a comprehensive report summarizing the findings, including identified variants and their potential implications.  #### Additional Resources - For a detailed history and development of sequencing technologies, refer to Heather and Chain's review [1]. - For information on specific sequencing platforms and their comparisons, see Quail et al. [6]. - For best practices in sequencing and data management, consult Olson et al. [5].  By following these steps, you can successfully perform genetic sequencing and analyze the resulting data to gain valuable insights into the genetic makeup of your samples.",
+  "question": "Create a how-to guide for genetic sequencing."
+}

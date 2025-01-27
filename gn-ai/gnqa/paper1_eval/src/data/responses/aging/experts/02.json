@@ -1,0 +1,398 @@
+{
+    "created_at": "2024-05-31T13:01:42.014610Z",
+    "data": {
+        "amplify": false,
+        "answer": "Lifespan is partially determined by genetics, with studies estimating that genetics contribute to about 25-30% of the variation in human lifespan. However, it is also significantly influenced by non-heritable factors such as environment and lifestyle.",
+        "context": {
+            "022c37a3-3ea8-4bb7-9997-98ed87635770": [
+                {
+                    "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                    "text": "\n\nOur results show that longevity is partly determined by the predisposition to common diseases and, to an even greater extent, by modifiable risk factors.The genetic architecture of lifespan appears complex and diverse and there appears to be no single genetic elixir of long life."
+                },
+                {
+                    "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                    "text": "\n\nL ongevity is of interest to us all, and philosophers have long speculated on the extent to which it is pre-determined by fate.Here we focus on a narrower question-the extent and nature of its genetic basis and how this inter-relates with that of health and disease traits.In what follows, we shall use longevity as an umbrella term.We shall also more specifically refer to lifespan (the duration of life) and long-livedness (living to extreme old age, usually defined by a threshold, such as 90 years).Up to 25% of the variability in human lifespan has been estimated to be genetic 1 , but genetic variation at only three loci (near APOE, FOXO3A and CHRNA3/5) [2][3][4][5] have so far been demonstrated to be robustly associated with lifespan."
+                }
+            ],
+            "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7": [
+                {
+                    "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                    "text": "GENETICS OF LIFE SPAN IN HUMANS\n\nMost studies of human twins agree that the heritability of life span is less than 50% (45,68).Of particular interest is an ongoing study of aging in Swedish twins that includes a large group of adopted twins who were reared separately.Ljungquist et al. (68) concluded that \"a maximum of one-third the variance in integrated mortality risk is attributable to genetic factors and that almost all of the remaining variance is due to nonshared, individually unique environmental factors. \"Moreover, this heritability declined with age and was negligible after the age of 85 in men and 90 in women."
+                }
+            ],
+            "1ccb0d11-1c88-4b08-b40d-4039a954745f": [
+                {
+                    "document_id": "1ccb0d11-1c88-4b08-b40d-4039a954745f",
+                    "text": "\n\nHow can lifespan be controlled by a single gene?Two possibilities are, first, that the mutations that extend lifespan are in genes whose products regulate the activity of many other genes and, second, that these genes do not in fact control the rate of ageing."
+                }
+            ],
+            "4ca8d070-8b58-4bd5-86be-127089b70324": [
+                {
+                    "document_id": "4ca8d070-8b58-4bd5-86be-127089b70324",
+                    "text": "\n\nSince that time, observations across species have shown that life span can be extended by genetic factors.One of the first demonstrations of this entailed the study of recombinant inbred populations of the nematode worm Caenorhabditis elegans by Thomas E. Johnson.Then a postdoc in William (Bill) Wood's lab at the University of Colorado Boulder, Tom and Bill demonstrated that crosses of C. elegans strains did not display the heterosis effect that interfered with many other studies, \"As predicted, we found significant genetic effects on life span as well as other life history traits. \"This finding established a method for evaluating genetic factors that influenced life-span variation.In fact, their measurements of life span of the recombinant inbred strains demonstrated the heritability of life span to be 19%-51% (1).Consistent with theories of the 1970s and 1980s, it was concluded that these genetic factors were a collection of small influences across many genes.This finding was one of the first steps in demonstrating that genetic factors influence aging.As genetic analysis was making great progress in understanding other biological processes, such as developmental programming, the realization that aging could be investigated using the same tools was highly significant."
+                }
+            ],
+            "4f709611-ea0b-4bcc-a634-df5d518ccb54": [
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nAlthough it is known that health and lifespan are heavily influenced by genetics [14], variations in the lifespan of different individuals within the same species seem to be more the result of the accumulation over time of molecular damage that compromises the function of the cells [15].These molecular alterations can occur both at the genetic and epigenetic levels and depend on genetic, environmental, and stochastic factors [16].This complex multifactorial mix determined characteristics, such as longevity and a healthy lifespan, which are central concerns of human existence (Fig. 13.1).This chapter describes different types of tools in genomics used in ageing research and their different applications in clinical scenarios."
+                }
+            ],
+            "593b752f-f448-47be-8b83-13bc5e9eb0d4": [
+                {
+                    "document_id": "593b752f-f448-47be-8b83-13bc5e9eb0d4",
+                    "text": "\n\nAge at death in adulthood has a moderate genetic component overall, with a heritability of approximately 25% (Murabito et al., 2012).Heritability of longevity increases with age, with a negligible genetic contribution to survival up to approximately 60 years of age, after which an increasing genetic component to survival is observed (Brooks-Wilson, 2013;Christensen et al., 2006).Most genetic studies of aging have focused on long-lived individuals, typically defined as centenarians 100 years or older, who may have had exceptional survival due to medical interventions (Murabito et al., 2012).A number of genetic associations with exceptional longevity have been made (Atzmon et al., 2006;Bojesen and Nordestgaard, 2008;Hurme et al., 2005;Kuningas et al., 2007;Melzer et al., 2007;Pawlikowska et al., 2009;Sanders et al., 2010;Suh et al., 2008;Willcox et al., 2008), with only markers at APOE and FOXO3A being well replicated (Murabito et al., 2012).Overall, the results of genetic and epidemiological longevity studies suggest aging is a complex trait and that achievement of exceptional longevity may not best capture the genetics of resistance to or delay of age-associated disease (Christensen et al., 2006)."
+                }
+            ],
+            "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7": [
+                {
+                    "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                    "text": "Introduction\n\nWorldwide human populations have shown an increase in mean life expectancy in the past two centuries (Oeppen & Vaupel, 2002).This is mainly because of environmental factors such as improved hygiene, nutrition, and health care.The large variation in healthy lifespan among the elderly has prompted research into the determinants of aging and lifespan regulation.The genetic contribution to human lifespan variation was estimated at 25-30% in twin studies (Gudmundsson et al., 2000;Skytthe et al., 2003;Hjelmborg et al., 2006).The most prominent genetic influence is observed in families in which the capacity to attain a long lifespan clusters (Perls et al., 2000;Schoenmaker et al., 2006).Exceptional longevity can be reached with a low degree of age-related disability (Christensen et al., 2008;Terry et al., 2008), raising the question whether protective mechanisms against disease exist in long-lived subjects."
+                }
+            ],
+            "78a43a45-84b0-4d73-9396-95b99cfd3983": [
+                {
+                    "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                    "text": "Introduction\n\nHuman lifespan is a highly complex trait, the product of myriad factors involving health, lifestyle, genetics, environment, and chance.The extent of the role of genetic variation in human lifespan has been widely debated (van den Berg et al., 2017), with estimates of broad sense heritability ranging from around 25% based on twin studies (Ljungquist et al., 1998;Herskind et al., 1996;McGue et al., 1993) (perhaps over-estimated [Young et al., 2018]) to around 16.1%, (narrow sense 12.2%) based on large-scale population data (Kaplanis et al., 2018).One very recent study suggests it is much lower still (<7%) (Ruby et al., 2018), pointing to assortative mating as the source of resemblance amongst kin."
+                },
+                {
+                    "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                    "text": "\n\nMany factors beside genetics influence how long a person will live and our lifespan cannot be read from our DNA alone.Nevertheless, Timmers et al. had hoped to narrow down their search and discover specific genes that directly influence how quickly people age, beyond diseases.If such genes exist, their effects were too small to be detected in this study.The next step will be to expand the study to include more participants, which will hopefully pinpoint further genomic regions and help disentangle the biology of ageing and disease."
+                }
+            ],
+            "98ce73c6-a53b-486f-8326-4b0bd47ec22e": [
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "Life Span\n\nDuring the last decade a variety of twin studies have shown that approximately 25 percent of the variation in life span is caused by genetic differences.This seems to be a rather consistent finding in various Nordic countries in different time periods and even so among other species not living in the wild (Herskind et al., 1996;Iachine et al., 1999;Finch and Tanzi, 1997).their relative magnitude and pattern depend on sex and on the socioeconomic environment experienced by successive birth cohorts.Genetic effects were most pronounced in periods with consciously controlled fertility, suggesting that the genetic disposition primarily affects fertility behavior and motivation for having children.Analyses of fertility motivation in some of the more recent twin cohorts, measured by age at first attempt to have children, supported this interpretation."
+                },
+                {
+                    "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                    "text": "The Height-Life Span Nexus\n\nSeveral observations and lines of experimentation have raised the issue of whether interindividual differences in aging rate are influenced by genes that modulate body size and early-life growth patterns.These include (a) the association between small stature and exceptional longevity in calorically restricted rodents (Yu et al., 1985), methionine-restricted rats (Orentreich et al., 1993), and mutant dwarf mice (Brown-Borg et al., 1996;Miller, 1999); and (b) the association between small body size and longer life span in natural populations of mice (Falconer et al., 1978), flies (Hillesheim and Stearns, 1992), dogs (Li et al., 1996), and, possibly, people (Samaras andStorms, 1992).The correlation in dogs is particularly striking: selective breeding for dogs of different body size has produced breeds varying in size from Chihuahua to Irish wolfhound.These breeds also vary greatly in mean longevity, from approximately 7 to 10.5 years, and the correlation between breed longevity and breed body weight (Miller, 1999) is a remarkable R 2 = 0.56.These differences are genetic and affect stature rather than obesity: no amount of overeating will convert a West Highland white terrier to a St. Bernard.The selective pressures applied were designed to create dogs of specific sizes and temperaments and were not intended to influence aging rate or life span.The clear implication is that the effects on longevity are pleiotropic, i.e., that genes selected for their effect on body size and conformation influenced life span as a side effect.It is of interest to note that the few analyses (Eigenmann et al., 1984(Eigenmann et al., , 1988) ) of the hormonal basis for interbreed differences in body size have shown that the genes in question influence levels of IGF-1, the most likely mediator of the life-span effects in the long-lived df/df and dw/dw mouse mutants.Could it be mere coincidence that long-lived mutant nematode worms (Kimura et al., 1997) also show mutations in genes related to insulin and IGF-1 receptors?"
+                }
+            ],
+            "b0e49b4c-954d-476a-ba3a-0215e63c98b6": [
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "\n\nAltogether, the twin and genealogical studies have shown that human lifespan is heritable, but is significantly influenced by non-heritable factors, which may explain why genetic studies of lifespan have proven to be challenging."
+                },
+                {
+                    "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                    "text": "\n\nTwin studies have shown that the heritability of lifespan ranges between 0.01 and 0.27 in various European populations (Ljungquist et al., 1998;van den Berg et al., 2017).Large genealogical studies are more powered to address questions FIGURE 1 | Relationship between aging and lifespan variation versus species defining lifespan. (A) Lifespan comparisons within species, measured as mean (50%) or portion of a population living till extended limits of lifespan (90-95%).Differences between populations (orange and green) can identify specific genetic or environmental changes associating with long life.These factors promote viability and often associate with increasing healthspan.Mutant analysis within a particular model organism often encompasses these types of changes as it relates to lifespan. (B) Maximum lifespans recorded for different species (A-E).While lifespan variation within a species is capped to a certain extent, variation between species can range dramatically.Changes to maximum lifespan often are associated with protective mechanisms for genomic and genetic fidelity as well as life history changes as they relate to maturation and reproduction."
+                }
+            ],
+            "c7361625-831a-44a2-b04d-157a49d00c6a": [
+                {
+                    "document_id": "c7361625-831a-44a2-b04d-157a49d00c6a",
+                    "text": "\n\nThe genetic component of human lifespan based on twin studies has been estimated to be around 20-30 percent in the normal population [7], but higher in long-lived families [8][9][10].Furthermore, siblings, parents, and offspring of centenarians also live well beyond average [11,12].Lifestyle choices in terms of smoking, alcohol consumption, exercise, or diet does not appear to differ between centenarians and controls [13].Taken together, these findings provide ample evidence that extreme longevity has a genetic component ."
+                }
+            ],
+            "d174ea46-2c88-4047-a333-cb66e483a51f": [
+                {
+                    "document_id": "d174ea46-2c88-4047-a333-cb66e483a51f",
+                    "text": "Introduction\n\nHuman longevity is influenced by multiple genetic and environmental factors.Approximately 25-32% of the overall variation in adult lifespan is because of genetic variation that becomes particularly important for survival at advanced age (Hjelmborg et al., 2006).Epidemiological studies have revealed that long-lived individuals (LLI), that is, people surviving to the 95th percentile of the respective birth cohort-specific age distributions (Gudmundsson et al., 2000), frequently show a favorable ('healthy') course of the aging process, with the absence or a delayed onset of agerelated diseases (Hitt et al., 1999).Hence, the LLI offer the key to elucidate the molecular mechanisms underlying the 'healthy aging' phenotype (Perls, 2006)."
+                }
+            ],
+            "dbf4c446-7c25-470a-9532-a564b8683eef": [
+                {
+                    "document_id": "dbf4c446-7c25-470a-9532-a564b8683eef",
+                    "text": "\n\nUnraveling the heritability of human longevity was one of the first problems faced by geneticists.Just over a century ago, Mary Beeton and Karl Pearson [1] described a resemblance among relatives for the duration of life.A short time later, Yule [2] and Fisher [3] proved that the correlation is to be expected if lifespan is influenced by what had recently been termed 'genes' [4].Indeed, a century of correlation studies have established that something on the order of 30-50% of the total variation in human life span is attributable to genetic variation [5].Despite the wealth of diversity, specific genes contributing to this variation have proven notoriously difficult to identify.Sample size and issues of shared environment limit family-based methods such as linkage analysis, where rough genomic positions of important genetic variants are identified by comparing a small number of exceptionally long-lived people in defined pedigrees."
+                }
+            ],
+            "f6bde053-64e5-42d9-966d-9d5d5d82a068": [
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\n\nHuman lifespan variation is mainly determined by environmental factors, whereas the genetic contribution is 25-30% and expected to be polygenic.Two complementary fields go hand in hand in order to unravel the mechanisms of biological aging: genomic and biomarker research.Explorative and candidate gene studies of the human genome by genetic, transcriptomic, and epigenomic approaches have resulted in the identification of a limited number of interesting positive linkage regions, genes, and pathways that contribute to lifespan variation.The possibilities to further exploit these findings are rapidly increasing through the use of novel technologies, such as next-generation sequencing.Genomic research is progressively being integrated with biomarker studies on aging, including the application of (noninvasive) deep phenotyping and omics data -generated using novel technologies -in a wealth of studies in human populations.Hence, these studies may assist in obtaining a more holistic perspective on the role of the genome in aging and lifespan regulation."
+                },
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\nHuman lifespan variation is mainly determined by environmental factors, whereas the genetic contribution is 25-30% and expected to be polygenic.Two complementary fields go hand in hand in order to unravel the mechanisms of biological aging: genomic and biomarker research.Explorative and candidate gene studies of the human genome by genetic, transcriptomic, and epigenomic approaches have resulted in the identification of a limited number of interesting positive linkage regions, genes, and pathways that contribute to lifespan variation.The possibilities to further exploit these findings are rapidly increasing through the use of novel technologies, such as next-generation sequencing.Genomic research is progressively being integrated with biomarker studies on aging, including the application of (noninvasive) deep phenotyping and omics data -generated using novel technologies -in a wealth of studies in human populations.Hence, these studies may assist in obtaining a more holistic perspective on the role of the genome in aging and lifespan regulation."
+                },
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\n\nStudies of mono-and dizygous twins have revealed that the genetic contribution to the variation in human lifespan is about 25-30% [12,13], and is most prominent in families clustered for longevity [14,15].This genetic contribution is mainly apparent after the age of 60 years and seems to increase with age [13,16].Furthermore, human lifespan is a complex trait which is assumed to be determined by many genes with small individual effects [17], although the polygenic architecture still needs to be characterized [18,19].The diverse health features of long-lived families illustrate that different age-related diseases have common determinants and implicate that pathways can be identified that attenuate aging and delay age-related disease.From a genomic perspective, individuals from long-lived families are assumed to be characterized by a decreased prevalence of disease-promoting variants (referred to as disease-susceptibility alleles) and an increased prevalence of variants conferring maintenance of health and protection from disease, when compared to population controls.In the last 5 years, many diseasesusceptibility alleles have been identified (National Human Genome Research Institute (NHGRI) genome-wide association study (GWAS) Catalog; http://www.genome.gov/gwastudies/)[20].A first comparison between long-lived individuals, selected from both long-lived families (LLS) and the general population (Leiden 85-plus study), and young controls showed no difference in the distribution or frequency of disease-susceptibility alleles identified in cancer, coronary artery disease and type 2 diabetes [21].The search for lifespan regulating loci -contributing to longevity and population mortality -must therefore extend beyond a focus on disease-susceptibility alleles.We will first discuss the efforts to identify longevity loci by genetics approaches."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "\n\nAltogether, the twin and genealogical studies have shown that human lifespan is heritable, but is significantly influenced by non-heritable factors, which may explain why genetic studies of lifespan have proven to be challenging."
+            },
+            {
+                "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                "section_type": "main",
+                "text": "\n\nAlthough it is known that health and lifespan are heavily influenced by genetics [14], variations in the lifespan of different individuals within the same species seem to be more the result of the accumulation over time of molecular damage that compromises the function of the cells [15].These molecular alterations can occur both at the genetic and epigenetic levels and depend on genetic, environmental, and stochastic factors [16].This complex multifactorial mix determined characteristics, such as longevity and a healthy lifespan, which are central concerns of human existence (Fig. 13.1).This chapter describes different types of tools in genomics used in ageing research and their different applications in clinical scenarios."
+            },
+            {
+                "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                "section_type": "main",
+                "text": "\n\nOur results show that longevity is partly determined by the predisposition to common diseases and, to an even greater extent, by modifiable risk factors.The genetic architecture of lifespan appears complex and diverse and there appears to be no single genetic elixir of long life."
+            },
+            {
+                "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                "section_type": "main",
+                "text": "Introduction\n\nHuman lifespan is a highly complex trait, the product of myriad factors involving health, lifestyle, genetics, environment, and chance.The extent of the role of genetic variation in human lifespan has been widely debated (van den Berg et al., 2017), with estimates of broad sense heritability ranging from around 25% based on twin studies (Ljungquist et al., 1998;Herskind et al., 1996;McGue et al., 1993) (perhaps over-estimated [Young et al., 2018]) to around 16.1%, (narrow sense 12.2%) based on large-scale population data (Kaplanis et al., 2018).One very recent study suggests it is much lower still (<7%) (Ruby et al., 2018), pointing to assortative mating as the source of resemblance amongst kin."
+            },
+            {
+                "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                "section_type": "main",
+                "text": "\n\nMany factors beside genetics influence how long a person will live and our lifespan cannot be read from our DNA alone.Nevertheless, Timmers et al. had hoped to narrow down their search and discover specific genes that directly influence how quickly people age, beyond diseases.If such genes exist, their effects were too small to be detected in this study.The next step will be to expand the study to include more participants, which will hopefully pinpoint further genomic regions and help disentangle the biology of ageing and disease."
+            },
+            {
+                "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                "section_type": "main",
+                "text": "\n\nL ongevity is of interest to us all, and philosophers have long speculated on the extent to which it is pre-determined by fate.Here we focus on a narrower question-the extent and nature of its genetic basis and how this inter-relates with that of health and disease traits.In what follows, we shall use longevity as an umbrella term.We shall also more specifically refer to lifespan (the duration of life) and long-livedness (living to extreme old age, usually defined by a threshold, such as 90 years).Up to 25% of the variability in human lifespan has been estimated to be genetic 1 , but genetic variation at only three loci (near APOE, FOXO3A and CHRNA3/5) [2][3][4][5] have so far been demonstrated to be robustly associated with lifespan."
+            },
+            {
+                "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                "section_type": "main",
+                "text": "GENETICS OF LIFE SPAN IN HUMANS\n\nMost studies of human twins agree that the heritability of life span is less than 50% (45,68).Of particular interest is an ongoing study of aging in Swedish twins that includes a large group of adopted twins who were reared separately.Ljungquist et al. (68) concluded that \"a maximum of one-third the variance in integrated mortality risk is attributable to genetic factors and that almost all of the remaining variance is due to nonshared, individually unique environmental factors. \"Moreover, this heritability declined with age and was negligible after the age of 85 in men and 90 in women."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "The Height-Life Span Nexus\n\nSeveral observations and lines of experimentation have raised the issue of whether interindividual differences in aging rate are influenced by genes that modulate body size and early-life growth patterns.These include (a) the association between small stature and exceptional longevity in calorically restricted rodents (Yu et al., 1985), methionine-restricted rats (Orentreich et al., 1993), and mutant dwarf mice (Brown-Borg et al., 1996;Miller, 1999); and (b) the association between small body size and longer life span in natural populations of mice (Falconer et al., 1978), flies (Hillesheim and Stearns, 1992), dogs (Li et al., 1996), and, possibly, people (Samaras andStorms, 1992).The correlation in dogs is particularly striking: selective breeding for dogs of different body size has produced breeds varying in size from Chihuahua to Irish wolfhound.These breeds also vary greatly in mean longevity, from approximately 7 to 10.5 years, and the correlation between breed longevity and breed body weight (Miller, 1999) is a remarkable R 2 = 0.56.These differences are genetic and affect stature rather than obesity: no amount of overeating will convert a West Highland white terrier to a St. Bernard.The selective pressures applied were designed to create dogs of specific sizes and temperaments and were not intended to influence aging rate or life span.The clear implication is that the effects on longevity are pleiotropic, i.e., that genes selected for their effect on body size and conformation influenced life span as a side effect.It is of interest to note that the few analyses (Eigenmann et al., 1984(Eigenmann et al., , 1988) ) of the hormonal basis for interbreed differences in body size have shown that the genes in question influence levels of IGF-1, the most likely mediator of the life-span effects in the long-lived df/df and dw/dw mouse mutants.Could it be mere coincidence that long-lived mutant nematode worms (Kimura et al., 1997) also show mutations in genes related to insulin and IGF-1 receptors?"
+            },
+            {
+                "document_id": "1ccb0d11-1c88-4b08-b40d-4039a954745f",
+                "section_type": "main",
+                "text": "\n\nHow can lifespan be controlled by a single gene?Two possibilities are, first, that the mutations that extend lifespan are in genes whose products regulate the activity of many other genes and, second, that these genes do not in fact control the rate of ageing."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "main",
+                "text": "\n\nHuman lifespan variation is mainly determined by environmental factors, whereas the genetic contribution is 25-30% and expected to be polygenic.Two complementary fields go hand in hand in order to unravel the mechanisms of biological aging: genomic and biomarker research.Explorative and candidate gene studies of the human genome by genetic, transcriptomic, and epigenomic approaches have resulted in the identification of a limited number of interesting positive linkage regions, genes, and pathways that contribute to lifespan variation.The possibilities to further exploit these findings are rapidly increasing through the use of novel technologies, such as next-generation sequencing.Genomic research is progressively being integrated with biomarker studies on aging, including the application of (noninvasive) deep phenotyping and omics data -generated using novel technologies -in a wealth of studies in human populations.Hence, these studies may assist in obtaining a more holistic perspective on the role of the genome in aging and lifespan regulation."
+            },
+            {
+                "document_id": "dbf4c446-7c25-470a-9532-a564b8683eef",
+                "section_type": "main",
+                "text": "\n\nUnraveling the heritability of human longevity was one of the first problems faced by geneticists.Just over a century ago, Mary Beeton and Karl Pearson [1] described a resemblance among relatives for the duration of life.A short time later, Yule [2] and Fisher [3] proved that the correlation is to be expected if lifespan is influenced by what had recently been termed 'genes' [4].Indeed, a century of correlation studies have established that something on the order of 30-50% of the total variation in human life span is attributable to genetic variation [5].Despite the wealth of diversity, specific genes contributing to this variation have proven notoriously difficult to identify.Sample size and issues of shared environment limit family-based methods such as linkage analysis, where rough genomic positions of important genetic variants are identified by comparing a small number of exceptionally long-lived people in defined pedigrees."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "Life Span\n\nDuring the last decade a variety of twin studies have shown that approximately 25 percent of the variation in life span is caused by genetic differences.This seems to be a rather consistent finding in various Nordic countries in different time periods and even so among other species not living in the wild (Herskind et al., 1996;Iachine et al., 1999;Finch and Tanzi, 1997).their relative magnitude and pattern depend on sex and on the socioeconomic environment experienced by successive birth cohorts.Genetic effects were most pronounced in periods with consciously controlled fertility, suggesting that the genetic disposition primarily affects fertility behavior and motivation for having children.Analyses of fertility motivation in some of the more recent twin cohorts, measured by age at first attempt to have children, supported this interpretation."
+            },
+            {
+                "document_id": "4ca8d070-8b58-4bd5-86be-127089b70324",
+                "section_type": "main",
+                "text": "\n\nSince that time, observations across species have shown that life span can be extended by genetic factors.One of the first demonstrations of this entailed the study of recombinant inbred populations of the nematode worm Caenorhabditis elegans by Thomas E. Johnson.Then a postdoc in William (Bill) Wood's lab at the University of Colorado Boulder, Tom and Bill demonstrated that crosses of C. elegans strains did not display the heterosis effect that interfered with many other studies, \"As predicted, we found significant genetic effects on life span as well as other life history traits. \"This finding established a method for evaluating genetic factors that influenced life-span variation.In fact, their measurements of life span of the recombinant inbred strains demonstrated the heritability of life span to be 19%-51% (1).Consistent with theories of the 1970s and 1980s, it was concluded that these genetic factors were a collection of small influences across many genes.This finding was one of the first steps in demonstrating that genetic factors influence aging.As genetic analysis was making great progress in understanding other biological processes, such as developmental programming, the realization that aging could be investigated using the same tools was highly significant."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "abstract",
+                "text": "\nHuman lifespan variation is mainly determined by environmental factors, whereas the genetic contribution is 25-30% and expected to be polygenic.Two complementary fields go hand in hand in order to unravel the mechanisms of biological aging: genomic and biomarker research.Explorative and candidate gene studies of the human genome by genetic, transcriptomic, and epigenomic approaches have resulted in the identification of a limited number of interesting positive linkage regions, genes, and pathways that contribute to lifespan variation.The possibilities to further exploit these findings are rapidly increasing through the use of novel technologies, such as next-generation sequencing.Genomic research is progressively being integrated with biomarker studies on aging, including the application of (noninvasive) deep phenotyping and omics data -generated using novel technologies -in a wealth of studies in human populations.Hence, these studies may assist in obtaining a more holistic perspective on the role of the genome in aging and lifespan regulation."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "\n\nTwin studies have shown that the heritability of lifespan ranges between 0.01 and 0.27 in various European populations (Ljungquist et al., 1998;van den Berg et al., 2017).Large genealogical studies are more powered to address questions FIGURE 1 | Relationship between aging and lifespan variation versus species defining lifespan. (A) Lifespan comparisons within species, measured as mean (50%) or portion of a population living till extended limits of lifespan (90-95%).Differences between populations (orange and green) can identify specific genetic or environmental changes associating with long life.These factors promote viability and often associate with increasing healthspan.Mutant analysis within a particular model organism often encompasses these types of changes as it relates to lifespan. (B) Maximum lifespans recorded for different species (A-E).While lifespan variation within a species is capped to a certain extent, variation between species can range dramatically.Changes to maximum lifespan often are associated with protective mechanisms for genomic and genetic fidelity as well as life history changes as they relate to maturation and reproduction."
+            },
+            {
+                "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                "section_type": "main",
+                "text": "\n\nStudies of mono-and dizygous twins have revealed that the genetic contribution to the variation in human lifespan is about 25-30% [12,13], and is most prominent in families clustered for longevity [14,15].This genetic contribution is mainly apparent after the age of 60 years and seems to increase with age [13,16].Furthermore, human lifespan is a complex trait which is assumed to be determined by many genes with small individual effects [17], although the polygenic architecture still needs to be characterized [18,19].The diverse health features of long-lived families illustrate that different age-related diseases have common determinants and implicate that pathways can be identified that attenuate aging and delay age-related disease.From a genomic perspective, individuals from long-lived families are assumed to be characterized by a decreased prevalence of disease-promoting variants (referred to as disease-susceptibility alleles) and an increased prevalence of variants conferring maintenance of health and protection from disease, when compared to population controls.In the last 5 years, many diseasesusceptibility alleles have been identified (National Human Genome Research Institute (NHGRI) genome-wide association study (GWAS) Catalog; http://www.genome.gov/gwastudies/)[20].A first comparison between long-lived individuals, selected from both long-lived families (LLS) and the general population (Leiden 85-plus study), and young controls showed no difference in the distribution or frequency of disease-susceptibility alleles identified in cancer, coronary artery disease and type 2 diabetes [21].The search for lifespan regulating loci -contributing to longevity and population mortality -must therefore extend beyond a focus on disease-susceptibility alleles.We will first discuss the efforts to identify longevity loci by genetics approaches."
+            },
+            {
+                "document_id": "d174ea46-2c88-4047-a333-cb66e483a51f",
+                "section_type": "main",
+                "text": "Introduction\n\nHuman longevity is influenced by multiple genetic and environmental factors.Approximately 25-32% of the overall variation in adult lifespan is because of genetic variation that becomes particularly important for survival at advanced age (Hjelmborg et al., 2006).Epidemiological studies have revealed that long-lived individuals (LLI), that is, people surviving to the 95th percentile of the respective birth cohort-specific age distributions (Gudmundsson et al., 2000), frequently show a favorable ('healthy') course of the aging process, with the absence or a delayed onset of agerelated diseases (Hitt et al., 1999).Hence, the LLI offer the key to elucidate the molecular mechanisms underlying the 'healthy aging' phenotype (Perls, 2006)."
+            },
+            {
+                "document_id": "c7361625-831a-44a2-b04d-157a49d00c6a",
+                "section_type": "main",
+                "text": "\n\nThe genetic component of human lifespan based on twin studies has been estimated to be around 20-30 percent in the normal population [7], but higher in long-lived families [8][9][10].Furthermore, siblings, parents, and offspring of centenarians also live well beyond average [11,12].Lifestyle choices in terms of smoking, alcohol consumption, exercise, or diet does not appear to differ between centenarians and controls [13].Taken together, these findings provide ample evidence that extreme longevity has a genetic component ."
+            },
+            {
+                "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                "section_type": "main",
+                "text": "Introduction\n\nWorldwide human populations have shown an increase in mean life expectancy in the past two centuries (Oeppen & Vaupel, 2002).This is mainly because of environmental factors such as improved hygiene, nutrition, and health care.The large variation in healthy lifespan among the elderly has prompted research into the determinants of aging and lifespan regulation.The genetic contribution to human lifespan variation was estimated at 25-30% in twin studies (Gudmundsson et al., 2000;Skytthe et al., 2003;Hjelmborg et al., 2006).The most prominent genetic influence is observed in families in which the capacity to attain a long lifespan clusters (Perls et al., 2000;Schoenmaker et al., 2006).Exceptional longevity can be reached with a low degree of age-related disability (Christensen et al., 2008;Terry et al., 2008), raising the question whether protective mechanisms against disease exist in long-lived subjects."
+            },
+            {
+                "document_id": "593b752f-f448-47be-8b83-13bc5e9eb0d4",
+                "section_type": "main",
+                "text": "\n\nAge at death in adulthood has a moderate genetic component overall, with a heritability of approximately 25% (Murabito et al., 2012).Heritability of longevity increases with age, with a negligible genetic contribution to survival up to approximately 60 years of age, after which an increasing genetic component to survival is observed (Brooks-Wilson, 2013;Christensen et al., 2006).Most genetic studies of aging have focused on long-lived individuals, typically defined as centenarians 100 years or older, who may have had exceptional survival due to medical interventions (Murabito et al., 2012).A number of genetic associations with exceptional longevity have been made (Atzmon et al., 2006;Bojesen and Nordestgaard, 2008;Hurme et al., 2005;Kuningas et al., 2007;Melzer et al., 2007;Pawlikowska et al., 2009;Sanders et al., 2010;Suh et al., 2008;Willcox et al., 2008), with only markers at APOE and FOXO3A being well replicated (Murabito et al., 2012).Overall, the results of genetic and epidemiological longevity studies suggest aging is a complex trait and that achievement of exceptional longevity may not best capture the genetics of resistance to or delay of age-associated disease (Christensen et al., 2006)."
+            },
+            {
+                "document_id": "c8fbb24d-0a72-4a45-a552-6cd98a4a25a2",
+                "section_type": "main",
+                "text": "Translational\n\nA LTHOUGH there is much debate about the processes driving human aging, there is little doubt that genetic influences play a significant role (1).Humans clearly live very much longer than the currently favored laboratory models of aging, and such interspecies differences in reproductively 'fit' life span must have an inherited genetic foundation.Within human populations, environmental and behavioral exposures are important but at least a quarter of life expectancy variation in twin or family studies is attributable to inherited genetic or epigenetic factors (2).Age-related conditions such as type 2 diabetes, myocardial infarction, common cancers, and Alzheimer's disease (AD) typically have onsets after the fourth decade of life; \"successful\" agers delay these onsets until relatively late in life (3).Many aging traits and diseases show moderate heritability, including cardiovascular disease (CVD) (4) and impaired physical functioning (5), independent of known environmental risk factors."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "ANALYSIS OF HUMAN VARIATION IN THE GENETIC CONTROL OF LONGEVITY\n\nHeritability studies have convincingly demonstrated that at least some fraction of human lifespan is heritable.In tandem, large-scale genome-wide association studies (GWAS) have identified numerous loci associated with age-related traits (Buniello et al., 2019).While genetic studies have functionally shown an inverse effect of multiple age-related, diseaseassociated variants on lifespan regulation, the number of well-replicated longevity-conferring variants remains limited to variants in APOE (ApoE ε2), and more recently, CDKN2A/B and IL6 (see Table 1).To date, studies in humans have been hampered by the specific phenotype definitions used, sample sizes of the extreme phenotypes, and modest heritability of the longevity-related traits (Breitbach et al., 2019).This is due to the complex interplay of biological and social factors involved in human aging, as well as the limited power of GWAS, which require sampling thousands of subjects to achieve statistical significance (Breitbach et al., 2019).Genetic studies of aging have also been hindered by an inconsistent use of definitions of aging (reviewed in Baghdadi et al., 2020).The two main ways of conducting research on the genetics of longevity in human populations are by studying (i) the lifespan (continuous trait, years lived) and (ii) the longevity (dichotomous trait, i.e., being among the longest-lived individuals within a specific population).These complexities have limited the resolution and capability of broad association studies of human longevity.Importantly, these genomic analyses focus on a shift of survival in a population; these variables may be genetically distinct from the mechanisms establishing potential for longevity overall (Figure 1A).We argue that an understanding of this shift in lifespan as well as genetic mechanisms of regulating a species specific 'set points' (Figure 1B) will aid in the conceptual distinction of aging and longevity in humans."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "\n\nThe recent emergence of the UK Biobank has significantly enhanced research on the genetics of lifespan.The most recent effort using parental lifespan data from this databank, as well as several additional studies in the LifeGen initiative, has resulted in the identification of 12 loci that passed threshold for genomewide significance (5 * 10 −8 ).Many of the loci have previously been associated with age-related diseases, including cardiometabolic, autoimmune and neuropsychiatric diseases -all underlying major death causes -which likely explains their association with lifespan in this study (Timmers et al., 2019)."
+            },
+            {
+                "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                "section_type": "main",
+                "text": "Influence of Genetic Factors in Ageing and Lifespan\n\nAgeing is defined as the decline of physiological functions in several tissues and organs inducing an increasing probability of death [17].The understanding of genetic factors involved in ageing has been limited due to the complexity of this process and the heterogeneity among individuals and even among tissues [18][19][20].Tissue cells adopt a senescent phenotype as a consequence of multiple intrinsic, extrinsic, and stochastic factors [21].The combination of these genetic factors is related to longevity and healthy ageing [22].Although this decline is somewhat predictable, some individuals show a much slower decline and get to live past the age of 100.Studies in these individuals showed polymorphisms in some genes which are associated with long life, such as APOE and FOXO3.However, these associations have not been consistent across different populations, suggesting that ageing is rather polygenic [23]."
+            },
+            {
+                "document_id": "da4a9500-831f-48ab-acea-5ec7097276ed",
+                "section_type": "main",
+                "text": "\n\nStudies in various models have revealed that genetic differences and somatic mutations underlie longevity, but non-genetic contributions also play a major role (Cournil and Kirkwood, 2001).Calorie restriction (Bordone and Guarente, 2005), lowering of basal metabolic rate (Ruggiero et al., 2008), upregulated stress response (Migliaccio et al., 1999), restoration of mi-tonuclear protein balance (Houtkooper et al., 2013), and reduced fertility (Westendorp and Kirkwood, 1998) have all been shown to correlate with lifespan extension.These observations illuminate the role of ''epi''-genetic mechanisms in modulating longevity pathways."
+            },
+            {
+                "document_id": "e4773b3b-814d-4306-8250-59dc03f09bc2",
+                "section_type": "main",
+                "text": "\n\nLarge differences in species maximum lifespan potential [MLSP] must ultimately be genetically encoded; however, if a specific ''lifespan program'' existed, one might expect that genetic revertants of such a program could be identified to enable immortality.To date, no such observation has been made.So while it is highly unlikely that age of death is programmed, genetic regulation of the many pathways that contribute to survival of the individual (e.g., resistance to stress, damage eradication, and/or somatic repair), as well as genetic regulation of the metabolic pathways that inflict age-related damage, is likely to be directly involved in organismal longevity (Gems and Partridge 2013)."
+            },
+            {
+                "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                "section_type": "main",
+                "text": "\n\nThe DNA of over 500,000 people was read to reveal the specific 'genetic fingerprints' of each participant.Then, after asking each of the participants how long both of their parents had lived, Timmers et al. pinpointed 12 DNA regions that affect lifespan.Five of these regions were new and had not been linked to lifespan before.Across the twelve as a whole several were known to be involved in Alzheimer's disease, smoking-related cancer or heart disease.Looking at the entire genome, Timmers et al. could then predict a lifespan score for each individual, and when they sorted participants into ten groups based on these scores they found that top group lived five years longer than the bottom, on average."
+            },
+            {
+                "document_id": "57e2d0f5-c5eb-4ba6-8101-5bacaed53cb4",
+                "section_type": "main",
+                "text": "\n\nT he average human life expectancy has been increasing for centuries 1 .Based on twin studies, the heritability of human lifespan has been estimated to be ~25%, although this estimate differs among studies 2 .On the other hand, the heritability of lifespan based on the correlation of the mid-parent (i.e., the average of the father and mother) and offspring difference between age at death and expected lifespan was estimated to be 12% 3 .A recent study has indicated that the different heritability estimates may be inflated due to assortative mating, leaving a true heritability that is below 10% 4 .The heritability of lifespan, estimated using the sibling relative risk, increases with age 5 and is assumed to be enriched in long-lived families, particularly when belonging to the 10% longest-lived of their generation 6 .To identify genetic associations with human lifespan, several genome-wide association (GWA) studies have been performed [7][8][9][10][11][12][13][14][15][16][17][18][19][20] .These studies have used a discrete (i.e., older cases versus younger controls) or a continuous phenotype (such as age at death of individuals or their parents).The selection of cases for the studies using a discrete longevity phenotype has been based on the survival to ages above 90 or 100 years or belonging to the top 10% or 1% of survivors in a population.Studies defining cases using a discrete longevity phenotype often need to rely on controls from more contemporary birth cohorts, because all others from the case birth cohorts have died before sample collection.Previous GWA studies have identified several genetic variants, but the only locus that has shown genome-wide significance (P ≤ 5 × 10 −8 ) in multiple independent meta-analyses of GWA studies is apolipoprotein E (APOE) 21 , where the ApoE ε4 variant is associated with lower odds of being a long-lived case."
+            },
+            {
+                "document_id": "e4773b3b-814d-4306-8250-59dc03f09bc2",
+                "section_type": "main",
+                "text": "\n\nAging and longevity research has relied extensively on a battery of commonly used and relatively short-lived eukaryote model organisms, namely yeast, worms, flies, and fish, as well as mice and rats, to explore both genetic and environmental determinants of lifespan.While these short-lived models have each yielded a number of fascinating findings and insights into hypotheses surrounding extended lifespan and healthspan, they may also have constrained this complex, multifactorial field to areas in which they are best suited, most notably short-term intervention studies and genetic manipulations.Studies based upon these organisms revealed that changes in even a single gene (e.g., age-1, phosphatidylinositol 3 kinase) can extend lifespan of Caenorhabditis elegans (Friedman and Johnson 1988).Similar lifespan extension effects are evident in flies and mice when the insulin/IGF, gastric hormone, and the Nrf2/skn-1 detoxification/xenobiotic pathways are genetically manipulated (Kenyon et al. 1993;Brown-Borg et al. 1996;Morris et al. 1996;Clancy et al. 2001;An and Blackwell 2003;Sykiotis and Bohmann 2008;Selman and Withers 2011;Ziv and Hu 2011).Furthermore, various types of dietary restrictions, whether limiting access to calories or amino acids, generally have a conserved effect of enhancing longevity across model systems (McCay et al. 1935;Klass 1977;Weindruch and Walford 1982;Jiang 2000;Selman and Withers 2011;McIsaac et al. 2016), although exceptions do exist (Liao et al. 2010).Collectively, these data support the premise that longevity can be modulated, likely through the regulation of nutrient signaling and stress response, which in turn impacts development, growth, reproduction, and survival.Strikingly, monozygotic human twins, as well as genetically identical individuals of these animal models (e.g., C57BL/6 mice), even when housed in the same environment and fed the same diet do not all have the same lifespans, suggesting that stochastic factors and epigenetic drift influence the hazard rate (i.e., the risk of death as it changes over a lifespan) and subsequent mortality (Finch and Kirkwood 2000;Herndon et al. 2002;Fraga et al. 2005)."
+            },
+            {
+                "document_id": "03a4f57c-3a11-4d3d-a1e9-6d0d8bdb7cb7",
+                "section_type": "main",
+                "text": "\n\nRecent developments on the genetics of aging can be seen as several streams of effort.In general, humans show a relatively modest (<50%) heritability of life spans (results obtained from twin studies discussed below).The apoE polymorphisms are remarkable for their influence on both cardiovascular disease and Alzheimer disease.In contrast, rare mutant genes with high penetrance cause these same diseases but with early onset and a major shortening of the life span.Shortlived laboratory models (fruit flies, nematodes, mice) are yielding rapid advances, with the discovery of mutants that increase life spans in association with altered metabolism, which leads to questions on the physiological organization of aging processes.Although these early findings do not show that a conserved genetic program actually controls aging processes across animal phylogeny, it is striking how frequently findings of metabolic rate, insulin signaling, and free radicals have emerged from very different approaches to aging in nematodes and mammals, for example.These findings hint that the genetic control of life span was already developed in the common ancestor of modern animals so that subsequent evolution of life spans was mediated by quantitative changes in the control of metabolism through insulin and the production of free radicals."
+            },
+            {
+                "document_id": "5e157c2e-91b8-466d-a9fd-f91f8f432f0c",
+                "section_type": "main",
+                "text": "\n\nGenes do not drive the aging process but by governing the levels of excess physiological capacity, repair, and turnover they indirectly determine potential longevity.There are no genes that specifically drive longevity but there are genes that govern biological processes that increase the likelihood of survival to reproductive maturity.The variations in excess physiological capacity, repair, and turnover accounts for the variations found in longevity both within and between species."
+            },
+            {
+                "document_id": "78a43a45-84b0-4d73-9396-95b99cfd3983",
+                "section_type": "main",
+                "text": "\n\nAgeing is complex and takes a long time to study -a lifetime in fact.This makes it difficult to discern its causes, among the countless possibilities based on an individual's genes, behaviour or environment.While thousands of regions in an individual's genetic makeup are known to influence their risk of different diseases, those that affect how long they will live have proved harder to disentangle.Timmers et al. sought to pinpoint such regions, and then use this information to predict, based on their DNA, whether someone had a better or worse chance of living longer than average."
+            },
+            {
+                "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                "section_type": "main",
+                "text": "Introduction\n\nThe recent, remarkable extension of life expectancy is largely attributed to the postponement of mortality at old age (Vaupel, 1997(Vaupel, , 2010)).The years of life gained in the older population residing in developed nations are a success story of public health measures and improved health care.In addition to such external factors, longevity and healthy aging consistently show a modest heritability between 20% and 50% and aging-associated genetic research may provide further insights into the mechanisms of aging (Herskind et al., 1996;McGue et al., 1993;Reed and Dick, 2003).It has been postulated that genes involved in pathways associated with aging identified in animal models, such as insulin-like growth factor (IGF)-insulin signaling, regulation of lipoprotein metabolism, the mTOR pathway, and the oxidative stress response may also influence survival to old or even exceptionally old age in humans (Christensen et al., 2006;Kenyon, 2010;Vellai et al., 2003).However, in humans, common variants within genes involved in these pathways have not been consistently associated with lifespan (Chris-tensen et al., 2006;Kenyon, 2010;Kuningas et al., 2008;Vijg and Suh, 2005)."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "\n\nsuch as to what extent non-additive genetic variance contributes to the heritability of lifespan.Thus, in more than 3 million pairs of relatives, Kaplanis et al. (2018) found that the additive component of lifespan's heritability was 0.16 (comparable to twin studies), while there was only a mild effect of the non-additive component of heritability (∼0.04).Ruby et al. (2018) using an impressive dataset consisting of hundreds of millions of historical individuals showed a similar heritability of lifespan.The study on the heritability of \"longevity\" performed in twins by Ljungquist et al. (1998) found that the heritability of longevity was higher in women and increased with advancing age.Some of the most interesting individuals that may shed reveal secrets of longevity originate from multigenerational, longevity-enriched families, since such families have propensity to be long-lived, but also seem to evade age-related morbidity.Several genealogical studies of long-lived families evidenced that parental longevity could be considered a proxy for lifespan.Long-lived parents have a high probability to beget long-lived offspring, which gives an indication that longevity is indeed heritable (van den Berg et al., 2017).Notably, members of longlived families have an interesting phenotype beyond extended lifespan, as they seem to be escaping or delaying age-related disease and show a compression of late life morbidity (extended healthspan).Unraveling the genetics of these individuals might help identifying novel mechanisms involved in healthy aging that can subsequently be targeted by therapeutic interventions.An important drawback of longevity research is the arbitrary age thresholds that often were used to signify an extreme age (Baghdadi et al., 2020).In the pre-GWAS era, the age-thresholds used to define longevity were relatively low (i.e., reaching an age above 80 or 85 years) and the sample size was limited.van den Berg et al. (2019) used two independent multi-generational genealogical datasets to determine the most optimal definition of longevity.They found that the strongest heritable component of longevity is present in individuals belonging to the top 10% survivors of their birth cohort with equally long-lived family members (reviewed in Baghdadi et al., 2020)."
+            },
+            {
+                "document_id": "3c78c2be-0bd2-4954-bb47-8b48f6125ed7",
+                "section_type": "main",
+                "text": "\n\nNotably, numerous novel determinants of chronological life span were identified in all three competitive-survival screens (Fabrizio et al. 2010;Gresham et al. 2011;Matecic et al. 2010) as well as the candidate gene approach reported by Burtner et al. (2011).This suggests that many genes involved in chronological aging have yet to be identified.The screen of each individual strain from the deletion collection for increased chronological life span that is currently underway is anticipated to identify many of these unknown genes."
+            },
+            {
+                "document_id": "1386c8ad-297d-48b1-aa34-41659a9f6544",
+                "section_type": "main",
+                "text": "\n\nIt is also likely that environmental factors and possibly the genetic ancestry may influence the likelihood of an individual to live long ages directly or by interacting with the genetic background.The NECS has shown that the chance of male and female siblings of centenarians to live past 100 can be 8 and 17 times higher than the risk in the general population (Perls et al., 2002).Consistent with this observation, our data suggest that the genetic contribution increases with older and older ages as the limit of lifespan is approached (Sebastiani et al., 2012).The male supercentenarian included in this study had strong longevity in his family.Although we do not have information about the family history of the female supercentenarian, she has living offspring who are approaching their nineties in good health and are currently enrolled in the NECS.The heterogeneity of the results herein suggest that sequencing additional exceptionally old individuals of different genetic ancestry and possibly their family members will provide the critical information to understand roles of common and rare genetic determinants of exceptional longevity and healthspan."
+            },
+            {
+                "document_id": "1386c8ad-297d-48b1-aa34-41659a9f6544",
+                "section_type": "main",
+                "text": "INTRODUCTION\n\nHuman aging is affected by genes, life style, and environmental factors.The genetic contribution to average human aging can be modest with genes explaining ∼20-25% of the variability of human survival to the mid-eighties (Herskind et al., 1996;Fraser and Shavlik, 2001).By contrast, genetic factors may have greater impact on survival to the ninth through eleventh decades (Tan et al., 2008).Notably, exceptional longevity is rare and may involve biological mechanisms that differ from those implicated in usual human aging."
+            },
+            {
+                "document_id": "b0e49b4c-954d-476a-ba3a-0215e63c98b6",
+                "section_type": "main",
+                "text": "LONGEVITY AND AGING -SEPARATE METRICS OF EXTENT AND QUALITY\n\nThe drive to understand why we have a limited license in life has permeated scientific and artistic thought for millennia.Although lifespan has obvious heritable components, the effect of environmental factors and extrinsic mortality factors shape a complex scenario for which clear answers of the regulation of longevity have been difficult to distill.With the discovery of genetic factors underlying aging in experimental laboratory models, forays into the genetic regulation of these properties have rapidly expanded, uncovering conserved mechanisms across diverse metazoa that influence expression of aging phenotypes and lifespan.Yet, the story gets muddled in that these factors are often quite pleiotropic, having broad roles in normal development and physiology of organisms.To date there has not been a singular defining mechanism or factor specifying how and why we age."
+            },
+            {
+                "document_id": "98ce73c6-a53b-486f-8326-4b0bd47ec22e",
+                "section_type": "main",
+                "text": "Longevity Genes-A Special Case\n\nDemographers are fascinated by the possibility that one or more genes might determine the rate of decline in multiple organ systems.Several such genes have been identified in other species (Vaupel et al., 1998).These genes are sometimes called gerontogenes or longevity genes.The discovery of one or more genes that act as aging \"clocks\" in humans would be a major breakthrough for genetics.However, the mere existence of such genes would not have a major effect on demographic research.For example, a mutation in a longevity gene that was present in 0.1 percent of the population would still be rare (probably less than 1 percent) among centenarians. 19Such a genotype would not explain much about survival to the oldest ages.Therefore, in order to be important for demographic research, there would have to be common polymorphisms associated with large differences in survival.Vaupel has estimated that there could be hundreds of genotypes with frequencies of 5-10 percent that lower death rates by 5-10 percent (Vaupel, personal communication)."
+            },
+            {
+                "document_id": "1ccb0d11-1c88-4b08-b40d-4039a954745f",
+                "section_type": "main",
+                "text": "\n\nAnother major challenge is to uncover the genes and processes that determine the differences in lifespan among animal species.Animal lifespans vary to a remarkable degree, and can evolve rapidly.For example, the common ancestors of Homo sapiens and chimpanzees walked the Earth only some 5.4 million years ago, yet our maximum lifespan is twice that of our closest living relative (w110 years versus w59 years).Do the genes and processes that have been the focus of model organism work (e.g.IIS and cellular detoxification) also specify species differences in ageing?Do they also control the remarkable phenotypic plasticity of lifespan seen in, for instance, social insects?Answering these questions will require an approach analogous to that used in understanding the evolution of differences in development that lead to differences in anatomy (i.e.evolutionary developmental biology, or evodevo).One might naturally refer to such an approach as evolutionary gerontology (or evo-gero) (Box 3)."
+            }
+        ],
+        "document_id": "5AE03C65B85643330DE58348F4946E8A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "genetics",
+            "lifespan",
+            "heritability",
+            "environmental&factors",
+            "twin&studies",
+            "genealogical&studies",
+            "longevity",
+            "genomic&research",
+            "biomarker&research",
+            "aging"
+        ],
+        "metadata": [
+            {
+                "object": "AGE are an important factor for cardiac aging and fibrosis, whereas the receptor for AGE and TGF-beta/Smad signaling pathway might be involved in the AGE-induced cardiac aging process.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab49862"
+            },
+            {
+                "object": "Both normal-expression and over-expression of the CG9940 resulted in positive influences on the adaptation of cardiac functions, mobility, and lifespan to exercise in aging Drosophila. Exercise slowed age-related decline of cardiac function, mobility and extent of lifespan in flies, while lower expression of CG9940 led to negative impacts on the adaptation of mobility and lifespan to exercise in Drosophila.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab107731"
+            },
+            {
+                "object": "Expression of HDAC4 in hippocampus Affy probe set 10356653, UTHSC BXD Aged Hippocampus Affy Mouse Gene 1.0 ST Jun15 Exon Level RMA has a strong negative correlation with age of animal BXD. Like many other age-linked traits, genetic variance of expression maps to Chr 7 at about 87 Mb also see Smc3, top positive age-associated exon probe set in hippocampus. Rupert Overall, Gerd Kempermann, Lu Lu, and Rob Williams Aug 2019 note by RWW",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1771"
+            },
+            {
+                "object": "Based on a cumulative risk of 0.55% to age 35 for BRCA1 mutation carriers and of 0.56% to age 45 for BRCA2 mutation carriers, we recommend bilateral salpingo-oophorectomy before age 40, but by age 35, for women with a BRCA1 mutation and by age 45 for those with a BRCA2 mutation to maximize prevention and to minimize adverse effects.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab95128"
+            },
+            {
+                "object": "Study detected age-related differences in the therapeutic effect of calcium-channel blockers, in association with a commonly occurring genetic variant in the COMT gene; proposed a relevant role of estrogen and catecholamines in the age-specific pathogenesis of hypertension and underline the need for individualized therapy approaches taking age into account.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab740177"
+            },
+            {
+                "object": "Study of genetic risk of prevalent hrHPV infections in Nigerian women found significant associations with SNPs on ribosomal protein gene S19 RPS19 and Thymidylate Synthase gene TYMS, in an allelic model. This risk remained significant, after adjusting for age, body mass index, smoking, age at menarche, age at sexual debut, lifetime total number of sexual partners and the total number of pregnancies.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab745428"
+            },
+            {
+                "object": "4E-BP determines lifespan in the context of temperature changes, revealing a genetic mechanism for cold-induced longevity in this model organism. Our results suggest that the 4E-BP pathway, chiefly thought of as a nutrient sensor, may represent a master metabolic switch responding to diverse environmental factors",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab10515"
+            },
+            {
+                "object": "Results showed that median age, menarche age, childbearing age, number of children, menopause age, and body-mass indexes were similar in both HER-2 pos and neg groups. # of involved lymph nodes and HER-2 status found to be prog. factors for survival.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab665374"
+            },
+            {
+                "object": "Women with PAPP-A </=10th percentile in the first trimester are more likely to have an small-for gestational age infant at all gestational ages. PAPP-A >/=90th percentile is protective against small for gestational age, and is associated with an increased risk of large for gestational age for infants born after 32 weeks gestation.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1019190"
+            },
+            {
+                "object": "Top exon level covariate of age in the hippocampus of the BXD family r of 0.59, n = 229 using \tUTHSC BXD Aged Hippocampus Affy Mouse Gene 1.0 ST Jun15 Exon Level RMA and record ID Record ID 10463979. Strongly bimodal expression of this exon probe set genetic effect with nearly +100 day shift in age of those with high D allele expression that maps to Chr 7 at the lncRNA gene Gm32647 lethality associated and ODZ4 no cis effect at all. Show to Rupert Overall and Gerd Kempermann.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab6050"
+            }
+        ],
+        "question": "Is lifespan determined by genetics?",
+        "subquestions": null,
+        "task_id": "5AE03C65B85643330DE58348F4946E8A",
+        "usage": {
+            "chatgpt": 8198,
+            "gpt-4": 4730,
+            "gpt-4-turbo-preview": 3782
+        },
+        "user_id": 2
+    },
+    "document_id": "5AE03C65B85643330DE58348F4946E8A",
+    "task_id": "5AE03C65B85643330DE58348F4946E8A"
+}

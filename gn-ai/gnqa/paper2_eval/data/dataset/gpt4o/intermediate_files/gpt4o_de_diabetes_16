@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2016 - Dissecting diabetes metabolic disease.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf"
+  ],
+  "extraction_id": [
+    "57736895-897e-54e5-a735-aadcbd77cb63",
+    "ab61a462-21d3-50dc-afb3-3e1cdeb15b1f",
+    "ab61a462-21d3-50dc-afb3-3e1cdeb15b1f",
+    "ab61a462-21d3-50dc-afb3-3e1cdeb15b1f",
+    "998a92ba-e7fc-5553-b629-7b5797fbfafe",
+    "fe5bf2df-2eda-5ef0-8aad-79bbc5b898d6",
+    "ab61a462-21d3-50dc-afb3-3e1cdeb15b1f",
+    "5f8a0ddd-a0c7-5151-9b6a-e0980bb94aa6",
+    "0a3e3095-4789-505a-96b7-123a05078e95",
+    "a36cee80-5961-55e5-8ea4-8d4e1bc501a9"
+  ],
+  "document_id": [
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "eee2f79d-e093-52fb-871a-798fd859235e",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "51350055-d53c-5692-ab53-337b8a8bafd6"
+  ],
+  "id": [
+    "chatcmpl-AIHKSpSdna9OyEUtDVRTMkIkEtBS5",
+    "f42c0f84-d2a8-5bf9-89c2-3dd182bfb235",
+    "2af36592-3e59-583c-a9c7-d612175f4afc",
+    "75b937b2-1e0b-5d63-b542-618ad91bbd1f",
+    "1f114642-3f77-5346-89e8-394c433f66ff",
+    "df30dab3-a490-5497-a079-2741f9039f87",
+    "eadf2320-de70-5499-ade0-7aa9930ac091",
+    "57b9550d-0258-5a87-be57-976f471e5763",
+    "1859f32b-8f5c-5c3c-9f4d-54193d37645d",
+    "99ccc9a2-865f-5d11-9b08-b26261d02fc9",
+    "83053df5-47ac-59da-9c30-69740a64372d"
+  ],
+  "contexts": [
+    "A variety of cellular and animal models have been developed and applied over the past few years to experimentally manipulate cis-regulatory elements and their target gene function as it related to beta cell/isletfunction, glucose homeostasis, and T2D pathogenesis. CRISPR/Cas9 hasrevolutionized our ability to modify genomes and epigenomes almost at will. Unsurprisingly, CRISPR (epi)genome editing tools can and have been used to target putative T2D target genes [54] orcis-REs[55] in beta",
+    "(276279). Through CRISPR-mediated HDR and base editing, it is possible to correct the vast majority of genetic variants, if notall. Conversion of GWAS-identi ed non-coding variants has not been conducted/documented in the diabetes eld, but it seems inevitable that such work will be carried out in the near futureHu et al. Genome Editing of Pancreatic Beta Cells Frontiers in Endocrinology | www.frontiersin.org October 2020 | Volume 11 | Article 576632 11",
+    "Cas9 editing to restore insulin production in differentiated iPSCcells that mimicked neonatal diabetes ( 251,252). Likewise, Shi et al. converted a patient-speci c mutation in GATA6 gene and showed that the mutation involved (GATA6 R456C) has a similar effect to GATA6 knockout ( 21). Most recently, correction of a variant in the Wolfram syndrome 1 ( WFS1 ) gene by CRISPR- mediated HDR improved insulin secretion in iPSC-differentiatedb-like cells ( 253). Studies on GWAS identi ed genetic variants",
+    "in response to various stimuli including glucose aftertransplantation in an immunocompromised mouse model (230,231). However, the use of iPSC is controversial and there are some concerns over genetic and epigenetic variations iniPSCs which might affect cell function after differentiation ( 275). Manipulation of hESC/iPSC cells via CRISPR-Cas9 technology provides a platform for the correction of genomic mutations not only in diabetes but in other disease elds as well",
+    "hPSCs [48,49] for correcting the COL7A1 [50] anda1-antitrypsin genes [51]. Given the superior cutting ef ciency, CRISPR/Cas9 is increasingly becoming the favored choice for genome editing inhPSCs [16,52] . 3.2. Employing hPSCs and genome editing tools to study diabetes and metabolic syndromes In general, the strategy to carry out in vitro disease modeling of dia-",
+    "Due to its simplicity and adaptability, CRISPR has rapidly become the most popular genome editing tool available for the mammalian genome ( 50,63). Because NHEJ DNA repair often introduces unwanted indels at the Cas9 cutting site, CRISPR hasbeen used to knock-out genes by introducing frameshiftmutations, resulting in protein depletion ( 156,157). In the diabetes eld, CRISPR has also been adopted to study several genes in bcell lines and in human ES-derived bcells ( 21,151,",
+    "RNP and single strand edDNA (ssDNA) donor which carriesdesired changes such as insertion of loxP site ( 255,259265). Using CRISPR-Cas9, leptin and leptin receptor knockout mice have been established as tools in diabetes and obesity research ( 160,255,256). Knock-in mouse models have also been established via HDR to achieve cell-speci c deletion of the gene ( 266). Genome Editing: Clinical Application in Diabetes An important goal in genetic research is to identify the genetic",
+    "to how CRISPR/Cas9 technology may nd clinical application in patients with diabetes. Keywords: genome editing, beta cell, genome-wide association studies, maturity onset of diabetes of the young, stem cells, mouse models INTRODUCTION Type 2 diabetes (T2D) affects an estimated 425 million people worldwide, a number predicted to rise to 629 million by 2045 ( 1). The disease usually involves insulin resistance but is ultimately the result",
+    "samples ( 236). CRISPR technology has been used recently to correct point mutations in patient-derived iPSCs to target diabetes-relatedgene defects. To date, the most ef cient method used in iPSC is CRISPR/Cas9-based homology-directed repair (HDR). Here, a Cas9-mediated cut is generated adjacent to the site of interest. A homologous donor template with the intended nucleotidechange containing silent mutations in the gRNA sequence(167) can then be recombined by HDR. This approach has",
+    "free IPSCs from Human Pancreatic Cells Using the CRISPR-Cas9 System. J Vis Exp JoVE (2017). doi: 10.3791/56260 277. Millette K, Georgia S. Gene Editing and Human Pluripotent Stem Cells: Tools for Advancing Diabetes Disease Modeling and Beta-Cell Development. Curr Diabetes Rep (2017) 17:116. doi: 10.1007/s11892-017-0947-3Hu et al. Genome Editing of Pancreatic Beta Cells Frontiers in Endocrinology | www.frontiersin.org October 2020 | Volume 11 | Article 576632 19"
+  ],
+  "answer": "Recent advancements in leveraging CRISPR-based approaches to correct monogenic forms of diabetes in vivo include the use of CRISPR-mediated homology-directed repair (HDR) to correct specific genetic mutations associated with diabetes. For instance, CRISPR technology has been used to correct point mutations in patient-derived induced pluripotent stem cells (iPSCs) targeting diabetes-related gene defects. The most efficient method employed in iPSCs is CRISPR/Cas9-based HDR, where a Cas9-mediated cut is generated adjacent to the site of interest, and a homologous donor template with the intended nucleotide change is recombined by HDR [9]. Additionally, there has been a successful correction of a variant in the Wolfram syndrome 1 (WFS1) gene using CRISPR-mediated HDR, which improved insulin secretion in iPSC-differentiated beta-like cells [3]. These advancements highlight the potential of CRISPR-based genome editing to correct monogenic forms of diabetes by targeting specific genetic mutations in vivo.",
+  "question": "What recent advancements have been made in leveraging CRISPR-based approaches to correct monogenic forms of diabetes in vivo?"
+}

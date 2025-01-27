@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2014 - The intestinal microbiome in type 1 diabetes.pdf",
+    "2010 - Gut Microbiota in Human Adults with Type 2 Diabetes.pdf",
+    "2014 - Diabetes in Europe An update.pdf",
+    "2016 - Integrated multi-omics of the human gut microbiome in a case study of familial type 1 diabetes.pdf",
+    "2012 - A metagenome-wide association study of gut microbiota in type 2 diabetes.pdf",
+    "2014 - Microbiota and diabetes an evolving relationship.pdf",
+    "2014 - Microbiota and diabetes an evolving relationship.pdf",
+    "2014 - Pathophysiology and treatment of type 2 diabetes.pdf",
+    "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf",
+    "2019 - Systems genetics approaches to probe gene function.pdf"
+  ],
+  "extraction_id": [
+    "b5ecc19b-eae0-51de-8e87-e5d01060e5be",
+    "0eb4bb40-b16c-5203-8c83-dac0695d43a2",
+    "5c27f434-3a7c-5ec9-80fc-6399dd3570c3",
+    "092a9b75-9985-5876-a650-59bc3f0d10fb",
+    "0a4d545f-0682-5ce1-b38c-88b5fdb4add3",
+    "44b12386-be75-5141-a5a0-77ab97136863",
+    "223f3f31-fb62-5f0d-ac8a-5a6deb1191d2",
+    "3754ce7f-9671-5636-a4e6-849fb672366a",
+    "736476e2-62be-52c5-b4a2-ee7cd7666a6f",
+    "5ab39f63-c4e0-56b8-b6ed-26df7bee89af"
+  ],
+  "document_id": [
+    "138189d1-a16e-5c76-9b19-bd6877e7ee6d",
+    "27aaf82e-944d-55b3-8b6d-cc43bcdb3eab",
+    "81e1fc53-6768-590f-9b47-9a5105b6ddb5",
+    "f0405966-38bf-5a04-aa2c-1474b11362bb",
+    "0c088ef3-83a7-5a5e-8308-011cf4b25924",
+    "4bbbe579-1d9e-50b8-9403-b50bc3282c8f",
+    "4bbbe579-1d9e-50b8-9403-b50bc3282c8f",
+    "ab9288ab-e3ad-58f1-b5ba-183ee17ce4bd",
+    "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d",
+    "1cd18d9c-0fd1-52e3-b0cf-c5e3ad0ff683"
+  ],
+  "id": [
+    "chatcmpl-AIHItZX0vwpceBtjbHWMD13xwSdHl",
+    "d79a5c86-df6a-5b3d-93b4-a26f47b47e83",
+    "6cef232c-d7c6-5968-ad74-2903b688793a",
+    "89360f80-d048-5c02-a61d-6d56a99eedcd",
+    "e7e8ef7b-bad0-54bc-814d-d947ea04756b",
+    "da881999-9d70-560f-91b3-eda465b7a639",
+    "2589b0db-190e-5847-aef0-0bc3b415fb94",
+    "a5d5d05b-a824-5b8f-a774-b0b9ec5d0182",
+    "63e887b3-0db0-547d-a81c-716909ead0b6",
+    "d9bc6a49-c40e-520f-9e2d-afa05829416f",
+    "b0aa9c89-a8f4-5388-97ed-5d6556c565e7"
+  ],
+  "contexts": [
+    "diabetes?  Is altered gut epithelial function and integrity important in the pathoge nesis of type 1 diabetes, and if so, what is the mechanism(s) and relation to dysbiosis and how do we demonstrate impaired function in humans?  How important are the interactions between host genetics, metab olism and the immune system in shaping the microbiome and predilection to disease?",
+    "the gut, which might trigger an inflammatory response and play arole in the development of diabetes. In conclusion, our data suggest that the levels of glucose tolerance or severity of diabetes should be considered while linking microbiota with obesity and other metabolic diseases in humans. It is especially important for developing the strategies to modify the gut microbiota inorder to control metabolic diseases, since obesity and diabetes mightbe associated with different bacterial populations. Methods",
+    "2011;342:d35. [68]  Hara  N,  Alkanani  AK,  Ir  D,  Robertson  CE,  Wagner  BD, Frank  DN,  et  al.  The  role  of  the  intestinal  microbiota  in type  1  diabetes.  Clin  Immunol  2013;146:1129. [69]  Beyan  H,  Wen  L,  Leslie  RD.  Guts,  germs,  and  meals:  the origin  of  type  1  diabetes.  Curr  Diab  Rep  2012;12:45662. [70]  Atkinson  MA,  Chervonsky  A.  Does  the  gut  microbiota  have a  role  in  type  1  diabetes?  Early  evidence  from  humans  and",
+    "diabetes. ISME J. 5,8291 (2011). 30. Brown, C. T. et al. Gut microbiome metagenomics analysis suggests a functional model for the development of autoimmunity for type 1 diabetes.PLoS ONE 6,e25792 (2011). 31. Endesfelder, D. et al. Compromised gut microbiota networks in children with anti-islet cell autoimmunity. Diabetes 63,2006 2014 (2014). 32. Kostic, A. D. et al. The dynamics of the human infant gut microbiome in development and in progression toward type 1 diabetes. Cell Host Microbe 17, 260273 (2015).",
+    "661678 (2007). 4. Scott, L. J. et al. A genome-wide association study of type 2 diabetes in Finns detects multiple susceptibility variants. Science 316, 13411345 (2007). 5. Musso, G., Gambino, R. & Cassader, M. Interactions between gut microbiota and host metabolism predisposing to obesity and diabetes. Annu. Rev. Med. 62, 361380 (2011). 6. Eckburg, P. B. et al. Diversity of the human intestinal microbial flora. Science 308, 16351638 (2005).",
+    "The gut microbiota affects numerous biological functionsthroughout the body and its characterisation has becomea major research area in biomedicine. Recent studieshave suggested that gut bacteria play a fundamental rolein diseases such as obesity, diabetes and cardiovasculardisease. Data are accumulating in animal models andhumans suggesting that obesity and type 2 diabetes(T2D) are associated with a profound dysbiosis. Firsthuman metagenome-wide association studiesdemonstrated highly signi cant",
+    "18 Burcelin R. Regulation of metabolism: a cross talk between gut microbiota and its human host. Physiology (Bethesda) 2012;27:300 7. 19 Breen DM, Rasmussen BA, Cote CD, et al . Nutrient-sensing mechanisms in the gut as therapeutic targets for diabetes. Diabetes 2013;62:3005 13. 20 Karlsson F, Tremaroli V, Nielsen J, et al . Assessing the human gut microbiota in metabolic diseases. Diabetes 2013;62:3341 9. 21 Backhed F, Ding H, Wang T, et al . The gut microbiota as an environmental factor",
+    "interactions play a role in human obesity, insulin resistance and type 2 diabetes? Obes Rev 2011; 12: 27281. 47 Kootte RS, Vrieze A, Holleman F, et al. The therapeutic potential of  manipulating gut microbiota in obesity and type 2 diabetes mellitus. Diabetes Obes Metab 2012; 14: 11220. 48 Qin J, Li Y , Cai Z, et al. A metagenome-wide association study of  gut microbiota in type 2 diabetes. Nature 2012; 490: 5560. 49 Karlsson FH, Tremaroli V, Nookaew I, et al. Gut metagenome in",
+    "Other factors Interest in the role of the gut microbiome in the devel - opment of T2DM has exploded in the past few years,  and variation in the diversity and composition of the gut  microbiota has been tied to T2DM100. For example, levels  of butyrate-producing bacteria are decreased in the gut  microbiota of patients with T2DM compared with that  of healthy individuals101. In addition, evidence suggests  that ambient air pollution is an emerging risk factor for",
+    "52. Parks, B.W., et al., Genetic control of obesity and gut microbiota composition in response to high -fat, high -sucrose  diet in mice.  Cell Metab, 2013. 17(1): p. 141 -52.  53. Org, E., et al., Genetic and environmental c ontrol of host -gut microbiota interactions.  Genome Res, 2015. 25(10):  p. 1558 -69.  54. McKnite, A.M., et al., Murine gut microbiota is defined by host genetics and modulates variation of metabolic traits.   PLoS One, 2012. 7(6): p. e39191."
+  ],
+  "answer": "The gut microbiome plays a significant role in modulating host genetic predispositions to diabetes through various mechanisms. The interactions between host genetics, metabolism, and the immune system are crucial in shaping the microbiome and influencing the predisposition to diseases like diabetes [1].   Research suggests that the gut microbiota affects numerous biological functions throughout the body, and its characterization has become a major research area in biomedicine. Studies have shown that gut bacteria play a fundamental role in diseases such as obesity and diabetes [6]. Dysbiosis, or an imbalance in the gut microbiota, is associated with obesity and type 2 diabetes (T2D), indicating that the composition of the gut microbiome can influence metabolic diseases [6].  Moreover, genetic control of the gut microbiota composition has been observed, suggesting that host genetics can influence the microbiome, which in turn can modulate metabolic traits and potentially affect the risk of developing diabetes [10]. This implies a bidirectional relationship where genetics can shape the microbiome, and the microbiome can influence the expression of genetic predispositions to diabetes.  In summary, the gut microbiome interacts with host genetics and metabolism, potentially modulating the risk of diabetes by influencing metabolic processes and immune responses [1], [6], [10].",
+  "question": "Can you elaborate on the role of the gut microbiome in modulating host genetic predispositions to diabetes?"
+}

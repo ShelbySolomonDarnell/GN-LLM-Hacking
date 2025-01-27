@@ -1,0 +1,191 @@
+{
+    "created_at": "2024-03-25T14:02:33.179370Z",
+    "data": {
+        "amplify": false,
+        "answer": "1. Diabetes incidence study where mice were tested for diabetes monthly by blood glucose and weekly by urine assessment.\n2. Studies involving transgenic/knockout animal models of type 2 diabetes to study the role of genes and their effects on peripheral insulin action.\n3. Study involving male type-2 diabetic db/db mice and genetic control non-diabetic db/ mice.\n4. Study involving young adult mice fed a high-fat or Western diet to elicit DIO and insulin resistance.\n5. Study involving Akita mouse genotyping.\n6. Study involving 12-week-old male type 2 diabetic db/db mice and contemporary control wild-type mice.\n7. Study involving transgenic mice to create specific models of type 1 and type 2 diabetes.\n8. Study involving AKITA mice derived from a C57BL/6NSlc mouse with a spontaneous mutation in the insulin 2 gene.\n9. Study monitoring mice for the development of diabetes.",
+        "context": {
+            "02a9d5a9-41a4-4d70-b828-c4bda13fa01c": [
+                {
+                    "document_id": "02a9d5a9-41a4-4d70-b828-c4bda13fa01c",
+                    "text": "Methods\n\nMouse models of diabetes.All animal studies were conducted according to a protocol approved by the Institutional Animal Care and Use Committee at the Beckman Research Institute of City of Hope.Male type-2 diabetic db/db mice (T2D leptin receptor deficient; Strain BKS.Cg-m þ / þ lepr db/J) and genetic control non-diabetic db/ þ mice (10-12 weeks old), were obtained from The Jackson Laboratory (Bar Harbor, ME) 11,17 .Male C57BL/6 mice (10 week old, The Jackson Laboratory) were injected with 50 mg kg À 1 of STZ intraperitoneally on 5 consecutive days.Mice injected with diluent served as controls.Diabetes was confirmed by tail vein blood glucose levels (fasting glucose 4300 mg dl À 1 ).Each group was composed of five to six mice.Mice were sacrificed at 4-5 or 22 (ref.17) weeks post-induction of diabetes.Glomeruli were isolated from freshly harvested kidneys by a sieving technique 11,17 in which renal capsules were removed, and the cortical tissue of each kidney separated by dissection.The cortical tissue was then carefully strained through a stainless sieve with a pore size of 150 mm by applying gentle pressure.Enriched glomerular tissue below the sieve was collected and transferred to another sieve with a pore size of 75 mm.After several washes with cold PBS, the glomerular tissue remaining on top of the sieve was collected.Pooled glomeruli were centrifuged, and the pellet was collected for RNA, protein extraction or for preparing MMCs 11,17 .Male Chop-KO mice were also obtained from the Jackson Laboratory (B6.129S(Cg)-Ddit3 tm2.1Dron /J).Based on our previous experience, sample size was determined to have enough power to detect an estimated difference between two groups.With minimum sample size of 5 in each group, the study can provide at least 80% power to detect an effect size of 2 between diabetic and non-diabetic groups or treated and untreated groups at the 0.05 significant level using two-sided t-test.Since we expected larger variation between groups especially for the mice with oligo-injection, we used more than 5 mice in each group (with 6 mice in each group, we have 80% power to detect an effect size of 1.8 at the 0.05 confidence level).Our actual results with current sample size did show statistical significance for majority of the miRNAs in the cluster.Histopathological and biochemical analysis of tissues or cells derived from animal models were performed by investigators masked to the genotypes or treatments of the animals."
+                }
+            ],
+            "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d": [
+                {
+                    "document_id": "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d",
+                    "text": "Diabetes incidence study. Mice were kept for 20-28 weeks and tested for diabetes monthly by blood glucose and weekly by urine assessment, with a positive indication being followed by twice-weekly blood testing.Mice were diagnosed as diabetic when the blood glucose concentration was over 260 mg/dl (14.4 mM) after 2-3 h of fasting for two sequential tests.Glucose and insulin tolerance tests were performed by injecting glucose (2 g/kg body weight) or insulin (1 U/kg body weight) intraperitoneally in mice fasted for 6-7 h.Tail vein blood was tested by a Contour glucometer.Assessments of plasma insulin, proinsulin and C-peptide levels were performed using commercial ELISA kits, according to the manufacturer's instructions (insulin, proinsulin and C-peptide mouse ELISA kits, R&D Systems Quantikine).Assays were performed with blinding, with mice coded by number until experimental end."
+                }
+            ],
+            "42e06cda-627e-46f2-a289-c4c1fb6af8f2": [
+                {
+                    "document_id": "42e06cda-627e-46f2-a289-c4c1fb6af8f2",
+                    "text": "Animal group and study design\n\nFirst, one set of animals comprising 12-week-old male type 2 diabetic db/db (C57BL/KsJ-db−/db−, n = 8) and contemporary control wild-type (C57BL/KsJ-db+/db−, n = 8) mice (Jackson Laboratories) were included in this study.Their weights and blood glucose levels were analysed to eliminate variation.Erectile functions of the animals were evaluated by the apomorphine-induced penile erection test, according to a previously described protocol (Pan et al. 2014).Afterwards, intracavernous pressure (ICP) investigations and histological measurements were applied to further confirm the results of the function tests.Then, all mice were sacrificed and the corpus cavernosum (CC) was collected from each mouse.Because the tissue of the CC is difficult to crush, we randomly collected the CCs from two mice and mixed them into one subgroup.As a result, four diabetic subgroups (DB groups) and four normal control subgroups (NC groups) were used for molecular measurements.Second, another set of animals, including three T2DMED and three normal control mice that were independent from the original set of animals, were included in the validation experiments using qRT-PCR.Third, another separate set of animals, including five T2DMED and five control mice, were used to verify one of the predicted targets, IGF-1, using ELISA.A luciferase reporter assay was performed to verify the binding of the differentially expressed miRNAs to the target gene IGF-1.All procedures were approved by the Institutional Animal Care and Use committee at Nanjing Medical University."
+                }
+            ],
+            "770beab7-59a4-4bbe-94a5-79a965ab696a": [
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nSummary of rodent models of type 2 diabetes"
+                },
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nSummary of rodent models of type 1 diabetes"
+                },
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "Knock-out and transgenic mice in diabetes research\n\nTransgenic mice have been used to create specific models of type 1 and type 2 diabetes, including hIAPP mice, humanized mice with aspects of the human immune system and mice allowing conditional ablation of beta cells, as outlined above.Beta cells expressing fluorescent proteins can also provide elegant methods of tracking beta cells for use in diabetes research (Hara et al., 2003)."
+                },
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "Genetically induced insulin-dependent diabetes\n\nAKITA mice.The AKITA mouse was derived in Akita, Japan from a C57BL/6NSlc mouse with a spontaneous mutation in the insulin 2 gene preventing correct processing of proinsulin.This causes an overload of misfolded proteins and subsequent ER stress.This results in a severe insulindependent diabetes starting from 3 to 4 weeks of age, which is characterized by hyperglycaemia, hypoinsulinaemia, polyuria and polydipsia.Untreated homozygotes rarely survive longer than 12 weeks.The lack of beta cell mass in this model makes it an alternative to streptozotocin-treated mice in transplantation studies (Mathews et al., 2002).It has also been used as a model of type 1 diabetic macrovascular disease (Zhou et al., 2011) and neuropathy (Drel et al., 2011).In addition, this model is commonly used to study potential alleviators of ER stress in the islets and in this respect models some of the pathology of type 2 diabetes (Chen et al., 2011)."
+                }
+            ],
+            "77daf125-3e88-41fe-92fd-71a9ce9c6671": [
+                {
+                    "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                    "text": "\n\nTo achieve a slow pathogenesis of T2DM, young adult mice 284 or rats 285 are fed a high-fat or Western diet to elicit DIO and insulin resistance.Single or multiple injections with low-dose streptozotocin (~30-40 mg/kg intraperitoneally) then elicit partial loss of β-cells, which results in hypoinsulinaemia and hyperglycaemia.Protocols are being continuously refined and likely differ between species and even strains 283 .The HFD streptozotocin rat is sensitive to metformin, further demonstrating the utility of this model 285 .Downsides of streptozotocin treatment include liver and kidney toxicity and mild carcinogenic adverse effects (TABLE 1)."
+                }
+            ],
+            "785df64a-ebbf-4dca-94dd-0ae27f7ac815": [
+                {
+                    "document_id": "785df64a-ebbf-4dca-94dd-0ae27f7ac815",
+                    "text": "Materials and methods\n2.1 Mouse models\n2.1.1 Mouse strains\n2.1.2 Induction of type 1 diabetes\n8\n2.1.3 Insulin treatment on diabetic mice\n2.1.4 Akita mouse genotyping\n2.2 Characterization of diabetic nephropathy in mice\n2.2.1 Proteinuria measurement\n2.2.2 Glomerular cells quantification\n2.2.3 Methenamine silver staining quantification\n\n3. 4. 5. 6."
+                }
+            ],
+            "7e809821-000d-4fff-971d-264650e3612b": [
+                {
+                    "document_id": "7e809821-000d-4fff-971d-264650e3612b",
+                    "text": "\n\nii) Rodent models of diabetic retinopathy"
+                }
+            ],
+            "8cb13eb6-a9b9-4f9f-8680-9b8add1c453d": [
+                {
+                    "document_id": "8cb13eb6-a9b9-4f9f-8680-9b8add1c453d",
+                    "text": "\n\nThere are some good reviews available in the literatures describing the transgenic/knockout animal models of type 2 diabetes [114][115][116][117][118] .The transgenic and knockout models are developed for studying the role of genes and their effects on peripheral insulin action such as insulin receptor, IRS-1, IRS-2, glucose transporter (GLUT 4), peroxisome proliferator activated receptor-g (PPAR-g) and tumour necrosis factor-a (TNF-a) as well as in insulin secretion such as GLUT-2, glucokinase (GK), islet amyloid polypeptide (IAPP) and GLP-1 and in hepatic glucose production (expression of PEPCK) associated with development of type 2 diabetes.Further, combination or double knockout mouse models including defect in insulin action and insulin secretion (e.g., IRS-1 +/-/GK +/-double knockout) have been produced which clearly illustrate the mechanisms associated with development of insulin resistance and beta cell dysfunction leading to overt hyperglycaemic state in human type 2 diabetes.These above genetically modified animals exhibit various phenotypic features of type 2 diabetes varying from mild to severe hyperglycaemia, insulin resistance, hyperinsulinaemia, impaired glucose tolerance and others as explained in detail elsewhere 6,9,[114][115][116][117][118] .Very recently, tissue specific knockout mouse models have been achieved, allowing further insight into the insulin action with respect to particular target tissues (muscle, adipose tissue and liver) associated with insulin resistance and type 2 diabetes 115,117,118 .The transgenic/knockout animals are currently used mostly for the mechanistic study in diabetes research and not usually recommended for screening programme as they are more complicated and costly."
+                }
+            ],
+            "afe6a42e-2c8b-4cfd-9334-157d1b9d15b6": [
+                {
+                    "document_id": "afe6a42e-2c8b-4cfd-9334-157d1b9d15b6",
+                    "text": "Functional deficits refs\n\nNon-Alzheimer-disease mouse [71][72][73][74]76,78,81,85,87 and rat 59,75,77 ,79,95,97  Mouse [81][82][83][84][85] and rat 79,111  Cerebral effects of inducing diabetes or insulin resistance in normal rodents (that is, non-Alzheimer-disease rodent models) and in rodents genetically modified to accumulate amyloidβ in the brain (that is, rodent models of Alzheimer disease). Common intervetions to induce diabetic conditions in rodents included recessive mutations in the leptin gene (Lep; also known as Ob), defects in the leptin receptor (LEPR; also known as OB-R), diet and administration of streptozotocin. Rodents with pancratic overexpression of human amylin spontaneously develop both type 2 diabetes mellitus and dementia-like pathology."
+                }
+            ],
+            "b954224b-333b-4d82-bb9a-6e5b3837849e": [
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\n\nAnimal models have been used extensively in diabetes research.Early studies used pancreatectomised dogs to confirm the central role of the pancreas in glucose homeostasis, culminating in the discovery and purification of insulin.Today, animal experimentation is contentious and subject to legal and ethical restrictions that vary throughout the world.Most experiments are carried out on rodents, although some studies are still performed on larger animals.Several toxins, including streptozotocin and alloxan, induce hyperglycaemia in rats and mice.Selective inbreeding has produced several strains of animal that are considered reasonable models of Type 1 diabetes, Type 2 diabetes and related phenotypes such as obesity and insulin resistance.Apart from their use in studying the pathogenesis of the disease and its complications, all new treatments for diabetes, including islet cell transplantation and preventative strategies, are initially investigated in animals.In recent years, molecular biological techniques have produced a large number of new animal models for the study of diabetes, including knock-in, generalized knock-out and tissue-specific knockout mice."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\n\nAnimal models of Type 2 diabetes mellitus"
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\n\nAs with the KK mouse, the Israeli sand rat model is particularly useful when studying the effects of diet and exercise [120] on the development of Type 2 diabetes."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\n\nAnimal models of Type 1 diabetes"
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "\nAnimal models have been used extensively in diabetes research.Early studies used pancreatectomised dogs to confirm the central role of the pancreas in glucose homeostasis, culminating in the discovery and purification of insulin.Today, animal experimentation is contentious and subject to legal and ethical restrictions that vary throughout the world.Most experiments are carried out on rodents, although some studies are still performed on larger animals.Several toxins, including streptozotocin and alloxan, induce hyperglycaemia in rats and mice.Selective inbreeding has produced several strains of animal that are considered reasonable models of Type 1 diabetes, Type 2 diabetes and related phenotypes such as obesity and insulin resistance.Apart from their use in studying the pathogenesis of the disease and its complications, all new treatments for diabetes, including islet cell transplantation and preventative strategies, are initially investigated in animals.In recent years, molecular biological techniques have produced a large number of new animal models for the study of diabetes, including knock-in, generalized knock-out and tissue-specific knockout mice."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "Rodent models of monogenic obesity and diabetes\n\nObesity and the consequent insulin resistance is a major harbinger of Type 2 diabetes mellitus in humans.Consequently, animal models of obesity have been used in an attempt to gain insights into the human condition.Some strains maintain euglycaemia by mounting a robust and persistent compensatory β -cell response, matching the insulin resistance with hyperinsulinaemia.The ob / ob mouse and fa / fa rats are good examples of this phenomenon.Others, such as the db / db mouse and Psammomys obesus (discussed later) rapidly develop hyperglycaemia as their β -cells are unable to maintain the high levels of insulin secretion required throughout life.Investigation of these different animal models may help explain why some humans with morbid obesity never develop Type 2 diabetes whilst others become hyperglycaemic at relatively modest levels of insulin resistance and obesity."
+                },
+                {
+                    "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                    "text": "Introduction\n\nAnimal experimentation has a long history in the field of diabetes research.The aim of this article is to review the commonly used animal models and discuss the recent technological advances that are being employed in the discipline.The review is based on an extensive literature search using the terms rodent, mouse, rat, animal model, transgenics, knockout, diabetes and pathogenesis, in scientific journal databases such as MEDLINE ®.In addition, abstracts presented at meetings of Diabetes UK, the European Association for the Study of Diabetes and the American Diabetes Association over the last 5 years were examined in order to gain an appreciation of recent and ongoing research projects."
+                }
+            ],
+            "ed1a5572-124a-4824-8b9c-5a540e5d6092": [
+                {
+                    "document_id": "ed1a5572-124a-4824-8b9c-5a540e5d6092",
+                    "text": "Assessment of Diabetes\n\nMice were monitored for the development of diabetes as described previously (Wicker et al. 1994)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "FFE5C939E5793BBDDC6D95D8AA6FAA32",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "diabetes",
+            "mouse",
+            "insulin",
+            "db/db",
+            "streptozotocin",
+            "AKITA",
+            "transgenic",
+            "knockout",
+            "glucose",
+            "tolerance"
+        ],
+        "metadata": [
+            {
+                "object": "Hyperglycemia and blood pressure were similar between Trpc6 knockout and wild-type Akita mice, but knockout mice were more insulin resistant. In cultured podocytes, knockout of Trpc6 inhibited expression of the Irs2 and decreased insulin responsiveness. Data suggest that knockout of Trpc6 in Akita mice promotes insulin resistance and exacerbates glomerular disease independent of hyperglycemia.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab367197"
+            },
+            {
+                "object": "High levels of IP6K3 mRNA were found in myotubes and muscle tissues. Expression was elevated under diabetic, fasting, and disuse conditions in mouse skeletal muscles. Ip6k3-/- mice had lower blood glucose, less insulin, decreased fat, lower weight, increased plasma lactate, enhanced glucose tolerance, lower glucose during an insulin tolerance test, and reduced muscle Pdk4 expression. Ip6k3 deletion extended lifespan.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab348326"
+            },
+            {
+                "object": "The SORBS1 GG genotype of rs2281939 was associated with a higher risk of diabetes at baseline, an earlier onset of diabetes, and higher steady-state plasma glucose levels in the modified insulin suppression test. The minor allele T of rs2296966 was associated with higher prevalence and incidence of diabetes, an earlier onset of diabetes, and higher 2-h glucose during oral glucose tolerance test in Chinese patients.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab872946"
+            },
+            {
+                "object": "Mice overexpressing protein S showed significant improvements in blood glucose level, glucose tolerance, insulin sensitivity, and insulin secretion compared with wild-type counterparts. diabetic protein S transgenic mice developed significantly less severe diabetic glomerulosclerosis than controls.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab482040"
+            },
+            {
+                "object": "Sequence difference between C57BL/6J and C57BL/6N strains of mice. Pmch knockout mice display decreased circulating glucose, abnormal glucose tolerance and increased oxygen consumption. N carries a private missense variant in this gene isoleucine to threonine. N mice display increased oxygen consumption, but higher circulating glucose levels and normal glucose tolerance compared to J.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab5150"
+            },
+            {
+                "object": "Ghrl-/- and Ghsr-/- male mice studied after either 6 or 16 h of fasting had blood glucose concentrations comparable with those of controls following intraperitoneal glucose, or insulin tolerance tests, or after mixed nutrient meals. Collectively, our data provide strong evidence against a paracrine ghrelin-GHSR axis mediating insulin secretion or glucose tolerance in lean, chow-fed adult mice.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab322269"
+            },
+            {
+                "object": "Patients with type 2 diabetes have significantly higher concentrations of plasma fetuin-B compared with normal glucose tolerance subjects and plasma fetuin-B is strongly associated with glucose and lipid metabolism, chronic inflammation and first-phase glucose-stimulated insulin secretion and insulin resistance.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab584502"
+            },
+            {
+                "object": "In wild-type mice, elevated bile acids impair hepatic insulin sensitivity by blunting the insulin suppression of hepatic glucose production. The impaired hepatic insulin sensitivity could not be attributed to TGR5 signaling, as TGR5 knockout mice exhibited a similar inhibition of insulin suppression of hepatic glucose production.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab406411"
+            },
+            {
+                "object": "Gestational glucose tolerance in WT mice, but not Ffar2-/- mice improved while on antibiotics.  Gestational glucose tolerance worsened in Ffar2-/- mice during a second pregnancy.  Maternal Ffar2 expression had no effect on the growth rates and glucose and glucose tolerance in the offspring.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab321474"
+            },
+            {
+                "object": "ApoA-I is inversely associated with insulin resistance in patients with impaired glucose tolerance, and low apoA-I is an independent risk factor for impaired glucose tolerance IGT. These results indicate that apoA-I plays an important role in regulating insulin sensitivity and glucose metabolism in patients with IGT.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab76907"
+            }
+        ],
+        "question": "List mouse studies that involve insulin.",
+        "subquestions": null,
+        "task_id": "FFE5C939E5793BBDDC6D95D8AA6FAA32",
+        "usage": {
+            "chatgpt": 5772,
+            "gpt-4": 4159,
+            "gpt-4-turbo-preview": 3223
+        },
+        "user_id": 2
+    },
+    "document_id": "FFE5C939E5793BBDDC6D95D8AA6FAA32",
+    "task_id": "FFE5C939E5793BBDDC6D95D8AA6FAA32"
+}

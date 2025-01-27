@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2006 - Beyond the evolutionary theory.pdf",
+    "2011 - Genomics of human longevity.pdf",
+    "2023 - Genome-wide RNA polymerase stalling.pdf",
+    "2009 - High tandem repeat content in the genome of the short-lived.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2007 - Impaired Genome Maintenance Suppresses.pdf",
+    "2006 - Genomic Instability.pdf",
+    "2003 - Lifelong voluntary exercise in the mouse prevents.pdf"
+  ],
+  "extraction_id": [
+    "a933e419-b369-5de5-8236-a1944a486e51",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+    "373c0bb8-f6b2-5c6b-b768-226b12ba6385",
+    "89586b79-902d-5e2b-9b8a-b7a8c4971783",
+    "31088092-778f-59e0-a9de-5ec25c241aab",
+    "fcb05f39-0821-56e1-a627-92911d4d46bc",
+    "8f165f13-b4a5-5553-a992-f4a70b079898",
+    "74482eef-9eb3-5915-838e-5f1f0439c410",
+    "634526cb-daa7-5769-a3f2-741931964ccd",
+    "b6422281-0ef4-58f3-9d43-4c8c7534e057"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "a8da3f57-a8dc-55c3-9dc9-eb778105e680",
+    "2e038219-fdaa-506f-9cd3-51379054130e",
+    "78812a12-8d31-5159-8367-b0d38e5bc84b",
+    "bcc64bfb-9b7f-5f6f-83f3-861ab8f8a8e3",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "4ed9d527-4f92-51a3-a5d7-6caab655b1be",
+    "c9c9a8d6-2daf-5ff2-86bd-84e087ba1a47",
+    "24d4f270-f45b-5830-84f9-b1e5bcd3c070"
+  ],
+  "id": [
+    "chatcmpl-AIHWn49FE1NOTaexKIcZmCPOm6e2F",
+    "bc91a693-0eff-5911-ae9a-b192f1088119",
+    "8ac8b243-f23c-596d-add2-441df4e980a9",
+    "759ea147-5ac2-5d48-80f2-3693f56d4afc",
+    "fc227aaf-85c1-553f-aa59-d9bcdd803aaf",
+    "a0198ed1-1303-5652-aafc-1a1287914ac4",
+    "e3a78ec1-7f79-55db-a13d-196f718f8a1d",
+    "bdebc11c-26ca-5ac0-bab3-503bd7d25f50",
+    "9868d78e-6151-5383-9d52-542a8b43c50f",
+    "58d61a19-d5b0-501c-90a9-2eeb66866c07",
+    "e51c4436-0895-5adb-8a80-a3e1ee6956dd"
+  ],
+  "contexts": [
+    "the attention of researchers as a therapeutic target for age-related diseases [109].  Resveratrol, a phytochemical enriched in the skin of red grapes and wine, has been  actively investigated to determine whether it promotesSIRTs activity with conse- quent beneficial effects on aging [110].  IGF Because insulin/IGF-1 function through signaling as a nutrient sensor and controls  the transcription of stress response genes, the insulin/IGF-1 pathway provides a",
+    "the use of lowered IGF signaling (e.g., by target-ing IGF receptors) to treat certain age-related diseasessuch as cancer (Pollak et al., 2004), Alzheimers disease(Cohen et al., 2009), and autoimmune diseases (Smith,2010). Moreover, a number of genes and pathways associ-ated with longevity and CR are part of nutrient-sensingpathways that also regulate growth and development, in-cluding the insulin/IGF1/GH pathway (Narasimhan et",
+    "as insulinIGF-1 signalling [6], cellular senescence [4], protein refolding [4345] , autophagy [41] and phase 1 and 2 detoxication [36,37,52] . These represent major points of intervention against ageing-related disease. As shown here, lifespan pathways control improved cellular maintenance, which leads to slowed ageing(e.g. slowed normal cognitive ageing) and protection against diseases of ageing (e.g. neurodegenerative diseases of ageing, such as Alzheimers and Parkinsons",
+    "ent-sensing pathways such as insulin/insulin-likegrowth factor (IGF-1) signalling (IIS) and target of rapamycin (TOR) signalling mediated lifespan exten- sion, and also the extension of lifespan by DR [ 2]. An interesting observation from the perspective ofhuman ageing is that, in rodents and monkeys, dietsrestricted in glucose, fat or protein uptake reduced ordelayed the risk of cancer and metabolic disease,thus extending the healthspan of the animals [ 2]. Fol-",
+    "43. Svensson, J. et al. Liver-derived IGF-I regulates mean life span in mice. PLoS ONE 6, e22640 (2011). 44. Junnila, R. K., List, E. O., Berryman, D. E., Murrey, J. W. & Kopchick, J. J. The GH/IGF-1 axis in ageing and longevity. Nat. Rev.  Endocrinol. 9, 366376 (2013). 45. Yuan, R. et al. Aging in inbred strains of mice: study design and interim report on median lifespans and circulating IGF1 levels.  Aging Cell 8, 277287 (2009). 46. Zhu, H. et al. Reference ranges for serum insulin-like growth",
+    "5. Piper MD, Selman C, McElwee JJ, Partridge L: Separating cause from effect: how does insulin/I GF signalling control lifespan in worms, flies and mice?   J Intern Med  2008, 263:179-191. 6. Holzenberger M, Kappeler L, De Magalhaes Filho C: IGF-1 signaling and aging.   Exp Gerontol  2004, 39:1761-1764. 7. Zahn JM, Kim SK: Systems biology of aging in four species.   Curr Opin Biotechnol  2007, 18:355-359. 8. McElwee JJ, Schuster E, Blanc E,  Piper MD, Thomas JH, Patel DS,",
+    "humans enriched for familial longevity. Aging Cell. 2016;15(6):112631.  44. Lee WS, Kim J.Insulin-like growth factor-1 signaling in cardiac aging. Biochim Biophys Acta  Mol basis Dis. 2018;1864(5 Pt B):19318.  45. Balasubramanian P, Longo VD. Growth factors, aging and age-related diseases. Growth  Hormon IGF Res. 2016;28:668.  46. Suzuki K, etal. Serum insulin-like growth factor-1 levels in neurodegenerative diseases. Acta  Neurol Scand. 2019;139(6):5637.",
+    "paradigms for lifespan extension (C. elegans, D. melanogaster), genetic interference in the insulin-signaling pathway can prolong life multi-fold [47,48]. In mammals, IGF1-decient, Ames and Snell dwarf mice (characterized by defects in the development of the anterior pituitary due to mutations in the Prop-1 and Pit1 loci and diminished levels of GH, thyroid stimulating hormone, and prolactin hormone) combine",
+    "the role of IGF-1 in life span regulation is complex. In theory,SIRT6 might play a role in insulin signaling, similar to Sir2 fac- tors in other lower organisms. However, as in the prematureaging mouse models described above, it remains unclear whether the altered serum IGF-1/insulin levels of SIRT-6- decient mice directly contribute to aging-like phenotypesor, alternatively, reect compensatory alterations. In this re- gard, it will be of interest to determine whether SIRT6 is",
+    "lin-like growth factors (IGFs), and receptors in theinsulin-signaling pathway has been shown to confergreater longevity in yeast (12, 16), nematodes (21, 44),fruit ies (10, 43), mutant long-lived mice (4, 11), and caloric-restricted mice (40). Therefore, the as-yet un-identi ed mechanism of insulin signaling on lifespan"
+  ],
+  "answer": "The insulin/IGF-1 signaling pathway has been identified as a significant target for extending healthspan and lifespan due to its role as a nutrient sensor and its control over the transcription of stress response genes [1]. Here are the therapeutic potentials and challenges associated with targeting this pathway:  ### Therapeutic Potentials: 1. **Treatment of Age-Related Diseases**: Lowering IGF signaling, such as by targeting IGF receptors, has been proposed as a treatment for age-related diseases including cancer, Alzheimer's disease, and autoimmune diseases [2]. This suggests that modulating this pathway could have broad therapeutic applications in managing diseases associated with aging.     2. **Lifespan Extension**: Genetic interference in the insulin-signaling pathway has been shown to prolong life in various organisms, including C. elegans, D. melanogaster, and certain mouse models [8]. This indicates a potential for extending lifespan through targeted interventions in this pathway.  3. **Improved Cellular Maintenance**: The insulin/IGF-1 signaling pathway is involved in processes such as cellular senescence, protein refolding, and autophagy, which are crucial for cellular maintenance and protection against aging-related diseases [3]. Enhancing these processes could lead to slowed aging and improved healthspan.  ### Challenges: 1. **Complexity of the Pathway**: The role of IGF-1 in lifespan regulation is complex, and it is not fully understood how alterations in this pathway contribute to aging phenotypes [9]. This complexity poses a challenge in developing targeted therapies without unintended consequences.  2. **Balancing Growth and Longevity**: The insulin/IGF-1 pathway is also involved in regulating growth and development. Therefore, interventions that reduce IGF signaling must carefully balance the trade-offs between promoting longevity and maintaining necessary growth functions [2].  3. **Species-Specific Responses**: While interventions in the insulin/IGF-1 pathway have shown promising results in model organisms, translating these findings to humans is challenging due to species-specific differences in the pathway's role and regulation [8].  Overall, while targeting the insulin/IGF-1 signaling pathway holds significant promise for extending healthspan and lifespan, it requires careful consideration of the pathway's complexity and the potential trade-offs involved.",
+  "question": "What are the therapeutic potentials and challenges of targeting the insulin/IGF-1 signaling pathway for extending healthspan and lifespan?"
+}

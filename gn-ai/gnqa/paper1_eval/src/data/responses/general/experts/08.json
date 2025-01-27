@@ -1,0 +1,415 @@
+{
+    "created_at": "2024-06-01T14:31:40.882988Z",
+    "data": {
+        "amplify": false,
+        "answer": "The text does not provide specific instructions on how to add a new species to the GeneNetwork database. It is recommended to contact the administrators or operators of the GeneNetwork database for guidance on this process.",
+        "context": {
+            "0e6c370f-b514-4551-b6ed-9cc72e6f6b75": [
+                {
+                    "document_id": "0e6c370f-b514-4551-b6ed-9cc72e6f6b75",
+                    "text": "The hierarchical organization of GN’s main Select and Search menu is\nsimple and makes it relatively easy to find relevant data sets (Fig. 1). To get data, after\nopening the browser, select the most appropriate Species from the dropdown menu. For an\nopen-ended search of phenotypes you can also select All Species at the bottom of the menu. The next steps are to select the Group, Type, and Data Set from the drop-down menus. For\nmany groups, a combination of phenotypes, genotypes, and molecular data are available."
+                }
+            ],
+            "4049da4d-c7cf-4e30-9a21-c77609fad23d": [
+                {
+                    "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                    "text": "GeneNetwork contains data from a\nwide range of species, from humans to soybeans, but most of the available phenotypic data is\nfrom mice. Within the mouse dataset there are groups of families, crosses, non-genetic\ngroupings, and individual data. The type of dataset must be selected after defining the species\nand sample population. While genotypes, mRNA, methylated DNA, protein, metagenomic, and\n2\nbioRxiv preprint doi: https://doi.org/10.1101/2020.12.23.424047; this version posted December 24, 2020. The copyright holder for this preprint\n(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. metabolome datasets are available (i.e."
+                }
+            ],
+            "43407486-b9c2-487b-b19c-b605c4d201c6": [
+                {
+                    "document_id": "43407486-b9c2-487b-b19c-b605c4d201c6",
+                    "text": "The hierarchical organization of GN’s main Select and Search menu is\nsimple and makes it relatively easy to find relevant data sets (Fig. 1). To get data, after\nopening the browser, select the most appropriate Species from the dropdown menu. For an\nopen-ended search of phenotypes you can also select All Species at the bottom of the menu. The next steps are to select the Group, Type, and Data Set from the drop-down menus. For\nmany groups, a combination of phenotypes, genotypes, and molecular data are available."
+                }
+            ],
+            "47a15e69-dc83-452e-95d8-c605e61f43c0": [
+                {
+                    "document_id": "47a15e69-dc83-452e-95d8-c605e61f43c0",
+                    "text": "Search and Data Retrieval\nPoint your browser to www.genenetwork.org. This brings you by default to\nthe Search page, from which you can retrieve data from many GN data sets. We will focus on the default data set, defined by Species: Mouse, Group: BXD,\nType: Whole Brain, Database: INIA Brain mRNA M430 (Apr05) PDNN\nEnter “Kcnj*” into the ALL or ANY field and click the Search button. Note\nthe location and annotation of available potassium channel genes in the Search\nResults page that opens. Use the browser Back button to return to previous page."
+                }
+            ],
+            "638b3811-7054-4788-a42d-2ccc7bfce1c7": [
+                {
+                    "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                    "text": "Add\ninformation on data provenance by giving details in Investigation, Protocols and ProtocolApplications\n\nCustomize Customize ‘my’ XGAP database with extended variants of Trait and Subject. In the online XGAP demonstrator, Probe traits have a\nsequence and genome location and Strain subjects have parent strains and (in)breeding method. Describe extensions using MOLGENIS\nlanguage and the generator automatically changes XGAP database software to your research\nUpload\n\nUpload data from measurement devices, public databases, collaborating XGAP databases, or a public XGAP repository with community\ndata."
+                },
+                {
+                    "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                    "text": "However, a suitable and customizable integration of\nthese elements to support high throughput genotype-tophenotype experiments is still needed [34]: dbGaP, GeneNetwork and the model organism databases are\ndesigned as international repositories and not to serve\nas general data infrastructure for individual projects;\nmany of the existing bespoke data models are too complicated and specialized, hard to integrate between profiling technologies, or lack software support to easily\nconnect to new analysis tools; and customization of the\nexisting infrastructures dbGaP, GeneNetwork or other\ninternational repositories [35,36] or assembly of Bioconductor and generic model organism database components to suit particular experimental designs, organisms\nand biotechnologies still requires many minor and\nsometimes major manual changes in the software code\nthat go beyond what individual lab bioinformaticians\ncan or should do, and result in duplicated efforts\nbetween labs if attempted."
+                }
+            ],
+            "75813bc2-f0b5-400c-92d7-0958df97a04f": [
+                {
+                    "document_id": "75813bc2-f0b5-400c-92d7-0958df97a04f",
+                    "text": ", 2014; see Section 9). GeneNetwork is a database that enables searching for ∼4000 phenotypes from multiple studies in the BXD, HXB, and in other recombinant inbred rodent families, as well as in other model organisms\nand even humans (Mulligan et al. , 2017). GeneNetwork employed a\nsomewhat diﬀerent strategy than MPD in that it did not rely solely on\nresearchers submitting their data. Instead the database operators extracted the data from the scientiﬁc literature and integrated them into a\nuniform format (Chesler et al. , 2003)."
+                }
+            ],
+            "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d": [
+                {
+                    "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                    "text": "GeneNetwork contains data from a\nwide range of species, from humans to soybeans, but most of the available phenotypic data is\nfrom mice. Within the mouse dataset there are groups of families, crosses, non-genetic\ngroupings, and individual data. The type of dataset must be selected after defining the species\nand sample population. While genotypes, mRNA, methylated DNA, protein, metagenomic, and\n2\nbioRxiv preprint doi: https://doi.org/10.1101/2020.12.23.424047; this version posted December 24, 2020. The copyright holder for this preprint\n(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. metabolome datasets are available (i.e."
+                }
+            ],
+            "85ee9743-b34d-4d49-9017-d7d2e5d4b996": [
+                {
+                    "document_id": "85ee9743-b34d-4d49-9017-d7d2e5d4b996",
+                    "text": "However, a suitable and customizable integration of these elements\nto support high throughput genotype-to-phenotype experiments is still\nneeded[340]: dbGaP, GeneNetwork and the model organism databases\nare designed as international repositories and not to serve as general\ndata infrastructure for individual projects; many of the existing bespoke\ndata models are too complicated and specialized, hard to integrate between proﬁling technologies, or lack software support to easily connect\nto new analysis tools; and customization of the existing infrastructures\ndbGaP, GeneNetwork or other international repositories[384, 154] or\nassembly of Bioconductor and generic model organism database components to suit particular experimental designs, organisms and biotechnologies still requires many minor and sometimes major manual changes\n38\n2.1."
+                }
+            ],
+            "92fa8f50-2923-41a1-812b-32d931c71684": [
+                {
+                    "document_id": "92fa8f50-2923-41a1-812b-32d931c71684",
+                    "text": "All data presented in this paper were deposited in the online database\nGeneNetwork (www.genenetwork.org), an open web resource that contains\ngenotypic, gene expression, and phenotypic data from several genetic reference\npopulations of multiple species (e.g. mouse, rat and human) and various cell\ntypes and tissues.35;36 It provides a valuable tool to integrate gene networks and\nphenotypic traits, and also allows cross-cell type and cross-species comparative\ngene expression and eQTL analyses."
+                }
+            ],
+            "d2f9c5cf-835c-450a-bb42-a2454a99e058": [
+                {
+                    "document_id": "d2f9c5cf-835c-450a-bb42-a2454a99e058",
+                    "text": "There is a good chance that you will be able to apply these new\ntechniques to specific problems, even while you read. If you have a computer with an\nInternet connection—so much the better, and you can read and work along at the same time. This short review and primer will take you on a tour of a web site called GeneNetwork that\nembeds many large data sets that are relevant to studies of behavioral variation. GeneNetwork is an unusual site because it contains a coherent \"universe\" of data, as well as\nmany powerful analytic tools."
+                }
+            ],
+            "dbe5a781-3561-48cb-9f63-cfb4f3246434": [
+                {
+                    "document_id": "dbe5a781-3561-48cb-9f63-cfb4f3246434",
+                    "text": "The GeneNetwork database provides open access\nto BXD and other RI strain derived microarray data, single nucleotide polymorphism (SNP) data,\nand phenotypic data for quantitative trait loci analysis and gene expression correlation analyses. Gene expression data were exported for manually selected probes in the PDNN hippocampus\ndatabase (Hippocampus Consortium M430v2), and the PDNN whole brain database (INIA Brain\nmRNA M430). The Hippocampus database was chosen as one of the most elaborate brain databases,\nas well as most highly recommended dataset on GeneNetwork itself (http://www.genenetwork.org/\nwebqtl/main.py?FormID=sharinginfo&GN_AccessionId=112)."
+                }
+            ],
+            "f041550e-5f2d-430e-8f46-15ebea6ca496": [
+                {
+                    "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                    "text": "2016) and can\nalso be accessed in GeneNetwork by entering Record ID 18494 in the Get Any\nspace on the Search page and clicking on the Search button. Alternatively, enter\ndata by hand into the designated boxes provided by GeneNetwork. These latter\noptions also allow for the inclusion of trait variance. It is a good idea to name\nthe trait in the box provided. Then click Next, and manually enter the data for\neach RI strain, F1, and founder strain. 3\n\nAuthor Manuscript\n\nAfter entering the data, click on the blue plus sign button called Add."
+                },
+                {
+                    "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                    "text": "To submit multiple phenotypes at the same\ntime, select the option for Batch Submission under the Home tab. This allows\nusers to submit up to 100 traits for analysis by GeneNetwork. Here, select BXD\nas the cross or RI set to analyze from the first pull-down menu. The phenotype\nfile should follow the format described in the Sample text (http://\ngenenetwork.org/sample.txt). After uploading the appropriate file using the\nBrowse button, enter a name for the file in the Dataset space. The data will be\nstored in the GeneNetwork server for 24 hours. Click Next."
+                },
+                {
+                    "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                    "text": "Author Manuscript\n\nMaterials\nHere we will provide detailed instructions for using GeneNetwork along with some\n“worked” examples taken from the recent study of intravenous cocaine self-administration\nby Dickson et al. (2016) in BXD RI mice. A complete overview of GeneNetwork is beyond\nthe scope of this protocol, but is extensively covered in elsewhere (see Mulligan et al. 2016;\nWilliams & Mulligan 2012 for excellent reviews on GeneNetwork). A computer with an internet connection and current web browser. See the GeneNetwork.org\nsite for information on supported browser versions. Author Manuscript\n\nMethod\nEntering Data\n\nAuthor Manuscript\n\n1\n\nLink to http://www.genenetwork.org."
+                }
+            ],
+            "f2b8524b-501d-4ec7-a3d7-048aab67ce05": [
+                {
+                    "document_id": "f2b8524b-501d-4ec7-a3d7-048aab67ce05",
+                    "text": "\n\nSpecies in GenAge model organisms"
+                }
+            ],
+            "f9b2eeba-5f93-49c1-8828-311f0797d9e3": [
+                {
+                    "document_id": "f9b2eeba-5f93-49c1-8828-311f0797d9e3",
+                    "text": "Data are reviewed before entry in\nGeneNetwork by the senior author. Phenotypes are currently split into 15 broad\nphenotypic categories (Supplementary Data 1). Phenome curation and description\nwas initiated by R.W.W. and Dr Elissa Chesler in 2002 by literature review and data\nextraction. The early work is described brieﬂy in Chesler et al.51,52. Most work over\nthe past 5 years has been performed by two of the coauthors (R.W.W. and\nM.K.M.). We have used a controlled vocabulary and set of rules described here\n(http://www.genenetwork.org/faq.html#Q-22)."
+                }
+            ],
+            "fa8bba46-ce94-439a-a676-35187a3abcbf": [
+                {
+                    "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                    "text": "9) To bring your data to GeneWeaver,\nclick on the GeneWeaver icon, making sure to be previously\nlogin to your GeneWeaver account. You will be brought to the\nGeneSet upload page with the Genes Uploaded and the\nGeneweaver Analysis Platform\n\n139\n\nFig. 5 Default settings at GeneNetwork.org are set to search “Mouse”, “Phenotypes”, from among the “BXD\nPublished Phenotypes” data set. Here the term nociception was searched for\n\nFig. 6 The search results page in GeneNetwork showing the 33 records retrieved from the phenotype search\nfor nociception."
+                },
+                {
+                    "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                    "text": "Users may also share their data with other users selectively,\nmake it public, or keep it restricted to a private account. Data can be\nimported by users, uploading their gene set data directly or exporting to GeneWeaver from within another online resource such as\nNeuro Informatics Framework (NIF) [8], Grappa [9], Mouse\nPhenome Database (MPD) [10] or GeneNetwork [11]. These datasets can then be added to your collection to be analyzed together\nwith other gene sets retrieved from the GeneWeaver database. To begin a GeneWeaver analysis a user must collect “GeneSets”\ntogether in a “Project”."
+                },
+                {
+                    "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                    "text": "Alternatively the spreadsheet can be saved as a .txt file\nand uploaded by clicking on “Switch to file upload.” Once\ncomplete click on upload GeneSet. 7. Once completed you are taken to the GeneSet detail page. If\nthere are errors in your uploaded data you can correct them by\nclicking on “Edit”. 8. Use the Add Selected to Project, and create a new project, e.g. “Chronic Cocaine”. 9. Now using the Search function populate this project with additional gene sets related to this study trying Queries such as\n“Cocaine Addiction”, “Chronic Cocaine”."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                "section_type": "main",
+                "text": "2016) and can\nalso be accessed in GeneNetwork by entering Record ID 18494 in the Get Any\nspace on the Search page and clicking on the Search button.  Alternatively, enter\ndata by hand into the designated boxes provided by GeneNetwork.  These latter\noptions also allow for the inclusion of trait variance.  It is a good idea to name\nthe trait in the box provided.  Then click Next, and manually enter the data for\neach RI strain, F1, and founder strain.\n 3\n\nAuthor Manuscript\n\nAfter entering the data, click on the blue plus sign button called Add."
+            },
+            {
+                "document_id": "75813bc2-f0b5-400c-92d7-0958df97a04f",
+                "section_type": "main",
+                "text": ", 2014; see Section 9).\n GeneNetwork is a database that enables searching for ∼4000 phenotypes from multiple studies in the BXD, HXB, and in other recombinant inbred rodent families, as well as in other model organisms\nand even humans (Mulligan et al. , 2017).  GeneNetwork employed a\nsomewhat diﬀerent strategy than MPD in that it did not rely solely on\nresearchers submitting their data.  Instead the database operators extracted the data from the scientiﬁc literature and integrated them into a\nuniform format (Chesler et al. , 2003)."
+            },
+            {
+                "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                "section_type": "main",
+                "text": "Add\ninformation on data provenance by giving details in Investigation, Protocols and ProtocolApplications\n\nCustomize Customize ‘my’ XGAP database with extended variants of Trait and Subject.  In the online XGAP demonstrator, Probe traits have a\nsequence and genome location and Strain subjects have parent strains and (in)breeding method.  Describe extensions using MOLGENIS\nlanguage and the generator automatically changes XGAP database software to your research\nUpload\n\nUpload data from measurement devices, public databases, collaborating XGAP databases, or a public XGAP repository with community\ndata."
+            },
+            {
+                "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                "section_type": "main",
+                "text": "9) To bring your data to GeneWeaver,\nclick on the GeneWeaver icon, making sure to be previously\nlogin to your GeneWeaver account.  You will be brought to the\nGeneSet upload page with the Genes Uploaded and the\nGeneweaver Analysis Platform\n\n139\n\nFig.  5 Default settings at GeneNetwork.org are set to search “Mouse”, “Phenotypes”, from among the “BXD\nPublished Phenotypes” data set.  Here the term nociception was searched for\n\nFig.  6 The search results page in GeneNetwork showing the 33 records retrieved from the phenotype search\nfor nociception."
+            },
+            {
+                "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                "section_type": "main",
+                "text": "To submit multiple phenotypes at the same\ntime, select the option for Batch Submission under the Home tab.  This allows\nusers to submit up to 100 traits for analysis by GeneNetwork.  Here, select BXD\nas the cross or RI set to analyze from the first pull-down menu.  The phenotype\nfile should follow the format described in the Sample text (http://\ngenenetwork.org/sample.txt).  After uploading the appropriate file using the\nBrowse button, enter a name for the file in the Dataset space.  The data will be\nstored in the GeneNetwork server for 24 hours.  Click Next."
+            },
+            {
+                "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                "section_type": "main",
+                "text": "Author Manuscript\n\nMaterials\nHere we will provide detailed instructions for using GeneNetwork along with some\n“worked” examples taken from the recent study of intravenous cocaine self-administration\nby Dickson et al.  (2016) in BXD RI mice.  A complete overview of GeneNetwork is beyond\nthe scope of this protocol, but is extensively covered in elsewhere (see Mulligan et al.  2016;\nWilliams & Mulligan 2012 for excellent reviews on GeneNetwork).\n A computer with an internet connection and current web browser.  See the GeneNetwork.org\nsite for information on supported browser versions.\n\n Author Manuscript\n\nMethod\nEntering Data\n\nAuthor Manuscript\n\n1\n\nLink to http://www.genenetwork.org."
+            },
+            {
+                "document_id": "0e6c370f-b514-4551-b6ed-9cc72e6f6b75",
+                "section_type": "main",
+                "text": "The hierarchical organization of GN’s main Select and Search menu is\nsimple and makes it relatively easy to find relevant data sets (Fig.  1).  To get data, after\nopening the browser, select the most appropriate Species from the dropdown menu.  For an\nopen-ended search of phenotypes you can also select All Species at the bottom of the menu.\n The next steps are to select the Group, Type, and Data Set from the drop-down menus.  For\nmany groups, a combination of phenotypes, genotypes, and molecular data are available."
+            },
+            {
+                "document_id": "43407486-b9c2-487b-b19c-b605c4d201c6",
+                "section_type": "main",
+                "text": "The hierarchical organization of GN’s main Select and Search menu is\nsimple and makes it relatively easy to find relevant data sets (Fig.  1).  To get data, after\nopening the browser, select the most appropriate Species from the dropdown menu.  For an\nopen-ended search of phenotypes you can also select All Species at the bottom of the menu.\n The next steps are to select the Group, Type, and Data Set from the drop-down menus.  For\nmany groups, a combination of phenotypes, genotypes, and molecular data are available."
+            },
+            {
+                "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                "section_type": "main",
+                "text": "Users may also share their data with other users selectively,\nmake it public, or keep it restricted to a private account.  Data can be\nimported by users, uploading their gene set data directly or exporting to GeneWeaver from within another online resource such as\nNeuro Informatics Framework (NIF) [8], Grappa [9], Mouse\nPhenome Database (MPD) [10] or GeneNetwork [11].  These datasets can then be added to your collection to be analyzed together\nwith other gene sets retrieved from the GeneWeaver database.\n To begin a GeneWeaver analysis a user must collect “GeneSets”\ntogether in a “Project”."
+            },
+            {
+                "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                "section_type": "main",
+                "text": "However, a suitable and customizable integration of\nthese elements to support high throughput genotype-tophenotype experiments is still needed [34]: dbGaP, GeneNetwork and the model organism databases are\ndesigned as international repositories and not to serve\nas general data infrastructure for individual projects;\nmany of the existing bespoke data models are too complicated and specialized, hard to integrate between profiling technologies, or lack software support to easily\nconnect to new analysis tools; and customization of the\nexisting infrastructures dbGaP, GeneNetwork or other\ninternational repositories [35,36] or assembly of Bioconductor and generic model organism database components to suit particular experimental designs, organisms\nand biotechnologies still requires many minor and\nsometimes major manual changes in the software code\nthat go beyond what individual lab bioinformaticians\ncan or should do, and result in duplicated efforts\nbetween labs if attempted."
+            },
+            {
+                "document_id": "f2b8524b-501d-4ec7-a3d7-048aab67ce05",
+                "section_type": "main",
+                "text": "\n\nSpecies in GenAge model organisms"
+            },
+            {
+                "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                "section_type": "main",
+                "text": "Alternatively the spreadsheet can be saved as a .txt file\nand uploaded by clicking on “Switch to file upload.” Once\ncomplete click on upload GeneSet.\n 7.  Once completed you are taken to the GeneSet detail page.  If\nthere are errors in your uploaded data you can correct them by\nclicking on “Edit”.\n 8.  Use the Add Selected to Project, and create a new project, e.g.\n “Chronic Cocaine”.\n 9.  Now using the Search function populate this project with additional gene sets related to this study trying Queries such as\n“Cocaine Addiction”, “Chronic Cocaine”."
+            },
+            {
+                "document_id": "85ee9743-b34d-4d49-9017-d7d2e5d4b996",
+                "section_type": "main",
+                "text": "However, a suitable and customizable integration of these elements\nto support high throughput genotype-to-phenotype experiments is still\nneeded[340]: dbGaP, GeneNetwork and the model organism databases\nare designed as international repositories and not to serve as general\ndata infrastructure for individual projects; many of the existing bespoke\ndata models are too complicated and specialized, hard to integrate between proﬁling technologies, or lack software support to easily connect\nto new analysis tools; and customization of the existing infrastructures\ndbGaP, GeneNetwork or other international repositories[384, 154] or\nassembly of Bioconductor and generic model organism database components to suit particular experimental designs, organisms and biotechnologies still requires many minor and sometimes major manual changes\n38\n2.1."
+            },
+            {
+                "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                "section_type": "main",
+                "text": "GeneNetwork contains data from a\nwide range of species, from humans to soybeans, but most of the available phenotypic data is\nfrom mice.  Within the mouse dataset there are groups of families, crosses, non-genetic\ngroupings, and individual data.  The type of dataset must be selected after defining the species\nand sample population.  While genotypes, mRNA, methylated DNA, protein, metagenomic, and\n2\nbioRxiv preprint doi: https://doi.org/10.1101/2020.12.23.424047; this version posted December 24, 2020.  The copyright holder for this preprint\n(which was not certified by peer review) is the author/funder.  All rights reserved.  No reuse allowed without permission.\n\n metabolome datasets are available (i.e."
+            },
+            {
+                "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                "section_type": "main",
+                "text": "GeneNetwork contains data from a\nwide range of species, from humans to soybeans, but most of the available phenotypic data is\nfrom mice.  Within the mouse dataset there are groups of families, crosses, non-genetic\ngroupings, and individual data.  The type of dataset must be selected after defining the species\nand sample population.  While genotypes, mRNA, methylated DNA, protein, metagenomic, and\n2\nbioRxiv preprint doi: https://doi.org/10.1101/2020.12.23.424047; this version posted December 24, 2020.  The copyright holder for this preprint\n(which was not certified by peer review) is the author/funder.  All rights reserved.  No reuse allowed without permission.\n\n metabolome datasets are available (i.e."
+            },
+            {
+                "document_id": "92fa8f50-2923-41a1-812b-32d931c71684",
+                "section_type": "main",
+                "text": "All data presented in this paper were deposited in the online database\nGeneNetwork (www.genenetwork.org), an open web resource that contains\ngenotypic, gene expression, and phenotypic data from several genetic reference\npopulations of multiple species (e.g.  mouse, rat and human) and various cell\ntypes and tissues.35;36 It provides a valuable tool to integrate gene networks and\nphenotypic traits, and also allows cross-cell type and cross-species comparative\ngene expression and eQTL analyses."
+            },
+            {
+                "document_id": "f9b2eeba-5f93-49c1-8828-311f0797d9e3",
+                "section_type": "main",
+                "text": "Data are reviewed before entry in\nGeneNetwork by the senior author.  Phenotypes are currently split into 15 broad\nphenotypic categories (Supplementary Data 1).  Phenome curation and description\nwas initiated by R.W.W.  and Dr Elissa Chesler in 2002 by literature review and data\nextraction.  The early work is described brieﬂy in Chesler et al.51,52.  Most work over\nthe past 5 years has been performed by two of the coauthors (R.W.W.  and\nM.K.M.).  We have used a controlled vocabulary and set of rules described here\n(http://www.genenetwork.org/faq.html#Q-22)."
+            },
+            {
+                "document_id": "d2f9c5cf-835c-450a-bb42-a2454a99e058",
+                "section_type": "main",
+                "text": "There is a good chance that you will be able to apply these new\ntechniques to specific problems, even while you read.  If you have a computer with an\nInternet connection—so much the better, and you can read and work along at the same time.\n This short review and primer will take you on a tour of a web site called GeneNetwork that\nembeds many large data sets that are relevant to studies of behavioral variation.\n GeneNetwork is an unusual site because it contains a coherent \"universe\" of data, as well as\nmany powerful analytic tools."
+            },
+            {
+                "document_id": "47a15e69-dc83-452e-95d8-c605e61f43c0",
+                "section_type": "main",
+                "text": "Search and Data Retrieval\nPoint your browser to www.genenetwork.org.  This brings you by default to\nthe Search page, from which you can retrieve data from many GN data sets.\n We will focus on the default data set, defined by Species: Mouse, Group: BXD,\nType: Whole Brain, Database: INIA Brain mRNA M430 (Apr05) PDNN\nEnter “Kcnj*” into the ALL or ANY field and click the Search button.  Note\nthe location and annotation of available potassium channel genes in the Search\nResults page that opens.\n Use the browser Back button to return to previous page."
+            },
+            {
+                "document_id": "dbe5a781-3561-48cb-9f63-cfb4f3246434",
+                "section_type": "main",
+                "text": "The GeneNetwork database provides open access\nto BXD and other RI strain derived microarray data, single nucleotide polymorphism (SNP) data,\nand phenotypic data for quantitative trait loci analysis and gene expression correlation analyses.\n Gene expression data were exported for manually selected probes in the PDNN hippocampus\ndatabase (Hippocampus Consortium M430v2), and the PDNN whole brain database (INIA Brain\nmRNA M430).  The Hippocampus database was chosen as one of the most elaborate brain databases,\nas well as most highly recommended dataset on GeneNetwork itself (http://www.genenetwork.org/\nwebqtl/main.py?FormID=sharinginfo&GN_AccessionId=112)."
+            },
+            {
+                "document_id": "4edf9e5c-915d-4e38-b48f-2a0b82132bd0",
+                "section_type": "main",
+                "text": "Then, users can, with a single\nmouse-click, send these variables to the BNW network building\ninterface and start network modeling.  The applications of BNW\nmay go beyond systems genetics as it can be used as a general webbased engine for causal inference in various databases.\n References\n1.  The Genomes Project, C (2015) A global reference for human genetic variation.  Nature\n526:68–74\n2.  Visscher PM, Brown MA, McCarthy MI, Yang\nJ (2012) Five years of GWAS discovery.  Am\nJ Hum Genet 90:7–24\n3."
+            },
+            {
+                "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                "section_type": "main",
+                "text": "The software behind the GUI checks the\nrelationships between subjects, traits, and data elements\nSwertz et al.  Genome Biology 2010, 11:R27\nhttp://genomebiology.com/2010/11/3/R27\n\nso no ‘orphaned’ data are loaded into the database - for\nexample, genetic fingerprint data cannot be added\nbefore all information is uploaded on the markers and\nsubjects involved.  Standard paths through the data\nupload process are employed to ensure that only complete and valid data are uploaded and to provide a consistent user experience.\n Biologists can use the graphical user interface to navigate and retrieve available data for analysis."
+            },
+            {
+                "document_id": "bec58804-181a-4683-8e51-0ec6d381da69",
+                "section_type": "main",
+                "text": "3, 2008\n\nAnother approach to helping researchers integrate data obtained\nat different levels and in different organisms is GeneNetwork,1\na Web site and resource (www.genenetwork.org) that provides\n1\nGeneNetwork is sponsored by different grants, including grants from INIA and a Human\nBrain Project funded jointly by NIAAA, the National Institute on Drug Abuse, and the\nNational Institute of Mental Health.\n\n ROBERT W. WILLIAMS, PH.D., is a professor, and LU LU,\nM.D. , is an associate professor in the Department of Anatomy\nand Neurobiology, University of Tennessee Health Science\nCenter, Memphis, Tennessee."
+            },
+            {
+                "document_id": "9d225f6f-e434-45a7-b199-f3a09eda1d04",
+                "section_type": "main",
+                "text": "GeneNetwork2 (www.genenetwork.org/) is an online data repository and tool for analyzing thousands\nof historical gene expression, physiological, and behavioral traits in the BXD recombinant inbred panel that\nsegregates C57BL/6J and DBA/2J alleles (Chesler et al.  2004; Mulligan et al.  2017).\n METHODS\nMice\nAll experiments were conducted in accordance with the NIH Guidelines for the Use of Laboratory Animals\nand were approved by the Institutional Animal Care and Use Committee at Boston University (AN-15403)."
+            },
+            {
+                "document_id": "d8993417-3a27-4000-b693-6cb4662b9f80",
+                "section_type": "main",
+                "text": "The GeneNetwork.org (http://www.genenetwork.org/,\naccessed on 2 February 2022) website allows this combination of FAIR data and reproducible\ngenomes, meaning that research teams can now go back to previous datasets and reanalyse\nthem with new data and new tools.  Every new dataset adds exponentially to the number of\npossible connections.  In this paper, we will reanalyse drug and addiction related data from\nover a decade ago, using new genometypes for the BXD family of murine strains, as well\nas new statistical tools, showing that we can identify new quantitative trait loci (QTLs),\nresulting in highly plausible candidate genes."
+            },
+            {
+                "document_id": "d0deb53b-7286-4fd0-9188-b7b9f366fd76",
+                "section_type": "main",
+                "text": "The GeneNetwork.org (http://www.genenetwork.org/,\naccessed on 2 February 2022) website allows this combination of FAIR data and reproducible\ngenomes, meaning that research teams can now go back to previous datasets and reanalyse\nthem with new data and new tools.  Every new dataset adds exponentially to the number of\npossible connections.  In this paper, we will reanalyse drug and addiction related data from\nover a decade ago, using new genometypes for the BXD family of murine strains, as well\nas new statistical tools, showing that we can identify new quantitative trait loci (QTLs),\nresulting in highly plausible candidate genes."
+            },
+            {
+                "document_id": "beb7a242-21fe-4a66-8b44-7f228c0d3640",
+                "section_type": "main",
+                "text": "By\nintegrating datasets from an unsequenced crop plant (barley) in a database that has been designed for an animal\nmodel species (mouse) with well established genome\nsequence, we prove the importance of the concept and\npractice of modular development and interoperability of\nsoftware engineering for biological data sets.\n\n Availability and requirements\nGeneNetwork usage conditions and limitations are available from here [58].  Online tutorial accompanying this\n\nPage 9 of 11\n(page number not for citation purposes)\nBMC Genetics 2008, 9:73\n\nmanuscript can be either viewed or downloaded from the\n[59]."
+            },
+            {
+                "document_id": "d2f9c5cf-835c-450a-bb42-a2454a99e058",
+                "section_type": "main",
+                "text": "Web services such as GeneNetwork and its\ncompanions—GeneWeaver (Baker et al. , 2012), WebGestalt (Zhang et al. , 2005), DAVID\n(Huang et al. , 2009a; Huang et al. , 2009b), and the Allen Brain Atlas (Lein et al. , 2007)—\ncan now be used as virtual and free laboratories to test specific biological hypothesis, or they\ncan be used to generate new ideas ab initio.\n\n Acknowledgments\nNIH-PA Author Manuscript\n\nWe would like to thank the Center for Integrative and Translational Genomics for graciously supporting the BXD\ncolony at the University of Tennessee Health Science Center."
+            },
+            {
+                "document_id": "23dcf284-7c19-4335-91e1-50c3b85e6bad",
+                "section_type": "main",
+                "text": "The Mouse\nGenome Database (MGD) has structured their mouse genomic data in terms of the Mammalian Phenotype Ontology\n[10].  Similarly, the Rat Genome Database (RGD) [11] also\ndeveloped a phenome database, integrated with its genomic\ndata.  In humans, the GeneNetwork (WebQTL) provides a\ndatabase of complex traits with mappings to quantitative trait\nloci [12].  And several studies have focused on integrating\nhuman phenome and genome resources.  For example, Butte\net al.  created a large-scale phenome–genome network by\nintegrating the Uniﬁed Medical Language System with human\nmicroarray gene expression data [13]; and Aerts et al."
+            },
+            {
+                "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                "section_type": "main",
+                "text": "The authors of any related manuscript (or the lab group who gathered\nthe data) are shown, as well as the title and links to the published paper (Figure 4C).  There is\nalso a button to add the trait to a collection (see below; Figure 4D), and to view this trait in the\n4\nbioRxiv preprint doi: https://doi.org/10.1101/2020.12.23.424047; this version posted December 24, 2020.  The copyright holder for this preprint\n(which was not certified by peer review) is the author/funder.  All rights reserved.  No reuse allowed without permission.\n\n earlier version of GeneNetwork, GN1 (Figure 4E)."
+            },
+            {
+                "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                "section_type": "main",
+                "text": "The authors of any related manuscript (or the lab group who gathered\nthe data) are shown, as well as the title and links to the published paper (Figure 4C).  There is\nalso a button to add the trait to a collection (see below; Figure 4D), and to view this trait in the\n4\nbioRxiv preprint doi: https://doi.org/10.1101/2020.12.23.424047; this version posted December 24, 2020.  The copyright holder for this preprint\n(which was not certified by peer review) is the author/funder.  All rights reserved.  No reuse allowed without permission.\n\n earlier version of GeneNetwork, GN1 (Figure 4E)."
+            },
+            {
+                "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                "section_type": "main",
+                "text": "This option enables upload of whole lists of traits and\nsubjects from a simple tab-delimited format (3), which\ncan easily be produced with Excel or R; MOLGENIS\nautomatically generates online documentation describing\nthe expected format (4).  Subsequently, the protocol\napplications involved can be added with the resulting\nraw data (for example, genetic fingerprints, expression\nprofiles) and processed data (for example, normalized\nprofiles, QTL profiles, metabolic networks).  These data\ncan be uploaded, again using the common tab-delimited\nformat or custom parsers (5) that bioinformaticians can\n‘plug-in’ for specific file formats (for example, Affymetrix CEL files)."
+            },
+            {
+                "document_id": "638b3811-7054-4788-a42d-2ccc7bfce1c7",
+                "section_type": "main",
+                "text": "They can\nuse the advanced search options (6) to find certain\ntraits, subjects, or data.  Using menu option ‘file|download’ (7) they can download visible/selected (8) data as\ntab-delimited files to analyze them in third party software.  Bioinformaticians can ‘plug-in’ a custom-built\nscreen (see ‘customization’ section) that allows processing of selected data inside the GUI, for example, visualizing a correlation matrix as a graph (9) without the\nadditional steps of downloading data and uploading it\ninto another tool.  Biologists can create link-outs to\nrelated information, for example, to probes in GeneNetwork.org (not shown)."
+            },
+            {
+                "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                "section_type": "main",
+                "text": "If you have chosen a\nrecombinant inbred set, your data will be displayed in a form where you can\n\nCurr Protoc Neurosci.  Author manuscript; available in PMC 2018 April 10.\n Parker et al.\n\n Page 5\n\nAuthor Manuscript\n\nconfirm and/or edit them.  GeneNetwork provides sample data so that you can\nensure you have the correct format."
+            },
+            {
+                "document_id": "4a34fec8-ff56-4ec0-b51c-c21c130e53dd",
+                "section_type": "main",
+                "text": "The data are stored in a SQL-based database, and a web interface\n(http://genomics.cnr.berkeley.edu/BarleyTag/unigene result.pl) was developed to\naid in searching the results from the database.  Its availability will facilitate making\ndetailed comparisons of the protein and DNA data available for these plant species.\n Queries can be performed using various options, including species, percent identity, length of a match, sequence type (CDS or EST), or by key word.  The database\nwill be continuously updated as additional sequence information becomes available."
+            },
+            {
+                "document_id": "e17b5b05-4676-4b3d-a625-74d453c342bd",
+                "section_type": "main",
+                "text": "The data are stored in a SQL-based database, and a web interface\n(http://genomics.cnr.berkeley.edu/BarleyTag/unigene result.pl) was developed to\naid in searching the results from the database.  Its availability will facilitate making\ndetailed comparisons of the protein and DNA data available for these plant species.\n Queries can be performed using various options, including species, percent identity, length of a match, sequence type (CDS or EST), or by key word.  The database\nwill be continuously updated as additional sequence information becomes available."
+            },
+            {
+                "document_id": "fa8bba46-ce94-439a-a676-35187a3abcbf",
+                "section_type": "main",
+                "text": "If you cannot find the\ncorrect identifier or your identifier is not supported try converting at a website such as NIAID’s DAVID website (https://\ndavid.ncifcrf.gov/) which has a nice ID conversion tool [26].\n\n Acknowledgements\nGeneWeaver is currently supported by NIH AA18776 jointly\nfunded by NIAAA/NIDA.\n References\n1.  Smith CL, Eppig JT (2012) The Mammalian\nPhenotype Ontology as a unifying standard for\nexperimental and high-throughput phenotyping data.  Mamm Genome 23(9–10):653–668.\n doi:10.1007/s00335-012-9421-3\n2."
+            },
+            {
+                "document_id": "85ee9743-b34d-4d49-9017-d7d2e5d4b996",
+                "section_type": "main",
+                "text": "This option enables upload of whole lists of traits\nand subjects from a simple tab-delimited format (3), which can easily\nbe produced with Excel or R; MOLGENIS automatically generates online documentation describing the expected format (4).  Subsequently,\nthe protocol applications involved can be added with the resulting raw\ndata (for example, genetic ﬁngerprints, expression proﬁles) and processed data (for example, normalized proﬁles, QTL proﬁles, metabolic\nnetworks).  These data can be uploaded, again using the common tabdelimited format or custom parsers (5) that bioinformaticians can ‘plugin’ for speciﬁc ﬁle formats (for example, Aﬀymetrix CEL ﬁles)."
+            },
+            {
+                "document_id": "f041550e-5f2d-430e-8f46-15ebea6ca496",
+                "section_type": "main",
+                "text": "BASIC PROTOCOL TITLE: Genetic mapping and\nsystems genetics using GeneNetwork\nIntroductory paragraph\nGeneNetwork (www.genenetwork.org) is a free online resource for systems genetics that\nstores and analyzes behavioral phenotypes, physiological phenotypes, and large gene\nexpression data-sets with matched genomic data for numerous species, including mice.\n GeneNetwork can analyze a variety of mouse mapping populations, (including F2\n\nCurr Protoc Neurosci.  Author manuscript; available in PMC 2018 April 10.\n Parker et al."
+            },
+            {
+                "document_id": "bb5ed347-0f54-431a-a125-97b9d762b003",
+                "section_type": "main",
+                "text": "GeneNetwork’s WebQTL provides a direct link to the\nUniversity of California, Santa Cruz Genome Browser (URL\n\nThe UCSC Genome Browser also provides links to the\nNational Center for Biotechnology Information resources\nThe Journal of Undergraduate Neuroscience Education (JUNE), Fall 2009, 8(1):A26-A31\n\nsuch as Entrez Gene and PUBMED (URLs in References).\n These resources allow the students to discover more\ninformation about their highly expressed gene including its\nnucleotide and amino acid sequence, as well as find\narticles about their gene that provide a deeper intellectual\ninvolvement in this exercise.\n Our website has already been populated with some of\nthese materials http://mdcune.psych.ucla.edu/."
+            }
+        ],
+        "document_id": "FA1E32391509D1EEAEBB70D3014C444A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "GeneNetwork",
+            "Record&ID&18494",
+            "Search&page",
+            "Add",
+            "Trait",
+            "RI&strain",
+            "F1",
+            "founder&strain",
+            "Batch&Submission",
+            "GeneWeaver",
+            "GeneSet",
+            "Project",
+            "Cocaine&Addiction",
+            "Chronic&Cocaine",
+            "Species",
+            "Mouse",
+            "BXD",
+            "HXB",
+            "Phenotypes",
+            "genotypes",
+            "mRNA",
+            "methylated&DNA",
+            "protein",
+            "metagenomic",
+            "metabolome"
+        ],
+        "metadata": [
+            {
+                "object": "Both ANXA11 G38R protein and ANXA11 D40G protein showed a shorter half-life than ANXA11 wild type protein, while there was no difference between ANXA11 G38R protein and ANXA11 D40G protein. There was no visible insoluble substance in the NP-40 lysates for ANXA11 wild type protein, ANXA11 G38R protein and ANXA11 D40G protein. G38R and D40G mutations reduce the stability of ANXA11 protein.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab106261"
+            },
+            {
+                "object": "We showed that Rheumatoid was more likely with the AA genotype compared with the AG genotype of SNP rs2977537, and with the TT genotype, or the GG genotype compared with the GT genotype of rs2929973, and with the AA genotype or GG genotype vs the AG genotype of rs2977530",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1013556"
+            },
+            {
+                "object": "mRNA and protein expression levels of DNMT3b were upregulated in genotype 1b and 3a HCV-infected hepatocellular carcinoma patients as compared to control. DNMT3b mRNA levels did not change in genotypes 2a, 3, and 4, but were upregulated at the protein level by genotype 1b, 2a, and 3a. No differences were seen for genotypes 5 and 7.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab503048"
+            },
+            {
+                "object": "The genotype GG group had higher consumption of Remifentanil than the genotype AA group P<0.05, but the genotype AG group was not different from the genotype AA and GG groups P>0.05. The analepsia time, autonomous respiratory recovery time, and orientation recovery time in the genotype GG group were longer than in the genotype AA group P<0.05, but the genotype AG group was not different from the genotype AA and GG.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab818259"
+            },
+            {
+                "object": "plasma exposure resulted in expression of unfolded protein response UPR proteins such as glucoserelated protein 78 GRP78, protein kinase R PKRlike ER kinase PERK, and inositolrequiring enzyme 1 IRE1. Elevated expression of spliced Xbox binding protein 1 XBP1 and CCAAT/enhancerbinding protein homologous protein CHOP further confirmed that ROS generatedby NTGP induces apoptosis through the ER stress",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab599086"
+            },
+            {
+                "object": "MST3 protein coats lipid droplets in mouse liver cells from mice fed a high-fat diet. MST3 fully colocalized with ADRP, the main LD-coating protein in mouse liver. No MST3 protein was detected in the cytosolic fraction.  High mRNA and protein expression of MST3 was also found in organs that do not accumulate significant amounts of intracellular LDs.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab504219"
+            },
+            {
+                "object": "ID1 protein and mRNA expression decreased during myoblast differentiation. Lactacystin reversed the decrease in ID1 protein but not in ID1 mRNA expression, but cycloheximide prevented this reversal. Direct incubation of ID1 protein with proteasomes from myoblasts did not show differentiation stage-associated degradation of ID1 protein. Ubiquitinated ID1 protein was not detected in lactacystin-treated myoblasts",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab369968"
+            },
+            {
+                "object": "plasma exposure resulted in expression of unfolded protein response UPR proteins such as glucoserelated protein 78 GRP78, protein kinase R PKRlike ER kinase PERK, and inositolrequiring enzyme 1 IRE1. Elevated expression of spliced Xbox binding protein 1 XBP1 and CCAAT/enhancerbinding protein homologous protein CHOP further confirmed that ROS generatedby NTGP induces apoptosis through the ER stress",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab599087"
+            },
+            {
+                "object": "For the MYF5 gene, the C5084T and T5127A SNP genotypes were significantly associated with carcass traits of pigeons. Within those two SNPs, the BB genotype showed relatively higher trait association values than those of AA or AB genotypes. No significant association was observed between the KLF15 SNP genotypes and carcass traits.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab300762"
+            },
+            {
+                "object": "For the MYF5 gene, the C5084T and T5127A SNP genotypes were significantly associated with carcass traits of pigeons. Within those two SNPs, the BB genotype showed relatively higher trait association values than those of AA or AB genotypes. No significant association was observed between the KLF15 SNP genotypes and carcass traits.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab300761"
+            }
+        ],
+        "question": "How can I add a new species to the GeneNetwork database?",
+        "subquestions": null,
+        "task_id": "FA1E32391509D1EEAEBB70D3014C444A",
+        "usage": {
+            "chatgpt": 5344,
+            "gpt-4": 3726,
+            "gpt-4-turbo-preview": 2725
+        },
+        "user_id": 2
+    },
+    "document_id": "FA1E32391509D1EEAEBB70D3014C444A",
+    "task_id": "FA1E32391509D1EEAEBB70D3014C444A"
+}

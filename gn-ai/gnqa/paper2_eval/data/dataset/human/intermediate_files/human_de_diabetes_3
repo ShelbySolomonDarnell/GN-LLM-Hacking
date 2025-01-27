@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf"
+  ],
+  "extraction_id": [
+    "c9f99f8c-8432-59fa-8392-38eba8a63d8b",
+    "55a150e2-71ee-5b88-bbbb-22eecc2ff5e4",
+    "1e4b6f6f-e67a-53ef-8af6-78aa4c9ce112",
+    "23654fd6-b738-5c3b-9e6b-9b29ea47df38",
+    "76e4f0c7-ffb4-5643-b8d7-46cc584cfbf8",
+    "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+    "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+    "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+    "4f65affc-d78a-5048-86f3-22c0e12d298c",
+    "4f65affc-d78a-5048-86f3-22c0e12d298c"
+  ],
+  "document_id": [
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40"
+  ],
+  "id": [
+    "chatcmpl-ADYmiyBbswpmJDsIM9Hrs7jxPruIX",
+    "430a5d63-0af9-569e-b9db-2cc4262f1d77",
+    "0337dd9b-7228-5664-aff3-fa20c0f04d6d",
+    "c6c8b56a-1f17-5d96-bea4-787673f11be9",
+    "e5ac3a01-3a53-5239-b1d0-26ee4e72f37b",
+    "b9f46fff-157d-5007-ae86-987d9b5022b5",
+    "0940a12a-fee5-57ca-9a9f-ce720b43119e",
+    "0752929d-fb98-5c2f-b47f-e493f25ac70d",
+    "d8db4432-bb66-59de-bb9e-c0667ec9010c",
+    "f5909a51-0d41-5aee-ac5a-8d47550ef094",
+    "adf9b377-f569-5f08-be4b-4d9d1913990c"
+  ],
+  "contexts": [
+    "understood. It seems that interactions between multiple genes and environmental factors may play a role.  One of these factors is dietary factors. There is evidence supporting the role  of nutrient- gene interactions   in DM pathophysiology  [5]. Thus, a greater understanding of potential gene -nutrient interactions may  be relevant for DM prevention and treatment.  Nutrigenetics and nutrigenomics are defined as the science of the effects of genetic variation on",
+    "nutrition  [12] . The identi  cation of gene variants that contribute  both to variation in fetal growth and to the susceptibility to T2DM, however, suggests that this metabolic   programming   could also be partly genetically determined  [13] .   These complex interactions between genes and environment  complicate the task of identifying any single genetic susceptibility factor for T2DM. Three general approaches have been adopted",
+    "Nutrients 2014, 6 5340    However, while the a pplication of these technologies is becoming more accessible, analysis of the  complex large data sets that are generated  presents multiple challenges.   The aim of the present review was to provide insights regarding the role of nutrient -gene interactions  in DM pathogenesis, prevention and treatment. In addition, we explored how an individuals genetic  makeup can affect nutrient metabolism and the response to nutrient intake, potentially leading to DM.",
+    "Nutrients 2014, 6 5343    3. Gene -Nutrient or Dietary Patter n Interactions in T he Development of T2DM   Recently, several studies have d emonstrated the  significant effects of genotype by environment  interactions on T2D M [48,49] . However, further clarification of the role of these interactions at the  genome -wide level could help predict disease risk more accurately and facilitate the development of",
+    "in nutritional epidemiology: applications, needs and  new horizons .Hum Genet 125, 507525. Kaput, J., Noble, J., Hatipoglu, B., et al. ( 2007) Application of nutrigenomic concepts to type 2 diabetes melli-tus.Nutr Metab Cardiovasc Dis 17,89103. Ordovas, J.M., Kaput, J., and Corella, D. ( 2007) Nutrition in the genomics era: cardiovascular disease risk and  the Mediterranean diet .Mol Nutr Food Res 51, 12931299. van Ommen, B., El-Sohemy , A., Hesketh, J., et al . ( 2010)",
+    "dietary patterns according to genetic variations, the role of gene -nutrient interactions, gene - diet-phenotype interactions and epigenetic modifications caused by nutrients; these studies  will facilitate an understanding of the early molecular events that occur in DM and will contribute to the identification of better biomarke rs and diagnostics tools. In particular, this",
+    "Abstract:  Diabetes mellitus (DM) is considered a global pandemic, and the incidence of  DM continues to grow worldwide. Nutrients and dietary patterns are central issues in the  prevention, development and treatment of this disease. The pathogenesis of DM is not  comp letely understood, but nutrient -gene interactions at different levels, genetic predisposition  and dietary factors appear to be involved. Nutritional genomics studies generally focus on",
+    "approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications. This rev iew discusses the current state of nutrigenetics, nutrigenomics and  epigenomics research on DM. Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression, OPEN ACCESS",
+    "It was previously report ed that food intake is a key component that affects the incidence of DM. Thus,  the identification and analysis of nutrient/gene interactions are necessary steps to understand DM etiopathogenesis. In general, nutrients can affect gene expression via different mechanisms: ( i) directly;  (ii) through their metabolites and ( iii) through signal tran sduction molecules (Figure 1).",
+    "Nutrients 2014, 6 5347    3.4. Importance of Genotype by Macronutrient Interactions for T2DM -Related Traits   Recently, using genome -wide complex trait anal ysis, the genome -environment contribution of   14 dietary factors (glycemic load, total energy, protein, total fat, SF A, MUFA, PUFA, n- 3 PUFA,   n-6 PUFA, n-3:n-6 PUFA, carbohydrate, alcohol intake, trans fat and fiber) to the total phenotypic  variance of 4 T2DM -related traits (fasting glucose, fasting insulin, HOMA -IR and HOMA of  cell"
+  ],
+  "answer": "Genomics can be used to better understand the nutritional factors of diabetes through the study of nutrient-gene interactions, which play a significant role in the pathophysiology of diabetes mellitus (DM) [1]. Nutrigenetics and nutrigenomics are fields that focus on how genetic variations affect nutrient metabolism and the body's response to nutrient intake, which can influence the development and progression of DM [3].   By identifying gene variants that contribute to both fetal growth and susceptibility to Type 2 Diabetes Mellitus (T2DM), researchers can better understand how metabolic programming is partly genetically determined [2]. This understanding can help in predicting disease risk more accurately and developing personalized dietary recommendations to prevent and manage DM [4].  Moreover, studying gene-nutrient interactions can reveal early molecular events in DM, contributing to the identification of better biomarkers and diagnostic tools [6]. This approach can also facilitate the development of tailored diets that maximize the use of nutrients and functional ingredients in food, aiding in the prevention and delay of DM and its complications [8].   Overall, genomics provides insights into how nutrients can affect gene expression through various mechanisms, such as directly, through their metabolites, or through signal transduction molecules [9]. This comprehensive understanding can lead to more effective prevention and treatment strategies for diabetes based on individual genetic profiles.",
+  "question": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+}

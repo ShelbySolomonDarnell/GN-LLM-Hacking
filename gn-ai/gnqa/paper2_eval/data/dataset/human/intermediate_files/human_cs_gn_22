@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2014 - Computational tools to aid the design and development of a genetic reference population.pdf",
+    "2020 - Precision and Personalized Medicine How Genomic.pdf",
+    "2016 - Coming of age ten years of next.pdf",
+    "2012 - Next Steps in Cardiovascular Disease Genomic Research.pdf",
+    "2016 - Coming of age ten years of next.pdf"
+  ],
+  "extraction_id": [
+    "cad1dcca-621d-5003-ba3a-81950819bc52",
+    "cad1dcca-621d-5003-ba3a-81950819bc52",
+    "4cdf13c0-c505-5ff9-9a6e-b10e5d1c8819",
+    "5da5fc5d-1fe6-58f0-9141-72b9b2996fff",
+    "8c9e74de-fe33-53c9-a26a-c4e4be6ab217",
+    "a744f8ce-7920-5fb8-acce-912f70112924",
+    "de09f30d-e9ba-5379-8c7a-85b2cd2ed6c8",
+    "5da5fc5d-1fe6-58f0-9141-72b9b2996fff",
+    "c2635fbd-ed4f-574a-be56-076a770af2b4",
+    "abff2242-b300-56f4-9974-2eefc93ae1aa"
+  ],
+  "document_id": [
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "70cbde25-6406-5a31-91ae-57f430e8f267",
+    "cd11028a-933b-52a0-9534-c173323056ef",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0",
+    "5cde24e3-2463-5751-8ef3-97cda391449b",
+    "9dd6e4e9-d136-507b-b628-68c8e1461bd0"
+  ],
+  "id": [
+    "chatcmpl-ADZLof1DVn6jbHUiHhxz6hRe0WZVb",
+    "97f2aa12-623b-53ec-9793-5834311a37dd",
+    "98010acc-fd11-5d33-bced-626ef29f2896",
+    "d2540614-9397-5e3e-8b5f-ad328ca973b2",
+    "13a6b6f9-4a9a-5eb9-ac79-d986d9e613f0",
+    "822f10c2-37f6-5543-a1d4-6f640c464fb7",
+    "da667832-cd2f-5af6-a0a8-a17542b0a2e2",
+    "8477a774-dddb-5541-b8d7-d51a7e56b0af",
+    "1e324977-2ca5-5062-8a09-7659d516e899",
+    "943d9de4-1181-5811-aa37-e8d560c39562",
+    "571b0089-beff-5726-a831-5b5c1f95c53a"
+  ],
+  "contexts": [
+    "160. Glenn,T .C. Field guide to next-generation DNA  sequencers. Mol. Ecol. Resour. 11, 759769 (2011). 161. Karow,J. At AGBT , 10X Genomics launches GemCode  platform; shipments slated for Q2 as firm battles IP  lawsuits.  GenomeWeb  [online], https://www. genomeweb.com/sample-prep/agbt-10x-genomics- launches-gemcode-platform-shipments-slated-q2-firm- battles-ip-lawsuits  (2Mar 2015). Competing interests statement The authors declare competing interests: see Web version  for  details. FURTHER INFORMATION",
+    "FURTHER INFORMATION 10X Genomics: http://www.10xgenomics.com 454 Sequencing: http://www.454.com Advances in Genome Biology and Technology (AGBT):  http://www.agbt.org BGISEQ500: http://seq500.com/en/portal/Sequencer.shtml Illumina: http://www.illumina.com Ion Torrent: https://www.thermofisher.com/us/en/home/ brands/ion-torrent.html Oxford Nanopore Technologies: https://www.nanoporetech. com Pacific Biosciences: http://www.pacb.com Personal Genome Project: http://www.personalgenomes.org",
+    "sequencing. Genome Res. 20, 11651173 (2010). 64. English,A.C. etal.  Assessing structural variation in a  personal genome-towards a human reference diploid  genome. BMC Genomics 16, 286 (2015). 65. Carneiro,M.O. etal.  Pacific Biosciences sequencing  technology for genotyping and variation discovery in  human data. BMC Genomics 13, 375 (2012). 66. Quail,M.A. etal.  A tale of three next generation  sequencing platforms: comparison of Ion T orrent,  Pacific Biosciences and Illumina MiSeq sequencers.",
+    "22. Karow, J. Qiagen launches GeneReader NGS System  atAMP; presents performance evaluation by broad.  GenomeWeb  [online], https:// www.genomeweb.com/ molecular-diagnostics/qiagen-launches-genereader- ngs-system-amp-presents-performance-evaluation   (4Nov 2015). 23. Smith,D.R. & McKernan,K. Methods of producing  and sequencing modified polynucleotides . US Patent  8058030 (2011). 24. Margulies,M. etal.  Genome sequencing in  microfabricated high-density picolitre reactors. Nature  437, 376380 (2005).",
+    "mina barcoded adapters and prepared using a 300-cycle MiSeq Reagent Micro Kit v2 (Illumina, San Diego, CA). PCR amplicons were sequenced on the MiSeq with paired-end (PE) 250 base pair reads. Files were aligned to the bisulfite converted reference genome GRCh38 release 94 implementing Bismark [35, 36]. Alignment was  obtained through Bismark using the Bowtie2 [37] engine using non-directional and paired-end.  Complete sequencing code is provided (https  ://githu b.com/qahat",
+    "sequencing data to solutions from the genotyping array data. iv               PREVIEW",
+    "36. Sequencing, H.G. Finishing the euchromatic sequence of the human genome. Nature 2004 ,431, 931945. 37. Heather, J.M.; Chain, B. The sequence of sequencers: The history of sequencing DNA. Genomics 2016 ,107, 18. [CrossRef] 38. Rothberg, J.M.; Leamon, J.H. The development and impact of 454 sequencing. Nat. Biotechnol. 2008 ,26, 11171124. [CrossRef] [PubMed] 39. Shendure, J.; Ji, H. Next-generation DNA sequencing. Nat. Biotechnol. 2008 ,26, 11351145. [CrossRef] [PubMed]",
+    "sequencing. Bioinformatics 31, 20402042 (2015). 46. Qiagen.  Oncology insights enabled by knowledge base- guided panel design and the seamless workflow of the  GeneReader NGS system  Press Release. Qiagen   [online], http://www.genereaderngs.com/PROM-9192- 001_1100403_WP_GeneReader_NGS_0116_NA.pdf   (2016). 47. Forgetta,V. etal.  Sequencing of the Dutch elm disease  fungus genome using the Roche/454 GS-FLX Titanium  System in a comparison of multiple genomics core",
+    "Conventional sequencing Next-generation sequencing Sequencing  Subcloning in vectors, amplification in hosts for every single DNA fragment Direct DNA fragment sequencing  Sequencing of 100 fragments in parallel  Optional PCR amplification  Parallel sequencing of millions of small fragments Yield 1 /H11003105bp/sequencing run /H110221/H110031011bp/sequencing run Computational requirements Moderate High Cost per megabase High LowAccuracy High HighFuture directions   Direct sequencing of DNA molecules",
+    "Nature Reviews | GeneticsCleavage agent Single-base-encoded probes A probe with a single known base and degenerate bases hybridizes to a template and is imagedResetAfter each imaging step, both the probe and anchor are removed Probe with known base at n+1a  SOLiD       (Thermo Fisher) b  Complete Genomics      (BGI) Paired-end sequencingSequencing is performed for both the left and right sides of the adapterTTG AG TC CC GA CT TATA A"
+  ],
+  "answer": "### Guide to Genetic Sequencing  Genetic sequencing is a powerful tool used to determine the order of nucleotides in DNA. This guide will walk you through the basics of genetic sequencing, the different technologies available, and the steps involved in the sequencing process.  #### 1. Introduction to Genetic Sequencing Genetic sequencing involves determining the precise order of nucleotides within a DNA molecule. This information is crucial for understanding genetic information, diagnosing genetic disorders, and conducting research in genomics.  #### 2. Types of Sequencing Technologies There are several sequencing technologies available, each with its own advantages and applications:  - **Sanger Sequencing**: The first-generation sequencing method, known for its high accuracy but lower throughput. - **Next-Generation Sequencing (NGS)**: Includes various platforms that allow for high-throughput sequencing, enabling the sequencing of millions of fragments simultaneously [9].  #### 3. Next-Generation Sequencing Platforms Several NGS platforms are widely used in the field:  - **Illumina**: Known for its high accuracy and throughput, suitable for a wide range of applications [2]. - **Ion Torrent**: Uses semiconductor technology for sequencing, offering a cost-effective solution [2]. - **Pacific Biosciences (PacBio)**: Provides long-read sequencing, which is useful for identifying structural variations and complex regions in the genome [3], [2]. - **Oxford Nanopore Technologies**: Offers portable sequencing devices with real-time data analysis capabilities [2]. - **10X Genomics**: Known for its GemCode platform, which provides linked-read sequencing for better genome assembly [1], [2].  #### 4. Steps in Genetic Sequencing The sequencing process generally involves the following steps:  1. **Sample Preparation**: DNA is extracted from the sample and prepared for sequencing. This may involve fragmentation, adapter ligation, and amplification [5]. 2. **Library Construction**: The prepared DNA fragments are converted into a library suitable for the sequencing platform being used [5]. 3. **Sequencing**: The library is loaded onto the sequencing platform, where the DNA fragments are sequenced in parallel [9]. 4. **Data Analysis**: The raw sequencing data is processed and aligned to a reference genome. Tools like Bismark and Bowtie2 are commonly used for alignment and analysis [5]. 5. **Interpretation**: The processed data is interpreted to identify genetic variants, structural variations, and other genomic features [3].  #### 5. Applications of Genetic Sequencing Genetic sequencing has a wide range of applications, including:  - **Medical Diagnostics**: Identifying genetic mutations associated with diseases. - **Genomic Research**: Studying genetic variations and their implications. - **Personal Genomics**: Providing individuals with information about their genetic makeup [2].  #### 6. Future Directions The field of genetic sequencing is rapidly evolving, with ongoing advancements aimed at increasing accuracy, reducing costs, and enabling direct sequencing of DNA molecules without amplification [9].  #### 7. Further Information For more detailed information on specific sequencing platforms and technologies, you can visit the following resources:  - **Illumina**: [http://www.illumina.com](http://www.illumina.com) - **Ion Torrent**: [https://www.thermofisher.com/us/en/home/brands/ion-torrent.html](https://www.thermofisher.com/us/en/home/brands/ion-torrent.html) - **Pacific Biosciences**: [http://www.pacb.com](http://www.pacb.com) - **Oxford Nanopore Technologies**: [https://www.nanoporetech.com](https://www.nanoporetech.com) - **10X Genomics**: [http://www.10xgenomics.com](http://www.10xgenomics.com)  By understanding the basics of genetic sequencing and the available technologies, you can better appreciate the power and potential of this transformative field in genomics.",
+  "question": "Create a guide for genetic sequencing"
+}

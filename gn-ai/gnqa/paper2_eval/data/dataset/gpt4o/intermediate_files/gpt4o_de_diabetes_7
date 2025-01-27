@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - MicroRNA profiling and their pathways in South African.pdf",
+    "2015 - Type 2 diabetes mellitus.pdf",
+    "2014 - Diabetic nephropathy\u2014emerging epigenetic mechanisms.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2011 - CREB and ChREBP oppositely regulate SIRT1 expression in response to energy availability.pdf",
+    "2015 - Transcript Expression Data from Human.pdf",
+    "2018 - A computational biology approach of a genome-wide screen.pdf",
+    "2015 - Type 2 diabetes mellitus.pdf",
+    "2015 - Cellular and Molecular Biology of Aging Endothelial Cells.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf"
+  ],
+  "extraction_id": [
+    "14577d73-d320-54dd-93f2-c55f986bc8bc",
+    "617b6fab-a5e5-59b7-a593-a0477e6bf9fe",
+    "bf537fe8-5508-5355-a656-b4053febe0e5",
+    "06912a59-fdd6-5731-af8f-6c98ff1ace5c",
+    "4217906f-87c5-54b0-95a5-7c26dc08afce",
+    "867d0b1b-16a1-53ea-b014-3c204b9001a5",
+    "ab4f6ea7-767f-5783-9e1a-8570eaabe96c",
+    "e4e89eba-6032-5781-83f4-8d47ab5b3825",
+    "283e34bb-6e2b-5aa9-85c5-2584b669f122",
+    "41ac576d-b850-5ee8-9753-ba9b060ba798"
+  ],
+  "document_id": [
+    "b6bb090d-7176-59db-af04-582aa1d5cf10",
+    "415516ba-5365-501b-84ce-0789045862f8",
+    "be05127e-1be8-5573-b571-51a11c3b2be2",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "32538f01-9eaf-5f9b-8615-ec47cc4ca8e2",
+    "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+    "ae727c80-a0a3-52f4-9e2f-b93a539558ad",
+    "415516ba-5365-501b-84ce-0789045862f8",
+    "815d7f3e-e219-502f-aba0-57a68ae787d3",
+    "766edfd5-4756-51bf-b636-c94b041d030c"
+  ],
+  "id": [
+    "chatcmpl-AIHJKDULZO7wnGlvKQDCFnpw8Cumo",
+    "64482aec-5688-5431-adda-b8f1de92a183",
+    "b604dabf-3dc2-5d01-9cc4-6e9f916c464a",
+    "e1f984ac-aa42-5eb4-92cb-303886f6f1db",
+    "7b6e89ec-b690-5ff1-b24d-3ed6744f3486",
+    "9a8edd2d-c06a-559e-8397-beaaa84705b7",
+    "7d522337-e875-55eb-9b67-4718e5db8ffd",
+    "1edee360-5de0-51c9-bf8d-7c2e2f23a682",
+    "43a104b3-f34b-5f52-86ff-fd7d45827f32",
+    "3e08ef82-888b-58a0-9a80-3547ab4bd516",
+    "cf4f3239-dd62-5eef-b5fc-85f4780e3f48"
+  ],
+  "contexts": [
+    "regulates glucose-induced biological responses in pancreatic  beta-cells. Diabetes. 2008;57:2708-17. 29. Schultze SM, Hemmings BA, Niessen M, Tschopp O.  PI3K/AKT, MAPK and AMPK signalling: protein kinases  in glucose homeostasis. Expert Rev Mol Med. 2012;14:e1. 30. White MF. IRS proteins and the common path to diabetes.  Am J Physiol Endocrinol Metab. 2002;283:E413-22. 31. Erener S, Marwaha A, Tan R, Panagiotopoulos C, Kieffer  TJ. Profiling of circulating microRNAs in children with",
+    "pathological processes involved in glucose metabolism  by post transcriptional regulation of gene expression.  Particular microRNAs can regulate cell function271,  exposing key regulatory signalling pathways involved in  restoration of cell mass, and provide a promising strat  egy for improving insulin secretion and cell health in  T2DM. Identification of novel insulin secretagogues  that act directly on cells and enteroendocrine Kcells  and Lcells in the intestine are under investigation, and",
+    "can result in diabetes and its complications including DN. Several studies show that key histone post-  translational  modifications are involved in the regulation of genes  associated with the pathogenesis of diabetes, such as  insulin and islet-specific transcription factors.48,60 Inaddi - tion, several groups are examining the role of histone  post-translational modifications in adipocytes related to  type2 diabetes, obesity and the metabolic syndrome.48,60",
+    "cascade of protein kinases and regulatory proteins of which IRS-1 and IRS-2  are most important. This causes suppression of glucose release from liver  and kidney/ translocation of glucose transporters in muscle and adipose  tissue to increase their glucose uptake, and inhibition of release of FF A into  the circulation due to suppression of the activity of hormone-sensitive lipase  and a simultaneous increase in their clearance from the circulation. Although",
+    "Magnan C, Postic C, Prip-Buus C, Vasseur-Cognet M (2008) The transcription factor COUP-TFII is negatively regulated by insulin and glucose via Foxo1- and ChREBP-controlled pathways. Mol Cell Biol 28: 65686579Rodgers JT, Lerin C, Haas W, Gygi SP, Spiegelman BM, Puigserver P (2005) Nutrient control of glucose homeostasis through a complex ofPGC-1alpha and SIRT1. Nature 434: 113118 Schwer B, Verdin E (2008) Conserved metabolic regulatory functions of sirtuins. Cell Metab 7:104112",
+    "of glucose transporter 2 glycosylation promotes insulin secretion in suppressing diabetes. Cell 123:1307 1321. PMID: 16377570 47. Whitaker GM, Lynn FC, McIntosh CH, Accili EA (2012) Regulation of GIP and GLP1 receptor cell sur- face expression by N-glycosylation and receptor heteromerization. PLoS One 7: e32675. doi: 10.1371/ journal.pone.0032675 PMID: 22412906 48. Johswich A, Longuet C, Pawling J, Abdel Rahman A, Ryczko M, et al. (2014) N-glycan remodeling on",
+    "strate 1), Pde3b (phosphodiesterase 3B), Hk2 (hexokinase 2), Foxo1 (forkhead box O1), Socs6 (suppressor of cytokine signaling 6), and Ogt (O-linked N-acetylglucosamine (GlcNAc) transferase). Impaired insulinsignaling is well known to negatively in uence glucose and lipid metabolism [62]. In adipose tissue, insulin stimulates glucose uptake by inducing translocation of GLUT4 to the cell surface, it increasesglycolysis rate by stimulating hexokinases ( Hk2) and suppresses lipolysis ( Acaca and Prkaa1 )[63].",
+    "signalling pathways by reducing insulin induced tyro  sine phosphorylation of IRS1 and IRS2 (REF. 161) and by  increasing degradation of IRS1 (REF. 162). Recent studies  have demonstrated that the p85 regulatory subunit of  PI3K interacts with XBP1s (the spliced, transcription  ally active isoform of XBP1) and promotes the trans  location of XBP1s into the nucleus to initiate the ER  stress response163.Diabetic complications Diabetic microvascular complications are closely related",
+    "activated protein kinase. J Biol Chem. 2007;282:9777 -88.  [44] Chakrabarti S, Davidge ST. High glucose -induced oxidative stress alters estrogen effects on ERalpha and  ERbeta in human endothelial cells: reversal by AMPK activator. J Steroid Biochem Mol Biol. 2009;117:99 -106.  [45] Mortuza R, Chen S, Feng B, Sen S, Chakrabarti S. High glucose induced alteration of SIRTs in endothelial  cells causes ra pid aging in a p300 and FOXO regulated pathway. PLoS One. 2013;8:e54514.",
+    "Epigenetic Mechanisms in Diabetic Complications     17  Interestingly, the sirtuin (SIRT) family of deacetylases, specifically SIRT1, has been found to 360  regulate several factors involved in metabolism, adipogenesis a nd insulin secretion (86). HATs 361  and HDACs can also modulate NF- B transcriptional activity (4, 44) resulting in changes in 362"
+  ],
+  "answer": "Post-translational modifications (PTMs) of proteins play a significant role in regulating key signaling pathways involved in glucose homeostasis. Here are some ways PTMs affect these pathways:  1. **Protein Kinases and Glucose Homeostasis**: The PI3K/AKT, MAPK, and AMPK signaling pathways are crucial for glucose homeostasis, and these pathways are regulated by protein kinases, which can be modulated by PTMs such as phosphorylation [1].  2. **Histone Modifications**: Histone post-translational modifications are involved in the regulation of genes associated with diabetes pathogenesis, including those related to insulin and islet-specific transcription factors. These modifications can influence gene expression and thereby affect glucose metabolism [3].  3. **N-glycosylation**: The glycosylation of glucose transporter 2 is an example of a PTM that promotes insulin secretion, which is vital for maintaining glucose levels and suppressing diabetes [6].  4. **Sirtuins and Deacetylation**: The sirtuin family, particularly SIRT1, is involved in regulating factors related to metabolism and insulin secretion. Sirtuins are deacetylases, and their activity represents a form of PTM that can influence glucose homeostasis [10].  These examples illustrate how PTMs can modulate signaling pathways and protein functions, ultimately impacting glucose homeostasis and related metabolic processes.",
+  "question": "How do post-translational modifications of proteins affect key signaling pathways involved in glucose homeostasis?"
+}

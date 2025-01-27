@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2022 - Development and validation of a trans-ancestry polygenic risk score for type 2 diabetes in diverse populations.pdf",
+    "2022 - Development and validation of a trans-ancestry polygenic risk score for type 2 diabetes in diverse populations.pdf",
+    "2018 - Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps.pdf",
+    "2022 - Development and validation of a trans-ancestry polygenic risk score for type 2 diabetes in diverse populations.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2022 - Development and validation of a trans-ancestry polygenic risk score for type 2 diabetes in diverse populations.pdf",
+    "2021 - Genetics and genomics of arrhythmic.pdf",
+    "2022 - Stability of polygenic scores across.pdf",
+    "2022 - Coming of Age Human Genomics.pdf",
+    "2021- Development of genome-wide polygenic risk scores for lipid traits and clinical applications for dyslipidemia, subclinical atherosclerosis, and diabetes cardiovascular complications among East Asians.pdf"
+  ],
+  "extraction_id": [
+    "02701cd5-d2ce-560c-b5a9-e694fecdb3c2",
+    "f6f0c89d-5c35-5889-8619-a3914e5d2c7e",
+    "9190d1c1-41a4-5af3-a570-7fea6a15e71a",
+    "17c49e58-c89a-5495-b17f-adcade90a4c6",
+    "3c30b33b-8928-5cee-9c37-c70642fff75c",
+    "17c49e58-c89a-5495-b17f-adcade90a4c6",
+    "ada410d0-6b91-5959-b834-cc3389e29c5f",
+    "a548bb25-cbff-5466-b932-afe160bfbe32",
+    "d2add072-cb41-54f8-9583-9616b11e4ae3",
+    "5f2ac528-4965-5d5e-86d0-8862032bb7b9"
+  ],
+  "document_id": [
+    "4ece243f-acda-569d-b75d-37539260dcb3",
+    "4ece243f-acda-569d-b75d-37539260dcb3",
+    "ab2868dd-62f6-5350-994c-fcea4328e8a3",
+    "4ece243f-acda-569d-b75d-37539260dcb3",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "4ece243f-acda-569d-b75d-37539260dcb3",
+    "462ed035-e4fb-5847-a92d-927f05a2b58b",
+    "30af2d38-7941-5d0a-9da1-a8ad2dc22329",
+    "45506895-eef1-57f4-8ca1-79fe23a2493f",
+    "ce8040c7-157f-54c5-b28b-3224e8871415"
+  ],
+  "id": [
+    "chatcmpl-AIHKAjqtg6gr5hkyEsdT3wwz3yXTB",
+    "748c1d81-0c27-515a-8bf1-12e717645e66",
+    "2c09a46a-20d0-54b4-abcb-608fef7c7f80",
+    "3b9e0030-8bf9-5d63-9813-3cf18e98be3b",
+    "1677b3ee-7d95-5e10-a6dd-d80b4bb87b29",
+    "a374d88e-458e-5252-8b3a-5ca162fa6982",
+    "a551335d-c3ed-5d12-a611-9991d192cc1e",
+    "bcce1092-32ea-5f65-bc10-4dc1a2dac53a",
+    "635180f9-540f-5533-9d61-c5cfe14657fa",
+    "fd7ccb09-2768-5ceb-8b29-9b29cdef57a8",
+    "cc476583-54c8-5607-95bd-d06ae875dfb8"
+  ],
+  "contexts": [
+    "review of polygenic risk scores for type 1 and type 2 diabetes. Int J Mol  Sci. 2020;21(5):1703.  48. Khera AV, Chaffin M, Aragam KG, Haas ME, Roselli C, Choi SH, et al.  Genome wide polygenic scores for common diseases identify  individuals with risk equivalent to monogenic mutations. Nat Genet.  2018;50:121924.  49. Ding Y, Hou K, Burch KS, Lapinska S, Priv F, Vilhjalmsson B, et al. Large  uncertainty in individual polygenic risk score estimation impacts PRS",
+    "(GWAS), polygenic risk scores (PRS) have shown promise to complement established clinical risk factors and inter  vention paradigms, and improve early diagnosis and prevention of T2D. However, to date, T2D PRS have been most  widely developed and validated in individuals of European descent. Comprehensive assessment of T2D PRS in non European populations is critical for equitable deployment of PRS to clinical practice that benefits global populations.",
+    "prediction of type 2 diabetes. N. Engl. J. Med. 359, 22082219 (2008).  45. Weedon, M. N. et al. Combining information from common type 2 diabetes  risk polymorphisms improves disease prediction. PLoS. Med. 3, e374 (2006).  46. Euesden, J., Lewis, C. M. & OReilly, P . F. PRSice: Polygenic Risk Score  software. Bioinformatics  31, 14661468 (2015).  47. Gatineau, M. et al. Adult obesity and type 2 diabetes (Public Health England,",
+    "(GWAS) in diverse populations have identified hundreds  of genetic loci associated with T2D [79]. Polygenic risk  scores (PRS), which aggregate the genetic risk of individ - ual alleles across the genome, are thus promising to pre - dict future T2D occurrence and improve early diagnosis,  intervention, and prevention of T2D [1015]. However,  to date, T2D PRS were most widely developed and vali - dated in individuals of European descent. Given that the  predictive performance of PRS often attenuates in non-",
+    "in advance. Polygenic Risk Scores (PRS) were proposed by Duncan L. et al. [ 8] for risk analysis using the sum of the weight of each risk-associated locus of genomic sequence obtained from the corresponding evidence. These weights are assessed from the regression coefcient associated with each locus. These combined genetics features and correlation matrices would signicantly assist the entire eld of genomics study [ 9]. These studies on",
+    "performance. Conclusions: By integrating T2D GWAS from multiple populations, we developed and validated a transancestry PRS,  and demonstrated its potential as a meaningful index of risk among diverse patients in clinical settings. Our efforts  represent the first step towards the implementation of the T2D PRS into routine healthcare. Keywords: Polygenic risk score, Type 2 diabetes, Diverse populations, Clinical implementation",
+    "Owing to their small effect sizes, SNP associations have very little clinical applicability for risk prediction.   A polygenic risk score (PRS) attempts to estimate the combined risk from multiple SNPs that have been associated with a certain trait with genome-wide sig-nificance. By accounting for a large proportion of the  genetic variance underlying a trait, the overall effect size",
+    "8.Padilla-Mart nez, F., Collin, F., Kwasniewski, M., and Kretow- ski, A. (2020). Systematic review of polygenic risk scores for type 1 and type 2 diabetes. Int. J. Mol. Sci. 21, 1703 . 9.Rao, A., and Knowles, J. (2019). Polygenic risk scores in coro- nary artery disease. Curr. Opin. Cardiol. 34, 435440 . 10.Dikilitas, O., Schaid, D.J., Kosel, M.L., Carroll, R.J., Chute, C.G., Denny, J.A., Fedotov, A., Feng, Q., Hakonarson, H., Jar-vik, G.P., et al. (2020). Predictive utility of polygenic risk scores",
+    "partitioned polygenic scores according to factors of disease heteroge- neity, as successfully demonstrated for type 2 diabetes (32). Another strategy could be the mapping of statistically associated genetic loci to different immune-cell subtypes according to gene expression patterns derived from single-cell RNA sequencing (33). Autoimmune PRS, possibly in combination with other genetic and nongenetic predictors, may be of importance to manage the risk of",
+    "genome-wide polygenic risk scores (PRSs) for four lipid traits. We validated ( n= 4271) and subsequently tested associations of these scores with 3-year lipid changes in adolescents ( n= 620), carotid intima-media thickness (cIMT) in adult women ( n= 781), dyslipidemia ( n= 7723), and coronary heart disease (CHD) ( n= 2374 cases and 6246 controls) in type 2 diabetes (T2D) patients. (Continued on next page)"
+  ],
+  "answer": "The interaction between multiple polygenic risk scores (PRS) can improve the prediction of Type 1 and Type 2 diabetes by combining information from various genetic loci associated with these diseases. This approach allows for a more comprehensive assessment of an individual's genetic risk. Specifically, combining information from common risk polymorphisms has been shown to improve disease prediction for Type 2 diabetes [3]. Additionally, partitioning polygenic scores according to factors of disease heterogeneity and mapping genetic loci to different immune-cell subtypes can enhance the predictive power of PRS, particularly for Type 2 diabetes [9]. These strategies leverage the aggregation of genetic risk from multiple sources, thereby capturing a larger proportion of the genetic variance underlying these traits and improving early diagnosis, intervention, and prevention efforts [4].",
+  "question": "How does the interaction between multiple polygenic risk scores (PRS) improve the prediction of Type 1 and Type 2 diabetes?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2019 - Integration of heterogeneous functional.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2016 - Genome Integrity in Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Transposable elements, circular RNAs and mitochondrial.pdf",
+    "2022 - Functional genomics of inflamm-aging.pdf"
+  ],
+  "extraction_id": [
+    "4b00515d-e599-5ce1-84e3-012d7efe1a30",
+    "eebc478a-d4b4-5547-a7e0-9c305d8bbd0f",
+    "fe836e95-1d70-51e5-b3fe-2f3005517606",
+    "c21052ac-b3d9-59bc-8164-3d2df613929f",
+    "b1eabac8-e6d1-50ba-9c42-60c107b56a65",
+    "97753738-7225-59cc-b573-72cdf4ba569d",
+    "3625a61e-f376-5bea-b2c9-582b6ef16957",
+    "6a2a94de-cfc0-50eb-b50e-bf3a0f813c78",
+    "ea17d9f1-0991-5a69-930d-3212a3fabe1f",
+    "72b29fff-be72-5ede-85c9-7dc81894c956"
+  ],
+  "document_id": [
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "cf134202-50af-5700-9b1b-962501d9470d",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "85d5fcbb-5385-5a01-8139-d11fc8b1fe3a",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "7bebb41c-ac73-5917-91d3-4f59fbb3266a",
+    "435dc081-e3d1-52c5-93a1-caa11206422f"
+  ],
+  "id": [
+    "chatcmpl-AIHWHar7CqMtwymwPwmCVtJ5SKWUm",
+    "4d256f76-7065-5eeb-a961-db7e7cbe75ff",
+    "92618cf9-f512-5011-9d76-17f313ad850e",
+    "77589e08-f16b-5bb2-9f89-833f1833d5be",
+    "e1dde75e-c4f2-51f6-b601-abe56c2109c3",
+    "8c9d1720-5a2d-5559-831d-419208813d61",
+    "955cffc5-cb1d-5638-bb3e-bbf5b0fe5dd4",
+    "28976d8b-7996-51e7-b35b-213476f6ed7b",
+    "6d4a1a0b-2af3-5cc4-b7c0-a7223ce3edfa",
+    "a7675e04-876d-5026-88b5-842cd4ca237a",
+    "da4ca7c3-653d-584f-8956-7f3f710fd45e"
+  ],
+  "contexts": [
+    "SASP (senescence-associated secretoryphenotype):cytokines, chemokines,proteases, and otherfactors secreted bysenescent cells, whichare inammatory anddisrupt tissuehomeostasis viaparacrine mechanisms ATM (ataxia-telangiectasiamutated):serine/threoninekinase and centralregulator of the DDR;activated by DNAdamage and transducesthat signal througheffectorphosphorylationphenotype (SASP) (84). SASP proteins include interleukin-6 (IL-6), transforming growth factor-",
+    "SASP is one of the most representative features of senescent cells and may explain  the organismal expression of aging and age-related diseases. Senescent cells pro- duce a deleterious microenvironment through the production and secretion of pro- liferative and proinflammatory molecules such as IL-1 and -1, IL-6, IL-8, the  chemotactic cytokine GRO, IGBP-7, growth factors, VEGF, TGF-, serine prote- ases, and matrix remodeling enzymes [146]. It has been determined that the activa-",
+    "context. For example, SASP likely contributes to early tumorigenesis (84), chemoresistance (94),and potentially neurodegenerative diseases (95). However, SASP is also important for mammalian development (96), tissue repair (97), and wound healing (98). SASP plays an important role in stimulating clearance of damaged, senescent cells by the innate immune system (99). However,inefcient immune clearance of senescent cells in aged organisms is thought to contribute to chronic inammation of aging.",
+    "many tissues, where theSASP promotes chronic inflammation and exacerbates age-associated degeneration and hyperplasia. Recent evidence suggests that neurological aging and neurode- generation areaccompanied byanaccumulation ofsecretory cells inbrain, suggesting that cel- lular senescence may contribute tobrain aging [2]through ashared mechanism. Overlapping mechanisms canbedetected using functional genomics studies ofboth thebiology ofcellular senescence and cognitive aging.",
+    "senescence-associated with the secretory phenotype (SASP) are other markers of  cellular senescence.  Inflammation andIntercellular Communication While senescent cells no longer replicate, they are still metabolically active and  secrete proteins in a recognizable pattern known as SASP.This is a widely heteroge- neous group of proteins with autocrine and paracrine effects [47], including soluble  signaling factors, such as interleukins, chemokines, and growth factors, as well as",
+    "matory mediators. This particular phenotype is termed the senescence- associated  secretory phenotype (SASP). Replicative cellular aging includes biochemical, mor - phological, and functional modifications that lead to the irreversible impairment of  cell proliferation associated with DNA damage, shortening of the telomeres, and  changes in chromatin architecture, as previously described [135, 136]. The molecular mechanisms that drive cellular senescence in proliferative and",
+    "secretion of a range of proinammatory cyto- and chemokines, a state that has been dened asthe senescence-associated secretory phenotype (SASP) (103). Major SASP factors include IL1, IL6, IL8, and various matrix metalloproteases (MMPs), all of which individually are thought to drive aging and age-related diseases. Thus, DNA damage is a major determinant in controllingcell death, stem cell exhaustion, and cellular senescence, which are considered important events",
+    "senescent cells [150]. SASP factors exert their functions in either an autocrine or a  paracrine manner and are responsible for the induction of the chronic inflammation  and cell proliferation that contributes to cell dysfunction and cancer. Thus, the accu- mulation of senescent cells in tissue is closely associated with aging-related dis- eases. Recently, it was determined that senescent fibroblasts significantly increase  the expression of HLA-E, which inhibits the receptor NKG2A in killer cells, and",
+    "Role of L1 and Alu in cellular senescence and age-related inflammation A key feature of cellular senescence is the senescence-associatedsecretory phenotype (SASP), whereby senescent cells secretenumerous proinflammatory cytokines, chemokines, growth factors, and proteases (Campisi, 2013). This altered secretome",
+    "8. Coppe JP, Patil CK, Rodier F, et al. Senescence-associated secretory phenotypes reveal cell-nonautonomous func- tions of oncogenic RAS and the p53 tumor suppressor. PLoS Biol2008; 6:285368. 9. Wiley CD, Liu S, Limbad C, et al. SILAC analysis reveals increased secretion of hemostasis-related factors by senes- cent cells. Cell Rep 2019; 28:33293337 e3325. 10. Basisty N, Kale A, Jeon OH, et al. A proteomic atlas of senescence-associated secretomes for aging biomarker"
+  ],
+  "answer": "The latest findings on the role of senescence-associated secretory phenotype (SASP) factors in age-related tissue dysfunction highlight several key aspects:  1. SASP factors, which include cytokines, chemokines, proteases, and other inflammatory molecules, are secreted by senescent cells and disrupt tissue homeostasis through paracrine mechanisms [1]. These factors contribute to a deleterious microenvironment that promotes aging and age-related diseases [2].  2. SASP is associated with chronic inflammation and exacerbates age-associated degeneration and hyperplasia in many tissues [4]. This chronic inflammation is a significant contributor to tissue dysfunction as organisms age.  3. The accumulation of senescent cells and their SASP factors is closely linked to aging-related diseases. These factors can induce chronic inflammation and cell proliferation, leading to cell dysfunction and potentially cancer [8].  4. SASP factors exert their effects in both autocrine and paracrine manners, influencing not only the senescent cells themselves but also the surrounding tissue environment [8].  Overall, SASP factors play a critical role in driving the chronic inflammation and tissue dysfunction associated with aging, highlighting their importance in the study of age-related diseases and potential therapeutic targets.",
+  "question": "What are the latest findings on the role of senescence-associated secretory phenotype (SASP) factors in age-related tissue dysfunction?"
+}

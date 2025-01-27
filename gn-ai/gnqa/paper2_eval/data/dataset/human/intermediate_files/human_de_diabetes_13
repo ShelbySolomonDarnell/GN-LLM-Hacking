@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+    "2020 - Whole blood co-expression modules associate with metabolic traits and type 2 diabetes an IMI-DIRECT study.pdf",
+    "2020 - Polygenic inheritance, GWAS, polygenic risk scores,and the search for functional variants.pdf",
+    "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+    "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+    "2010 - Comparative genetic analysis of inflammatory.pdf",
+    "2016 - Effects of the genome on immune regulation in type 1 diabetes.pdf",
+    "2018 - The genetic architecture of type 1 diabetes mellitus.pdf",
+    "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+    "2018 - The genetic architecture of type 1 diabetes mellitus.pdf"
+  ],
+  "extraction_id": [
+    "f716d630-c82a-5987-ab4b-1b8a20d81dfa",
+    "fbf3d28b-b05c-51a2-b902-94f17ff51d7b",
+    "3615b8f4-612d-52e5-8581-8c0d97b2a845",
+    "f4c97581-4139-5397-9f3f-ccbb39846d93",
+    "bf2387f1-5389-54e8-897e-84575efee7f1",
+    "1c95778f-bf36-5398-b891-85533d60c80c",
+    "a744412e-5003-5732-9a73-f1f5267aa715",
+    "5b8b3673-7fd4-5989-9982-a6d5ea374c8d",
+    "32bf7dd7-d271-577f-9146-71da2681ec98",
+    "5b8b3673-7fd4-5989-9982-a6d5ea374c8d"
+  ],
+  "document_id": [
+    "368e0215-393e-5bec-a87c-e976adaa3ca5",
+    "a3f00a6f-be97-51ce-9198-87f6469ce2db",
+    "39ab8f23-a31d-561c-ba90-65b99f64b83e",
+    "368e0215-393e-5bec-a87c-e976adaa3ca5",
+    "368e0215-393e-5bec-a87c-e976adaa3ca5",
+    "ab74ea2b-684a-5f6f-b77b-f3dbd4de86e8",
+    "9fcfc0c3-80b5-515c-9263-a1a17cfa9a4c",
+    "341261db-b38a-5bd2-8d8d-fc04a0b3da30",
+    "368e0215-393e-5bec-a87c-e976adaa3ca5",
+    "341261db-b38a-5bd2-8d8d-fc04a0b3da30"
+  ],
+  "id": [
+    "chatcmpl-ADYnd7yDDFmHs6an7OU6ShUeBDi9c",
+    "f799cd21-0ae3-5c3a-b3d4-9dfa4f5cfcef",
+    "8090d389-97c8-521f-8139-1947014f3d5e",
+    "87c0635a-b18d-58dd-8e92-ef98d713b870",
+    "0cd28c43-f17e-5e9e-8fa9-b81ef89264c3",
+    "50474cf9-286a-50eb-b344-2837cc7c43a6",
+    "5f2de1ce-56f7-501d-a0e0-54991c1324f7",
+    "82f7da2f-7abf-59e1-b259-46a01b375f1c",
+    "acc9b87c-583b-5ba6-bc6f-b833d2e8d2cb",
+    "9b1cf5ca-d793-5c2a-a2db-c88f44ac6ec4",
+    "ce911802-af16-57a4-90e8-e3257a9ee7af"
+  ],
+  "contexts": [
+    "'&'.+* .%(\"'.+ * $$* ! \f\r \t\f\u000b '&'.+* .%(\"'.+ * $$*\t\u000b r Figure 2. Impact of type 1 diabetes (T1D) genome- wide association studies (GWAS) single- nucleotide polymorphisms (SNPs) on immune phenotypes.  (A)Quantile- quantile (Q- Q) plots of quantitative trait locus (QTL) profiles of 62 T1D GWAS loci grouped by cell populations. The distribution of p- values",
+    "diseases, including T2D. Many of the module-QTL locioverlap with GWAS hits for immune-related pheno- types, suggesting that the modules described here might be of importance in the context of inflammatory dis- eases. Similar analyses should be performed for co- expression modules in other more T2D-relevant tissues to provide further insight into the causal networks underlying T2D aetiology. Similarly, network rewiring in T2D might be more strongly detectable in other tissues",
+    "(58)], revealing some interesting possible candidate functionalgenes other than those associated with the HLA and related sys-tems. In addition, early GWAS on type 1 diabetes by Todd et al.(23) revealed suggestive functional effects of non-HLA variants involved in immune functions. Another interesting application of",
+    "Research article       Genetics and Genomics | Medicine Chu, Janssen, Koenen etal. eLife 2022;11:e73709. DOI: https://doi.org/10.7554/eLife.73709  9 of 17Genetic regulation of immune phenotypes in T1D To further explore potential genetic regulation of immune phenotypes on the whole- genome level,  we performed QTL mapping in 300DM. This identified nine genome- wide significant QTLs (p- value  < 5  108) associated with immune- cell proportion, including four associated with T cell subpopu-",
+    "studies (r2> 0.8) and performed a chi- square test on clinical status by using PLINK 1.9. Samples in  300DM were taken as cases and samples in 500FG as controls. Impact of T1D GWAS loci on immune phenotypes To detect the impact of T1D GWAS loci on immune- cell populations, we grouped all traits into four  categories (B cells, T cells, monocytes, and NK cells), and counted the number of suggestive associ- ations (p- value < 0.05) between the 63 top SNPs from T1D GWAS loci and immune- cell traits. 1000",
+    "In the present study, we interrogated GWAS data sets on CD, UC and T1D for known susceptibility loci implicated inthese diseases. Our comparative analysis serves several impor-tant roles: rst, the ability to identify additional susceptibilityloci for one disease by testing known loci for another disease,similar to previous studies ( 12,13). This approach increases statistical power by limiting the number of hypotheses",
+    "Conclusions A major challenge is to translate GWAS ndings intocausal variants and target genes. The Immunochipeffort has greatly contributed to our understanding of disease mechanisms by identifying pathways, which could not be linked to diabetes by existing hypotheticalmodels. Diabetes is probably a much more diverse disease than the current subdivision into T1DM and T2D implies and a more precise subdivisioninto subgroups may also pave the way for a more",
+    "edge of the role(s) of genetic variation (SNPs) in population-level sus-ceptibility to T1D ( Ram et al., 2016a ). However, GWAS analyses do not automatically determine the particular gene(s) in a speci c locus that are mechanistically associated with disease pathogenesis, or elucidate the manner in which disease gene(s) interact ( Zhong  et al., 2010). The diculty associated with ascribing functional impacts to SNPs is partly explained by the fact that most disease-associated SNPs identi ed by",
+    "(Supplementary file 1C). We next investigated whether these genetic risk loci for T1D affect immune parameters and func- tion. The quantile- quantile plot of the association of the 63 T1D GWAS loci with different cell types  and cytokines illustrates an inflated deviation from an expected uniform distribution (Figure 2A,  Figure2figure supplement 1). We further tested whether this deviation can be explained by chance",
+    "Fadason et al. demonstrated that functionally relevant type 2 diabetes- associated SNPs are spatially linked with speci c changes in the ex- pression levels of genes within disease-associated tissues ( Fadason et al., 2017 ). Similarly, a study demonstrated that integrating chro- matin interactions with GWAS analyses is important in elucidatingcausal genes that modulate regulatory networks in autoimmune dis- eases ( McGovern et al., 2016). As such, the spatial organization of DNA"
+  ],
+  "answer": "Yes, the landscape of QTL (Quantitative Trait Loci) and GWAS (Genome-Wide Association Studies) hits can be used to dissect the role of the immune system in diabetes and its complications. Several pieces of evidence from the provided context support this:  1. **Impact on Immune Phenotypes**: GWAS SNPs for type 1 diabetes (T1D) have been shown to impact immune phenotypes. For example, QTL profiles of 62 T1D GWAS loci grouped by cell populations reveal the distribution of p-values, indicating significant associations between these loci and immune cell traits [1].  2. **Overlap with Immune-Related Phenotypes**: Many module-QTL loci overlap with GWAS hits for immune-related phenotypes, suggesting that these genetic modules are important in the context of inflammatory diseases, including diabetes [2].  3. **Genetic Regulation of Immune Phenotypes**: QTL mapping in a study identified nine genome-wide significant QTLs associated with immune-cell proportions, including T cell subpopulations, indicating a genetic regulation of immune phenotypes in T1D [4].  4. **Impact on Immune-Cell Populations**: Analysis of T1D GWAS loci showed suggestive associations between top SNPs and immune-cell traits, categorized into B cells, T cells, monocytes, and NK cells, further highlighting the impact of these loci on immune cell populations [5].  5. **Comparative Analysis of Susceptibility Loci**: Comparative analysis of GWAS data sets for diseases like T1D, Crohn's disease (CD), and ulcerative colitis (UC) helps identify additional susceptibility loci and increases statistical power, which is crucial for understanding the genetic basis of immune-related complications in diabetes [6].  6. **Pathway Identification**: The Immunochip effort has contributed to understanding disease mechanisms by identifying pathways linked to diabetes, which were not previously associated with the disease, indicating the complexity and diversity of diabetes and its immune-related aspects [7].  7. **Functional Impacts of SNPs**: Although GWAS analyses do not automatically determine the specific genes associated with disease pathogenesis, they provide insights into how disease genes interact and affect immune parameters and functions [8], [9].  In summary, the integration of QTL and GWAS data provides valuable insights into the genetic regulation of immune phenotypes and their role in diabetes and its complications, supporting the use of these landscapes for dissecting the immune system's involvement in the disease.",
+  "question": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+}

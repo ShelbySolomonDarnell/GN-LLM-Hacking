@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2019 - Development and Genome Sequencing.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2016 - A genetic screen identifies hypothalamic Fgf15 as a regulator of glucagon secretion.pdf"
+  ],
+  "extraction_id": [
+    "96a78d74-ac6d-513e-a5a7-b22ef95ea041",
+    "14656f4f-b0bd-5f4f-a67a-aeb902f24757",
+    "14656f4f-b0bd-5f4f-a67a-aeb902f24757",
+    "8bbfb009-87b7-54ae-8465-8796db8c271a",
+    "d7b2d258-d566-5552-8308-4ac35953884d",
+    "d971dced-935c-566b-a4a2-11bcf99b9c84",
+    "96a78d74-ac6d-513e-a5a7-b22ef95ea041",
+    "96a78d74-ac6d-513e-a5a7-b22ef95ea041",
+    "efc73cf6-99c6-5272-9bb0-7bd6a34633f0",
+    "a847f5f4-0c56-5678-9e1e-93b9b5b294f2"
+  ],
+  "document_id": [
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "18820c9e-f7ae-57ae-897d-0d9c3f616b6a",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "288adb9b-a547-5e61-8593-1b2ab36271d3"
+  ],
+  "id": [
+    "chatcmpl-AIHJ7kKFoNZYhA6ZvKYEgyC7wipHg",
+    "66b05301-179b-597c-bb68-e6fd0e0d1d5a",
+    "e85449e5-801e-5431-80e1-521699d18780",
+    "2d9e043b-a3fa-52dc-9a4e-71ed49f9ec1d",
+    "a0146183-d255-5eae-85eb-adaf007d1b32",
+    "b3c5f734-aa0d-5da9-bdb9-e330e6c02e00",
+    "b774bf7b-4546-56d2-ae7b-7bc2c9f2fb08",
+    "c8d55dea-0656-527e-93bd-9624cec8f3c9",
+    "e5669569-f9ba-5797-b468-3a1980addc0a",
+    "9ca17d26-cc06-5afe-a7dd-3f80b1b99da0",
+    "45d35985-9183-55f0-8b51-41df27cd7677"
+  ],
+  "contexts": [
+    "NAs to be mapped to diabetic susceptible loci [49 52],  all suggesting towards critical roles of lncRNAs in insulin resistance, diabetes, and its associated complications. LncRNAs asregulators ofislet function The pancreatic islet is an important central node to researchers to understand the pathophysiology of diabe-tes [53]. The possible regulation of islet development and function by lncRNAs was first demonstrated by Ding etal., where the lncRNA, H19 (Fig. 4), was shown to be involved",
+    "this would require further investiga-tions, both invivo and invitro and critical networking among researchers, clinicians, and patients. Nevertheless, the implications of lncRNAs in diverse facets of insulin resistance and diabetes are indicative of their roles in the diagnosis, prognosis, and therapy of this disease in future.",
+    "To conclude, it would be apt to state that lncRNAs are widely implicated in diverse domains of cell metabolism and their altered expression is associated with diabetes and its complications. Although originally thought to be non-functional, lncRNA genes transcribe into lncRNAs that exert important and specific functions in regulating cellular pathways. Due to this specificity, lncRNAs are considered better therapeutic targets. In addition, their expression patterns in tissues quite follow the progress of",
+    "58. You L, Wang N, Yin D etal (2016) Downregulation of long noncoding RNA Meg3 affects insulin synthesis and secretion in mouse pancreatic beta cells. J Cell Physiol 231:852862  59. Arnes L, Akerman I, Balderes DA, Ferrer J, Sussel L (2016) betalinc1 encodes a long noncoding RNA that regulates islet beta-cell formation and function. Genes Dev 30:502507  60. Akerman I, Tu Z, Beucher A etal (2017) Human pancreatic beta cell lncRNAs control cell-specific regulatory networks. Cell Metab 25:400411",
+    "of lncRNAs in the development and function of metabolic tissues, and therefore, their altered levels are closely asso-ciated with the onset and progression of insulin resistance and diabetes. Roles oflncRNAs indiabetic complications Apart from being involved in major metabolic tissues dur -",
+    "tion among researchers ( Knoll et al., 2015 ). As an important post-transcriptional pathogenesis of diabetes, lncRNAs and their associated orchestrated networks are implicated in mediating complex pathological mechanisms of diabetes ( Kato et al., 2016; Liu et al., 2014 ). To delineate the inuence of lncRNAs and 172 iScience 19, 162176, September 27, 2019",
+    "in transgenerational transmission of gestational diabetes mellitus which leads to impaired islet structure and func-tion [ 54]. To understand the roles of lncRNAs in regu- lating pancreatic function, several research groups have profiled lncRNA expression in mouse and human pancre-atic islets [55, 56]. Transcriptome analysis in pancreatic  -cells of type 2 diabetes patients identified tissue-specific and dynamically regulated abnormally expressed lncR -",
+    "1831 Lnc-ing non- coding RNAs withmetabolism anddiabetes: roles oflncRNAs   1 3 endocrine hormones, insulin and glucagon, where insulin  is the anabolic master regulator which controls periph -",
+    "Vol.:(0123456789)1 3Cellular and Molecular Life Sciences (2018) 75:18271837  https://doi.org/10.1007/s00018-018-2760-9 REVIEW Lncing noncoding RNAs withmetabolism anddiabetes: roles  oflncRNAs NehaGoyal1,2 DeveshKesharwani1,2 MalabikaDatta1,2  Received: 18 September 2017 / Revised: 29 December 2017 / Accepted: 24 January 2018 / Published online: 31 January 2018   Springer International Publishing AG, part of Springer Nature 2018 Abstract",
+    "(2013). A novel mechanism regulating insulin secretion involving Herpud1 inmice. Diabetologia 56, 15691576 . Zhao, X.Y., and Lin, J.D. (2015). Long noncoding RNAs: a new regulatory code in metabolic control. Trends Biochem. Sci. 40, 586596 . 1806 Cell Reports 17, 17951806, November 8, 2016"
+  ],
+  "answer": "Recent findings highlight the significant role of long non-coding RNAs (lncRNAs) in the regulation of insulin secretion and sensitivity, with several implications for understanding and potentially treating diabetes.   1. **Regulation of Islet Function**: LncRNAs have been shown to regulate the development and function of pancreatic islets, which are crucial for insulin secretion. For instance, the lncRNA H19 is involved in this regulatory process [1]. This suggests that lncRNAs could be critical in maintaining normal insulin secretion and could be targets for therapeutic intervention in diabetes.  2. **Impact on Insulin Synthesis and Secretion**: Specific lncRNAs, such as Meg3, have been found to affect insulin synthesis and secretion in pancreatic beta cells [4]. This indicates that lncRNAs play a direct role in the cellular mechanisms that control insulin production, which is essential for maintaining glucose homeostasis.  3. **Therapeutic Potential**: Due to their specific functions in regulating cellular pathways, lncRNAs are considered promising therapeutic targets. Their expression patterns in tissues often correlate with the progression of diabetes, making them potential biomarkers for diagnosis and prognosis [3].  4. **Association with Insulin Resistance and Diabetes**: Altered levels of lncRNAs are closely associated with the onset and progression of insulin resistance and diabetes [5]. This association underscores the potential of lncRNAs as targets for interventions aimed at improving insulin sensitivity and managing diabetes.  5. **Research and Clinical Implications**: The diverse roles of lncRNAs in insulin resistance and diabetes suggest their importance in future research for diagnosis, prognosis, and therapy of the disease [2]. This calls for further investigations and collaborations among researchers, clinicians, and patients to fully understand and harness the potential of lncRNAs in diabetes management.  Overall, these findings imply that lncRNAs are integral to the regulation of insulin secretion and sensitivity, offering new avenues for research and treatment strategies in diabetes.",
+  "question": "What are the implications of recent findings on the role of long non-coding RNAs (lncRNAs) in the regulation of insulin secretion and sensitivity?"
+}

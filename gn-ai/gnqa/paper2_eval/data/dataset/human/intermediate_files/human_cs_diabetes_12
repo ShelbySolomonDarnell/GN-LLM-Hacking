@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2015 - The genetics of diabetic complications.pdf",
+    "2009 - From Disease Association to Risk Assessment.pdf",
+    "2014 - Identification of novel risk genes associated with type 1 diabetes mellitus.pdf",
+    "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+    "1994 - Genetic Predisposition to Diabetic Nephropathy.pdf",
+    "2007 - Network-Based Analysis.pdf",
+    "2007 - Network-Based Analysis.pdf",
+    "2007 - Network-Based Analysis.pdf",
+    "2008 - High-Density Single Nucleotide Polymorphism.pdf"
+  ],
+  "extraction_id": [
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "27de21d5-8e86-5233-8196-ff09c1916eb8",
+    "6f819601-6eea-54a4-ab88-27e1b0602287",
+    "cce6eb13-6c59-5916-a108-477128ed6912",
+    "46f1cae6-a01f-5445-b20f-0eadf892f8bf",
+    "9f693d00-d331-5924-a0bc-8ec8614ccd6e",
+    "295a5916-ff2d-54b2-a0fe-4b279e71b5ad",
+    "334686b0-71fb-5820-9649-3cdf355f1dfe",
+    "63fadd0c-3522-5339-b534-807144901fa9",
+    "e04a055d-630a-50b5-a468-560e25bf1d40"
+  ],
+  "document_id": [
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "5bc1f058-caf2-5cb4-9623-b1d04b074a3c",
+    "a61066d0-0d1a-5f10-96c3-aa96bacdad5e",
+    "97fe33b0-a6c7-59b6-bd34-05528e77293f",
+    "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+    "e9dce475-d40f-5cda-a53d-3e722191d447",
+    "1f23601c-2dab-570a-a2ca-039283831b17",
+    "1f23601c-2dab-570a-a2ca-039283831b17",
+    "1f23601c-2dab-570a-a2ca-039283831b17",
+    "ce79f562-c274-5cbe-bae2-e5b688348b04"
+  ],
+  "id": [
+    "chatcmpl-ADZRGfPVf97ITQ8FTyJHnwW98zLJf",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "8a7d2ffb-20b3-572a-99af-ec120e268bd3",
+    "506f423f-23f7-5d72-b614-1ccc9b38e853",
+    "d84c2221-5d5b-5df9-bafd-2dd17e9fb132",
+    "069b11b5-0785-599a-b92e-543e133c1c65",
+    "f0848c4e-5c55-5e13-8ac5-75065aaed286",
+    "9c16d623-9eb8-57fe-8ae8-48009f766d64",
+    "9fd6df7d-c275-573d-8c8e-afe69ec5c544",
+    "5005ed0b-8b17-540f-8106-94593c601084",
+    "81a23927-18e2-54fe-94c2-6b64cc3c7020"
+  ],
+  "contexts": [
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "Diabetes (GoKinD) study: a genetics collection  available for identifying genetic susceptibility  factors for diabetic nephropathy in type1  diabetes. J. Am. Soc. Nephrol.  17, 17821790  (2006). 137. Scott, R.A. etal. Large-scale association  analyses identify new loci influencing glycaemic  traits and provide insight into the underlying  biological pathways. Nat. Genet.  44, 9911005  (2012). Author contributions All authors researched the data for the article,",
+    "identifying genetic susceptibility factors for diabetic nephropathy in type 1 diabetes. J Am Soc Nephrol 17: 17821790. 44. Manolio TA, Rodriguez LL, Brooks L, Abecasis G, Ballinger D, et al. (2007) New models of collaboration in genome-wide association studies: the Genetic Association Information Network. Nat Genet 39: 10451051. 45. Mailman MD, Feolo M, Jin Y, Kimura M, Tryka K, et al. (2007) The NCBI dbGaP database of genotypes and phenotypes. Nat Genet 39: 11811186.",
+    "in Diabetes (GoKinD) study: a genetics collection availablefor identifying genetic susceptibility factors for diabeticnephropathy in type 1 diabetes. J Am Soc Nephrol 2006; 177: 1782 1790. 10. Pezzolesi MG, Poznik GD, Mychaleckyj JC, et al. Genome- wide association scan for diabetic nephropathysusceptibility genes in type 1 diabetes. Diabetes 2009; 586: 14031410. 11. Paterson AD, Lopes-Virella MF, Waggott D, et al.",
+    "beta cell function, insulin mode of action, glucose  metabolism and/or other risk  factors.  It is a fact that advances in genotyping technology, over the past few years,  have facilitated rapid progress in large-scale gene tic studies.   Identification of a large  number of novel genetic variants increasing suscept ibility diabetes and related traits  opened up opportunities, not existing thus far, to associate this genetic information",
+    "DISCUSSION The findings of previous epidemiological and family studies suggest that diabetic nephropathy results from an interaction between metabolic abnormalities that are typical of poorlycontrolled IDDM and predisposing genetic factors (4,5). Thenature of the genetic factors, however, has remained un- known (22). Using a candidate gene approach, we have found in this",
+    "PLoS Genetics | www.plosgenetics.org June 2007 | Volume 3 | Issue 6 | e96 0963 Type 2 Diabetes Network-Based Analysis",
+    "PLoS Genetics | www.plosgenetics.org June 2007 | Volume 3 | Issue 6 | e96 0971 Type 2 Diabetes Network-Based Analysis",
+    "PLoS Genetics | www.plosgenetics.org June 2007 | Volume 3 | Issue 6 | e96 0967 Type 2 Diabetes Network-Based Analysis",
+    "High-Density Single Nucleotide Polymorphism Genome-Wide Linkage Scan for Susceptibility Genes forDiabetic Nephropathy in Type 1 Diabetes Discordant Sibpair Approach John J. Rogus,1,2G. David Poznik,1Marcus G. Pezzolesi,1,2Adam M. Smiles,1Jonathon Dunn,1 William Walker,1Krzysztof Wanic,1,2Dariusz Moczulski,1,2,3Luis Canani,1,2,4Shinichi Araki,1,2,5 Yuichiro Makita,1,2,6James H. Warram,1and Andrzej S. Krolewski1,2 OBJECTIVE Epidemiological and family studies have demon-"
+  ],
+  "answer": "GeneNetwork can assist in identifying genetic factors involved in diabetes by leveraging large-scale genetic studies and databases that focus on genetic susceptibility factors. For instance, the Diabetes (GoKinD) study provides a genetics collection specifically aimed at identifying genetic susceptibility factors for diabetic nephropathy in type 1 diabetes [2], [4]. Additionally, advances in genotyping technology have facilitated rapid progress in large-scale genetic studies, enabling the identification of numerous novel genetic variants that increase susceptibility to diabetes and related traits [5]. These resources and technological advancements can be utilized within GeneNetwork to analyze genetic data and identify potential genetic factors involved in diabetes.",
+  "question": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+}

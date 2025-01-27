@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2021 - New Technologies to Study Functional Genomics of Age-Related Macular Degeneration.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2020 - Integrative genomics approach identifies conserved.pdf",
+    "2023 - Comprehensive genomics analysis of aging related gene signature to predict the prognosis and drug resistance of colon adenocarcinoma.pdf",
+    "2020 - The Genomics of Auditory.pdf",
+    "2016 - Single-cell genomics coming of age.pdf",
+    "2022 - Systems genomics in age-related macular degeneration.pdf",
+    "2018 - Human Genetics of Obesity and Type 2 Diabetes Mellitus.pdf",
+    "2020 - Integrative genomics approach identifies conserved.pdf",
+    "2009 - Gene expression in the mouse eye an online resource for genetics using 103 strains of mice.pdf"
+  ],
+  "extraction_id": [
+    "453f1ace-3591-50a3-afa5-86404632ace3",
+    "60355441-16f5-53a2-9b24-9616624f8d00",
+    "863ce70a-3bcd-5a6c-a63f-620a9fdcdfdf",
+    "59e0781d-994c-5ef5-b2f4-073f4a73743b",
+    "16c769c7-b6ad-5b50-8d81-92c6768595f5",
+    "8d4d3a2d-0aca-5880-98e7-92638c72dd31",
+    "e488a94d-d7b3-5d56-bd56-95ac6e89d3ed",
+    "74048afb-68c3-520a-b661-1d347e9d2fcd",
+    "863ce70a-3bcd-5a6c-a63f-620a9fdcdfdf",
+    "65c45e96-da39-59d8-9b9e-0679df8b1472"
+  ],
+  "document_id": [
+    "419ee941-2cd6-56ae-8221-aed1c22a8ee2",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "704a4d4c-3655-5cc0-8d2b-5f4723db13ff",
+    "8505ccf0-3138-5b83-b36d-8ebd7506a3a4",
+    "f56b6ae4-e05a-5851-9c10-4bd62f237778",
+    "dca877e8-cbb9-561e-9b3c-6085228af97d",
+    "e8cf1e00-cf22-54cb-a0de-790a822c62d1",
+    "2083de31-17c6-5d1e-9aa6-2efc6c1d9ac2",
+    "704a4d4c-3655-5cc0-8d2b-5f4723db13ff",
+    "85241c56-1338-5b42-8b33-10b14514f169"
+  ],
+  "id": [
+    "chatcmpl-AIGsGaW9DtpbrFAp6kQFqInDl6kUP",
+    "615beb0f-6b0a-59a6-a2fe-0be884c43d55",
+    "732b8fa8-8832-5002-bea1-bdde2bc61c64",
+    "849c1df7-4164-5164-b3be-6cdeb62ee555",
+    "3069c1d1-6b89-513a-83c3-e64cce07043f",
+    "504a960d-e669-52d1-b6c0-439b4f981d5f",
+    "769d2c00-d882-59a6-aa69-feb575c9fe1a",
+    "1fa406bc-fb29-5b60-90bc-1e77bd499df6",
+    "5f508353-ff30-5dfc-9bac-4bb8c6627391",
+    "42cf70a7-610a-5792-be62-58114dfc505a",
+    "908fad18-f471-5067-8bfc-f49951bdb4d1"
+  ],
+  "contexts": [
+    "On the other hand, single-nucleus RNA-seq (snRNA-seq) provides an alternative method for gene expression proling in complex tissues from frozen samples at single cell levels (Grindberg et al., 2013). Compared to scRNAseq, snRNA-seq analyze gene expression within the nuclei instead of intact cells. It should be noted that there could be potential dierences between the RNA type and expression levels between nucleus and cytosol. As observed in a previous study comparing nuclear",
+    "most genetic and epigenetic mechanisms are yet to be probed with single-cell resolution. To understand the finer details at the level of a singular cell, sophisticated genomic and epigenomic next-generation sequencing (NGS) technologies have increased the potential for research output immensely (see Clark etal. 2018; Clark etal. 2016; Kelsey etal. 2017;  Macaulay etal. 2017; Stuart and Satija 2019). These would",
+    "of the disease, profiling gene expression in only bulk tissue sam-ples may obscure biologically relevant cell-type specific changes. While single-cell RNA-seq allows us to evaluate transcriptional changes within cell-types, it is prohibitively costly to executeon large cohorts (i.e. hundreds of individuals). To circumvent this issue, we developed a framework that leverages single-",
+    "2019). The traditional RNA sequencing technology (bulk RNA-seq) is applied to determine gene expression pro les, isoform expression, alternative splicing and single-nucleotide polymorphisms on basis oftissue samples, which contains various cell types ( Kuksin et al., 2021 ). On the contrast, single-cell RNA sequencing (scRNA-seq), a noveltechnology can detect the gene expre ssion patterns for each transcript within single cell and distinguish cell subtypes ( Lhnemann et al., 2020 ).",
+    "sion from smaller amounts of RNA enabled cell typespecific analyses.Specific cell types can beisolated using flow cytometry, for example, using endogenously expressed fluorescent markers, with or without combining with antibodies for cell surface proteins. Transcriptomic analysis by either microarray or bulk RNA sequencing then follows (39,67,68,104,145).Such analyses can 280 Taiberetal. Annu. Rev. Genom. Hum. Genet. 2022.23:275-299. Downloaded from www.annualreviews.org",
+    "Recent applications Single-cell RNA sequencing has had a profound impact on our understanding of neuronal and hematopoietic cell types, as well as the immune system. Examples of novel insights in immunity include a window on to an unexpected plethora of dendritic cells in mouse immun- ity [25] and new regulators and subpopulations of CD4+ T cells [26 28]. In hematopoiesis, much single-cell tran- scriptomics work has focused on hematopoetic stem cells and the single-cell perspective has provided reso-",
+    "single- nucleus RNAseq makes them a valuable complement to the find- ings published by Orozco, Chen et al. (Orozco et al., 2020 ). Furthermore,  Yan et al. (2020) used cell sorting to enrich for cell types with a high  degree of heterogeneity, resulting in finer cell subtype resolution for  non-photoreceptor cell types such as RGCs.  In addition to neural retina, our understanding of the choroidal",
+    "using sequencing (ATAC-seq),95,96 that can map chro- matin interactions and accessibility with higher resolu-tion than previous methods will improve our ability to  disentangle GWAS loci; while single-cell RNA sequenc- ing 97,98 and CRISPR-based pooled gene perturbation  methods99103 provide unprecedented opportunities for  studies of how RNA expression patterns differ between cells within tissues and how those tissues and cells react  to perturbation of multiple genes in parallel.",
+    "cell RNA-seq data from a smaller cohort in conjunction withco-expression network analysis in order to estimate cell-typespecific transcriptomic changes in large, bulk tissue RNA-seq datasets. We isolated nuclei and performed single-nuclei RNA-seq (snRNA-seq, n= 27 321 nuclei) on postmortem human brain tissue from aged, neurologically healthy controls ( n=5 ,6 7t o9 0 + years old, PFC, Supplementary Material, Table S1 ) to clarify cell- type proportions and the corresponding transcriptional profiles",
+    "without the biases of probe sequence selection and hybridization reactions. The second innovation is cell-specific RNA profiling methods [79] that make it practical to generate comparatively accurate expression data for individual cell types in genetically engineered lines of mice. We can soon expect far more comprehensive and specific lists of genes for several important cell and tissue types that can be used to assemble multicellular expression networks in eye.ACKNOWLEDGMENTS Dr. Eldon E."
+  ],
+  "answer": "Advancements in single-nucleus RNA sequencing (snRNA-seq) provide more granular insights into cell-type-specific gene expression networks by allowing for the analysis of gene expression within the nuclei of cells, rather than relying on intact cells as in single-cell RNA sequencing (scRNA-seq) [1]. This method is particularly useful for profiling gene expression in complex tissues from frozen samples at the single-cell level, which can be challenging with other techniques [1].   Additionally, snRNA-seq can help clarify cell-type proportions and corresponding transcriptional profiles, as demonstrated in studies involving postmortem human brain tissue [9]. By isolating nuclei and performing snRNA-seq, researchers can achieve finer cell subtype resolution, which is crucial for understanding the heterogeneity within cell populations [7]. This level of detail is essential for constructing accurate cell-type-specific gene expression networks, as it allows for the identification of transcriptional changes and cell-type-specific gene expression patterns that might be obscured in bulk tissue analyses [3].   Overall, snRNA-seq enhances our ability to dissect complex tissues into their constituent cell types and understand the unique gene expression networks within each type, providing a more detailed and nuanced view of cellular function and interaction.",
+  "question": "How do advancements in single-nucleus RNA sequencing provide more granular insights into cell-type-specific gene expression networks?"
+}

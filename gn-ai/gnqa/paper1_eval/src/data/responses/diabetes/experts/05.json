@@ -1,0 +1,400 @@
+{
+    "created_at": "2024-05-31T23:11:51.586254Z",
+    "data": {
+        "amplify": false,
+        "answer": "Genetics plays a significant role in the emergence of diabetes. In type 1 diabetes, gene variants in the human leukocyte antigen (HLA) locus contribute to 50-60% of the genetic risk by affecting protein binding and antigen presentation to T cells. Other gene variants that modulate immune regulation, viral responses, environmental signals, and endocrine function also contribute to the disease. The risk for type 1 diabetes is strongly influenced by multiple genetic loci. In type 2 diabetes, many common variants, largely with small effect size, contribute to overall disease risk. Monogenic forms of diabetes, such as MODY, result from mutations in a single gene. Family history also plays a role, suggesting that genetics conveys more than heritable information; it probably includes non-genetic familial behaviors and norms.",
+        "context": {
+            "00591f6a-0d6f-4993-ae6c-e9a8109a95ec": [
+                {
+                    "document_id": "00591f6a-0d6f-4993-ae6c-e9a8109a95ec",
+                    "text": "A. Genetic Screening\n\nWe have discussed above the genetic component of T1D.The genetic susceptibility to T1D is determined by genes related to immune function with the potential exception of the insulin gene (434).The genetic susceptibility component of T1D allows some targeting of primary preventive care to family members of diagnosed T1D patients, but there is no complete inheritance of the disease.Nevertheless, the risk for developing T1D compared with people with no family history is ϳ10 -15 times greater.Although ϳ70% of individuals with T1D carry defined risk-associated genotypes at the HLA locus, only 3-7% of the carriers of such genetic risk markers develop diabetes (3)."
+                },
+                {
+                    "document_id": "00591f6a-0d6f-4993-ae6c-e9a8109a95ec",
+                    "text": "II. THE GENETICS OF TYPE 1 DIABETES\n\nA comprehensive overview of genetic data in mouse and human is beyond the scope of this article.Instead, we will focus on how the various susceptibility genes and environmental triggers can fit in a mechanistic model for T1D etiology."
+                }
+            ],
+            "0da4d3d4-10d5-4a58-9e50-c1fa0b414427": [
+                {
+                    "document_id": "0da4d3d4-10d5-4a58-9e50-c1fa0b414427",
+                    "text": "\n\nThe relative prevalence of mutations causal for monogenic forms of diabetes suggests that mutations in ␤-cellrelated processes are a more frequent cause of severe early-onset diabetes than those influencing insulin action (see above).Studies of the relative heritabilities of indexes of ␤-cell function and insulin action in the general population also hint at a preponderance of ␤-cell effects (52)."
+                }
+            ],
+            "30d5d1de-ab8a-4b12-be3f-dd4e07d44a01": [
+                {
+                    "document_id": "30d5d1de-ab8a-4b12-be3f-dd4e07d44a01",
+                    "text": "\nIn 1976, the noted human geneticist James Neel titled a book chapter \"Diabetes Mellitus: A Geneticist's Nightmare.\" 1 Over the past 30 years, however, the phenotypic and genetic heterogeneity of diabetes has been painstakingly teased apart to reveal a family of disorders that are all characterized by the disruption of glucose homeostasis but that have fundamentally different causes.Recently, the availability of detailed information on the structure and variation of the human genome and of new high-throughput techniques for exploiting these data has geneticists dreaming of unraveling the genetic complexity that underlies these disorders.This review focuses on type 1 diabetes mellitus and includes an update on recent progress in understanding genetic factors that contribute to the disease and how this information may contribute to new approaches for prediction and therapeutic intervention.Type 1 diabetes becomes clinically apparent after a preclinical period of varying length, during which autoimmune destruction reduces the mass of beta cells in the pancreatic islets to a level at which blood glucose levels can no longer be maintained in a physiologic range.The disease has two subtypes: 1A, which includes the common, immune-mediated forms of the disease; and 1B, which includes nonimmune forms.In this review, we focus on subtype 1A, which for simplicity will be referred to as type 1 diabetes.Although there are rare monogenic, immune-mediated forms of type 1 diabetes, 2,3 the common form is thought to be determined by the actions, and possible interactions, of multiple genetic and environmental factors.The concordance for type 1 diabetes in monozygotic twins is less than 100%, and although type 1 diabetes aggregates in some families, it does not segregate with any clear mode of inheritance. 4-7Despite these complexities, knowledge of genetic factors that modify the risk of type 1 diabetes offers the potential for improved prediction, stratification of patients according to risk, and selection of possible therapeutic targets.As germ-line factors, genetic risk variants are present and amenable to study at all times -before, during, and after the development of diabetes.Thus, genetic information can serve as a potential predictive tool and provide insights into pathogenetic factors occurring during the preclinical phase of the disease, when preventive measures might be applied. Gene tic S t udiesBecause of the uncertainty regarding the number and action of genes involved in type 1 diabetes, genetic studies have tended to focus on approaches that require few assumptions about the underlying model of disease risk.The two primary approaches have been linkage studies (using pairs of affected relatives, typically siblings) and association studies (using either case-control or family-based designs).Linkage studies using affected sibling pairs seek to identify regions of the genome that are shared"
+                }
+            ],
+            "516de7be-3cef-47ee-8338-199fb922bc6f": [
+                {
+                    "document_id": "516de7be-3cef-47ee-8338-199fb922bc6f",
+                    "text": "Environment\n\nThe second factor in Figure 1 is environmental aspects.An important concept is the diabetes genotype typically causes only a predisposition for glucose intolerance (note the terminology susceptibility gene was used in the preceding paragraphs).Whether one develops the diabetes phenotype depends on environmental factors, some obvious in how they act, others less so.For instance, the Nurses Health Survey showed positive associations between obesity and lack of physical activity in the development of type 2 diabetes (as expected), but also protection by not smoking and moderate alcohol intake (14).Already discussed, many studies have shown an association between TV watching, high calorie diets, and lack of physical activity with risk of diabetes, i.e., our modern lifestyle, so it is not surprising that there is an explosion in the incidence of diabetes worldwide."
+                }
+            ],
+            "588bca6b-82c0-4ac1-9c7e-dc09af1d49b0": [
+                {
+                    "document_id": "588bca6b-82c0-4ac1-9c7e-dc09af1d49b0",
+                    "text": "The genetics of type 1 diabetes\n\nThere is a strong genetic risk to T1D.This is exemplified by (Redondo et al., 2001) who demonstrated a strong concordance of genetic inheritance (65%) and T1D susceptibility in monozygotic twin pairs.That is, when one sibling is afflicted, there is a high probability that the other twin will develop T1D by the age of 60 years.Additionally, autoantibody positivity and islet destruction was observed after a prospective long-term follow-up of monozygotic twins of patients with T1D, despite initial disease-discordance among the twins (Redondo et al., 2008)."
+                }
+            ],
+            "76ae2f09-af4d-422a-b939-625f0fe4ae1c": [
+                {
+                    "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                    "text": "Type 1 diabetes has unusual epidemiological features related to gender\n\nType 1 diabetes also displays unusual patterns of inheritance that may yield insights into etiology and provide clues to the best methods for analyzing genetic studies.The risk to the offspring is generally greater from a mother or father who was diagnosed at an early age (again suggesting that early-onset cases are more heavily genetically 'loaded').However, the risk of diabetes is approximately two to four times higher for a child whose father has type 1 diabetes than one whose mother is affected [see (52,53) and references therein].This parental difference is largely due to a low risk for offspring of mothers who were diagnosed at a later age (53).The difference could be explained by at least three different factors.First, the risk alleles could only be active when transmitted by the father (such as is seen in imprinting, where only one of the parental alleles is expressed).Alternatively, a maternal environmental factor during pregnancy could be protective.However, it is difficult to see how this protective effect would be restricted to mothers diagnosed at a later age, especially since the protective effect was unrelated to the mother's duration of diabetes or even diabetic status at delivery (53).Finally, mothers who are diagnosed at a later age could represent more 'environmental' cases of diabetes, and thus be less likely to pass on risk genes to their offspring."
+                },
+                {
+                    "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                    "text": "Type 1 diabetes is a genetic disease\n\nFamily studies have indicated that genetic factors are important determinants of type 1 diabetes risk.First, the risk to a sibling of an affected individual is approximately 6%, as compared with an average risk of 0.4% (depending on the population), or a relative increased risk of 15-fold (17).The increased risk to siblings is referred to as l s (18) and is one measure of the degree of familial clustering of the disease."
+                },
+                {
+                    "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                    "text": "\nFamily and twin studies indicate that a substantial fraction of susceptibility to type 1 diabetes is attributable to genetic factors.These and other epidemiologic studies also implicate environmental factors as important triggers.Although the specific environmental factors that contribute to immune-mediated diabetes remain unknown, several of the relevant genetic factors have been identified using two main approaches: genome-wide linkage analysis and candidate gene association studies.This article reviews the epidemiology of type 1 diabetes, the relative merits of linkage and association studies, and the results achieved so far using these two approaches.Prospects for the future of type 1 diabetes genetics research are considered."
+                },
+                {
+                    "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                    "text": "\n\nFamily and twin studies indicate that a substantial fraction of susceptibility to type 1 diabetes is attributable to genetic factors.These and other epidemiologic studies also implicate environmental factors as important triggers.Although the specific environmental factors that contribute to immune-mediated diabetes remain unknown, several of the relevant genetic factors have been identified using two main approaches: genome-wide linkage analysis and candidate gene association studies.This article reviews the epidemiology of type 1 diabetes, the relative merits of linkage and association studies, and the results achieved so far using these two approaches.Prospects for the future of type 1 diabetes genetics research are considered."
+                }
+            ],
+            "83a34294-d942-476f-be2f-ff8d7ec3dec4": [
+                {
+                    "document_id": "83a34294-d942-476f-be2f-ff8d7ec3dec4",
+                    "text": "\n\nGenes affecting type 1 diabetes diagnosis age / A. Syreeni et al."
+                }
+            ],
+            "8d723c99-bd3c-43eb-9b31-14ee233c2ed4": [
+                {
+                    "document_id": "8d723c99-bd3c-43eb-9b31-14ee233c2ed4",
+                    "text": "\n\nThus, the most likely scenario is that these genes are more poised for activation in the case group compared with the control group, contributing to various diabetes complications in the long term.This could be a consequence of the early exposure to hyperglycemia (measured by HbA 1c level), which is known to be associated with increased rates of long-term diabetes complications."
+                }
+            ],
+            "9240ab9b-c5bb-4475-ad2b-111843cb146a": [
+                {
+                    "document_id": "9240ab9b-c5bb-4475-ad2b-111843cb146a",
+                    "text": "\n\nThe risk for T1D is strongly influenced by multiple genetic loci and environmental factors.The disease is heritable, with first-degree relatives of patients with T1D being at 15-fold greater risk for developing the condition than the general population."
+                }
+            ],
+            "92eb0c69-5e98-41aa-9084-506e7f223b1a": [
+                {
+                    "document_id": "92eb0c69-5e98-41aa-9084-506e7f223b1a",
+                    "text": "Genetic Background and Environment\n\nBoth type 1 and 2 diabetes as well as other rare forms of diabetes that are directly inherited, including MODY and diabetes due to mutations in mitochondrial DNA, are caused by a combination of genetic and environmental risk factors.Unlike some traits, diabetes does not seem to be inherited in a simple pattern.Undoubtedly, however, some people are born prone to developing diabetes more so than others.Several epidemiological patterns suggest that environmental factors contribute to the etiology of T1D.Interestingly, the recent elevated number of T1D incidents projects a changing global environment, which acts either as initiator and/or accelerator of beta cell autoimmunity rather than variation in the gene pool.Several genetic factors are involved in the development of the disease [127].There is evidence that more than twenty regions of the genome are involved in the genetic susceptibility to T1D."
+                }
+            ],
+            "9c9cc0b3-5dde-4077-ae41-1410db9aeb24": [
+                {
+                    "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                    "text": "Type 1 Diabetes\n\nThe higher type 1 diabetes prevalence observed in relatives implies a genetic risk, and the degree of genetic identity with the proband correlates with risk (22)(23)(24)(25)(26). Gene variants in one major locus, human leukocyte antigen (HLA) (27), confer 50-60% of the genetic risk by affecting HLA protein binding to antigenic peptides and antigen presentation to T cells (28).Approximately 50 additional genes individually contribute smaller effects (25,29).These contributors include gene variants that modulate immune regulation and tolerance (30)(31)(32)(33), variants that modify viral responses (34,35), and variants that influence responses to environmental signals and endocrine function (36), as well as some that are expressed in pancreatic b-cells (37).Genetic influences on the triggering of islet autoimmunity and disease progression are being defined in relatives (38,39).Together, these gene variants explain ;80% of type 1 diabetes heritability.Epigenetic (40), gene expression, and regulatory RNA profiles (36) may vary over time and reflect disease activity, providing a dynamic readout of risk."
+                },
+                {
+                    "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                    "text": "Genetics\n\nBoth type 1 and type 2 diabetes are polygenic diseases where many common variants, largely with small effect size, contribute to overall disease risk.Disease heritability (h 2 ), defined as sibling-relative risk, is 3 for type 2 diabetes and 15 for type 1 diabetes (17).The lifetime risk of developing type 2 diabetes is ;40% if one parent has type 2 diabetes and higher if the mother has the disease (18).The risk for type 1 diabetes is ;5% if a parent has type 1 diabetes and higher if the father has the disease (19).Maturity-onset diabetes of the young (MODY) is a monogenic disease and has a high h 2 of ;50 (20).Mutations in any 1 of 13 different individual genes have been identified to cause MODY (21), and a genetic diagnosis can be critical for selecting the most appropriate therapy.For example, children with mutations in KCJN11 causing MODY should be treated with sulfonylureas rather than insulin."
+                }
+            ],
+            "9cce7fe9-cb40-4e75-85bc-d8655c3343d6": [
+                {
+                    "document_id": "9cce7fe9-cb40-4e75-85bc-d8655c3343d6",
+                    "text": "\n\nType 1 diabetes as well as type 2 diabetes shows a genetic predisposition, although only type 1 diabetes is HLA dependent [32,33,36,40]."
+                }
+            ],
+            "afb0bd31-df62-4a8d-8c20-9841e2d2dc4a": [
+                {
+                    "document_id": "afb0bd31-df62-4a8d-8c20-9841e2d2dc4a",
+                    "text": "\n\nGenetic factors have an important role in the development of diabetes, with some forms of the disease resulting from mutations in a single gene.Others are multifactorial in origin.The monogenic forms of diabetes account for approximately 5% of cases and are caused by mutations in genes encoding insulin 3 , the insulin receptor 4 , the glycolytic enzyme glucokinase 5 , and the transcription factors hepatocyte nuclear factor-1α (HNF-1α), HNF-1β, HNF-4α, insulin promoter factor-1 and NeuroD1/BETA2 (refs  6-10).Mutations in maternally inherited mitochondrial genes can also cause diabetes, often in association with hearing loss 11 ."
+                }
+            ],
+            "d1449eee-d4ec-4886-87d1-835fb54a5f56": [
+                {
+                    "document_id": "d1449eee-d4ec-4886-87d1-835fb54a5f56",
+                    "text": "\n\nStudies [71][72][73][74] in Mexican and Asian populations have identified several mutations associated with type 2 diabetes in young people.The high prevalence of type 2 diabetes in the parents of young people diagnosed with type 2 diabetes could reflect a stronger genetic predisposition, even when monogenic diabetes is excluded.This hypothesis suggests that efforts to define genes that cause type 2 diabetes by linkage might be more powerful if focused on young adults with diabetes, raising the question of whether type 2 diabetes in older populations has a relatively smaller genetic contribution and a stronger environmental contribution. 66"
+                }
+            ],
+            "fa72cb33-e1e4-49ea-a72e-dd851225ee0b": [
+                {
+                    "document_id": "fa72cb33-e1e4-49ea-a72e-dd851225ee0b",
+                    "text": "\n\nWe found that the presence or absence of parental diabetes and the genotype score were independently associated with the risk of diabetes.This suggests that family history as a risk factor for diabetes conveys more than heritable genetic information; it probably includes nongenetic familial behaviors and norms.The lower relative risks for diabetes associated with observed parental diabetes as compared with those associated with self-reported family history (approximately 1.8 vs. approximately 2.2) support the contention that family history contains more risk information than is implied by inheritance of the diabetes phenotype alone.One of the limitations of our study is that the 18 SNPs we included are probably insufficient to account for the familial risk of diabetes.They account for a minority of diabetes heritability, and the SNP array platforms from which they were chosen capture only approximately 80% of common variants in Europeans.In addition, we have not considered structural variants that might confer a risk of diabetes.It is possible that the addition of rare risk alleles with large effects, or a much larger number of common risk alleles with small individual effects, could improve discrimination. 36Indeed, as many as 500 loci may underlie the genetic risk of type 2 diabetes. 16Also, we did not study interactions among genes or between genes and the environment that might alter the genetic risk in exposed persons.As more diabetes risk variants become known, their incorporation into the genotype score may explain more of the genetic risk implied by parental diabetes."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "afb0bd31-df62-4a8d-8c20-9841e2d2dc4a",
+                "section_type": "main",
+                "text": "\n\nGenetic factors have an important role in the development of diabetes, with some forms of the disease resulting from mutations in a single gene.Others are multifactorial in origin.The monogenic forms of diabetes account for approximately 5% of cases and are caused by mutations in genes encoding insulin 3 , the insulin receptor 4 , the glycolytic enzyme glucokinase 5 , and the transcription factors hepatocyte nuclear factor-1α (HNF-1α), HNF-1β, HNF-4α, insulin promoter factor-1 and NeuroD1/BETA2 (refs  6-10).Mutations in maternally inherited mitochondrial genes can also cause diabetes, often in association with hearing loss 11 ."
+            },
+            {
+                "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                "section_type": "main",
+                "text": "Type 1 Diabetes\n\nThe higher type 1 diabetes prevalence observed in relatives implies a genetic risk, and the degree of genetic identity with the proband correlates with risk (22)(23)(24)(25)(26). Gene variants in one major locus, human leukocyte antigen (HLA) (27), confer 50-60% of the genetic risk by affecting HLA protein binding to antigenic peptides and antigen presentation to T cells (28).Approximately 50 additional genes individually contribute smaller effects (25,29).These contributors include gene variants that modulate immune regulation and tolerance (30)(31)(32)(33), variants that modify viral responses (34,35), and variants that influence responses to environmental signals and endocrine function (36), as well as some that are expressed in pancreatic b-cells (37).Genetic influences on the triggering of islet autoimmunity and disease progression are being defined in relatives (38,39).Together, these gene variants explain ;80% of type 1 diabetes heritability.Epigenetic (40), gene expression, and regulatory RNA profiles (36) may vary over time and reflect disease activity, providing a dynamic readout of risk."
+            },
+            {
+                "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                "section_type": "main",
+                "text": "Type 1 diabetes is a genetic disease\n\nFamily studies have indicated that genetic factors are important determinants of type 1 diabetes risk.First, the risk to a sibling of an affected individual is approximately 6%, as compared with an average risk of 0.4% (depending on the population), or a relative increased risk of 15-fold (17).The increased risk to siblings is referred to as l s (18) and is one measure of the degree of familial clustering of the disease."
+            },
+            {
+                "document_id": "8d723c99-bd3c-43eb-9b31-14ee233c2ed4",
+                "section_type": "main",
+                "text": "\n\nThus, the most likely scenario is that these genes are more poised for activation in the case group compared with the control group, contributing to various diabetes complications in the long term.This could be a consequence of the early exposure to hyperglycemia (measured by HbA 1c level), which is known to be associated with increased rates of long-term diabetes complications."
+            },
+            {
+                "document_id": "516de7be-3cef-47ee-8338-199fb922bc6f",
+                "section_type": "main",
+                "text": "Environment\n\nThe second factor in Figure 1 is environmental aspects.An important concept is the diabetes genotype typically causes only a predisposition for glucose intolerance (note the terminology susceptibility gene was used in the preceding paragraphs).Whether one develops the diabetes phenotype depends on environmental factors, some obvious in how they act, others less so.For instance, the Nurses Health Survey showed positive associations between obesity and lack of physical activity in the development of type 2 diabetes (as expected), but also protection by not smoking and moderate alcohol intake (14).Already discussed, many studies have shown an association between TV watching, high calorie diets, and lack of physical activity with risk of diabetes, i.e., our modern lifestyle, so it is not surprising that there is an explosion in the incidence of diabetes worldwide."
+            },
+            {
+                "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                "section_type": "abstract",
+                "text": "\nFamily and twin studies indicate that a substantial fraction of susceptibility to type 1 diabetes is attributable to genetic factors.These and other epidemiologic studies also implicate environmental factors as important triggers.Although the specific environmental factors that contribute to immune-mediated diabetes remain unknown, several of the relevant genetic factors have been identified using two main approaches: genome-wide linkage analysis and candidate gene association studies.This article reviews the epidemiology of type 1 diabetes, the relative merits of linkage and association studies, and the results achieved so far using these two approaches.Prospects for the future of type 1 diabetes genetics research are considered."
+            },
+            {
+                "document_id": "30d5d1de-ab8a-4b12-be3f-dd4e07d44a01",
+                "section_type": "abstract",
+                "text": "\nIn 1976, the noted human geneticist James Neel titled a book chapter \"Diabetes Mellitus: A Geneticist's Nightmare.\" 1 Over the past 30 years, however, the phenotypic and genetic heterogeneity of diabetes has been painstakingly teased apart to reveal a family of disorders that are all characterized by the disruption of glucose homeostasis but that have fundamentally different causes.Recently, the availability of detailed information on the structure and variation of the human genome and of new high-throughput techniques for exploiting these data has geneticists dreaming of unraveling the genetic complexity that underlies these disorders.This review focuses on type 1 diabetes mellitus and includes an update on recent progress in understanding genetic factors that contribute to the disease and how this information may contribute to new approaches for prediction and therapeutic intervention.Type 1 diabetes becomes clinically apparent after a preclinical period of varying length, during which autoimmune destruction reduces the mass of beta cells in the pancreatic islets to a level at which blood glucose levels can no longer be maintained in a physiologic range.The disease has two subtypes: 1A, which includes the common, immune-mediated forms of the disease; and 1B, which includes nonimmune forms.In this review, we focus on subtype 1A, which for simplicity will be referred to as type 1 diabetes.Although there are rare monogenic, immune-mediated forms of type 1 diabetes, 2,3 the common form is thought to be determined by the actions, and possible interactions, of multiple genetic and environmental factors.The concordance for type 1 diabetes in monozygotic twins is less than 100%, and although type 1 diabetes aggregates in some families, it does not segregate with any clear mode of inheritance. 4-7Despite these complexities, knowledge of genetic factors that modify the risk of type 1 diabetes offers the potential for improved prediction, stratification of patients according to risk, and selection of possible therapeutic targets.As germ-line factors, genetic risk variants are present and amenable to study at all times -before, during, and after the development of diabetes.Thus, genetic information can serve as a potential predictive tool and provide insights into pathogenetic factors occurring during the preclinical phase of the disease, when preventive measures might be applied. Gene tic S t udiesBecause of the uncertainty regarding the number and action of genes involved in type 1 diabetes, genetic studies have tended to focus on approaches that require few assumptions about the underlying model of disease risk.The two primary approaches have been linkage studies (using pairs of affected relatives, typically siblings) and association studies (using either case-control or family-based designs).Linkage studies using affected sibling pairs seek to identify regions of the genome that are shared"
+            },
+            {
+                "document_id": "92eb0c69-5e98-41aa-9084-506e7f223b1a",
+                "section_type": "main",
+                "text": "Genetic Background and Environment\n\nBoth type 1 and 2 diabetes as well as other rare forms of diabetes that are directly inherited, including MODY and diabetes due to mutations in mitochondrial DNA, are caused by a combination of genetic and environmental risk factors.Unlike some traits, diabetes does not seem to be inherited in a simple pattern.Undoubtedly, however, some people are born prone to developing diabetes more so than others.Several epidemiological patterns suggest that environmental factors contribute to the etiology of T1D.Interestingly, the recent elevated number of T1D incidents projects a changing global environment, which acts either as initiator and/or accelerator of beta cell autoimmunity rather than variation in the gene pool.Several genetic factors are involved in the development of the disease [127].There is evidence that more than twenty regions of the genome are involved in the genetic susceptibility to T1D."
+            },
+            {
+                "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                "section_type": "main",
+                "text": "\n\nFamily and twin studies indicate that a substantial fraction of susceptibility to type 1 diabetes is attributable to genetic factors.These and other epidemiologic studies also implicate environmental factors as important triggers.Although the specific environmental factors that contribute to immune-mediated diabetes remain unknown, several of the relevant genetic factors have been identified using two main approaches: genome-wide linkage analysis and candidate gene association studies.This article reviews the epidemiology of type 1 diabetes, the relative merits of linkage and association studies, and the results achieved so far using these two approaches.Prospects for the future of type 1 diabetes genetics research are considered."
+            },
+            {
+                "document_id": "9c9cc0b3-5dde-4077-ae41-1410db9aeb24",
+                "section_type": "main",
+                "text": "Genetics\n\nBoth type 1 and type 2 diabetes are polygenic diseases where many common variants, largely with small effect size, contribute to overall disease risk.Disease heritability (h 2 ), defined as sibling-relative risk, is 3 for type 2 diabetes and 15 for type 1 diabetes (17).The lifetime risk of developing type 2 diabetes is ;40% if one parent has type 2 diabetes and higher if the mother has the disease (18).The risk for type 1 diabetes is ;5% if a parent has type 1 diabetes and higher if the father has the disease (19).Maturity-onset diabetes of the young (MODY) is a monogenic disease and has a high h 2 of ;50 (20).Mutations in any 1 of 13 different individual genes have been identified to cause MODY (21), and a genetic diagnosis can be critical for selecting the most appropriate therapy.For example, children with mutations in KCJN11 causing MODY should be treated with sulfonylureas rather than insulin."
+            },
+            {
+                "document_id": "d1449eee-d4ec-4886-87d1-835fb54a5f56",
+                "section_type": "main",
+                "text": "\n\nStudies [71][72][73][74] in Mexican and Asian populations have identified several mutations associated with type 2 diabetes in young people.The high prevalence of type 2 diabetes in the parents of young people diagnosed with type 2 diabetes could reflect a stronger genetic predisposition, even when monogenic diabetes is excluded.This hypothesis suggests that efforts to define genes that cause type 2 diabetes by linkage might be more powerful if focused on young adults with diabetes, raising the question of whether type 2 diabetes in older populations has a relatively smaller genetic contribution and a stronger environmental contribution. 66"
+            },
+            {
+                "document_id": "83a34294-d942-476f-be2f-ff8d7ec3dec4",
+                "section_type": "main",
+                "text": "\n\nGenes affecting type 1 diabetes diagnosis age / A. Syreeni et al."
+            },
+            {
+                "document_id": "0da4d3d4-10d5-4a58-9e50-c1fa0b414427",
+                "section_type": "main",
+                "text": "\n\nThe relative prevalence of mutations causal for monogenic forms of diabetes suggests that mutations in ␤-cellrelated processes are a more frequent cause of severe early-onset diabetes than those influencing insulin action (see above).Studies of the relative heritabilities of indexes of ␤-cell function and insulin action in the general population also hint at a preponderance of ␤-cell effects (52)."
+            },
+            {
+                "document_id": "588bca6b-82c0-4ac1-9c7e-dc09af1d49b0",
+                "section_type": "main",
+                "text": "The genetics of type 1 diabetes\n\nThere is a strong genetic risk to T1D.This is exemplified by (Redondo et al., 2001) who demonstrated a strong concordance of genetic inheritance (65%) and T1D susceptibility in monozygotic twin pairs.That is, when one sibling is afflicted, there is a high probability that the other twin will develop T1D by the age of 60 years.Additionally, autoantibody positivity and islet destruction was observed after a prospective long-term follow-up of monozygotic twins of patients with T1D, despite initial disease-discordance among the twins (Redondo et al., 2008)."
+            },
+            {
+                "document_id": "fa72cb33-e1e4-49ea-a72e-dd851225ee0b",
+                "section_type": "main",
+                "text": "\n\nWe found that the presence or absence of parental diabetes and the genotype score were independently associated with the risk of diabetes.This suggests that family history as a risk factor for diabetes conveys more than heritable genetic information; it probably includes nongenetic familial behaviors and norms.The lower relative risks for diabetes associated with observed parental diabetes as compared with those associated with self-reported family history (approximately 1.8 vs. approximately 2.2) support the contention that family history contains more risk information than is implied by inheritance of the diabetes phenotype alone.One of the limitations of our study is that the 18 SNPs we included are probably insufficient to account for the familial risk of diabetes.They account for a minority of diabetes heritability, and the SNP array platforms from which they were chosen capture only approximately 80% of common variants in Europeans.In addition, we have not considered structural variants that might confer a risk of diabetes.It is possible that the addition of rare risk alleles with large effects, or a much larger number of common risk alleles with small individual effects, could improve discrimination. 36Indeed, as many as 500 loci may underlie the genetic risk of type 2 diabetes. 16Also, we did not study interactions among genes or between genes and the environment that might alter the genetic risk in exposed persons.As more diabetes risk variants become known, their incorporation into the genotype score may explain more of the genetic risk implied by parental diabetes."
+            },
+            {
+                "document_id": "00591f6a-0d6f-4993-ae6c-e9a8109a95ec",
+                "section_type": "main",
+                "text": "II. THE GENETICS OF TYPE 1 DIABETES\n\nA comprehensive overview of genetic data in mouse and human is beyond the scope of this article.Instead, we will focus on how the various susceptibility genes and environmental triggers can fit in a mechanistic model for T1D etiology."
+            },
+            {
+                "document_id": "fb7a24a3-9d72-49d7-93df-7a2f400f44c4",
+                "section_type": "main",
+                "text": "\n\nGenetics is one example of the 'other risk factors' involved in the pathogenesis of DR.Twin and epidemiological studies have strongly suggested a genetic component in the etiology of DR (6 -10), with heritability scores ranging from 27 to 52% in both type 1 and type 2 diabetes (7 -10).There is an increased risk of severe DR among family members of DR subjects (8,9) and in siblings of affected subjects (8,9).Furthermore, several studies have also shown a discrepant rate of the prevalence of DR among different racial ethnic groups in the US population, with a significantly higher prevalence observed among Hispanic, African-American and Chinese-American when compared with Caucasian populations (11).While these differences may partially be attributed to lifestyle factors, evidence from familial aggregation, ethnic differences and heritability clearly supports a genetic contribution in the etiology of DR."
+            },
+            {
+                "document_id": "25481e34-2a45-4448-84f0-32c823cfcd03",
+                "section_type": "main",
+                "text": "\n\nMost cases of diabetes have multiple genetic and environmental causes and are classified according to the presumed pathophysiologic defectdautoimmune destruction of b-cells leading to insulin deficiency for type 1 diabetes and varying degrees of insulin resistance and deficiency for type 2 diabetes.In other words, the vast majority of diabetes is polygenic, and despite the growth in knowledge about the various genetic causes of diabetes in recent years, classification of individual cases into meaningful subtypes based on the underlying genetics has been difficult.On the other hand, genetic testing may be useful for the diagnosis of certain forms of diabetes caused by defects in a single gene, such as HNF1A mutations for maturityonset diabetes of the young (MODY) (39) and activating KCNJ11 mutations for neonatal diabetes (40), both of which are highly responsive to sulfonylurea therapy.These monogenic forms of diabetes account for ;1-2% of diabetes cases (41,42), and they typically present at a young age (,25 years) and follow an autosomal dominant pattern of inheritance.Targeted genotyping could also play a role in the diagnosis of type 2 diabetes in specific populations.For example, a rare missense variant in HNF1A (p.E508K) that increased the risk of diabetes fivefold was present among 2% in a study of Latinos in the southern U.S. with type 2 diabetes (20); additional studies are needed to determine whether this functional variant shares the sulfonylurearesponsiveness of the HNF1A variants that cause MODY."
+            },
+            {
+                "document_id": "2a7da18e-3756-45c5-b18c-a2231685fefd",
+                "section_type": "main",
+                "text": "If an environmental contributor is near ubiquitous and the genetic\npredisposition common as well, interventions are most sensibly weighted towards\nenvironmental risk factor modification.\n Even here, though, there is room for further research, since the etiopathogenesis\nof type 2 diabetes may not be as well understood as some suggest.  Specifically,\nChaufan implies that dietary intervention to prevent prenatal ‘programming’\nleading to susceptibility to develop type 2 diabetes (the fetal origins of adult onset\ndisease hypothesis) is as evidence-based as dietary management of the adult diabetic state.  However, many questions remain in this area."
+            },
+            {
+                "document_id": "76ae2f09-af4d-422a-b939-625f0fe4ae1c",
+                "section_type": "main",
+                "text": "Type 1 diabetes has unusual epidemiological features related to gender\n\nType 1 diabetes also displays unusual patterns of inheritance that may yield insights into etiology and provide clues to the best methods for analyzing genetic studies.The risk to the offspring is generally greater from a mother or father who was diagnosed at an early age (again suggesting that early-onset cases are more heavily genetically 'loaded').However, the risk of diabetes is approximately two to four times higher for a child whose father has type 1 diabetes than one whose mother is affected [see (52,53) and references therein].This parental difference is largely due to a low risk for offspring of mothers who were diagnosed at a later age (53).The difference could be explained by at least three different factors.First, the risk alleles could only be active when transmitted by the father (such as is seen in imprinting, where only one of the parental alleles is expressed).Alternatively, a maternal environmental factor during pregnancy could be protective.However, it is difficult to see how this protective effect would be restricted to mothers diagnosed at a later age, especially since the protective effect was unrelated to the mother's duration of diabetes or even diabetic status at delivery (53).Finally, mothers who are diagnosed at a later age could represent more 'environmental' cases of diabetes, and thus be less likely to pass on risk genes to their offspring."
+            },
+            {
+                "document_id": "83a34294-d942-476f-be2f-ff8d7ec3dec4",
+                "section_type": "main",
+                "text": "\n\nGenome-wide search for genes affecting the age at diagnosis of type 1 diabetes."
+            },
+            {
+                "document_id": "7b7ce30c-f398-4b0e-bcb6-52f2644201fd",
+                "section_type": "main",
+                "text": "CONCLUSION\n\nThe greatest genetic risk (both increased risk, susceptible, and decreased risk, protective) for type 1 diabetes is conferred by specific alleles, genotypes, and haplotypes of the HLA class II (and class I) genes.There are currently about 50 non-HLA region loci that also affect the type 1 diabetes risk.Many of the assumed functions of the non-HLA genes of interest suggest that variants at these loci act in concert on the adaptive and innate immune systems to initiate, magnify, and perpetuate ␤-cell destruction.The clues that genetic studies provide will eventually help lead us to identify how ␤-cell destruction is influenced by environmental factors.While there is extensive overlap between type 1 diabetes and other immune-mediated diseases, it appears that type 1 and type 2 diabetes are genetically distinct entities.These observations may suggest ways to help identify causal gene(s) and, ultimately, a set of disease-associated variants defined on specific haplotypes.Unlike other complex human diseases, relatively little familial clustering remains to be explained for type 1 diabetes.The remaining missing heritability for type 1 diabetes is likely to be explained by as yet unmapped common variants, rare variants, structural polymorphisms, and gene-gene and/or gene-environmental interactions, in which we can expect epigenetic effects to play a role.The examination of the type 1 diabetes genes and their pathways may reveal the earliest pathogenic mechanisms that result in the engagement of the innate and adaptive immune systems to produce massive ␤-cell destruction and clinical disease.The resources established by the international T1DGC are available to the research community and provide a basis for future discovery of genes that regulate the earliest events in type 1 diabetes etiology-potential targets for intervention or biomarkers for monitoring the effects and outcomes of potential therapeutic agents."
+            },
+            {
+                "document_id": "57d91713-225c-4c04-a9e7-e275588e2a68",
+                "section_type": "main",
+                "text": "Introduction\n\nClustering in families implicates a genetic component of diabetic nephropathy, but so far the specific genes underlying diabetic nephropathy remain largely unknown [1,2].Family studies have furthermore revealed that parental type 2 diabetes mellitus is associated with diabetic nephropathy in offspring with type 1 diabetes mellitus [3,4].A positive family history of type 2 diabetes mellitus has also been associated with cardiovascular disease [5] as well as markers of cardiovascular disease [6] in offspring with type 1 diabetes mellitus.Genetic variants or single-nucleotide polymorphisms (SNPs) predisposing to type 2 diabetes mellitus in the Finnish population have recently been identified in large-scale, genome-wide association studies [7,8].The question thus arises of whether these SNPs, which predispose to type 2 diabetes mellitus, also predispose to diabetic nephropathy and related complications in patients with type 1 diabetes mellitus.We therefore assessed the impact of a set of SNPs known to influence susceptibility to type 2 diabetes mellitus on diabetic nephropathy as well as diabetic retinopathy and cardiovascular disease in patients with type 1 diabetes mellitus."
+            },
+            {
+                "document_id": "977994e6-80dc-4b82-9bb1-4a89455cd4da",
+                "section_type": "main",
+                "text": "Evidence for a genetic basis: family and twin studies of Type I diabetes\n\nWhat is the evidence that Type I diabetes has a genetic basis?The simplest evidence comes from the fact that the frequency of the disorder is higher in close relatives of diabetic patients than in the general population (note: the reference population in the discussion which follows are people of European ancestry, who have the highest prevalence of Type I diabetes).For example, the frequency of Type I diabetes in siblings of diabetics is about 6 % by age 30 [1], while the frequency in the general population is about 0.4 % by age 30 [2].Thus, Type I diabetes is about 6/0.4,i. e. 15 times more common in siblings of diabetic patients than in the general population.This ratio between frequency in siblings compared with the general population is referred to as l sib [3]."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "The proportion of diabetics t h a t will result from\nmating between genetic types can be predicted with\ncertainty, since the inheritance is known to be under\nthe control of a recessive gene with complete penetrance.  Offspring t h a t will exhibit the diabetic syndrome can be distinguished from those t h a t will not,\nas early as 3 weeks after birth.\n Some disadvantages are equally apparent.  Diabetic\nhomozygotes do not breed, and heterozygotes cannot\nbe distinguished from normals except b y progeny\ntesting."
+            },
+            {
+                "document_id": "00591f6a-0d6f-4993-ae6c-e9a8109a95ec",
+                "section_type": "main",
+                "text": "A. Genetic Screening\n\nWe have discussed above the genetic component of T1D.The genetic susceptibility to T1D is determined by genes related to immune function with the potential exception of the insulin gene (434).The genetic susceptibility component of T1D allows some targeting of primary preventive care to family members of diagnosed T1D patients, but there is no complete inheritance of the disease.Nevertheless, the risk for developing T1D compared with people with no family history is ϳ10 -15 times greater.Although ϳ70% of individuals with T1D carry defined risk-associated genotypes at the HLA locus, only 3-7% of the carriers of such genetic risk markers develop diabetes (3)."
+            },
+            {
+                "document_id": "c24330f7-9f82-404a-86d5-a16d814bb754",
+                "section_type": "main",
+                "text": "Genetics of Diabetic Complications in Humans\n\nEpidemiologic studies have clearly established that only a subgroup of individuals with diabetes are at risk of nephropathy (2).To identify genetic determinants and candidate genes that confer susceptibility or progression for DNP in individuals with type 1 and type 2 diabetes, the National Institutes of Health established the ongoing Family Investigation of Nephropathy and Diabetes study consortium.The Family Investigation of Nephropathy and Diabetes is using Mapping by Admixture Linkage Disequilibrium and traditional affected and discordant sibling pair and relative pair analyses.Previous linkage analysis studies led to the mapping of several susceptibility loci for DNP on specific regions on chromosomes 3, 7, 9, 12, and 20 (14,15)."
+            },
+            {
+                "document_id": "9cce7fe9-cb40-4e75-85bc-d8655c3343d6",
+                "section_type": "main",
+                "text": "\n\nType 1 diabetes as well as type 2 diabetes shows a genetic predisposition, although only type 1 diabetes is HLA dependent [32,33,36,40]."
+            },
+            {
+                "document_id": "44cfaebc-d9de-4d25-8991-4b17d524ac6e",
+                "section_type": "main",
+                "text": "Introduction\n\nIn 1962, under the title \"Diabetes mellitus: A 'thrifty' genotype rendered detrimental by 'progress'?\" one of us published the suggestion that the basic defect in diabetes mellitus was a quick insulin trigger [I].This was an asset to our tribal, hunting-and-gathering ancestors, with their intermittent, sometimes feast-or-famine alimentation, since it should have minimized renal loss of precious glucose.Currently, however, it was hypothesized, the pattern of over-alimentation in the technologically advanced nations resulted in insulin levels that elicited the insulin antagonists popularized by Vallance-Owen and colleagues [2][3][4] , and the result was diabetes mellitus.The changing dietary patterns of Western Civilization had compromised a complex homeostatic mechanism.The paper was written before the clear distinction between type I and type II diabetes had been drawn, but in retrospect was directed at type II or non-insulin dependent diabetes (NIDDM).This quick insulin trigger was under a (still) poorly defined genetic control.Since too quick an insulin trigger might be as disadvantageous as too slow a trigger, it was suggested that this genetic control might take the form of a balanced polymorphism, by analogy with the polymorphisms for the sickle cell allele (ßs) then receiving so much attention.When other laboratories could not confirm Vallance-Owen's insulin antagonists (except in rare cases), the original physiological basis for the hypothesis collapsed.Although alternative \"balance\" hypotheses came to mind [5], they were neither as simple nor as intellectually satisfactory.However, the problem remained: why is the predisposition to NIDDM so frequent?Explanations based on the \"thrifty genotype\" hypothesis continue to be frequently invoked."
+            },
+            {
+                "document_id": "30d5d1de-ab8a-4b12-be3f-dd4e07d44a01",
+                "section_type": "main",
+                "text": "I\n\nn 1976, the noted human geneticist James Neel titled a book chapter \"Diabetes Mellitus: A Geneticist's Nightmare.\" 1 Over the past 30 years, however, the phenotypic and genetic heterogeneity of diabetes has been painstakingly teased apart to reveal a family of disorders that are all characterized by the disruption of glucose homeostasis but that have fundamentally different causes.Recently, the availability of detailed information on the structure and variation of the human genome and of new high-throughput techniques for exploiting these data has geneticists dreaming of unraveling the genetic complexity that underlies these disorders.This review focuses on type 1 diabetes mellitus and includes an update on recent progress in understanding genetic factors that contribute to the disease and how this information may contribute to new approaches for prediction and therapeutic intervention."
+            },
+            {
+                "document_id": "f7072d9b-4e07-4541-bac7-13a25761f460",
+                "section_type": "main",
+                "text": "\n\nPresently, 48 other genomic regions, referred to as susceptibility regions, have been found to also confer susceptibility to T1D (Burren et al., 2011;Steck and Rewers, 2011;Yang et al., 2011;Bluestone et al. 2010;Poicot et al., 2010;Todd et al., 2010;Todd et al., 2007).But their contribution is minimal in comparison to the HLA locus (Gillespie, 2014).Also, research has shown that less than 10% of individuals with HLA-conferred diabetes susceptibility actually progress to clinical disease (Knip andSiljandera, 2008, Wenzlau et al., 2008).This implies that additional factors are needed to trigger and drive β-cell destruction in genetically predisposed persons (Knip and Siljandera, 2008).Environmental factors are believed to influence the expression of T1D.The reason being that in the case of identical twins, if one twin has T1D, the other twin only has it 30%-50% of the time, despite having the same genome.This means that other factors contribute to the prevalence or onset of this disease (Knip et al., 2005)."
+            },
+            {
+                "document_id": "5293f814-f4a7-48e0-b4e5-b1f13fdc8516",
+                "section_type": "main",
+                "text": "\n\nA coherent synthesis of these data has yet to emerge but will inevitably include components of several of these competing, but not mutually exclusive, hypotheses.Indeed, there is evidence that models incorporating both genetic and environmental variation best explain the observed data. 28,32The observation that the risk of diabetes in modern societies with a lower rate of fetomaternal deprivation is increased at both extremes of birthweight (i.e.producing a U-shaped curve) suggests a schema capable of accommodating the insulin gene data. 33,34As with almost all human traits, the answer to the question `nature or nurture?' is almost certainly `both'."
+            },
+            {
+                "document_id": "2a71b781-89fe-4055-bbb1-15aa226e1e3a",
+                "section_type": "main",
+                "text": "\n\nObserved increased risk in African Americans is likely to result from a combination of shared environmental and genetic factors.Although there are few published studies specifically investigating familial aggregation of type 2 diabetes in African-American families, Rotimi et al. (10) found that relatives of African-American probands with type 2 diabetes had a 2.95-fold (95% CI 1.55-5.62)higher prevalence of diabetes when compared with relatives of unaffected individuals.In the GENNID (Genetics of Noninsulin Dependent Diabetes Mellitus) African-American families, the majority of first-degree relatives of African-American individuals with type 2 diabetes had abnormal glucose tolerance (11), with 27% found to have undiagnosed diabetes and 31% impaired fasting glucose and/or impaired glucose tolerance."
+            },
+            {
+                "document_id": "144c9105-3ce9-46cc-b9c6-cc14cf40e945",
+                "section_type": "main",
+                "text": "\n\nClearly genetics play an important role in the T1D disease process as both MZ and DZ twins have the same environmental exposures but different concordance rates and length to diagnosis of the second twin.Numerous genes have been associated with T1D, the most significant being the HLA region on chromosome 6 [6].More than 90% of type 1 diabetics carry HLA alleles DR3-DQ2 or DR4-DQ8 compared to no more than 40% of the general population [7].Alleles at HLA-DQB1 are known to be, in part, protective [8].Single nucleotide polymorphisms (SNPs) are also associated with T1D.A recent genome-wide association study of approximately 2,000 patients with each of 7 common, chronic diseases, including T1D, and 7,000 shared controls confirmed the association of SNPs in 5 previously identified regions with T1D and discovered 5 novel associations.However, the authors concluded that these regions, with the exception of the HLA on chromosome 6, confer only modest effects on T1D, and ''the association signals so far identified account for only a small proportion of overall familiality'' [9].These results suggest that additional genetic variants contribute to inheritance of T1D."
+            },
+            {
+                "document_id": "d1f8656e-e58a-4461-b75b-89815b2c7369",
+                "section_type": "main",
+                "text": "\n\nA neat example of this kind of interplay relates to the control of birth weight (Figure 2).In developed societies, it has been shown that the relationship between birth weight and T2D risk is best described through a U-shaped curve (shown in exaggerated form in the figure), such that the future risk of T2D is highest in individuals with either low or high birth weight as compared with those of average birth weight.Both associations with the extremes of birth weight result from a mix of genetic and nongenetic effects.At the lower extreme, the association between low birth weight and later T2D risk reflects both the long-term programming effects of an adverse intrauterine environment (most likely mediated through epigenetic effects) 12 and the impact of a subset of T2D-risk variants, such as those at CDKAL1, which have a marked effect on the secretion of insulin in early life (a time at which insulin acts as a major influence on growth). 75At the other extreme, the association between high birth weight and later T2D risk is mediated, at least in part, by exposure to maternal diabetes during pregnancy 61,63 and by direct genetic effects, such as those of the T2D risk-variants at TCF7L2, where the dominant effect of allelic variation in the fetomaternal unit appears to be to promote maternal hyperglycemia (and consequent fetal macrosomia). 76his review highlights evidence to support the notion that individual predisposition to T2D and obesity reflects a complex mix of genetic, epigenetic, and environmental influences.Despite recent progress, the mechanisms driving these interactions remain poorly understood."
+            },
+            {
+                "document_id": "08858a32-d736-4d8d-a135-f86568152a81",
+                "section_type": "main",
+                "text": "Genes\n\n2][43][44][45][46][47] Twin studies need to be considered carefully, however, as the intrauterine environments of dizygotic-twin (separate placentas), monozygotic-twin (60-70% share one placenta), and singleton pregnancies (one placenta without competition for maternal nutrients) will all be diff erent, and this can be a confounder in the inter pretation of eff ects. 44A large study from Sweden on familial risk of type 2 diabetes showed that the relative risks were highest in individuals with at least two aff ected siblings, irrespective of parental diabetes status. 42This fi nding suggests that a recessive pattern of inheritance from uncommon genetic defects, the sharing of similar intrauterine, postnatal, or both environments by siblings (eg, breastfeeding or bottle feeding or childhood nutrition), or a combination of these factors is important.9][50] A greater number of these loci are associated with impaired β-cell function (KCNJ11, TCF7L2, WFS1, HNF1B, SLC30A8, CDKAL1, IGF2BP2, CDKN2A, CDKN2B, NOTCH2, CAMK1D, THADA, KCNQ1, MTNR1B, GCKR, GCK, PROX1, SLC2A2, G6PC2, GLIS3, ADRA2A, and GIPR) than impaired insulin sensitivity (PPARG, IRS1, IGF1, FTO, and KLF14) or obesity (FTO). 38,48,50Of these, TCF7L2 is the strongest susceptibility locus for type 2 diabetes, being associated with β-cell dysfunction. 48Most patients with monogenic forms of diabetes also have gene defects that aff ect islet β-cell function. 51,52Nevertheless, only around 10% of the heritability of type 2 diabetes can be explained by susceptibility loci identifi ed so far, with each locus having a low eff ect size. 36The remaining heritability might be related to a large number of less common variants (allele frequency <5%) that are diffi cult to fi nd with current approaches of genome-wide association studies, and/or epigenetic phenomena."
+            },
+            {
+                "document_id": "d1f8656e-e58a-4461-b75b-89815b2c7369",
+                "section_type": "main",
+                "text": "\n\nFirst, the fetal origins hypothesis established the notion of \"metabolic programming\" whereby nutritional and other exposures during early life generate long-term changes that later predispose to T2D and cardiovascular disease. 12This hypothesis builds on strong epidemiological data linking early life events to state art state art disease risk in late life, as seen, for example, in survivors of the Dutch \"Hunger Winter.\" 60 A growing body of data, from animal as well as human studies, has established that the molecular basis of programming involves altered DNA methylation. 61 second set of observations emerges from the longstanding follow-up of members of the Pima Native American community in Arizona, a population with an extremely high prevalence of T2D and obesity.The offspring of mothers who have T2D during pregnancy are at substantially higher risk of developing both T2D (45 vs. 1.4%) and obesity (58 vs. 17%) than are those born to women who are nondiabetic during pregnancy.61,62 Crucially, this difference is unlikely to completely reflect genetic transmission, as the distinction is preserved in children born to the same mother; that is, offspring born after the mother was diagnosed with T2D have higher rates of subsequent T2D and obesity than their siblings who arrived while their mother was nondiabetic.63 These findings suggest that the intrauterine environment is an important determinant of T2D and obesity predisposition, and they are broadly consistent with reports that the transmission of T2D and obesity is greater from mothers than from fathers.12,61 The increased risk of diabetes in female offspring of diabetic mothers clearly sets up the potential for an amplification of diabetes prevalence over successive generations."
+            },
+            {
+                "document_id": "903e9615-c329-48be-9547-386a00f2dd94",
+                "section_type": "main",
+                "text": "\n\nDevelopmental Origins of Diabetes.Many Asian adults who experienced great hardship during wartime or civil unrest in early life are now experiencing marked changes in lifestyle.In addition, low birth weight and exposure to undernutrition in utero are common in some Asian populations, especially in India, where 30% of infants are underweight. 115Insults or stresses during the intrauterine period can lead to permanent changes in structure, metabolism, and physiology through altered expression of the genome without changes in the DNA codes, a process called epigenetics. 116These early life events may influence later susceptibility to diabetes, the metabolic syndrome, and cardiorenal diseases.Prospective studies from India have shown the impact of fetal undernutrition (often manifested as low birth weight) as well as overnutrition (eg, the infant of a mother with diabetes) on future risk of diabetes. 115In India, thinness in infancy and overweight at age 12 years was associated with increased risk of developing IGT or diabetes in young adulthood. 117 recent meta-analysis of 30 studies found a significant graded association between low birth weight and increased risk of type 2 diabetes. 118Low birth weight has also been found to predict diabetes and the metabolic syndrome in Asian adults and children, [119][120][121] thus lending support to the notion that fetal programming with exposure to poor nutrition in utero or during early childhood can promote a fatpreserving or thrifty phenotype.These metabolic changes predispose individuals to insulin resistance and reduced beta cell function.Positive energy balance in later life, caused by rapid westernization of diet and lifestyle, may then exaggerate accumulation of adiposity, particularly in the central depots. 122he 2-to 3-fold higher risk of gestational diabetes in Asian women than in their white counterparts also may contribute to the increasing epidemic of young-onset diabetes in Asia. 123Asian women with a history of gestational diabetes have a substantially increased risk of diabetes, while their offspring exhibit early features of the metabolic syndrome, thus setting up a vicious cycle of \"diabetes begetting diabetes. \"This combination of gestational diabetes, in utero nutritional imbalance, childhood obesity, and overnutrition in adulthood will continue to fuel the epidemic in Asian countries undergoing rapid nutritional transitions. 115enetic Susceptibility.Among lean, healthy individuals matched for age, BMI, waist circumference, birth weight, and current diet, Asians (especially those of Southeast Asian descent) had higher levels of postprandial glycemia and lower insulin sensitivity than whites in response to a 75-g carbohydrate load. 124These findings raise the possibility that Asians are more genetically susceptible to insulin resistance and diabetes than whites."
+            },
+            {
+                "document_id": "789097da-e961-4486-8c83-816626556b16",
+                "section_type": "main",
+                "text": "\n\nAll these speculations may be utterly demolished the moment the precise etiologies of NIDDM [Non-Insulin-Dependent Diabetes Mellitus] become known.Until that time, however, devising fanciful hypotheses based on evolutionary principles offers an intellectual sweepstakes in which I invite you all to join. [Neel 1982:290] In perhaps his last written statement on the thrifty genotype hypothesis, Neel writes that there is \"no support to the notion that high frequency of NIDDM in reservation Amerindians might be due simply to an ethnic predisposition-rather, it must predominantly reflect lifestyle changes\" (Neel 1999:S3).In spite of this, many genetic epidemiologists argue that genetic differences explain rates of diabetes between different populations.For example, drawing on research with Mexicanos/as, one diabetes consortium member writes, \"there is strong evidence that Mexican Americans living in the barrio have considerably more Native Amerindian genetic admixture and as a result may have higher genetic susceptibility to diabetes\" (Stern 1999:S67). \"It smells and tastes like a thrifty gene in terms of its metabolic function,\" remarked one molecular biologist interested in the protein implicated in a genetic study of diabetes."
+            },
+            {
+                "document_id": "9240ab9b-c5bb-4475-ad2b-111843cb146a",
+                "section_type": "main",
+                "text": "\n\nThe risk for T1D is strongly influenced by multiple genetic loci and environmental factors.The disease is heritable, with first-degree relatives of patients with T1D being at 15-fold greater risk for developing the condition than the general population."
+            }
+        ],
+        "document_id": "9892FB125B6B5D4C8FC4FDA6E1E25271",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "type&1&diabetes",
+            "genetic&risk",
+            "HLA",
+            "immune&function",
+            "environmental&factors",
+            "autoimmunity",
+            "gene&variants",
+            "epigenetic",
+            "insulin&gene",
+            "genetic&screening"
+        ],
+        "metadata": [
+            {
+                "object": "The HLA-B*42, HLA-C*17, HLA-DPA1*03, and HLA-DPB1*105 genotypes were associated with allergic asthma and the HLA-B*48 genotype with the nonallergic phenotype. The presence of the haplotype HLA-DPA1*03 DQA*05 was associated with allergic asthma, and the presence of HLA-DPA1*03 and the absence of HLA-DQA*05 with nonallergic asthma.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab821120"
+            },
+            {
+                "object": "In patients diagnosed with HLA-B27-related anterior uveitis cohort HLA-B27+1 and with HLA-B27- non related anterior uveitis cohort HLA-B27-, no significant differences were found regarding clinical characteristics between both cohorts with the exception of a higher frequency of recurrences in cohort HLA-B27+ and a higher frequency of chronic uveitis in cohort HLA-B27-.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab397404"
+            },
+            {
+                "object": "HLA-B13:02, HLA-B38:02, HLA-B44:03, and HLA-B56:01 alleles were significantly increased in autistic subjects.  HLA-B18:02 and HLA-B46:12 alleles were negatively associated with autism when compared to normal controls.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab356725"
+            },
+            {
+                "object": "Haplotyping was done on 91 Southern Europe celiac patients. HLA-DR3-DQ2 without HLA-DR7-DQ2 was present in 62.6%, HLA-DR7-DQ2 without HLA-DR3-DQ2 was present in 16.5% and HLA-DR4-DQ8 without HLA-DQ2 was present in 3.3%.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab332478"
+            },
+            {
+                "object": "The Sonora, Mexico HLA-DQ risk heterodimer proportion was 16.1% for HLA-DQ2 and 13.6% for HLA-DQ8, with an HLA-DQ2:HLA-DQ8 ratio of 1.2:1. The DQ8/DQ2 genotype represented a 1:14 risk for type 1 diabetes, whereas the DQ8/DQB1*0201 combination showed a 1:6 risk for celiac disease.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab872942"
+            },
+            {
+                "object": "In this study, molecular dynamics simulation was performed on the complexes of Top1 peptide with various HLA-DR subtypes divided into ATASSc-associated alleles HLA-DRB1*08:02, HLA-DRB1*11:01 and HLA-DRB1*11:04, suspected allele HLA-DRB5*01:02, and non-associated allele HLA-DRB1*01:01.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab404240"
+            },
+            {
+                "object": "Data from pediatric patients with celiac disease CD in the Netherlands suggest that HLA-DQ2.2 HLA-DQA1/HLA-DQB1 is important HLA-type related to CD; the 6% of CD patients lacking 2 major diagnostic markers HLA-DQ2.5 and HLA-DQ8 carry HLA-DQ2.2.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab177145"
+            },
+            {
+                "object": "The meta-analysis suggested that HLA-DRB1*15 and HLA-DRB1*15:01 polymorphisms might be associated with increased AA risk in Asians. IST might be more effective in HLA-DRB1*15+ and HLA-DRB1*15:01+ Asian patients with AA than in HLA-DRB1*15- and HLA-DRB1*15:01- Asian patients with AA.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab834223"
+            },
+            {
+                "object": "The association of the HLA-A*24:02, HLA-B*39:01 and HLA-B*39:06 alleles with type 1 diabetes is restricted to specific HLA-DR/HLA-DQ haplotypes in Finns.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab782265"
+            },
+            {
+                "object": "Data suggest HLA-DRB1*03 haplotype splits in African Americans into HLA-DRB1*03:01 which confers susceptibility to type 1 diabetes and HLA-DRB1*03:02 rarely observed in those with European ancestry which confers protection from type 1 diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab203455"
+            }
+        ],
+        "question": "How does genetics influence the emergency of diabetes?",
+        "subquestions": null,
+        "task_id": "9892FB125B6B5D4C8FC4FDA6E1E25271",
+        "usage": {
+            "chatgpt": 8194,
+            "gpt-4": 4183,
+            "gpt-4-turbo-preview": 3246
+        },
+        "user_id": 2
+    },
+    "document_id": "9892FB125B6B5D4C8FC4FDA6E1E25271",
+    "task_id": "9892FB125B6B5D4C8FC4FDA6E1E25271"
+}

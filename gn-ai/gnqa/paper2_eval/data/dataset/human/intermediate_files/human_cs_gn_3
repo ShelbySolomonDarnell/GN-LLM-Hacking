@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - A novel heat shock protein alpha 8 (Hspa8) molecular network mediating responses to stress- and ethanol-related behaviors.pdf",
+    "2012 - Needs Analysis of Genetics and Genomics in Communication Sciences and Disorders.pdf",
+    "2017 - Primer in Genetics and Genomics.pdf",
+    "2018 - Identification of non-HLA genes associated with development of islet autoimmunity and type.pdf",
+    "2020 - Mainstreaming genetics and genomics a systematic review.pdf",
+    "2009 - Basic Genetics and Genomics A Primer for Nurses.pdf",
+    "2010 - Genetic variants near TIMP3 and high-density.pdf",
+    "2004 - Errand Gabpab specify PGC1dependentoxidative phosphorylation gene expressionthat is altered in diabetic muscle.pdf",
+    "2010 - Genome-wide association identifies OBFC1as a locus involved in human leukocyte telomere biology.pdf",
+    "2010 - Genome-wide association identifies OBFC1as a locus involved in human leukocyte telomere biology.pdf"
+  ],
+  "extraction_id": [
+    "600a1af4-0f16-520c-a63f-7e0af523fa3c",
+    "b7b09b33-3c90-51c9-968c-d47809e9d964",
+    "53fa3a10-5290-5209-80ce-0655d2c602a5",
+    "631667de-f20a-59b6-af3c-924b612d21ea",
+    "0120a9f0-57fd-510d-b975-b1e1f870f9fb",
+    "2cafe5f4-79a3-5234-948d-d78c20b97650",
+    "12929889-6359-5c34-8997-95a41f6202a3",
+    "715eacf0-9e21-593f-b023-84a864eb801f",
+    "0ed3fd5b-86ce-5587-90b7-1e013a7bb8ad",
+    "ccda7fa4-0bd0-5af7-919c-47b435ad81ea"
+  ],
+  "document_id": [
+    "22bb099c-aeca-51e8-a82d-5d091d9f0936",
+    "c8a76cb1-506d-57e4-a18e-548e777898e2",
+    "6fae6815-e1b5-564b-81c7-39ed62bbd999",
+    "fb67c701-af96-57ad-b1e3-1309e1b53a52",
+    "ea0695f5-c52c-568b-ba97-8fa31405ef30",
+    "c37e2ace-171b-5776-8969-86eda9736481",
+    "da9c44fa-16a0-586b-8256-f4b91f4cfef9",
+    "259bea02-bb3a-57b6-8896-0b41d6cace05",
+    "76ba50b9-6eb2-51c7-8dd8-82d840d81219",
+    "76ba50b9-6eb2-51c7-8dd8-82d840d81219"
+  ],
+  "id": [
+    "chatcmpl-ADZIrY516c5O6uEqljwZdzIXywTvS",
+    "9e595bc1-a142-525c-97d4-5edde55c5bcf",
+    "1eed369d-2525-5621-b9a7-c344c2e48f32",
+    "1ef52b83-a34c-517e-b65f-b8d9c1acb79d",
+    "ab3b9b3a-2353-5730-8dd2-3b790ca7c5f7",
+    "d2fe7d2e-8d04-52ce-a8e6-de8437a83014",
+    "6cce33b0-9975-5727-8b53-2e3478cb3230",
+    "fb261aba-abc3-5e90-a322-61841f43f60c",
+    "ab7bbeb8-bc04-527e-8840-3bb5f905dffd",
+    "c8b4753f-417d-590b-b8b8-866322504fec",
+    "0b0f3258-b6bb-5de0-91d1-767ef5fce360"
+  ],
+  "contexts": [
+    "Neurogenetics",
+    "Genetics   Genetics is the study of individual genes and their protein products (Guttmacher &",
+    "genetics and genomics, article 1DNA, genes, and chromosomes. Biological Research for Nursing ,19, 717. Dueker, N. D., & Pericak-Vance, M. A. (2014). Analysis of genetic linkage data for Mendelian traits. Current Protocols in Human Genetics ,83, 1.4.11.4.31. Fu, M. R., Conley, Y. P., Axelrod, D., Guth, A. A., Yu, G., Fletcher, J., & Zagzag, D. (2016). Precision assessment of heterogeneity of lymphedema phenotype, genotypes and risk prediction. Breast , 29, 231240.",
+    "genetic factors. 371   372   373   374    375",
+    "GENETICS in MEDICINE |Volume 22 |Number 7 |July 2020 1153",
+    "to offspring. Genes are pieces of DNA, and most genes contain the  information for making a specific protein.  zGenetics - Genetics is a term that refers to the study of genes and  their role in inheritance - the way certain traits or conditions are  passed down from one generation to another.  zGenomics  - Genomics is a relatively new term that describes the  study of all of a person's genes including interactions of those genes  with each other and the person's environment.",
+    "www.pnas.org/cgi/doi/10.1073/pnas.0912702107 PNAS |April 20, 2010 |vol. 107 |no. 16 |74017406 GENETICS",
+    "GENETICS Downloaded from https://www.pnas.org by 41.90.188.152 on July 14, 2023 from IP address 41.90.188.152.",
+    "GENETICS Downloaded from https://www.pnas.org by 41.80.118.137 on October 17, 2023 from IP address 41.80.118.137.",
+    "GENETICS Downloaded from https://www.pnas.org by 41.80.118.137 on October 17, 2023 from IP address 41.80.118.137."
+  ],
+  "answer": "Genetics is the study of individual genes and their protein products [2]. It involves understanding how genes are inherited, how they function, and how they influence traits and conditions passed down from one generation to another [6]. This field also includes the analysis of genetic linkage data for Mendelian traits [3].",
+  "question": "genetics"
+}

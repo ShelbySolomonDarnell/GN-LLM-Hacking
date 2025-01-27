@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - A platform for experimental precision medicine The extended BXD mouse family.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2014 - Systems Genetics of Liver Fibrosis Identification of Fibrogenic and Expression Quantitative Trait Loci in the BXD Murine Reference Population.pdf",
+    "2020 - Modeling the Genetic Basis of Individual Differences in Susceptibility to Gulf War Illness.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2013 - Pathogenesis and reversal of liver fibrosis Effects of genes and environment.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+    "2009 - Genetical Toxicogenomics in Drosophila Identifies Master Modulatory Loci that are Regulated by Developmental Exposure to Lead.pdf",
+    "2017 - Systems Genetics Analysis to Identify the Genetic Modulation of a Glaucoma-Associated Gene.pdf"
+  ],
+  "extraction_id": [
+    "d1c32c32-42c8-5065-b7f2-bd2a0baeae62",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "8c423789-3641-5853-9cf3-f4a026ffb446",
+    "98aff04d-a5b2-5cca-bc1a-552055a74262",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "71f1aefb-6e32-5add-804e-6fbaa39ca720",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+    "3ca48658-ca83-5952-8f8d-eb7ae491e6b6",
+    "2455cf6d-4c9b-5272-8650-da127cc329e8"
+  ],
+  "document_id": [
+    "dd4994b9-9546-59c0-bc71-60e2617b6bcd",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "125d9cd4-5297-5173-9b16-9073cd3bcc71",
+    "d235d186-3d1c-5cde-90d5-9c140cd920f4",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "73724c99-98df-53b2-a378-29c8b4faa171",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "76a715a4-8222-598b-8e65-6d5b6e807989",
+    "301d6469-2a9c-5960-88ac-8437212d78ab",
+    "67e804db-8127-5938-8d7f-a5918cdf4f86"
+  ],
+  "id": [
+    "chatcmpl-AIGlcT3nIUJnhMWAFTwtm7j28RbUR",
+    "bd2eb0ef-24a1-55ff-8597-c21dff0ecf0a",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "1c26e6f6-680b-5877-9600-fee25a42c943",
+    "23de1e96-55b6-5062-a2e1-02bf06fd3565",
+    "0b2bd83d-680a-52d2-8116-50cce4f35cc3",
+    "f5c218f0-1280-55f8-912b-b32b833e93a3",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "21936758-94b1-506f-9229-77e26001ae44",
+    "40ecbff2-5039-57f0-a01e-9d412d559dbe",
+    "18c7c27b-b51f-5ab6-9d09-4235c57811b1"
+  ],
+  "contexts": [
+    "This paper analyzes existing, publicly available data. These data sets accession numbers are provided in the Key Resource Table , and throughout the manuscript. Genotype les can be found at http://www.genenetwork.org/webqtl/main.py?FormID= sharinginfo&GN_AccessionId=600 . GeneNetwork.org original code is publicly available at https://github.com/genenetwork/genenetwork2 and https://github.com/ genenetwork/genenetwork1 .",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "GeneNetwork is an open-access database that collates genomic information of diverse experimental crosses and reference panels as well as phenotypic data from miscellaneous research groups [26]. Statistics Data generation, statistical analysis and graph creation were performed with SPSS Statistics 21 (IBM, Ehningen, Germany). As appropriate, mean and median values were further used for QTLanalysis. Phenotypic robustness for each strain was assessed by the",
+    "genetic variants (SNPs, insertions, deletions, duplications, etc.) that segregate in the family [ 13]. The strains are appropriate for systems genetics /systems biology analysis [ 14], genetic mapping and genetic correlations of parameter means, and thus constitute an ideal platform for toxicogenomic research [ 15]. All data are available at www.genenetwork.org. GeneNetwork exists in two forms, GN1 and GN2 [ 16]. GN2 is an expansion and renement of the features of GN1. A tutorial of how to use GN1 may be",
+    "al., 2005). GeneNetwork is designed primarily as a web service for exploratory and statistical analysis of large published phenotype and genome datasets, and includes data from several species (see Supplementary Discussion). GeneNetwork includes extensive phenotype data extracted from the literature and submitted by users, which makes it practical to compare data on drug responses with gene expression patterns. Gene expression",
+    "GeneNetwork (www.genenetwork.org). The web -based software further allows extraction of sets of",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes are two such examples of possible tools. For this study, we",
+    "deposited in the GeneNetwork website (http://www.genenetwork.org) so that other investigators can look for correlations between gene expression patterns and phenotypic traits. The GeneNetwork is an open resource and consists of a set of linked resources for systems genetics. It has been designed for integration of networks of genes, transcripts, and traits such as toxicity, cancer susceptibility, and behavior for several species. Phenotypic QTLs using the",
+    "genetics approaches can not only provide insights into the roles of  individual genes or developmental pathways but also illuminate  relationships between different levels of a biologic system, such as  the genome, transcriptome, and phenome [ 10]. One such resource  of systems genetics is the GeneNetwork website and resource  (www.genenetwork.org ) that provides access to a wide variety of  data such as genotypes (e.g., SNPs), phenotypes that are obtained"
+  ],
+  "answer": "GeneNetwork.org provides a variety of genetic data, including:  1. Genomic information from diverse experimental crosses and reference panels, as well as phenotypic data from various research groups [3]. 2. Genetic variants such as SNPs (single nucleotide polymorphisms), insertions, deletions, and duplications [4]. 3. Extensive phenotype data extracted from the literature and submitted by users, which allows for comparisons of drug responses with gene expression patterns [5]. 4. Microarray data of gene expression in the brain and data of other phenotypes [8]. 5. Genotypes, including SNPs, and phenotypes obtained from various studies [10].  These datasets are designed to support systems genetics research and include data from multiple species [2], [5].",
+  "question": "What kinds of genetic data are available on GeneNetwork.org?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2022 - System genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+    "2021 - System genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+    "2010 - One Hundred Years of Pleiotropy A Retrospective.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2014 - Mendelian randomization genetic anchors for causal inference.pdf",
+    "2020 - Multivariate genomic scan implicates novel loci.pdf",
+    "2018 - The Use of Recombinant Inbred Strains in Systems Genetics and Functional Analyses in Behavioral Pharmacology.pdf",
+    "2022 - System Genetics in the Rat Family.pdf",
+    "2022 -Senko- Hippocampal neurogenesis serum glucose.pdf"
+  ],
+  "extraction_id": [
+    "2557b3fa-5aed-53f2-a4ca-afbed6154346",
+    "6b791cd6-0d92-52fb-ac76-d3b0bb4ed535",
+    "9b6ebb70-4cc0-5f53-bbbb-815ea191f2fa",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "3ac0a087-d982-5d06-b351-d2f1e635c5b0",
+    "a053b8da-7ec4-5c4f-b4cc-4005e7792d1a",
+    "3b23d583-7046-5dce-a506-fab0c2752977",
+    "38cbdb87-820c-587e-9511-69d0ba74457a",
+    "2e135c0b-af2c-54fa-8661-aa4a3e31c0da"
+  ],
+  "document_id": [
+    "4198ec53-60f1-55d1-8759-b9ede1d098c0",
+    "9ab8b190-fb4f-5bb0-8d04-1cd07a42192a",
+    "c0995711-1389-52b7-a7a9-c92e5709fe43",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "05a32734-5dff-5430-b383-72a3d2e03792",
+    "8529f0c6-a65b-53ed-9663-02d52dd82631",
+    "337b2462-f1ec-530a-84de-97b13a0b9446",
+    "426b5aeb-1550-5039-8f2a-bd83d17c8648",
+    "bac2ab98-4317-59ed-99ef-deda8c22786d"
+  ],
+  "id": [
+    "chatcmpl-AIGt6tExGqoQTRXd4fPWOb4MUvYWu",
+    "b3bb8c8a-a222-5b62-94c5-54910d338fa7",
+    "da910108-9a4b-5482-a4cb-bdb969cf959c",
+    "29d6e248-c012-56f7-85c5-1ee104731db0",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "27bb3941-5a92-56a2-b67d-c5e64603c1a3",
+    "6c9146cb-b00f-5f4c-8fc0-5a15a41405ec",
+    "89a8170c-a7b5-5236-8ef3-7d0e6918e584",
+    "12cdef3c-ff25-5349-8ef8-44f08065de4a",
+    "a62e58c3-d1a6-54e9-809f-d98488089738",
+    "6d34c5df-c9e5-5b22-b2af-2c1f191d984f"
+  ],
+  "contexts": [
+    "920 Diabetologia. 2020;63: 977986. doi:10.1007/s00125-020-05101-y 921 9. Stearns FW. One hundred years of pleiotropy: A retrospective. Genetics. Genetics;  922 2010. pp. 767773. doi:10.1534/genetics.110.122549 923 10. Geiler-Samerotte KA, Li S, Lazaris C, Taylor A, Ziv N, Ramjeawan C, et al. Extent and  924 context dependence of pleiotropy revealed by high-throughput single-cell phenotyping.  925 PLoS Biol. 2020;18. doi:10.1371/journal.pbio.3000836",
+    "920 Diabetologia. 2020;63: 977986. doi:10.1007/s00125-020-05101-y 921 9. Stearns FW. One hundred years of pleiotropy: A retrospective. Genetics. Genetics;  922 2010. pp. 767773. doi:10.1534/genetics.110.122549 923 10. Geiler-Samerotte KA, Li S, Lazaris C, Taylor A, Ziv N, Ramjeawan C, et al. Extent and  924 context dependence of pleiotropy revealed by high-throughput single-cell phenotyping.  925 PLoS Biol. 2020;18. doi:10.1371/journal.pbio.3000836",
+    "advances, the more examples become known which canbe explained only under the assumption of pleiotropy (Plate 1910, quoted from M cKusick 1976, pp. 301302). His assertion of the extent and importance of pleiotropyhas been a central theme that has been challenged andstrengthened throughout the past 100 years as the way inwhich we study pleiotropy has changed. DEVELOPMENT OF PLEIOTROPIC RESEARCH One of the rst experimental studies of the mecha-",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "users can take advantage of a systems genetics approach (Rosen et al., 2003, 2007). While the candidate gene approach asks which one gene mutation causes a particular disease, the systems genetics approach explores which phenotypes and diseases result from diverse sets of genetic and molecular markers (Rosen et al., 2003, 2007). The majority of data sets in GeneNetwork are collected from GRPs consisting of hundreds of diverse, inbred strains of",
+    "34. Pyeritz, R.E. (1989) Pleiotropy revisited: molecular explanations of a classic concept. Am. J. Med. Genet. ,34, 124134. 35. Gruneberg, H. (1938) An analysis of the pleiotropic effects of a lethal mutation in the rat. Proc. R. Soc. Lond. B. ,125, 123144. 36. Wagner, G.P. and Zhang, J. (2011) The pleiotropic structure of the genotypephenotype map: the evolvability of complex organisms. Nat. Rev. Genet. ,12, 204213. 37. Solovieff, N., Cotsapas, C., Lee, P.H., Purcell, S.M. and Smoller, J.W.",
+    "21. Byars, S. G. et al. Genetic loci associated with coronary artery disease harbor evidence of selection and antagonistic pleiotropy. PLoS Genet. 13, e1006328 (2017). 22. Rodrguez, J. A. et al. Antagonistic pleiotropy and mutation accumulation inuence human senescence and disease. Nat. Ecol. Evol. 1, 0055 (2017). 23. Institute for Health Metrics and Evaluation. Findings from the Global Burden of Disease Study 2017 (IHME, 2018).",
+    "traits can be due to shared molecular mechanisms and processes (true gene pleiotropy)or covariance can be due to statistical error or to linkage of neighboring, but mechanis-tically independent gene variants. This latter effect is particularly serious and is described in more length by Gerlai 4and in Wang5in the context of RI strains. GeneNetwork GeneNetwork (GN, www.genenetwork.org ) is an open web resource that enables",
+    "2019;20 .https://doi.or g/10.118 6/s13059 -019-1628-0 PMID: 30678704 19. Chesmo reK,Bartlett J,Williams SM.Theubiquity ofpleiotropy inhuman disease. Hum Genet. 2018; 137: 3944. https://doi.or g/10.100 7/s00439 -017-1854 -zPMID: 29164333 20. Bulik-Sulli vanB,Finucane HK,Anttila V,Gusev A,DayFR,LohPR,etal.Anatlas ofgenetic correla- tions across human diseases andtraits. NatGenet 2015 4711. 2015; 47:12361241. https://doi.or g/ 10.1038 /ng.3406 PMID: 26414676",
+    "2019;20 .https://doi.or g/10.118 6/s13059 -019-1628-0 PMID: 30678704 19. Chesmo reK,Bartlett J,Williams SM.Theubiquity ofpleiotropy inhuman disease. Hum Genet. 2018; 137: 3944. https://doi.or g/10.100 7/s00439 -017-1854 -zPMID: 29164333 20. Bulik-Sulli vanB,Finucane HK,Anttila V,Gusev A,DayFR,LohPR,etal.Anatlas ofgenetic correla- tions across human diseases andtraits. NatGenet 2015 4711. 2015; 47:12361241. https://doi.or g/ 10.1038 /ng.3406 PMID: 26414676"
+  ],
+  "answer": "The study of genetic pleiotropy has been advanced by data available on GeneNetwork.org through several key developments:  1. **Multi-Omics Analysis and Data from Multiple Species**: GeneNetwork.org has incorporated data from 10 different species and supports multi-omics analysis, which allows researchers to explore genetic pleiotropy across a wide range of organisms and biological data types. This comprehensive approach provides a richer understanding of how genes can influence multiple traits or diseases [4].  2. **Systems Genetics Approach**: The platform enables a systems genetics approach, which contrasts with the traditional candidate gene approach. Instead of focusing on single gene mutations, it explores the relationships between diverse genetic and molecular markers and their resulting phenotypes and diseases. This approach is particularly useful for studying pleiotropy, as it considers the complex interactions and shared pathways that can lead to multiple phenotypic effects from a single genetic locus [5].  3. **Open Web Resource**: GeneNetwork.org is an open web resource, making it accessible to a wide range of researchers. This accessibility facilitates collaborative research and data sharing, which are crucial for advancing the study of pleiotropy by allowing researchers to build on each other's findings and methodologies [8].  These features collectively enhance the ability to study genetic pleiotropy by providing comprehensive data, advanced analytical tools, and a collaborative platform for researchers.",
+  "question": "How has the study of genetic pleiotropy been advanced by data available on GeneNetwork.org?"
+}

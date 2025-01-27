@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Epidemiology of diabetes.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2023 - Childhood adiposity and novel subtypes of adult-onset diabetes a Mendelian randomisation and genome-wide genetic correlation study.pdf",
+    "2015 - Genetics, genomics and personalized medicine in Type 2 Diabetes.pdf",
+    "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+    "2018 - Novel subgroups of adult-onset diabetes and their association.pdf",
+    "2021 - Genomic Medicine in Diabetes Improving the Diagnostic Rate of Monogenic Diabetes.pdf",
+    "2007 - Bioethnic Conscription Genes, Race.pdf",
+    "2017 - Painting a new picture of personalised medicine for diabetes.pdf"
+  ],
+  "extraction_id": [
+    "4307e79a-c3ae-51d7-8510-820375d2c4ca",
+    "6a734fb4-5ce1-5f11-b1fb-288e38ef9a6c",
+    "b2cd4ee5-81b3-5701-8cd1-8dbea4242cc1",
+    "f0e064be-81a0-5ee9-88da-2a7049c65520",
+    "670074e5-275c-5999-9fb2-2370a1ce3dbf",
+    "81a02908-ff22-5136-be83-d53e04a81541",
+    "20a6e2db-c742-5f28-a310-62f3bf58d92a",
+    "499fe6d8-73ba-5835-91a7-af3376d1651b",
+    "d824748c-69ce-5124-8a76-99c3cf221f8a",
+    "2ee5d7fa-babf-5feb-b40a-fd453b4b3f31"
+  ],
+  "document_id": [
+    "7f1cb121-3a35-571e-81c9-96a3afd66448",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "fff2bd78-2ac2-5672-b8fd-ed82ab7c910b",
+    "d8b85c3e-62f3-5e67-99b0-d0a2f225aff0",
+    "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+    "c9a39a25-de31-5553-941b-bf1298cf1693",
+    "e315a891-ba59-57e9-856b-602544375324",
+    "d90126d9-fd87-5b38-87f7-08415f690836",
+    "e226b2b1-0bc4-5d79-b931-ad47f21be045"
+  ],
+  "id": [
+    "chatcmpl-ADZQhFOO3LRPtv9Lg1g6L8gDOic6T",
+    "6ba4950a-304f-5257-bd31-3e83a2f52df1",
+    "008aa60f-789b-519b-b81d-f437042c3df8",
+    "4660d51a-178a-5a14-a27a-2eeef1b0bf95",
+    "ddc1154f-5406-5028-bacb-47a2ee6fbcf4",
+    "945f57d6-b790-5c1b-a94b-c3076ab28adc",
+    "ae1db826-0202-53c9-a251-0fc9216bbf5c",
+    "191582b1-0a31-5791-b123-4e1fa2672962",
+    "ee7614a8-89a2-503a-9da2-4207c22225bc",
+    "13ab2950-2bdc-57d2-840a-042157d2b9e8",
+    "6a7f929c-ba32-51ea-93e1-2b760bcb156d"
+  ],
+  "contexts": [
+    "Type 1 and type 2 diabetes are the two main types, with type 2 diabetesaccounting for the majority ( >85%) of total diabetes prevalence. Both",
+    "classical classification of diabetes as proposed by the  American Diabetes Association (ADA) in 1997 as type  1, type 2, other types, and gestational diabetes mellitus  (GDM) is still the most accepted classification and  adopted by ADA[1]. Wilkin[8] proposed the accelerator  hypothesis that argues type 1 and type 2 diabetes  are the same disorder of insulin resistance set against  different genetic backgrounds[9]. The difference bet - ween the two types relies on the tempo, the faster",
+    "41 diabetes mellitus (formerly insulin- dependent  diabetes mellitus  IDDM) or type 1 diabetes is also known as juvenile onset diabetes. Type 2 diabetes mellitus (non-insulin-dependent diabe-tes mellitus (formerly non-insulin- dependent dia-betes, NIDDM) or type 2 diabetes  adult-onset diabetes) is found in individuals who are insulin-resistant and who usually have relative insulin de ciency. Gestational diabetes mellitus (GDM),  the third type, is de  ned as any degree of glucose",
+    "SIDD Severe insulin-deficient diabetes SIRD Severe insulin-resistant diabetes Introduction In 2018, a ground-breaking study identified five novel subtypes of adult-onset diabetes: severe autoimmune diabetes (SAID, including type 1 diabetes and latent autoimmune diabetes in adults [LADA]) and four subtypes of type 2 diabetes (severe insulin-deficient diabetes [SIDD], severe insulin-resistant diabetes [SIRD], mild obesity-related diabetes [MOD] and mild age-",
+    "7 American Diabetes Association. Diagnosis and classification of diabetes mellitus. Diabetes Care  37(Suppl. 1), S81S90  (2014). 8 Daneman D. Type 1 diabetes. Lancet  367(9513), 847858  (2006). 9 Kahn SE, Cooper ME, Del Prato S. Pathophysiology and treatment of Type 2 diabetes: perspectives on the past, present, and future. Lancet  383(9922), 10681083 (2014). \t Describes\tthe\tpathophysiology\tof\tType\t2\tdiabetes\t(T2D)\tin \t detail\twith\tprospective\tof\t -cell\tdysfunction\tand\tpotential",
+    "However, there are two major clinical types, type 1  diabetes (T1D) and type 2  diabetes (T2D), according to the etiopathology of t he disorder.  T2D appears to be the",
+    "type 1 diabetes, 723 (53%) had LADA, 162 (12%) had secondary diabetes (coexisting pancreatic disease), and 519 (38%) were unclassifiable because of missing data. The remaining 12  112 (883%) patients were considered  to have type 2 diabetes (appendix). To classify patients into novel diabetes subgroups, first",
+    "4   monogenic diabetes not only provides opportunities for etiology- based treatment of the  minority of individuals with highly penetrant variants, but also informs broader  understanding of diabetes etiology. Types of monogenic diabetes   Maturity onset diabetes of the young (MODY)   MODY comprises most  monogenic diabetes cases, with classical characteristics",
+    "19 RACIALIZED ETIOLOGIES OF DIABETES Diabetes is not one disease but many. More than 90 percent of all diabetics",
+    "with young-onset diabetes. Diabetologia 55:1265 1272 13. Schwartz SS, Epstein S, Corkey BE, Grant SF, Gavin JR 3rd, Aguilar RB (2016) The time is right for a new classification system for diabetes: rationale and implications of the -cell-centric classi- fication schema. Diabetes Care 39:179 186 14. Gale EAM (2006) Declassifying diabetes. Diabetologia 49:1989  1995 15. V oight BF, Scott LJ, Steinthorsdottir V et al (2010) Twelve type 2"
+  ],
+  "answer": "There are several types of diabetes. The classical classification includes type 1, type 2, other types, and gestational diabetes mellitus (GDM) [2]. Additionally, there are subtypes of adult-onset diabetes, including severe autoimmune diabetes (SAID), severe insulin-deficient diabetes (SIDD), severe insulin-resistant diabetes (SIRD), mild obesity-related diabetes (MOD), and mild age-related diabetes [4]. Monogenic diabetes, such as Maturity Onset Diabetes of the Young (MODY), also exists [8]. Therefore, the main types of diabetes are:  1. Type 1 diabetes 2. Type 2 diabetes 3. Other types of diabetes 4. Gestational diabetes mellitus (GDM) 5. Monogenic diabetes (e.g., MODY)  In summary, there are at least five main types of diabetes, with additional subtypes identified in recent studies.",
+  "question": "How many types of diabetes exist?"
+}

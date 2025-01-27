@@ -1,0 +1,144 @@
+{
+    "created_at": "2024-05-31T20:43:30.117900Z",
+    "data": {
+        "amplify": false,
+        "answer": "The genes associated with aging in humans are APOE and FOXO3A.",
+        "context": {
+            "022c37a3-3ea8-4bb7-9997-98ed87635770": [
+                {
+                    "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                    "text": "\n\nGenomic analysis of longevity offers the potential to illuminate the biology of human aging.Here, using genome-wide association meta-analysis of 606,059 parents' survival, we discover two regions associated with longevity (HLA-DQA1/DRB1 and LPA).We also validate previous suggestions that APOE, CHRNA3/5, CDKN2A/B, SH2B3 and FOXO3A influence longevity.Next we show that giving up smoking, educational attainment, openness to new experience and high-density lipoprotein (HDL) cholesterol levels are most positively genetically correlated with lifespan while susceptibility to coronary artery disease (CAD), cigarettes smoked per day, lung cancer, insulin resistance and body fat are most negatively correlated.We suggest that the effect of education on lifespan is principally mediated through smoking while the effect of obesity appears to act via CAD.Using instrumental variables, we suggest that an increase of one body mass index unit reduces lifespan by 7 months while 1 year of education adds 11 months to expected lifespan."
+                },
+                {
+                    "document_id": "022c37a3-3ea8-4bb7-9997-98ed87635770",
+                    "text": "\nGenomic analysis of longevity offers the potential to illuminate the biology of human aging.Here, using genome-wide association meta-analysis of 606,059 parents' survival, we discover two regions associated with longevity (HLA-DQA1/DRB1 and LPA).We also validate previous suggestions that APOE, CHRNA3/5, CDKN2A/B, SH2B3 and FOXO3A influence longevity.Next we show that giving up smoking, educational attainment, openness to new experience and high-density lipoprotein (HDL) cholesterol levels are most positively genetically correlated with lifespan while susceptibility to coronary artery disease (CAD), cigarettes smoked per day, lung cancer, insulin resistance and body fat are most negatively correlated.We suggest that the effect of education on lifespan is principally mediated through smoking while the effect of obesity appears to act via CAD.Using instrumental variables, we suggest that an increase of one body mass index unit reduces lifespan by 7 months while 1 year of education adds 11 months to expected lifespan."
+                }
+            ],
+            "04c5378f-40dc-4690-af03-e5205779b881": [
+                {
+                    "document_id": "04c5378f-40dc-4690-af03-e5205779b881",
+                    "text": "\nBackground: Genetic research on longevity has provided important insights into the mechanism of aging and aging-related diseases.Pinpointing import genetic variants associated with aging could provide insights for aging research.Methods: We performed a whole-genome sequencing in 19 centenarians to establish the genetic basis of human longevity.Results: Using SKAT analysis, we found 41 significantly correlated genes in centenarians as compared to control genomes.Pathway enrichment analysis of these genes showed that immune-related pathways were enriched, suggesting that immune pathways might be critically involved in aging.HLA typing was next performed based on the whole-genome sequencing data obtained.We discovered that several HLA subtypes were significantly overrepresented.Conclusions: Our study indicated a new mechanism of longevity, suggesting potential genetic variants for further study."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "Genetic\nlinkage studies of long-lived human families identified a\nlongevity locus while candidate gene approaches have been\nused to identify and confirm the association between\nspecific variants in the FOXO3A gene and human\nlongevity [3–7]. Genome-wide association studies have\nalso been used to identify the association of APOE with life\n\n123\nAging Clin Exp Res\n\nspan and have yielded insights into potential biological\npathways and processes related to aging. Despite these\nsuccesses, several problems are inherent in human\nlongevity studies including potentially high degrees of\nenvironmental heterogeneity, genetic diversity, and lack of\nbirth matched controls, among others [8]."
+                }
+            ],
+            "4a27da1c-b184-47e8-bef2-de6435d7c3f5": [
+                {
+                    "document_id": "4a27da1c-b184-47e8-bef2-de6435d7c3f5",
+                    "text": "\n\nAdditional association studies with these families and replication of these results with an independent data set should facilitate the positional cloning of a gene that influences the ability to age well and achieve exceptional longevity.Identification of the genes in humans that allow certain individuals to live to extreme old age should lead to insights on cellular pathways that are important to the aging process."
+                }
+            ],
+            "57e2d0f5-c5eb-4ba6-8101-5bacaed53cb4": [
+                {
+                    "document_id": "57e2d0f5-c5eb-4ba6-8101-5bacaed53cb4",
+                    "text": "\n\nIn conclusion, we performed a genome-wide association study of longevity-related phenotypes in individuals of European, East Asian and African American ancestry and identified the APOE and GPR78 loci to be associated with these phenotypes in our study.Moreover, our gene-level association analyses highlight a role for tissue-specific expression of genes at chromosome 5q13.3,12q13.2,17q21.31,and 19q13.32 in longevity.Genetic correlation analyses show that our longevity-related phenotypes are genetically correlated with several disease-related phenotypes, which in turn could help to identify phenotypes that could be used as potential biomarkers for longevity in future (genetic) studies."
+                }
+            ],
+            "5e6ad994-9cad-4b8b-903d-2d5c350e25dc": [
+                {
+                    "document_id": "5e6ad994-9cad-4b8b-903d-2d5c350e25dc",
+                    "text": "\n\nThe only two genes associated with human longevity that have been replicated in multiple populations are FOXO3A and APOE [11,12,15,26,28 -31].The effect sizes of these two genes for longevity are small with odds ratios of 1.26 and 1.45 for survival to age 100 in replicate studies for FOXO3A and APOE, respectively [10,29].These genes account for only a small portion of the genetic contribution to longevity measured through family heritability studies [4,5].Therefore, much of the heritability of lifespan remains to be explained."
+                },
+                {
+                    "document_id": "5e6ad994-9cad-4b8b-903d-2d5c350e25dc",
+                    "text": "\nAgeing in humans is typified by the decline of physiological functions in various organs and tissues leading to an increased probability of death.Some individuals delay, escape or survive much of this age-related decline and live past age 100.Studies comparing centenarians to average-aged individuals have found polymorphisms in genes that are associated with long life, including APOE and FOXOA3, which have been replicated many times.However, the associations found in humans account for small percentages of the variance in lifespan and many other gene associations have not been replicated in additional populations.Therefore, ageing is probably a highly polygenic trait.In humans, it is important to also consider differences in age-related decline that occur within and among tissues.Longitudinal data of age-related traits can be used in association studies to test for polymorphisms that predict how an individual will change over time.Transcriptional and genetic association studies of different tissues have revealed common and unique pathways involved in human ageing.Genomic convergence is a method that combines multiple types of functional genomic information such as transcriptional profiling, expression quantitative trait mapping and gene association.The genomic convergence approach has been used to implicate the gene MMP20 in human kidney ageing.New human genetics technologies are continually in development and may lead to additional breakthroughs in human ageing in the near future."
+                },
+                {
+                    "document_id": "5e6ad994-9cad-4b8b-903d-2d5c350e25dc",
+                    "text": "\n\nAgeing in humans is typified by the decline of physiological functions in various organs and tissues leading to an increased probability of death.Some individuals delay, escape or survive much of this age-related decline and live past age 100.Studies comparing centenarians to average-aged individuals have found polymorphisms in genes that are associated with long life, including APOE and FOXOA3, which have been replicated many times.However, the associations found in humans account for small percentages of the variance in lifespan and many other gene associations have not been replicated in additional populations.Therefore, ageing is probably a highly polygenic trait.In humans, it is important to also consider differences in age-related decline that occur within and among tissues.Longitudinal data of age-related traits can be used in association studies to test for polymorphisms that predict how an individual will change over time.Transcriptional and genetic association studies of different tissues have revealed common and unique pathways involved in human ageing.Genomic convergence is a method that combines multiple types of functional genomic information such as transcriptional profiling, expression quantitative trait mapping and gene association.The genomic convergence approach has been used to implicate the gene MMP20 in human kidney ageing.New human genetics technologies are continually in development and may lead to additional breakthroughs in human ageing in the near future."
+                }
+            ],
+            "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7": [
+                {
+                    "document_id": "5fefb0e4-e7f9-4df3-a984-ad4f61756cf7",
+                    "text": "\n\nIn most experimentally modified animal model systems, single-gene mutations in many different genes have major life extension effects (Fontana et al., 2010;Kenyon, 2010).However, natural human and animal longevity is presumed to be a complex trait (Finch & Tanzi, 1997).In humans, both candidate gene and genome-wide genetic association approaches have been applied in an attempt to identify longevity loci.The frequency of genetic variants has been typically compared between nonagenarian cases and young controls, revealing loci at which genetic variants may contribute to a higher or lower probability of survival into old age.The initial candidate gene studies aimed at finding human longevity genes were dominated by contradictory results (Christensen et al., 2006).The more consistent evidence obtained by repeated observation in independent cohort studies for association with longevity has so far only been observed for three loci, the apolipoprotein E (APOE) locus (Schachter et al., 1994;Christensen et al., 2006), the FOXO3A locus (Willcox et al., 2008;Flachsbart et al., 2009;Pawlikowska et al., 2009;Soerensen et al., 2010), and the AKT1 locus (Pawlikowska et al., 2009).Thus, despite the expectation that longevity would be influenced by many genetic variants with small effect sizes, the effect of variants has consistently been shown in only three genes."
+                }
+            ],
+            "932ef21b-9235-4210-a99c-6153a901bb89": [
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\n\nThe lack of success in the identification of genes related to aging in humans may be due to the complexity of the phenotype.One approach to investigate aging and longevity is to compare frequencies of genetic variants between nonagenarians or centenarians and the general population.This approach led to the discovery of an association between APOE (Deelen et al., 2011;Ewbank, 2007;Gerdes et al., 2000) and more recently FOXO3A (Anselmi et al., 2009;Flachsbart et al., 2009;Li et al., 2009a;Pawlikowska et al., 2009;Willcox et al., 2008) and human aging and longevity.However, a recent genome-wide association study (GWAS) of individuals reaching the age of 90 or older failed to identify genome-wide significant variants (Newman et al., 2010)."
+                },
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\n\nHuman longevity and healthy aging show moderate heritability (20%-50%).We conducted a meta-analysis of genome-wide association studies from 9 studies from the Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium for 2 outcomes: (1) all-cause mortality, and (2) survival free of major disease or death.No single nucleotide polymorphism (SNP) was a genome-wide significant predictor of either outcome (p Ͻ 5 ϫ 10 Ϫ8 ).We found 14 independent SNPs that predicted risk of death, and 8 SNPs that predicted event-free survival (p Ͻ 10 Ϫ5 ).These SNPs are in or near genes that are highly expressed in the brain (HECW2, HIP1, BIN2, GRIA1), genes involved in neural development and function (KCNQ4, LMO4, GRIA1, NETO1) and autophagy (ATG4C), and genes that are associated with risk of various diseases including cancer and Alzheimer's disease.In addition to considerable overlap between the traits, pathway and network analysis corroborated these findings.These findings indicate that variation in genes involved in neurological processes may be an important factor in regulating aging free of major disease and achieving longevity."
+                },
+                {
+                    "document_id": "932ef21b-9235-4210-a99c-6153a901bb89",
+                    "text": "\nHuman longevity and healthy aging show moderate heritability (20%-50%).We conducted a meta-analysis of genome-wide association studies from 9 studies from the Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium for 2 outcomes: (1) all-cause mortality, and (2) survival free of major disease or death.No single nucleotide polymorphism (SNP) was a genome-wide significant predictor of either outcome (p Ͻ 5 ϫ 10 Ϫ8 ).We found 14 independent SNPs that predicted risk of death, and 8 SNPs that predicted event-free survival (p Ͻ 10 Ϫ5 ).These SNPs are in or near genes that are highly expressed in the brain (HECW2, HIP1, BIN2, GRIA1), genes involved in neural development and function (KCNQ4, LMO4, GRIA1, NETO1) and autophagy (ATG4C), and genes that are associated with risk of various diseases including cancer and Alzheimer's disease.In addition to considerable overlap between the traits, pathway and network analysis corroborated these findings.These findings indicate that variation in genes involved in neurological processes may be an important factor in regulating aging free of major disease and achieving longevity."
+                }
+            ],
+            "a95e6806-06d3-4775-8287-fda4cf6ac42f": [
+                {
+                    "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                    "text": "\n\nIn addition to aging-and CR-related genes, another source of candidate genes and pathways for drug design are human longevity-associated genes (Barzilai and Shuldiner, 2001;Browner et al., 2004;Kenyon, 2010).Dozens of genes have now been associated with human longevity (de Magalha ˜es et al., 2009a), although only a handful of genes have been shown to have consistent effects across populations."
+                }
+            ],
+            "d174ea46-2c88-4047-a333-cb66e483a51f": [
+                {
+                    "document_id": "d174ea46-2c88-4047-a333-cb66e483a51f",
+                    "text": "\n\nThe genetic basis of human longevity has so far been primarily investigated by association studies.Most results from these experiments have been difficult to confirm in independent samples, probably owing to the modest heritability, multifactorial nature, and heterogeneity of the phenotype (Christensen et al., 2006).To date, variation in only two genes has been identified, which has an effect on longevity in various populations: (i) the apolipoprotein E gene (APOE) (Scha ¨chter et al., 1994;Christensen et al., 2006) and (ii) the forkhead box O3A (FOXO3A) gene in the insulin-IGF1 signaling (IIS) pathway (Willcox et al., 2008;Flachsbart et al., 2009).Given the apparent lack of susceptibility candidates, it is conceivable that other genetic factors influence the function or expression of genes relevant for human longevity."
+                }
+            ],
+            "f2b8524b-501d-4ec7-a3d7-048aab67ce05": [
+                {
+                    "document_id": "f2b8524b-501d-4ec7-a3d7-048aab67ce05",
+                    "text": "GenAge: the aging gene database Philosophy and overview of resources\n\nIt is undisputed that genetic factors influence aging.In a remarkable series of recent breakthroughs, a number of genes capable of altering the aging process as a whole -or at least to a large degree -have been identified in animal models and even a few in humans (Finch & Ruvkun, 2001;de Magalhães, 2005;Kenyon, 2005).Furthermore, multiple alleles have been examined for their association with human exceptional longevity (Vijg & Suh, 2005).This is a fascinating and important area of research, yet there are now so many genes being associated with aging and longevity that keeping track of them all is becoming increasingly more difficult.Moreover, it is necessary now to study not only individual genes but their interactions with each other and with the environment, and how together genes give rise to a given phenotype: the so-called systems biology approach.To help researchers address these issues we created GenAge, a database of genes related to longevity and/or aging."
+                }
+            ],
+            "f3610ccc-2831-42f6-a3d3-1a0feeba4902": [
+                {
+                    "document_id": "f3610ccc-2831-42f6-a3d3-1a0feeba4902",
+                    "text": "\n\nThe only two genes associated with human longevity that have been replicated in multiple populations are FOXO3A and APOE [11,12,15,26,28 -31].The effect sizes of these two genes for longevity are small with odds ratios of 1.26 and 1.45 for survival to age 100 in replicate studies for FOXO3A and APOE, respectively [10,29].These genes account for only a small portion of the genetic contribution to longevity measured through family heritability studies [4,5].Therefore, much of the heritability of lifespan remains to be explained."
+                },
+                {
+                    "document_id": "f3610ccc-2831-42f6-a3d3-1a0feeba4902",
+                    "text": "\nAgeing in humans is typified by the decline of physiological functions in various organs and tissues leading to an increased probability of death.Some individuals delay, escape or survive much of this age-related decline and live past age 100.Studies comparing centenarians to average-aged individuals have found polymorphisms in genes that are associated with long life, including APOE and FOXOA3, which have been replicated many times.However, the associations found in humans account for small percentages of the variance in lifespan and many other gene associations have not been replicated in additional populations.Therefore, ageing is probably a highly polygenic trait.In humans, it is important to also consider differences in age-related decline that occur within and among tissues.Longitudinal data of age-related traits can be used in association studies to test for polymorphisms that predict how an individual will change over time.Transcriptional and genetic association studies of different tissues have revealed common and unique pathways involved in human ageing.Genomic convergence is a method that combines multiple types of functional genomic information such as transcriptional profiling, expression quantitative trait mapping and gene association.The genomic convergence approach has been used to implicate the gene MMP20 in human kidney ageing.New human genetics technologies are continually in development and may lead to additional breakthroughs in human ageing in the near future."
+                },
+                {
+                    "document_id": "f3610ccc-2831-42f6-a3d3-1a0feeba4902",
+                    "text": "\n\nAgeing in humans is typified by the decline of physiological functions in various organs and tissues leading to an increased probability of death.Some individuals delay, escape or survive much of this age-related decline and live past age 100.Studies comparing centenarians to average-aged individuals have found polymorphisms in genes that are associated with long life, including APOE and FOXOA3, which have been replicated many times.However, the associations found in humans account for small percentages of the variance in lifespan and many other gene associations have not been replicated in additional populations.Therefore, ageing is probably a highly polygenic trait.In humans, it is important to also consider differences in age-related decline that occur within and among tissues.Longitudinal data of age-related traits can be used in association studies to test for polymorphisms that predict how an individual will change over time.Transcriptional and genetic association studies of different tissues have revealed common and unique pathways involved in human ageing.Genomic convergence is a method that combines multiple types of functional genomic information such as transcriptional profiling, expression quantitative trait mapping and gene association.The genomic convergence approach has been used to implicate the gene MMP20 in human kidney ageing.New human genetics technologies are continually in development and may lead to additional breakthroughs in human ageing in the near future."
+                }
+            ],
+            "f6bde053-64e5-42d9-966d-9d5d5d82a068": [
+                {
+                    "document_id": "f6bde053-64e5-42d9-966d-9d5d5d82a068",
+                    "text": "\n\nMost of the human candidate gene studies were performed in cross-sectional designs (Box 1 and Fig. 1), comparing allele frequencies of potential longevity loci between highly aged individuals and young controls.The candidate gene studies based on single genes have pointed a role for genes involved in, e.g., GH/insulin/IGF-1 signaling, immune regulation, and lipoprotein metabolism (Supporting Information Table S1), although most of these results have not (yet) been confirmed in sufficient independent studies.The most convincing human longevity loci today are APOE and FOXO3A which have frequently been associated with longevity in cross-sectional studies (see for a review [26]) and survival in prospective studies [27][28][29] (Fig. 3).APOE encodes the protein apolipoprotein E which seems to play a role in e.g., lipoprotein metabolism, cognitive function, and immune regulation [30].FOXO3A encodes the protein forkhead box O3 which acts as a transcription factor for many different genes involved in processes like apoptosis and oxidative stress [31]."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "9AA0126F9464E89A7B057D231376A79A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "APOE",
+            "FOXO3A",
+            "longevity",
+            "human",
+            "aging",
+            "genes",
+            "GWAS",
+            "SNP",
+            "centenarians",
+            "genetic&variants"
+        ],
+        "metadata": [],
+        "question": "Which genes are associated with aging in humans?",
+        "subquestions": null,
+        "task_id": "9AA0126F9464E89A7B057D231376A79A",
+        "usage": {
+            "chatgpt": 7766,
+            "gpt-4": 5012,
+            "gpt-4-turbo-preview": 4076
+        },
+        "user_id": 2
+    },
+    "document_id": "9AA0126F9464E89A7B057D231376A79A",
+    "task_id": "9AA0126F9464E89A7B057D231376A79A"
+}

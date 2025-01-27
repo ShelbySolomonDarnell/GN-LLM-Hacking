@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2023 - A transcriptome-based single-cell biological age model.pdf",
+    "2019 - Murine single-cell RNA-seq reveals cell-identity.pdf",
+    "2015 - Single cell RNA-seq reveals changes in cell cycle and differentiation programs.pdf",
+    "2019 - Murine single-cell RNA-seq reveals cell-identity.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2022 - Parallel bimodal single-cell sequencing of transcriptome and methylome.pdf",
+    "2023 - A transcriptome-based single-cell biological age model.pdf",
+    "2019 - Murine single-cell RNA-seq reveals cell-identity.pdf",
+    "2018 - Epigenetic Modifications in Cardiovascular Aging and Diseases.pdf"
+  ],
+  "extraction_id": [
+    "7fcf2db7-a5cc-5ffe-aee1-98f447d9b8e5",
+    "f277b0c9-43b7-542a-828f-1bebcf0cddf9",
+    "6411b0be-b683-56dd-a3a5-e76618ede4e4",
+    "e6e9d12b-1784-5f0e-924e-442be1636afb",
+    "a0a95eb8-8214-5918-9b54-7f69eec9df53",
+    "60355441-16f5-53a2-9b24-9616624f8d00",
+    "1e4f0bd9-2e45-536b-ae84-33c3ed01ba34",
+    "548ece22-253e-512f-8dcd-7ffc6c95d482",
+    "4104881f-c452-54ba-b7ab-5c13f9dc8bad",
+    "7109021e-4b15-502a-a9d1-ef6055acdf9d"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+    "0d36d6a5-5c98-5c67-af47-4e00d32ce9c8",
+    "42f2b0ac-0991-58fb-bb24-128b368cc1d7",
+    "0d36d6a5-5c98-5c67-af47-4e00d32ce9c8",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "e112f7dc-0ca4-51df-82ed-2f9748f9a3b5",
+    "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+    "0d36d6a5-5c98-5c67-af47-4e00d32ce9c8",
+    "6559d6a2-bd88-5538-a611-da6288439bed"
+  ],
+  "id": [
+    "chatcmpl-AIHWB476q1MhqSkzMBJiel5B4S1fK",
+    "91b0d8d4-949d-528f-b56d-8e5d99655fbc",
+    "27854d68-63aa-5b56-9580-46c83cd121db",
+    "f74570ce-e096-50b2-8061-b9a538299b3a",
+    "04c9d851-f9d9-53e6-b1ba-1bf3398395f5",
+    "f037fb19-8998-5f24-ab7c-b1ecc0e1b7ef",
+    "cdc7970a-4c9a-55c8-accb-8f99d88b0f6c",
+    "9c580ff4-e422-56e4-b774-44cbc2e5d87c",
+    "225b6504-a754-5aa3-ae95-b4019dbcaa8b",
+    "4a1ef9aa-4fbc-5093-9c53-73937397c715",
+    "1a51a565-e5bf-5659-84a2-39e06def18fd"
+  ],
+  "contexts": [
+    "Single-cell sequencing has helped to support several hypotheses about the cel- lular and genetic origin of age-related dysfunctions. Since single-cell sequencing  allows us to study small populations of cells, it has been possible to find low repre- sented mutations as well as transcriptional events that alter cellular identity. This  newly generated data suggests that aging could be the result of mutational accumu- lation, epigenetic errors, and transcriptional noise that occurs in cells altering the",
+    "structed using data from bulk tissues, which neglect the variationsin cell compositions and cell-to-cell aging heterogeneity. To gain amore detailed and nuanced view of cell type specific molecular changes during aging, several studies have applied machine-learn- ing models to single-cell transcriptomics and DNA methylation",
+    "within whole tissues or individual cell types in aging (Rodwellet al. 2004; Jonker et al. 2013; Cosgrove et al. 2014; O Brown et al. 2015; Su et al. 2015; White et al. 2015; Keyes et al. 2016; Benayoun et al. 2019). However, it remains unclear to what degree age-related transcriptional changes are shared or unique across cellidentities. To address this outstanding question, we performed dif-ferential expression analysis within each cell identity betweenyoung and old mice.",
+    "populations. Furthermore, single cell analysis should allow us to relate prospective profiles of HSCs that  have just been isolated with known heterogeneity in their retrospective functional capacity in transplantation assays.     Here, we leveraged single cell RNA-seq to directly assess transcriptional heterogeneity within the HSCs  and how it may change with age in the steady-state unperturbed hematopoiesis. Given that HSCs are",
+    "cells. Here, we used single-cell RNA-seq to investigate aging across a diverse set of murine cell identities in three tissues. We found that cell identities differentially express unique genes with aging, consistent with previous reports of cell-identi- ty-specific aging phenotypes (Angelidis et al. 2019). Similar celltypes (e.g., kidney capillary endothelial cells and lung endothelial cells) showed broadly similar aging trajectories across tissues, and",
+    "Cellular heterogeneity is revolutionizing the way to study, monitor and dissect complex diseases. This has been possible with the technological and computational advances associated to single-cell genomics and epigenomics. Deeper understanding of cell-to-cell variation and its impact on tissue function will open new avenues for early disease detection, accurate diagnosis and personalized treatments, all together leading to the next generation of health care. This review focuses on the recent dis-coveries",
+    "Genomics 114 (2022) 110379 2have been observed in multiple species and tissues [7,8]. Transcriptome  analysis using aged oocyte samples have confirmed the impact of aging  on transcriptome landscapes [9,10]. Advances in single-cell sequencing  technology promote our understanding of intrinsic complexity to  another level [11]. Recently, we have successfully applied single-cell  transcriptome technique to reveal cellular and molecular transitions in",
+    "present in multiple tissues, such as endothelial cells andepithelial cells, also tended to belong to the same category acrosstissues ( Supplemental Fig. S23). These findings indicate that inherent characteristics of cell types play an important role in shaping cell aging patterns, even when situated in different tissue environments. Discussion Here we show that tissue-specific aging programs can be learnedfrom scRNA-seq data and applied to describe aging heterogeneity",
+    "creased in old lung stromal cells. Using matrix factorization andoptimal transport methods, we computed trajectories of agingfor each cell identity and assessed the influence of identity and en-vironment on these trajectories. Results Single-cell RNA-sequencing identifies a diversity of cell types and states in young and old mouse tissue We collected transcriptional profiles of young and old cells of many identities by isolating single cells from the kidney, lung,",
+    "during the last decades. However, different types of cells in the cardiovascular system may be highly heterogeneous dur - ing aging and disease progression. Single-cell genomics, such  as massively parallel single-cell RNA-seq, facilitate detailed  transcriptome analysis to identify variants of key epigen-etic enzymes/pathways in specific diseased cohorts or cell types. 54,57,58,146 Altogether, new sequencing technologies have"
+  ],
+  "answer": "Recent single-cell transcriptomics studies have significantly enhanced our understanding of cellular heterogeneity in aging tissues by providing detailed insights into the molecular and cellular changes that occur with age. These studies allow for the examination of small populations of cells, enabling the detection of low-represented mutations and transcriptional events that may alter cellular identity, supporting hypotheses about the cellular and genetic origins of age-related dysfunctions [1].   Single-cell transcriptomics has also been used to gain a more nuanced view of cell type-specific molecular changes during aging, which is not possible with bulk tissue analysis that neglects variations in cell compositions and cell-to-cell aging heterogeneity [2]. This approach has revealed that different cell identities express unique genes with aging, indicating cell-identity-specific aging phenotypes [5]. Furthermore, similar cell types across different tissues have shown broadly similar aging trajectories, suggesting inherent characteristics of cell types play a significant role in shaping aging patterns [5], [8].  Additionally, single-cell RNA-seq has been applied to study transcriptional heterogeneity within specific cell types, such as hematopoietic stem cells (HSCs), and how this heterogeneity changes with age [4]. This level of detail helps to understand the diversity of cell types and states in young and old tissues, providing insights into the intrinsic complexity of aging at the cellular level [9]. Overall, these studies are revolutionizing our understanding of cellular heterogeneity in aging tissues, opening new avenues for early disease detection and personalized treatments [6].",
+  "question": "How do recent single-cell transcriptomics studies enhance our understanding of cellular heterogeneity in aging tissues?"
+}

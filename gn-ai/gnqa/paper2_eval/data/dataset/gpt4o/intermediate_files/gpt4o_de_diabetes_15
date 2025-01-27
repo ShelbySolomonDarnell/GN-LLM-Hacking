@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2015 - Maternal diabetes, gestational diabetes and the role of epigenetics in their long term effects on offspring.pdf",
+    "2015 - Maternal diabetes, gestational diabetes and the role of epigenetics in their long term effects on offspring.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2015 - Epigenetic mechanisms in diabetic complications and metabolic memory.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2014 - Diabetic nephropathy\u2014emerging epigenetic mechanisms.pdf",
+    "2016 - NIH working group report using genomic information to guide weight management  From universal.pdf",
+    "2018 - Type 2 Diabetes Mellitus and Cardiovascular Disease Genetic and Epigenetic Links.pdf"
+  ],
+  "extraction_id": [
+    "043ee0bf-ec42-57dd-aa0e-4f4f5aac2437",
+    "efbaf00f-0cb1-531f-a9fd-2844670ec92c",
+    "daf2d7fd-e789-5ceb-9984-d95656b5dd91",
+    "daf2d7fd-e789-5ceb-9984-d95656b5dd91",
+    "41ac576d-b850-5ee8-9753-ba9b060ba798",
+    "44d96546-84c3-51f1-85f9-22790a91d105",
+    "aff84b9e-3855-5960-accd-dcac6b362346",
+    "cbbe696b-8541-537a-ac5f-77b82cdb8201",
+    "68f800e3-8a0c-50ee-ba8b-ceb361f14fa5",
+    "9e010393-b98f-5f6c-a62d-fc0646ba8667"
+  ],
+  "document_id": [
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "3e92bd8e-fbf7-5bc4-9395-0a6dd0b0934e",
+    "3e92bd8e-fbf7-5bc4-9395-0a6dd0b0934e",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "470f1f94-792d-5273-a88f-7e06084951c5",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "be05127e-1be8-5573-b571-51a11c3b2be2",
+    "0ee28c8a-3618-559e-be0a-30f2579a0d1f",
+    "3e82a2e5-4b2c-59c0-99cd-f3b06d8dabf2"
+  ],
+  "id": [
+    "chatcmpl-AIHKMXGqZPQ6g67pYsMpeLJDEH7VZ",
+    "d198d71b-34ac-5402-b166-b476c15e2eef",
+    "d032460f-1bab-5710-8a79-872651f9c36e",
+    "a6efcd76-42f1-5d4c-bcfa-f5e63ac9eb4c",
+    "29bdfc8d-cb06-5ce5-8db6-f92b2f106b7d",
+    "cf4f3239-dd62-5eef-b5fc-85f4780e3f48",
+    "1c0b9205-340f-568f-990f-785c66154732",
+    "64f12ea8-a441-5fb5-a80e-1acbfb596a1e",
+    "8f447303-efd0-5564-9213-2cdc8fce12dd",
+    "7aafd7e0-2446-57a4-bb1e-1f77b4f4559e",
+    "cf775ed3-457e-52a7-b54b-5c1b5c179819"
+  ],
+  "contexts": [
+    "To date, the overwhelming majority of studies including and assessing genetic variation have pro led the steady state patterns of epigeneticmodi cations and gene expression in islets or their constituent cell types. Others have compared how these steady state measures differ between T2D and non-diabetic (ND) individuals [13,16,40 e44]. Sur- prisingly, these studies, especially transcriptome analyses, haveidenti ed only modest alterations despite clear phenotypic differences",
+    "T1D and resulting complications (99). These epig enomic profiling studies suggest that, while a 415  reasonably stable histone methylation pattern is maintained in  healthy individuals over time in a 416  cell-type specific setting, this pa ttern can be disrupted in a dis ease state. Moreover, they also 417  provide a glimpse of the inflammatory cell epig enome under the diabetic state and suggest that 418  new information about diabetes, its complicatio ns and metabolic memory can be obtained by 419",
+    "hyperglycaemia, epigenetic changes have also been noted in other experimental settings of hyperglycaemia. For example, increased DNA methylation has been described for the promoter region of the peroxisome proliferator-activated receptor- g(PPAR g) coactivator-1 agene (PPARGC1A) in diabetic islets ( Ling et al., 2008 ). Similar hypermethylation in the promoter region of the PPARGC1A gene has been noted in the skeletal muscle from diabetic patients,",
+    "and correlated with mitochondrial content ( Barr /C18es et al., 2009 ). Epigenetic changes have also been suggested to be responsible forthe legacy effect of reduced risk of vascular complications after a period of sustained tight glucose control, or metabolic memory of transient hyperglycaemia and increased risk of diabetic vascular injury ( Pirola et al., 2010 ). Histone methylation variations have been noted in monocytes cultured in high glucose, as well as blood",
+    "Epigenetic Mechanisms in Diabetic Complications     17  Interestingly, the sirtuin (SIRT) family of deacetylases, specifically SIRT1, has been found to 360  regulate several factors involved in metabolism, adipogenesis a nd insulin secretion (86). HATs 361  and HDACs can also modulate NF- B transcriptional activity (4, 44) resulting in changes in 362",
+    "ing that environment and diet may influence epigenetic mod-ifications that predispose individuals to diabetes [ 46]. Aber- rant DNAme has also been reported in the reduced expression of genes involved in diabetes and metabolism, and DNAme variations have also been noted near diabetes susceptibility genes and enhancers [ 15,47]. Genomic DNA from diabetic patients with nephropa- thy relative to those without displayed differential meth- ylation at several genes, including UNC13B , which had",
+    "of diabetes mellitus on the body is a high glucose stressed condition, altering substrate metabolism and causing systemic inflammation [60]. Due to this environmental change, researchers have shown how epigenetic changes occur across most, if not all, tissues that are impacted by diabetes mellitus [49, 61]. In the cardiovascular system, the heart, circulatory  system, and regulating immune system are all tran -",
+    "nephropathy. Exp. Physiol.  98, 934945 (2013). 48. Reddy, M.A., Tak Park, J. & Natarajan, R.  Epigenetic modifications in the pathogenesis  ofdiabetic nephropathy. Semin. Nephrol.  33,  341353 (2013). 49. Li, S.L. etal. Enhanced proatherogenic  responses in macrophages and vascular smooth  muscle cells derived from diabetic db/db  mice.  Diabetes  55, 26112619 (2006). 50. El-Osta, A. etal. Transient high glucose causes  persistent epigenetic changes and altered gene",
+    "exhibit decreased plasticity of genome-wide muscle DNA methylation by high-fatoverfeeding. Diabetologia 2014;57:1154-1158. 53. Nilsson E, Jansson PA, Perfilyev A, et al. Altered DNA methylation and differential expression of genes influencing metabolism and inflammation in adipose tissue from subjects with type 2 diabetes. Diabetes 2014;63:2962-2976. 54. Aslibekyan S, Demerath EW, Mendelson M, et al. Epigenome-wide study identifies",
+    "etal. Hyperglycemia induces a dynamic cooperativity of histone methylase  and demethylase enzymes associated with gene-activating epigenetic marks that coexist on the lysine tail. Diabetes  (2009) 58:122936. doi:10.2337/ db08-1666  111. Keating S, Plutzky J, El-Osta A. Epigenetic changes in diabetic and cardio-vascular risk. Circ Res  (2016) 118:170622. doi:10.1161/CIRCRESAHA.   116.306819  112. Paneni F, Volpe M, Lscher TF, Cosentino F. SIRT1, p66(Shc), and Set7/9 in"
+  ],
+  "answer": "The epigenetic landscape of key metabolic tissues shows several changes when comparing diabetic individuals to non-diabetic individuals:  1. **DNA Methylation Changes**: In diabetic individuals, increased DNA methylation has been observed in the promoter region of the PPARGC1A gene in both islets and skeletal muscle [3]. This suggests a potential mechanism by which gene expression related to metabolism is altered in diabetes.  2. **Histone Modifications**: There are disruptions in histone methylation patterns in diabetic states. While healthy individuals maintain stable histone methylation patterns, these can be disrupted in diabetes, indicating changes in the epigenome associated with inflammation and metabolic memory [2].  3. **Impact on Gene Expression**: Epigenetic modifications, such as DNA methylation, have been linked to reduced expression of genes involved in diabetes and metabolism. Variations in DNA methylation have been noted near diabetes susceptibility genes and enhancers [6].  4. **Tissue-Wide Epigenetic Changes**: Diabetes mellitus, characterized by high glucose stress, leads to epigenetic changes across most tissues impacted by the disease, including the cardiovascular system and immune system [7].  5. **Adipose Tissue**: In subjects with type 2 diabetes, altered DNA methylation and differential expression of genes influencing metabolism and inflammation have been observed in adipose tissue [9].  These findings collectively suggest that diabetes is associated with specific epigenetic alterations across various metabolic tissues, which may contribute to the pathophysiology of the disease.",
+  "question": "How does the epigenetic landscape of key metabolic tissues change in diabetic versus non-diabetic individuals?"
+}

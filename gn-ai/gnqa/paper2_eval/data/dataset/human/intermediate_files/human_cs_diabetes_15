@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - Regular exercise participation improves genomic stability in diabetic patients an exploratory study to analyse telomere length and DNA damage.pdf",
+    "2017 - Age at natural menopause and risk of type 2 diabetes a prospective cohort study.pdf",
+    "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+    "2012 - Meta-Analysis of the Relationship between Common.pdf",
+    "2011 - Interaction Between Exercise and Genetics.pdf",
+    "2017 - Differentiation of Diabetes by Pathophysiology.pdf",
+    "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+    "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+    "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+    "2015 - A Chromosome 13 locus is associated with male-specific mortality in mice.pdf"
+  ],
+  "extraction_id": [
+    "0e53122e-a308-55f7-8ee8-a0857ac9c52f",
+    "7d48e6ab-4fe7-539f-beee-b65ee92cb187",
+    "ec07ba94-177b-599e-8104-92b2e0b943e6",
+    "a1598191-38cd-5ece-ad1f-24f100ce43a4",
+    "3c217c69-d626-541a-a846-3277ddbf3e12",
+    "47e113ad-dfd3-5a57-be05-7cbb1457f0b6",
+    "ec07ba94-177b-599e-8104-92b2e0b943e6",
+    "18efcee1-5d44-55fc-9d04-e8caaf1a13ab",
+    "ea61883c-6516-509f-b336-e50da1272f69",
+    "5cc56e3b-53ab-5299-814d-014e2ed31d2f"
+  ],
+  "document_id": [
+    "dcaf7b09-2d54-5cbf-b061-e3c4e6c6c518",
+    "7457a250-85c1-520b-a177-f7775a60b14f",
+    "cc708325-df0a-55ec-9e9b-2bf97835c992",
+    "0135b1a8-aa80-5d2f-a64c-daf7806868bd",
+    "c36db75e-4b76-540d-9efb-d0e156e61541",
+    "9cfaef1e-fb60-5c2b-94f0-632c89b2eb16",
+    "cc708325-df0a-55ec-9e9b-2bf97835c992",
+    "cc708325-df0a-55ec-9e9b-2bf97835c992",
+    "cc708325-df0a-55ec-9e9b-2bf97835c992",
+    "ad8f2626-87fb-520e-8cef-ee9a9cc3ab0b"
+  ],
+  "id": [
+    "chatcmpl-ADZRXnhQYKwt6bdryLveg63fKEuX4",
+    "a2125212-46c1-5020-ab62-196db673c2f5",
+    "df41de1c-0fa9-5a3b-a610-20c98a3f2b2d",
+    "c03fd521-abb7-53c7-a2f9-61fea38ca541",
+    "f2086a09-1ba9-5cc7-8573-3a3c654ee2c6",
+    "dee77427-41b1-5ebb-a50c-8d29bc152f88",
+    "765594a9-3100-57fb-a061-3d72b771fce7",
+    "2747746a-5ede-5c96-aa43-8b71a29c1ce0",
+    "c0c7ac1b-e32e-5971-a63c-7d2ee7b48d5f",
+    "91e2be43-bd18-5304-9755-3ee18dcf0040",
+    "13911a7c-bc0a-5643-bbe6-f4ec9a9a2292"
+  ],
+  "contexts": [
+    "The biological processes linking aging and disease risk are poorly understood. Still, aging is considered to date as  one of the main factors responsible for several complex diseases including cancer, cardiovascular diseases, and diabetes. Particularly, type 2 diabetes (T2D) has become very prevalent all over the world, with a projected increas- ing growth rate for the years ahead 1. The pathophysiological mechanism that underlines diabetic complications",
+    "unclear whether age at menopause is associated with risk of type2d i a b e t e s[ 3,4]. Data from cross-sectional studies examining the association between age at menopause and type 2 diabetes are contradictory, with a few studies reporting no association and some other reporting higher odds of having type 2 diabetes with early onset of menopause [ 57]. Recently, a nested case cohort study reported that an increased risk of type 2 diabetes is associ-",
+    "The mechanisms leading to development of type 2 diabetes in young people are similar to those in older patients; however, the speed of onset, severity, and interplay of reduced insulin sensitivity and defective insulin secretion might be different in patients who develop the disease at a younger age. 18 In adolescents with type 2 diabetes, as in  later onset type 2 diabetes, the initial deterioration in -cell function is characterised by loss of first-phase nutrient-stimulated insulin secretion.",
+    "anincreased risk of developing type 2 diabetes (T2D) later in their",
+    "T2D is associated with age, and Western populations are aging rapidly. The second major explanation is our lifestyles have changed dramatically in recent years. Epidemiological studies have identified strong T2D risk relationships for obesity, sedentary behavior [24], and diets rich in energy [5], processed carbohydrates [6], and animal fats [7]. Collectively, these lifestyle factors impede the actions of insulin and raise hepatic glucose production, which can result in the diminution of endog-enous",
+    "tion. Many people with type 2 diabetes ultimately requirei n s u l i nt h e r a p y ,w h i c hr e ects long-standing type 2 diabetes and greatly diminished b-cell function but also likely includes individuals who have slowly progressingautoimmune diabetes with adult onset (LADA) or otherambiguous forms of diabetes. Age. Data from randomized controlled trials in people with type 2 diabetes under the age of 18 years or over the age of 65 years are scarce. Bene cial effects of tight",
+    "strong inverse association between BMI and age at diagnosis of type 2 diabetes. When type 2 diabetes presents in later life, the severity of insulin resistance is often greater among individuals with a history of protracted and severe obesity, particularly with excess visceral adiposity. 28",
+    "patients with young-onset type 2 diabetes than in patients without diabetes, whereas the risk of myocardial infarction was much less (typically 24 times higher) in patients with  type 2 diabetes presenting in middle and later life. 106 In  Hong Kong, where 20% of type 2 diabetes diagnosed since  1995 occurs in people aged 40 years or younger, a 7-year prospective study 107 showed that when adjusted for age,",
+    "type 2 diabetes, the major predisposing risk factors are obesity, family history, and sedentary lifestyle. Onset of diabetes at a younger age (defined here as up to age 40 years) is associated with longer disease exposure and increased risk for chronic complications. Young-onset type 2 diabetes also affects more individuals of working age, accentuating the adverse societal effects of the disease. Furthermore, evidence is accumulating that young-onset type 2 diabetes has a more aggressive disease phenotype,",
+    "pathophysiology of type 2 diabetes. Diabetes 60(10):26242634. doi:10.2337/db11-0415Aging Clin Exp Res 123"
+  ],
+  "answer": "Aging is considered one of the main factors responsible for the development of type 2 diabetes (T2D) [1]. As populations in Western countries are aging rapidly, the prevalence of T2D is increasing [5]. This is partly due to lifestyle changes that impede insulin action and increase hepatic glucose production, which are more pronounced in older adults [5]. Additionally, the severity of insulin resistance tends to be greater in older individuals, especially those with a history of prolonged and severe obesity [7]. Therefore, aging significantly increases the risk of developing type 2 diabetes.",
+  "question": "How does aging affect the risk of developing type 2 diabetes?"
+}

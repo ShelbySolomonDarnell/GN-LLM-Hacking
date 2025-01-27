@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - eQTL analysis in mice and rats.pdf",
+    "2015 - Genetic Control of Survival and Weight Loss during Pneumonic Burk.pdf",
+    "2015 -Emery- Genetic Control of Survival and Weight Loss during Pneumonic Burk.pdf",
+    "2005 - quantitative-trait-analysis-in-the-investigation-of-function-and.pdf",
+    "2006 - From_gene_to_behavior_and_back_again_new.pdf",
+    "2005 - Gene Expression Differences in Mice.pdf",
+    "2008 - Using gene expression databases for classical trait QTL candidate gene discovery in the BXD recombinant inbred genetic reference population Mouse forebrain weight.pdf",
+    "2005 - quantitative-trait-locus-analysis-of-aggressive-behaviours-in-mi.pdf",
+    "2005 -Broadkin- quantitative-trait-locus-analysis-of-aggressive-behaviours-in-mi.pdf",
+    "2005 -Knott- Regression based QTL mapping.pdf"
+  ],
+  "extraction_id": [
+    "71981bfb-284e-50ad-854e-2055c07f77a7",
+    "615ee0cd-5960-57e5-b4e6-56e4b8020a1b",
+    "268a23e8-f528-5b59-89f2-188331e0a03c",
+    "0a895880-91c0-5079-b258-73926b38430f",
+    "64c0287d-aeea-52eb-a074-e9591c5593ae",
+    "2ee9945a-e33c-5303-84f6-6bb4fec529ea",
+    "dbf6a85f-6ae5-54da-87e4-8c2c70c2b37d",
+    "9de93371-6239-53c2-b42c-71f615a0614b",
+    "0a5c759e-8dab-55f1-ac59-e8211ec683b8",
+    "a4a2e963-3b9b-576e-885a-d5e757a6ce8c"
+  ],
+  "document_id": [
+    "8d67ea90-f7b1-5bb8-937c-4a9eceddff43",
+    "ae1025b0-1410-51ae-9be2-26fa2e9d5808",
+    "a9aceace-bf48-5472-b54c-59a458a84c62",
+    "dac1c73c-0b5f-5a54-bb12-7e8b654009c0",
+    "7a088b36-11b7-5379-bfe5-ce571e11de07",
+    "47abbcce-503c-552f-a02e-bf2f31fd1d8a",
+    "d2dc6644-2feb-5d2b-8ec7-436fc9e449b6",
+    "0dc730ba-4ff4-52aa-a988-71075113c416",
+    "e6027e7f-aec0-5e76-8aff-96b36389e701",
+    "cd41c63b-e5c2-5040-bbc5-ab20925b7d17"
+  ],
+  "id": [
+    "chatcmpl-ADZBER3gC3GniJPKr4d0S0Jc8x850",
+    "73540700-b5cf-5838-852b-b281ca086140",
+    "374c456a-d1db-5b4a-8713-97abe4162d77",
+    "b9d52798-0235-5018-bccd-560565d16cc3",
+    "b660d882-1cb0-5150-ae76-8eb3ccb88a58",
+    "fef212bc-631b-591d-b8e3-d1523da0507d",
+    "60643722-3d4e-571c-97e9-3b5c67670ca0",
+    "e9424ae3-c15b-5b96-aa5f-fe0865f4b2fd",
+    "c8f17022-aeae-5242-9082-d6d1eee4c4bf",
+    "1b2de424-be9f-572d-bd62-dc2ecd92192b",
+    "1c584e4b-db8b-5f00-ad8b-d43702b65f22"
+  ],
+  "contexts": [
+    "While most of the Y chromosome does not undergo recombination, the recombination rate of the X chromosomeis slower than that of the autosomes. This has important consequences on the detection of significant QTLs. For a comprehensive view of these issues, see(43). 9.Probe hybridization artifacts When several probes are available for the same gene, it is not uncommon to observe a difference in the mapping results",
+    "8 QTL Mapping     Allelic variation exists among natural populations and inbred strains, and this is  reflective of the segregation of quantitative tr ait loci (QTLs) [96]. QTLs are stretches of  DNA that are closely linked to genes that underlie a phenotype of interest. QTL analysis has been proven to be an invaluable tool to  help unravel heritable traits, by enabling  researchers to map different quantitative traits back to the genomic location involved in the regulation of these phenotypes.",
+    "8 QTL Mapping     Allelic variation exists among natural populations and inbred strains, and this is  reflective of the segregation of quantitative tr ait loci (QTLs) [96]. QTLs are stretches of  DNA that are closely linked to genes that underlie a phenotype of interest. QTL analysis has been proven to be an invaluable tool to  help unravel heritable traits, by enabling  researchers to map different quantitative traits back to the genomic location involved in the regulation of these phenotypes.",
+    "genetic background. Gene identification of QTL should be distinguished from identification of the quanti- tative trait nucleotide (QTN). The latter is a daunting task, since SNPs are so frequent. Final proof for a QTN in mice would require placing a genomic segment containing theputative QTN from a donor mouse strain on the background of another strain using homologous recombination and reproducing the phenotype of the donor strain.",
+    "The basic  pr emise  of QTL  an alysis  is simple  (Ph illips  and Belknap, 2002 ) . First,  one must  meas  ure a speci  c phen  otype  within  a popul  ation. Next, the population must be genotyped at a hundred or more marker loci186 Boehm II et al.",
+    "verify the difference, and the data were then ana-lyzed by the QTL detection method of Belknap et al.(1997) based on allele frequency differences betweenthe two lines. When a difference was confirmed,individual genotypes and individual behavioral re-sponses to MA were used to estimate the position ofthe bQTL using the interval mapping methods as implemented in R/qtl (Broman et al. 2003). The lat-",
+    "X axis depicts 19 autosomes and X chromoso me. The Y axis is the likelihood ratio statistic from a single QTL model. Two  QTLs, on chromosomes 1 and 11, are significant at a mu ltiple test corrected permut ation threshold as shown. Chromosome 1 and 11 likeli hood ratio statistic plots Figure 2 Chromosome 1 and 11 likelih ood ratio statistic plots . Interval mapping plots of chromosomes 1 and 11, showing more  detail of Figure 1. 2 LOD support inte rvals are shown in Mb on the X axis.",
+    "genes underlying QTLs in animals and plants (see for example Shirley et al 2004,Korstanje & Paigen 2002, Fridman et al 2004). I should also point out, though, that even in a single QTL region isolated in a congenic strain, it is possible that there is more than one allele that aects the phenotype. So, you have a fair pointabout the challenges and complexities of QTL analysis. Koolhaas: There are dierent questions underlying both approaches. The QTL",
+    "genes underlying QTLs in animals and plants (see for example Shirley et al 2004,Korstanje & Paigen 2002, Fridman et al 2004). I should also point out, though, that even in a single QTL region isolated in a congenic strain, it is possible that there is more than one allele that aects the phenotype. So, you have a fair pointabout the challenges and complexities of QTL analysis. Koolhaas: There are dierent questions underlying both approaches. The QTL",
+    "model at the QTL assumes that the original lines arexed for different alleles although genes can besegregating elsewhere. Hence, it is possible to combineinformation about the QTL across families. The assumption of xation at the QTL can be tested by"
+  ],
+  "answer": "To differentiate between X and Y DNA with respect to DNA tracing and determining quantitative trait loci (QTLs), consider the following points:  1. **Recombination Rates**:    - The Y chromosome largely does not undergo recombination, which means it is passed down relatively unchanged from father to son. This makes it useful for tracing paternal lineage [1].    - The X chromosome, on the other hand, does undergo recombination, but at a slower rate compared to autosomes. This slower recombination rate has significant implications for the detection of QTLs on the X chromosome [1].  2. **QTL Mapping**:    - QTLs are stretches of DNA closely linked to genes that underlie specific phenotypes. The process of QTL mapping involves identifying these regions to understand the genetic basis of heritable traits [2].    - The detection of QTLs on the X chromosome may be influenced by its slower recombination rate, which can affect the resolution and accuracy of QTL mapping compared to autosomes [1].  In summary, the primary differences between X and Y DNA in the context of DNA tracing and QTL determination lie in their recombination behaviors and how these behaviors impact the detection and mapping of QTLs. The Y chromosome's lack of recombination makes it a stable marker for paternal lineage tracing, while the X chromosome's slower recombination rate affects the detection of significant QTLs [1], [2].",
+  "question": "How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs"
+}

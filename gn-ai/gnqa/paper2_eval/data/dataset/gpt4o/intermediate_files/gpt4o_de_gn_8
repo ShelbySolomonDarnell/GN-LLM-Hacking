@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Skeletal muscle enhancer interactions identify genes controlling whole-body metabolism.pdf",
+    "2007 - How to infer gene networks from expression profiles.pdf",
+    "2018 - Comprehensive functional genomic resource and integrative model forthe human brain.pdf",
+    "2013 - Genetic and Genomic Approaches to Understanding Macrophage Identity and Function.pdf",
+    "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf",
+    "2016 - The genetic regulatory signature of type 2 diabetes in human skeletal muscle.pdf",
+    "2016 - The genetic regulatory signature of type 2 diabetes in human skeletal muscle.pdf",
+    "2009 - Next generation synthetic gene networks.pdf",
+    "2008 - Meta-Analysis Approach identifies Candidate Genes and associated Molecular Networks for Type-2 Diabetes Mellitus.pdf",
+    "2021 - Modern Statistical Methods for Genetics and Genomic Studies.pdf"
+  ],
+  "extraction_id": [
+    "1a87b58e-d091-582c-b96d-adac454fdf9d",
+    "1b4abf11-ed4b-5169-9ba9-8569bc5c10f7",
+    "213169b2-a4b0-5d5c-a297-c9a5896652ad",
+    "4c2afa3b-cf31-58ba-8ae8-2bf609f25dbc",
+    "d2dd2002-c8f6-5e2e-a06a-a8a20268c637",
+    "9da4c40c-fa6f-557f-b78d-7ffdb9bb9d41",
+    "9da4c40c-fa6f-557f-b78d-7ffdb9bb9d41",
+    "38e443bd-610e-5a1d-9f32-082e808d016a",
+    "c9ae0334-a2f7-5063-81aa-f313c77e4b65",
+    "7f3f1b6c-9fcd-5e8e-a4e0-d53da591d706"
+  ],
+  "document_id": [
+    "fa738c86-1026-50f5-aebb-285ec92b209c",
+    "5067a047-b97d-522a-9a7e-5372e3bbd102",
+    "24caaa62-2368-534f-8c42-f088c3409510",
+    "1526d201-2f4e-5e6c-b2c8-8c825e741401",
+    "6f250b15-61b3-57ed-8900-5aa4a173fa8c",
+    "0046a766-21c6-582a-b868-685a24920faf",
+    "0046a766-21c6-582a-b868-685a24920faf",
+    "0d620c5e-a9ae-5b19-851b-37e40292ab8d",
+    "4060609b-1464-55fa-93cd-fefaf2cac900",
+    "6acebf19-b80c-5352-8201-99d5634fcc80"
+  ],
+  "id": [
+    "chatcmpl-AIGrwafXsxRn06hAraC16E8hpnzWh",
+    "54f0e8c3-0322-51a6-b129-5850d0586c84",
+    "b713e667-ba32-514b-8373-0aebd9702cfc",
+    "640aa5eb-9b93-541a-ba5a-c1179c157c95",
+    "b6a01191-0181-547f-b37c-139a841296e4",
+    "958ecf38-a371-5a53-920f-b28dddea3fe4",
+    "ec2195b2-3ecd-5a55-a085-db9bb844f818",
+    "dac1a702-ecf9-5fe8-bb31-ea3c13bc94d9",
+    "c9155893-bf1f-516c-b509-f6d2014d275e",
+    "55660a79-e4ed-5fc7-8232-aa1401bfd3e8",
+    "a85fbdc3-7bb7-5d61-9d14-e15cc49fc28a"
+  ],
+  "contexts": [
+    "dynamic16,17, and several studies have proposed that impaired enhancer activation could be at the origin of disease1821. Besides interacting with nearby promoters, enhancers also engage in long-range interactions. Indeed, it is estimated that approximately 3540% of all promoter-enhancer interactions are intervened by at least one gene22, which makes exact enhancer-target prediction challenging. Long-range enhancers interactions can be identi ed by chromosome conformation capture methods23,24.",
+    "motifs found in its promoter (gene-to-sequence). We will referto the ensemble of these inuence interactions as genenetworks. The interaction between two genes in a gene network does not necessarily imply a physical interaction, but can also referto an indirect regulation via proteins, metabolites and ncRNA that have not been measured directly. Inuence interactions include physical interactions, if the two interacting partnersare a transcription factor, and its target, or two proteins in the",
+    "~90,000 enhancer-promoter interactions (fig.S36). As expected, ~75% of enhancer-promoterinteractions occurred within the same TAD, and genes with more enhancers tended to have high- er expression (Fig. 5B and fig. S36). We inte-grated the Hi-C data with QTLs; surprisingly, QTLs involving SNPs distal to eGenes but linked by Hi-C interactions showed significantly stron-ger associations (as indicated by the QTL Pvalue) than those with SNPs directly in the eGene pro- moter or exons (Fig. 5C and fig. S37).",
+    "histone-modifying proteins, and other factors to regulate polymerase-II activity. Such factors can bind in close prox- imity to promoters to influence gene expression. However,  there is substantial evidence that additional genetic elements  referred to as enhancers play major roles in determining cell- specific patterns of gene expression. 1517 Initially identified  >30 years ago, enhancer elements can be located at various  distances from promoters, typically between 1 and 50 kilo-",
+    "involved in the regulation of the target genes of both networks, but that the  interaction partners through which this regulation is established differs for both  target genes.",
+    "variants in epigenomic features using a systematic, data-driven approach. Bioinformatics 31,26012606 (2015). 13. Schug, J. et al. Promoter features related to tissue specicity as measured by Shannon entropy. Genome Biol. 6,R33 (2005).14. He, B., Chen, C., Teng, L. & Tan, K. Global view of enhancer-promoter interactome in human cells. Proc. Natl Acad. Sci. USA 111, E2191E2199 (2014). 15. Parker, S. C. J. et al. Chromatin stretch enhancer states drive cell-specic gene",
+    "regulation and harbor human disease risk variants. Proc. Natl Acad. Sci. USA 110, 1792117926 (2013). 16. Quang, D. X., Erdos, M. R., Parker, S. C. J. & Collins, F. S. Motif signatures in stretch enhancers are enriched for disease-associated genetic variants. Epigenet. Chromatin 8,23 (2015). 17. Whyte, W. A. et al. Master transcription factors and mediator establish super-enhancers at key cell identity genes. Cell153, 307319 (2013).",
+    "networks. In fact, several of the higher-order networks we describe below rely on having multiple reliable and interoperable transcriptional activators and repressors for proper functioning. Even so, these engineered transcription factors have not yet been  fully characterized, and if they are to be used as building blocks for complex gene networks, then knowledge of their in vivo kinetics and",
+    "BMC Genomics  2008, 9:310 http://www.biomedcen tral.com/1471-2164/9/310 Page 10 of 17 (page number not for citation purposes)A gene regulatory network comprising the regulatory interactions of the significant genes and the significant and enriched TFs is shown in Figure 5. Obvious are the five hubs, the core regulatory circuit derived from [17]. Well-regulated candidates can be identified like Acly and Fabp4 . Target and regulator at the same time is Ipf1. Discussion",
+    "32. Kheradpour P, Ernst J, Melnikov A, Rogov P, Wang L, Zhang X, et al. Systematic  dissection of regulatory motifs in 2,000 predicted human enhancers using a massively parallel  reporter assay. Genome research. 2013:gr. 144899.112.     33. Rands CM, Meader S, Ponting CP, Lunter G. 8.2% of the human genome is constrained:  variation in rates of turnover across functional element classes in the human lineage. PLoS  genetics. 2014;10(7):e1004 525."
+  ],
+  "answer": "Enhancer-promoter interactions play a significant role in the regulation of gene networks by influencing gene expression levels and patterns. These interactions are crucial for determining cell-specific gene expression, as enhancers can regulate genes over long distances and are involved in complex regulatory networks [4]. Approximately 90,000 enhancer-promoter interactions have been identified, with a majority occurring within the same topologically associating domains (TADs), which suggests a structured and hierarchical organization of these interactions within the genome [3]. Genes with more enhancers tend to have higher expression levels, indicating that enhancers contribute to the regulation of gene expression by interacting with promoters [3]. Additionally, enhancer-promoter interactions can involve long-range interactions, making the prediction of specific enhancer-target relationships challenging [1]. These interactions are part of the broader gene networks that include various regulatory elements and factors, highlighting their importance in the regulation of gene networks as uncovered through platforms like GeneNetwork.org.",
+  "question": "What role do enhancer-promoter interactions play in the regulation of gene networks uncovered through GeneNetwork.org?"
+}

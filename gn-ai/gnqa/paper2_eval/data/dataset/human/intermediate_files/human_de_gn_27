@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 -Ghorbani- Biochemical Pathways and System Bio Analysis.pdf",
+    "2015 - Bioinformatics Methods for Biochemical Pathways and System Biology Analysis_.pdf",
+    "2015_GN_Diabets_notheses.pdf",
+    "2011 - A Role for the MS Analysis of Nucleic Acids.pdf",
+    "2008 - Gene Expression Profiling.pdf",
+    "2012 - Genome-Wide Analysis of Yeast Aging.pdf",
+    "2009 - Next generation synthetic gene networks.pdf",
+    "2017 - Mutation and catastrophe in the aging genome.pdf",
+    "2008 - Gene Expression Profiling.pdf",
+    "2009 - Next generation synthetic gene networks.pdf"
+  ],
+  "extraction_id": [
+    "583e1b6c-5a64-5b10-aee0-9f25132cb1af",
+    "9166f54b-f72e-5028-a048-0a8c45e1d27e",
+    "c9653e9d-2bb8-5bfe-9c06-25286ee85b1b",
+    "24143fb1-ad8f-5ddc-a935-3ed4677445c9",
+    "02d772b3-ae4b-502c-a77e-1a4fdb261c30",
+    "168583fa-6b49-52c4-9a65-7463c95456a6",
+    "38e443bd-610e-5a1d-9f32-082e808d016a",
+    "b2844c41-6a10-5249-947a-811cbbe61bef",
+    "d78c044d-7554-54c2-a2b7-ae37e2e9b2cd",
+    "38e443bd-610e-5a1d-9f32-082e808d016a"
+  ],
+  "document_id": [
+    "222be20a-d320-540b-8b4f-888665acb158",
+    "9aa0b70d-ee1f-544b-bdac-f6a40c11e890",
+    "1744d9bf-29f9-52e3-a7c9-62a916999cda",
+    "2fa837a9-c3fb-5ee7-8e3d-58e4d8ec9ed9",
+    "59f3b969-089b-5258-93ad-892dbc9ffa9c",
+    "cf24db9a-e013-5780-8b0f-369c56143f29",
+    "0d620c5e-a9ae-5b19-851b-37e40292ab8d",
+    "7ae205a2-e002-5e8b-bbf1-ea96ab599b37",
+    "59f3b969-089b-5258-93ad-892dbc9ffa9c",
+    "0d620c5e-a9ae-5b19-851b-37e40292ab8d"
+  ],
+  "id": [
+    "chatcmpl-ADZBi7XfGRRcyH1pOOCv70ZYOQgEu",
+    "b5e2c368-1437-591e-b886-e7aa879d8b1a",
+    "64fff1dc-a484-5138-9158-390bc27843ec",
+    "9f9d3ff1-8e26-53ab-b154-b72ca90e22ab",
+    "4b66fb22-87ff-5df3-99b4-6bdaea507bb5",
+    "870151f4-373d-50a7-8511-3a9a64f78514",
+    "de5d6db7-46da-5a27-bee4-48867524092d",
+    "296fc75a-e72d-5e72-a96f-8dd5fedbd709",
+    "b2b5baf2-4a44-5ecf-8c27-4789a878039f",
+    "98cdcaa8-1595-5269-9019-69f381738c58",
+    "d414d811-e98b-54e7-ad01-b4f185511dd9"
+  ],
+  "contexts": [
+    "promoters ,regulatory proteins and their binding sites,  ribosomal binding sites terminators ,et. RegulonDB contains  both documentation and prediction objects. In  addition it is linked with Swiss -prot, with microarray  databases for analysis and visualization of microarray  experiments.[5]     WIT   The WIT (What Is There) (http://wit.mcs.anl.gov/WIT2/)  is a comparable computational system for analysis of  sequenced genomes and generation of metabolic",
+    "promoters ,regulatory proteins and their binding sites,  ribosomal binding sites terminators ,et. RegulonDB contains  both documentation and prediction objects. In  addition it is linked with Swiss -prot, with microarray  databases for analysis and visualization of microarray  experiments.[5]     WIT   The WIT (What Is There) (http://wit.mcs.anl.gov/WIT2/)  is a comparable computational system for analysis of  sequenced genomes and generation of metabolic",
+    "promoters ,regulatory proteins and their binding sites,  ribosomal binding sites terminators ,et. RegulonDB contains  both documentation and prediction objects. In  addition it is linked with Swiss -prot, with microarray  databases for analysis and visualization of microarray  experiments.[5]     WIT   The WIT (What Is There) (http://wit.mcs.anl.gov/WIT2/)  is a comparable computational system for analysis of  sequenced genomes and generation of metabolic",
+    "173. Griffey, R. H.; Greig, M. J.; Haoyun, A.; Sasmor, H.; Manalili, S. Targeted Site-Specific Gas-Phase Cleavage of Oligoribonucleotides. Application in Mass Spectrometry-Based Identification of Ligand Binding Sites. J. Am. Chem. Soc. 1999, 121, 474475. 174. Hanson, C. L.; Fucini, P.; Ilag, L. L.; Nierhaus, K. H.; Robinson, C. V. Dissociation of Intact Escherichia coli Ribosomes in a Mass Spectrome- terEvidence for Conformational Change in a Ribosome Elongation",
+    "or chloramphenicol Immobilized targetDissociation of ribosome and release of mRNA5Poly(AAA)3 mRNA Isolation of mRNART-PCRdsDNA Mutagenesis by error-prone PCR Fig. 35.5.  Schematic presentation of a ribosome display round. The gene of interest is  transcribed from dsDNA into mRNA and translated into proteins by in vitro techniques.  The ribosomes remain tethered to the mRNA by either cold shock or chloramphenicol.  This step ensures that the genotype remains coupled to the phenotype. The proteins are",
+    "270 G.L. Sutphin e t a l. gene (Hinneb usch 2005 ). The m echanism of re gulation i s t hought to in v o lv e r el- ati v e a v a ilability of the l ar ge and small r ibosome s ub units. Specically , w hen 60Sribosomal sub unit l e v els a re lo w , ternary comple x e s containing initiation f actors and 40S ribosomal sub units are p roposed to more frequently scan through the",
+    "then used to develop synthetic gene networks with defined outputs, without significant post-hoc adjustments 22,4751. Alternatively, syn- thetic ribosome binding site (RBS) sequences can be used to optimize protein expression levels. Recently, Salis et al. 52 have developed a  thermodynamic model for predicting the relative translational ini -",
+    "Philips, R.M., 2017 How Many Ribosomes Are in a Cell? [WWW Document]. URL http:// book.bionumbers.org/how-many-ribosomes-are-in-a-cell/ ((accessed 7.24.16) n.d.). R Core Team, 2014. R: a Language and Environment for Statistical Computing. R Founda- tion for Statistical Computing, Vienna, Austria. Sigurdson, A.J., Ha, M., Hauptmann, M., Bhatti, P., Sram, R.J., Beskid, O., Tawn, E.J.,",
+    "structure, and to find sites that are likely to be cleaved or modified; interac- tion or catalytic mechanisms can be simulated. Bioinformatic resources on  the WWW range from the determination of the molecular weight to complex  threading and three-dimensional (3D) prediction algorithms. A huge list of  tools can be found on the ExPASy proteomic tools homepage (65). Because  of the great variety of programs available, several of these single tools have",
+    "tiation rates for a protein with different upstream RBS sequences, a model that can also be used to rationally forward-engineer RBS sequences to give desired protein expression. In addition, protein degradation can be controlled by tagging proteins with degradation-targeting peptides that impart different degradation dynamics 53. By automating the construction and characterization of biomo-"
+  ],
+  "answer": "A ribosomal binding site (RBS) is a specific sequence of nucleotides in messenger RNA (mRNA) that is crucial for the initiation of protein synthesis. At a high level, you can think of it as a \"landing pad\" for the ribosome, which is the molecular machine that reads the mRNA and translates it into a protein.  Here's a simple analogy: Imagine the ribosome as a train and the mRNA as a track. The ribosomal binding site is like a train station where the train (ribosome) stops to pick up passengers (the instructions for making a protein). Without this station, the train wouldn't know where to start its journey.  In more technical terms, the RBS helps the ribosome to correctly position itself on the mRNA so that it can start translating the genetic code into a protein at the right spot. This process is essential for the proper expression of genes and the production of proteins that perform various functions in the cell [1], [2], [3].",
+  "question": "Can you explain what a ribosomal binding site at a high level and make it accessable to a non-expert?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2002 - Pharmacology, Genomics, and the Evolutionary Biology.pdf",
+    "2001 - A genome-wide scan for linkage to human.pdf",
+    "2010 - Genetics and genomics of human ageing.pdf",
+    "2011 - Genetics and genomics of human ageing.pdf",
+    "2023 - A transcriptome-based single-cell biological age model.pdf",
+    "2011 - A genome-wide association study of aging.pdf",
+    "2021 - Footprints in the Sand Deep Taxonomic Comparisons in Vertebrate Genomics to Unveil the Genetic Programs of Human Longevity.pdf",
+    "2002 - Pharmacology, Genomics, and the Evolutionary Biology.pdf",
+    "2011 - Genomics of human longevity.pdf",
+    "2011 - A genome-wide association study of aging.pdf"
+  ],
+  "extraction_id": [
+    "aa03a9d5-4e30-5fb0-bee1-6dd8e6a549b3",
+    "17246c43-2e44-579b-867d-3dc7150ceedd",
+    "04babc6e-5138-5804-a150-70254859800d",
+    "27e291f1-e6bf-5e76-9245-522de74ea63b",
+    "0fd46f00-d3e1-54f4-9395-6c3e8294ed51",
+    "253a4339-29d4-58c2-8a01-5137d94873b6",
+    "34223e0e-590c-5f26-b120-b7250cd91b99",
+    "e501662f-ffca-563b-97a7-b682a5d7f6ba",
+    "7b101eb3-7990-5345-b510-c0be15f063a7",
+    "beab62d0-2e6f-5d77-b0a2-7375a9ed1364"
+  ],
+  "document_id": [
+    "1bc636a3-6ce0-5fea-b549-0dae90a78f1b",
+    "1431984a-82d9-51d4-a23c-5f76a02ab554",
+    "633f3149-e966-53ef-aa7d-b759398ed541",
+    "08eee102-d627-5f1b-84c7-603c38981adf",
+    "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+    "8e9c1150-1047-54a2-bf85-1cc5000a6811",
+    "0dc45abe-ab02-5b07-9916-7093b53323c0",
+    "1bc636a3-6ce0-5fea-b549-0dae90a78f1b",
+    "2e038219-fdaa-506f-9cd3-51379054130e",
+    "8e9c1150-1047-54a2-bf85-1cc5000a6811"
+  ],
+  "id": [
+    "chatcmpl-ADZVIyiCYn4oPG1At1d3sSBHcOoYZ",
+    "bf384c33-974b-57c3-867d-3515e1d45c49",
+    "e0cce1c5-8709-5218-99b6-48a6ba242931",
+    "62e2bf90-fdb9-5499-a063-cee6c92feb40",
+    "25a0cb1d-0207-5197-9b6a-389b16c1f17e",
+    "9f9fef49-0bda-5948-93bd-0f8f43bbefdf",
+    "f1f870c1-b1ed-5eeb-8831-3484d35414b2",
+    "f6ed1f0c-e4ea-5459-bb63-136decc11eee",
+    "86393802-9171-57d8-806d-6d2ccfb3f0b2",
+    "45e52016-b6ef-5efb-a9e8-5a88341f3300",
+    "146229ff-4d17-5319-88e4-6040f30cf0c1"
+  ],
+  "contexts": [
+    "that is differentiated at hundreds of loci. Many ofthe loci that control aging in Drosophila will not have the same effect on human aging. On the other hand,we expect that other loci will work in a parallelmanner in humans. We have no way of knowing a priori which group any particular locus will belong in. Thus, the individual mutants that increase Drosophila lifespan may or may not come from loci",
+    "effect fundamental mechanisms of aging (14, 16). The drawbacksof such studies include the improbability of picking the right geneto study the myriad of known and unknown genes affecting theprocess of interest (17). The linkage study described heremarkedly improves the efficiency of such association studies bydefining a region likely to contain polymorphism(s) with signif-icant influence on life span. Additional association studies with these families and repli-",
+    "understanding of molecular mechanisms underlyingthe human ageing process. Like other complexhuman traits, nding common variants that accountfor the entire genetic component of human lifespan variability has proved difcult. If rare variants rather than common variants explain most of the genetic vari-ation in ageing among humans, new genotypingtechniques and new analysis methods must be devel-oped to nd genes and pathways involved in ageing.Next-generation sequencing technologies are faster",
+    "understanding of molecular mechanisms underlyingthe human ageing process. Like other complexhuman traits, nding common variants that accountfor the entire genetic component of human lifespan variability has proved difcult. If rare variants rather than common variants explain most of the genetic vari-ation in ageing among humans, new genotypingtechniques and new analysis methods must be devel-oped to nd genes and pathways involved in ageing.Next-generation sequencing technologies are faster",
+    "Map contains 1119 and 1459 curated human and mouse aginggenes, respectively, covering almost all scales of aging, rangingfrom molecular damage to genetic predisposition. Cross-speciescomparison revealed a modest overlap between known humanand mouse aging genes, suggesting both conservation of core sen- escence pathways and fundamental differences in aging between mice and humans (Fig. 2E). Aging-associated genes can alternatively be identified in a",
+    "Several explanations are possible for the lack of genome- wide signicant ndings. First, mortality is arguably 1 ofthe most complex phenotypes, and several trajectories to-ward extreme old age have been identied (Evert et al.,2003). Multiple genes could mediate the aging process butwould have their effects through numerous different patho-physiological processes and diseases that act as intermediate",
+    "discover core mechanisms of regulation.ANALYSIS OF HUMAN VARIATION IN THE GENETIC CONTROL OF LONGEVITY Heritability studies have convincingly demonstrated that at least some fraction of human lifespan is heritable. In tandem, large-scale genome-wide association studies (GWAS) have identied numerous loci associated with age-related traits (Buniello et al., 2019). While genetic studies have functionally shown an inverse eect of multiple age-related, disease-",
+    "[12]More than 1000 loci exhibit age-dependent changes in geneexpression (1264 genes). This is a substantialproblem, because not all of these loci will be causally involved in aging, and there are so many to sort out. An additional application of gene chip technologyis to compare ies with and without a lifespanmodulating physiological treatment. Pletcher et al.",
+    "such alleles. The frequency of genetic variants wastypically compared between highly aged cases andyoung controls, revealing loci at which genetic variantsmay contribute to a higher or lower probability ofsurvival into old age. So far, this approach hasmainly been applied to study single candidate genessuch as the mammalian orthologues of loci in IIS sig-nalling pathways that emerged from lifespan extensionstudies in animal models. An interesting observationthat needs to be taken into human studies is the",
+    "Kenyon, 2010; Vellai et al., 2003 ). However, in humans, common variants within genes involved in these pathways have not been consistently associated with lifespan ( Chris-tensen et al., 2006; Kenyon, 2010; Kuningas et al., 2008; Vijg and Suh, 2005 ). The lack of success in the identication of genes related to aging in humans may be due to the complexity of the phenotype. One approach to investigate aging and longevity is to compare frequencies of genetic variants between no-"
+  ],
+  "answer": "Mapping gene loci that control aging in humans is difficult due to several reasons:  1. **Complexity of the Phenotype**: Aging is a highly complex phenotype influenced by numerous genes and their interactions with environmental factors. This complexity makes it challenging to identify specific genetic loci that control aging [10].  2. **Multiple Pathophysiological Processes**: Multiple genes could mediate the aging process through various pathophysiological processes and diseases, adding layers of complexity to the genetic mapping [6].  3. **Rare vs. Common Variants**: Finding common genetic variants that account for the entire genetic component of human lifespan variability has proven difficult. If rare variants explain most of the genetic variation in aging, new genotyping techniques and analysis methods are required to identify these genes and pathways [3], [4].  4. **High Number of Loci**: There are more than 1000 loci that exhibit age-dependent changes in gene expression. Not all of these loci are causally involved in aging, making it a substantial challenge to sort out which ones are relevant [8].  5. **Species Differences**: Many loci that control aging in model organisms like Drosophila may not have the same effect on human aging. This lack of direct correlation between species complicates the identification of relevant human aging genes [1].  6. **Heritability and Genetic Variation**: While some fraction of human lifespan is heritable, the genetic variation contributing to aging is complex and involves numerous loci associated with age-related traits, further complicating the mapping process [7].  These factors collectively contribute to the difficulty in mapping gene loci that control aging in humans.",
+  "question": "Why is it so diffuclut to map gene loci that control aging in humans?"
+}

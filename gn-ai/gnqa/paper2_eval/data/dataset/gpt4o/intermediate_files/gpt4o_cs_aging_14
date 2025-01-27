@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2009 - The role of epigenetics in aging and age-related diseases.pdf",
+    "2011 - How pleiotropic genetics of the musculoskeletal system.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2015 - Age and sun exposure-related widespread.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2016 - Progress on the role of DNA methylation in aging.pdf",
+    "2018 - Genomics New Light on Alzheimer?s.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf"
+  ],
+  "extraction_id": [
+    "68b12e10-d643-570a-aa63-eda62de81928",
+    "53f4a434-3d4b-5ae5-a788-9b32c94fc0ab",
+    "5a231e39-0927-56e5-970c-e86d69490a69",
+    "677eccb2-c51a-59dc-9690-7d02c51fbb7a",
+    "68b12e10-d643-570a-aa63-eda62de81928",
+    "aa62f800-8e83-5033-889a-64ff3f453fca",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+    "bcb3c620-b960-5af6-95ea-13215c31672e",
+    "05bcb479-ca17-57eb-9674-1c2fecb5726c",
+    "df213743-7428-59be-ba19-2563f8ce5c70"
+  ],
+  "document_id": [
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "f7b452fc-0115-5582-b0c0-c2829f090e9d",
+    "ed31486c-a651-5894-bd96-21fbd78f2646",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "acf06062-9ca8-50be-a543-ef3b34ad6ad3",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "e4cdc02f-4415-5638-aab8-f848b4d64a22",
+    "940593d2-04c3-59b9-a5bf-976febbc6f71",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec"
+  ],
+  "id": [
+    "chatcmpl-AIFhuoRML5l0E69TztcoQUZAgCOF2",
+    "a4773f1a-f2d3-5950-a81e-d22357e97a0f",
+    "3d657599-d2c8-518d-aee3-46c0643a88ec",
+    "49127379-fac4-525a-bf90-5c3bae66860a",
+    "7ce9af40-0bf8-58e1-ad7c-cd55ba0a7cf8",
+    "3f37774f-e56b-5350-93e8-371948bf3e23",
+    "3466f905-760d-5d0b-a3e1-b39f506e6289",
+    "3c369292-4b9c-5156-a80f-4b3301026f30",
+    "c1b5a31a-066d-571b-af1f-db746d9d17f6",
+    "90f9e09f-f339-5d59-ae24-fcbdd2ca6ceb",
+    "c44c36ad-fcca-540a-a4f3-3965e48e3948"
+  ],
+  "contexts": [
+    "of multiple genes with each other and withthe environment. Evidence from animal systems showsa major impact of the environment on aging, yet envi-ronmental manipulations of aging act through genesand proteins, usually by triggering signaling pathwaysand modulating gene expression. In fact, some geneshave been shown in model organisms to have varyingeffects on lifespan depending on diet (Heikkinen et al.,2009). Genes that can regulate aging in model organ-isms cannot be directly applied to humans through",
+    "Several studies show the influence of the environment on the ageing process [24].  Environmental factors may affect homeostasis and lead to the development of dis- eases, thus affecting the quality of life in older age [25]. They also produce cellular  damage, which causes an accelerated shortening of the telomeres at the genetic  level, accompanied by changes in DNA methylation, acetylation or deacetylation  of histones, among others. Altogether, these changes induce an aberrant gene",
+    "changes are generated during the aging process. For a long time it has been believed that epigenetic modications occurring during aging may depend on environmental factors. This idea is attractive because, if true, epigenetics could provide a link between the environment, disease and aging. It also opens the possibility of targeted intervention aimed, for example, at improving healthspan or healthy aging. Thus, the rst question is whether specic environmental factors can directly induce specic epigenetic",
+    "In addition, environmental factors influence the organism s ability to withstand the increase in entropy with aging: for example, caloric restriction and smoking can exert opposite effects on the rate ofaging (Colman et al. 2009 ; Fraser and Shavlik 2001 ). Both protective alleles and a benevolent environment contribute to excess physiological capacity, which in turn indirectly determines an individual s healthy life span and longevity (Martin et al. 2007 ). The well-",
+    "to humans through ge-netic manipulations for numerous legal, ethical, andtechnical reasons. If we could understand how the envi-ronment modulates these aging-related genes, we mightbe able to create antiaging therapies applicable to hu-mans, potentially through diet, lifestyle, and even phar-macological interventions. Therefore, understanding ge-nome-environment interactions in the context of agingcan be a powerful approach to identify attractive targetsfor drug design.",
+    "ing human life span have been identified [2,3]. At the same time, there is a growing realization that environ- mental factors are major contributors to aging and age- associated illness. Epigenetics is the study of chemical modifications of the genome, heritable by cell progeny, and it has been an attractive target for studies of aging and environmentally influenced disease. Several groups have shown differences in DNA methylation - a covalent",
+    "al., 2009; Stanfel et al., 2009). Many of these genesmodulate the response to environmental signals, such asfood availability, and act in signaling pathways that ifunderstood can be targeted (Fig. 1). The genetic regula-tion of aging is therefore an emerging field with multipleapplications in the human nutrition, cosmetic, and phar-maceutical industries. AGING GENES AS TARGETS FOR DRUG DISCOVERY 91",
+    "standing the cause and mechanisms of aging is imperative in assisting to suppress age-related diseases and promote healthylongevity. It is well-known that aging is influenced by a combin- ation of genetic and environmental factors. Previous twin stud- ies have shown that the genetic contribution to general human longevity is about 2030% [ 4,5], whereas environmental factors in human aging and longevity still account for the largest effect. Epigenetic factors influence the regulation of gene expres-",
+    "known to affect the function of epigenetic regulators, this may be an example of how aging interacts with our genome to inuence AD development.",
+    "consequently the incidence of age-related diseasessuch as heart disease, cancer, and neurodegenerativediseases, is projected to increase considerably in thecoming decades. Findings from model organisms haverevealed that aging is a surprisingly plastic processthat can be manipulated by both genetic and environ-mental factors. Here we review a broad range of find-ings in model organisms, from environmental to ge-netic manipulations of aging, with a focus on thosewith underlying gene-environment interactions"
+  ],
+  "answer": "The environment interacts with genes to influence aging through several mechanisms:  1. **Signaling Pathways and Gene Expression**: Environmental factors can trigger signaling pathways and modulate gene expression, impacting aging. For example, certain genes have varying effects on lifespan depending on environmental factors like diet [1].  2. **Epigenetic Modifications**: Environmental factors can lead to changes in DNA methylation, acetylation, or deacetylation of histones, which are epigenetic modifications that influence gene expression. These changes can result in cellular damage and accelerated aging, such as the shortening of telomeres [2], [6].  3. **Epigenetics as a Link**: Epigenetic modifications provide a potential link between the environment, disease, and aging. This suggests that specific environmental factors might directly induce specific epigenetic changes, which could be targeted for interventions aimed at improving healthspan or promoting healthy aging [3].  4. **Physiological Capacity and Longevity**: Environmental factors, along with protective genetic alleles, contribute to an individual's physiological capacity, indirectly determining healthy lifespan and longevity. For instance, caloric restriction and smoking have opposite effects on the rate of aging [4].  5. **Plasticity of Aging**: Aging is a plastic process that can be manipulated by both genetic and environmental factors. Understanding these interactions can help identify targets for anti-aging therapies, potentially through diet, lifestyle, and pharmacological interventions [5], [10].  Overall, the interaction between the environment and genes is complex and involves multiple pathways and mechanisms that collectively influence the aging process.",
+  "question": "How does the environment interact with genes to influence aging?"
+}

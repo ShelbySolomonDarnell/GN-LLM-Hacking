@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2013 - Genetic association of ADIPOQ gene variants with type 2 diabetes, obesity.pdf",
+    "2015 - The Association of Type 2 Diabetes Loci.pdf",
+    "2016 - Genome-Wide Association Studies of Type 2 Diabetes.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2019 - Genetic Risk Scores for Diabetes Diagnosis.pdf",
+    "2012 - Gene-Environment Interactions in the Development of Type 2 Diabetes.pdf",
+    "2018 - Quantitative Relationship Between Cumulative Risk Alleles Based.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2012 - The Pathogenesis and Natural History of Type 1 diabetes.pdf"
+  ],
+  "extraction_id": [
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "c2875fb7-31e1-51f2-87b8-f2c21d597d08",
+    "8703f848-f3bc-58b2-932a-a49b1f0fb002",
+    "c92c81bb-ede1-5e01-af7d-e244214fc856",
+    "eb3de845-98db-505c-bb7f-c0f3259875fc",
+    "a8162fba-c5da-504f-a018-b6242a026bc5",
+    "b961664b-5008-547c-a302-ee8c719f68fd",
+    "6db9f25e-36fd-51c0-be36-6dfacd963b1b",
+    "b1c7a0c1-90a0-54fe-a662-9113e44e2c9f",
+    "b797dd19-b8f4-5dc9-93ee-ace7594bf3bf"
+  ],
+  "document_id": [
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "6a2afe9a-51c0-52a6-be40-c034fb45c69a",
+    "a2abccec-e5cb-56ae-93b9-3040bc09f148",
+    "185aad8a-6a5b-5b18-81c4-ef251edef5e7",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "8c66aca1-d4ba-534d-a037-4273de340ee1",
+    "ea9601ed-ad83-506e-b1b7-e7211671ff73",
+    "d585896e-1c32-51cb-827d-e4fd3b3943f3",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "acad2a9b-1149-539b-b335-661176d631f1"
+  ],
+  "id": [
+    "chatcmpl-ADZQIhRURTB7PnDm4Bf2cVOJhSbs0",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "0ccd2114-85e2-5aa3-85b5-3ae4b202037a",
+    "bf4247f8-f82c-5c40-b5af-3a68476f54bf",
+    "4b289db2-bda2-51d1-8f65-1cda62a4e40f",
+    "9fc663d2-2833-51e7-ae6a-55b007a6e27c",
+    "a67fe95c-11ac-5d06-8757-209f9abd0fd8",
+    "14608f3c-f5fa-52d6-b2c7-6ce6fd40985f",
+    "32b978f9-4bce-5f39-a655-09685b0d0f1f",
+    "74ab0f97-7758-5b01-b178-afee23d2e6cc",
+    "10d30a80-821a-5d09-988b-60bc71eae43c"
+  ],
+  "contexts": [
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "ger, will develop diabetes because the prevalence of diabetes increases with age. In order to circumvent this problem, age was adjusted for in2 K. Ramya et al. / Gene xxx (2013) xxx xxx Please cite this article as: Ramya, K., et al., Genetic association of ADIPOQ gene variants with type 2 diabetes, obesity and serum adiponectin levels in south Indian population, Gene (2013), http://dx.doi.org/10.1016/j.gene.2013.09.012",
+    "elderly population. PLoS One 9: e100548. doi: 10.1371/journal.pone.0100548 PMID: 24959828 23. Strawbridge RJ, Dupuis J, Prokopenko I, Barker A, Ahlqvist E, Rybin D, et al. (2011) Genome-wide association identifies nine common variants associated with fasting proinsulin levels and provides new insights into the pathophysiology of type 2 diabetes. Diabetes 60: 2624 2634. doi: 10.2337/db11-0415 PMID: 21873549",
+    "information for diabetes risk prediction - differences according to sex, age, family history and obesity. PloS One 8(5):e64307. doi: 10.1371/journal.pone.0064307 Neel JV (1962) Diabetes mellitus: a thrifty genotype rendered detrimental by progress? Am J Hum Genet 14:353362 Neel JV (1999) The thrifty genotype in 1998. Nutr Rev 57(5 Pt 2):S2S9 Palmer ND, McDonough CW, Hicks PJ, Roh BH, Wing MR, An SS, Hester JM, Cooke JN,",
+    "insulin resistance, hypertension, and dyslipidemia (Obesity Education Initiative Expert Panel,  1998 ). Insulin resist-ance increases with age, and the incidence of diabetes rises sharply in the elderly (American Diabetes Association,  2010a ).   In a few patients, genetic mutations appear to be associ- ated with T2D (Roche  et al.  ,  2005 ; American Diabetes  Association,  2010a ). For example, recent work using the DPP data has led to the identi  cation of 27 single nucle-",
+    "early-onset diabetes in some pedigrees, but it also maybe observed in individuals who retain normal glucose tolerance into late adulthood and beyond ( ). Studying  individuals from  HNF A-MODY families, Lango Allen et al. () found that a -SNP T Dr s P S was signi cantly associated with earlier age of diabetes diagnosis, with each additional risk allele accelerating diagnosis by ~ months. Clinical application of predictive scores",
+    "12. de Miguel-Yanes JM, Shrader P, Pencina MJ, Fox CS, Manning AK, et al. 2011. Genetic risk reclassi- cation for type 2 diabetes by age below or above 50 years using 40 type 2 diabetes risk single nucleotide polymorphisms. Diabetes Care 34:12125 13. Dempe A, Scherag A, Hein R, Beckmann L, Chang-Claude J, Schafer H. 2008. Gene-environment interactions for complex traits: denitions, methodological requirements and challenges. Eur. J. Hum. Genet. 16:116472",
+    "diabetes risk genes predicts impaired glucose tolerance in female andobese individuals. PLoS One . 2012;7:e38224 . 74. Stevens JW, Khunti K, Harvey R, et al. Preventing the progression to type 2 diabetes mellitus in adults at high risk: a systematic review and network meta-analysis of lifestyle, pharmacological and surgicalinterventions. Diabetes Res Clin Pract . 2015;107:320 331(in eng).Cumulative Risk Alleles and Type 2 Diabetes Mellitus 18jJ Epidemiol 2018;28(1):3-18",
+    "and protects against oxidative stress-induced insulin-deficient  diabetes. PLoS One  2014; 9: e87941 [PMID: 24498408 DOI:  10.1371/journal.pone.0087941] 23 Maahs DM , West NA, Lawrence JM, Mayer-Davis EJ. Epidemiology  of type 1 diabetes. Endocrinol Metab Clin North Am  2010; 39:  481-497 [PMID: 20723815 DOI: 10.1016/j.ecl.2010.05.011] 24 Daneman D . Type 1 diabetes. Lancet  2006; 367: 847-858 [PMID:  16530579 DOI: 10.1016/S0140-6736(06)68341-4]",
+    "Sosenko JM, Skyler JS, Krischer JP , Greenbaum CJ, Mahon J, Rafkin LE, Cuthbertson D, Cowie C, Herold K, Eisen-barth G, et al. 2010. Glucose excursions between states of glycemia with progression to type 1 diabetes in the diabetes prevention trial-type 1 (DPT-1). Diabetes 59: 23862389. Steck AK, Armstrong TK, Babu SR, Eisenbarth GS. 2011. Type 1 Diabetes Genetics Consortium. Stepwise or linear decrease in penetrance of type 1 diabetes with lower-risk HLA genotypes over the past 40 years. Diabetes 60:"
+  ],
+  "answer": "Protective genetic factors against diabetes in elderly populations can be understood through several key insights from the provided context:  1. **Genome-Wide Association Studies (GWAS)**: Research has identified common genetic variants associated with fasting proinsulin levels, which provide new insights into the pathophysiology of type 2 diabetes. These findings suggest that certain genetic variants may play a protective role by influencing insulin regulation and glucose metabolism in the elderly [3].  2. **Single Nucleotide Polymorphisms (SNPs)**: Studies have identified specific SNPs that are associated with diabetes risk. For example, some genetic mutations are linked to early-onset diabetes, but individuals with certain protective alleles may retain normal glucose tolerance into late adulthood. This indicates that specific genetic configurations can delay or prevent the onset of diabetes in elderly populations [6].  3. **Gene-Environment Interactions**: The interaction between genetic factors and environmental influences is crucial in understanding diabetes risk. Protective genetic factors may interact with lifestyle and environmental factors to reduce the likelihood of developing diabetes in older adults [7].  4. **Oxidative Stress Protection**: Certain genetic factors may protect against oxidative stress-induced insulin-deficient diabetes. This suggests that genetic mechanisms that enhance the body's ability to manage oxidative stress could be protective against diabetes in the elderly [9].  In summary, protective genetic factors against diabetes in elderly populations include specific genetic variants that influence insulin regulation, SNPs that delay diabetes onset, gene-environment interactions, and genetic mechanisms that protect against oxidative stress. These factors collectively contribute to a reduced risk of developing diabetes in older adults.",
+  "question": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+}

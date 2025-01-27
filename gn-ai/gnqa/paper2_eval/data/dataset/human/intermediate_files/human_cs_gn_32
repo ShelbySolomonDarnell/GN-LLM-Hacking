@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Genetic dissection of sleep homeostasis.pdf",
+    "2019 - Leveraging genomics to uncover.pdf",
+    "2013 - Neural-Immune Interactions in Brain Function and Alcohol Related Disorders.pdf",
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf",
+    "2012 - Genetic regulation of adult hippocampal neurogenesis A systems genetics approach using BXD recombinant inbred mouse strains.pdf",
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf",
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf",
+    "2019 - Strain differences in maternal neuroendocrine and behavioral responses to stress and the relation to offspring cocaine responsiveness..pdf",
+    "2020 - Modeling the Genetic Basis of Individual Differences in Susceptibility to Gulf War Illness.pdf",
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf"
+  ],
+  "extraction_id": [
+    "cef725f8-c326-59f4-a65e-62d8c7bd5db5",
+    "c624519f-327a-5733-9e1e-94d5bec93fd7",
+    "f6556a02-048a-5e9b-ac7e-ed681db96345",
+    "f9be673c-af23-5d15-9087-37e818cf1a68",
+    "3c78be84-90fe-58ce-85e5-e85e2208057f",
+    "59789bd0-1ee6-51da-b2a1-94f847ff6c63",
+    "32902b1c-3a3a-5f5b-b651-a6fd0fa653a9",
+    "29253383-31a5-5fe1-8160-9d6091273a4d",
+    "1de7e365-88d0-5893-826e-7ac6a69b896e",
+    "5da98563-71dd-5d71-8303-b52f2fb8c6a7"
+  ],
+  "document_id": [
+    "ed971d1f-e77e-566b-b549-81cd0038834a",
+    "5da46d3b-fa82-57f6-b3e5-c82784347881",
+    "78271275-3409-5fc7-bbdd-53c484178e0b",
+    "17637a6f-804e-50e4-9cf5-37318e17f15c",
+    "c54da858-9620-588e-8e41-76a960af2ff6",
+    "17637a6f-804e-50e4-9cf5-37318e17f15c",
+    "17637a6f-804e-50e4-9cf5-37318e17f15c",
+    "d29d8018-09a1-53d4-8f07-9dd110c79b39",
+    "d235d186-3d1c-5cde-90d5-9c140cd920f4",
+    "17637a6f-804e-50e4-9cf5-37318e17f15c"
+  ],
+  "id": [
+    "chatcmpl-ADZMoelW4EZWflXHaXujPl4dX6GM9",
+    "bf56c010-06d1-598e-81cf-2a2603f0a883",
+    "76804170-ccb4-5e86-b9ba-533264556893",
+    "63c085a5-ad08-5f28-b3be-3e62b7739183",
+    "74ffa8aa-80dc-5e94-a373-c1af483d63f4",
+    "05e15635-52ee-5d80-9696-15cea22fb7e4",
+    "5ccf3333-4675-577f-bfce-5d5e72fd7c3f",
+    "6d2d21e3-a1c5-5a11-a7ca-7fc643cf8b36",
+    "8f5142d0-8efa-5fe8-b7bf-46dea42ec444",
+    "7b2a0384-586f-582f-93da-8fd64dc76095",
+    "2234517f-d2da-535b-8bb4-5ee5d33671e2"
+  ],
+  "contexts": [
+    "that corticosterone importantly amplies the SD induced changes",
+    "be used to predict corticosteroid response [200]. George etal.",
+    "we do not wish to dispute this viewpoint, it is interesting to note that anti- in  ammatory actions of CORT are most pronounced at high and supraphysiological  concentrations, whereas lower concentrations of CORT appear to have some  immune-potentiating effects (e.g.,  [  6  ] ). Whether these low-dose facilitation effects  relate more directly to the timing of CORT injection relative to cytokine measure- ments, or represent differential tissue sensitivity to glucocorticoids, remains to be",
+    "cortisol to the less bioactive cortisone (Seckl,1997 ). While the protection afforded by this bar- rier enzyme can be overwhelmed when cortisol levels get very high, it likely functions effec- tively when cortisol remains within the normalrange (Campbell and Murphy, 1997 ). There is now considerable interest in what types of events or other hormones might lower 11-HSD2 andthereby reduce the buffering benets it affords. On example is elevated catecholamine levels,",
+    "the balance between cell generation and cell death. Acute increase of corticosterone leads to decreased cell proliferation while chronic increase causes an increase in proliferation rate (Sapolsky et al., 2000). This discrepancy is due to the presence of two receptors with different binding affinities: the glucocorticoid receptor (GR) and mineralocorticoid receptor (MR). The GR present in",
+    "corticosterone dramatically reduce the delayed-type hypersensitivity response (Dhabhar andMcEwen, 1997 ,1999 ). Sorrells and Sapolsky (2007 ) have provided a thought provoking recent review, contrasting the well-established anti-inammatory aspect of glucocorticoids, with the mounting evidence for their pro-inammatory effects both in the periphery and in the brain fol-lowing chronic exposure. This pattern of results demonstrates that the acute stress response has",
+    "mature babies in order to stimulate lung maturation. As illustrated here, Dex readily bypasses the protective bar-rier enzyme 11 beta-hydroxysteroid dehydrogenase type2 (11-HSD2), which normally limits fetal exposure tomaternal cortisol by converting it to corticosterone, aless bioactive form. Some concerns linger about long-term effects of fetal exposure to high doses or sustainedcorticosteroid treatmentantenatal glucocorticoid therapies are warranted,",
+    "first session. Approximately 50 microliters was collected into lithium heparin-coated tubes  and then centrifuged for collection of plasma. Samples were stored at 80 degrees until  ready for processing. Plasma corticosterone concentration was measured with the use of the DetectX CORT  Enzyme Immunoassay kit (ArborAssays K014-H5, Ann Arbor, MI, USA). Room  temperature plasma samples were diluted 1:450 in assay buffer and processed according to",
+    "corticosterone in their drinking water as sole liquid source for seven days prior to i.p. treatment with 4 mg /kg diisopropylurophosphate. Data are mean consumption per day s.e.m. 4.2. Gene Expression in Response to Treatments 4.2.1. IL1b We observed wide variability in the e ect of CORT on expression of Il1b (Figure 2). ANOVA revealed a signicant main e ect for strain (F 32,122 =3.61, p<0.001). The main e ects for sex and",
+    "cortisol. Support has emerged for the basic tenets of this hypothesis in studies of both humans and animals (Avitsur et al, 2001 ; Miller and Chen, 2006 ; Miller et al, 2002 ,2009 ; Rohleder et al, 2001 ; Stark et al, 2001 ). Most of this work has made use of an ex vivo assay system, where leukocytes are stimulated with a bacterial prod- uct (endotoxin) in the presence of varying levelsof cortisol, which is expected to suppress their ability to synthesize inammatory cytokines. In"
+  ],
+  "answer": "Corticosterone has several uses and effects as indicated in the provided context:  1. **Amplification of Stress-Induced Changes**: Corticosterone importantly amplifies stress-induced changes [1]. 2. **Anti-inflammatory and Immune Effects**: At high and supraphysiological concentrations, corticosterone has pronounced anti-inflammatory actions. Conversely, at lower concentrations, it appears to have some immune-potentiating effects [3]. 3. **Impact on Cell Proliferation**: Acute increases in corticosterone lead to decreased cell proliferation, while chronic increases cause an increase in proliferation rate. This is due to the presence of two receptors with different binding affinities: the glucocorticoid receptor (GR) and the mineralocorticoid receptor (MR) [5]. 4. **Reduction of Delayed-Type Hypersensitivity Response**: Corticosterone dramatically reduces the delayed-type hypersensitivity response [6]. 5. **Measurement in Research**: Corticosterone levels can be measured in plasma samples using specific enzyme immunoassay kits, which is useful in various research settings [8].  These points highlight the diverse roles and applications of corticosterone in both physiological and research contexts.",
+  "question": "what is the use of corticosterone?"
+}

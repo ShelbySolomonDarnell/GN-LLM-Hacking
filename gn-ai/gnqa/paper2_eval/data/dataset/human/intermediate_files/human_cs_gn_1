@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2019 - Shared and distinct genetic risk factors for childhood-onset.pdf",
+    "2008 - Genetic Effects on Environmental Vulnerability to Disease Novartis Foundation Symposium 293.pdf",
+    "2018 - The Genetics and Genomics of Asthma.pdf",
+    "2010 - Recent advances in the genetics and genomics of asthma.pdf",
+    "2019 - Shared and distinct genetic risk factors for childhood-onset.pdf",
+    "2008 - Genetic Effects on Environmental Vulnerability to Disease Novartis Foundation Symposium 293.pdf",
+    "2019 - Leveraging genomics to uncover.pdf",
+    "2018 - The Genetics and Genomics of Asthma.pdf",
+    "2018 - The Genetics and Genomics of Asthma.pdf",
+    "2019 - Shared and distinct genetic risk factors for childhood-onset.pdf"
+  ],
+  "extraction_id": [
+    "306aeeff-1e54-5e8d-9d06-10fc3c995f69",
+    "110ccbf7-ee1f-5326-ac9a-a5ea4a842751",
+    "47d93beb-84d7-55ab-af76-a671ea6dc488",
+    "d398c492-cb9a-5aba-bfd4-4a51bd6eb831",
+    "cfc7a3ec-7c07-5966-a022-decf1c4f8276",
+    "22dfc0a4-f5ac-5fa0-911a-32a5e71c8608",
+    "531fbafe-c4a1-55b2-b832-dfb9a7f67e96",
+    "af4e210e-5d90-5f49-996a-fa177eaf155e",
+    "b95d9c35-eefe-579a-bf1d-12811d1b5a07",
+    "cfc7a3ec-7c07-5966-a022-decf1c4f8276"
+  ],
+  "document_id": [
+    "6f5caedc-c2b4-54e4-8bc6-8b78cab6bb0e",
+    "5d65e407-34e5-5c1c-b394-989b7a09b57d",
+    "47cf2a47-d8d2-583b-8c12-2a7cfbe92e5e",
+    "656c0e8b-d154-551a-bae1-986e418a6aa4",
+    "6f5caedc-c2b4-54e4-8bc6-8b78cab6bb0e",
+    "5d65e407-34e5-5c1c-b394-989b7a09b57d",
+    "5da46d3b-fa82-57f6-b3e5-c82784347881",
+    "47cf2a47-d8d2-583b-8c12-2a7cfbe92e5e",
+    "47cf2a47-d8d2-583b-8c12-2a7cfbe92e5e",
+    "6f5caedc-c2b4-54e4-8bc6-8b78cab6bb0e"
+  ],
+  "id": [
+    "chatcmpl-ADZIhpxkquCUzShWFEamc7p1ntYgw",
+    "21c02be1-f8a1-5d70-abb7-00a866f4a734",
+    "183e3af7-7138-554b-bcda-b76e7eeef30a",
+    "21d3694f-032b-5d8c-93e2-58e85ec92903",
+    "b64a52ee-d2e8-50a7-a101-b255cd905180",
+    "46ee340b-b11c-52ef-a48d-d2c8135b63d8",
+    "1fa74fa4-0f13-55be-8164-ee57dfbc80af",
+    "545f48b6-3b45-5a1a-8def-7a5900ecc40a",
+    "a0a06ce6-5b8f-52ff-8904-901ae666f247",
+    "4d8496c2-5415-58d4-a27d-8f0f7f8d147a",
+    "47361fa0-f820-5114-8074-ad63e0815d81"
+  ],
+  "contexts": [
+    "children is driven more by dysregulated allergy and epithelial barrier function genes, whereas the cause of adult-onset asthma is more lung-centred and environmentally determined, but with immune-mediated mechanisms driving disease progression in both children and adults. Funding US National Institutes of Health. Copyright  2019 Elsevier Ltd. All rights reserved. Introduction Asthma is the most prevalent chronic respiratory disease  worldwide.1 The diagnosis of asthma is based on the",
+    "asthma has increased with alarming frequency in industrialized cities worldwide (e.g. Elias et al 2003). These diseases generally are complex, with clear contribu-tions of genetic background and exposure to environmental stimuli (see Kleeberger & Peden 2005). It is unlikely that the increased incidence in disease can be attributed only to genetics as increases in disease-causing genetic mutations to account for the increase would require multiple generations. Therefore the role of environmental exposures",
+    "living all represent risk factors for asthma, while early farm exposures and breastfeeding confer protective effects. Such observations have been assimilated into the hygiene hypothesis, rst set out in 1989 (136), positing that reduced early microbial exposure and its impacts on immunity underliethe postIndustrial Revolution atopy and asthma epidemic. Responsible for a transformation in our understanding of microbial factors in asthma has been a revolution of a different kind. Only",
+    "tobacco smoke exposure and with early-onset asthma (before age 4) [49/C15/C15]. Further studies of preschool asth- matics have shown the 17q21 variants are associated with an almost two-fold increased risk of developing recurrent wheeze, asthma, asthma exacerbations and bronchial hyper-responsiveness, but are not associated with eczema, rhinitis or allergic sensitization, indicating that they are specic determinants of nonatopic asthma in children [47].",
+    "for childhood-onset asthma supports the widely held idea that asthma in childhood is due to impaired barrier function in the skin and other epithelial surfaces. This model proposes that compromised epithelial barriers promote sensitisation to food and airway allergens and to wheezing illnesses in early life. 46,47 In fact, childhood  onset-specific loci identified in this study have been associated with atopic dermatitis or food allergies, such as FLG on 1q21.3 with the atopic march, 41 atopic",
+    "relation to asthma and other atopic diseases). The prompt in the asthma example came from the observation of the apparent effect of being reared in a farm envi-ronment. Of course, it was crucial to replicate that observation in different social contexts and it was also important to have some leverage on a likely biological mediating pathway (in that case exposure to endotoxins). Similarly, the G  E",
+    "[11] Shaaban R, Zureik M, Soussan D, Neukirch C, Heinrich J, Sunyer J, et al. Rhinitis and onset of asthma: a longitudinal population-based study. Lancet (London, England) 2008;372(9643):104957.  [12] de NijsSB, VenekampLN, BelEH. Adult-onset asthma: is it really different? Eur Respir Rev 2013;22(127):44.  [13] RackemannFM. Intrinsic asthma. J Allergy 1940;11(2):14762.  [14] JarvisD, NewsonR, LotvallJ, HastanD, TomassenP, KeilT, etal. Asthma in adults and its as -",
+    "GG19CH10_Cookson ARI 26 July 2018 9:47 Epigenetic Features of Asthma: Within the Lung A study of the epigenome in primary airway epithelial cells from 74 asthmatic and 41 non-asthmatic adults (111) revealed a regulatory locus on chromosome 17q1221 (the same locus identied by asthma GWASs) associated with asthma risk and epigenetic signatures of specic asthma endo-types. ORMDL3 expression was related to the differentially methylated region at this locus, while",
+    "studies have identied a range of pre-, peri-, and postnatal environmental factors, including modeof delivery, diet, and early lower respiratory tract infection, that confer relative risk or protection. Attempts to map the genetic architecture of asthma have identied a broad spectrum of potential contributory genes. Many of these genes demonstrate inconsistent patterns of replication betweencohorts, most likely reecting a combination of true positive and true negative results and the",
+    "49  Variants at those loci were all associated with earlier age of asthma onset. We further showed that these loci are associated with childhood-onset asthma, even after exclusion of patients with a history of allergic diseases in prespecified analyses, suggesting both a crucial role for the allergic diathesis in the development of asthma in childhood and a shared architecture between allergic disease and childhood-onset asthma. 33,46 By contrast, the enrichment for genes highly expressed"
+  ],
+  "answer": "The most cited environmental factor for the onset of asthma is exposure to tobacco smoke, particularly in early childhood [4]. Additionally, reduced early microbial exposure, as posited by the hygiene hypothesis, is also a significant environmental factor [3].",
+  "question": "What is the most cited environmental factor for the onset of asthma?"
+}

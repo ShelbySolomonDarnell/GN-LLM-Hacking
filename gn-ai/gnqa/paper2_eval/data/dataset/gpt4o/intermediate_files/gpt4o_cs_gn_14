@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+    "2017 - Systems Genetics Analysis to Identify the Genetic Modulation of a Glaucoma-Associated Gene.pdf",
+    "2015 - An atlas of genetic correlations across human diseases.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2021 - Old data and friends improve with age Advancements with the updated tools.pdf",
+    "2008 - Towards systems genetic analyses in barley Integration of phenotypic, expression and genotype data into GeneNetwork.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2020 -Highlights from the Era of Open Source Web-Based Tools.pdf"
+  ],
+  "extraction_id": [
+    "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+    "2455cf6d-4c9b-5272-8650-da127cc329e8",
+    "70e38f86-69b7-515d-919e-b8d93f5c709f",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "46f604d3-ba70-5cca-8466-21381131697e",
+    "a6c480d1-b384-5c6f-b21b-94fe0b3b0f4d",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a",
+    "14530ed7-e49e-5a1a-9df6-820c7495a8ce"
+  ],
+  "document_id": [
+    "76a715a4-8222-598b-8e65-6d5b6e807989",
+    "67e804db-8127-5938-8d7f-a5918cdf4f86",
+    "7b1f602b-1534-5465-b026-03dedf01352d",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "55cb2c81-b699-54df-96ab-2bf0b888031e",
+    "8513abbe-65ed-5f35-9f86-ba93cfc5a194",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104",
+    "f2f0dc2f-eaf5-57f6-9ffa-816d3fab6640"
+  ],
+  "id": [
+    "chatcmpl-AIGmJRrNQ5y45QTYEPosOFommIdfp",
+    "21936758-94b1-506f-9229-77e26001ae44",
+    "18c7c27b-b51f-5ab6-9d09-4235c57811b1",
+    "38f4e070-1a03-566c-b261-c61ed61963c1",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "ed2def7c-a3bb-5d45-ae88-5100874b0837",
+    "01a09a4e-3c30-53b1-8819-6085d4886079",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "a1124460-ae34-57fb-846b-e033f4bbf49c",
+    "7beda13b-1ea5-53c0-9380-72eee2df79fe"
+  ],
+  "contexts": [
+    "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes are two such examples of possible tools. For this study, we",
+    "genetics approaches can not only provide insights into the roles of  individual genes or developmental pathways but also illuminate  relationships between different levels of a biologic system, such as  the genome, transcriptome, and phenome [ 10]. One such resource  of systems genetics is the GeneNetwork website and resource  (www.genenetwork.org ) that provides access to a wide variety of  data such as genotypes (e.g., SNPs), phenotypes that are obtained",
+    "201 5Nature America, Inc.  All rights reserved. 6 ADVANCE ONLINE PUBLICATION  Nature Ge Neticsa n a ly s i s 11. Yang, J. et al. Common SNPs explain a large proportion of the heritability for human  height. Nat. Genet.  42, 565569 (2010). 12. Yang, J., Lee, S.H., Goddard, M.E. & Visscher, P.M. GCTA: a tool for genome-wide  complex trait analysis. Am. J. Hum. Genet.  88, 7682 (2011). 13. Lee, S.H., Yang, J., Goddard, M.E., Visscher, P.M. & Wray, N.R. Estimation of",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "medicine. GeneNetwork.org is a tool for quantitative genetics that started in 2001 as WebQTL [38]. It evolved from analyses of forward genetics in the BXD mouse family, to phenome-wide association studies and reverse genetics in a variety of species. Although GeneNetwork contains data for many species and populations, it most prominently contains data for the BXD family. Over 10,000 classical phenotypes, measured under a variety of environmental conditions, and",
+    "is shown in Figure 1A. Associations between transcript abundance, phenotypic traits and genotype can be estab- lished either using correlation or genetic linkage mapping functions [29,30]. The main page of GeneNetwork at http://www.genenetwork.org  provides access to subsets of data through pull-down menus that allow specific data sets to be queried. The datasets can be further restricted using a single text box for specific database entries to query probe set or trait ID, or annotations associated with",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the"
+  ],
+  "answer": "GeneNetwork.org can assist in understanding complex traits like height or intelligence through several key features:  1. **Analytical Tools and Data Sets**: GeneNetwork provides a variety of analytical tools that allow users to compare traits with numerous datasets available from other researchers. This includes microarray data of gene expression in the brain and other phenotypic data, which can be crucial for studying complex traits [1].  2. **Systems Genetics Approach**: The platform offers a systems genetics approach, which helps illuminate the relationships between different biological system levels, such as the genome, transcriptome, and phenome. This comprehensive view can provide insights into the roles of individual genes and developmental pathways involved in complex traits [2].  3. **Correlation and Genetic Linkage Mapping**: GeneNetwork allows for the establishment of associations between transcript abundance, phenotypic traits, and genotype using correlation or genetic linkage mapping functions. This can help identify genetic factors contributing to complex traits like height or intelligence [6].  4. **Data Mining and Trait Correlations**: The platform can be used to study correlations between traits and perform data mining in genomic regions containing candidates for quantitative trait genes. This feature is particularly useful for identifying genetic components of complex traits [4].  5. **Multi-Omics Analysis**: GeneNetwork has been updated to include multi-omics analysis, which integrates various types of biological data. This holistic approach can enhance the understanding of complex traits by considering multiple layers of biological information [7].  Overall, GeneNetwork.org provides a comprehensive suite of tools and data that can facilitate the exploration and understanding of complex traits like height and intelligence through a systems genetics framework.",
+  "question": "How can GeneNetwork.org help in understanding complex traits like height or intelligence?"
+}

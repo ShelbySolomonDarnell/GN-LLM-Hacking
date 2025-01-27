@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2018 - Sex Differences in Aging Genomic Instability.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2016 - Progress on the role of DNA methylation in aging.pdf",
+    "2001 - The genetics of aging.pdf",
+    "2011 - A genome-wide association study confirms APOE as the major gene influencing.pdf",
+    "2021 - Footprints in the Sand Deep Taxonomic Comparisons in Vertebrate Genomics to Unveil the Genetic Programs of Human Longevity.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2017 - Genome-wide transcriptomics of aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf"
+  ],
+  "extraction_id": [
+    "7ada6b55-99c2-5e20-bf96-d153f927256c",
+    "0104338d-cc9c-538f-be29-8343a64da37d",
+    "4ea8424f-1cd8-569c-a1df-3f0f54206e70",
+    "bcb3c620-b960-5af6-95ea-13215c31672e",
+    "76bae746-eabf-51ed-a01f-d32ecc89c11b",
+    "210aa417-372c-5bf6-b961-e281a1817458",
+    "34223e0e-590c-5f26-b120-b7250cd91b99",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "c7d6d597-a9c7-5db2-888d-5f9297f0af47",
+    "517379dd-d351-5e9a-8e78-72e543bb2945"
+  ],
+  "document_id": [
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "e4cdc02f-4415-5638-aab8-f848b4d64a22",
+    "aa9a9193-b6f3-5ef8-aefd-e01ec44abb46",
+    "63b27b06-db2c-5542-9b1a-cb9ebe64d339",
+    "0dc45abe-ab02-5b07-9916-7093b53323c0",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "1a2a3737-b0a6-58b9-908f-50753241a309",
+    "62b635c3-040e-512a-b016-6ef295308a1e"
+  ],
+  "id": [
+    "chatcmpl-AIFgRqvOB8PnpNpKMnpdr80oxf2MI",
+    "3117c019-7311-53ae-8ab1-927ca822c709",
+    "a9434032-4a9d-54f8-a7a6-16110d1b3118",
+    "a0672677-71ad-5603-8427-a0648eec407f",
+    "c1b5a31a-066d-571b-af1f-db746d9d17f6",
+    "e09c33ea-4139-5cc2-9cf5-a40045f26a0c",
+    "2d0a20b8-4196-5451-9d99-282f82234464",
+    "8bcb7ae0-ac45-5b4c-8a4b-626564e8ec11",
+    "786d2756-4c4d-5ac0-8d3d-63f914d51664",
+    "d811de8c-b666-5bb5-b0eb-a9b17fa16a8e",
+    "081e12f9-359c-5a2c-b740-714d637367d3"
+  ],
+  "contexts": [
+    "It is undisputed that genetic factors influence aging. In a remarkable",
+    "males: what are the molecular and evolutionary causes? Aging Cell. 2007;6:225233. doi:10.1111/j.1474-9726.2007.00279.x  63. Benayoun BA, Pollina EA, Brunet A. Epigenetic regulation of ageing: link- ing environmental inputs to genomic stability. Nat Rev Mol Cell Biol. 2015;16:593610. doi:10.1038/nrm4048  64. Sen P, Shah PP, Nativio R, Berger SL. Epigenetic mechanisms of longevity  and aging. Cell. 2016;166:822839. doi:10.1016/j.cell.2016.07.050",
+    "Clinical Genetics and Genomics of Aging",
+    "standing the cause and mechanisms of aging is imperative in assisting to suppress age-related diseases and promote healthylongevity. It is well-known that aging is influenced by a combin- ation of genetic and environmental factors. Previous twin stud- ies have shown that the genetic contribution to general human longevity is about 2030% [ 4,5], whereas environmental factors in human aging and longevity still account for the largest effect. Epigenetic factors influence the regulation of gene expres-",
+    "Recent developments on the genetics of aging can be seen as several streams of effort. In general, humans show a relatively modest ( <50%) heritability of",
+    "effect  genetic  variants  on  human  longevity.  Aging  2,  612620. Yu,  C.E.,  Seltman,  H.,  Peskind,  E.R.,  Galloway,  N.,  Zhou,  P.X.,  Rosenthal,  E.,  Wijsman, E.M.,  Tsuang,  D.W.,  Devlin,  B.,  Schellenberg,  G.D.,  2007.  Comprehensive  analysis of  APOE  and  selected  proximate  markers  for  late-onset  Alzheimers  disease: patterns  of  linkage  disequilibrium  and  disease/marker  association.  Genomics",
+    "factors shape a complex scenario for which clear answers of the regulation of longevity have been dicult to distill. With the discovery of genetic factors underlying aging in experimental laboratory models, forays into the genetic regulation of these properties have rapidly expanded, uncovering conserved mechanisms across diverse metazoa that inuence expression of aging phenotypes and lifespan. Yet, the story gets muddled in that these factors are often",
+    "In addition to aging- and CR-related genes, another source of candidate genes and pathways for drug designare human longevity-associated genes (Barzilai andShuldiner, 2001; Browner et al., 2004; Kenyon, 2010).Dozens of genes have now been associated with humanlongevity (de Magalha es et al., 2009a), although only ahandful of genes have been shown to have consistenteffects across populations. Many longevity-associated genes are related to spe-",
+    "tion for decades, the underlying molecular genetic causes of and responses to aging remain an area of active study. Research from model systems hascharacterized a range of physiological and molecular phenotypes associated with aging. These include genomic instability caused by accumulation of DNA damage, dysregulation of repair mechanisms, and telomere attri- tion; epigenetic alterations; dysregulation of transcription; loss of proteostasis; cellular senescence; and deregulated",
+    "143 The molecular bases of ageing are multi factorial, but there are nine distinctive  features related to this process, which include genomic instability, telomere shorten- ing, de-regulated nutrient sensing, mitochondrial dysfunction, cellular senescence,  stem cell exhaustion, altered cellular senescence, loss of proteostasis and a change  in the patterns of epigenetic modifications [4, 5].  Epigenetics andAgeing Epigenetics is considered as a dynamic interface between the genome and the envi-"
+  ],
+  "answer": "The main genetic factors that influence aging include:  1. **Genomic Instability**: Aging is associated with the accumulation of DNA damage and the dysregulation of repair mechanisms, leading to genomic instability [9].  2. **Telomere Attrition**: The shortening of telomeres, which are protective caps at the ends of chromosomes, is a significant factor in aging [9], [10].  3. **Epigenetic Alterations**: Changes in epigenetic marks, which regulate gene expression without altering the DNA sequence, play a crucial role in aging [2], [4], [9], [10].  4. **Deregulated Nutrient Sensing**: The pathways that sense and respond to nutrients become deregulated with age, affecting longevity [10].  5. **Mitochondrial Dysfunction**: Mitochondria, the energy-producing organelles in cells, become less efficient with age, contributing to the aging process [10].  6. **Cellular Senescence**: The process by which cells lose the ability to divide and function properly is a hallmark of aging [9], [10].  7. **Loss of Proteostasis**: The ability of cells to maintain protein homeostasis declines with age, leading to the accumulation of damaged proteins [9], [10].  8. **Stem Cell Exhaustion**: The decline in the regenerative capacity of stem cells contributes to aging [10].  These factors collectively shape the complex genetic landscape of aging, influencing the expression of aging phenotypes and lifespan [7].",
+  "question": "What are the main genetic factors that influence aging?"
+}

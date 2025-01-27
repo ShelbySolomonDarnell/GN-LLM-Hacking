@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2001 - Demography in the age of genomics.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2010 - A Meta-analysis of Four Genome-Wide Association Studies.pdf",
+    "2013 - Gene expression changes with age in skin.pdf",
+    "2017 - Genome-wide meta-analysis associates HLA.pdf",
+    "2012 - Genome-Wide RNAi Longevity Screens in Caenorhabditis elegans.pdf",
+    "2014 - Whole-Genome Sequencing of the World?s Oldest People.pdf",
+    "2017 - Four Genome-Wide Association Studies Identify New.pdf"
+  ],
+  "extraction_id": [
+    "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+    "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+    "0e71cb8b-4647-56bb-9b5f-d14d0ea2ff50",
+    "ead14808-bfb7-5e32-9830-28efaae71151",
+    "8bc54e5b-f45f-54f9-9591-1e26dd80b50d",
+    "18e9f96b-9af8-59bf-9323-084df9a4f9b6",
+    "c302507d-508e-5093-a877-1cec20f8440e",
+    "f160f818-03bf-5b4e-b1f4-bfbd3b0bfb99",
+    "eed176e2-226d-5638-b10c-4813cfbbd213",
+    "52557433-1cf1-5441-b44d-361963a61eca"
+  ],
+  "document_id": [
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "0f07fa43-feb6-5656-b7e7-b8faa86f5623",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "8e452186-a71c-5b62-81b2-7681c87c8e1d",
+    "5c121bbb-57b8-51cc-8461-effa1bfd87b9",
+    "3a565ba9-ee5b-5596-b870-ce8c055cb1f1",
+    "7589fec2-e893-5a4d-9f0c-09abb35858ab",
+    "d2a5ec28-873a-5ff3-9cf4-dbec3b52dd21",
+    "c10653f6-b3d7-5b92-9271-ab8fcc7905a7"
+  ],
+  "id": [
+    "chatcmpl-AIFgxEMof4wOrO9UyQT5bEPH8q8fk",
+    "9defe0af-80a1-56da-90df-551fd55baa13",
+    "4d6876c5-9226-587c-8d3e-d4957ee42dba",
+    "2f28f34e-bf5e-57d6-8a8c-dd946f574906",
+    "b3e21ac9-8df8-5119-a769-a9da82db78da",
+    "c2234f77-2268-57d0-a227-e931fc4802c1",
+    "cc78a209-081f-5e0c-877a-36b85d5105a6",
+    "726417dd-f626-5197-966d-6a6ad25ff718",
+    "300f0303-caec-52b9-852b-8e67cec5d326",
+    "025a94a9-595e-56f6-8c03-89ccea15a22c",
+    "68e705e1-54a1-578a-98ee-0c76b02ccf79"
+  ],
+  "contexts": [
+    "genes analyzed for their possible association with human lon-gevity (http://genomics.senescence.info/genes/longevity.html).All longevity association studies in humans we could find by thetime of the latest update were added to this list. These includestudies reporting negative results, which we see as essentialsince many genes display population-specific associations withlongevity. Fig. 1 From the main page of the Human Ageing",
+    "genes (http://genomics.senescence.info/genes/), more than700 genes have been identified that regulate lifespan inmodel organisms (de Magalha es et al., 2009a). Many ofthese genes and their associated pathwayssuch as theinsulin/IGF1/GH pathwayhave been shown to affect lon-gevity across different model organisms (Kenyon, 2010).Therefore, at least some mechanisms of aging are evolu-tionarily conserved and may have potential therapeuticapplications (Baur et al., 2006). For example, evidencesuggests the use of",
+    "Exceptional Longevity One approach to identifying genes associated with low mortality is to examine the genes of those who survive to the oldest ages.  Several studieshave examined gene frequencies among centenarians or nonagenariansand compared them with frequencies at younger ages.  Since changes ingene frequencies are more rapid when mortality rates are high, cross-sectional comparisons must be adjusted for differences in mortality amongcohorts.",
+    "informed by age-related disease identifies loci for exceptional human longevity. Li H, editor.  PLoS Genet. 2015. https://doi.org/10.1371/journal.pgen.  15. Polderman TJC, Benyamin B, de Leeuw CA, Sullivan PF, van Bochoven A, Visscher PM,  etal. Meta-analysis of the heritability of human traits based on fifty years of twin studies. Nat  Genet. 2015;47:7029.  16. Cellerino A, Ori A.What have we learned on aging from omics studies? Semin Cell Dev Biol.  2017;70:17789.",
+    "GENOME-WIDE ASSOCIATION STUDY OF LONGEVITY 479 INCREASES in longevity of the general population world - wide are an unprecedented phenomenon with significant  health and social impact. Although environmental factors  have led to an increase in life span, there is ample evidence  that genetic factors are involved in extreme longevity both  in humans (17) and in other organisms (8). The protective  genetic factors that lead to longevity are likely to involve",
+    "expression of certain genes have an effect upon longevity. Although similar aging processes are likely to operateacross multiple species [30], it has been much more diffi-cult to identify longevity candidate genes in human studies[30]. A key question in human aging is to what extent asignature of aging may be detectable across tissues. Until now there has been a lack of large transcriptional profiles from the same human individuals in multiple tissues. TheMuTHER study provides ins ight into the human aging",
+    "4. Joshi, P. K. et al. Variants near CHRNA3/5 and APOE have age- and sex- related effects on human lifespan. Nat. Commun. 7, 11174 (2016). 5. Pilling, L. C. et al. Human longevity is in uenced by many genetic variants: evidence from 75,000 UK Biobank participants. Aging 8, 547560 (2016). 6. Deelen, J. et al. Genome-wide association meta-analysis of human longevity identi es a novel locus conferring survival beyond 90 years of age. Hum. Mol. Genet. 23, 4420 4432 (2014).",
+    "79-91.  [97] Smith, E.D.; Kennedy, B.K.; Kaeberlein, M. Genome-wide  identification of conserved longevity genes in yeast and worms .  Mech. Ageing Dev. , 2007 , 128(1), 106-11.  [98] Chen, D.; Pan, K.Z.; Palter, J.E.; Kapahi, P. Longevity determined  by developmental arrest genes in Caenorhabditis elegans.  Aging  Cell, 2007 , 6(4), 525-33.  [99] Curran, S.P.; Ruvkun, G. Lifespan regulation by evolutionarily  conserved genes essential for viability . PLoS Genet. , 2007 , 3(4),  e56.",
+    "9. vB Hjelmborg J, Iachine I, Skytthe A, Vaupel JW, McGue M, et al. (2006) Genetic influence on human lifespan and longevity. Hum Genet 119: 312321.doi:10.1007/s00439-006-0144-y. 10. Sebastiani P, Perls TT (2012) The genetics of extreme longevity: lessons from the new England centenarian study. Front Genet 3: 277. doi:10.3389/fgene.2012.00277.11. Perls TT, Wilmoth J, Levenson R, Drinkwater M, Cohen M, et al. (2002) Life-",
+    "39. Fortney K, Dobriban E, Garagnani P, etal. Genome-wide scan informed by  age-related disease identifies loci for exceptional human longevity. PLoS Genet. 2015;11:e1005728. doi:10.1371/journal.pgen.1005728  40. Beekman M, Nederstigt C, Suchiman HE, et al. Genome-wide asso- ciation study (GWAS)-identified disease risk alleles do not compromise  human longevity. Proc Natl Acad Sci U S A. 2010;107:1804618049.  doi:10.1073/pnas.1003540107"
+  ],
+  "answer": "Yes, specific genes have been linked to longer lifespans. Research has identified more than 700 genes that regulate lifespan in model organisms, with many of these genes and their associated pathways, such as the insulin/IGF1/GH pathway, shown to affect longevity across different model organisms [2]. Additionally, variants near genes such as CHRNA3/5 and APOE have been found to have age- and sex-related effects on human lifespan [7]. Genome-wide association studies have also identified loci associated with exceptional human longevity [10].",
+  "question": "Are there specific genes that have been linked to longer lifespans?"
+}

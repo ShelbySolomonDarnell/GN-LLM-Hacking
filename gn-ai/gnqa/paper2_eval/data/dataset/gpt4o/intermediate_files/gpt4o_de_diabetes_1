@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2014 - Pathophysiology and treatment of type 2 diabetes.pdf",
+    "2009 - Metabolomics Applied to Diabetes Research.pdf",
+    "2014 - The potential of novel biomarkers to improve risk prediction of type 2 diabetes.pdf",
+    "2014 - Pathophysiology and treatment of type 2 diabetes.pdf",
+    "2016 - Genome-Wide Association Studies of Type 2 Diabetes.pdf",
+    "2013 - Variants of Insulin-Signaling Inhibitor Genes.pdf",
+    "2021 - A genome-wide association study identifies 5 loci associated with frozen shoulder and implicates diabetes as a causal risk factor.pdf",
+    "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+    "2014 - The potential of novel biomarkers to improve risk prediction of type 2 diabetes.pdf",
+    "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf"
+  ],
+  "extraction_id": [
+    "8b15673a-deaf-5e34-945c-ea2a1365552d",
+    "380e9a2e-8f9f-5f9e-ba20-3695b1c60fda",
+    "75485c9d-6c66-52fe-8fb1-e6d2440a7f49",
+    "8b15673a-deaf-5e34-945c-ea2a1365552d",
+    "7cec13b8-d349-5ea4-b866-17fc760d364c",
+    "f258a3c5-02d6-5f8f-a989-27f6c795145c",
+    "2052d37d-f778-53e2-a2f9-9e4311e8a953",
+    "97b6d492-9139-50ec-9685-53a803f5c995",
+    "496d9615-7530-530c-bea1-62fe63ea54ca",
+    "751ccb98-2846-5ca7-8ab8-2684100c28fa"
+  ],
+  "document_id": [
+    "ab9288ab-e3ad-58f1-b5ba-183ee17ce4bd",
+    "a6ae2fb6-88ae-588f-a98d-b6092f886ed9",
+    "2bc2f4be-378f-5ced-8288-e2a132a94540",
+    "ab9288ab-e3ad-58f1-b5ba-183ee17ce4bd",
+    "185aad8a-6a5b-5b18-81c4-ef251edef5e7",
+    "d43a59e8-fe3b-503a-863b-235af8790f2a",
+    "8276e137-4591-51bd-9351-f4d27d3b35da",
+    "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+    "2bc2f4be-378f-5ced-8288-e2a132a94540",
+    "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d"
+  ],
+  "id": [
+    "chatcmpl-AIHIPLyXp5Go74Qys43ojpQ0czAzb",
+    "012b6e5f-ab45-53aa-a392-45a46916e752",
+    "aaf89eb0-09a8-517d-b8ae-4e76a8211be6",
+    "6919bc75-2637-5359-9c05-96d192be8c4e",
+    "93455356-fe0b-58f4-9ae7-58f932d33560",
+    "cfc35db4-346c-55fd-b0bc-fa3cac307731",
+    "3b5c1a49-cb11-57ef-9046-e3c8f7af589e",
+    "b74d0bb9-eb0d-59bb-8a37-d3425d5591a2",
+    "ead10261-182f-5ab1-9af0-ce8a17677d4a",
+    "4971b4de-b190-56b5-b7b6-64b2c8e2a565",
+    "01a2230a-b91d-57b6-b138-7aae805f4383"
+  ],
+  "contexts": [
+    "proteomics, genomics, and transcriptomics) are based on the study of constituents of the cell or body in a collective way. The   ndings made with use of these approaches are being integrated to better understand the pathophysiology of type 2 diabetes and the heterogeneity of responses to di  erent glucose-lowering therapies. Findings from studies that used metabolomics and lipidomics showed that increases in branched-chain and aromatic aminoacids were associated with obesity and type 2 diabetes.",
+    "Metabolomics Applied to Diabetes Research Moving From Information to Knowledge James R. Bain, Robert D. Stevens, Brett R. Wenner, Olga Ilkayeva, Deborah M. Muoio, and Christopher B. Newgard Type 2 diabetes is caused by a complex set of interactions between genetic and environmentalfactors. Recent work has shown that human type2 diabetes is a constellation of disorders associ- ated with polymorphisms in a wide array of genes, witheach individual gene accounting for /H110211% of disease risk",
+    "between protein signals and type 2 diabetes incidence. Acta Diabetol. doi: 10.1007/s00592-012-0376-3 82. Bain JR, Stevens RD, Wenner BR, Ilkayeva O, Muoio DM, Newgard CB (2009) Metabolomics applied to diabetes re-search: moving from information to knowledge. Diabetes 58: 2429 244383. Suhre K, Meisinger C, Dring A et al (2011) Metabolic footprint of diabetes: a multiplatform metabolomics study in an epidemiological setting. PLoS One 5:e13953",
+    "The future: genetics, epigenetics, and omics Although understanding of the genetics of type 2 diabetes has advanced rapidly, much remains unknown. How genes interact with the environment to cause progressive loss of -cell function is unclear. Environmental factors and hyperglycaemia could contribute to epigenetic changes in DNA and histones, thereby modifying gene expression in organs implicated in the pathogenesis and progression of type 2 diabetes, including in  cells. 82,83",
+    "potential to make far-reaching contributions to our understanding of molecular basis of T2D and the development of novel strategies for patient care. 2.1 Introduction Type 2 diabetes (T2D) is a common, chronic disorder whose prevalence is increas-ing rapidly across the globe. Like other complex diseases, T2D represents achallenge for genetic studies aiming to uncover the underlying pathophysiological mechanisms. It is predicted that T2D will affect 592 million individuals by 2035",
+    "inthepathogenesisoftype2diabetesandmetabolism, Current Opinion in Clinical Nutrition and Metabolic Care ,vol.10,no .4, pp .420426,2007 . [110] M.C.Cornelis,E.J.T.Tchetgen,L.Liangetal.,Gene-environ- ment interactions in genome-wide association studies: a com- parative study of tests applied to empirical studies of type 2 diabetes, American Journal of Epidemiology ,v o l.17 5,no .3,p p . 191202,2012. [111] M.L.Metzker,Sequencingtechnologiesthenextgeneration, Nature Reviews Genetics ,vol.11,no.1,pp.3146,2010.",
+    "meta-ana lysis provides insight intothegenetic architecture oftype2diabetes susceptibility. NatGenet. 2014; 46:234 244. https://doi.or g/10.103 8/ng.2897 PMID: 24509480 26. Morris AP,Voight BF,Teslovich TM,Ferreira T,Segr A-V, Steinthorsdot tirV,etal.Large-sc aleassoci- ation analysis provide sinsights intothegenetic architecture andpathophysi ology oftype2diabetes. NatGenet. 2012; 44:981 990. https://doi.or g/10.103 8/ng.2383 PMID: 228859 22",
+    "monitoring and preventing progression to costly co-morbidities. The principal concept of metabolomics being able to find some metabolites differing in a control and a type 2 diabetic group is established. It is not our goal here to show this once again. The questions we ask are rather How well are different approaches suited to attain this goal? and What are optimal settings under which such studies can be successful?. Others have already investigated these questions before [16,17,18]. However, we",
+    "Owing to current advances in -omics technologies, such as genomics, transcriptomics, proteomics and metabolomics, the number of candidate biomarkers keeps growing; however, only a small proportion of these has been investigated withreference to their potential to improve the prediction of type 2 diabetes. Genetic variants The heritability of glycaemic traits and type 2 diabetes is high [40], and the large genome-wide association studies published to date since the first in 2007, based on up to >10 5study",
+    "have improved our understanding of the complexity of  T2DM pathophysiology, beyond the classic triumvirate of  -cell, skeletal muscle and liver87. However, the ability of  these biomarkers to predict future risk of T2DM beyond  anthropometric measures, lifestyle factors and fasting  levels of glucose and lipids is still debatable87. Within the past 7years, a complementary, novel set of  T2DM biomarkers has largely been generated by metabo- lomic studies, which systematically analyse metabolites"
+  ],
+  "answer": "Recent advancements in multi-omics approaches, including proteomics and metabolomics, have significantly enhanced our understanding of the pathogenesis of Type 2 diabetes (T2D). These approaches allow for a comprehensive analysis of the molecular components involved in T2D, providing insights into the disease's complexity and heterogeneity.  1. **Integration of Omics Data**: The integration of data from proteomics, genomics, and transcriptomics helps in understanding the pathophysiology of T2D and the varied responses to different glucose-lowering therapies. This holistic view is crucial for identifying the molecular underpinnings of T2D and tailoring personalized treatment strategies [1].  2. **Metabolomics Insights**: Metabolomics studies have identified specific metabolites, such as branched-chain and aromatic amino acids, that are associated with obesity and T2D. These findings suggest that metabolic alterations play a significant role in the development of T2D, offering potential targets for therapeutic intervention [1].  3. **Complex Interactions**: T2D is caused by complex interactions between genetic and environmental factors. Metabolomics has helped elucidate these interactions by identifying metabolic footprints associated with T2D, thus moving from mere information gathering to actionable knowledge [2], [3].  4. **Biomarker Discovery**: Advances in omics technologies have led to the discovery of numerous candidate biomarkers for T2D. Although only a small proportion of these biomarkers have been thoroughly investigated, they hold promise for improving the prediction and management of T2D [9].  5. **Beyond Traditional Models**: The use of metabolomics has expanded our understanding of T2D beyond traditional models focused on the pancreas, liver, and muscle. This broader perspective is essential for developing more effective prevention and treatment strategies [10].  Overall, these advancements in multi-omics approaches provide a more detailed and nuanced understanding of T2D pathogenesis, paving the way for improved diagnostic and therapeutic options.",
+  "question": "How do recent advancements in multi-omics approaches, including proteomics and metabolomics, contribute to our understanding of Type 2 diabetes pathogenesis?"
+}

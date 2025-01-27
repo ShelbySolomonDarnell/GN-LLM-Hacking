@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "1998 - Neurodegeneration and Aging Role.pdf",
+    "1998 - Neurodegeneration and Aging Role.pdf",
+    "1998 - Neurodegeneration and Aging Role.pdf",
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2002 - Genomic Medicine - A Primer.pdf",
+    "2001 - Mitochondrial genome instability in human cancers.pdf",
+    "2005 - The mitochondrial genome in human adaptive radiation and disease.pdf",
+    "2015 - Altered Levels of Mitochondrial DNA.pdf"
+  ],
+  "extraction_id": [
+    "ceaf66e9-9822-5f7e-84b7-c687982f63e1",
+    "ceaf66e9-9822-5f7e-84b7-c687982f63e1",
+    "ceaf66e9-9822-5f7e-84b7-c687982f63e1",
+    "fa1dc2c0-8cc1-53e1-ad3e-8037506ec897",
+    "9c7f0bf0-7180-587e-a852-1187f18c2aea",
+    "472c8adc-54e7-5c27-a7b8-882b7e49cd2b",
+    "8e4ad64b-5541-52aa-bcd0-d61a8add4662",
+    "e79c57f4-e46b-5d8a-b9f3-2ee45c27349f",
+    "2f3c7ffe-45b9-5437-89cf-5fb7bbadc3d5",
+    "f85318e1-8e21-512e-8805-ade90e5232d0"
+  ],
+  "document_id": [
+    "694c44f3-6025-5a2c-9c72-d9c5f16c8b85",
+    "694c44f3-6025-5a2c-9c72-d9c5f16c8b85",
+    "694c44f3-6025-5a2c-9c72-d9c5f16c8b85",
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "a55c57bb-56e9-5218-ae80-66ee7aa93ae5",
+    "1a8d11d4-c469-5c5c-80a6-3800615dac43",
+    "c157cd40-1e5f-5ddb-b9cf-7927d8f2ee7b",
+    "ee28bbbd-66e4-5d9e-abcb-41cd89fcae22"
+  ],
+  "id": [
+    "chatcmpl-ADZ9W7mSuiYhzAdBeFHuooWOpJA78",
+    "bdba9fea-2d0e-534e-9f32-688e499ec4dc",
+    "bbf1b1b5-873d-51cb-ada1-000a02458e32",
+    "b452f309-162e-5611-87c2-6907fd854ebf",
+    "a2eaf128-38b1-592d-b340-79ff1333c36e",
+    "e134edd5-f5f0-54d7-bc05-991f3d930de4",
+    "99a2cfc1-5a54-53af-b2a4-4c274e1d5ef1",
+    "a7a9acf4-c7c3-5b14-b40f-6667f32f74ab",
+    "6baf04ee-578e-5c53-9751-46241804e085",
+    "2570a50b-982d-5a2d-b5c1-c10e2fbcaed2",
+    "9c8c7e6b-7701-5a5e-a3e9-0b22eb29c099"
+  ],
+  "contexts": [
+    "drial DNA sequence variation seems impossible withoutan understanding of some important differences betweennuclear and mitochondrial genetics (Table I). Mitochon-drial DNA replicates autonomously and is inherited viathe cytoplasm of the parent cell with the individualmitochondrion being the segregating unit (Attardi et al.,1995). Thus, in the case of mitochondrial mutations bothmutated as well as normal mitochondria may be presentwithin the same cell. This situation has been termedheteroplasmy and can",
+    "cMitochondria are semiautonomous organelles; possess their own replication-, transcription- and translation system cExclusively maternal inheritance of mitochondrial DNA cMitotic segregation of mitochondrial DNAcan lead to hetero- plasmy, i.e., the proportion of genetically different populations ofmitochondria differs between generations of mitotically activecells cApproximately tenfold higher mutation rate compared with nuclear",
+    "DIFFERENCES BETWEEN MITOCHONDRIAL AND NUCLEAR GENETICS Arealisticassessmentoftherelevanceofmitochon-",
+    "In the fifth mode of inheritance, the disease mutation lies not on a chromosome in the nucleus but rather in mitochondrial DNA outside the nucleus. Mitochondria are inherited exclu- sively from an offsprings mother; because of this phenome- non, the mutation and thus the disease can be passed only from a mother to her offspring. This is maternal inheritance, also known as extranuclear inheritance (Figure 11). Representative disorders include various mitochondrial myopathies.",
+    "The regulation of the mitochondrial genome also reflects  its prokaryotic ancestry. While nuclear DNA undergoes replication during cell division, mtDNA replication occurs independently of cell cycle. The majority of the compo-nents for mtDNA replication are imported nuclear-encoded proteins, including the catalytic subunit of mtDNA poly -",
+    "Unlike the nuclear genome, which requires both paternal and maternal contributions, mtDNA is inherited solely from the maternal lineage. It is unclear what advantage a uniparental mtDNA transmission confers, but one possibil-ity is to minimize the number of distinct genomes to maxi-mize the efficiency of a multi-genomic system (Hill etal. 2019). In fact, humans have developed complex, redundant mechanisms to ensure uniparental inheritance of mtDNA (DeLuca and OFarrell 2012; Rojansky etal. 2016). Paternal",
+    "mitochondria and sperm are not, mitochondrial DNAis usually inherited from the mother. Therefore, mito-chondrial genes  and diseases due to DNA-sequencevariants in them  are transmitted in a matrilineal pat-tern that is distinctly different from the pattern of in-heritance of nuclear genes.  MONOGENIC CONDITIONS  Over the course of the 20th century, a combination",
+    "2. Mitochondrial DNA structure and properties Mitochondrial genomes (mt-genomes) are short circular molecules that, with the exception of viruses,represent the most economically packed forms ofDNA in the whole biosphere. The human mt-genomeis only 16,569bp long [9]; within this extension, wend the coding sequences for seven subunits of theNADH-ubiquitone reductase (respiratory complex I),the apocytochrome bof the ubiquitone cytochrome creductase (respiratory complex III), three subunits",
+    "Abstract The human mitochondrial genome consists of approximately 1500 genes, 37 encoded by the maternally inherited mitochondrial DNA (mtDNA) and the remainder encoded in the nuclear DNA (nDNA). The mtDNA is present in thousands of copies per cell and encodes",
+    "(mtDNA). MtDNA carries important genetic information concerning cellular metabolismand the generation of energy. It has been suggested that mitochondria and mtDNA could be of significance during early embryo development. Our work confirms this hypothesis. Specif- ically, our findings implicate mitochondria and their genome in female reproductive agingand the generation of embryonic chromosome abnormalities. Importantly, we describe a di-"
+  ],
+  "answer": "Mitochondrial DNA (mtDNA) plays a unique role in heredity and differs significantly from nuclear DNA (nDNA) in several ways:  1. **Inheritance Pattern**: Mitochondrial DNA is inherited exclusively from the mother, a phenomenon known as maternal or extranuclear inheritance [4], [6], [7]. This contrasts with nuclear DNA, which is inherited from both parents.  2. **Replication and Segregation**: mtDNA replicates autonomously and independently of the cell cycle, unlike nuclear DNA which replicates during cell division [1], [5]. Mitochondria are semiautonomous organelles with their own replication, transcription, and translation systems [2].  3. **Genetic Variation and Mutation Rate**: Mitochondrial DNA has a higher mutation rate compared to nuclear DNA, approximately tenfold higher [2]. This can lead to a condition called heteroplasmy, where both mutated and normal mitochondria coexist within the same cell [1], [2].  4. **Structure and Size**: The mitochondrial genome is a short circular molecule, significantly smaller than the nuclear genome. The human mitochondrial genome is only 16,569 base pairs long and encodes 37 genes, whereas the nuclear genome consists of approximately 1500 genes related to mitochondrial function [8], [9].  5. **Functional Role**: mtDNA carries essential genetic information for cellular metabolism and energy generation, which is crucial for the functioning of the cell [10]. This is distinct from the broader range of functions encoded by nuclear DNA.  In summary, mitochondrial DNA is maternally inherited, replicates independently, has a higher mutation rate, and is structurally distinct from nuclear DNA. These differences underscore the unique role of mtDNA in heredity and cellular function.",
+  "question": "Describe the role of mitochondrial DNA in heredity and how it differs from nuclear DNA."
+}

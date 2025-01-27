@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2010 - Pharmacogenetics of Anti-Diabetes Drugs.pdf",
+    "2008 - Clinical Risk Factors, DNA Variants.pdf",
+    "2010 - Diabetes in Asia.pdf",
+    "2015 -precision-medicine-for-managing-diabetes.pdf",
+    "2010 - Diabetes in Asia.pdf",
+    "2003 - Genome-wide screen in obese pedigrees with type 2 diabetes.pdf",
+    "2010 - Diabetes in Asia.pdf",
+    "2018 - Quantitative Relationship Between Cumulative Risk Alleles Based.pdf",
+    "2018 - Genetic variants of gestational diabetes mellitus a study of 112 SNPs among 8722 women in two independent populations.pdf"
+  ],
+  "extraction_id": [
+    "d7bd898b-1d46-557a-b065-f94fc5310b2a",
+    "73e1aaff-7ef6-5ca2-9c94-23f5674a4f88",
+    "2643b341-8c50-5cea-af36-86a8b070a80e",
+    "11faf4fe-7b71-562e-9901-c428ab20b285",
+    "f53ccf4e-f47f-5b44-8b41-f7068efc8be3",
+    "11faf4fe-7b71-562e-9901-c428ab20b285",
+    "1110f7b4-ab5a-5b41-b37d-a992b29cb20c",
+    "e99fe157-eda9-5e56-9ec9-8f428de2a161",
+    "6db9f25e-36fd-51c0-be36-6dfacd963b1b",
+    "f6de8981-a79b-5817-b688-a20f76bff86c"
+  ],
+  "document_id": [
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "ffeebaf9-ff76-5751-9b8b-7a2a4a4f1dc3",
+    "0018610a-9c86-5e2d-a27d-f66cf4f8519d",
+    "0be842b8-7f69-503b-baed-c336e5c834d6",
+    "80949bab-d085-5f61-b98a-4bee043bc4e2",
+    "0be842b8-7f69-503b-baed-c336e5c834d6",
+    "335a3c08-14d3-5511-ab84-340e64c6f993",
+    "0be842b8-7f69-503b-baed-c336e5c834d6",
+    "d585896e-1c32-51cb-827d-e4fd3b3943f3",
+    "3b301dd1-17bd-5632-9a96-d6294c6d7650"
+  ],
+  "id": [
+    "chatcmpl-AIFqUmWTKdcimZ6Y2TYtW6SieUkPG",
+    "47e8bd94-fd61-57f2-b1d0-cc139d71936a",
+    "437a7129-63b8-5f34-8273-2eef9535e987",
+    "aa72551a-ac0c-5d7d-8057-34f229f68eb1",
+    "461b6f32-4dd8-5dc1-b69f-134f949fc021",
+    "263dc0cb-dfa0-5ee2-b927-f9a196294d46",
+    "78d81651-7215-596a-b128-37e429dc7edb",
+    "b0d3a09d-36a3-5c6e-a110-3fccddaa74b7",
+    "e6c0f12d-8136-5a16-b77c-88dd17c3a212",
+    "d632d486-4e04-5c2d-9cf0-9d614453cab3",
+    "e1ba568f-cc08-549a-9c87-a23285c3b5dc"
+  ],
+  "contexts": [
+    "of Diabetes   Results of several genome-wide association stud- ies (GWAS) have linked the following common gene variants with a 1520% increased risk of diabetes: reduced insulin secretion via reduce beta-cell mass (CDKAL1, CDKN2A, CDKN2B) and beta-cell dysfunction (MTNR1B, TCF7L2, KCNJ11) and increased insulin resistance related to obesity (FTO) and unrelated to obesity (IRS1, PPARG) [  11 ]. While most of the early studies",
+    "gene are associated with NIDDM in Caucasians. Diabetes 1996 , 45, 825-831.  46.  Tarasov, A.I.; Nicolson, T.J. ; Riveline, J.P.; Taneja, T.K. ; Baldwin, S.A.; Baldwin, J.M.;  Charpentier, G.; Gautier, J.F. ; Froguel, P.; Vaxillaire, M.; et al.  A rare mutation in ABCC8/SUR1  leading to altered ATP-sensitive K+ channel activ ity and beta-cell glucose sensing is associated  with type 2 diabetes in adults. Diabetes 2008 , 57, 1595-1604.",
+    "ly associated with type 2 diabetes: TCF7L2, KCNJ11,   and PPARG . 5-7 However, in 2007, a number of novel  genetic variants ( CDKAL1, IGF2BP2,  the locus on  chromosome 9 close to CDKN2A/CDKN2B, FTO,  HHEX, SLC30A8,  and WFS1)8-14 were shown to in - crease susceptibility to type 2 diabetes in repro - ducible studies. Furthermore, a recent meta-analy - sis identified six novel variants ( JAZF1, CDC123/ CAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, and NOTCH2 ) that are associated with type 2 dia - betes. 15",
+    "CDKAL1 in  uences insulin response and risk of type 2 diabetes. Nat Genet 2007; 39: 77075. 69 Wu Y , Li H, Loos RJ, et al. Common variants in CDKAL1, CDKN2A/ B, IGF2BP2, SLC30A8, and HHEX/IDE genes are associated with type 2 diabetes and impaired fasting glucose in a Chinese Han population. Diabetes 2008; 57: 283442. 70 Sandhu MS, Weedon MN, Fawcett KA, et al. Common variants in  WFS1 confer risk of type 2 diabetes. Nat Genet 2007; 39: 95153.",
+    "Genes signifying increased risk for both type 1 and type 2 dia-betes have been identified. Genomewide association studies have identified over 50 loci associated with an increased genetic risk of type 1 diabetes. Several T1D candidate genes for increased risk of developing type 1 diabetes have been sug-gested or identified within these regions, but the molecular basis by which they contribute to islet cell inflammation and beta cell destruction is not fully understood. 12 Also, several",
+    "associated with susceptibility to type 2 diabetes mellitus. Nat Genet 2008; 40: 109297 . 74 Unoki H, Takahashi A, Kawaguchi T, et al. SNPs in KCNQ1 are  associated with susceptibility to type 2 diabetes in East Asian and European populations. Nat Genet 2008; 40: 1098102. 75 Lyssenko V, Lupi R, Marchetti P, et al. Mechanisms by which  common variants in the TCF7L2 gene increase risk of type 2 diabetes. J Clin Invest 2007; 117: 215563.  76 Lyssenko V, Jonsson A, Almgren P, et al. Clinical risk factors, DNA",
+    "type 2 diabetes or the inability to replicate linkage withdened loci. However, at least one susceptibility gene, namelyCAPN10, was found using a genome-wide scan approach [3]. Obesity is the greatest risk factor for type 2 diabetes mellitus, as it is known to induce insulin resistance via variousmechanisms ( TNF     release, free fatty acids, etc.). Both",
+    "50 most cases of type 2 diabetes are thought to be  due to genetic variations that are more common but exert less e  ect. In early studies, genetic variants in the peroxisome proliferator-activated receptor- gene (PPARG) 51 and the ATP-sensitive potassium channel  Kir62 (KCNJ11) were reproducibly associated with type 2 diabetes. 52 In Asian populations, the protective e  ect of  the PPARG*A12Ala allele on insulin resistance and risk of type 2 diabetes was not consistently seen. 53",
+    "49. Cornelis MC, Qi L, Zhang C, et al. Joint e ects of common genetic variants on the risk for type 2 diabetes in U.S. men and women ofEuropean ancestry. Ann Intern Med . 2009;150:541 550(in eng). 50. Hu C, Zhang R, Wang C, et al. PPARG, KCNJ11, CDKAL1, CDKN2A-CDKN2B, IDE-KIF11-HHEX, IGF2BP2 and SLC30A8are associated with type 2 diabetes in a Chinese population. PLoS One. 2009;4:e7643 (in eng). 51. Lin X, Song K, Lim N, et al. Risk prediction of prevalent diabetes in",
+    "46. Sladek R, Rocheleau G, Rung J et al (2007) A genome-wide asso- ciation study identifies novel risk loci for type 2 diabetes. Nature 445:881 885 47. Lauenborg J, Grarup N, Damm P et al (2009) Common type 2 diabetes risk gene variants associate with gestational diabetes. J Clin Endocrinol Metab 94:145 150 48. Florez JC, Jablonski KA, Bayley N et al (2006) TCF7L2 polymor- phisms and progression to diabetes in the Diabetes Prevention Program. N Engl J Med 355:241 250"
+  ],
+  "answer": "The genes most commonly associated with an increased risk of developing diabetes, particularly type 2 diabetes, include:  1. **CDKAL1, CDKN2A, CDKN2B** - These genes are linked to reduced insulin secretion via reduced beta-cell mass [1]. 2. **MTNR1B, TCF7L2, KCNJ11** - These genes are associated with beta-cell dysfunction [1]. 3. **FTO** - This gene is related to increased insulin resistance associated with obesity [1]. 4. **IRS1, PPARG** - These genes are related to increased insulin resistance unrelated to obesity [1]. 5. **IGF2BP2, HHEX, SLC30A8, WFS1** - These genes have been shown to increase susceptibility to type 2 diabetes in reproducible studies [3]. 6. **JAZF1, CDC123/CAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, NOTCH2** - These are additional variants identified in a recent meta-analysis as being associated with type 2 diabetes [3]. 7. **KCNQ1** - This gene is associated with susceptibility to type 2 diabetes in East Asian and European populations [6].  These genes have been identified through various genome-wide association studies (GWAS) and other genetic research efforts.",
+  "question": "What genes are most commonly associated with an increased risk of developing diabetes?"
+}

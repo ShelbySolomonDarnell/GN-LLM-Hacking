@@ -1,0 +1,140 @@
+{
+    "created_at": "2024-04-01T12:04:13.564651Z",
+    "data": {
+        "amplify": false,
+        "answer": "1. Start with an initial linkage or association: This is the first step in a genetic study where a trait or disease is linked to a specific region of the genome.\n\n2. Perform Laboratory Genotyping: This involves determining the genetic variation of an individual by examining their DNA sequence using biological assays and comparing it to a standard sequence.\n\n3. Use Genomic Sequence: The role of genomic sequence is crucial at every stage. It serves as a common thread that ties all the stages together.\n\n4. Establish True Orthology: Determine the true orthology between genes in different species. If two genes are truly orthologous, their evolution closely follows patterns of speciation.\n\n5. Apply Bioinformatics: Use bioinformatics tools and techniques to analyze the data. This can be applied to sequence data from any collection of organisms.\n\n6. Understand Genome Structure and Content: Provide an overview of genome structure and content to provide a context for subsequent discussions.\n\n7. Improve DNA Sequencing Methods: Constantly work on improving DNA sequencing methods with the ultimate goal of sequencing a human genome in a single day for a cost of about US $1,000.\n\n8. Interpret the Information: The major challenge ahead is the interpretation of this information. Understand how our genes interact with each other, and how the environment contributes to the development of health and disease.\n\n9. Consider the Implications: Understand the individual and societal implications of knowing our genome sequence.\n\n10. Keep Up with Technological Advances: With further technological advances, other previously unimaginable research approaches will become real.",
+        "context": {
+            "1f5f2923-ca25-496c-b70e-5d15825c5575": [
+                {
+                    "document_id": "1f5f2923-ca25-496c-b70e-5d15825c5575",
+                    "text": "\n\nTo overcome the lack of phenotypic information in the 1000 Genomes Project, The ClinSeq Project was developed to pilot large-scale genome sequencing for research in genomic medicine at the National Institutes of Health Clinical Research Center in Bethesda, MD. 40 The study seeks to enroll 1000 individuals who will be evaluated for personal health status and family history.The project aims to:"
+                }
+            ],
+            "58714c13-954b-46b3-bd0e-69ccadd9dc6a": [
+                {
+                    "document_id": "58714c13-954b-46b3-bd0e-69ccadd9dc6a",
+                    "text": "We (Hein, Schierup and Wiuf) have published a\n300 page book on molecular population genetics titled “Gene Genealogies, Sequence Variation and Evolution” Oxford\nUniversity Press, and are presently developing a tutorial in association mapping that we hope to publish as a booklet in\n2006 and are also involved in a very large EU collaboration (Holland, Denmark, Iceland and UK) to find susceptibility\ngenes for breast and prostate cancer. In comparative genomics, the most fundamental investigation is to find genes in a pair of aligned genomes."
+                }
+            ],
+            "5edf84d0-c2d9-45eb-91b9-c35743b6a463": [
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "Key bioinformatic steps to\ntake a genetic study from an initial linkage or association to laboratory genotyping are illustrated. The reader should note the role of genomic sequence as a common thread through every stage\n\nregions in man (see Chapter 5). Similar issues also exist in the establishment of\ntrue orthology between genes in different species, where one is identified to play a\nrole in a disease model. If two genes are truly orthologous, their evolution closely\nfollows patterns of speciation (Fitch, 2000)."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text":"In general terms, the approaches we describe can be applied to sequence data from any collection of organisms, but our emphasis here is primarily on\nBioinformatics for Geneticists, Second Edition. Edited by Michael R. Barnes\n2007 John Wiley & Sons, Ltd ISBN 978-0-470-02619-9 (HB) ISBN 978-0-470-02620-5 (PB)\n\n␂\nC\n106\n\nCH 6 COMPARATIVE GENOMICS\n\nquestions of relevance to human genetics. We begin, in Section 6.2 by presenting an\noverview of genome structure and content, providing a context for the subsequent\ndiscussions."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                },
+                {
+                    "document_id": "5edf84d0-c2d9-45eb-91b9-c35743b6a463",
+                    "text":"This fully indexed but semi-intelligible\n\nBioinformatics for Geneticists, Second Edition. Edited by Michael R. Barnes\n2007 John Wiley & Sons, Ltd ISBN 978-0-470-02619-9 (HB) ISBN 978-0-470-02620-5 (PB)\n\n␂\nC\n4\n\nCH 1 BIOINFORMATICS CHALLENGES FOR THE GENETICIST\n\n‘book of life’ immediately began to serve as a valuable framework for integration of\ngenetic and biological data. However, knowledge of the genome sequence did not\nimmediately clarify the nature and structure of human genetic variation."
+                }
+            ],
+            "96f13e8e-633e-4728-853f-81ffbad6c58a": [
+                {
+                    "document_id": "96f13e8e-633e-4728-853f-81ffbad6c58a",
+                    "text": "\n\nMethods for DNA sequencing are constantly being improved, with the ultimate goal of sequencing a human genome in a single day for a cost of about US $1,000, an end that appears to be in sight (Hayden, 2014).In the very near future, whole-genome sequencing will be routinely available for clinical purposes, perhaps even beginning at birth.The major challenge ahead is the interpretation of this information.How do our genes interact with each other, and how does the environment contribute to the development of health and disease?What are the individual and societal implications of knowing our genome sequence?The answers to these and other important questions will unfold in the years ahead.Thus, we are truly in an era where precision medicine may soon become a reality."
+                }
+            ],
+            "a83987ea-607c-4952-a1cc-69c6f193ba2a": [
+                {
+                    "document_id": "a83987ea-607c-4952-a1cc-69c6f193ba2a",
+                    "text": "\n\nCharacteristics of genotyping and sequencing technologies"
+                }
+            ],
+            "c12e853e-4f0d-48f9-93af-15db9ad2dfae": [
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "Key bioinformatic steps to\ntake a genetic study from an initial linkage or association to laboratory genotyping are illustrated. The reader should note the role of genomic sequence as a common thread through every stage\n\nregions in man (see Chapter 5). Similar issues also exist in the establishment of\ntrue orthology between genes in different species, where one is identified to play a\nrole in a disease model. If two genes are truly orthologous, their evolution closely\nfollows patterns of speciation (Fitch, 2000)."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text":"In general terms, the approaches we describe can be applied to sequence data from any collection of organisms, but our emphasis here is primarily on\nBioinformatics for Geneticists, Second Edition. Edited by Michael R. Barnes\n2007 John Wiley & Sons, Ltd ISBN 978-0-470-02619-9 (HB) ISBN 978-0-470-02620-5 (PB)\n\n␂\nC\n106\n\nCH 6 COMPARATIVE GENOMICS\n\nquestions of relevance to human genetics. We begin, in Section 6.2 by presenting an\noverview of genome structure and content, providing a context for the subsequent\ndiscussions."
+                },
+                {
+                    "document_id": "c12e853e-4f0d-48f9-93af-15db9ad2dfae",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                }
+            ],
+            "e074ba47-cd7a-4bb2-8bcb-9a15da69cc2d": [
+                {
+                    "document_id": "e074ba47-cd7a-4bb2-8bcb-9a15da69cc2d",
+                    "text": "Introduction\n\nSince the first human genome was sequenced at an estimated cost of $150 million,\nseveral advanced high-throughput techniques – some with lower costs - have come up. At\nthe same time, this resulted in a data deluge and a critical need to connect the\nheterogeneous sequencing data and associated annotations – structural and functional with the basic tenets of biology or molecular basis of development and disease."
+                }
+            ],
+            "f35e02a1-3314-4663-913f-38a3fc072aa8": [
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "Key bioinformatic steps to\ntake a genetic study from an initial linkage or association to laboratory genotyping are illustrated. The reader should note the role of genomic sequence as a common thread through every stage\n\nregions in man (see Chapter 5). Similar issues also exist in the establishment of\ntrue orthology between genes in different species, where one is identified to play a\nrole in a disease model. If two genes are truly orthologous, their evolution closely\nfollows patterns of speciation (Fitch, 2000)."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text":"In general terms, the approaches we describe can be applied to sequence data from any collection of organisms, but our emphasis here is primarily on\nBioinformatics for Geneticists, Second Edition. Edited by Michael R. Barnes\n2007 John Wiley & Sons, Ltd ISBN 978-0-470-02619-9 (HB) ISBN 978-0-470-02620-5 (PB)\n\n␂\nC\n106\n\nCH 6 COMPARATIVE GENOMICS\n\nquestions of relevance to human genetics. We begin, in Section 6.2 by presenting an\noverview of genome structure and content, providing a context for the subsequent\ndiscussions."
+                },
+                {
+                    "document_id": "f35e02a1-3314-4663-913f-38a3fc072aa8",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                }
+            ],
+            "f8659e89-3f2f-4c83-8069-f015862b7377": [
+                {
+                    "document_id": "f8659e89-3f2f-4c83-8069-f015862b7377",
+                    "text": "\n\nAmple time was allotted to answer questions and a copy of \"A Guide to Your Genome\" (National Human Genome Research Institute 2007) was provided to further assist participants' understanding and ability to communicate results with family members or others."
+                }
+            ],
+            "f8be7949-8fa0-4730-9143-caa6161bf463": [
+                {
+                    "document_id": "f8be7949-8fa0-4730-9143-caa6161bf463",
+                    "text": "\n\nWhether within 10 or 12 (or 8) years, such inexpensive sequencing will change both research and clinical care, and progress does not need to wait even that long.The National Human Genome Research Institute (NHGRI) plans to focus a significant portion of the sequencing capacity that it supports on medical sequencing.For instance, the NHGRI and the National Cancer Institute are actively considering a Human Cancer Genome Project, 22 which would use DNA sequencing and a host of other genome technologies to gather information about the mutations and functional abnormalities found in multiple samples from many major types of cancer.Medical sequencing should also provide important insight into many other diseases.For example, sequencing all exons in X-linked mental retardation syndromes may reveal much about their etiology.Sequencing candidate genes in the extremes of the distribution of quantitative traits should also reveal much of importance about common diseases, such as coronary atherosclerosis. 23With further technological advances, other previously unimaginable research approaches will become real."
+                }
+            ],
+            "fca531d0-d45b-495f-a02c-fbd437617b20": [
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "Key bioinformatic steps to\ntake a genetic study from an initial linkage or association to laboratory genotyping are illustrated. The reader should note the role of genomic sequence as a common thread through every stage\n\nregions in man (see Chapter 5). Similar issues also exist in the establishment of\ntrue orthology between genes in different species, where one is identified to play a\nrole in a disease model. If two genes are truly orthologous, their evolution closely\nfollows patterns of speciation (Fitch, 2000)."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text":"In general terms, the approaches we describe can be applied to sequence data from any collection of organisms, but our emphasis here is primarily on\nBioinformatics for Geneticists, Second Edition. Edited by Michael R. Barnes\n2007 John Wiley & Sons, Ltd ISBN 978-0-470-02619-9 (HB) ISBN 978-0-470-02620-5 (PB)\n\n␂\nC\n106\n\nCH 6 COMPARATIVE GENOMICS\n\nquestions of relevance to human genetics. We begin, in Section 6.2 by presenting an\noverview of genome structure and content, providing a context for the subsequent\ndiscussions."
+                },
+                {
+                    "document_id": "fca531d0-d45b-495f-a02c-fbd437617b20",
+                    "text": "4\nAssembling a View of the\nHuman Genome\nColin A. M. Semple\nBioinformatics, MRC Human Genetics Unit, Edinburgh EH4 2XU, UK\n\n4.1 Introduction\nThe miraculous birth of the draft human genome sequence took place against\nthe odds. It was only made possible by parallel revolutions in the technologies\nused to produce, store and analyse the sequence data, and by the development of\nnew, large-scale consortia to organize and obtain funding for the work (Watson,\n1990). The initial flood of human sequence has subsided as the sequencing centres have sequenced genomes from other mammalian orders and beyond."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "B756E99E279768E5604363F2A725E6BE",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "genetic",
+            "sequencing",
+            "genome",
+            "bioinformatics",
+            "human",
+            "genes",
+            "disease",
+            "research",
+            "technology",
+            "data"
+        ],
+        "metadata": [],
+        "question": "Create a how-to guide for genetic sequencing.",
+        "subquestions": null,
+        "task_id": "B756E99E279768E5604363F2A725E6BE",
+        "usage": {
+            "chatgpt": 5646,
+            "gpt-4": 3422,
+            "gpt-4-turbo-preview": 2434
+        },
+        "user_id": 2
+    },
+    "document_id": "B756E99E279768E5604363F2A725E6BE",
+    "task_id": "B756E99E279768E5604363F2A725E6BE"
+}

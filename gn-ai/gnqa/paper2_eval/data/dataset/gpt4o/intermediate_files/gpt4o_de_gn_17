@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Genome-Scale Studies of Aging Challenges and Opportunities.pdf",
+    "2007 - How to infer gene networks from expression profiles.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf",
+    "2011 - Annotating individual human genomes.pdf",
+    "2007 - Classification of microarray data using gene networks.pdf",
+    "2015 - Biological network inference from microarray data, current solutions, and assessments.pdf",
+    "2019 - Systems genetics approaches to probe gene function.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2007 - How to infer gene networks from expression profiles.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf"
+  ],
+  "extraction_id": [
+    "53c57cc4-4d43-505a-974c-442d06e144df",
+    "1b4abf11-ed4b-5169-9ba9-8569bc5c10f7",
+    "223e442e-898d-5aea-866a-5cdc0ac915e8",
+    "070421c2-5d23-58b3-9d85-53dd58e7abae",
+    "df700ffb-556a-5331-afe6-71f7e77a1fb8",
+    "c15261b7-54b9-534f-ac95-17c7a5543f31",
+    "f46459a1-592e-5d14-a6d1-f93211353db0",
+    "29c89d19-3215-54dc-9723-85f96de02b65",
+    "d4d71d8c-ef2f-5ddb-b3f3-0f5ce8dc0a83",
+    "3276b251-2e60-53e8-8fd1-07702f486a43"
+  ],
+  "document_id": [
+    "b77aace0-fa36-5fd4-8e2a-c8932198acd1",
+    "5067a047-b97d-522a-9a7e-5372e3bbd102",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda",
+    "f7b5d738-3f0b-5074-9c21-f6b443b4e07f",
+    "639e0456-a445-5e2e-adf5-8eaf987ce2d1",
+    "f64cf13c-d989-50da-be0d-81e34a735a42",
+    "1cd18d9c-0fd1-52e3-b0cf-c5e3ad0ff683",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "5067a047-b97d-522a-9a7e-5372e3bbd102",
+    "17264155-b665-59db-94cb-f4d67eac20fc"
+  ],
+  "id": [
+    "chatcmpl-AIGsxUUcXG8q6ZckzX5v3uoIBTYQl",
+    "df726361-271a-5dbb-b6d1-03dab5a63006",
+    "ee9014b2-ff70-50d1-a022-7a5792383700",
+    "6d8b4af6-6baf-58ff-9e1d-003862f53edd",
+    "e8279254-6a66-5be6-b6ae-c11c20e242f9",
+    "137c8fc7-7bc2-543f-a43e-7f819eaaaaa9",
+    "394f5f79-0592-52ff-bc83-ea55a95fd17e",
+    "b54b5584-344c-54e5-9442-a7deb099bc76",
+    "09f8c37f-b150-5f07-8275-bd040787f514",
+    "3152b693-2396-5441-b6ff-6a80eac13ad0",
+    "c2dae4f8-2305-5d4a-a3f8-c0424d4b80b1"
+  ],
+  "contexts": [
+    "[111], and for generation of networks based on known gene  interactions such as GeneMania [112] and Cytoscape [113], as well as for identifying cross-species orthology relation-ships [114], network-based thinking has been increasingly applied to the study of aging and lifespan [115-118]. Re-cently, the novel computational method of network identifi- cation by regression (NIR) [119] has been used to identify",
+    "Here we will focus on gene network inference algorithms (the inuence approach). A description of other methods based on the physical approach and more details oncomputational aspects can be found in (Beer and Tavazoie,2004; Tadesse et al, 2004; Faith and Gardner, 2005; Prakash and Tompa, 2005; Ambesi and di Bernardo, 2006; Foat et al, 2006). We will also briey describe two improper reverse-engineering tools (MNI and TSNI), whose main focus is not",
+    "NIA[360] may help to infer a putative function by linking unkn own genes to genes known from previous studies to show a similar e xpres- sion pattern. We can also characterize unknown genes by thei r evolu- tionary, loss-of-function and network interaction proper ties to prioritize candidate variants[184] and even predict disease inherita nce mode to a certain degree[153]. Taking this approach a step further, GeneNetwork[99] is con structed",
+    "network inference techniques can be utilized to infer biologicalprocess and the potential phenotypic impact of variants in genes of unknown function [71 78]. Thus, pathway and network based annotation approaches can be powerful approaches to inferring phenotypic information where direct links to phenotype do not exist. 2.12. De novo association analyses involving multiple genomes In the absence of prior information one might leverage to annotate",
+    "interaction may be difficult to quantify. Conversely the directions and signs that accompany signalling or regula- tory pathways are generally known, but their incorpora- tion requires more work. It could nevertheless lead to important advances for the interpretation of microarray data in cancer studies, for example. Conclusion We have presented a general framework to analyse gene expression data when a gene network is known a priori . The approach involves the attenuation of the high-fre-",
+    "A number of techniques have been proposed for network inference. Existing techniques for nding gene networks can be broadly cate-gorized as (i) computational approaches, and (ii) literature-based approaches. The computational approach mainly uses statistical, machine learning, or soft-computing techniques [ 14,15] as discov- ery tools. On the other hand, a literature-based approach gathers relevant published information on genes and their interrelation-",
+    "addition, data from linkage or association studies (e.g. GWAS), or from high -throughput genetic screening  experiments (e.g. CRISPR screening), or from animal gain -or-loss- of function studies, or from the gene -drug  interactions, can also be exploited to  predict potential gene functions. Integration of GeneBridge with data from  these sources will further enhance the performance for gene function prediction, as is done in STRING [253],  GeneMANIA [254] and Mitocarta [190, 255].",
+    "include the deep learning-driven pattern recognition models for analyzing the gene se- quences for identifying the possible future illness and developing mobile applications that can generalize the information from the genomic data. However, there is great demand for explainable Articial Intelligence models that are interpretable in decision-making. Author Contributions: The authors contributions are as follows, Conceptualization of the study,",
+    "Gene network inference algorithms are becoming accurate enough to be practically useful, at least when steady-state gene expression data are available, but efforts must be directedin assessing algorithm performances. In a few years, gene network inference will become as common as clustering for microarray data analysis. These algorithms will become moreTable IV Results of the application of network inference algorithms on the experiment data sets Data sets ARACNE BANJO NIR Clustering Random",
+    "accuracy of predictive networks [40, 5153]. We have also recently demonstrated how this class of network can be used to inform associations identied in GW Astudies [40]. 9 Summary The signicant challenge we face in the post-genome era is deciphering the bio-logical function of individual genes, pathways, and networks that drive complexphenotypes like disease. The availability of low-cost, high-throughput technologies"
+  ],
+  "answer": "Artificial intelligence (AI) has several potential applications in improving the annotation and interpretation of gene networks:  1. **Inference of Gene Functions**: AI techniques, such as network inference algorithms, can help infer the putative functions of unknown genes by linking them to genes with known functions that exhibit similar expression patterns. This approach can also prioritize candidate variants and predict disease inheritance modes to some extent [3].  2. **Network Inference Techniques**: AI-driven network inference techniques can be utilized to infer biological processes and the potential phenotypic impact of variants in genes of unknown function. These techniques can provide powerful approaches to inferring phenotypic information where direct links to phenotype do not exist [4].  3. **Computational Approaches**: AI, particularly through computational approaches using statistical, machine learning, or soft-computing techniques, serves as a discovery tool for finding gene networks. These approaches can complement literature-based methods that gather published information on genes and their interrelationships [6].  4. **Pattern Recognition and Predictive Modeling**: Deep learning models, a subset of AI, can be used for pattern recognition in gene sequences to identify potential future illnesses. There is also a demand for explainable AI models that are interpretable in decision-making, which can enhance the understanding and application of genomic data [8].  These applications demonstrate how AI can significantly enhance the annotation and interpretation of gene networks by providing insights into gene functions, biological processes, and potential phenotypic impacts.",
+  "question": "What are the potential applications of artificial intelligence in improving the annotation and interpretation of gene networks?"
+}

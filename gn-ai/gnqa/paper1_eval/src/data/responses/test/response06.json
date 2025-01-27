@@ -1,0 +1,201 @@
+{
+    "created_at": "2024-03-25T14:09:27.751236Z",
+    "data": {
+        "amplify": false,
+        "answer": "The typical weight of a mouse liver can vary, but in the context provided, it can weigh up to 4.5 grams in a 40 gram mouse and 1.2 grams in a 20 gram normal mouse.",
+        "context": {
+            "5c8c5649-dbaa-43cb-a8ce-7d3bc6458a38": [
+                {
+                    "document_id": "5c8c5649-dbaa-43cb-a8ce-7d3bc6458a38",
+                    "text": "\n\nFIG. 6. Hepatic steatosis during DIO is associated with loss of eAT mass.A: Liver weight (adjusted for body weight) of mice fed a HF diet for 1, 4, 8, 12, 16, and 20 weeks.B: Inverse association of eAT mass and liver weight (as in A) between DIO weeks 12 and 20.C: Representative micrographs of hematoxylin and eosin-stained liver sections demonstrating that hepatic macrosteatosis in HF-fed mice is initially evident at DIO week 12 and increases through week 20."
+                },
+                {
+                    "document_id": "5c8c5649-dbaa-43cb-a8ce-7d3bc6458a38",
+                    "text": "\n\nRESEARCH DESIGN AND METHODS-Male C57BL/6 mice were fed a high-fat diet for 20 weeks to induce obesity.Every 4 weeks, insulin resistance was assessed by intraperitoneal insulin tolerance tests, and epididymal (eAT) and inguinal subcutaneous AT (iAT) and livers were harvested for histological, immunohistochemical, and gene expression analyses."
+                }
+            ],
+            "64886b4e-8599-4f61-84e6-9add7663a1b3": [
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": "BXD and HMDP mouse strains, as well as HXB/BXH rat strains, with\nhigher Cd36 expression had increased fat mass and body weight, as well as decreased VO 2 and liver acid\nbeta−glucosidase activity (Figure S2.4B-C), confirming the involvement of Cd36 in metabolism [126] and\nsuggesting a potential role in Gaucher's disease, which results from the deficiency of acid beta−glucosidase\n[127]. An association between Abca8a liver transcripts and triglyceride levels was also revealed (Figure\nS2.4D)."
+                }
+            ],
+            "65d16255-3edd-46fb-a100-2ab8ba6abcdd": [
+                {
+                    "document_id": "65d16255-3edd-46fb-a100-2ab8ba6abcdd",
+                    "text": "The mice were sacrificed at 9 am after a 4-hour fast. (A-E)\nPARPi reduced body weight (A; *, #, and $ indicates significant differences between\n\n27\nHFHS and CD, HFHS and PAPRi-Prev, and HFHS and PARPi-Ther, respectively),\nliver weight (B), epididymal fat pad (C), liver triglyceride content (D), and cholesterol\n(E) in both preventive and therapeutic cohorts (n=8-10). (F,G) Representative images\nof livers (F) and liver sections stained with H&E and Oil Red O (lipid content appears\nin red) (G), (n= 4-5)."
+                },
+                {
+                    "document_id": "65d16255-3edd-46fb-a100-2ab8ba6abcdd",
+                    "text": "CD45 positive cells\nappear brown. (n=4). * P <0.05; ** P < 0.001; *** P< 0.0001. Data are expressed as\nthe mean ± SEM. One-way ANOVA with a post-hoc Bonferroni test was used for all\nstatistical analyses. Male mice were used in these experiments. Fig. 5. Liver damage in MCD diet-induced NAFLD was reversed by NAD+\nrepletion. C57BL/6J mice were fed with CD, MCD, or MCD+PARPi (PARPi, 50\nmg/kg/day). The mice were sacrificed at 9 am after a 4-hour fast. (A) PARPi reduces\nglobal protein PARylation and (B) recovers NAD+ levels in liver tissue (n=6)."
+                },
+                {
+                    "document_id": "65d16255-3edd-46fb-a100-2ab8ba6abcdd",
+                    "text": "At\n10 weeks of age, male C57BL/6J mice were challenged with an MCD diet for 5\nweeks. Similar to the effects seen in mice on a HFHS diet, MCD-fed mice treated\nwith PARPi in a preventive manner exhibited reduced PARylation and increased\nhepatic NAD+ levels (Fig. 5A and B). Mice fed with a MCD diet for 5 weeks showed classical pathophysiological\ncharacteristics of NAFLD, including hepatic steatosis, inflammation and fibrosis. MCD\ndiet increased AST and ALT levels compared to a control diet, while PARPi treatment\nreduced their levels (Fig. 5C and D)."
+                }
+            ],
+            "8e92b2e3-b525-4c17-a0cb-5ca740a74c66": [
+                {
+                    "document_id": "8e92b2e3-b525-4c17-a0cb-5ca740a74c66",
+                    "text": "\n\nThe left inguinal, gonadal, and retroperitoneal fat pads were dissected and weighed individually. (Prior data showed that weights of left and right fat pads are highly correlated. )The mesenteric fat pad was also dissected and weighed.An adiposity index (AI) was computed for each mouse as follows: the left inguinal, gonadal, and retroperitoneal fat pad weights were summed, doubled, added to mesenteric fat pad weight, divided by body weight, and multiplied by 100.The ratios of the individual fat pad weights divided by body weight and expressed as a percentage (for example, 200× left gonadal fat pad weight/body weight) were analyzed as separate traits, as were blood glucose level, plasma leptin level (log 10 transformed), body weight, and body length."
+                }
+            ],
+            "a5e25b91-4846-4a42-b9b4-838031ec19b7": [
+                {
+                    "document_id": "a5e25b91-4846-4a42-b9b4-838031ec19b7",
+                    "text": "Metabolic phenotypes were compared between\nmice in the upper (Lonp1-high) and lower (Lonp1-low) quartiles with respect to WAT Lonp1 expression (n=9–10 mice per\nCopyright © 2021 Korean Endocrine Society\n\nVAT mRNA levels of OXPHOS-complex and UPRmt genes\nin relation to BMI\nAmong 48 patients, 11 were obese (≥25 kg/m2), 11 were overweight (23 to 24.9 kg/m2), and 26 were of normal or underweight (<22.9 kg/m2), according to the World Health Organization Asia-Pacific Obesity Classification [16]. Clinical characteristics of the participants stratified by BMI (<23 kg/m2 vs. ≥23\nkg/m2) are summarized in Table 1."
+                }
+            ],
+            "acfbb3e9-6eeb-4541-bd1f-9f460de09958": [
+                {
+                    "document_id": "acfbb3e9-6eeb-4541-bd1f-9f460de09958",
+                    "text": "In an F2 cohort derived from these parental strains, we have\nshown that the range of blood glucose, insulin levels, and body\nweight exceeds that of either the C57BL/6 (B6) leptinob/ob or BTBR\nleptinob/ob parental strains. We went on to identify several diabetesrelated QTL in this F2 sample [21,22]. In the current study, we\nfocused on a subset of 60 F2 mice that have previously been\nevaluated in detail with regard to liver gene expression profiles\n[24] to ask if the abundances of hepatic metabolic intermediates\nwould show sufficient heritability to enable us to map metabolic\nQTL (mQTL)."
+                }
+            ],
+            "af4c6e19-fafe-4178-a9eb-213991f344d6": [
+                {
+                    "document_id": "af4c6e19-fafe-4178-a9eb-213991f344d6",
+                    "text": "(E–G) Data from CTB6F2 (E) and HMDP (F) mouse cohorts, and the HXB/BXH rat cohort (G) indicate significant negative correlations between liver Rpl26 levels\nand body weight, and other metabolic traits. adipose tissue (subWAT) mass (Figure 2D), suggesting pleiotropic effects of Pten. The links between Pten and neurobiological and metabolic phenotypes have been confirmed by independent studies (Kwon et al. , 2006; Ortega-Molina et al. ,\n2012). Overall, PheWAS showed that 4,230 out of 11,548 genes\nwere associated with at least one phenotypic trait and all genes\nhad significant associated molecular traits after phenome-wide\ncorrection (Figures 2E; Table S3)."
+                }
+            ],
+            "b1a1282d-421f-494a-b9df-5c3c9e1e2540": [
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Curves of weight ( • ... • ) and blood sugar concentration\nwith age in a less typical diabetic mouse\n\nDiabetologia\n\n(I\n\n--I\n\n)\n\nAside from the large accumulations of fat, subcutaneously in axillary and inguinal regions and intraabdominally in mescnteric and gonadal fat pads, the\nmost striking anatomical deviation is the size of the\nliver. The liver m a y weigh up to 4.5 grams in a 40\ngram mouse, compared with 1.2 grams in a 20 gram\nnormal mouse."
+                }
+            ],
+            "b71befbe-2a20-434e-907e-0ae581373243": [
+                {
+                    "document_id": "b71befbe-2a20-434e-907e-0ae581373243",
+                    "text": "In mice, within hours after the last meal, the organs\nrespond with changes in gene expression mainly in general metabolism (70). The role of the liver is\nto provide energy for glucose-dependent tissues, by glycogenolysis, gluconeogenesis, ketogenesis,\nand fatty-acid β-oxidation (71). The basic architecture of the lobules and the zonation are not\naffected, but the cell size declines in prolonged fasting, when murine liver restores partly its glycogen\ndeposits, and much of gene expression returns to control values (72). In Abcb4-/- mice, collagens,\nfibronectin and vimentin, responsible for the structural integrity of the ECM, were strongly affected\nby fasting."
+                },
+                {
+                    "document_id": "b71befbe-2a20-434e-907e-0ae581373243",
+                    "text": "James SJ, Muskhelishvili L. Rates of apoptosis and proliferation vary with caloric intake and may influence\nincidence of spontaneous hepatoma in C57BL/6 x C3H F1 mice. Cancer Res 1994 Nov 1;54(21):5508-5510. 50. Hakvoort TB, Moerland PD, Frijters R, Sokolovic A, Labruyere WT, Vermeulen JL, et al. Interorgan\ncoordination of the murine adaptive response to fasting. J Biol Chem 2011 May 6;286(18):16332-16343. 51. Lin S, Saxena NK, Ding X, Stein LL, Anania FA. Leptin increases tissue inhibitor of metalloproteinase I\n(TIMP-1) gene expression by a specificity protein 1/signal transducer and activator of transcription 3\nmechanism. Mol Endocrinol 2006 Dec;20(12):3376-3388. 52."
+                }
+            ],
+            "b942c082-a734-47d7-8494-8457ce995ce2": [
+                {
+                    "document_id": "b942c082-a734-47d7-8494-8457ce995ce2",
+                    "text": "\n\nCharacterization of lean and obese control and mGHRKO mice"
+                }
+            ],
+            "c2df1cd8-c962-4fac-88c9-cad52f7753b0": [
+                {
+                    "document_id": "c2df1cd8-c962-4fac-88c9-cad52f7753b0",
+                    "text": "\n\nConsistent with the broad up-regulation of genes associated with fatty acid synthesis (Table 1), Oil Red O staining of liver sections from 15-d-old pups and naturally aged mice revealed enhanced accumulation of triacylglycerides in both compared to control littermates and 8-wk-old mice (Figure 7C), indicating hepatic steatosis.This and the absence of adipose tissue suggest that Csb m/m /Xpa À/À mice display generalized lipodystrophy (loss and abnormal redistribution of body fat) [31]., and Csb m/m /Xpa À/À mice (n ¼ 6).The levels of IGF1 (ng/ml) and glucose (mmol/l) in the serum of Csb m/m /Xpa À/À mice are significantly lower than that of control littermates (p , 0.0004 and p , 0.04, respectively). (C) PAS staining for glycogen and Oil Red O staining for triglycerides in livers of 15-d-old wt and Csb m/m /Xpa À/À mice and 96-wk-old wt mice.Pictures were taken at 1003 magnification.Note the large polyploid nuclei in the 96-wk-old wt mouse liver and the reduced glycogen levels in the Csb m/m /Xpa À/À liver after overnight fasting.doi:10.1371/journal.pbio.0050002.g007"
+                }
+            ],
+            "ce2c68bf-878d-460c-8d9b-d45ce3034ef7": [
+                {
+                    "document_id": "ce2c68bf-878d-460c-8d9b-d45ce3034ef7",
+                    "text": "Association between lifespan and metabolic organ weights\nWe measured weight of certain metabolic organs and tissues of a subsample of cases on\nboth diets at ~500 days of age. HFD mice (n = 63) had 84% greater fat mass, 25% greater\nheart mass, 19% greater liver mass, and 18% greater kidney mass at ~500 days compared\nto controls (n = 71). However, HFD did not influence brain mass (Supplemental Table)."
+                }
+            ],
+            "ddd79d05-8140-48d7-a7fe-5685bb6b50f8": [
+                {
+                    "document_id": "ddd79d05-8140-48d7-a7fe-5685bb6b50f8",
+                    "text": "\n\nYoung adult dwarf mice have more body fat than normal mice.But, with age, normal mice from this line accumulate fat at a higher rate, and the percent body fat in old DF mice does not differ from that of normal mice, as measured by dual energy X-ray absorptiometry (DEXA) (29).Downregulation of lipid biosynthetic genes and upregulation of ␤-oxidation-related genes in the liver of DF mice may explain this slower rate of fat deposition."
+                }
+            ],
+            "dfebf2a5-8553-41f9-af2d-f781778d1342": [
+                {
+                    "document_id": "dfebf2a5-8553-41f9-af2d-f781778d1342",
+                    "text": "(b) Serum levels of liver injury markers, triglyceride, and cholesterol profiles of 20-month-old WT (n = 6) and Gdf15 KO (n = 6)\nmice. (c) Serum levels of pro-inflammatory cytokines of 20-month-old WT (n = 6) and Gdf15 KO (n = 6) mice. (d) H&E staining for liver tissues\nof 20-month-old WT (n = 6) and Gdf15 KO (n = 6) mice. Scale bar, 200 μm. Arrows indicate fat accumulation. (e) Fixed adipose tissue from\n20-month-old WT (n = 6) and Gdf15 KO (n = 6) mice was stained for F4/80 antibodies. Scale bar, 200 μm."
+                }
+            ],
+            "e7a99e2b-a89f-4091-b6e0-c445fd4948bb": [
+                {
+                    "document_id": "e7a99e2b-a89f-4091-b6e0-c445fd4948bb",
+                    "text": "(12) studied liver\ngene expression changes in Stat5b knockout and wild-type\nmice, finding 1,603 differentially regulated genes, with 850\nbeing male- and 753 female biased (P ⬍ 0.05 and FC ⬎ 1.5). A large study consisting of 344 mice comprising an F2 cross\nbetween C57B/6J.apoE⫺/⫺ and C3H/HeJ.apoE⫺/⫺ strains\n(⬃50% from each sex) produced two reports (57, 61) that\nexamined sexually dimorphic gene expression in adipose tissue, brain, liver, and muscle. It was reported that 9,250 genes\nare dimorphic in the liver (P ⬍ 0.01 and FC ⬎ 1)."
+                }
+            ],
+            "e7bc9d83-6c3b-405c-a552-29874b927860": [
+                {
+                    "document_id": "e7bc9d83-6c3b-405c-a552-29874b927860",
+                    "text": "2006) studied liver gene expression\nchanges in Stat5b knockout and wild type mice, finding 1,603 differentially regulated genes,\nwith 850 being male- and 753 female-biased (p<0.05 and FC>1.5). A large study consisting\nof 344 mice comprising an F2 cross between C57B/6J.apoE-/- and C3H/HeJ.apoE-/- strains\n(~50% from each sex) produced two reports (Wang et al. 2006; Yang et al. 2006) which\nexamined sexually dimorphic gene expression in adipose tissue, brain, liver and muscle. It\nwas reported that 9,250 genes are dimorphic in the liver (p<0.01 and FC>1)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "6BFBCECDC0E8EC5D39EAE8D98049FDD9",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "mouse",
+            "liver",
+            "weight",
+            "grams",
+            "diabetic",
+            "fat",
+            "metabolic",
+            "diet",
+            "NAFLD",
+            "PARPi"
+        ],
+        "metadata": [
+            {
+                "object": "our design showed an association between the rs9939609 DNA variant and weight loss after a high polyunsaturated fat hypocaloric diet. Also, an interaction with the type of the hypocaloric diets and metabolic changes secondary to weight loss was observed. Metabolic improvement was better in A carriers with a weight loss secondary to a P hypocaloric diet.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab554681"
+            },
+            {
+                "object": "Sustained, elevated levels of SAA1 were correlated with metabolic parameters and local cytokine expression in the liver following 16 weeks on the high-fat diet. We suggest that SAA1-derived amyloid deposition under long-term high-fat diet exposure may be associated with the complications of high-fat diet-induced obesity and metabolic disorders.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab759501"
+            },
+            {
+                "object": "Aging, metabolism: DEPRECATED, Lifespan, longevity difference low fat minus high fat of females at UTHSC on either a normal low fat chow diet or a high fat diet 60% calories from fat, 12 hr light cycle only computed if more than 4 cases per diet [difference, days]",
+                "predicate": "http://purl.org/dc/terms/description",
+                "subject": "http://genenetwork.org/id/traitBxd_17469"
+            },
+            {
+                "object": "interactions of fat intake with the genetic rs11150675 and transcriptional ILMN_1725441 variations at the NFATC2IP locus on 2-year weight change. cis-DNA methylation at cg26663590 of the NFATC2IP locus showed an opposite impact on weight-loss in response to high-fat vs low-fat diet. baseline methylation at cg26663590 causally mediated 52.8% of the effect of rs11150675 on 2-year weight-loss in the high-fat diet group",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab422351"
+            },
+            {
+                "object": "Aging, metabolism: Mean life span, longevity of females, combined data both diets, on either a standard chow diet Harlan Teklad 7912 chow diet, 6.2% fat or on a high fat diet Harlan Teklad 06414, 18.4% protein, 60.3% calories from fat, 5.1 kcal/g at UTHSC on a 12 hr light cycle in polypropylene cages 145 in2 with up to 10 animals/cage, Harlan Teklad 7087 soft cob bedding unweighted average, updated Feb 2023 [days]",
+                "predicate": "http://purl.org/dc/terms/description",
+                "subject": "http://genenetwork.org/id/traitBxd_21450"
+            },
+            {
+                "object": "an initial accelerated increase in body weight and fat mass of Bmal1-/- mice on high-fat diet may have been offset by the effect of premature ageing on organ weight, resulting in comparable weights after 15 weeks of high-fat diet.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab65355"
+            },
+            {
+                "object": "Expression of Sirt1, Cox2i2, Parg, Pank3, Rhoa, Mrs2, Arhgap5, Igfbp3, Derl1, and Immp1l are all controlled by a QTL that peaks at Igf1r in BXD liver. LRS peak for Sirt1 of 19.5 when data are combined; LRS of 15.6 on high fat diet and LRS of 6 on low fat diet. Used dataset: EPFL/LISP BXD CD+HFD Liver Affy Mouse Gene 1.0 ST Apr13 RMA",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1805"
+            },
+            {
+                "object": "Uqcrg expression maps to Chr 1 near Numts LRS ~17, B high, old genotypes using high fat diet data set EPFL/LISP BXD HFD Liver Affy Mouse Gene 1.0 ST Apr13 RMA. Possible link to longevity on high fat diet. No eQTL to Chr 1 on chow diet using probe set 10385818.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab6482"
+            },
+            {
+                "object": "The absence of UCP1 augmented obesity weight gain, body fat mass, %body fat, fat depot size in high-fat diet- and cafeteria-fed 129S mice, with a similar or lower food intake, indicating that, when present, UCP1 indeed decreases metabolic efficiency. The increased obesity was due to a decrease in energy expenditure.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab776097"
+            },
+            {
+                "object": "Through phenotype analysis of high-fat diet-induced obesity and metabolic syndrome mice with muscle-, fat-, or liver-specific knockout of Ube2o, study identified Ube2o as an essential regulator of glucose and lipid metabolism programs in skeletal muscle, but not in adipose or liver tissue. Mechanistically, Ube2o acted as a ubiquitin ligase and targeted AMPKalpha2 for ubiquitin-dependent degradation in skeletal muscles.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab955251"
+            }
+        ],
+        "question": "What is the typical weight of a mouse liver?",
+        "subquestions": null,
+        "task_id": "6BFBCECDC0E8EC5D39EAE8D98049FDD9",
+        "usage": {
+            "chatgpt": 6192,
+            "gpt-4": 4109,
+            "gpt-4-turbo-preview": 3136
+        },
+        "user_id": 2
+    },
+    "document_id": "6BFBCECDC0E8EC5D39EAE8D98049FDD9",
+    "task_id": "6BFBCECDC0E8EC5D39EAE8D98049FDD9"
+}

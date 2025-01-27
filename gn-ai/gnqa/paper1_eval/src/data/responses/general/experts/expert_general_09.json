@@ -1,0 +1,142 @@
+{
+    "created_at": "2024-06-01T14:33:22.252190Z",
+    "data": {
+        "amplify": false,
+        "answer": "Mitochondrial DNA (mtDNA) is inherited solely from the maternal lineage, unlike nuclear DNA which requires both paternal and maternal contributions. This uniparental transmission of mtDNA is ensured by complex mechanisms that eliminate paternal mitochondria from sperm during fertilization. mtDNA also exhibits a higher mutation rate than nuclear DNA, leading to significant population-level mtDNA polymorphisms. These polymorphisms can be clustered into distinct haplogroups that represent major branch points on the mitochondrial phylogenetic tree. In contrast, nuclear DNA undergoes bi-parental recombination.",
+        "context": {
+            "0381d0d4-717f-470b-a8d4-562475cf58bb": [
+                {
+                    "document_id": "0381d0d4-717f-470b-a8d4-562475cf58bb",
+                    "text": "Oxidative stress and mitochondrial DNA\n\nNot long after it was discovered that mitochondria have their own genetic apparatus, Harman proposed that mitochondria play a central role in the free radical theory of aging [16].This idea was developed further by Miquel et al. [330], and the notion that mtDNA mutagenesis played a role in aging took hold.The phenotypical importance of mutations in mtDNA was demonstrated by Wallace et al. [331] and Holt et al. [332], who first showed that Leber's hereditary optic neuropathy and mitochondrial myopathies were caused by mtDNA mutations (reviewed in [333]).Because mtDNA is so close to the site of mitochondrial ROS production, it is exposed to considerably higher oxidative stress, resulting in 3-fold higher levels of DNA oxidative damage (the previously quoted 20-fold figure is apparently due to an isolation artifact [334,335]).In the 1990s a series of papers reported that the frequency of mitochondrial DNA deletions increases dramatically with age, being essentially undetectable in young individuals and reaching levels as high as 2% of mtDNA in old individuals.This age-related increase in mtDNA deletions was found in organisms as diverse as worms, mice, and humans (reviewed in [24,336]).The same is also true with mtDNA point mutations [337,338].Certain mtDNA polymorphisms have been found in increased frequency in centenarians, implying a protective effect during aging [339][340][341].Similar protective effects of mtDNA polymorphisms have been reported for the age-related neurodegenerative condition, Parkinson's disease [342]."
+                }
+            ],
+            "21d2cb60-92ab-4fbb-a3a1-85d3424881c1": [
+                {
+                    "document_id": "21d2cb60-92ab-4fbb-a3a1-85d3424881c1",
+                    "text": "\n\nVariation in the structure and function of mitochondria underlies variation in organismal energetics broadly (Seebacher et al., 2010) and evidence for the importance of mitochondrial function in the evolution of natural populations continues to accumulate (Ballard and Melvin, 2010;Glanville et al., 2012;Hicks et al., 2012;Kurbalija Novičić et al., 2015).For example, variation in mitochondrial DNA sequences (mtDNA) can determine whole-organism metabolism, i.e., the rate at which organisms process energy from their environment, a phenomenon widespread across animal taxa (Arnqvist et al., 2010;Ballard et al., 2007;Ballard and Pichaud, 2014;Havird et al., 2019;Hood et al., 2018;James et al., 2016;Wolff et al., 2014).Specifically, mtDNA sequence variants are linked to functional metabolic differences in fish (Chapdelaine et al., 2020;Flight et al., 2011;Healy et al., 2019), birds (Scott et al., 2011), and mammals (Fontanillas et al., 2005), including humans (Amo and Brand, 2007;Dato et al., 2004;Niemi et al., 2003;Tranah et al., 2011).These mtDNA variants are often correlated with environmental factors such as temperature and altitude (Storz et al., 2010).However, other studies attempting to link mitochondrial function to mitochondrial DNA (mtDNA) sequence variation or environmental factors have offered mixed reports (Amo and Brand, 2007;Flight et al., 2011;Fontanillas et al., 2005;Hicks et al., 2012)."
+                },
+                {
+                    "document_id": "21d2cb60-92ab-4fbb-a3a1-85d3424881c1",
+                    "text": "\n\nThe results here point to several potentially fruitful research directions.We have identified how nonsynonymous mutations in the mitochondrial genome associate with variation in whole-organism metabolism (including CytB, ND1, ND5 and ND6).A next step will be to characterize the molecular details of how these changes affect molecular function.It would also be beneficial to describe how variation in cellular oxygen consumption rate scales up to determine whole-organism metabolic rate across a range of temperatures, thus identifying potential mismatches across levels of organization that may impact organismal performance (Gangloff and Telemeco, 2018).While the interconnected processes that shape organismal and population-level responses to environmental variation do not lend themselves to simple narratives, and many molecular processes interact to produce the emergent ecotypic divergences at the phenotypic level, it is clear that the mitochondria play a central role even as that role may change across populations and ecological contexts (Fig. 1).Research within well-characterized natural systems, such as these garter snake populations, can offer illustrative case studies of how mitochondria respond to their environments, and thus impact physiological pathways and evolutionary patterns, creating variation in life histories and aging."
+                },
+                {
+                    "document_id": "21d2cb60-92ab-4fbb-a3a1-85d3424881c1",
+                    "text": "\n\nDespite the complexities underlying observed variation in mitochondrial function, recent work has demonstrated examples of how evolution and plasticity in mitochondrial function across populations within a species can shape life histories.For example, evidence from Drosophila has demonstrated the effect of temperature on components of the ETC and has linked mtDNA variants to metabolic thermosensitivity (Pichaud et al., 2012), to differences in whole-organism metabolic rates (Kurbalija Novičić et al., 2015), and to fitness-related traits (Ballard et al., 2007;Pichaud et al., 2011;Pichaud et al., 2010).In general, studies in birds and mammals demonstrate that mitochondria of longer-lived species are more efficient in ATP production, produce less reactive oxygen species, and demonstrate increased antioxidant capacities (Barja and Herrero, 2000;Ku et al., 1993;Lambert et al., 2007).While some studies in lizards and snakes demonstrate a similar pattern (Olsson et al., 2008;Robert et al., 2007), the extent to which these results are generalizable across vertebrate taxa is not yet known.The diversity of life-history traits and immense variation in longevity demonstrated by reptiles, both within and among species, make these taxa ideal candidates for understanding how variation in mitochondrial physiology drives this variation in whole-organism traits (reviewed in Hoekstra et al., 2019).Such work has moved to the forefront with a recent focus on the ecological and evolutionary significance of aging processes in wild populations (reviewed in Nussey et al., 2013;Fletcher and Selman, 2015;Gaillard and Lemaître, 2020)."
+                },
+                {
+                    "document_id": "21d2cb60-92ab-4fbb-a3a1-85d3424881c1",
+                    "text": "\n\nOver evolutionary time, differential mortality rates are a selective force in shaping genetic structure.This results in divergence of a variety of physiological networks that shape, ultimately, patterns of aging and longevity in different habitats (Monaghan et al., 2008;Stojković et al., 2017).Such selective pressures can have differential effects on the nuclear and mitochondrial genomes (McKenzie et al., 2019;Wolff et al., 2014).Genetic variation in the mitochondrial genome is known to drive mitochondrial function in many species (Ballard and Melvin, 2010;McKenzie et al., 2019;Novelletto et al., 2016) and we find this in our system as well.Whole organism metabolic rate varies with the mitochondrial genome haplogroups we identified in this study.T. elegans individuals with the introgressed T. sirtalis mitochondrial genome had the lowest metabolic rate and had 68 amino acid changes in the ETC genes relative to the T. elegans mitochondrial genomes.As species divergence are a continuation of population divergence, this introgression provides additional insight into how genetic variation can alter mitochondrial function.Whether the lower metabolic rate in our snakes with the introgressed mitochondrial genome is due to the fixed amino acid changes between the species or a mismatch between the coadapted nuclear and mitochondrially-encoded ETC proteins that could alter function of the mitochondria (Burton et al., 2013;Haenel, 2017;Rawson and Burton, 2002;Toews et al., 2014;Wolff et al., 2014) will require further comparisons to T. sirtalis individuals."
+                },
+                {
+                    "document_id": "21d2cb60-92ab-4fbb-a3a1-85d3424881c1",
+                    "text": "\n\nBuilding on previous work in this system, the current study tests three primary hypotheses about how variation in mtDNA and mitochondrial function relate to variation in life-history traits and aging within this system (Fig. 1): (1) First, we test whether rates of cellular oxygen consumption in isolated immune cells exhibit patterns that are consistent with the hypothesis that cellular processes drive whole-organism senescence and aging, and if these patterns differ between the SA and FA ecotypes and between sexes.By measuring basal, ATP-production associated, and maximal rates of cellular oxygen consumption, we further test for evidence that phenotypic divergence is dependent on a specific aspect of oxidative phosphorylation within immune cells.The energetics of these cells are particularly important given their essential role in modulating disease and infection, important factors contributing to senescence (Metcalf et al., 2019).We predict that SA snakes will maintain levels of cellular oxygen consumption across age, whereas the FA snakes will show a decline with age, especially in ATP-associated rates, possibly due to continual degradation of electron transport chain functionality from accumulating oxidative damage and reduced DNA repair mechanisms (Robert and Bronikowski, 2010;Schwartz and Bronikowski, 2013). ( 2) Second, we expand our mitochondrial genomics dataset to quantify mtDNA genetic structure across the landscape and test whether mtDNA haplotypes, and alleles at a nonsynonymous SNP in the Cytochrome B (CytB) gene correlate with aging ecotypes. (3) Third, we test the hypothesis that variation in mtDNA correlates with whole-organism variation in metabolic rates, suggesting a pathway linking mitochondrial genetic variation in mtDNA to whole-organism energetics.We first test whether different haplotypes differ in resting metabolic rate.Then, we test the effects of the nonsynonymous SNP in CytB on resting metabolic rate.The CytB gene encodes a component of complex III of the ETC, and was previously found to segregate between these life-history ecotypes (Schwartz et al., 2015).This SNP results in an amino acid substitution from isoleucine (aliphatic, hydrophobic) to threonine (hydrophilic) on a region that comes into close contact with a nuclear-encoded subunit (Schwartz et al., 2015).We combine previously published and new data on whole-organism resting metabolic rates (oxygen consumption) to test for the effects of this nonsynonymous mutation in three populations where we find heterogeneity at this nucleotide, thus allowing us to disentangle the effects of shared environment (population) from sequence variation (SNP).We predict that this SNP will correlate with variation in whole-organism metabolic rate, demonstrating a putatively adaptive difference between the derived and ancestral sequence.By utilizing this integrative data setfrom genes to organelles to whole organisms to populationsin a known life-history context, we are able to test hypotheses across levels of organization to provide a more complete picture of the complicated story of mitochondria and life history (Havird et al., 2019)."
+                }
+            ],
+            "253fad94-3be6-4362-b56f-f00c9c5705e6": [
+                {
+                    "document_id": "253fad94-3be6-4362-b56f-f00c9c5705e6",
+                    "text": "mtDNA Diversity\n\nUnlike the nuclear genome, which requires both paternal and maternal contributions, mtDNA is inherited solely from the maternal lineage.It is unclear what advantage a uniparental mtDNA transmission confers, but one possibility is to minimize the number of distinct genomes to maximize the efficiency of a multi-genomic system (Hill et al. 2019).In fact, humans have developed complex, redundant mechanisms to ensure uniparental inheritance of mtDNA (DeLuca and O'Farrell 2012; Rojansky et al. 2016).Paternal mitochondria from sperms that enter into the egg during fertilization are actively and selectively eliminated via mitophagy through two E3 ligases, PARKIN, and MUL1 (Rojansky et al. 2016).PARKIN and MUL1 serve redundant purposes, and mitophagy becomes insufficient to eliminate paternal mtDNA only in the absence of both (Rojansky et al. 2016).Even though oocytes have  at least a thousand-fold more mitochondria than a sperm cell (Rojansky et al. 2016) and heteroplasmy levels would be very low if paternal mtDNA were to contaminate the embryo, the results can still be non-trivial.However, challenging this notion, a recent study provides evidence of potential paternal transmission (Luo et al. 2018), but awaits further corroborating studies (Lutz-Bonengel and Parson 2019)."
+                },
+                {
+                    "document_id": "253fad94-3be6-4362-b56f-f00c9c5705e6",
+                    "text": "\n\nMtDNA exhibit a higher mutation rate than nuclear DNA, leading to significant population-level mtDNA polymorphisms (van Oven and Kayser 2009; Wallace 1999; Wallace and Chalkia 2013).In fact, the co-evolution of the mitonuclear genomes has been proposed to be driven by mtDNA mutations that select for compensatory changes in the nuclear genome (Havird and Sloan 2016).Populations that share similar mtDNA polymorphisms can be clustered into distinct haplogroups that are designated using all letters of the alphabet (i.e., A through Z).The mtDNA haplogroups represent major branch points on the mitochondrial phylogenetic tree that have strong regional ties around the globe, thus supporting the concept of a 'mitochondrial eve' (Wallace 1999).Haplogroups present inherently different mitonuclear interactions (Zaidi and Makova 2019), which eventually affect the aging process (Wolff et al. 2016).For example, one haplogroup commonly found in Ashkenazi Jews can interact with a specific enrichment of an amino acid sequence in complex I, and result in altered susceptibility to type 2 diabetes mellitus (Gershoni et al. 2014).The effect of mitonuclear compatibility on lifespan is influenced by environmental cues in flies (Drummond et al. 2019).It is unclear if mitonuclear compatibility is invariable throughout an organism's life, or antagonistically pleiotropic during aging, making it a difficult moving target to understand."
+                }
+            ],
+            "2f39f55f-2604-49d4-9589-0e1403b84d7a": [
+                {
+                    "document_id": "2f39f55f-2604-49d4-9589-0e1403b84d7a",
+                    "text": "\n\nBackground: The accumulation of mitochondrial DNA (mtDNA) mutations, and the reduction of mtDNA copy number, both disrupt mitochondrial energetics, and may contribute to aging and age-associated phenotypes.However, there are few genetic and epidemiological studies on the spectra of blood mtDNA heteroplasmies, and the distribution of mtDNA copy numbers in different age groups and their impact on age-related phenotypes.In this work, we used whole-genome sequencing data of isolated peripheral blood mononuclear cells (PBMCs) from the UK10K project to investigate in parallel mtDNA heteroplasmy and copy number in 1511 women, between 17 and 85 years old, recruited in the TwinsUK cohorts."
+                }
+            ],
+            "4a17ce5c-55df-4aa0-a664-f6a03238d332": [
+                {
+                    "document_id": "4a17ce5c-55df-4aa0-a664-f6a03238d332",
+                    "text": "Discussion\n\nTwo significant questions are raised by the findings that mitochondrial DNA can integrate into the nucleus.Firstly, is this an extraordinarily rare event or is it occurring continually and at high frequency?Secondly, can such an event have pathological consequences to the organism?"
+                }
+            ],
+            "4f010a74-a9b4-4538-94f7-ae8f35c8b96e": [
+                {
+                    "document_id": "4f010a74-a9b4-4538-94f7-ae8f35c8b96e",
+                    "text": "Phylogeny\n\nThe mtDNA is maternally inherited (120) by offspring through the oocyte cytoplasm; namely, the mother transmits her mtDNAs to all of her offspring, and her daughters transmit their mtDNAs to the next generation.This is the consequence of the fact that the mature oocyte such as mouse (304) or bovine (144) contains lOO-1,000 times more mtDNA than is found in somatic cells.Hence, the few sperm mtDNAs that enter the egg (130) have little effect on the genotype.The maternal inheritance results in sequentially diverged mtDNA polymorphism of modern human, as shown in Figure 2. The polymorphism derives from the combinations of small deletions and additions of <14 bp in noncoding region and base substitutions including some point mutations in coding region."
+                },
+                {
+                    "document_id": "4f010a74-a9b4-4538-94f7-ae8f35c8b96e",
+                    "text": "\n\nThere have been few reports on distinct correlation between mitochondrial morphology and human aging, except changes in number and size of mitochondria associated with age.Concerning the gross structure of mitochondria, the overwhelming importance of the cell nucleus in mitochondrial biogenesis should be noted, because the major parts of mitochondrial proteins are encoded by nuclear genes that are stable during life with the efficient repair mechanism for nDNA."
+                },
+                {
+                    "document_id": "4f010a74-a9b4-4538-94f7-ae8f35c8b96e",
+                    "text": "\n\nEarly data on DNA polymorphism detected by restriction endonuclease (263) have suggested that the evolutionary change of mtDNA in higher animals occurs mainly by nucleotide substitution rather than by deletion and insertion.The mtDNA nucleotide sequence evolves 6-17 times faster than comparable nuclear DNA gene sequences (51,52,405).Rapid evolution of mtDNA of higher primates including human, 0.02 base substitutions per site per million years, was calculated from the restriction map of mtDNA (51).Because orthodox recombination mechanism appears to be absent in mtDNA (128), germline mutation seems to go down to posterity as maternal inheritance from our common ancestor (57)."
+                }
+            ],
+            "612a70c6-2f42-492f-9f23-0d5e9296919e": [
+                {
+                    "document_id": "612a70c6-2f42-492f-9f23-0d5e9296919e",
+                    "text": "\n\nA number of conclusions may be drawn from these results.Firstly, the data begin to answer the question of how closely mtDNA replication is kept in synchrony with nuclear DNA replication: it would appear to be regulated not by direct coupling to the nuclear DNA replication, but rather by the cell mass to be serviced by mitochondria."
+                }
+            ],
+            "65c8287b-eb19-437a-b9ca-5aaa8664d429": [
+                {
+                    "document_id": "65c8287b-eb19-437a-b9ca-5aaa8664d429",
+                    "text": "\n\nIt may be that high mtDNA levels are indeed indicative of compromised mitochondria, but that the underlying defects are unrelated to alterations in the DNA sequence.Alternatively, elevated quantities of mtDNA might be associated with increased metabolic requirements of the embryo, rather than organelles of suboptimal function.It is possible that embryos produced by older oocytes are under some form of stress and therefore have larger energy requirements.Functional experiments will be required to address these questions.Whatever the underlying basis, the current study has unequivocally demonstrated that female reproductive aging is associated with changes in the mtDNA content at the blastocyst stage."
+                }
+            ],
+            "67ec2631-aa17-436e-800b-1bc046fb5b19": [
+                {
+                    "document_id": "67ec2631-aa17-436e-800b-1bc046fb5b19",
+                    "text": "\n\nAge-associated alterations of the mitochondrial genome occur in several different species; however, their physiological relevance remains unclear.The age-associated changes of mitochondrial DNA (mtDNA) include nucleotide point mutations and modifications, as well as deletions.In this review, we summarize the current literature on age-associated mtDNA mutations and deletions and comment on their abundance.A clear need exists for a more thorough evaluation of the total damage to the mitochondrial genome that accumulates in aged tissues.᭧ 1997 Elsevier Science Inc."
+                }
+            ],
+            "8a9fe1bc-7fa3-40ee-ade0-9a498bcf9def": [
+                {
+                    "document_id": "8a9fe1bc-7fa3-40ee-ade0-9a498bcf9def",
+                    "text": "Mitochondrial genetics\n\nOne underexplored avenue for determining maternal risk for preterm birth involves the influence of the mitochondrial genome.The high mutation rate of mito chondrial DNA (mtDNA), together with the fact that most of its encoded proteins are evolutionarily con served, allowing for the selection of neutral or beneficial variants, has generated interest in defining human mtDNA variations and their roles in human biology [58]."
+                }
+            ],
+            "aa942230-9a43-4b5f-90d9-96d364861a57": [
+                {
+                    "document_id": "aa942230-9a43-4b5f-90d9-96d364861a57",
+                    "text": "\n\nClearly, as mitochondrial metabolic and genetic therapies advance for treating mitochondrial disease, they will also be available to enhance the personal lives of others.However, mitochondrial genetic variation appears to have been one of the primary factors that permitted our ancestors to adapt to new environments, survive adverse conditions, and multiple throughout the globe.Is it possible that by taking over control of individual mtDNA variation, we might also be setting our species on the road to functional decline and ultimately extinction?"
+                },
+                {
+                    "document_id": "aa942230-9a43-4b5f-90d9-96d364861a57",
+                    "text": "Mitochondrial therapeutics and performance enhancement\n\nIt is now clear that not all mtDNA variation is deleterious.Indeed, about 25% of all ancient mtDNA variation appears to have caused functional mitochondrial changes and thus been adaptive.Those mtDNA variants that are adapted to warm climates have mtDNA variants that result in tightly coupled OXPHOS, thus maximizing ATP output and minimizing heat production.The presence of these mtDNAs permits maximum muscle performance but also predispose sedentary individuals that consume excess calories to multiple problems.They would be prone to be overweight and their mitochondria would generate excessive ROS, thus making them susceptible to a variety of degenerative diseases, cancer and premature aging.Partially uncoupled mitochondria generate more heat, but at the expense of ATP production.Individual's with these variants are better able to tolerate the cold, and are less prone to obesity.They also generate less ROS making then resistant to degenerative diseases and aging.Finally, the mitochondria are why we breathe.Hence, mitochondrial variation might be an important factor in individual predisposition to altitude sickness."
+                }
+            ],
+            "b0af29ac-0997-416d-907a-6caba940536d": [
+                {
+                    "document_id": "b0af29ac-0997-416d-907a-6caba940536d",
+                    "text": "\n\nHuman mtDNA codes for 13 essential polypeptide components of the mitochondrial oxidative phosphorylation (OXPHOS) system.mtDNA undergoes strict maternal inheritance, resulting in the absence of bi-parental recombination (Elson et al., 2001) and has a high mutation rate (Tuppen et al., 2010).As such, the evolution of mtDNA is characterised by the emergence of distinct lineages (or haplogroups) (Hernstadt et al., 2002).This results in high levels of mtDNA variation at the population level despite its rather small size, which is also illustrated by the large number of sub-haplogroups (van Oven and Kayser, 2009).Africa"
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "8CC70421A233A4B1F89A6701731F7017",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "mtDNA",
+            "mitochondrial&DNA",
+            "nuclear&DNA",
+            "heredity",
+            "haplogroups",
+            "mitochondrial&genome",
+            "oxidative&phosphorylation",
+            "OXPHOS",
+            "mutation&rate",
+            "mitophagy"
+        ],
+        "metadata": [],
+        "question": "Describe the role of mitochondrial DNA in heredity and how it differs from nuclear DNA.",
+        "subquestions": null,
+        "task_id": "8CC70421A233A4B1F89A6701731F7017",
+        "usage": {
+            "chatgpt": 9175,
+            "gpt-4": 5434,
+            "gpt-4-turbo-preview": 4489
+        },
+        "user_id": 2
+    },
+    "document_id": "8CC70421A233A4B1F89A6701731F7017",
+    "task_id": "8CC70421A233A4B1F89A6701731F7017"
+}

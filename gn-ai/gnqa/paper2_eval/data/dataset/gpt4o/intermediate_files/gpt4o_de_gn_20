@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2021 - Genetics and genomics of arrhythmic.pdf",
+    "2020 - Fine-tuning of Genome-Wide Polygenic Risk Scores and Prediction of Gestational Diabetes in South Asian Women.pdf",
+    "2023 - Clinical, technical, and environmental biases.pdf",
+    "2022 - Development and validation of a trans-ancestry polygenic risk score for type 2 diabetes in diverse populations.pdf",
+    "2022 - Development and validation of a trans-ancestry polygenic risk score for type 2 diabetes in diverse populations.pdf",
+    "2018 - Genome-wide polygenic scores for common diseases.pdf",
+    "2022 - Coming of Age Human Genomics.pdf",
+    "2020 - Genome-wide assessment of genetic risk for systemic.pdf",
+    "2021 -Potter-Dickey- Genetic Susceptibility.pdf"
+  ],
+  "extraction_id": [
+    "3c30b33b-8928-5cee-9c37-c70642fff75c",
+    "ada410d0-6b91-5959-b834-cc3389e29c5f",
+    "8292e291-87bb-5f04-8e40-fb2228da3927",
+    "50731787-cf17-5284-b3f4-2c551cb41c90",
+    "17c49e58-c89a-5495-b17f-adcade90a4c6",
+    "f6f0c89d-5c35-5889-8619-a3914e5d2c7e",
+    "0a80e61e-648a-5122-9b17-8177bc734674",
+    "ca2e1560-db8f-5c3f-b7bf-dd1beaa94655",
+    "9b1cee76-2c59-50d6-a37c-8c593336fe33",
+    "567a2f7e-0ff9-5229-bfeb-066b6e6f50f6"
+  ],
+  "document_id": [
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "462ed035-e4fb-5847-a92d-927f05a2b58b",
+    "494779f3-1437-5b50-a9b2-3f616a048719",
+    "6a81e435-bd17-558d-850a-44ee3dbab5bd",
+    "4ece243f-acda-569d-b75d-37539260dcb3",
+    "4ece243f-acda-569d-b75d-37539260dcb3",
+    "a8cefcf1-7edf-52cc-8aeb-b4d353acaef5",
+    "45506895-eef1-57f4-8ca1-79fe23a2493f",
+    "af34f0df-a726-5cc4-844f-a5d67273d9a0",
+    "cb119609-daa3-56af-97ff-b809cc39c210"
+  ],
+  "id": [
+    "chatcmpl-AIGtIvgudl04cUWtfjaShHQ8PZDZI",
+    "a374d88e-458e-5252-8b3a-5ca162fa6982",
+    "bcce1092-32ea-5f65-bc10-4dc1a2dac53a",
+    "f36bf430-26bd-5031-a392-14f3c43367ab",
+    "4190e1d8-ae9e-5c42-8842-aa0a60a2bb2c",
+    "1677b3ee-7d95-5e10-a6dd-d80b4bb87b29",
+    "2c09a46a-20d0-54b4-abcb-608fef7c7f80",
+    "459f7eed-490a-5586-9d2a-20f721daa6bc",
+    "98da512f-fee2-501b-b093-9ee7ab22c5f9",
+    "d27fbbe8-aec0-510f-ab9d-1a0d4f0a1678",
+    "b3e446bb-e438-5d66-a34c-8e1de0ebb639"
+  ],
+  "contexts": [
+    "in advance. Polygenic Risk Scores (PRS) were proposed by Duncan L. et al. [ 8] for risk analysis using the sum of the weight of each risk-associated locus of genomic sequence obtained from the corresponding evidence. These weights are assessed from the regression coefcient associated with each locus. These combined genetics features and correlation matrices would signicantly assist the entire eld of genomics study [ 9]. These studies on",
+    "Owing to their small effect sizes, SNP associations have very little clinical applicability for risk prediction.   A polygenic risk score (PRS) attempts to estimate the combined risk from multiple SNPs that have been associated with a certain trait with genome-wide sig-nificance. By accounting for a large proportion of the  genetic variance underlying a trait, the overall effect size",
+    "of genome-wide genotypes and publicly available data from large consortia, GRSs with a larger number of vari- ants are being used, and the predictive value of these genome-wide polygenic risk scores (PRSs) has substantially improved 50,51. PRSs can be derived using different approaches, however, these require both summary statistics from an exter -",
+    "use for estimation of polygenic risk scores (PRS) has grownin recent years. PRS screening may be used to determine therisk of common complex diseases for individuals and theiroffspring, and although it is not widely clinically availablenow, there is an ongoing interest in increasing its utility. Useof GWAS data from European populations for PRS esti-mation would subsequently impose a bias in favor of in- dividuals with similar ancestry, whereas limited bene ti s",
+    "(GWAS) in diverse populations have identified hundreds  of genetic loci associated with T2D [79]. Polygenic risk  scores (PRS), which aggregate the genetic risk of individ - ual alleles across the genome, are thus promising to pre - dict future T2D occurrence and improve early diagnosis,  intervention, and prevention of T2D [1015]. However,  to date, T2D PRS were most widely developed and vali - dated in individuals of European descent. Given that the  predictive performance of PRS often attenuates in non-",
+    "(GWAS), polygenic risk scores (PRS) have shown promise to complement established clinical risk factors and inter  vention paradigms, and improve early diagnosis and prevention of T2D. However, to date, T2D PRS have been most  widely developed and validated in individuals of European descent. Comprehensive assessment of T2D PRS in non European populations is critical for equitable deployment of PRS to clinical practice that benefits global populations.",
+    "Letters NATure GeNeTicsMethods Polygenic score derivation. Polygenic scores provide a quantitative metric of  an individuals inherited risk based on the cumulative impact of many common polymorphisms. Weights are generally assigned to each genetic variant according to the strength of their association with disease risk (effect estimate). Individuals are scored based on how many risk alleles they have for each variant (for example, zero, one, or two copies) included in the polygenic score.",
+    "(Fig. 1B ). Polygenic risk scores (PRS) have emerged as promising biomarkers for the prediction of disease risk, not only in the area of cardiovascular disorders, but also oncology (21). These risk scores also have become increasingly available for a multitude of phenotypes and are systematically curated in a free online database (22). It has been shown that certain preexisting autoimmune diseases as well as the occurrence of imAE upon treatment are associated with",
+    "eases identify individuals with risk equivalent to monogenicmutations. Nat. Genet. ,50, 12191224. 13. Euesden, J., Lewis, C.M. and OReilly, P.F. (2015) PRSice: poly- genic risk score software. Bioinformatics ,31, 14661468. 14. Belsky, D.W., Moffitt, T.E., Sugden, K., Williams, B., Houts, R., McCarthy, J. and Caspi, A. (2013) Development and evalu- ation of a genetic risk score for obesity. Biodemography Soc. Biol.,59, 85100. 15. De Jager, P.L., Chibnik, L.B., Cui, J., Reischl, J., Lehr, S., Simon,",
+    "in tissue-specic regions or use gene co-expression information may provide a more comprehensive view of a specic gene or a gene networks role in modulating an individuals response to environmental variations, compared to that provided by the single candidate gene approach (Gamazon et al., 2015; Barth et al., 2020). Expression-based polygenic risk scores (ePRS) oer one such approach to understand the underlying genetic background linked to behavioral outcomes (Hari Dass"
+  ],
+  "answer": "Polygenic risk scores (PRS) developed using GeneNetwork.org data enhance the prediction and prevention of complex diseases by providing a quantitative metric of an individual's inherited risk based on the cumulative impact of many common polymorphisms [7]. These scores aggregate the genetic risk of individual alleles across the genome, which can significantly improve the prediction of future disease occurrence and aid in early diagnosis, intervention, and prevention strategies [5]. PRS can complement established clinical risk factors and intervention paradigms, thereby enhancing early diagnosis and prevention efforts for diseases such as type 2 diabetes (T2D) [6]. Additionally, PRS have emerged as promising biomarkers for predicting disease risk in various areas, including cardiovascular disorders and oncology [8]. By utilizing data from large consortia and genome-wide genotypes, the predictive value of these scores has substantially improved, allowing for a more comprehensive assessment of genetic risk [3].",
+  "question": "How do polygenic risk scores (PRS) developed using GeneNetwork.org data enhance the prediction and prevention of complex diseases?"
+}

@@ -1,0 +1,13 @@
+,
+{
+  "faithfulness": NaN,
+  "answer_relevancy": NaN,
+  "context_relevancy": 0.10210226586398571,
+  "context_utilization": NaN
+},
+{
+  "faithfulness": 0.85,
+  "answer_relevancy": 0.6948351748903157,
+  "context_relevancy": 0.09669216181532704,
+  "context_utilization": 0.7730960707226785
+}

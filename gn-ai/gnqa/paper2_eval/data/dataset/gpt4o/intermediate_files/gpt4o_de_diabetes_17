@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2013 - Genome-Wide Contribution of Genotype by Environment Interaction.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2020 - Genome-wide association analysis of type 2 diabetes in the EPIC-InterAct study.pdf",
+    "2017 - Genomic regulation of type 2 diabetes endophenotypes Contribution.pdf",
+    "2012 - What will Diabetes Genomes Tell Us.pdf",
+    "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf",
+    "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf",
+    "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf"
+  ],
+  "extraction_id": [
+    "978df5a8-acb4-53d3-b351-66a3bc613c78",
+    "aba850e8-8c0d-5256-b2ba-fa1dfc221114",
+    "f3975a2c-8a66-582e-a4b8-868b1f4722d4",
+    "3c30b33b-8928-5cee-9c37-c70642fff75c",
+    "2c601441-443d-5c47-95bb-6343378dd5dc",
+    "3dc37987-5204-5414-92ee-9d97af221261",
+    "50a110f8-e91d-5985-9fe9-62a373a58c9d",
+    "8dd91a24-2ac7-57b3-9cb3-f8ac74b1885c",
+    "f6926cab-e00d-5972-a815-2ecc9f8c35d5",
+    "9369222f-e125-58c0-8f2b-cf5daa867f77"
+  ],
+  "document_id": [
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "8c310d76-0a3b-574c-9859-859258870ee5",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "5dd7d700-03db-595d-b1a5-beca77f9579e",
+    "fef1ae33-b3af-50ea-909c-f1b57f7fe981",
+    "38b3b7ab-d13e-5986-9a3a-54abe8a3e1e9",
+    "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f",
+    "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f",
+    "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f"
+  ],
+  "id": [
+    "chatcmpl-AIHKYN37xsXdGCjQ8Ms8PgKZ10CIR",
+    "7302a27a-6e56-589d-a579-635f25fc46a3",
+    "4d780759-36bb-5295-a63a-16dab6aeab8c",
+    "ac4d8521-b492-59b5-9978-891f5a5ce0c5",
+    "81fb2df2-4154-58a7-b217-b07153a6c921",
+    "263ea999-9662-5518-a606-939f69d09f90",
+    "c807fc8b-966e-56a9-91ce-07b9baf940d9",
+    "ef027493-6063-5abd-9ee7-0c9a37379317",
+    "869d46b4-e379-54f8-bd71-143d9f31fa93",
+    "b92b959c-2f31-5177-8a21-627f3ee81b6c",
+    "7fd80e84-ec0c-564c-8e8b-278b8c622abb"
+  ],
+  "contexts": [
+    "The integration of genetic, epigenetic, transcriptomic and phenotypic information allows to identify genes and novel metabolic pathway targets that deserve further attention to elucidate mechanistic relationships with insulin resistance and pancreatic islet failure. Although the GWASs and EWASs shed light onto (epi)genomic landscape of T2D to a great extent, these methods have still explicit limitations to conquer, such as sample size, small effect size, low allele frequency, genetic heterogeneity",
+    "map of the human genome, spurred larger multi-institutional programs (e.g., 1000 Genomes Projects, Encyclopedia of DNA Elements [ENCODE], and Roadmap Epigenomics), that have the goal of tracking genomic and epigenomic changes across multiple populations [ 8]. Aforementioned studies enabled GWASs for complex diseases such as T2D. DNA amplication, Sanger sequencing, and microarray studies have shed light on the genetics of diabetes but have only provided a limited amount of data. An",
+    "Abstract While genome-wide association studies (GWAS) and candidate gene approaches have identified many genetic variants that contribute to disease risk as main effects, the impact of genotype by environment (GxE) interactions remains rather under- surveyed. To explore the importance of GxE interactions for diabetes-related traits, a tool for Genome-wide Complex Trait",
+    "The advancement that has taken place in Genome-Wide Association Studies (GWAS) holds tremendous information related to various gene patterns associated with divergent illnesses that are complex and challenging to perform reductive analysis from a single locus, as stated by Cho Ys [6] and Coron [7]. The evolution of GWAS has focused on integrating data related to multi-locus across the gene that would assist in predicting complex illnesses",
+    "1. Genome-wide association studies (GW AS) have made considerable progress in identifying genetic risk  factors and in providing evidence for more in-depth understanding of the biological and pathological pathways underlying T2D. A recent study performed a meta-analysis of T2D across 32 GW AS of European ancestry par - ticipants and identified 243 genome-wide significant loci (403 distinct genetic variants) associated with T2D risk",
+    "1. Introduction Genome wide association studies (GWAS) of type 2 diabetes mellitus and relevant endophenotypes have shed new light on the complex etiology of the disease and underscored the multiple molecular mechanisms involved in the pathogenic processes leading to hyperglycemia [1]. Even though these studies have successfully mapped many diabetes risk genetic loci that could not be detected by linkage analysis, the risk single nucleotide poly-",
+    "how they will continue to expand our understanding of the genetic risk factors and underlying biology of diabetes. Keywords Genotyping .Genome-wide association . Sequencing .Imputation .Exome .Genome . Fine-mapping .Diabetes .Quantitative traits .Metabochip . Single nucleotide polymorphism Introduction GWA studies have made progress toward understanding the inherited basis of type 1 and type 2 diabetes by detecting disease-associated DNA variants, usually with allele fre-",
+    "complementary systems level data such as that related to protein- protein interactions and to and gene expression can provideinsights into the mechanisms underlying pathogenesis of complextraits [2224]. Here, we have combined these approaches towarddeciphering genome to phenome correlation in T2D ( Figure 1 ). Given that T2D GWAS genes do not directly relate to disease",
+    "phenotypes [2,6]. The recently accomplished deep sequencing of human exomes has indeed suggested that rare variations contribute substantially to human phenotypic variation and disease susceptibility [73]. Availability of post-GWASs era data for T2D will be crucial in examining genome to phenomecorrelation in greater details. Emerging methods in pathway-wide analysis and integrative network based analysis of genetic association data in complex disorders will further help accelerate",
+    "Abstract Genome-wide association studies (GWASs) have discovered association of several loci with Type 2 diabetes (T2D), a common complex disease characterized by impaired insulin secretion by pancreatic bcells and insulin signaling in target tissues. However, effect of genetic risk variants on continuous glycemic measures in nondiabetic subjects mainly elucidatesperturbation of insulin secretion. Also, the disease associated genes do not clearly converge on functional categories"
+  ],
+  "answer": "Genome-wide association studies (GWAS) integrate with multi-omics data to elucidate the complex genetic architectures of diabetes by combining genetic, epigenetic, transcriptomic, and phenotypic information. This integration helps identify genes and novel metabolic pathway targets that are crucial for understanding mechanistic relationships with insulin resistance and pancreatic islet failure [1]. Additionally, complementary systems-level data, such as protein-protein interactions and gene expression, provide insights into the mechanisms underlying the pathogenesis of complex traits like type 2 diabetes (T2D) [8]. This multi-omics approach allows for a more comprehensive understanding of the genome-to-phenome correlation in T2D, which is essential for examining the disease's complex genetic architecture [9].",
+  "question": "How do genome-wide association studies (GWAS) integrate with multi-omics data to elucidate the complex genetic architectures of diabetes?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2022 - Immunity and lifespan answering.pdf",
+    "2018 - Metabolomic pathways to osteoporosis in middle-aged women  A genome-metabolome-wide.pdf",
+    "2017 - An integrative metabolomics.pdf",
+    "2017 - An integrative metabolomics.pdf",
+    "2022 - A review on the application of the exposome.pdf",
+    "2017 - An integrative metabolomics.pdf",
+    "2012 - Systems Biology in Aging Linking the Old and the Young.pdf",
+    "2017 - An integrative metabolomics.pdf",
+    "2019 - Undulating changes in human plasma proteome.pdf",
+    "2018 - Spontaneous DNA damage to the nuclear genome promotes senescence.pdf"
+  ],
+  "extraction_id": [
+    "d4db0b82-40d3-5341-ad30-c70a91fdc785",
+    "e92950f9-a8d6-5aa5-bf83-ab1cef74627d",
+    "09a73df7-f690-5984-a498-69a8077fe327",
+    "af201c05-daed-5cba-abc8-e714483e602f",
+    "cac0d599-4e0a-5826-b47f-e71b52203956",
+    "f9c942d2-a191-52d4-8018-1030e414649d",
+    "6794bfa0-86ff-506f-ac40-35a9b1e33bcf",
+    "500f52f7-9205-5859-a156-6d30575a3d62",
+    "24e63f26-0bac-59d4-b325-9c8ead69a4de",
+    "40e2d528-9297-575f-82a9-178aae0bab81"
+  ],
+  "document_id": [
+    "a834e7ee-7bab-5c4d-a236-b570d1ae635f",
+    "f9aa8a09-5148-5399-b6be-c3350f12c0f3",
+    "cb0831f4-540a-5620-b69e-03d6127f84e5",
+    "cb0831f4-540a-5620-b69e-03d6127f84e5",
+    "803a14cc-d8ab-54ca-80d6-78f1677457f9",
+    "cb0831f4-540a-5620-b69e-03d6127f84e5",
+    "cf7a8c59-4b4d-5e04-94b6-dd97edcb47a8",
+    "cb0831f4-540a-5620-b69e-03d6127f84e5",
+    "53c3130f-7029-50de-8dba-8714dfa36420",
+    "08be7274-78a3-5e93-9e8c-3d4f6dbeacf9"
+  ],
+  "id": [
+    "chatcmpl-AIHX1EytrrBFzyZb7piMsWydaKzhq",
+    "a8194abc-51ab-5c29-a6be-f34bb24e0b47",
+    "1d8fd475-f7a7-55c6-881e-6985826c1e23",
+    "4547b6ad-efaf-509e-8e0b-5587542905fd",
+    "3dba594a-b79b-5bc6-95f6-6e0a36193818",
+    "ce9d4d88-2586-5071-bf9e-45b7172b0e8e",
+    "beea72ed-e213-5877-8144-d0ef000a2912",
+    "6ad38ef0-c6bd-5b6a-9fb6-53c04f18a76d",
+    "554f2525-a8cb-5003-be3d-137da97ea97f",
+    "d0b9df07-f6aa-52a5-9696-81f9034d9548",
+    "07a5111b-b38b-5e1a-bd76-9372499a4dd9"
+  ],
+  "contexts": [
+    "learning to show that plasma proteins that predict age are predominantly associated with immunity [91]. State-of-the-art metabolomics approaches are also now allowing age-related changes in me- tabolite pro les to be studied, which provide new insights into the physiological mechanisms of age- ing [ 92,93]. The integration of multiple datasets generated from genomes, epigenomes, transcriptomes, proteomes, and metabolomes, an approach termed multi-omics , offers great",
+    "13. Menni C, Kastenmuller G, Petersen AK, et al. Metabolomic markers reveal novel pathways of ageing  and early development in human populations. Int J Epidemiol 2013;42:1111- 9.  14. Evans AM BB, Liu Q, Mitchell MW, Robinson RJ, et al. . High Resolution Mass Spectrometry Improves  Data Quantity and Quality as Compared to Unit Mass Resolution Mass Spectrometry in High- Throughput  Profiling Metabolomics. Metabolomics 2014;4:132.",
+    "Due to the mild adaptions, the identification of func- tionally altered metabolic activity in aged skin interpret- ation of significant metabolite and transcript changes of small magnitude is especially challenging. Therefore, we employed the previously presented locality scoring ap- proach [60] to identify age-dependent transcriptional al- terations of enzymes that functionally effect proximal metabolic activity and thus metabolite levels. This inte- grated analysis revealed age-dependent, concerted me-",
+    "matched transcriptome and metabolome data highlighted transcriptionally-driven alterations of metabolism during aging such as altered activity in upper glycolysis and glycerolipid biosynthesis or decreased protein and polyamine biosynthesis. Together, we identified several age-dependent metabolic alterations that might affect cellular signaling, epidermal barrier function, and skin structure and morphology.",
+    "used to assess biological responses provides new oppor - tunities to understand the impact of the environment on  the risk of age-related diseases. For example, the multi - omics analysis and integration method produces a pri - ority list of multiple sets of biomarkers, which together  reflect the molecular responses of the exposome. Each of  these data warrants integration into a biomarker panel to  aid physicians in developing age-related disease diagno - ses and prognoses [78].",
+    "summary, we identified age-dependent changes in gene expression in different metabolic pathways that have been associated with epidermal homeostasis and there- fore might be important to sustain epidermal function. Integrated analysis of transcriptome and metabolome data Since the age-dependent adaptations of metabolite and transcript levels are only mild, we set out to identify metabolic enzymes that featured an age-dependent and functional change in activity driven by altered gene ex-",
+    "These high throughput prof iling experiments have gener- ated large amounts of data for meta-analysis [24], which can  compare molecular functions and expression patterns that change during aging in different systems. However, such studies are far from exhaustive, as they only describe the molecular changes during aging, which could in fact be the consequence of aging, rather than the cause of aging. Thus to  explore the causal factors for aging, studies are increasingly",
+    "over, the integration of trans criptome and metabolome data revealed a transcriptionally re gulated reduction in protein as well as polyamine biosynthesis and adaptation in upper glycolysis and glycerolipid biosynthesis in aged skin. Results Differences in the epidermal skin metabolome of young and old human volunteers To chart metabolic adaptations in human skin during aging in vivo , we performed non-targeted metabolomicsanalysis of epidermal skin tissue samples obtained from",
+    "proteomes overlap significantly with the waves of aging proteins (Supplementary Table 15). Accounting for heterogeneous and com - plex changes to the plasma proteome during life will likely improve the sensitivity and specificity of prognostic and diagnostic tests. Moreover, these results are pertinent when considering the use of  blood or blood products to treat aging and age-related diseases 39.  Specifically, identifying plasma proteins that promote or antagonize",
+    "rmed using authentic standards. One of the key nodes identi ed by metabolomics as signi cantly altered with accelerated and normal aging was glutathione metabolism ( Fig. 4A), a key antioxidant and index of oxidative stress [71]. Dierential MS was used for proteomics analysis to identify redox- related proteins signi cantly altered in the livers of 3 4 month-old progeroid Ercc1/mice and old WT mice (> 2 years-old) vs. adult WT mice. Expression of catalase, SOD1 (CuZnSOD) and SOD2 (MnSOD)"
+  ],
+  "answer": "The integration of proteomics and metabolomics data can provide a comprehensive understanding of age-associated metabolic shifts by revealing changes in protein expression and metabolite profiles that occur with aging. This multi-omics approach allows for the identification of specific pathways and molecular mechanisms that are altered as organisms age.  1. **Proteomics Insights**: Proteomics data can identify plasma proteins that predict age and are predominantly associated with immunity [1]. This suggests that changes in protein expression related to immune function are significant in the aging process.  2. **Metabolomics Insights**: Metabolomics approaches enable the study of age-related changes in metabolite profiles, providing new insights into the physiological mechanisms of aging [1]. For example, metabolomics has identified significant alterations in glutathione metabolism, a key antioxidant pathway, which is indicative of oxidative stress associated with aging [10].  3. **Integrated Analysis**: By integrating transcriptome and metabolome data, researchers have identified transcriptionally-driven alterations in metabolism during aging, such as changes in glycolysis and glycerolipid biosynthesis, and reductions in protein and polyamine biosynthesis [4], [8]. These changes can affect cellular signaling, epidermal barrier function, and skin structure and morphology, highlighting the interconnected nature of metabolic pathways and their impact on aging.  4. **Functional Changes**: The integration of these datasets can also reveal age-dependent changes in the activity of metabolic enzymes, which are driven by altered gene expression [6]. This helps in understanding how mild adaptations in metabolite and transcript levels contribute to maintaining functions like epidermal homeostasis during aging.  Overall, the integration of proteomics and metabolomics data provides a holistic view of the molecular changes that occur with aging, allowing for the identification of biomarkers and pathways that could be targeted to mitigate age-related decline.",
+  "question": "How can the integration of proteomics and metabolomics data shed light on age-associated metabolic shifts?"
+}

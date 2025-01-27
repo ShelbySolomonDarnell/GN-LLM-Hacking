@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2005 - Type 2 diabetes mellitus from genes to disease.pdf",
+    "2016 - Association of genetic variants in INS (rs689), INSR (rs1799816) and PP1G.G (rs1799999) with type 2 diabetes (T2D) a case\u2013control study in three ethnic groups from N.pdf",
+    "2007 - Bioethnic Conscription Genes, Race.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2011 - Dating the age of admixture via wavelet.pdf",
+    "2020 - Precision Medicine in Diabetes.pdf",
+    "2014 - Diabetes in Europe An update.pdf",
+    "2016 - TRPV1 Gene Polymorphisms Are Associated with Type 2 Diabetes by Their Interaction with Fat Consumption in the Korean Genome Epidemiology Study.pdf"
+  ],
+  "extraction_id": [
+    "61fb4dd8-1428-5add-8c41-9ec2459ffd5a",
+    "090365f1-32e0-5adc-b589-b9331e0630a0",
+    "73278198-67af-5556-9414-86580dd07c48",
+    "4cbd4dfc-da8e-5432-b844-5f70d6f3811d",
+    "95f0e6f8-da7d-5997-ab8a-a1aad020c706",
+    "8d323598-fdf7-56cf-8290-be85929f0eaf",
+    "a5c137e5-84d2-5d75-8191-fa6b0be3d39e",
+    "9dc25bb6-787b-5e7a-af5d-d1353d122959",
+    "fa58324a-e5b7-538e-9cbb-0549887a2154",
+    "8276c974-f60b-5f59-943d-94a635160d1d"
+  ],
+  "document_id": [
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "52687a38-6a4b-51d2-aafa-812c76981dfe",
+    "5fe7c5f4-a209-56be-8504-c08073335c3b",
+    "d90126d9-fd87-5b38-87f7-08415f690836",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "786cebc5-c3cc-586e-bdc0-e7bee67edc19",
+    "0ad5b2de-d782-5d43-b294-bff5c7befd2d",
+    "81e1fc53-6768-590f-9b47-9a5105b6ddb5",
+    "521db985-2ce8-56c3-aed7-b38ef41cce45"
+  ],
+  "id": [
+    "chatcmpl-AIFpUuEUTWxzzcta8xK3fjxfSUNPx",
+    "49748fe8-4351-5cd1-8367-957a160a59d9",
+    "80ad1f9c-4f67-5a68-9446-1f692b23f324",
+    "5fd9c60a-410f-5782-90a9-03d377a5f72b",
+    "d02a16ce-c62e-537d-9d32-266018c70415",
+    "684d1e26-b78a-5dde-b405-a79ee28087c3",
+    "8445ab0a-2287-5537-ab3a-cb058205e944",
+    "10c1db42-f724-5885-99e0-7637dfce63ca",
+    "d29cdd31-d214-52cf-b236-be4de1182b26",
+    "6fd138d2-6960-55fd-b656-05f4e84a0c6d",
+    "2771c343-be7b-51a2-a598-235647357416"
+  ],
+  "contexts": [
+    "of diabetes when compared to the native population while not necessar-ily different from populations where they origi-nate from. Risk factors for diabetes appear to be similar between populations, mostly insulin resistance, obesity, and sedentary lifestyle with possible genetic differences contributing to the increased susceptibility. Some data suggest a greater prevalence of microvascular complica-",
+    "nants of type 2 diabetes between immigrant and native populations. Some studies in South Asian (Indian) populations suggest that genetic differ-ences may exist [  17 ,  30 ], but larger studies are  needed to get better insight into this issue.       Prevalence Estimates   The prevalence of diabetes in minorities is affected by ethnicity and country of residence. In one study in the UK [  59 ], standardized preva-",
+    "majority of cases it is difficult to replicate the findingsin other populations. One of the major problems in thesearch for genes responsible for common forms ofdiabetes is the genetic heterogeneity of the diseasewith different genes responsible for the developmentof T2DM in different populations. Furthermore, evenwithin the same ethnic group, different genes may beresponsible for different subtypes of diabetes (for in-stance with predominating failure in insulin secretionor insulin resistance). This is",
+    "across different races or populations but show ethnicity- specific differences. The pathogenesis of T2D involves  genetic variants in the candidate genes. The interactions  between the genes involved in insulin signaling and secre - tory pathways are believed to play an important role in  determining an individuals susceptibility towards T2D.  Therefore, the present study was initiated to examine the  differences, if any, in the contribution of polymorphisms",
+    "That is, the minute genetic differences discernable with SNPs, patterns of single nu-cleotides (A,G,T ,C), and other mutation analysis technologies are now used to explainpatterns of disease between populations, which are in turn understood as the basisfor biological differences between the populations themselves. The case of diabetesgenetics research affords a more nuanced look at what is labeled genetic determinism.It is evident in diabetes research that SNPs and haplotypes, (an inherited pattern of 99",
+    "- tion for disease classification. This genetic component may be specifically important when understanding the pathogenesis of diabetes in ethnic groups, when BMI [14, 15] and HbA1c [16] show distinct differences between ethnicities. Though applying patient-matched, genomic information is currently unrealistic for disease diagnosis, it may hold the key for revealing commonalities across ethnic and demographic groups when classifying diabetic onset, progression, and severity.",
+    "particularly useful for understanding differences in dis-ease prevalence and drug response among differentpopulations. There is ample evidence that human popu-lations have different susceptibility to diseases, exhibit-ing substantial variation in risk allele frequencies [1].For example, genetic predisposition to asthma differsamong the differentially-admixed Hispanic populations of the United States, with the highest prevalence observed in Puerto Ricans. Ge netic variants responsible",
+    "populations and across countries. World-wide differences in prevalence of theforms of diabetes necessitates inclusion of currently understudied populationsfor the development of precision diag-nostics and therapeutics. As a result, theprecise subtype of diabetes a particularindividual is diagnosed with may vary indifferent populations based on subtypefrequency or genetic or dietary or life-style differences. The communication strategy used by the interventionalist and the patient s",
+    "were  positively  associated  with  country  level  income  [49]. However,  the  drivers  for  the  observed  pattern  with  geographi- cal  differences  and  varying  time  trends  are  still  unclear. Susceptibility  to  type  1  diabetes  denitely  has  a  strong  genetic component  (HLA  genotype)  [50],  but  the  heterogeneity  of  type 1  diabetes  cannot  be  explained  solely  by  the  prevalence  of susceptibility  genes  [5153] .  Thus,  the  reasons  for  changes  in",
+    "twice higher than that of 2010  [3] .   The genetic influences on the prevalence of type 2 diabetes i n the Asian population are  mainly related to insulin secretion capacity  [4] ; other genes involved in the risk of type 2  diabetes are not substantially different in other ethnic groups   [5] . The most relevant genes  contributing to ethnic differences are associated with insulin secretion capacity, and they are"
+  ],
+  "answer": "Genetic differences contribute to variations in diabetes prevalence among different populations in several ways:  1. **Genetic Heterogeneity**: Different genes may be responsible for the development of type 2 diabetes mellitus (T2DM) in different populations, indicating genetic heterogeneity. Even within the same ethnic group, different genes might be responsible for different subtypes of diabetes, such as those with predominating failure in insulin secretion or insulin resistance [3].  2. **Ethnicity-Specific Genetic Variants**: The pathogenesis of T2DM involves genetic variants in candidate genes, and these variants can show ethnicity-specific differences. The interactions between genes involved in insulin signaling and secretory pathways play a crucial role in determining an individual's susceptibility to T2DM [4].  3. **Single Nucleotide Polymorphisms (SNPs) and Haplotypes**: Minute genetic differences, such as SNPs and haplotypes, are used to explain patterns of disease between populations. These genetic markers are understood as the basis for biological differences between populations, which can affect diabetes prevalence [5].  4. **Risk Allele Frequencies**: Human populations exhibit substantial variation in risk allele frequencies, which contributes to different susceptibilities to diseases, including diabetes, among populations [7].  5. **Insulin Secretion Capacity**: In some populations, such as the Asian population, genetic influences on the prevalence of type 2 diabetes are mainly related to insulin secretion capacity. This suggests that genes associated with insulin secretion capacity are particularly relevant in contributing to ethnic differences in diabetes prevalence [10].  Overall, genetic differences, including variations in specific genes, SNPs, and risk allele frequencies, contribute to the observed variations in diabetes prevalence among different populations. These genetic factors interact with environmental and lifestyle factors to influence diabetes risk.",
+  "question": "How do genetic differences contribute to variations in diabetes prevalence among different populations?"
+}

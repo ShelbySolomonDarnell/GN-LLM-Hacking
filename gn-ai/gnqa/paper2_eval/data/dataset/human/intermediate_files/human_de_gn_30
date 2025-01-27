@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2021 - Plant Pan-Genomics.pdf",
+    "2018 - Effects of Genetic Background on Susceptibility and the Acceleration of Hearing Loss in Mice.pdf",
+    "2019 - Genomic Analysis in the Age.pdf",
+    "2023 - Clinical, technical, and environmental biases.pdf",
+    "2021 - Plant Pan-Genomics.pdf",
+    "2011 - The Reference Human Genome High Risk of Type 1 Diabetes and Other Disorder.pdf",
+    "2015 - Informatics resources for the Collaborative Cross and related mouse populations.pdf",
+    "2021 - Human Molecular Genetics and Genomics.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf",
+    "2017 - Post-genomic behavioral genetics From revolution to routine.pdf"
+  ],
+  "extraction_id": [
+    "b75d8a8c-6c3a-5fce-92ee-46ae61aceb95",
+    "bcae5dd7-f775-5634-801b-76a71c99b2f4",
+    "70f829cc-2b89-593f-9995-f3e1d369acd4",
+    "7b399dda-fb0e-5111-929c-78fa82a74636",
+    "73f80ca8-2f2c-5ff4-9b65-2eeae1fd0b02",
+    "de94e095-34e7-537c-8c85-531bb17f4735",
+    "ffe01714-be5b-5aaa-889b-b83e97fc022c",
+    "35967ed4-335d-5b3a-b66f-97f3073a292d",
+    "8cc88dd8-4985-57f5-93db-4bbf171f938b",
+    "022e1268-76b1-590b-b73e-a096d4719c72"
+  ],
+  "document_id": [
+    "3b346320-36f0-593c-bb36-c40cc6e23715",
+    "0567de5c-e886-5660-82de-8b80d2b580a9",
+    "f50c4d62-acab-5024-8ec7-526fffbfbf25",
+    "6a81e435-bd17-558d-850a-44ee3dbab5bd",
+    "3b346320-36f0-593c-bb36-c40cc6e23715",
+    "05e764f5-4ae8-51b7-89f0-987c79f6ed8f",
+    "889af7dc-d665-59a8-8b32-d3a65a831c70",
+    "68e362a5-e580-5a4d-8d41-6a138c873ede",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda",
+    "cf1fdd6b-e926-5e84-a6b1-a5e92abbd2f3"
+  ],
+  "id": [
+    "chatcmpl-ADZC0hJis0QrHtORi8K0UBB4TqKH0",
+    "66e86865-9c57-5ee7-883c-7bd1044fa708",
+    "83a31bf6-bd31-5a7b-ad2b-0f4223aa085a",
+    "21c0b3f1-a901-5a49-88ff-38963651d6cd",
+    "c43cf59c-5359-50cb-b9ee-73e74e3e1bd7",
+    "13a284d7-ff1c-5933-bce0-a69bbcee02cc",
+    "872237a6-b34e-57b4-bc4f-9967f8908796",
+    "940a31fb-adfd-558c-9c9d-39cb8d1ecee6",
+    "edcd5595-3b69-5ebe-b24f-a0c611f79606",
+    "16f7648c-92d7-5128-ae30-2a19ec89e04c",
+    "14cd9387-ac3c-52f9-81c3-c535925aeea8"
+  ],
+  "contexts": [
+    "When reliable prior knowledge exists about the variant composition in a pan-genome (typi- cally obtained via read-to-reference mapping), there are computational tools that can transform a linear reference sequence and a set of variant calls into graphs (18).This approach bypasses the computationallyexpensiveall-versus-allalignmentstepalongwiththeuncertaintiesofsubsequent graph construction, but the trade-off is increased reference bias and a potentially incomplete",
+    "(Karolchik et al. 2014 )] and Ensembl ( Flicek et al. 2013 ). Use of a single haploid reference  sequence as an anchor for all studies of genetic variation in mouse offers many practical  advantages. But the dependency on a reference genome requires several assumptions about  the nature of genetic variation which may be violated in practicethe strongest of which is  that of genomic collinearity (i.e., conserved marker order) between strains. We consider the",
+    "for at least 500 ancestrally diverse humans. This resource willalso provide a set of highly accurate genomes that can be used as a benchmarking dataset to improve short-read analysis tools. Even more importantly, these genomes allow completelynew designs for more effective short-read analysis strategiesthat overcome many of the limitations described above. Transitioning to a pan-genome reference will require develop-",
+    "2018;562(7726):203-209. http://doi.org/10.1038/s41586-018-0579-z 110. Li R, Li Y, Zheng H, et al. Building the sequence map of the human pan-genome. Nat Biotechnol . 2010;28(1):57-63. http://doi.org/10. 1038/nbt.1596 111. Vernikos G, Medini D, Riley DR, Tettelin H. Ten years of pan- genome analyses. Curr Opin Microbiol . 2015;23:148-154. http:// doi.org/10.1016/j.mib.2014.11.016 112. Miga KH, Wang T. The need for a human pangenome reference sequence. Annu Rev Genomics Hum Genet . 2021;22:81-102. http://",
+    "Whilemostpan-genomesconstructedtodateareprimarilygene-basedbecauseoftherelative easeofcomparingandcategorizingdiscreteunitsdefinedbytranscriptionandtranslation,theim- portanceofnoncodingandrepetitivesequencesisunquestionable.Itwouldthereforebeextremely powerfultodefineacomprehensivesequence-basedpan-genomethatincludesinformationabout therelativepositionofallsequences.Unfortunately,interpretingnoncodingsequencevariationischallenging.Indeed,evenforclassesofnoncodingsequencesofknownimportance,e.g.,promot-",
+    "assessment  will improve our understanding of the reference to  better assemble and interpret future  genome sequences.     We have previously developed a method to assess the risk of a patient for 55 diseases using a  quantitative human disease -SNP association database, and showed that we could suggest useful  and clinical relevant information using his personal genome sequence  (16). Here, we queried  the  reference genome sequence against our databa se and  identified  3,556 disease -susceptib ility",
+    "The shortcomings of a single, linear reference genome per species are well appreciated, and richer reference datastructures are an active area of research (Church et al. 2015 ). An alternative is de novo assembly of the genomes of commonly used strains. The Sanger Mouse GenomesProject is using a combination of long-insert jumping libraries and optical mapping to build de novo assemblies",
+    "undertake comprehensive and  powerful explorations rather than  being confined to testing hypoth - eses focused on candidate path - ways. With the completion of the  first reference sequence of the  human genome,3 attention shifted  from searching for genes to dis - covering their functions. System - atic genetic mapping in families  and populations helped scientists  pinpoint the genetic variants that  contribute to human disease.",
+    "points, nding statistical associations, modeling and run ning predic- tors, or constructing and pruning networks of detected rela tions. In the following paragraphs I will explore these opportunities in detail. 1.4.1 Population reference genomes Genomes are relatively similar between individuals, there fore, instead of assembling the complete sequence for each person, we only de termine points of DNA variation compared to a reference genome. Subs equently,",
+    "having a reference genome for a related specie s certainly makes the process easier. The  availability of long-read sequences vastly improves our ability to assemble new genomes, and new  technologies, such as PacBio  and Nanopore, are now able to give reads between 100-1000  kilobases, an order of m agnitude longer than current Illumina sequencing (Shendure et al.  2017).  Combining these new technologies with traditional short read NGS will greatly improve our ability"
+  ],
+  "answer": "Using a pangenome-based reference can be more useful than using a single linear reference for several reasons:  1. **Capturing Genetic Diversity**: A single linear reference genome represents just one version of a species' DNA, which might not include all the genetic variations found in different individuals. A pangenome, on the other hand, includes multiple versions of genes and sequences from various individuals, capturing a broader spectrum of genetic diversity [3].  2. **Reducing Reference Bias**: When using a single linear reference, there's a risk of reference bias, which means that genetic variations not present in the reference genome might be missed or misinterpreted. A pangenome reduces this bias by including multiple genetic variants, making it more likely to accurately represent the genetic makeup of different individuals [1].  3. **Improving Disease Research**: By including a wider range of genetic variations, a pangenome can help researchers better understand the genetic basis of diseases. This comprehensive approach allows for more accurate identification of disease-associated genetic variants, which can lead to better diagnostics and treatments [6].  4. **Enhanced Analysis Tools**: The use of a pangenome can improve the performance of genetic analysis tools. For example, it can provide a more accurate benchmark for evaluating new sequencing technologies and analysis methods, leading to more reliable results [3].  5. **Overcoming Limitations of Single References**: A single reference genome assumes that the order and structure of genes are the same across all individuals, which is not always true. This assumption can lead to errors in genetic studies. A pangenome, by including multiple sequences, can account for these structural variations and provide a more accurate representation of the genome [2].  In summary, a pangenome-based reference is more useful because it captures the genetic diversity of a species, reduces reference bias, improves disease research, enhances analysis tools, and overcomes the limitations of using a single linear reference. This makes it a more comprehensive and accurate tool for genetic studies.",
+  "question": "Can you explain why using a pangenome-based reference might be more   useful than simply using a single linear reference? Please make you   answer accessible to a non-expert."
+}

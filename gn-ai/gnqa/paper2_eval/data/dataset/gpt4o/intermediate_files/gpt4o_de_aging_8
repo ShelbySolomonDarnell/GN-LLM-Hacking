@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2016 - Epigenetics and aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2022 - Predict the role of lncRNA in kidney aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2016 - Epigenetics and aging.pdf",
+    "2015 - Comprehensive transcriptional landscape.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2022 - Predict the role of lncRNA in kidney aging.pdf"
+  ],
+  "extraction_id": [
+    "e2fc0d00-8552-5b39-830f-6df7ec7c32e4",
+    "91434549-bda3-5154-b089-28efed9c1089",
+    "b45152cc-6626-5989-a1b0-148c137ea1f3",
+    "3932ada5-6fc4-5354-b52a-60fddbd47d3e",
+    "67e3cb94-cc30-58fe-8ff7-a9790c74325f",
+    "cb24a361-e7b4-5d35-a507-12ef65603d1f",
+    "5221f1f8-1c53-590f-86c2-23ab47ac0cbc",
+    "45ff5315-7500-5641-9c1a-e03b8aafc2d5",
+    "e308005e-d6ef-5492-a9a9-95256bb9ccee",
+    "67e3cb94-cc30-58fe-8ff7-a9790c74325f"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "71b206ec-81bd-5194-8b21-ae522f8cbc2d",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "0d3b0558-289c-5af0-843a-f288d5da3d8c",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "71b206ec-81bd-5194-8b21-ae522f8cbc2d",
+    "6f223b7b-d0ed-55d3-be91-a9e704149a94",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "0d3b0558-289c-5af0-843a-f288d5da3d8c"
+  ],
+  "id": [
+    "chatcmpl-AIHX9ExmiM3mDYaf83XTHzQDSE0IN",
+    "41e5a2ca-1c83-5394-8fbf-c9dcc75e6a51",
+    "cb309a6a-4566-5de2-9687-cffa2f7737d2",
+    "8fa044d2-c807-5207-8361-ea22659d8b63",
+    "e4d9a99d-4d28-5432-8e91-09388ea4b613",
+    "85a38fea-bd20-5170-bba0-963b12633c55",
+    "36a2ed56-a0b9-589d-b178-f1515337f1ae",
+    "577459d5-e2fc-599f-9806-3d18ab6837e6",
+    "ab28b2fc-4144-5b86-92af-d6054794a0b1",
+    "90c36562-0443-5100-b710-d750bd365b46",
+    "c2978dcd-0bab-5ca9-8130-0cdca1cc9330"
+  ],
+  "contexts": [
+    "lncRNA which overexpression participates in the regulation of age-associated car - diovascular diseases as it is a non-canonical precursor for hsa-miR-4485 and hsa-  miR- 1973 microRNAs [62]. These studies demonstrate that not only coding genes  (which represent only 2% of the genome sequence) are implicated in aging regula- tion, but also lncRNAs and microRNAs participate in tissue age-related changes. circRNAs are non-coding covalently closed single-stranded transcripts produced",
+    "(2008). 192. K. Abdelmohsen, A. Panda, M.-J. Kang, J. Xu, R. Selimyan, J.-H. Yoon, J. L. Martindale, S. De, W. H. Wood III, K. G. Becker, M. Gorospe, Senescence-associated lncRNAs: Senescence- associated long noncoding RNAs. Aging Cell 12, 890 900 (2013). 193. S. Kour, P. C. Rath, Long noncoding RNAs in aging and age-related diseases. Ageing Res. Rev. 26,1 21 (2015). 194. R. Johnson, Long non-coding RNAs in Huntington s disease neurodegeneration. Neurobiol. Dis. 46,2 4 5 254 (2012).",
+    "155 Premature ageing has been associated with altered expression of lncRNAs that  participate in the regulation of the telomere length by modulating the TERT activity  and synthesis of telomeric repeats [155, 161]. Furthermore, it has been reported that  changes in the expression levels of some lncRNAs are associated with the develop- ment of AD [162].  Circular RNAs andAgeing Circular RNAs (circRNAs) are highly conserved covalently closed non-coding",
+    "interacting with proteins and nucleic acids in order to regulate gene expression (by  indirect epigenetic mechanisms or by direct mechanisms acting as antisense tran- scripts or transcriptional coactivators), nuclear location of transcription factors and  stabilization of ribonucleoprotein complexes [155]. It has been reported that lncRNAs  are important in the regulation of ageing-associated mechanisms in humans and ani-",
+    "progression. LncRNA H19 was recently reported to play  a crucial role in the activation of MAPK and the NF-kB  signaling pathway and the induction of atherosclero - sis [3]. lncRNAs play crucial roles in the progression of  diabetic nephropathy [12], glomerular disease [13] and  renal fibrosis [14]. The lncRNA Arid-IR promotes NF- kB-mediated kidney inflammation by targeting NLRC5  transcription [15]. The cell cycle changes during aging.  Previous studies have shown that lncRNAs are related to",
+    "expression of SIRT1 and are decreased in lymphoblastic cell lines generated from  centenarians compared with those of AD patients, suggesting a protective effect of  these miRNAs against neurodegeneration [66]. Long noncoding RNAs are important regulators of transcriptional networks and  the closed or opened chromatin state [2]. One interesting example of an lncRNA  is that associated with aging, H19. This lncRNA interacts with MBD1 (a methyl-",
+    "associated factors, modulating aging and senescence directly or in-directly. One such example includes a specific lncRNA, Gas5 ,w h i c h is highly expressed in aged mice brain and has been associated with im-paired learning ( 189). Another bona fide example is H19lncRNA, a dif- ferentially spliced product from the H19gene located at the IGF2/H19 imprinted locus, which interacts with methyl-CpG binding domain",
+    "tempting to speculate that these lncRNAs may exert some regulatory control of this locus, possibly contributing to senescent phenotypes. Together, these findings point to- wards a host of age-related ncRNAs as regulators of aging pathways and networks. Interaction network analysis The increased accuracy and breadth of our RNA-seq data sets allowed us to generate networks of gene func- tional change in aging liver, above and beyond what was observed using DAVID or GOrilla. Using Ingenuity",
+    "RNAs interact with proinflammatory signaling pathways and regulate senescence; however, their role on regulation of vas-cular aging processes is virtually unknown. 151 Interestingly,  there is initial evidence linking the expression of the long  noncoding RNA Meg3 (maternally expressed 3) to age-related  impairment of angiogenic capacity of endothelial cells.152 Further studies are definitely needed to understand the",
+    "Page 2 of 11 Lietal. BMC Genomics          (2022) 23:254  mechanism of kidney aging will be of great significance  for delaying the occurrence and development of renal  aging. Although a small number of studies have been  conducted on renal aging, it is still meaningful to com - prehend the mechanism of renal aging. Long chain noncoding RNAs (lncRNAs) are more than  200 nucleotides in length. LncRNAs regulate transcrip - tional and posttranscriptional RNA processing, transla -"
+  ],
+  "answer": "Long non-coding RNAs (lncRNAs) play significant roles in the regulation of aging and age-related diseases through various mechanisms:  1. **Regulation of Age-Associated Cardiovascular Diseases**: LncRNAs are involved in the regulation of age-associated cardiovascular diseases by acting as non-canonical precursors for specific microRNAs, such as hsa-miR-4485 and hsa-miR-1973, which participate in tissue age-related changes [1].  2. **Senescence-Associated lncRNAs**: Certain lncRNAs are associated with cellular senescence, a key process in aging. These senescence-associated lncRNAs are implicated in the regulation of aging mechanisms [2].  3. **Telomere Length Regulation**: LncRNAs are involved in the regulation of telomere length by modulating TERT activity and the synthesis of telomeric repeats, which is crucial for cellular aging and longevity [3].  4. **Gene Expression Regulation**: LncRNAs interact with proteins and nucleic acids to regulate gene expression through epigenetic mechanisms, acting as antisense transcripts or transcriptional coactivators. They also influence the nuclear location of transcription factors and stabilize ribonucleoprotein complexes, which are important in aging-associated mechanisms [4].  5. **Disease Progression**: LncRNAs play roles in the progression of various age-related diseases, such as atherosclerosis, diabetic nephropathy, glomerular disease, and renal fibrosis. For example, lncRNA H19 is involved in the activation of signaling pathways that induce atherosclerosis [5].  6. **Neurodegeneration**: LncRNAs are implicated in neurodegenerative diseases, such as Huntington's disease, by regulating transcriptional networks and chromatin states [6].  7. **Impaired Learning and Senescence**: Specific lncRNAs, like Gas5, are associated with impaired learning in aged brains, and others, like H19, interact with methyl-CpG binding domains, influencing senescence and aging pathways [7].  8. **Angiogenic Capacity**: The expression of lncRNA Meg3 is linked to age-related impairment of the angiogenic capacity of endothelial cells, indicating a role in vascular aging processes [9].  Overall, lncRNAs are crucial regulators of aging and age-related diseases through their diverse roles in gene expression, cellular senescence, disease progression, and other aging-related mechanisms.",
+  "question": "What role do long non-coding RNAs (lncRNAs) play in the regulation of aging and age-related diseases?"
+}

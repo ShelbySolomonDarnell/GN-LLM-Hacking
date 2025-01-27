@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2004 - Diabetes Genes a.pdf",
+    "2003 - The Inherited Basis of Diabetes Mellitus.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2016 - The Genomics of Type 1 Diabetes.pdf",
+    "2015 - Epigenetic mechanisms in diabetic complications and metabolic memory.pdf",
+    "2011 - The identification of gene expression.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2011 - The identification of gene expression.pdf"
+  ],
+  "extraction_id": [
+    "a19924b0-a834-5100-8b24-6b57dcddb82a",
+    "2aa8d99c-99d7-55de-aa2a-c24a46ea9058",
+    "919cb859-8f47-5930-8713-090520be523f",
+    "c4de4c07-4749-5401-bbf3-16988c132852",
+    "5e43ab7d-3e2b-551c-9a90-f91e970cb8d7",
+    "312b1856-e1b1-5ae7-8cba-370becf5f7cb",
+    "e5e4169a-56d8-539f-8ebc-ad44eb75433f",
+    "c362793d-c70f-5225-afe5-88098042daef",
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "e5e4169a-56d8-539f-8ebc-ad44eb75433f"
+  ],
+  "document_id": [
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "7b85b290-d711-55d5-9b1e-b06e4d6f14a2",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "4933cdc2-7d36-5181-87c9-63b58498839f",
+    "470f1f94-792d-5273-a88f-7e06084951c5",
+    "61558082-f092-5a1d-abbb-a5a81e8a959b",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "61558082-f092-5a1d-abbb-a5a81e8a959b"
+  ],
+  "id": [
+    "chatcmpl-AIFrXDhQoyphIy4Ti77mFez47y0g5",
+    "e7d89095-ef66-5c11-982c-879791dd14a4",
+    "c21caf96-f04a-551d-92b2-f4ff084d43c8",
+    "fceee048-359b-5854-b45d-5531b9374ce8",
+    "f4e8a3c8-0b85-5595-8917-933aced8b3ba",
+    "df21554e-6053-53ae-aae5-e3d1dba1b1f5",
+    "db06230d-31c0-5947-8c1c-f58c48b6f439",
+    "e0b86e8e-4e1a-5f6b-9b41-e9a4f912790c",
+    "cc98a5b9-131e-5b60-919e-82e86b7a37a7",
+    "b092c8b9-edb1-55fb-ae16-c67e3298946e",
+    "efd7c210-858d-5125-8da9-46862e19a58a"
+  ],
+  "contexts": [
+    "by performing a genetic profile on diabetic patients (pharmacogenetics).  Furthermore, identification of genetic determinants of diabetic patients will  better define the targets of current and future therapies, and will lead to  therapies that are more specific for their genetic constitutes.  SUMMARY  With the advancement of the Human Genome Project, we enter the  era of a sequence-based biology. Some progress has been made in the",
+    "Todate,studiesofdiabeteshaveplayedamajorroleinshapingthinkingabout thegeneticanalysisofcomplexdiseases.Basedontrendsingenomicinformationandtechnology,combinedwiththegrowingpublichealthimportanceofdiabetes,diabetes will likely continue to be an important arena in which methods will bepioneeredandlessonslearned.Itiswithgreatenthusiasmthatwelookforwardtothis effort, and with avid curiosity we await to see whether the lessons of todaywill be supported by the data of tomorrow.",
+    "DNA code. Therefore, greater unders tanding of the epigenetic basis of disease could enable the 576  discovery new therapeutic targets for the treat ment of numerous human diseases including 577  diabetes and its complications. 578   579  580",
+    "T ogether, these discoveries will continue to improve our  understanding of the biologic mechanisms that maintain glucose homeostasis, and of still hidden  molecular defects leading to  chronic hyperglycemia, and could also lead to the development of more speci  cally targeted antidiabetic drugs or even gene -  based therapies. Moreover, pharmacogenetic testing might then be used to predict, for each patient, the therapeutic response to different classes of drugs. The identi  cation of T2DM genes will",
+    "research will contribute positive ly to the life of people living with T1D . Being able pinpoint  mutations, and then discover how they contribute to the genetic  cause  of a condition, can help  to open up path s for pharmaceutical treatments. Currently, m ost treatment strategies for genetic  disorders do not alter the underlying genetic mutation;  but are designed to improve particular  signs and symptoms associated with the disorder. For instance, T1D  is managed by",
+    "Epigenomic approaches: applications in diabetic complications research Epigenetic studies in human disease have been greatly accel- erated as a result of advances in whole-genome and epige- nome profiling technologies as well as bioinformatics andgenomic data analysis platforms [ 99,100]. DNAme is analysed using bisulfite conversion of genomic DNA, immu- noprecipitation of methylated DNA, followed byhybridisation to arrays or next-generation sequencing to ob-",
+    "new therapeutic targets and identify potential diabetic neuropathy biomarkers. The genes identied in the current study conrm datagathered from experimental models of diabetes and provide a comprehensive picture of the expression of multiple targets in asingle human tissue sample. Our initial analyses of this data set classied the patient samples based on myelinated bre density and found that two large groups emerged; those with a loss of myelinated bre density 5500 bres/mm",
+    "DNA variation with disease processes in a range of settings, from cell lines to human populations, and major advances have been made in coupling these complex datasets with information about extrinsic environmental exposures including drug prescription in ways that allowthe logical interrogation of gene-drug and gene-lifestyle interactions. Doing so may teach us about disease etiology and help stratify type 2 diabetes (T2D) into subclasses that can be treated more effectively, with",
+    "that genetic studies will ultimately identify key genetic elements that help determine susceptibility to diabetes,disease progression, and responsiveness to specific therapies, as well as help identify novel targets for futureintervention. A substantial number of genetic loci, gene polymorphisms, and mutations have already beenreported as having variable degrees of association with one or other type of diabetes (type 1, type 2, maturityonset diabetes of the young [MODY]), while others appear to be involved",
+    "the onset and progression of diabetic neuropathy is of primeimportance. The current study takes an important rst step towards this goal by identifying specic sets of genes whose expression accurately classies patient samples with regard to diabetic neuropathy pro- gression and by analysing their interactions within known cellularpathways. Identifying common elements in these complex net-works will yield novel insights into disease pathogenesis, provide"
+  ],
+  "answer": "Studying the DNA of people with diabetes helps scientists find better treatments or cures in several ways:  1. **Identification of Genetic Determinants**: By performing genetic profiling on diabetic patients, scientists can identify genetic determinants that define the targets of current and future therapies. This leads to the development of therapies that are more specific to the genetic makeup of individuals with diabetes [1].  2. **Understanding Disease Mechanisms**: Genetic studies improve our understanding of the biological mechanisms that maintain glucose homeostasis and reveal molecular defects leading to chronic hyperglycemia. This knowledge can lead to the development of more specifically targeted antidiabetic drugs or even gene-based therapies [4].  3. **Pharmacogenetics**: Pharmacogenetic testing can be used to predict therapeutic responses to different classes of drugs for each patient, allowing for more personalized treatment plans [4].  4. **Discovery of New Therapeutic Targets**: A greater understanding of the genetic and epigenetic basis of diabetes can enable the discovery of new therapeutic targets, potentially leading to novel treatments for diabetes and its complications [3].  5. **Stratification of Diabetes Subclasses**: By analyzing DNA variations and their interactions with environmental factors, scientists can stratify type 2 diabetes into subclasses. This stratification allows for more effective treatment strategies tailored to specific genetic and lifestyle interactions [8].  6. **Identification of Key Genetic Elements**: Genetic studies can identify key genetic elements that determine susceptibility to diabetes, disease progression, and responsiveness to specific therapies. This information helps in identifying novel targets for future interventions [9].  Overall, studying the DNA of people with diabetes provides critical insights that drive the development of more effective and personalized treatments.",
+  "question": "How does studying the DNA of people with diabetes help scientists find better treatments or cures?"
+}

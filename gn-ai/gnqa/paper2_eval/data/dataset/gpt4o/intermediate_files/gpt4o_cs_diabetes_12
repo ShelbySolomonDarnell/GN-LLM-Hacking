@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Pathomechanisms of Type 2 Diabetes Genes.pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2016 - The Application of Genomics.pdf",
+    "2015 -precision-medicine-for-managing-diabetes.pdf",
+    "2019 - Genetic Risk Scores for Diabetes Diagnosis.pdf",
+    "2018 - Human Genetics of Obesity and Type 2 Diabetes Mellitus.pdf",
+    "2008 - Genotype Score in Addition to Common Risk Factors for Prediction of Type 2 Diabetes.pdf",
+    "2009 - Genetics of Type 1A Diabetes.pdf",
+    "2010 - Cardiovascular Disease Risk Factors, Type 2 Diabetes Mellitus, and the Framingham Heart Study.pdf",
+    "2014 -  Impact of Delivery Models on Understanding Genomic Risk for Type 2 Diabetes.pdf"
+  ],
+  "extraction_id": [
+    "9c49d40d-91d3-5f0d-8eaa-b3efa49ac200",
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "7aa2ab48-620b-5b30-b2de-103e103579ba",
+    "f53ccf4e-f47f-5b44-8b41-f7068efc8be3",
+    "ba3abde6-0fac-587f-976e-bd0e08c48ae3",
+    "e9c258eb-26f2-5e33-87a2-7ac5a5b29989",
+    "e0f816e4-3c97-575e-8bbe-0e006c8c8e61",
+    "d3fa98dd-b7be-5192-9a7c-71742b1b05e4",
+    "5763fc63-1abb-5baf-b2ed-ad1b019bdb56",
+    "aafcb80d-7069-59da-8a21-d6a32f1a8820"
+  ],
+  "document_id": [
+    "cf8ec75c-8ffe-5baa-830d-ac7a4a5964bd",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "2ec5c9c1-fe53-59ca-b36f-d360dfce0da5",
+    "80949bab-d085-5f61-b98a-4bee043bc4e2",
+    "8c66aca1-d4ba-534d-a037-4273de340ee1",
+    "2083de31-17c6-5d1e-9aa6-2efc6c1d9ac2",
+    "fb502e5b-7094-58aa-9508-103476a9c035",
+    "7a98f456-6c43-5e9e-b404-31122159eab8",
+    "134c506f-f66f-5a17-9e81-1f4c5923fe91",
+    "b2665466-da66-59f0-8581-a68131e924bf"
+  ],
+  "id": [
+    "chatcmpl-AIFqbEtJpAtIpQor3Q5twvd1eoH61",
+    "28d6dfa3-28eb-537b-ad53-7d312f20fc88",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "71ebe60b-4807-5b6f-887a-2ab897a46039",
+    "6cf756f6-bc3a-515a-a879-7270f663c516",
+    "59b0a653-0d03-582e-8fb5-009af723b984",
+    "9d44b00e-027f-557f-a851-e870605ea20f",
+    "f0ca71ce-f2bb-54f2-a933-dc9c952f1eb8",
+    "e32de26a-7ad6-51a9-860e-5df0b45d981d",
+    "b677fe54-5f7e-5d87-a16d-6694578c6f2b",
+    "530788ae-3a97-50d6-ad96-5463a3dc75e8"
+  ],
+  "contexts": [
+    "genetic knowledge beyond its use for predic-tion of the individuals type 2 diabetes risk?One major advantage of knowing an at-riskpersons genotype could be to offer an individ-ually tailored lifestyle intervention program to prevent or, at least, to significantly retard the",
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "(35). If genetic tests are not helpful in the prediction and prevention of diabetes,they could have a role in discriminatingbetween type 1 and type 2 diabetes. Theepidemic of obesity (36) has made it moredifcult to distinguish diabetes type be- cause many children and young adultswith type 1 diabetes are also obese (37).Misclassi cation poses signi cant risks; an incorrect diagnosis of type 2 diabetes",
+    "geted at specific genetic mutations, it is likely that accompa-nying diagnostic tests for biomarkers will also become available to confirm whether the target biomarker is present. Genomic Analyses for Diabetes Risk",
+    "genes improves prediction of type 1 diabetes[published correction appears in Diabetologia. 2015; 58(1):206]. Diabetologia . 2014; 57(12):2521 2529. 57. Oram RA, Patel K, Hill A, Shields B, McDonald TJ, Jones A, Hattersley AT, Weedon MN. A type 1 diabetes genetic risk score can aid discrimination between type 1 and type 2 diabetes in young adults.Diabetes Care . 2016; 39(3):337 344. 58. Redondo MJ, Oram RA, Steck AK. Genetic risk",
+    "10.2337/db13-1663.  20. Vassy JL, et al. A genotype risk score predicts type 2 diabetes from young  adulthood: the CARDIA study. Diabetologia. 2012;55:26042612. doi:  10.1007/s00125-012-2637-7.  21. Vassy JL, et al. Is genetic testing useful to predict type 2 diabe-tes? Best Pract Res Clin Endocrinol Metab. 2012;26:189201. doi:  10.1016/j.beem.2011.09.002.  22. Khera AV, et al. Genome-wide polygenic score to identify a monogenic  risk-equivalent for coronary disease. bioRxiv. 2017. doi: 10.1101/218388.",
+    "Genotype Score for Prediction of Type 2 Diabetes n engl j med 359;21 www.nejm.org november 20, 2008 2209Type 2 diabetes mellitus is a m ajor  health problem worldwide.1 Fortunately,  its development can be prevented in many  instances,2 and persons at risk can be readily  identified with the measurement of a few com - mon risk factors.3-5 Type 2 diabetes is heritable,  with a risk for people with familial diabetes as  compared with those without familial diabetes that is increased by a factor of 2 to 6.",
+    "risk of type 1 diabetes offers the potential for improved prediction, stratification of patients according to risk, and selection of possible therapeutic targets. As germ-line factors, genetic risk variants are present and amenable to study at all times  be -",
+    "offers the opportunity to test whetherknowledge of these genetic loci canimprove our ability to detect who willultimately develop diabetes. To answerthis question, we genotyped 18 well-validated single nucleotide polymorph-isms that had previously been associat- ed with diabetes in large genetics",
+    "Comprehension of Genomic Risk for  Diabetes  Public Health Genomics 2014;17:95104  DOI: 10.1159/000358413101their results in-person from a genetic counselor were able  to correctly indicate their genomic or lifetime risk score for T2DM and interpret their genomic risk, compared to 50% of participants receiving their results online. This finding aligns with reports that suggest genetic counsel-ing (though limited to reporting of test results in this study) improves patients accuracy of risk perception"
+  ],
+  "answer": "Genetic testing can help predict a person's risk for diabetes in several ways:  1. **Tailored Interventions**: Knowing an individual's genotype can allow for the development of personalized lifestyle intervention programs aimed at preventing or significantly delaying the onset of type 2 diabetes [1].  2. **Role of Genetic Factors**: Genetic factors play a role in determining an individual's risk of developing diabetes, suggesting that genetic testing can help identify those at higher risk [2].  3. **Genetic Risk Scores**: A genotype risk score can predict type 2 diabetes from a young age, as demonstrated in studies like the CARDIA study [6]. This score can help identify individuals who are at increased risk due to their genetic makeup.  4. **Heritability and Risk Assessment**: Type 2 diabetes is heritable, and genetic testing can help identify individuals with a familial risk, which is increased by a factor of 2 to 6 compared to those without familial diabetes [7].  5. **Improved Prediction and Stratification**: Genetic testing offers the potential for improved prediction and stratification of patients according to their risk, which can aid in selecting possible therapeutic targets [8].  6. **Identification of Genetic Variants**: By genotyping specific single nucleotide polymorphisms (SNPs) associated with diabetes, genetic testing can improve the ability to detect who will ultimately develop the disease [9].  Overall, genetic testing provides valuable insights into an individual's risk for diabetes, enabling more targeted prevention and management strategies.",
+  "question": "How can genetic testing help predict a person's risk for diabetes?"
+}

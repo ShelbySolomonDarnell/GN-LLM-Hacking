@@ -1,0 +1,205 @@
+{
+    "created_at": "2024-03-25T10:53:10.812694Z",
+    "data": {
+        "amplify": false,
+        "answer": "Yes, the studies identified significant quantitative trait loci associated with both type 1 and type 2 diabetes. These include loci such as TCF7L2, DNER, SRR, HNF1A, KCNQ1, CDKN2A/CDKN2B, JAZF1, CDC123, CAMK1D, TSPAN8, LGR5, THADA, ADAMTS9, NOTCH2, and others. However, the significance of some loci varied across different populations and studies.",
+        "context": {
+            "0bcb68e6-4da3-457c-a68c-981b14d1ded8": [
+                {
+                    "document_id": "0bcb68e6-4da3-457c-a68c-981b14d1ded8",
+                    "text": "\n\nAdditional large-scale meta-analysis predicated upon increased sample size, were carried out on existing datasets from the WTCCC [18] and the Genetics of Kidneys in Diabetes (GoKinD) study [69][70][71] plus control data derived from the National Institute of Mental Health.These investigators observed significant association of previously observed loci.Importantly, they did not observe evidence of new T1D loci reaching the threshold for genome-wide significance.Instead they re-analyzed the most nominally significant associated SNP in an independent British cohort of approximately 6000 cases, 7000 controls and in 2800 families, where they uncovered four additional loci, BACH2 (previously reported [67]), 10p15 harboring protein kinase C theta (PRKCQ), 15q24 harboring nine genes including the cathepsin H (CTSH), complement 1q (C1q), tumor necrosis factor related protein 6 (C1QTNF6) and somatostatin receptor 3 (SSTR3) genes.Table 1 summarizes the 16 T1D loci reported to date.An example of a tag-SNP that captures the association with T1D in each instance is highlighted together with its relative minor allele frequency in controls and what magnitude of risk or protection it confers.Key references regarding the role of each locus in the context of the disease are included and along with the chromosomal band where each locus resides, the main candidate gene (symbol and full name) is highlighted."
+                }
+            ],
+            "0de85e11-dcbb-4538-b043-ee18a30e9f14": [
+                {
+                    "document_id": "0de85e11-dcbb-4538-b043-ee18a30e9f14",
+                    "text": "Detection of established loci\n\nWe explored the extent to which previously reported type 2 diabetes association signals could be detected in African-descent individuals.Based on the previously reported effect sizes and the effect allele frequency and sample size from our African meta-analysis, we had sufficient power (80%) to detect three signals (TCF7L2, DNER and SRR) at genome-wide significance (p < 2.5 × 10 −8 ) (ESM Table 2).Only the TCF7L2 variant reached genome-wide significance in our study, whereas both variants in DNER (rs1861612) and SRR (rs391300), originally discovered in Pima Indians and East Asians, respectively, had p > 0.1 (ESM Table 2)."
+                }
+            ],
+            "1c2f4eb9-5880-418a-be08-4c33ec3a8889": [
+                {
+                    "document_id": "1c2f4eb9-5880-418a-be08-4c33ec3a8889",
+                    "text": "\n\nOn the basis of the combined stage 1-3 analyses, we found that six signals reached compelling levels of evidence (P ¼ 5.0 Â 10 -8 or better) for association with T2D (Table 2).As in all linkage disequilibrium (LD)-mapping approaches, characterization of the causal variants responsible, their effect sizes and the genes through which they act will require extensive resequencing and fine-mapping.However, on the basis of current evidence, we found that the most associated variants in each of these signals map to intron 1 of JAZF1, between CDC123 and CAMK1D, between TSPAN8 and LGR5, in exon 24 of THADA, near ADAMTS9 and in intron 5 of NOTCH2."
+                }
+            ],
+            "33c5de8c-7efc-41df-a540-22729d8b7d2c": [
+                {
+                    "document_id": "33c5de8c-7efc-41df-a540-22729d8b7d2c",
+                    "text": "\n\nReplication study of newly identified type 1 diabetes risk loci"
+                }
+            ],
+            "3675ae2a-18d5-4f2b-97e1-1827eddc0f6f": [
+                {
+                    "document_id": "3675ae2a-18d5-4f2b-97e1-1827eddc0f6f",
+                    "text": "\n\nAlthough these are considered to be loci convincingly associated with susceptibility to type 2 diabetes in populations of European descent, other genes related to susceptibility to the disease are probably still unidentified, particularly those for populations of other ancestries.In order to uncover genetic variants that increase the risk of type 2 diabetes, we conducted a genome-wide association study in Japanese individuals with type 2 diabetes and unrelated controls.We first genotyped 268,068 SNPs, which covered approximately 56% of common SNPs in the Japanese, in 194 individuals with type 2 diabetes and diabetic retinopathy (case 1) and in 1,558 controls (control 1) collected in the BioBank Japan.We compared the allele frequencies of 207,097 successfully genotyped SNPs and selected the 8,323 SNPs showing the lowest P values.We then attempted to genotype these 8,323 SNPs in 1,367 individuals with type 2 diabetes and diabetic retinopathy (case 2) and for 1,266 controls (control 2) (stage 2), and successfully obtained data for 6,731 SNPs (the P value distribution in the second test is shown in Supplementary Fig. 1a online).The results of principal component analysis 8 in the stage 1 and 2 samples and HapMap samples revealed that there was no evidence for population stratification between the case and control groups throughout the present tests (Supplementary Fig. 1b,c).We selected the 9 SNP loci showing P values o0.0001 (additive model in stage 2, Table 1) and genotyped a third set of cases and controls comprising 3,557 Japanese individuals with type 2 diabetes (cases 3,4,5) and 1,352 controls (controls 3,4).We evaluated the differences in the population structure among these three sets of case and two sets of control groups by Wright's F test.As the results indicated that there was no difference in the population structure among these groups (Supplementary Table 1b online), we combined these populations for the third test of case-control study.The third set of analysis identified the significant associations for six SNPs (Table 1), including the CDKAL1 locus at 6p22.3 (rs4712524, rs9295475 and rs9460546), the IGF2BP2 locus at 3q27.2 (rs6769511 and rs4376068) and the KCNQ1 locus at 11p15.5 (rs2283228).The remaining three SNPs (rs13259803, rs612774 and rs10836097) had P values of 40.05 in the third test and were not further examined.CDKAL1 and IGF2BP2 were previously reported as susceptibility genes for type 2 diabetes in the Japanese population 9 .Therefore, we focused on the KCNQ1 locus, which was highly associated with type 2 diabetes."
+                }
+            ],
+            "3a066437-9d88-46c7-bc55-9992728847a7": [
+                {
+                    "document_id": "3a066437-9d88-46c7-bc55-9992728847a7",
+                    "text": "\n\nWe consider these data as an interesting preliminary result that surely requires additional independent studies including a higher number of patients in order to confirm and clarify the possible contribution of this locus to the development of T2DM complications."
+                }
+            ],
+            "3bd9d1c6-6b4b-42dc-915a-b3323f1fb98a": [
+                {
+                    "document_id": "3bd9d1c6-6b4b-42dc-915a-b3323f1fb98a",
+                    "text": "DISCUSSION\n\nTaken together, our full second-stage approach and combined meta-analysis have revealed additional loci associated with type 1 diabetes.Clearly the risks are relatively modest compared with previously described associations, and it was only with this sample size at our disposal that we could we detect and establish these signals as true positives through an independent validation effort."
+                }
+            ],
+            "3ce10e4a-3ddc-4c7c-8897-84285ccfeedc": [
+                {
+                    "document_id": "3ce10e4a-3ddc-4c7c-8897-84285ccfeedc",
+                    "text": "Identification of susceptibility loci\n\nThe degree of evidence for all reported T2D loci was quantified as follows: a locus with a logarithm of odds ratio (LOD) score of 3 or more was considered significant, a LOD score between 2.2 and 3 was considered suggestive and a LOD score between 1 and 2.2 was considered nominal.For T2D, only those loci were included that were significant at least once, or were suggestive in at least one study and at least nominal in two or more studies.The inclusion of the second category of loci was based on a study by Wiltshire et al. [72], in which it was postulated that locus counting is a useful additional tool for the evaluation of genome scan data for complex trait loci.We used the same two criteria to determine the loci from the five papers published on obesity since 2004 and combined these loci with those from Bell et al. [7].As obesity phenotypes, BMI, serum leptin levels, abdominal subcutaneous and visceral fat, and percentage body fat were included.All of these phenotypes were used as continuous quantitative traits, as well as with various cut-off levels."
+                }
+            ],
+            "4be1d780-404a-4826-ba06-80b2c15e705b": [
+                {
+                    "document_id": "4be1d780-404a-4826-ba06-80b2c15e705b",
+                    "text": "\n\nToday, more than 100 loci for type 2 diabetes and glycemic traits have been identified through numerous GWA studies of common and rare variation in populations of diverse ancestral origins [31]; however, to date, very few GWA studies have been published in cohorts of Mexican ancestry.The first GWA study performed in a non-European cohort was published in 2007 and comprised 561 Mexican American type 2 diabetes cases and controls drawn from the Starr County Health Studies [32].Although no loci reached genome-wide significance, several loci identified in prior GWA studies in Europeans were replicated [32].This analysis was subsequently expanded (N = 1273) and meta-analyzed with a cohort from Mexico City (N = 1310) in 2011 [33,34].The most significant variants observed in this meta-analysis included known regions near HNF1A and KCNQ1.Top association signals were then meta-analyzed with the DIAGRAM and DIAGRAM+ datasets of European ancestry individuals, resulting in two regions reaching genome-wide significance: HNF1A and CDKN2A/CDKN2B (Table 1).Top association signals in both studies were annotated to explore their roles as expression quantitative trait loci (eQTL) in both adipose and muscle tissues, revealing a marked excess of transacting eQTL in top signals in both tissue types."
+                }
+            ],
+            "5293f814-f4a7-48e0-b4e5-b1f13fdc8516": [
+                {
+                    "document_id": "5293f814-f4a7-48e0-b4e5-b1f13fdc8516",
+                    "text": "\n\n75±79 The main conclusion is that there is no major locus for T2D (analogous to HLA in type 1 diabetes).This is not surprising given the modest l s for T2D (approximately 3.5 in Europeans), imposing a limit on the magnitude of any single gene eect. 4Many scans have consequently been signi®cantly underpowered to detect the modest gene eects anticipated.Certainly, few T2D scans have reported linkages meeting the established criteria for genomewide signi®cance. 80This modest power, combined with the diversity of the pedigrees sampled and the analytical techniques used, means that the replication of positive ®ndings between data sets has been the exception rather than the rule."
+                }
+            ],
+            "711e3d33-a196-4072-bc31-ffaa6bb3efa0": [
+                {
+                    "document_id": "711e3d33-a196-4072-bc31-ffaa6bb3efa0",
+                    "text": "Quantitative Trait Analysis\n\nExploration of putative T2DM variants with quantitative glycemic traits in a subset of African-American samples (n = 671 from the IRAS and IRASFS control samples, Table S5) revealed     limited insight into the biological mechanism associated with T2DM risk.In addition, the five putative African-American T2DM susceptibility loci were tested for association with quantitative measures of glucose homeostasis in the European Caucasian population, in silico, by the Meta-Analyses of Glucose and Insulin-related traits Consortium (MAGIC; [16]).These results did not provide further insight into the probable role these variants may have in disease susceptibility (Table S6).The most significantly associated SNP in African Americans, rs7560163, failed quality controls filters and was not included in analysis likely due to being monomorphic as seen in a representative Caucasian population from the HapMap project (Table S4)."
+                }
+            ],
+            "91d6996a-319d-461e-ae78-3c64a70832cc": [
+                {
+                    "document_id": "91d6996a-319d-461e-ae78-3c64a70832cc",
+                    "text": "\n\nDiscovery of novel loci for T2D susceptibility.We tested for T2D association with ~27 million variants passing quality-control filters, ~21 million of which had a minor allele frequency (MAF) < 5%.Our meta-analysis identified variants at 231 loci reaching genomewide significance (P < 5 × 10 −8 ) in the BMI-unadjusted analysis (N eff 231,436) and 152 in the smaller (N eff 157,401) BMI-adjusted analysis.Of the 243 loci identified across these two analyses, 135 mapped outside regions previously implicated in T2D risk (Methods, Fig. 1 and Supplementary Table 2)."
+                }
+            ],
+            "ad88aed6-75ba-469d-b96b-7be4a65be8fc": [
+                {
+                    "document_id": "ad88aed6-75ba-469d-b96b-7be4a65be8fc",
+                    "text": "\n\nGenetic studies performed since 2012 have identified many additional T2D loci based on risk alleles common in one population but less common in others.Studies in African Americans identified RND3-RBM43 (28), HLA-B and INS-IGF2 (29).Studies in South Asians identified TMEM163 (30) and SGCG (31).One locus, SLC16A11-SLC16A13, was simultaneously identified in Japanese and Mexican Americans (32,33), and studies in East Asians identified ANK1 (34), GRK5 and RASGRP1 (35), LEP and GPSM1 (32), and CCDC63 and C12orf51 (36).A study of individuals from Greenland identified TBC1D4 (37), and a sequencing-based study of Danes with follow-up in other Europeans identified MACF1 (38).Finally, the largest GWAS to date in American Indians identified DNER at near genome-wide significance (P = 6.6 × 10 −8 ) (39).Three of these studies imputed GWAS data using the 1000 Genomes Project sequence-based reference panels, providing better genome coverage (29,32,33,40).Taken together, these studies highlight the value of diverse populations, including founder and historically isolated populations, to detect risk loci."
+                }
+            ],
+            "b973bd17-aac9-4d68-8ac4-1c683165b68f": [
+                {
+                    "document_id": "b973bd17-aac9-4d68-8ac4-1c683165b68f",
+                    "text": "\n\nFinally, a recent study identified additional susceptibility loci for type 2 diabetes by performing a meta-analysis of three published GWAs. 21As acknowledged by the authors, GWAs are limited by the modest effect sizes of individual common variants and the need for stringent statistical thresholds.Thus, by combining data involving 10,128 samples, the authors found in the initial stages of the analysis highly associated variants (they followed only 69 signals out of over 2 million metaanalyzed SNPs) with P values Ͻ10 Ϫ4 in unknown loci, and 11 of these type 2 diabetes' associated SNPs were taken forward to further stages of analysis.Large stage replication testing allowed the detection of at least six previously unknown loci with robust evidence for association with type 2 diabetes."
+                },
+                {
+                    "document_id": "b973bd17-aac9-4d68-8ac4-1c683165b68f",
+                    "text": "\n\nSurprisingly, data about previous published loci associated with type 2 diabetes were not sufficiently powerful to reach a significant P value in individual scans.For example, variants at SLC30A8 and PPARG were significantly associated with type 2 diabetes only when pooling all the GWAs data, whereas in a single genome scan (DGI), no gene showed a positive signal (P value: 0.92 and 0.83, respectively).Thus, this may suggest that GWAs are still underpowered to find SNPs with small effect size."
+                }
+            ],
+            "d86525a8-0a2f-44a8-b343-61a5df8d6e68": [
+                {
+                    "document_id": "d86525a8-0a2f-44a8-b343-61a5df8d6e68",
+                    "text": "\nBackground: The two genome-wide association studies published by us and by the Wellcome Trust Case-Control Consortium (WTCCC) revealed a number of novel loci, but neither had the statistical power to elucidate all of the genetic components of type 1 diabetes risk, a task for which larger effective sample sizes are needed.Methods: We analysed data from two sources: (1) The previously published second stage of our study, with a total sample size of the two stages consisting of 1046 Canadian case-parent trios and 538 multiplex families with 929 affected offspring from the Type 1 Diabetes Genetics Consortium (T1DGC); (2) the Rapid Response 2 (RR2) project of the T1DGC, which genotyped 4417 individuals from 1062 non-overlapping families, including 2059 affected individuals (mostly sibling pairs) for the 1536 markers with the highest statistical significance for type 1 diabetes in the WTCCC results.Results: One locus, mapping to a linkage disequilibrium (LD) block at chr15q14, reached statistical significance by combining results from two markers (rs17574546 and rs7171171) in perfect LD with each other (r 2 = 1).We obtained a joint p value of 1.3610 26 , which exceeds by an order of magnitude the conservative threshold of 3.26610 25 obtained by correcting for the 1536 single nucleotide polymorphisms (SNPs) tested in our study.Meta-analysis with the original WTCCC genome-wide data produced a p value of 5.83610 29 .Conclusions: A novel type 1 diabetes locus was discovered.It involves RASGRP1, a gene known to play a crucial role in thymocyte differentiation and T cell receptor (TCR) signalling by activating the Ras signalling pathway."
+                }
+            ],
+            "dad48e98-2dcc-41ae-866a-139f5540a24c": [
+                {
+                    "document_id": "dad48e98-2dcc-41ae-866a-139f5540a24c",
+                    "text": "\n\nFinally, we examined whether genes identified using our association studies were enriched within diabetes-related pathways.We collated a list of 42 genes to which 53 CpG sites associated with T2D traits (CS score ≥1.77, combined P < 0.017) mapped.Even in this small dataset, pathway analysis (Supplementary Material, Table S12) indicated significant enrichment in 31 pathways (Fisher's exact P < 0.05), including those related to circadian clock (P = 0.005), adipocytokine signaling (P = 0.009), leptin pathway (P = 0.023), HDL-mediated lipid transport (P = 0.031) and insulin signaling (P = 0.033)."
+                }
+            ],
+            "e88b610f-8afa-46f7-a03c-d7bd579a7496": [
+                {
+                    "document_id": "e88b610f-8afa-46f7-a03c-d7bd579a7496",
+                    "text": "\n\nIn recent years, progress has been made in following up mechanistic studies of GWAS type 2 diabetes-association signals [6,7,9,[25][26][27][28][29][30], but challenges remain in sifting through the many associated variants at a locus to identify those influencing disease.We hypothesized that a common variant with modest effect underlies the association at the CDC123/CAMK1D locus and evaluated the location of high LD variants (r 2 $.7; n = 11) at the locus relative to known transcripts and to putative DNA regulatory elements.We identified two variants that overlapped putative islet and/or liver regulatory regions and none located in exons.We did not assess variants in lower LD (r 2 ,.7), and additional functional SNPs may exist at this locus acting through alternate functional mechanisms untested in the current study."
+                }
+            ],
+            "fdbabc3c-ec60-45ce-9f5c-683f745c4d00": [
+                {
+                    "document_id": "fdbabc3c-ec60-45ce-9f5c-683f745c4d00",
+                    "text": "\n\nMeta-analysis results for T2D SNPs for insulin and glucose-related traits."
+                },
+                {
+                    "document_id": "fdbabc3c-ec60-45ce-9f5c-683f745c4d00",
+                    "text": "A r t i c l e s\n\nBy combining genome-wide association data from 8,130 individuals with type 2 diabetes (T2D) and 38,987 controls of European descent and following up previously unidentified meta-analysis signals in a further 34,412 cases and 59,925 controls, we identified 12 new T2D association signals with combined P < 5 × 10 −8 .These include a second independent signal at the KCNQ1 locus; the first report, to our knowledge, of an X-chromosomal association (near DUSP9); and a further instance of overlap between loci implicated in monogenic and multifactorial forms of diabetes (at HNF1A).The identified loci affect both beta-cell function and insulin action, and, overall, T2D association signals show evidence of enrichment for genes involved in cell cycle regulation.We also show that a high proportion of T2D susceptibility loci harbor independent association signals influencing apparently unrelated complex traits."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "B7084C90C3CF93908B3FB34BBA00743B",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "TCF7L2",
+            "DNER",
+            "SRR",
+            "HNF1A",
+            "KCNQ1",
+            "CDKN2A",
+            "CDKN2B",
+            "JAZF1",
+            "CDC123",
+            "CAMK1D"
+        ],
+        "metadata": [
+            {
+                "object": "We identified a Congenital long QT syndrome LQTS family harboring three compound mutations in different genes KCNQ1-R174C, hERG-E1039X and SCN5A-E428K. IKs-like, IKr-like, INa-like currents and the functional interaction between KCNQ1-R174C and hERG-E1039X channels were studied using patch-clamp.Expression of KCNQ1-R174C alone showed no IKs. Co-expression of KCNQ1-WT + KCNQ1-R174C caused a loss-of-function in IKs",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1007244"
+            },
+            {
+                "object": "Pancreatic cancer was induced in adult mice by the combination of KRASG12D overexpression and loss of Tp53 and Cdkn2a only if Cdkn2b was concomitantly inactivated. inactivation of both Cdkn2b and Cdkn2a was necessary for Rb phosphorylation and to encompass oncogene-induced cellular senescence.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab580373"
+            },
+            {
+                "object": "Twenty-five different variants were identified in GCK gene 30 probands-61% of positivity, and 7 variants in HNF1A 10 probands-17% of positivity. Fourteen of them were novel 12- GCK /2- HNF1A . ACMG guidelines were able to classify a large portion of variants as pathogenic 36%- GCK /86%- HNF1A  and likely pathogenic 44%- GCK /14%- HNF1A , with 16% 5/32 as uncertain significance.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab977086"
+            },
+            {
+                "object": "We found that CDKN2B was a virtual target of miR-15a-5p with potential binding sites in the 3'UTR of CDKN2B 77-83 bp. We also showed that miR-15a-5p could bind to the CDKN2B 3'UTR. The data revealed a negative regulatory role of miR-15a-5p in the apoptosis of smooth muscle cells via targeting CDKN2B, and showed that miR-15a-5p could be a novel therapeutic target of AAA.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1004682"
+            },
+            {
+                "object": "For each gene and the four pathways in which they occurred, we tested whether pancreatic cancer PC patients overall or CDKN2A+ and CDKN2A- cases separately had an increased number of rare nonsynonymous variants. Overall, we identified 35 missense variants in PC patients, 14 in CDKN2A+ and 21 in CDKN2A- PC cases.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab300370"
+            },
+            {
+                "object": "we investigated the effects of KCNQ1 A340E, a loss-of-function mutant. J343 mice bearing KCNQ1 A340E demonstrated a much higher 24-h intake of electrolytes potassium, sodium, and chloride.  KCNQ1, therefore, is suggested to play a central role in electrolyte metabolism. KCNQ1 A340E, with the loss-of-function phenotype, may dysregulate electrolyte homeostasis",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1008629"
+            },
+            {
+                "object": "Results show that C-FOS directly binds to rs7074440 TCF7L2. Its knockdown decreases TCF7L2 gene expression proving evidence that c-FOS protein regulates TCF7L2 through its binding to rs7074440.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab661049"
+            },
+            {
+                "object": "This review provides an update of the latest research advances on JAZF1 and its regulatory network in T2 diabetes mellitus T2DM. The association between JAZF1 polymorphisms and T2DM is discussed as well. The information provided is of importance for guiding future studies as well as for the design of JAZF1-based T2DM therapy. [review]",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab935511"
+            },
+            {
+                "object": "JAZF1 was identified as a direct miR-1275 target. miR-1275 supresses migration and invasion of gastric cancer cells in vitro and in vivo, which was restored by JAZF1 overexpression. Moreover, JAZF1 was recognized as a direct regulator of Vimentin.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab434327"
+            },
+            {
+                "object": "DNA hypermethylation of KCNQ1 promoter resulted in its downregulation in hepatocellular carcinoma HCC.  Bioinformatic analysis indicated a regulatory role of KCNQ1 in the epithelial-to-mesenchymal transition process. Gain-of-function study showed that KCNQ1 exhibited remarkable inhibitory roles on tumor metastasis in vitro and in vivo.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab235904"
+            }
+        ],
+        "question": "Do we find significant quantitative trait loci in the studies for diabetes?",
+        "subquestions": null,
+        "task_id": "B7084C90C3CF93908B3FB34BBA00743B",
+        "usage": {
+            "chatgpt": 9426,
+            "gpt-4": 4931,
+            "gpt-4-turbo-preview": 3991
+        },
+        "user_id": 2
+    },
+    "document_id": "B7084C90C3CF93908B3FB34BBA00743B",
+    "task_id": "B7084C90C3CF93908B3FB34BBA00743B"
+}

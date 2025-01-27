@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2007 - Combinatorial genetic regulatory network analysis tools for high throughput transcriptomic data.pdf",
+    "2005 - Combinatorial Genetic Regulatory Network Analysis Tools for High Throughput Transcriptomic Data.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2012 - Comparing Statistical Methods for Constructing Large Scale Gene Networks.pdf",
+    "2012 - Genetic dissection of acute ethanol responsive gene networks in prefrontal cortex functional and mechanistic implications.pdf",
+    "2012 - Genetic dissection of acute ethanol responsive gene networks in prefrontal cortex functional and mechanistic implications.pdf",
+    "2012 - Advances in biotechnology and linking outputs to variation in complex traits Plant and Animal Genome meeting January 2012.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "47c06e52-1923-58d0-9286-9674893a502a",
+    "5e93e58f-a415-5ead-9356-c749891269cc",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "2a75bfb9-6beb-54ef-b72b-25045ee3222d",
+    "29446d6f-fb32-5a6e-a51a-179c888091b2",
+    "29446d6f-fb32-5a6e-a51a-179c888091b2",
+    "3bdf080c-2715-5acc-bba4-717283851240",
+    "368bb4b5-bc26-5a39-95fc-561f58eb0e08",
+    "bee70000-17e9-5352-8c9c-349c78dfaa23"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "d9038328-bfea-5f73-87aa-6077b697e4db",
+    "5ded506d-7935-53f9-a118-57a9f3943376",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "ea0b9f5f-b1cf-5774-98aa-0f022c831fb8",
+    "1a20f715-5068-5c61-8396-59e6096fa7de",
+    "1a20f715-5068-5c61-8396-59e6096fa7de",
+    "c81c86b5-c5ab-5abf-83c0-415b0950fd51",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "17264155-b665-59db-94cb-f4d67eac20fc"
+  ],
+  "id": [
+    "chatcmpl-AIGraUSt4UjtI0mL9sXfXnJsapOUk",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "aafbe14f-7ad3-5ad4-9951-90edecaceaa3",
+    "ac2029ae-498b-5ec0-ae10-f5729344cb5b",
+    "0b2bd83d-680a-52d2-8116-50cce4f35cc3",
+    "2e404112-d767-58f9-9bd3-f0220733759c",
+    "8bb5a6fb-9528-59cb-bc79-a1a52584abfa",
+    "59c4b4b6-6b08-5182-a493-e7f753b7eb87",
+    "9c01962f-fcac-57b3-a17d-487e37323230",
+    "1e19020c-c664-560b-8d2a-ef53ab8cb996",
+    "1755868d-9b84-5a6e-b6db-db70cb413656"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "Combinatorial Genetic Regulatory Network Analysis Tools for High Throughput Transcriptomic Data Elissa J. Chesler1and Michael A. Langston2 1Life Sciences Division, Oak Ridge National Laboratory, P.O. Box 2008, Oak Ridge, TN 37831-6124, USA 2Department of Computer Science, University of Tennessee, Knoxville, TN 379963450, USA Abstract: A series of genome-scale algorithms and high-performance implementations is described and shown to be useful in the genetic analysis of gene transcription. With",
+    "Combinatorial Genetic Regulatory Network Analysis Tools 163 In addition to expansive volumes of data, there is a growing complexity to the types of research questions that can be asked. We are presently developing approaches to compare graphs collected in a systems gene tic context to reect differences in time, tissue and treatment effects. Visualizatio n methods and compelling biological validation of novel results are essential to translate these methods and deliver them to the broader",
+    "al., 2005). GeneNetwork is designed primarily as a web service for exploratory and statistical analysis of large published phenotype and genome datasets, and includes data from several species (see Supplementary Discussion). GeneNetwork includes extensive phenotype data extracted from the literature and submitted by users, which makes it practical to compare data on drug responses with gene expression patterns. Gene expression",
+    "larger networks well. Because of the computational complexity aswell as the memory requirements, these methods  as currentlyimplemented  are not the ideal choice for such large networks.WGCNA, GeneNet, ARACNE and SPACE, on the other hand,were designed to construct the gene network at very large scales.Also, it worth mentioning that the WGCNA package providesseveral useful tools to facilitate the analysis and visualization of resulting networks, including tools to identify subnetworks and an",
+    "Proc Natl Acad Sci U S A 100: 94409445. 32. Chesler E, Langston MA (2005) Combinatorial Genetic Regulatory Network Analysis Tools for High Throughput Transcriptomic Data. Proceedings,RECOMB Satellite Workshop on Systems Biology and Regulatory Genomics. 17 p.33. Abu-Khzam F, Langston M, Shanbhag P, Symons C (2006) Scalable Parallel Algorithms for FPT Problems. Algorithmica 45. 34. Langston M, Perkins A, Saxton A, Scharff J, Voy B (2006) Innovative",
+    "computational methods for transcriptomic data analysis. SAC 06: Proceedings of the 2006 ACM symposium on Applied computing. 35. Csardi G, Nepusz T (2006) The igraph software package for complex network research. InterJournal Complex Systems 1695. 36. Chen J, Bardes EE, Aronow BJ, Jegga AG (2009) ToppGene Suite for gene list enrichment analysis and candidate gene prioritization. Nucleic Acids Res 37:W305311. 37. Williams RW, Gu J, Qi S, Lu L (2001) The genetic structure of recombinant",
+    "plenary lecture, with a focus on the computational challengesin analyzing large datasets. The type of datasets discussed by Williams included the microarray type outputs first suggestedby Jansen and Nap ( 2001 ) for inclusion in genetical genomics analyses and are now extended to cross-platform datasets (Damerval et al. 1994;  Ciobanu et al. 2010 ). A framework for carrying out the genetic analyses was described as being available through the GeneNetwork and WebQTL software",
+    "32. Zhu J, Zhang B, Smith EN, Drees B, Brem RB, Kru glyak L, Bumgarner RE,  Schadt EE: Integrating large-scale functional genomic data to dissect the  complexity of yeast regulatory networks . Nat Genet 2008, 40 (7):854-861.  33. Vera G, Jansen RC, Suppi RL: R/parallel--speeding up bioinformatics  analysis with R . BMC bioinformatics 2008, 9:390.  34. Alberts R, Terpstra P, Bystrykh LV, de Haan G, Jansen RC: A statistical  multiprobe model for analyzing cis  and trans  genes in genetical",
+    "Processing Large-Scale, High-Dimension Genetic and Gene Expression Data Cliona Molony, Solveig K. Sieberts, and Eric E. Schadt Abstract The now routine generation of large-scale, high-throughput data in mul- tiple dimensions (genotype, gene expression, and so on) provides a signicant challenge to researchers who desire to integrate data across these dimensions in"
+  ],
+  "answer": "Analyzing large-scale transcriptomic data within GeneNetwork.org presents several computational challenges and solutions:  1. **Computational Complexity and Memory Requirements**: The analysis of large networks is computationally complex and requires significant memory resources. Traditional methods may not be ideal for handling such large datasets [5].  2. **Scalable Algorithms**: To address these challenges, scalable parallel algorithms have been developed. These algorithms are designed to handle fixed-parameter tractable (FPT) problems, which are crucial for managing large-scale data efficiently [6].  3. **High-Performance Implementations**: Genome-scale algorithms and high-performance implementations are utilized to facilitate the genetic analysis of gene transcription, making it possible to manage and analyze large volumes of data effectively [2].  4. **Visualization and Biological Validation**: Visualization methods and biological validation are essential to translate complex data into understandable results. These methods help in comparing graphs collected in a systems genetic context, reflecting differences in time, tissue, and treatment effects [3].  5. **Tools for Large-Scale Network Construction**: Tools like WGCNA, GeneNet, ARACNE, and SPACE are specifically designed to construct gene networks at very large scales. These tools also provide functionalities for analyzing and visualizing resulting networks, including identifying subnetworks [5].  These solutions collectively help in overcoming the computational challenges associated with large-scale transcriptomic data analysis within GeneNetwork.org.",
+  "question": "What are the computational challenges and solutions in analyzing large-scale transcriptomic data within GeneNetwork.org?"
+}

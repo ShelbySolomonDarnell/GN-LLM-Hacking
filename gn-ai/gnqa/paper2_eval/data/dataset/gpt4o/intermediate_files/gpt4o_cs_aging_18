@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Longevity Genomics Across Species.pdf",
+    "2016 - Epigenetics and aging.pdf",
+    "2022 - Genome-wide screens in yeast models towards.pdf",
+    "2018 - Genomic Instabilities, Cellular Senescence, and Aging In Vitro, In Vivo and Aging-Like Human Syndromes.pdf",
+    "2012 - Replicative and Chronological Aging.pdf",
+    "2012 - Genomics and Successful Aging Grounds for Renewed.pdf",
+    "2016 - Unraveling the message insights into comparative genomics.pdf",
+    "2016 - Epigenetic Mechanisms of Longevity and Aging.pdf",
+    "1989 - Genetic instability and aging theories, facts, and future perspectives.pdf",
+    "2016 - Epigenetics and aging.pdf"
+  ],
+  "extraction_id": [
+    "789baa84-292c-547a-8600-8568f34ea9de",
+    "6b4e8da8-7d82-5531-b1a8-21935a6f4a51",
+    "6977180a-bec7-5d39-ba97-b0fd664b6c96",
+    "fbb608d4-8b2b-502d-88cc-d1fcb0b89afb",
+    "cb936ad1-1a4f-5b1c-89f1-f8991f059969",
+    "3d18e792-3d83-5cc3-b9ab-309322ecf55d",
+    "0dc4e4f4-cd48-5ccd-991b-edd688533b5e",
+    "5ff88a27-4525-5e7f-99bd-e781cedd8005",
+    "b0531531-f629-512b-9835-24cc870b4ef3",
+    "6b4e8da8-7d82-5531-b1a8-21935a6f4a51"
+  ],
+  "document_id": [
+    "1ab0b63f-d97c-5f5c-98ee-0bde785fa630",
+    "71b206ec-81bd-5194-8b21-ae522f8cbc2d",
+    "be6ba237-7f13-5aac-8cb1-6a43e82d326b",
+    "7de8d462-8a3c-5625-8cbb-374f3bb46425",
+    "496e387e-4278-5f74-8ecc-4edc1cee7dfe",
+    "6d2b82c3-4256-562a-9b23-ff7c71e9fd93",
+    "0deba7bb-c27a-5d9e-b1b2-e48a5574882c",
+    "588185a0-e157-552f-a304-4beefb85d398",
+    "4d5b1800-b676-5865-a555-09ea740cc14a",
+    "71b206ec-81bd-5194-8b21-ae522f8cbc2d"
+  ],
+  "id": [
+    "chatcmpl-AIFlJI3UdMQFpFb34IWrf77DCGGJY",
+    "f125dd77-ecd5-59aa-9cf0-ae89333159d2",
+    "35414229-a946-525c-b508-4b8f49a2702c",
+    "1b3d84fb-c799-5d19-b3bd-a9032b7980fc",
+    "5caecfbd-14ef-59e2-a281-2bc524ca0353",
+    "c14402ec-2ad7-5857-9f09-39c71656bf0f",
+    "c103f3f8-b155-5787-bdd9-16f9d390369d",
+    "b19ebe3b-e87e-5cab-baef-24deddd303bb",
+    "c32f3dbe-95d5-531a-9165-d4da7b2dc2a8",
+    "91375d45-be1d-5c54-8d0f-a9b1dded69bb",
+    "ae5be149-52ad-5854-b40a-c24374545cf0"
+  ],
+  "contexts": [
+    "the nematode Caenorhabditis elegans , and the budding yeast  Saccharomyces cerevisiae , have emerged as the most widely  used and, hence, best characterized, model organisms in bio- gerontology.   When considering the use of simple eukaryotes to study  aging and age-related disease, it is pertinent to ask whether, and to what degree, the aging process is evolutionarily con- served. Does a yeast cell age by the same mechanism(s) as a",
+    "Studies on the aging of mammals are rather limited by the long life span of the commonly used model organisms. Thus, both nonverte-brate and invertebrate organisms, with their shorter life span and ease of genetic and environmental manipulations, gained popularity amongresearchers in the aging field as experimental models for aging studies. Among them, budding yeast or Saccharomyces cerevisiae is a highly in- formative organismal model for aging studies with its genetic tools,",
+    "Abstract Cellular models such as yeasts are a driving force in biogerontology studies. Their simpler genome, short lifespans and vast genetic and genomics resources make them ideal to characterise pro-ageing and anti-ageing genes and signalling pathways.Over the last three decades, yeasts have contributed to the understanding of fundamental aspects of lifespan regulation including the roles of nutrient response, global protein translation rates and quality, DNA damage, oxidative stress,",
+    "usually chosen for convenience rather than for specific features  applicable to human aging. Hence, choosing the suitable animal model to answer the specific question we aim to understand is  of high importance in these types of studies. Among the most  prevalent aging model organisms are Saccharomyces cerevisiae ,  Caenorhabditis elegans, Drosophila melanogaster, and Mus mus - culus . As a single-celled organism, S. cerevisiae is easily grown,",
+    "mammalian genes that affect aging than any other model organism. Aging in yeast is assayed primarily by measurement of replicative or chronological life span. Here, we review the genes and mechanisms implicated in these two aging model systems and key remaining issues that need to be addressed for their optimization.",
+    "be more exaggerated in more distantly related species (such  as the worm and mouse models). There are, however, simi - larities between aged humans and aged model organisms;  they all tend to have decreasing overall fitness, and there - fore, studies using model organisms continue as they may  be at least indicative of some aging mechanisms in humans. Extensions to life span in model organisms are mostly  associated with disruption to fundamental metabolic path -",
+    "eukaryote model organisms, namely yeast, worms, ies,and sh, as well as mice and rats, to explore both genetic and environmental determinants of lifespan. While these short-lived models have each yielded a number of fasci- nating ndings and insights into hypotheses surrounding extended lifespan and healthspan, they may also haveconstrained this complex, multifactorial eld to areas in which they are best suited, most notably short-term inter-",
+    "et al., 2010 ). These effects require an intact germline, andTable 2. Repositories and Tools for Aging Research Models Description Link/Reference Yeast Saccharomyces genome database http://www.yeastgenome.org/ published lifespan data http://lifespandb.sageweb.org/ (McCormick et al., 2015 ) Wilcoxon rank sum test to test signicance of lifespan differenceshttp://data.kaeberleinlab.org/scripts/ranksum.php yeast outgrowth data analyzer (YODA) for chronological lifespan assayshttp://yoda.sageweb.org/",
+    "for molecular biological studies on aging. Although material  from humans should be employed where possible, for prac-  tical reasons animal model systems like rats and mice are  indispensible. There is evidence that, provided their health sta-  tus and husbandry is optimal, rodents age much in the same  way as humans do (Burek 1978). For studying certain funda-  mental processes, such as the occurrence of various types of  DNA rearrangement, lower organisms and cell lines can also",
+    "short life span, and fully sequenced genome (20 ,21). Despite being uni- cellular, yeast has been an excellent model to identify and characterize conserved basic biological processes, including aging. Yeast has beenextensively used to identify genes and interventions responsible for lifespan extension and to gain insights into the aging processes of all eu- karyotic organisms. In parallel, over the years, studies on invertebrate organisms, such as Drosophila melanogaster (flies) and Caenorhabditis"
+  ],
+  "answer": "Researchers use model organisms like yeast and worms to study human aging due to their simpler genomes, short lifespans, and the ease with which they can be genetically and environmentally manipulated. These characteristics make them ideal for identifying and characterizing genes and signaling pathways involved in aging [3].   Yeast, specifically Saccharomyces cerevisiae, is a highly informative model for aging studies because of its genetic tools and the ability to measure aging through replicative or chronological lifespan assays [2], [5]. Yeast has been extensively used to identify genes and interventions responsible for lifespan extension, providing insights into the aging processes of all eukaryotic organisms [10].  Similarly, the nematode Caenorhabditis elegans is another widely used model organism in biogerontology. Researchers study these organisms to understand whether the aging process is evolutionarily conserved and to what degree mechanisms in these simpler organisms can be indicative of aging mechanisms in humans [1], [6]. These model organisms help explore both genetic and environmental determinants of lifespan, contributing to hypotheses surrounding extended lifespan and healthspan [7].",
+  "question": "How do researchers use model organisms like yeast or worms to study human aging?"
+}

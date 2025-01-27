@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Functional genomic approach to identify novel genes.pdf",
+    "2017 - Gene-based genome-wide association study identified 19p13.3 for lean body mass.pdf",
+    "2008 - Gene Expression Profiling.pdf",
+    "2007 - Functional genomic approach to identify novel genes.pdf",
+    "2012 - Quantitative proteomic analysis reveals novel mitochondrial targets.pdf",
+    "2017 - Systems Genetics Analysis to Identify the Genetic Modulation of a Glaucoma-Associated Gene.pdf",
+    "2007 - Functional genomic approach to identify novel genes.pdf",
+    "2007 - Functional genomic approach to identify novel genes.pdf",
+    "2014 - Evidence for the presence of somatic mitochondrial DNA.pdf",
+    "2007 - Functional genomic approach to identify novel genes.pdf"
+  ],
+  "extraction_id": [
+    "3aebacd5-b198-5144-8fe3-34ac09f6e1e8",
+    "088aee9f-e751-5b68-9142-235a84d4297d",
+    "d69da2f6-dced-546c-b3d7-bd57253a15a6",
+    "3aebacd5-b198-5144-8fe3-34ac09f6e1e8",
+    "ad33e7d7-8861-52b8-92ac-b307a6c42a0d",
+    "d83136ee-cf42-5167-902b-470a6e0b2d3c",
+    "47e612a2-c181-5c19-8b1c-c6aaa107e88a",
+    "90107b5e-bd2c-56ae-a7b9-ac4ca506e3e5",
+    "655a0cc4-b432-5b84-9eac-43b932700af5",
+    "3aebacd5-b198-5144-8fe3-34ac09f6e1e8"
+  ],
+  "document_id": [
+    "6d78d3b0-1754-5f4c-8dbc-c972c68d21cd",
+    "970711f0-abe2-5129-8374-b7bb24c58b9e",
+    "59f3b969-089b-5258-93ad-892dbc9ffa9c",
+    "6d78d3b0-1754-5f4c-8dbc-c972c68d21cd",
+    "a4ca3799-0273-5765-98fd-4902eeacf894",
+    "67e804db-8127-5938-8d7f-a5918cdf4f86",
+    "6d78d3b0-1754-5f4c-8dbc-c972c68d21cd",
+    "6d78d3b0-1754-5f4c-8dbc-c972c68d21cd",
+    "a835ef5d-9a88-58ac-a0bc-5411c9f9031a",
+    "6d78d3b0-1754-5f4c-8dbc-c972c68d21cd"
+  ],
+  "id": [
+    "chatcmpl-ADZMBjMCSl2sOAftMGQRmV7FIDy31",
+    "7bab87cd-7bd1-525e-98fe-14e9c51f617a",
+    "a6bd961a-ed80-5266-8519-4399a1c7a6ba",
+    "84d74cdd-eccb-55a7-a407-a14f90e30d78",
+    "cf86caa8-56c6-58f5-8233-e1de07f1ef37",
+    "53fee260-155f-58c5-810e-ff890292a46b",
+    "7ff5d5ed-f6a9-52ab-8994-4bdb61161f4f",
+    "cf251057-96a1-581c-b60a-63a04d845511",
+    "3b3c603d-bb36-5995-b4c5-fd06e733dfda",
+    "2e0e68ba-1804-5040-81aa-8746d263083a",
+    "a2b4ddd9-1f98-5271-85a0-5d79c529253e"
+  ],
+  "contexts": [
+    "oxidoreductase MitochondriaF29C4.2 IV Cytochrome",
+    "complex III. It functions to form a part of the mitochondrial respiratory chain. It may also act as a binding fac-tor for the iron-sulfur protein. Mitochondrial Complex III is composed of one mitochondrial-encoded subunit (MT-CYB) and ten nuclear-encoded subunits. The complex is located within the mitochondrial inner mem- brane and plays an important role in biochemical synthesis of ATP . It functions to catalyze electrons to trans-",
+    "Chapter 36 Directed Protein Evolution  653 3.1.9. SHIPREC Cytochromes are proteins that contain heme groups and are responsible for  the transport of electrons. P450 is a family of membrane-bound cytochromes  with an absorption maximum of 450 nm when complexed with CO. One of the  major roles of the cytochrome P450 system is the detoxification of harmful  substances. Sieber et al. (23) produced hybrids of two cytochromes, which share only",
+    "F42A9.5 cyp-33E2 IV Cytochrome P450 MitochondriaF21D5.8 IV Mitochondrial 28S ribosomal protein S33 MitochondriaC33A12.1 IV NADH: ubiquinone oxidoreductase, ETS complex I subunit MitochondriaZK809.3 IV NADH: ubiquinone oxidoreductase MitochondriaC47E12.2 IV Mitochondrial ADP/ATP carrier protein MitochondriaY57G11C.12 IV NADH: ubiquinone oxidoreductase MitochondriaY41E3.4 ers-1 IV Glutaminyl tRNA synthetase, predicted to be mitochondrial MitochondriaY55F3B_743.b IV Mitochondrial ribosomal protein",
+    "Process 2.9 2.9 25.4 gi 149058974 rCG44669 (cytochrome c oxidase, subunit VIIc;Cox7c)1.19 0.2121 1.35 1.42 0.05 1.30 1.26 0.0480 1.26 unclassied 29.6 29.7 56.0 gi 149016520 rCG50966 (3-oxoacid-CoA transferase 1(OXCT1/SCOT)1.12 0.3615 1.27 1.08 0.46 1.23 1.33 <0.0001 1.12 metabolism: ketone metabolism 60.9 60.9 67.6 gi 116242506 stress-70 protein, mitochondrial precursor(75 kDa glucose-regulatedprotein) (Heat shock 70kDa protein 9)1.07 0.1432 1.12 1.02 0.39 1.10 1.13 0.0300 1.09 protein folding; protein",
+    "413 Table 2 Gene ontology Database: molecular function name: Cytochrome  c oxidase activity ID:GO:0004129 C = 16 O = 2 E = 0.12 R = 17.06  rawP  = 0.0060  adjP  = 0.0590 Index User IDGene   symbol Gene namesEntrez   gene Ensemble 1 ILMN_2657141 Surf1 Surfeit gene 1 20930 ENSMUSG00000015790 2 ILMN_1254971 Cox6b1 Cytochrome c oxidase,  subunit VIb polypeptide110323 ENSMUSG00000036751 Database: molecular function Name: NADH dehydrogenase activity ID:GO:0003954",
+    "F42A9.5 cyp-33E2, cytochrome P450 family 13.81 (  0.49) 118 0.0010 C47E12.2 Mitochondrial ADP/ATP carrier protein 16.00 (  0.78) 136 < 0.0001 F21D5.8 Mitochondrial 28S ribosomal protein S33 15.95 (  0.99) 136 < 0.0001 C33A12.1 NADH: ubiquinone oxidoreductase 16.28 (  1.05) 139 0.0003 ZK809.3 NADH: ubiquinone oxidoreductase 23.46 (  1.14) 200 < 0.0001 Y57G11C.12 nuo-3, NADH: ubiquinone oxidoreductase 20.71 (  1.18) 177 < 0.0001",
+    "Y66A7A1 100 52 33 4 0 9.00 (  0.29) 0.0572 210 Y71H2_388.c PP2A regulatory subunit (cytochrome C oxidase subunit) 100 82 48 2 0 5.57 (  0.20) < 0.0001 130 F54D8.2 Cytochrome c oxidase subunit Vla 100 70 41 22 3 5.62 (  0.27) < 0.0001 131 F56D2.1 Mitochondrial processing peptidase 100 55 17 3 0 4.46 (  0.20) 0.4303 104 K04G7.4 Nuo-4, NADH: ubiquinone oxidoreductase 100 78 55 4 0 5.06 (  0.23) < 0.0001 118 T20H4.5 Ubiquinone Fe-S protein 100 99 89 45 2 7.58 (  0.18) < 0.0001 177",
+    "and (Iso211Ser) 1.1383 . (ii) Overview of MT-CYB mutation on electron transport chain. From the complex II the reduced form of ubiquinone move through the hydrophobic region of the membrane by diffusion. When the ubiquinone comes in contact with the next carrier in the electron-transport chain, the electron is transferred to cytochrome reductase, or the cytochrome b-c1 complex (Complex  III). The mutated cytochrome b  loses the ability to accept incoming",
+    "c   oxidase polypeptide Mitochondria K08F11.4 year-1 IV Tyrosyl-tRNA synthetase, predicted to be mitochondrial MitochondriaE04A4.7 IV Cytochrome   c  Mitochondria"
+  ],
+  "answer": "Cytochromes are proteins that contain heme groups and are responsible for the transport of electrons [3]. They play a crucial role in the mitochondrial respiratory chain, which is essential for the biochemical synthesis of ATP [2]. One specific family of cytochromes, known as cytochrome P450, is involved in the detoxification of harmful substances [3].",
+  "question": "What is cytochrome?"
+}

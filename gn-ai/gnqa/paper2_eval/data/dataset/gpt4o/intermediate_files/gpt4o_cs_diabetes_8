@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2004 - Diabetes Genes a.pdf",
+    "2003 - The Inherited Basis of Diabetes Mellitus.pdf",
+    "2007 - Physical activity modifies the effect of SNPs in the SLC2A2 (GLUT2).pdf",
+    "2003 - The Inherited Basis of Diabetes Mellitus.pdf",
+    "2009 - Zinc and Diabetes - clinical links and molecular mechanisms.pdf",
+    "2020 - Genetics and Epigenetics New Insight on Gestational Diabetes Mellitus.pdf",
+    "2012 - Reduced Insulin Exocytosis in Human Pancreatic b-Cells.pdf",
+    "2000 - A High Fasting Plasma Insulin Concentration.pdf",
+    "2006 - Polymorphisms in the Ghrelin Gene Are Associated with Serum High-Density Lipoprotein.pdf",
+    "2018 - Genetic variants of gestational diabetes mellitus a study of 112 SNPs among 8722 women in two independent populations.pdf"
+  ],
+  "extraction_id": [
+    "0734af87-4854-5a0f-b10c-2ea89376cb87",
+    "78e2a11a-4e89-5d14-b076-ef24c92b35b2",
+    "276a7b90-6325-59c8-b8b2-77f855aa2553",
+    "51702d4a-735b-5bc4-98a4-d26bf1e58b40",
+    "a482defd-8d6a-5966-8ec1-5aa7e49c14f1",
+    "7d315f2c-43f0-587a-9370-e0f205d6c611",
+    "e6e7fc9f-e4a4-5d51-9070-01ce34cffcd3",
+    "6aefb64e-b732-5742-90a4-f2aa43c8b866",
+    "00f6985d-f69b-50e3-b673-0ec508e6c025",
+    "a228ec1a-de5b-5e0c-b24f-db8249be4053"
+  ],
+  "document_id": [
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "7b85b290-d711-55d5-9b1e-b06e4d6f14a2",
+    "6f5ced46-b777-563a-b644-432f4e7e2644",
+    "7b85b290-d711-55d5-9b1e-b06e4d6f14a2",
+    "72ab8458-928b-56b9-9547-1ba4b59dfab9",
+    "301a7093-a33a-57c9-8979-58146c57ced1",
+    "689e4fcc-99db-5798-8f1d-68c41d4638db",
+    "77375e8f-ca8e-5bbb-b310-910dd82ade9c",
+    "8ad4e1b5-9c29-5b20-bed8-afbf4a14862a",
+    "3b301dd1-17bd-5632-9a96-d6294c6d7650"
+  ],
+  "id": [
+    "chatcmpl-AIFq1suHUy36hH4x2WAKqkv1fOq53",
+    "bdc8f1de-8c90-5e28-8a21-a5bb0182cfe1",
+    "bc93539a-df5f-5720-a4ce-0345fe4b66d4",
+    "0a7e6fb3-bf85-5440-adeb-c66fca9d170a",
+    "a4973968-2510-5f08-8252-f2be85be3c42",
+    "4bab532c-8b73-54b8-905a-d7b070af1da8",
+    "42eee55f-adfa-5a04-b3f0-a592b3b08a2c",
+    "65c8f702-eee5-550e-bd63-78892b158c93",
+    "a6ef60db-d564-5f55-a31a-db893879ab14",
+    "b91a2e1b-eb4d-5e1b-a85c-46a8f394603c",
+    "277f37e3-ee45-5619-b051-33d5ba95bd07"
+  ],
+  "contexts": [
+    "Effectors  Glucose transporters. A number of polymorphisms have been identified in  the GLUT4 gene. None of them have been linked to or found to be  associated with type 2 diabetes in a variety of populations. 5960 Interestingly,  an association was found between a polymorphism in the human GLUT!  gene and type 2 diabetes60 that was significant for obese women. Regulation  of GLUT4 protein expression in diabetes occurs in a strongly tissue-specific",
+    "M,XiangKS,etal.1996.Geneticcontri-bution of polymorphism of the GLUT1and GLUT4 genes to the susceptibilityto type 2 (non-insulin-dependent) dia-betes mellitus in different populations.Acta Diabetologica 33:19397 141. Poulsen P, Kyvik KO, Vaag A, Beck- Nielsen H. 1999. Heritability of type II(non-insulin-dependent) diabetes melli-tus and abnormal glucose toleranceapopulation-basedtwinstudy. Diabetolo- gia42:13945 142. Pugliese A, Zeller M, Fernandez AJ,",
+    "A mutation in the Glut2 glucose transporter gene of a diabetic patientabolishes transport activity. J Biol Chem 269: 1776517767, 1994. 36.Patel P, Bell GI, Cook JT, Turner RC, Wainscoat JS. Multiple restriction fragment length polymorphisms at the GLUT2 locus: GLUT2haplotypes for genetic analysis of type 2 (non-insulin-dependent) diabetesmellitus. Diabetologia 34: 817821, 1991. 37.Pereira MA, FitzerGerald SJ, Gregg EW, Joswiak ML, Ryan WJ, Suminski RR, Utter AC, Zmuda JM. A collection of Physical Activity",
+    "NootherrecentassociationsofpolymorphismswithT2Dhavebeenreplicated to date (Table 5). However, a recent meta-analysis (106) identied some earlyreproducibilityofanassociationbetweenvariationin GLUT1andT2D,originally reportedin1988(104).Itislikelythatthisassociationhasnotbeenpursuedfurtherfor several reasons, but one possibility is a study that reported the rejection oflinkageto GLUT1athighlevelsofsignicance(46).However,linkagehaslimited",
+    "mechanism by which type 2 diabetes is influenced remains to be identified. There have been several attempts to clarify the role of the polymorphism in SLC30A8 in the development of type 2 diabetes and the focus has been set on insulin secretion dueto the importance of ZnT-8 for insulin storage in the granulaof pancreatic cells. The results are controversial, but there appears to be an association between the risk variant of rs13266634 and reduced insulin secretion. Interestingly, decreased insulin",
+    "glucose tolerance, suggesting a r ole for this polymorphism in the onset of GDM as well as type 2 diabetes mellitus ( 17). The switch on IRS-1 of the amino acid GLY972 Arg (rs1801278) impairs insulinsecretion, and a study on 1306 GDM patients and 1973 pregnantwomen without GDM found a signi cant association between the presence of this polymorphism and the risk of GDM ( 18). Intriguing results were generated by a study on the genetic",
+    "tients the EUGENE2 study. Diabetologia 2008;51:816 820 32. Kirchhoff K, Machicao F, Haupt A, et al. Polymorphisms in the TCF7L2, CDKAL1 and SLC30A8 genes are associated with impaired proinsulinconversion. Diabetologia 2008;51:597 601 33. Nicolson TJ, Bellomo EA, Wijesekara N, et al. Insulin storage and glucose homeostasis in mice null for the granule zinc transporter ZnT8 and studies of the type 2 diabetes-associated variants. Diabetes 2009;58:2070 2083",
+    "is markedly reduced in glucose-unresponsive islets from ani-mal models of type 2 diabetes (51). In a previous study in PimaIndians, we found that ~5% of this population carries a mis-sense polymorphism in exon 3 of the GLUT2 gene (52), but this polymorphism was not associated with the residual fast-ing plasma insulin concentration in the present study.Despite the fact that GLUT2 is an attractive candidate, it",
+    "polymorphisms in 24 DNA samples. Common variants were thengenotyped in 760 type 2 diabetic patients and 641 nondiabetic sub-jects. Genetic associations with diabetes-related phenotypes werealso analyzed. Results: Nine polymorphisms were identified, and four common poly- morphisms [g. /H110021500C /H11022G, g./H110021062G /H11022C, g./H11002994C/H11022T, g./H11001408C/H11022A (Leu72Met)] were genotyped in a larger study. The genotype distri-butions of these four common polymorphisms in type 2 diabetes pa-",
+    "in turn, result in a defective or poorly expressed glucagonprotein and lead to decreased insulin secretion and conse- quently hyperglycaemia [ 48]. The current study identified, for the first time, several type 2 diabetes-associated risk alleles associated with a higher riskof GDM, namely rs7957197 ( HNF1A ), rs10814916 ( GLIS3 ), rs3802177 ( SLC30A8 ) and rs7041847 ( GLIS3 ). These SNPs"
+  ],
+  "answer": "Genetic polymorphisms in the GLUT4 gene have been studied to determine their significance in relation to Type 2 diabetes. However, according to the provided context, none of the identified polymorphisms in the GLUT4 gene have been linked to or found to be associated with Type 2 diabetes across various populations [1]. This suggests that, despite investigations, there is no established connection between GLUT4 gene polymorphisms and the susceptibility to Type 2 diabetes.",
+  "question": "What is the significance of genetic polymorphisms in the GLUT4 gene for Type 2 diabetes?"
+}

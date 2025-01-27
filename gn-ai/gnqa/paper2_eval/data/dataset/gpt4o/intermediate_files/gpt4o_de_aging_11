@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Structural, functional and molecular analysis.pdf",
+    "2007 - Immunosenescence comes of age.pdf",
+    "2020 - Age-related gene expression and DNA methylation changes in rhesus.pdf",
+    "2022 - Functional genomics of inflamm-aging.pdf",
+    "2022 - Functional genomics of inflamm-aging.pdf",
+    "2022 - Immunity and lifespan answering.pdf",
+    "2007 - Immunosenescence comes of age.pdf",
+    "2012 - Pleiotropic Cellular Functions of PARP1 in Longevity.pdf",
+    "2007 - Immunosenescence comes of age.pdf",
+    "2007 - The skin as a mirror of the aging process in the human organism.pdf"
+  ],
+  "extraction_id": [
+    "d9ef944b-b9a5-5b45-aaa6-c48f6fe54893",
+    "1ec3aae0-b171-511c-8250-fc0731aa3ec8",
+    "245e6d14-fa43-5af6-92d3-c5d7bf0235c2",
+    "1635dbe1-1dcb-5213-9446-74129d50c5f8",
+    "72b29fff-be72-5ede-85c9-7dc81894c956",
+    "b7467732-698f-5ca4-be08-08b011b0d343",
+    "1ec3aae0-b171-511c-8250-fc0731aa3ec8",
+    "f12b7e5c-29bc-5f56-9303-ab9286f22d88",
+    "170e6d89-2624-5b49-a6d1-95d4f35f73f3",
+    "daf4bb0f-4be5-5c47-baa5-686cd61adc1a"
+  ],
+  "document_id": [
+    "0e803003-d6e5-570e-a810-1aea89d7ea63",
+    "22313267-b0be-572f-8170-dcb814fe6140",
+    "0f1fe2f6-b9c8-514d-ac1c-4e7c07a19ff0",
+    "435dc081-e3d1-52c5-93a1-caa11206422f",
+    "435dc081-e3d1-52c5-93a1-caa11206422f",
+    "a834e7ee-7bab-5c4d-a236-b570d1ae635f",
+    "22313267-b0be-572f-8170-dcb814fe6140",
+    "e67324c0-474b-5280-8cbc-3778c6c0e5f0",
+    "22313267-b0be-572f-8170-dcb814fe6140",
+    "c429b80b-ad40-5fd3-b189-3982e5a8ab23"
+  ],
+  "id": [
+    "chatcmpl-AIHXbfIiqBOfJAG67WB3RBf5qTOVk",
+    "65fe4bdc-890e-53bf-ad11-2d9c67adac7f",
+    "0c2a9ad8-054d-5a03-af43-704d2b7722d0",
+    "a8f4f7d2-85f9-5097-b588-614c7973c3b5",
+    "6822e1b6-b9bc-5e26-b6d5-d0d141854dd4",
+    "c0eedfc9-fd74-51f8-ace9-dfd79ad16b71",
+    "c4f7a0e2-0d13-5928-aaf2-8fc70dc9face",
+    "1683b89a-86bd-5439-9a6f-df120b67d0e8",
+    "fb4173c8-cf14-59d2-804c-3c2824a3fdc5",
+    "f16127b0-68dc-50bc-b39e-8ead81d723ee",
+    "ba9fdb3c-b9c2-57a2-9bb7-df5472d20e73"
+  ],
+  "contexts": [
+    "immune system are one of the hallmarks of the aging body. Immunosenescence is the functional decline of the adaptive immune system brought on by natural agingwhereby protection against infection by pathogens and the effectiveness of vaccination decline [45,46]. The sec- ond aging-induced change in the immune system iscalled inflammaging which is characterized by a low- grade chronic inflammation process that contributes to",
+    "the increased susceptibility of the elderly to infectious disease and tothe poor outcome of vaccination. Defence against pathogens is com-promised mainly because of changes in adaptive immunity mediatedby T and B lymphocytes; however, all components of the immunesystem are affected (Fig 1). Dissecting the crucial alterations responsi-ble for dysfunctional immunity in old age will facilitate the develop-ment of rational interventions to reconstitute appropriate immunefunction. Given the increasing",
+    "[39] C. Castelo-Branco, I. Soveral, The immune system and aging: a review, Gynecol.  Endocrinol. 30 (2014) 1622.  [40] S.A. Johnson, S.J. Rozzo, J.C. Cambier, Aging-dependent exclusion of antigen-in - experienced cells from the peripheral B cell repertoire, J. Immunol. 168 (2002)  50145023 .  [41] D.P. Shanley, D. Aw, N.R. Manley, D.B. Palmer, An evolutionary perspective on the  mechanisms of immunosenescence, Trends Immunol. 30 (2009) 374381.",
+    "immunosenescence: the decline in immune efficacy of both the innate and the adaptive immune systems. Age-relatedimmune decline also links to the concept of inflamm-aging, whereby aging is accompanied by sterile chronic inflammation. Along with a decline in immune function, aging is accompanied by a widespread of omics remodeling.",
+    "ence the development of inflamm-aging and immunosenes- cence phenotypes. Finally, although discussed studies have reported age-related changes in innate immune cell processes, there is still little known about how these changes are influenced by biologicalsex. Indeed, both the adult mammalian immune system [ 80,125] and the aging process [ 126] are sex-dimorphic, suggesting that",
+    "tion has also been implicated in ageing across a range of non-model organisms, including mice,nematode worms ( Caenorhabditis elegans ), and primates [ 4042]. The damage caused by the ageing adaptive and innate immune systems gives us insights into how these different arms of the immune system may in uence longevity. In general, adaptive im- mune function diminishes with age, whereas innate immune function is maintained [ 34,4346].",
+    "development to senescence, innate immunity to adaptive immunity,and genes to environments, in organisms ranging from mice to monkeys and humans. Understanding and eventually modulatingimmune dysfunction in the elderly now beckons. Lymphocyte development and ageing",
+    "an age-related decline in the capacity of adaptive immunity,consisting of more specic responses carried out by B andT cells [ 7]. Thus, with advanced age, the immune system undergoes a gradual remodeling in the attempt to reestablisha new balance that assures survival, however, favoring thedevelopment of chronic inammatory conditions [ 5,6,8,9]. DNA damage and inammation are inevitably linked by",
+    "All components of the immune system are altered as ageing pro-ceeds (Fig 1); however, the T-cell and B-cell compartments seem tobe particularly susceptible. The most severe clinical impact is proba-bly a result of the loss of diversity in the TCR and B-cell-receptorrepertoire, owing to the accumulation of dysfunctional cells, anddecreased thymic and bone-marrow output. Several interventionsdiscussed at the meeting could conceivably contribute to therestoration of appropriate immune function in the near",
+    "more susceptible to DNA damage. One of the major rea-sons are the impaired DNA repair mechanisms which havebeen described in several studies and have been associated with the initiation of age-associated diseases and progeroidsyndromes ( Hasty et al., 2003; Lieber and Karanjawala, 2004). Furthermore, dysregulated immune and inamma- tory responses have been already documented both inhumans and mouse with increasing age ( Badawi et al., 2004; Kovaiou et al., 2007 )."
+  ],
+  "answer": "Age-dependent changes in the immune system, such as immunosenescence, contribute to increased susceptibility to diseases through several mechanisms:  1. **Functional Decline of the Adaptive Immune System**: Immunosenescence is characterized by a decline in the adaptive immune system's function, which leads to reduced protection against infections and decreased effectiveness of vaccinations [1]. This decline is primarily due to changes in T and B lymphocytes, which are crucial for adaptive immunity [2].  2. **Loss of Diversity in Immune Receptors**: There is a loss of diversity in the T-cell receptor (TCR) and B-cell receptor repertoire as people age. This is due to the accumulation of dysfunctional cells and decreased output from the thymus and bone marrow, which are essential for generating new immune cells [9]. This loss of diversity impairs the immune system's ability to recognize and respond to new pathogens effectively.  3. **Chronic Inflammation (Inflammaging)**: Aging is also associated with a state of low-grade chronic inflammation, known as inflammaging. This chronic inflammation can further compromise immune function and contribute to the development of age-related diseases [1], [4].  4. **Overall Immune System Alterations**: All components of the immune system are affected by aging, not just the adaptive immune system. This widespread alteration can lead to a compromised defense against pathogens, making the elderly more susceptible to infectious diseases and less responsive to vaccinations [2], [9].  These changes collectively lead to an increased susceptibility to diseases in the elderly, highlighting the importance of understanding and potentially intervening in these age-related immune alterations to improve health outcomes in older populations.",
+  "question": "How do age-dependent changes in the immune system, such as immunosenescence, contribute to increased susceptibility to diseases?"
+}

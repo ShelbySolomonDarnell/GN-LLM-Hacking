@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+    "2010 - Genome-wide association study (GWAS)-identified disease risk alleles do not compromisehuman longevity.pdf",
+    "2011 - Genomics of human longevity.pdf",
+    "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf",
+    "2016 - Whole-Genome Sequencing of a Healthy Aging Cohort.pdf",
+    "2017 - Four Genome-Wide Association Studies Identify New.pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2019 - Bioinformatic prediction of critical genes and pathways.pdf",
+    "2011 - Genomics of human longevity.pdf",
+    "2019 - Genetic Risk Scores for Diabetes Diagnosis.pdf"
+  ],
+  "extraction_id": [
+    "32275a81-cd67-525e-b6c1-c68dc441ab62",
+    "680423ed-71cc-5049-a80f-c78fe86e35ff",
+    "7c183ae5-f10e-5f0c-962e-32135887b3bd",
+    "bca61863-81b3-5ef7-850d-10cc9577a9e1",
+    "c55b4a12-6cc8-5594-87d4-53e4f8f023d1",
+    "a6075268-c86f-536b-a6b4-d2e18be9f117",
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "4109e561-4721-5f4e-b4d5-4353f8d1741d",
+    "7c183ae5-f10e-5f0c-962e-32135887b3bd",
+    "a8162fba-c5da-504f-a018-b6242a026bc5"
+  ],
+  "document_id": [
+    "46081466-a50f-59d8-893d-8b8883b38507",
+    "200c2966-b647-552f-8504-0d6fb7f50bfa",
+    "2e038219-fdaa-506f-9cd3-51379054130e",
+    "4d082da4-fa48-5170-8147-c4fea47a5d4b",
+    "3a287979-e475-545b-99e6-4c1925653a79",
+    "c10653f6-b3d7-5b92-9271-ab8fcc7905a7",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "01201944-11f2-52d9-ac3e-7af685d4a4c4",
+    "2e038219-fdaa-506f-9cd3-51379054130e",
+    "8c66aca1-d4ba-534d-a037-4273de340ee1"
+  ],
+  "id": [
+    "chatcmpl-ADZQVK9rNW7qGGShVvwBLR6uFNp9v",
+    "849d5eca-38a4-553e-83da-a967ba81614c",
+    "260a4030-b151-5afd-ae06-86246ee73a7a",
+    "558acee9-89ff-599a-8502-bc181bc94995",
+    "06c32067-10ea-599a-9af2-9413ad8c8984",
+    "19faf41b-7716-5244-a9c3-196c2e5cd477",
+    "369b0a64-a439-573a-99dd-67d911026c37",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "a45fa299-f675-5050-a510-dfa6d0954a25",
+    "cfe4eab8-fb34-5d0b-ae67-79c3d9993e15",
+    "a67fe95c-11ac-5d06-8757-209f9abd0fd8"
+  ],
+  "contexts": [
+    "Longitudinal Study of Aging. The natural history of progression from normalglucose tolerance to type 2 diabetes in the Baltimore Longitudinal Study of Aging. Diabetes 2003; 52:1475 1484. 22 Hornbak M, Allin KH, Jensen ML, Lau CJ, Witte D, Jrgensen ME ,e ta l .A combined analysis of 48 type 2 diabetes genetic risk variants shows nodiscriminative value to predict time to first prescription of a glucose lowering drug in Danish patients with screen detected type 2 diabetes. PLoS One 2014; 9:e104837.",
+    "A set of currently known alleles increasing the risk for coronary artery disease, cancer, and type 2 diabetes as identi ed by genome- wide association studies was tested for compatibility with human longevity. Here, we show that nonagenarian siblings from long- lived families and singletons older than 85 y of age from the general population carry the same number of disease risk alleles as young controls. Longevity in this study population is not compromised by",
+    "52561.x ) 17 Atzmon, G., Schechter, C., Greiner, W ., Davidson, D., Rennert, G. & Barzilai, N. 2004 Clinical phenotype of families with longevity. J. Am. Geriatr. Soc. 52, 274 277. ( doi:10.1111/j.1532-5415.2004.52068.x ) 18 Rozing, M. P . et al. 2009 Human insulin/IGF-1 and familial longevity at middle age. Aging (Albany NY )1, 714722. 19 Rozing, M. P . et al. 2010 Favorable glucose tolerance and lower prevalence of metabolic syndrome in",
+    "extends lifespan. Cell Rep. 20, 451463 (2017). [PubMed: 28700945]  64. Barzilai N & Ferrucci L Insulin resistance and aging: A cause or a protective response? J.  Gerontol. Ser. A 67, 13291331 (2012). 65. Holmes MV , Ala-Korpela M & Smith GD Mendelian randomization in cardiometabolic disease:  challenges in evaluating causality. Nat. Rev. Cardiol. 14, 577590 (2017). [PubMed: 28569269]  66. Holmes MVet al.Mendelian randomization of blood lipids for coronary heart disease. Eur. Heart J.",
+    "et al., 2012 ), possibly due to the indirect and/or a mixed relation- ship between individual genetic disease risk loci and exceptional longevity (as discussed by Fortney et al., 2015 ) versus the poten- tially more direct relationship between aging in the absence of disease and overall genetic disease risk. On the other hand, no difference in genetic risk is observed for type 2 diabetes genetic risk and cancer. Some of these ndings (type 2 diabetes, colon, and lung cancer) can be explained by the",
+    "5. Garagnani P, Giuliani C, Pirazzini C, etal. Centenarians as super-controls to assess the biological relevance of genetic risk factors for common age-related diseases: a proof of principle on type 2 diabetes. Aging (Albany NY). 2013;5:373385. doi:10.18632/aging.100562  6. Sebastiani P, Nussbaum L, Andersen SL, Black MJ, Perls TT. Increasing  sibling relative risk of survival to older and older ages and the importance",
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "The pursuit of longevity has been the goal of humanity since ancient times. Genetic alterations have been demonstrated to affect lifespan. As increasing numbers of pro-longevity genes and anti-longevity genes have been discovered in Drosophila, screening for functionally important genes among the large number of genes has become difficult. The aim of the present study was to explore critical genes and pathways affecting longevity in Drosophila melanogaster. In this study, 168 genes associated with",
+    "offspring without diabetes mellitus of nonagenariansiblings: the Leiden Longevity Study. J. Am. Geriatr. Soc. 58, 564569. ( doi:10.1111/j.1532-5415.2010. 02725.x ) 20 Suh, Y . et al. 2008 Functionally signicant insulin-like growth factor I receptor mutations in centenarians.Proc. Natl Acad. Sci. USA 105, 34383442. ( doi:10. 1073/pnas.0705467105 ) 21 Heijmans, B. T ., Beekman, M., Houwing-Duistermaat, J. J., Cobain, M. R., Powell, J., Blauw, G. J., van der",
+    "early-onset diabetes in some pedigrees, but it also maybe observed in individuals who retain normal glucose tolerance into late adulthood and beyond ( ). Studying  individuals from  HNF A-MODY families, Lango Allen et al. () found that a -SNP T Dr s P S was signi cantly associated with earlier age of diabetes diagnosis, with each additional risk allele accelerating diagnosis by ~ months. Clinical application of predictive scores"
+  ],
+  "answer": "Longevity genes play a significant role in protecting against diabetes by influencing various biological pathways that contribute to better glucose tolerance and metabolic health. Here are some key points explaining their role:  1. **Favorable Glucose Tolerance and Lower Prevalence of Metabolic Syndrome**: Research has shown that individuals from long-lived families tend to have favorable glucose tolerance and a lower prevalence of metabolic syndrome, which are critical factors in reducing the risk of type 2 diabetes [3].  2. **Insulin/IGF-1 Pathway**: The insulin/IGF-1 signaling pathway is crucial in regulating lifespan and metabolic processes. Mutations in the insulin-like growth factor I receptor (IGF-1R) have been found in centenarians, suggesting that these mutations may contribute to longevity by enhancing insulin sensitivity and glucose metabolism, thereby protecting against diabetes [9].  3. **Genetic Risk and Longevity**: Studies have indicated that nonagenarians and centenarians carry the same number of disease risk alleles for type 2 diabetes as younger controls, yet they do not exhibit the disease. This suggests that longevity genes may counteract the effects of diabetes risk alleles, possibly through mechanisms that enhance metabolic health and insulin sensitivity [2], [5].  4. **Use of Centenarians as Super-Controls**: Centenarians are often used as super-controls in genetic studies to assess the biological relevance of genetic risk factors for common age-related diseases, including type 2 diabetes. This approach helps identify genetic factors that contribute to both longevity and protection against diabetes [6].  In summary, longevity genes contribute to protecting against diabetes by promoting favorable glucose tolerance, enhancing insulin sensitivity, and counteracting the effects of diabetes risk alleles through various genetic and metabolic pathways [2], [3], [5], [6], [9].",
+  "question": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+}

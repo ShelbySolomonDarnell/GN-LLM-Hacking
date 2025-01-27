@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+    "2012 - Novel biomarkers for pre\u2010diabetes identified by metabolomics.pdf",
+    "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+    "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+    "2011 - Emerging Applications of Metabolomic.pdf",
+    "2015 - Genetics, genomics and personalized medicine in Type 2 Diabetes.pdf",
+    "2011 - The eMERGE Network A consortium of biorepositories linked to electronic medical records data for conducting genomic studies.pdf",
+    "2011 - Biomarkers for the Prediction of Type 2 Diabetes.pdf",
+    "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+    "2009 - Metabolomics Applied to Diabetes Research.pdf"
+  ],
+  "extraction_id": [
+    "8ad05bed-b0fd-52d4-badf-a98233a0808d",
+    "c775612c-c80b-5a50-9417-d6fd89ec07ee",
+    "2359c12d-8263-5183-a350-fff365318805",
+    "97b6d492-9139-50ec-9685-53a803f5c995",
+    "df823d9a-e2de-5dab-b336-af4682b9ce70",
+    "92a2a3c7-ed41-5394-b716-fdbf5c198a86",
+    "a35d4e2a-ce04-536d-b88a-8f273aa03f40",
+    "75f979f5-425b-563c-b4ba-ec3a971f356a",
+    "6d77a75e-68a4-5c27-b387-449f7f9f9487",
+    "380e9a2e-8f9f-5f9e-ba20-3695b1c60fda"
+  ],
+  "document_id": [
+    "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+    "d93e3562-3419-51a6-86db-8247a9e69361",
+    "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+    "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+    "10c69e6a-3771-5cc6-a915-a31556dec650",
+    "d8b85c3e-62f3-5e67-99b0-d0a2f225aff0",
+    "3a174301-2941-578f-8ed6-f16d88fd2230",
+    "c68d29dd-eaa1-53f8-bc0d-aa85b2f39352",
+    "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+    "a6ae2fb6-88ae-588f-a98d-b6092f886ed9"
+  ],
+  "id": [
+    "chatcmpl-ADYnYRyH5dd9Q9xzg35pmgGcm27tO",
+    "13c68218-4920-5df7-a0b4-017298c9001a",
+    "393e2363-48e6-56ad-94d6-39b1915b2f5a",
+    "3df2fa36-b9aa-51c6-9e36-acfcef1310b6",
+    "ead10261-182f-5ab1-9af0-ce8a17677d4a",
+    "024eea85-c974-51fc-8def-89db09ba56b0",
+    "cef34be2-673e-553f-9c92-1ecef8edec4f",
+    "5c7dc6d7-800e-5c77-ac61-bd8e3086754c",
+    "3b9547ce-8316-5256-a68b-256058b3ee79",
+    "06da63dc-6a8d-5682-80e0-7d37b66cdf6f",
+    "0cb19f85-21d9-54f1-81a4-43969ac050e8"
+  ],
+  "contexts": [
+    "allows the detection of systemic metabolic imbalances, thereby providing a disease specific picture of human physiology. doi:10.1371/journal.pone.0013953.g003Metabolomics of Diabetes PLoS ONE | www.plosone.org 9 November 2010 | Volume 5 | Issue 11 | e13953",
+    "Metabolomics studies allow metabolites involved in disease mechanisms to be discovered by monitoring metabolite level changes in predisposed individuals compared with healthy ones (Shaham et al, 2008; Newgard et al, 2009; Zhao et al, 2010; Pietilainen et al, 2011; Rhee et al, 2011; Wang et al,2 0 1 1 ; Cheng et al, 2012; Goek et al, 2012). Altered metabolite levels may serve as diagnostic biomarkers and enable preventive action. Previous cross-sectional metabolomics studies of T2D",
+    "doi:10.1371/journal.pone.0013953.t006Metabolomics of Diabetes PLoS ONE | www.plosone.org 8 November 2010 | Volume 5 | Issue 11 | e13953",
+    "monitoring and preventing progression to costly co-morbidities. The principal concept of metabolomics being able to find some metabolites differing in a control and a type 2 diabetic group is established. It is not our goal here to show this once again. The questions we ask are rather How well are different approaches suited to attain this goal? and What are optimal settings under which such studies can be successful?. Others have already investigated these questions before [16,17,18]. However, we",
+    "H, Raftery D, Nair KS. Quantitative me-tabolomics by H-NMR and LC-MS/MSconrms altered metabolic pathways in diabetes. PLoS ONE 2010;5:e10538 2. Li LO, Hu YF, Wang L, Mitchell M, Berger A, Coleman RA. Early hepatic insulin re-sistance in mice: a metabolomics analysis.Mol Endocrinol 2010;24:657 666 3. Bain JR, Stevens RD, Wenner BR, Ilkayeva O, Muoio DM, Newgard CB. Metabolomicsapplied to diabetes research: moving frominformation to knowledge. Diabetes 2009; 58:2429 2443",
+    "70 Zhang Q, Fillmore TL, Schepmoes AA et al. Serum proteomics reveals systemic dysregulation of innate immunity in Type 1 diabetes. J. Exp. Med. 210(1), 191203 (2013). 71 Roberts LD, Koulman A, Griffin JL. Towards metabolic biomarkers of insulin resistance and Type 2 diabetes: progress from the metabolome. Lancet Diabetes Endocrinol.   2(1), 6575 (2014).  \t Illustrates\tpotential\tmetabolic\tbio-markers\twhich\tmay\tbe\t used\tto\tdetect\tpeople\tat-risk\tfor\tT2D/insulin\tresistance,",
+    "Serum or plasma concentrations of sugars and sugar metabo- lites (e.g., glucose, mannose, desoxyhexose, and 1,5-anhy-droglucoitol), ketone bodies ( -hydroxybutyrate),  lipids  (e.g., phosphatidyl-cholines and nonesterified fatty acids),  branched-chain amino acids, and other metabolites were found  to be associated with insulin resistance or diabetes status (see  Supplementary Data  online for full references). A proof-of- concept multi-platform, metabolome-wide study based on the",
+    "Serum or plasma concentrations of sugars and sugar metabo- lites (e.g., glucose, mannose, desoxyhexose, and 1,5-anhy-droglucoitol), ketone bodies ( -hydroxybutyrate),  lipids  (e.g., phosphatidyl-cholines and nonesterified fatty acids),  branched-chain amino acids, and other metabolites were found  to be associated with insulin resistance or diabetes status (see  Supplementary Data  online for full references). A proof-of- concept multi-platform, metabolome-wide study based on the",
+    "Conclusions/Significance: Our study depicts the promising potential of metabolomics in diabetes research by identification of a series of known and also novel, deregulated metabolites that associate with diabetes. Key observations include perturbations of metabolic pathways linked to kidney dysfunction (3-indoxyl sulfate), lipid metabolism (glyceropho-",
+    "with signicant limitations and potential for misuse oftechnologies and overinterpretation of data. Here we seekto provide a critical evaluation of progress to date inapplication of metabolomics technologies for the under-standing of diabetes and obesity mechanisms, for sub-classication of different forms of diabetes to assist intailoring of therapeutic strategies, and for more detailedevaluation of the safety and efcacy of drugs used totreat the disease.Overview of current metabolomics"
+  ],
+  "answer": "The role of the immune system in the metabolomics of diabetes and associated conditions is highlighted in the context provided. Specifically, it is noted that serum proteomics has revealed systemic dysregulation of innate immunity in Type 1 diabetes [6]. This indicates that the immune system plays a significant role in the metabolic alterations observed in diabetes. The identification of metabolic biomarkers related to immune system dysregulation can help in detecting individuals at risk for Type 2 diabetes and insulin resistance [6]. This connection underscores the importance of understanding immune system interactions within the broader metabolic landscape of diabetes.",
+  "question": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+}

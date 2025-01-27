@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf",
+    "2017 - Identification of quantitative trait loci associated with the susceptibility of mouse spermatozoa to cryopreservation.pdf",
+    "2009 - Garland_and_Rose_Experimental_Evolution.pdf",
+    "2009 - Experimental_Evolution.pdf",
+    "2019 - Discovery of early life stress interacting and sex-specific quantitative trait loci impacting cocaine responsiveness.pdf",
+    "2011 - Evidence for widespread changes in promoter.pdf",
+    "2017 - Identification of quantitative trait loci associated with the susceptibility of mouse spermatozoa to cryopreservation.pdf",
+    "2017 - Identification of quantitative trait loci associated with the susceptibility of mouse spermatozoa to cryopreservation.pdf",
+    "2011 - Using animal models to disentangle the role of genetic, epigenetic, and environmental influences on behavioral outcomes associated with maternal anxiety and depression.pdf",
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf"
+  ],
+  "extraction_id": [
+    "c3a2c07f-e216-5dc0-92ea-f7c210e90974",
+    "002f921f-e651-538b-aec0-b357d2c08ee9",
+    "4a07567a-57db-5110-aa52-cc76b8df0d32",
+    "5e459c02-b084-5d1a-80fd-90643c6045f5",
+    "1b0fe3c9-4c86-5e80-9dde-faadbcdd44a1",
+    "1f77a329-36c6-5cef-884f-221358ef64ec",
+    "cf45ca6a-fbcd-52bc-b936-4f992c8e5537",
+    "3a518d3b-30c3-5cee-8344-c21cf4b32941",
+    "c570b41d-fa75-588a-bce6-30c7a64b6997",
+    "a59b4a8a-4f9c-59d3-b184-267db613e8cc"
+  ],
+  "document_id": [
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33",
+    "e549cb7c-db24-540f-aded-e67442470525",
+    "496faa7f-9623-5ab7-9816-7c3755abb3aa",
+    "34821353-1b74-5ee2-ac39-66dd46f145bf",
+    "92c8a239-31ad-5ef3-bc37-a571afcdd187",
+    "1c35d1ec-a7c2-56f0-8ccf-e554814e94ef",
+    "e549cb7c-db24-540f-aded-e67442470525",
+    "e549cb7c-db24-540f-aded-e67442470525",
+    "9c2f76c6-b991-58ac-a332-50e1a3c016d8",
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33"
+  ],
+  "id": [
+    "chatcmpl-ADZMMx7Aorq6SFjdy1f98MjZd0bQz",
+    "5e6a7f2c-1232-5c7e-bba5-9779ec280ed0",
+    "3c7fb887-5dbb-54d9-9664-75ceabd4ebf3",
+    "1fa77703-e337-518f-bdd8-6c3ebad0754e",
+    "833bb510-694a-5646-960e-66b5e38ef609",
+    "30b42710-3270-5e84-9227-266db106f470",
+    "5db85ce4-25a9-5aba-b5ca-ab394fb0394f",
+    "80bc495d-85ab-5b77-8984-1f4e80ace849",
+    "0e360074-4b6b-5b81-a96d-509266b7b637",
+    "084d7eaf-290a-525b-b01b-f0537e46f56e",
+    "2a5ee720-370b-5c4b-b7ea-fe4c3b2a9ea4"
+  ],
+  "contexts": [
+    "ferentiation in animals reared at male- and female-producing temperatures (Fernandino et al., 2011). From a pure experimental point of view, there are several potential sources of environ- mental inuences that need to be under con- trol in order to avoid confounding results when studying gene expression levels (Hodgins-Davis and Townsend, 2009; Table 8.3). One of them is effect of the developmental environment, typi- cally in the range of weeks to years. Size is pos-",
+    "the fertilization rate (Table 1). There was an interaction between the two factors (strain and",
+    "subtle, and often uncontrollable, environmentalfactors. Behaviors are often influenced by multiple genes with complex gene-by-gene,gene-by-environment, and environment-by-environment interactions. This is one reason,for example, that single-gene mutants are relatively uninformative (see also Rauser et al.this volume), though we described a case in which such mutants were useful for explor-ing mechanisms underlying the evolution of mating systems in voles.",
+    "subtle, and often uncontrollable, environmentalfactors. Behaviors are often influenced by multiple genes with complex gene-by-gene,gene-by-environment, and environment-by-environment interactions. This is one reason,for example, that single-gene mutants are relatively uninformative (see also Rauser et al.this volume), though we described a case in which such mutants were useful for explor-ing mechanisms underlying the evolution of mating systems in voles.",
+    "environment interactions, particularly the contribution of environmen- tal factors in utero (Burmeister, McInnis, & Zllner, 2008; Henriksen, Nordgaard, & Jansson, 2017), and these limitations in turn hinder the development of a mechanistic understanding of aetiology. Here, we dissect the impact of gene prenatal environmental interactions on cocaine responsiveness of adult male and female mice from the BXD recombinant inbred panel. Early life stressors, including prenatal stress (PNS), are important",
+    "onmental factors, some of which have been shown toalter placental gene expression, as well as epigeneticmarks [10]. These include diet [11,12], smoking [13],and assisted reproductive techniques [14,15]. Mountingevidence implicates epigenetic marks, such as DNA methylation, in mediating environmentally-induced reg- ulation of genome function. More studies into theeffects of the environment on the placental epigenomeare warranted due the importance of this organ in regu-lating pregnancy development.",
+    "as well as the intrinsic fertilizing ability of the strain. Therefore, the results of the QTL analysis  based on the fertilization rates of frozen thawed spermatozoa might have reflected the 220  cumulative effect of these two factors. T o exclude the possible background strain effects, we  calculated the ratio of the fertilization rate of frozen thawed spermatozoa per that of fresh  spermatozoa in individual male mice (designated here as relative fertilization rate ). As shown",
+    "male ; Relative fertilization  rate (%) = (Fertilization rate with f rozen spermatozoa   (%)/Fertilization rate with f resh spermatozoa  (%))  100  (n = 6 for each strain) .     Fig. 2. Genome -wide interval mapping for suggestive QTLs affecting the fertilization rate 515  using frozen thawed spermatozoa.  (A) Mapping based on the actual fertilization rates. (B)  Mapping based on the relative fertilization rates. Critical intervals were selected based on peak",
+    "duce the behavioral differences observed in these inbred strains.The interaction of genes and the environment to produce phe-notypic outcomes has been acknowledged and accepted for quitesome time in the scientic community. However, the exact mech-anism by which the environment can act on genetic materialhas only recently begun to be investigated in a more systematicmanner. A ROLE FOR EPIGENETICS IN THE LINK BETWEEN MATERNAL CARE AND BEHAVIORAL OUTCOMES IN ANIMAL MODELS",
+    "I na d d i t i o n ,i ts h o u l db en o t e dt h a tt h ee f - fect of temperature on sex determination has a genetic basis itself and an interaction be- tween families and temperature effect has been reported in several species (Schultz, 1993; Van- deputte et al., 2007). Finally, other environ- mental effects such as pH, hypoxia, and so- cial factors have claimed to be involved on sex determination (reviewed by Guerrero-Est evez and Moreno-Mendoza, 2010). All the informa-"
+  ],
+  "answer": "The environment influences fertilization through various factors that can affect both the biological and genetic mechanisms involved. Here are some specific ways in which the environment can impact fertilization:  1. **Developmental Environment**: The developmental environment, which can span from weeks to years, is a significant source of environmental influence. This includes factors such as temperature, which can affect gene expression levels and potentially influence fertilization outcomes [1].  2. **Strain and Environmental Interactions**: There is an interaction between genetic strain and environmental factors that can influence fertilization rates. For example, the fertilization rate of frozen-thawed spermatozoa compared to fresh spermatozoa can be affected by these interactions, indicating that both intrinsic genetic factors and environmental conditions play a role [2], [7].  3. **Gene-by-Environment Interactions**: Behaviors and biological processes, including fertilization, are influenced by complex interactions between multiple genes and environmental factors. These interactions can be subtle and often uncontrollable, making it challenging to isolate the specific environmental factors at play [3], [4].  4. **Epigenetic Modifications**: Environmental factors such as diet, smoking, and assisted reproductive techniques can alter gene expression through epigenetic modifications like DNA methylation. These changes can impact the placental epigenome and, consequently, pregnancy development and fertilization success [6].  5. **Temperature and Other Environmental Factors**: Temperature has a genetic basis in its effect on sex determination, and interactions between temperature and genetic factors have been observed in several species. Other environmental factors such as pH, hypoxia, and social factors can also influence sex determination and potentially affect fertilization processes [10].  In summary, the environment influences fertilization through a combination of developmental conditions, genetic and environmental interactions, epigenetic modifications, and specific environmental factors like temperature and pH [1], [2], [3], [4], [6], [7], [10].",
+  "question": "how does environment influence fertilisation"
+}

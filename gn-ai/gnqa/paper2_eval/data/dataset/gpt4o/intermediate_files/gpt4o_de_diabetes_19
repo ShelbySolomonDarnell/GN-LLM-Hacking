@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2008 - Genetic Effects on Environmental Vulnerability to Disease Novartis Foundation Symposium 293.pdf",
+    "2012 - The Genetic and Epigenetic Basis of Type 2 Diabetes and Obesity.pdf",
+    "2013 - Genome-Wide Contribution of Genotype by Environment Interaction.pdf",
+    "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf",
+    "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf"
+  ],
+  "extraction_id": [
+    "3bf3c6a7-de03-5114-bad8-d53fd76d0fba",
+    "08acfe03-73b3-5533-b8e4-9caa031d33dd",
+    "cfc4760c-755e-5693-8d7b-4332fb6c45e5",
+    "50bde36d-2968-5eaa-9713-924e73383427",
+    "f3975a2c-8a66-582e-a4b8-868b1f4722d4",
+    "512ae4b5-27c8-509c-87ad-abd64d4295a6",
+    "df2a8699-692f-5f25-94b3-508f9ed2f210",
+    "c362793d-c70f-5225-afe5-88098042daef",
+    "08acfe03-73b3-5533-b8e4-9caa031d33dd",
+    "232f9536-eeac-5739-a57d-770cf5b32947"
+  ],
+  "document_id": [
+    "17637a6f-804e-50e4-9cf5-37318e17f15c",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "5d65e407-34e5-5c1c-b394-989b7a09b57d",
+    "d74ac751-712b-5970-98e6-bd348adc1dee",
+    "8c310d76-0a3b-574c-9859-859258870ee5",
+    "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d",
+    "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40"
+  ],
+  "id": [
+    "chatcmpl-AIHKkTED9VE0du8urGhS0MeefXMR7",
+    "ee24ad01-f93a-55c4-8c2c-9dea6a6a84d5",
+    "de2af111-7fad-5dc1-baae-4742ccc8ba0d",
+    "e07d8080-aba7-5216-8a75-e078201b8c0a",
+    "e76c1d0c-33b7-5d9e-958f-fce6adfe81aa",
+    "30728ec3-882c-5bb0-8f41-4c74dfafdf13",
+    "f7ed49ac-f617-5c13-851e-98d1583e020f",
+    "151c185f-3300-5518-810c-3fb0d6715f2c",
+    "cc98a5b9-131e-5b60-919e-82e86b7a37a7",
+    "a94c609e-4816-5e10-96fd-ba8d79218405",
+    "1d13cf78-3215-5873-b910-cbcac141779b"
+  ],
+  "contexts": [
+    "genome-wide association scans on type 2 dia-betes (Lango et al, 2008 ; van Hoek et al, 2008 ). Both studies found a similar predictive value showing only a marginal improvement in the prediction of type 2 diabetes beyond classicalclinical characteristics. Thus, despite overwhelming signicances and repeated replications, the explained variance andpredictive value of the currently identied sus- ceptibility loci is too low to be clinically useful. 5 GeneEnvironment Interactions in Obesity and Diabetes",
+    "actions between genetic variation and environmental exposures and medical therapies has important implications for the predic- tion, targeted prevention, and s tratified treatment of T2D and many other diseases. The literature on gene-e nvironment interactions in diabetes-related traits is extensive, but few studies are accom- panied by adequate replication data or compelling mechanistic explanations. Moreover, most studies are cross-sectional, from which temporal patterns and causal effects cannot be",
+    "ined for a range of disorders, from diabetes, cancer and in  ammatory bowel disease to  depression. We refute the contention that incorporating the measurement of genotype into longitudinal-epidemiological studies is wasteful or unlikely to yield signi  cant  bene  ts. 2008 Genetic effects on environmental vulnerability to disease. Wiley, Chichester (Novartis Foundation Symposium) p 128142 Slow progress understanding the genetic basis of many common diseases has been",
+    "In principle, each of these loci provides an opportunity to define  the genetic architecture and pathophysiology of these traits. The earliest successes for genetic discovery in diabetes and  obesity arose from the study of monogenic and syndromic  forms of disease, for which the segregation of rare, but highly  penetrant, alleles could be tracked using family-based linkage  approaches that are well suited to that setting. Maturity-onset  diabetes of the young, for example, accounts for ~12% of cases",
+    "wide GxE interactions in explaining the variance of diabetes-related traits. Citation: Zheng J-S, Arnett DK, Lee Y-C, Shen J, Parnell LD, et al. (2013) Genome-Wide Contribution of Genotype by Environment Interaction to Variation of Diabetes-Related Traits. PLoS ONE 8(10): e77442. doi:10.1371/journal.pone.0077442 Editor: Maria Eugenia Saez, CAEBi, Spain Received April 10, 2013; Accepted September 3, 2013; Published October 28, 2013",
+    "data sharing to advance complex disease research.  Nat. Rev. Genet. 17, 535549 (2016). 82. Franks,P .W., Pearson,E. & Florez,J.C. Gene- environment and gene-treatment interactions in  type2 diabetes: progress, pitfalls, and prospects.  Diabetes Care 36, 14131421 (2013). 83. Hagberg,J.M., Jenkins,N.T . & Spangenburg,E.  Exercise training, genetics and type2 diabetes- related phenotypes. Acta Physiol. 205, 456471  (2012). 84. Langenberg,C.  etal.  Gene-lifestyle interaction and",
+    "Genomics and geneenvironment interactions Even though many cases of T2DM could be prevented  by maintaining a healthy body weight and adhering to a  healthy lifestyle, some individuals with prediabetes mel - litus are more susceptible to T2DM than others, which  suggests that individual differences in response to life - style interventions exist76. Substantial evidence from  twin and family studies has suggested a genetic basis  of T2DM77. Over the past decade, successive waves of",
+    "DNA variation with disease processes in a range of settings, from cell lines to human populations, and major advances have been made in coupling these complex datasets with information about extrinsic environmental exposures including drug prescription in ways that allowthe logical interrogation of gene-drug and gene-lifestyle interactions. Doing so may teach us about disease etiology and help stratify type 2 diabetes (T2D) into subclasses that can be treated more effectively, with",
+    "fuel subsequent functional and clinical translation studies. This is important, because diabetes medicine may rely increas- ingly on genomic stratification of patient populations and disease phenotype, for which gene-environment interaction studies might prove highly informative. How Are Gene-Environment Interactions Defined? The term gene-environment interaction has different meanings to different biomedical re searchers (see Supplement 1for glossary of terms used). However, here, we focus on the",
+    "Nutrients 2014, 6 5362    48. Cornelis, M.C.; Hu, F.B. Gene -enviroment interactions in the development of type 2 diabetes:  Recent progress and continuing challenges. Annu. Rev. Nutr. 2012, 32, 245259.  49. Lee, Y.C.; Lai, C.Q.; Ordovas, J.M.; Parnell, L.D. A database of gene -enviroment interactions  pertaining to blood lipid traits, cardiovascular disease and type 2 diabetes. J. Data Mining  Genomics Proteomics 2011, 2, 106, doi:10.4172/2153- 0602.1000106."
+  ],
+  "answer": "Longitudinal genomics studies are crucial for understanding gene-environment interactions in diabetes onset and management because they allow researchers to observe how genetic variations interact with environmental factors over time. This approach helps in identifying temporal patterns and causal relationships that are not possible to discern from cross-sectional studies [2]. By incorporating genotype measurements into longitudinal studies, researchers can gain significant insights into the genetic basis of diseases like diabetes, which can lead to better prediction, targeted prevention, and stratified treatment of type 2 diabetes (T2D) [3]. Additionally, these studies can help stratify T2D into subclasses that can be treated more effectively by understanding gene-lifestyle interactions [8]. Overall, longitudinal genomics studies provide a comprehensive framework to explore how genetic predispositions and environmental exposures collectively influence diabetes-related traits and disease progression.",
+  "question": "How do longitudinal genomics studies help in understanding gene-environment interactions in diabetes onset and management?"
+}

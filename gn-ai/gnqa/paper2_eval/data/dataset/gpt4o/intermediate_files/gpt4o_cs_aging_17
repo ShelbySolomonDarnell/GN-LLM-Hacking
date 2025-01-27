@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2022 - Functional genomics analysis identifies.pdf",
+    "2021 - Career Retrospective Tom Johnson?Genetics, Genomics.pdf",
+    "2021 - Career Retrospective Tom Johnson?Genetics, Genomics.pdf",
+    "2021 -Mozhui- Epigenetic aging.pdf",
+    "2021 - Genetic loci and metabolic states associated with murine epigenetic aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2019 - Improved precision of epigenetic clock.pdf",
+    "2021 - Genome-wide association studies identify.pdf"
+  ],
+  "extraction_id": [
+    "a81cc7a6-0cc6-5909-9192-ac0fab26fbc2",
+    "63c7bfe5-a409-5435-91ea-487534957b81",
+    "6d7c1694-2c53-554c-9070-2db848fc5a42",
+    "c6cc3d8b-3736-5fe8-a4ff-eb186679a37e",
+    "c6cc3d8b-3736-5fe8-a4ff-eb186679a37e",
+    "6dfd0c51-91dd-5bb3-b7ae-a9c86ea22c35",
+    "68ee1ea3-5caf-5df5-8efc-134943a456cb",
+    "8f22afaf-a5fb-5f44-9fc2-18d4aeceede7",
+    "487cf1b1-1190-5d14-8b24-ba92f75aa6aa",
+    "53db6715-4f12-50ad-8fb9-acba4e2f4f37"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "1fe1c748-9e73-51ba-8521-de924cc133d4",
+    "f3a26f44-f5af-5b2b-aa1c-aec2fd99f17e",
+    "f3a26f44-f5af-5b2b-aa1c-aec2fd99f17e",
+    "d23daa43-4176-54e6-b3c3-b889843e92f1",
+    "b82bd9e1-2373-577b-a942-164565eaca6b",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "556d0179-023f-581f-9c2d-febe4e75722f",
+    "60c2e869-1fee-53ea-b332-26d9c2abc747"
+  ],
+  "id": [
+    "chatcmpl-AIFji2gbFHCW8aj8mLegsooXneEeb",
+    "e2522b52-d927-5c1a-8569-8fcb706ecc1e",
+    "c76f4517-c117-56e6-96b9-218f0fdae9f3",
+    "4edf498a-20de-593a-b301-73c799b07691",
+    "99532996-c835-534a-b6e7-a2f95ec00e2c",
+    "cb09d819-b809-5844-a111-5c7c7b9f9a99",
+    "2d08a161-7a62-5d3f-b300-1ca93ee5b751",
+    "66c03d04-0af5-50e5-8d4a-9a645493db46",
+    "35c83256-6072-5e6a-b15e-0cae1991b034",
+    "39dfbf42-78ec-5b0a-8448-55f47c22830e",
+    "d5ae06ad-3d88-5c4f-972a-0510d2fc67f3"
+  ],
+  "contexts": [
+    "vided one of the most reliable aging biomarkers. An epigenetic clock is a group of  CpG sites with particular methylation patterns that are highly related to the chrono- logical age of an individual. This correlation is very robust (r=0.9) for individuals  between 20 and 100years. The epigenetic clock is a breakthrough discovery that  will allow novel experimental approaches to understand the biological basis of  aging [113]. For example, by using the epigenetic clock as a measure of cellular",
+    "Epigenetic Clock Chronological age is the number of years a person has lived, and biological or phys- iological age refers to a measure of how well your body functions compared to your  chronological age. Biological age is influenced by multiple factors (genes, lifestyle,  behavior, environment, among others) and correlates with mortality and health sta- tus. The epigenetic clock is one potentially reliable predictor of biological age.",
+    "Background Epigenetic clocks are sets of CpG dinucleotides whose DNA methylation (DNAm) can be used to accurately predict a person s chronological age [ 1]. In recent years, various epigenetic clocks have been developed [ 25]. Well-known examples are the clocks de- veloped by Hannum et al., trained on blood samples and containing 71 CpGs [ 2], and Horvath, a multi-tissue predictor consisting of 353 CpGs [ 3]. A popular application of",
+    "An EpigeneticClock The aging transcriptome could be used to gauge the physiological  age of worms, and in that way serve as an epigenetic clock revealing  how much of life span has been spent and how much remains (23).  Middle-aged worms show an aging transcriptome half-way between  the aging expression profiles of young and old worms. This provides  an independent way to assess the age of an animal independent of  its life span. This is important as there are at least 2 explanations to",
+    "The epigenetic aging clock measures the sum of all the age-related  pathways affecting cellular physiology in old age. The aging epigen- etic clock is heavily enriched for germline- and intestinal-expressed  genes, but lack muscle- and neuronal-expressed genes (23, 25).  Expression changes in the germline and intestine were expected as  there are massive changes in the morphology of gonad at the end of  fertility and the intestine in old age. The aging transcriptome pro-",
+    "etic mouse aging and may be used to inform future studies in other model organisms and humans  focused on studying the relationship between epigenetic aging and metabolism. Introduction Epigenetic clocks are widely used molecular biomarkers of aging (Horvath and Raj, 2018). These  DNA methylation (DNAm) age predictors are based on the methylation levels of select CpGs that are RESEARCH ARTICLE *For correspondence:  kmozhui@uthsc.edu Competing interest: See page  22 Funding: See page 22",
+    "etic mouse aging and may be used to inform future studies in other model organisms and humans  focused on studying the relationship between epigenetic aging and metabolism. Introduction Epigenetic clocks are widely used molecular biomarkers of aging (Horvath and Raj, 2018). These  DNA methylation (DNAm) age predictors are based on the methylation levels of select CpGs that are RESEARCH ARTICLE *For correspondence:  kmozhui@uthsc.edu Competing interest: See page  22 Funding: See page 22",
+    "estimators epigenetic clocks; telomere length; transcriptomic-, proteomic-, and  metabolomic-based estimators; and composite biomarkers concluded that the epi- genetic clock is the most promising molecular estimator of biological age [26].  Epigenetic age estimators are sets of CpGs (also known as clock CpGs) that are  coupled with a mathematical algorithm to estimate the age of a DNA source, such  as cells, tissues, or organs. This estimated age, also referred to as epigenetic age or",
+    "proved epigenetic clock. It should be noted that building a biological age predictor is difficult since there is no clear definition of biological age. Nevertheless, one of the essential features of biological age is its ability to in- dicate the different ageing rates between individuals with the same chronological age. A previous study has re- ported a number of CpG sites that show variation in the longitudinal changing rates between individuals [ 40].",
+    "ranging from 0.15 to 0.19 [ 8,9]. Individuals with epigenetic clock estimates greater than their chronological age display age acceleration and have been shown to be at a greater risk of all-cause mortality and multiple adverse health outcomes [ 10]. Conse- quently, identification of genetic and environmental contributors to the variation in these measures in populations has become a major goal in the field [ 11]. The first generation of epigenetic aging clocks used penalized regression models to"
+  ],
+  "answer": "The 'epigenetic clock' is a molecular biomarker of aging that is based on the DNA methylation levels of specific CpG sites. These methylation patterns are highly correlated with an individual's chronological age, with a robust correlation coefficient of approximately 0.9 for individuals aged between 20 and 100 years [1]. The epigenetic clock serves as a reliable predictor of biological age, which refers to how well a person's body functions compared to their chronological age [2].   In aging research, the epigenetic clock is used to estimate the biological age of cells, tissues, or organs by analyzing the methylation levels of select CpGs, often referred to as clock CpGs [8]. This estimated age, known as the epigenetic age, can indicate different aging rates between individuals with the same chronological age, providing insights into the biological basis of aging [9]. The epigenetic clock has been applied in various studies to understand the relationship between epigenetic aging and factors such as metabolism, and it is considered one of the most promising molecular estimators of biological age [6], [8].",
+  "question": "What is the 'epigenetic clock,' and how is it used in aging research?"
+}

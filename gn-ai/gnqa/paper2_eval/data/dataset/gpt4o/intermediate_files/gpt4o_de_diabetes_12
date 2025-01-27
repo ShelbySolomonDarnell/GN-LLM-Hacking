@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Type 2 Diabetes Mellitus and Cardiovascular Disease Genetic and Epigenetic Links.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2018 - Pilot genome-wide association study identifying novel risk loci for type 2.pdf",
+    "2014 - Diabetic nephropathy\u2014emerging epigenetic mechanisms.pdf",
+    "2019 - Development and Genome Sequencing.pdf",
+    "2010 - Genome-wide DNA methylation analysis for diabetic nephropathy in type 1 diabetes mellitus.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2018 - MALAT1 An Epigenetic Regulator of Inflammation in Diabetic Retinopathy.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf"
+  ],
+  "extraction_id": [
+    "097b0feb-4ffa-5ad6-8140-5e404e83c80b",
+    "b1d2c95c-d639-5c75-8c52-278f1e187675",
+    "a166bf29-6be5-54ff-b869-9d4ff087d1e5",
+    "79ce3e1f-1c6a-51dc-b5ad-848173af4e69",
+    "d971dced-935c-566b-a4a2-11bcf99b9c84",
+    "f9500ec9-0600-5e2c-b64e-b062fb7a7552",
+    "14656f4f-b0bd-5f4f-a67a-aeb902f24757",
+    "96a78d74-ac6d-513e-a5a7-b22ef95ea041",
+    "2d8abaf8-9f48-5b9a-b50e-897fd4751b7b",
+    "efc73cf6-99c6-5272-9bb0-7bd6a34633f0"
+  ],
+  "document_id": [
+    "3e82a2e5-4b2c-59c0-99cd-f3b06d8dabf2",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "e2c6283c-d95f-574a-9dab-345a708d388c",
+    "be05127e-1be8-5573-b571-51a11c3b2be2",
+    "18820c9e-f7ae-57ae-897d-0d9c3f616b6a",
+    "23f0ee09-5536-5f63-bf15-bce1894b5fed",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "cd4dd3bc-bcea-5670-a40f-bc95c319f3ed",
+    "019efefb-65db-55f5-a3a7-4f224473f51f"
+  ],
+  "id": [
+    "chatcmpl-AIHK1iKM6Po4mTFBDwGSbImYGY94p",
+    "1eb14f0c-3d81-53bc-91c8-98acf2e014b7",
+    "92a20945-b038-52a4-8cc8-ffb70e6f7559",
+    "9c11148d-9f7a-5d84-aa05-2b67e7a8f1f3",
+    "19d9d3a6-c982-5c57-a16c-226b8aa76ed5",
+    "b774bf7b-4546-56d2-ae7b-7bc2c9f2fb08",
+    "94eed8ea-cc78-52d0-a188-442380512b85",
+    "2d9e043b-a3fa-52dc-9a4e-71ed49f9ec1d",
+    "66b05301-179b-597c-bb68-e6fd0e0d1d5a",
+    "4a8a2861-62b9-520c-8833-45fb8bd3ffd7",
+    "25d3616b-1ba4-59ce-a11b-38d108d5b387"
+  ],
+  "contexts": [
+    "13 De Rosa et al. Type 2 Diabetes and CVD Frontiers in Endocrinology | www.frontiersin.org January 2018 | Volume 9 | Article 2176. Fatica A, Bozzoni I. Long non-coding RNAs: new players in cell differentia- tion and development. Nat Rev Genet (2014) 15:721. doi:10.1038/nrg3606  177. Wang KC, Chang HY . Molecular mechanisms of long noncoding RNAs. Mol Cell (2011) 43:90414. doi:10.1016/j.molcel.2011.08.018  178. Esteller M. Non-coding RNAs in human disease. Nat Rev Genet (2011)  12:86174. doi:10.1038/nrg3074",
+    "Epigenetic Mechanisms in Diabetic Complications     16  other non-coding RNAs can also in teract with transcriptional co -regulators and thereby further 337  influence epigenetics and tran scriptional regulation (82, 104). 338   Recent findings have demonstrated  a critical role for miRs in various diseases. They have 339  been found to play key roles in proliferation, di fferentiation, development, and in cancer, where 340",
+    "Beltrami, C., Angelini, T.G., Emanueli, C., 2015. Noncoding RNAs in diabetes vascular complications. J. Mol. Cell. Cardiol. 89, 42 50.https://doi.org/10.1016/j.yjmcc. 2014.12.014 . Brookheart, R.T., Michel, C.I., Listenberger, L.L., et al., 2009. The non-coding RNA gadd7 is a regulator of lipid-induced oxidative and endoplasmic reticulum stress. J. Biol.Chem. 284, 7446 7454. https://doi.org/10.1074/jbc.M806209200 . Carter, G., Miladinovic, B., Patel, A.A., et al., 2015. Circulating long noncoding RNA",
+    "Noncoding RNAs that are induced by diabetic conditions can also promote  theexpression of pathological genes via various post-transcriptional and  post-translational mechanisms  These epigenetic mechanisms and noncoding RNAs can lead to persistently  open chromatin structures at pathological genes and sustained gene  expression, which can also be a mechanism for metabolic memory  Key epigenetic regulators, microRNAs and long noncoding RNAs could serve",
+    "tion among researchers ( Knoll et al., 2015 ). As an important post-transcriptional pathogenesis of diabetes, lncRNAs and their associated orchestrated networks are implicated in mediating complex pathological mechanisms of diabetes ( Kato et al., 2016; Liu et al., 2014 ). To delineate the inuence of lncRNAs and 172 iScience 19, 162176, September 27, 2019",
+    "coding RNAs [18]. A number of indirect lines of evi-dence point to the involvement of epigenetic changes indiabetic nephropathy. Murine models of disease progres-sion displaying temporal variation in gene expressionhave indicated these supra-sequence devices may beinvolved in the pathogenesis [19]. Gene expressionchanges reflect dynamic alterations in gene transcription and also messenger RNA stabi lity, which may be influ-",
+    "To conclude, it would be apt to state that lncRNAs are widely implicated in diverse domains of cell metabolism and their altered expression is associated with diabetes and its complications. Although originally thought to be non-functional, lncRNA genes transcribe into lncRNAs that exert important and specific functions in regulating cellular pathways. Due to this specificity, lncRNAs are considered better therapeutic targets. In addition, their expression patterns in tissues quite follow the progress of",
+    "NAs to be mapped to diabetic susceptible loci [49 52],  all suggesting towards critical roles of lncRNAs in insulin resistance, diabetes, and its associated complications. LncRNAs asregulators ofislet function The pancreatic islet is an important central node to researchers to understand the pathophysiology of diabe-tes [53]. The possible regulation of islet development and function by lncRNAs was first demonstrated by Ding etal., where the lncRNA, H19 (Fig. 4), was shown to be involved",
+    "expected to rise due to the increasing incidence of diabetes, which necessitates the need for exploration of new molecular aspects of DR to expand the current scope of therapy. In the last two decades, the rapid advent of high-throughput genomic technology has made it evident that  more than 97% of the human genome is comprised of non-protein-coding elements, such as non-coding RNAs  (ncRNAs) 6. Although significant research has been conducted in annotating the transcripts that arise from these",
+    "regulation, control of mRNA decay, and sequestration of transcription factors. Although the underlying causes that define  the diabetic phenotype are extremely intricate, most of the studies in the last decades were mostly centered on protein-coding  genes. However, current opinion in the recent past has authenticated the contributions of diverse lncRNAs as critical regula - tory players during the manifestation of diabetes. The current review will highlight the importance of lncRNAs in regulating"
+  ],
+  "answer": "The latest findings on the role of non-coding RNAs in the pathogenesis of diabetes highlight several key aspects:  1. **Role of lncRNAs in Diabetes**: Long non-coding RNAs (lncRNAs) are implicated in mediating complex pathological mechanisms of diabetes. They are involved in post-transcriptional regulation and are associated with orchestrated networks that influence diabetes pathogenesis [5]. LncRNAs are considered better therapeutic targets due to their specific functions in regulating cellular pathways and their expression patterns that correlate with the progression of diabetes [7].  2. **Epigenetic Influence**: Non-coding RNAs, including microRNAs and lncRNAs, can influence epigenetic mechanisms. They can promote the expression of pathological genes through post-transcriptional and post-translational mechanisms, contributing to metabolic memory and sustained gene expression in diabetic conditions [4].  3. **Regulation of Islet Function**: LncRNAs have been shown to regulate pancreatic islet function, which is central to understanding diabetes pathophysiology. For instance, the lncRNA H19 has been implicated in islet development and function [8].  4. **MicroRNAs in Disease**: MicroRNAs (miRs) play critical roles in various diseases, including diabetes, by influencing proliferation, differentiation, and development [2].  These findings underscore the importance of non-coding RNAs as regulatory players in diabetes and its complications, offering potential avenues for therapeutic intervention.",
+  "question": "What are the latest findings on the role of non-coding RNAs in the pathogenesis of diabetes?"
+}

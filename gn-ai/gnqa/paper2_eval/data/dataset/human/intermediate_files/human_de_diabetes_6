@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Recent Developments in the Genetic and Genomic Basis of Type 2 Diabetes.pdf",
+    "2017 - Type 1 diabetes mellitus.pdf",
+    "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+    "2018 - Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.pdf",
+    "2011 - Type 2 diabetes and obesity genomics and the clinic.pdf",
+    "2015 - Transcript Expression Data from Human.pdf",
+    "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+    "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+    "2013 - The CTRB12 Locus Affects Diabetes Susceptibility.pdf",
+    "2009 - Genome-Wide Linkage Scan in Gullah-Speaking African American Families.pdf"
+  ],
+  "extraction_id": [
+    "1213249d-8ed3-5d13-9137-f11b87a7a78b",
+    "39b6a474-b721-509f-bbc3-094dc1f49634",
+    "5557d2db-b55a-59c9-8fe7-89b196a28617",
+    "43eecb5d-aca2-5c3e-9351-afbef000a795",
+    "10685e4c-eb4c-562a-a64a-d98e83c12c0b",
+    "867d0b1b-16a1-53ea-b014-3c204b9001a5",
+    "151aa443-b9af-55db-9a30-adc4440ac7ef",
+    "7cbef74a-2d81-5a3a-a4d4-dfacdb86e632",
+    "97905c56-72e3-546d-ba0e-dfe1023f0c27",
+    "766aa9ab-312f-5d62-be31-860ba0697180"
+  ],
+  "document_id": [
+    "7d051350-d939-5183-be22-742727573a75",
+    "8e8b9b6e-8dfb-5aae-8c61-5f53bd4e0242",
+    "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+    "af63c74d-a204-5f9f-9a32-3451b112e5ba",
+    "5086a525-124e-5a45-b75a-657d67a3250a",
+    "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+    "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+    "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+    "5cd422c9-d4bc-5a96-8af8-00561458e67b",
+    "bd1d6b45-3929-5bd8-a677-d143381a7da5"
+  ],
+  "id": [
+    "chatcmpl-ADYmzCY2UpsFw8AXX7kNO9LvCTBMY",
+    "6f00dd31-490e-53cd-81b3-c56e13bd7edd",
+    "fa4e127f-2c54-592b-a478-152bc74e7351",
+    "f0c9d05b-7999-5cb7-bb48-0666cf74aec0",
+    "55dca975-78ec-594d-8a30-a0849b683089",
+    "126bf287-0f5e-52a9-abac-ad59ad3ea153",
+    "226e2873-a0bf-554d-9576-7fca5f2ffc0f",
+    "90565c2b-fdb6-5b0f-a710-9086a4cfcd2b",
+    "ceb7bd13-b917-566f-8e17-40dd523afd42",
+    "487d6a88-44ef-520e-a910-5b4b89416880",
+    "d4d61f22-5ba2-5ef1-a497-167894bf1c7f"
+  ],
+  "contexts": [
+    "associated with increased fasting plasma glucose levels and type2 diabetes risk. Nat Genet. 2009;41(1):89 94. 23. Rees M, Wincovitch S, Schultz J, Waterstradt R, Beer N, Baltrusch S, et al. Cellular characterisation of the GCKR P446L variant associated with type 2 diabe tes risk. Diabetologia. 2012;55 (1):114 22. 24. Nejentsev S, Walker N, Riches D, Egholm M, Todd J, et al. Rare variants of IFIH1 , a gene implicated in antiviral responses, protect against type 1 diabetes. Science. 2009;324(5925):387 9.",
+    "HLAlinked genes in juvenile diabetes mellitus.  Br.Med. J. 3, 133135 (1975). 52. Erlich,H.A.  etal.  Next generation sequencing reveals  the association of DRB3*02:02 with type 1 diabetes.  Diabetes  62, 26182622 (2013). 53. CaillatZucman,S.  etal.  Agedependent HLA genetic  heterogeneity of type1 insulindependent diabetes  mellitus. J.Clin. Invest. 90, 22422250 (1992). 54. Cucca,F.  etal.  The distribution of DR4 haplotypes  inSardinia suggests a primary association of typeI",
+    "holdt R, Akolkar B, Erlich HA, Hilner JE, Julier C, Morahan G, Nerup J,Nierras CR, Chen WM, Rich SS, Type 1 Diabetes Genetics Consortium. Ahuman type 1 diabetes susceptibility locus maps to chromosome 21q22.3.Diabetes 2008;57:2858 2861 58. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA. Rare variants of IFIH1, a gene implicated in antiviral responses, protect against type 1diabetes. Science 2009;324:387389 59. Altshuler D, Daly M. Guilt beyond a reasonable doubt. Nat Genet 2007;39: 813 815",
+    "because of their presumed roles in immune signalling, considered to be a major feature of T1D-susceptibility. These include ERBB3 (receptor tyrosine-protein kinase erbB-3 precursor) at 12q13 and SH2B3/LNK (SH2B adaptor protein 3), TRAFD1 (TRAF-type zinc finger domain containing 1) and PTPN11 (protein tyrosine phos- phatase, non-receptor type 11) at 12q24. For these signal regions in",
+    "Nejentsev S, Walker N, Riches D, Egholm M, Todd JA (2009) Rare variants of IFIH1, a gene implicated in antiviral responses, protect against type 1 diabetes. Science 324:387389 Nicolson TJ, Bellomo EA, Wijesekara N, Loder MK, Baldwin JM, Gyulkhandanyan AV, Koshkin V, Tarasov AI, Carzaniga R, Kronenberger K, Taneja TK, da Silva Xavier G, Libert S,",
+    "61. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA (2009) Rare variants of IFIH1, a gene implicated in antiviral responses, protect against type 1 diabetes. Science 324: 387 389. doi: 10.1126/science. 1167728 PMID: 19264985 62. Nica AC, Ongen H, Irminger JC, Bosco D, Berney T, et al. (2013) Cell-type, allelic, and genetic signa- tures in the human pancreatic beta cell transcriptome. Genome Res 23: 1554 1562. doi: 10.1101/gr. 150706.112 PMID: 23716500",
+    "7   (Wellcome Trust Case Control Consortium 2007) .  Separate work that examined liver gene  expression in a smaller cohort of human samples with and without Type I diabetes found  that ERBB3  did not have a cis -eQTL but that a flanking gene, R PS26, did.  Since the disease  phenotype and RPS26  both had QTLs in the same location, this suggested the RPS26  was a  stronger candidate than ERBB3 .  The authors then used mouse liver and adipose expression",
+    "models.  A genome wide association study in a large human population proposed the  receptor typrosine kinase ERBB3  as the best candidate gene near a QTL for Type I diabetes",
+    "and 16p13.2 (near TMEM114 ) have not previously been implicated in b-cell function, type 2 diabetes susceptibility, or related phenotypes. However, in publically available gene expression data from the MuTHER consortium, rs4148941 acts as eQTL for CHST3 in lymphoblast cell lines ( P=5310251) and SPOCK2 in both adipose tissue (P=1310221) and lymphoblast cell line ( P=331024) (22). Given the additional trend toward association with GLP-1 RA treatment response in diabetic patients, further",
+    "IGFBP1, and IGFBP3. The IGF pathway is nowsuspected to play a role in diabetes because of observedassociations with IGF2BP2 (2729)."
+  ],
+  "answer": "Yes, the genes SH2B3, IFIH1, and ERBB3 are related to diabetes:  1. **IFIH1**: Rare variants of IFIH1, a gene implicated in antiviral responses, protect against type 1 diabetes [1], [3], [5], [6].  2. **ERBB3**: ERBB3 is considered to be a major feature of type 1 diabetes susceptibility due to its role in immune signaling [4]. Additionally, a genome-wide association study proposed ERBB3 as the best candidate gene near a QTL for type 1 diabetes [8].  3. **SH2B3**: SH2B3 (also known as LNK) is considered to be a major feature of type 1 diabetes susceptibility due to its role in immune signaling [4].  Thus, all three genes, SH2B3, IFIH1, and ERBB3, are related to diabetes.",
+  "question": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+}

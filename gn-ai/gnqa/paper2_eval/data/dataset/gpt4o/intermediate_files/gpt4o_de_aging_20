@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2004 - Diabetes Genes b.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2019 - Bioinformatic prediction of critical genes and pathways.pdf",
+    "2007 - Rage gene promoter polymorphisms and diabetic retinopathy in a clinic-based population from South India.pdf",
+    "2004 - Diabetes Genes b.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2004 - Diabetes Genes a.pdf"
+  ],
+  "extraction_id": [
+    "a3427d8a-366e-5edc-9a9d-fa1da5d9e800",
+    "60ec7e90-7c38-5bda-a94e-ef15369c710c",
+    "272b3625-6f21-51f5-a83b-cfdbf4ddc841",
+    "cc350a5a-f474-597d-93c8-4359b9ddcc38",
+    "f5f2abef-9ccd-5147-a433-489c7225017c",
+    "98c7d4f6-45b7-53d4-979d-5503e91b1415",
+    "2903bc47-30d8-5e1c-acd9-5db4908f5ee9",
+    "26eeaac7-6846-51ee-a69b-51a75402a1bf",
+    "f6de03c3-cbbd-5963-ab23-e934f6ff1d56",
+    "60ec7e90-7c38-5bda-a94e-ef15369c710c"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "da2f2624-e3e6-5e2d-b406-941db2fe7671",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "01201944-11f2-52d9-ac3e-7af685d4a4c4",
+    "de5a5a08-3a63-587c-b835-41c74b37f570",
+    "da2f2624-e3e6-5e2d-b406-941db2fe7671",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa"
+  ],
+  "id": [
+    "chatcmpl-AIHYkQV1s8mGJ0u0OlIT1WoCFkj8X",
+    "388d90ef-1bfc-572d-b783-af945ab9519b",
+    "aad43b5f-c345-53c4-a37e-4b59e54082bb",
+    "edfb3091-1629-53bc-9f0b-88d552862fd9",
+    "3d613e0f-9ab0-575f-88cc-2b35f51f9d9d",
+    "34533770-24ba-57b7-95f9-06b201c92aa5",
+    "e1c2f05b-b04a-5c74-98ad-69af532d2ae9",
+    "50a3dd44-9747-5456-91e3-ebeb2b6a9248",
+    "a8fe389d-7249-50d5-8c4a-2f9d62fa73f6",
+    "94f15877-0b3a-5dee-8d1f-d0a034f14220",
+    "0b6eb47a-1fd1-58d2-81db-3a17b967f2d6"
+  ],
+  "contexts": [
+    "vascular and kidney diseases [47]. Advanced glycation end-products (AGE) are the result of nonenzymatic glyca- tion, which produces heterogeneous bioactive molecules, such as lipids, proteins,  and nucleic acids [59]. The accumulation of AGEs in aged tissues leads to several  processes, such as inflammation, obesity, apoptosis, and other adverse processes  related to ageing [47]. These AGEs are detected by various techniques, such as",
+    "and leading to vascular hypertrophy and stiffening of collagen with  subsequent reduction of arterial compliance. These are processes that are  associated with aging but seem to be accelerated by hyperglycemia. These  cross-linked macromolecules, called advanced glycosylation end products  (AGEs), are implicated in the pathogenesis of vascular complications. Once",
+    "proposed mechanisms are the development of advanced glycosylation end  products and sorbitol accumulation.  Advanced glycosylation end products (AGEs) comprise a  heterogeneous group of molecules that accumulate in plasma and tissues  with advancing age, diabetes and renal failure. They are characterized by  browning, fluorescence, cross-linking and biological response through  specific AGE receptors and were first described in 1912 by French chemist  L.C. Maillard (Fig. 5).",
+    "the accumulation of AGEs which can further perp etuate and amplify local inflammation and 197  oxidant stress through irreversible  glycation of the various protei ns and lipids to promote long 198  term vascular and end-organ damage. Thus AGEs, acting through receptors such as RAGE, 199  could also contribute to hyperglycemic memo ry (18, 96, 147). These studies have begun to 200",
+    "AGEs are taken up by specific AGE receptors (RAGE), cytokines, growth  factors, and adhesion factors are released, leading to further cellular changes.  AGEs also can impair endothelial function and vascular reactivity, such as  in response to nitric oxide. Modification of LDL as a result of glycation may  contribute to foam cell formation.4 Thus, AGEs appear to be main players  not only in the development of diabetic complications and atherosclerosis,",
+    "geneous group of macromolecules that are formed by the nonenzymatic glycation of proteins, lipids, and nucleic acids. Overproduction of AGEs is considered the most important pathophysiological mechanism that induces diabetic complications (Semba etal. 2010). On one hand, AGEs mediate intracellular glycation of mitochondrial respiratory chain proteins and increase ROS levels, thus triggering oxidative stress (Coughlan etal. 2009) and endoplasmic reticulum stress (Piperi etal. 2012). On the",
+    "Introduction In individuals with diabetes, nonenzymatic glycation of proteins leads to the formation of advanced glycation end products (AGE) and this process occurs at an accelerated rate in chronic hyperglycaemia1, and also the levels are found to be increased in complications of diabetes, such as diabetic retinopathy (DR).2 AGE induces a variety of pathological changes, such as increased basement membrane thickening, arterial stiffness, and glomerular sclerosis.3,4AGEs bind to a specic receptor",
+    "AGEs accelerate atherosclerosis through cross-linking of proteins,  platelet aggregation, defective vascular relaxation, and abnormal lipoprotein  metabolism. 30  AGEs have a vital role in pathogenesis of diabetic nephropathy and  progression of renal failure. Renal failure, in turn, results in decreased  excretion and increased generation of AGEs (Figure 6).  629",
+    "vessels show enhanced subintimal protein and lipoprotein deposition;  increased vascular permeability, e.g. to albumin;  inactivation of nitric oxide;  activation of endothelial receptors, leading to vasoconstriction and  thrombosis;  altered proteoglycan milieu;  altered basement membrane cellular structure;  proliferation of matrix.  Strategies directed at the prevention of formation or the disruption of  AGE cross-links may be promising.  REFERENCES:",
+    "proteins and nucleic acids, leads to modification and then decline in structure  and function of these molecules, as the cross-links accumulate both  extracellularly and intracellularly over time. A prime example would be the  crosslinking of collagen, which is thought to lead to typical phenomena  observed in aging, such as increased susceptibility to atherosclerosis,  osteoporosis, decreased joint elasticity, the formation of cataracts, and"
+  ],
+  "answer": "The accumulation of cross-links and advanced glycation end-products (AGEs) significantly impacts the structural integrity and function of aging tissues in several ways:  1. **Inflammation and Oxidative Stress**: AGEs accumulation leads to inflammation and oxidative stress, which can cause long-term vascular and end-organ damage [1], [4]. This is partly due to the interaction of AGEs with specific receptors such as RAGE, which perpetuates these adverse processes.  2. **Vascular Changes**: AGEs contribute to vascular hypertrophy, stiffening of collagen, and reduced arterial compliance, which are associated with aging and are accelerated by hyperglycemia [2]. This stiffening of collagen and reduction in arterial compliance can lead to decreased vascular function and increased risk of vascular complications.  3. **Cross-linking of Proteins**: AGEs cause cross-linking of proteins, which affects the structural integrity of tissues. For example, the cross-linking of collagen is associated with increased susceptibility to atherosclerosis, osteoporosis, decreased joint elasticity, and the formation of cataracts [10].  4. **Endothelial Dysfunction**: AGEs impair endothelial function and vascular reactivity, which can lead to complications such as atherosclerosis and diabetic complications [5]. This impairment is due to the modification of lipoproteins and the release of cytokines and growth factors upon AGE interaction with receptors.  5. **Pathological Changes in Tissues**: AGEs induce various pathological changes, including increased basement membrane thickening, arterial stiffness, and glomerular sclerosis [7]. These changes contribute to the decline in tissue function and structure as they age.  Overall, the accumulation of AGEs and the resulting cross-links compromise the structural integrity and function of tissues, contributing to the aging process and the development of age-related diseases.",
+  "question": "How do cross-links and advanced glycation end-products (AGEs) accumulation affect the structural integrity and function of aging tissues?"
+}

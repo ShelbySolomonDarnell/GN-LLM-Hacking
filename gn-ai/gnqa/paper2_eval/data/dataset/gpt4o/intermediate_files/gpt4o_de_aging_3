@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2019 - Remodeling of epigenome and transcriptome.pdf",
+    "2013 -  Transposable elements become active and mobile in the genomes.pdf",
+    "2010 - Higher-order Genome Organization.pdf",
+    "2007 - The role of nuclear architecture.pdf",
+    "2010 - Higher-order Genome Organization.pdf",
+    "2007 - The role of nuclear architecture.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2010 - Higher-order Genome Organization.pdf",
+    "2016 - Epigenetic Mechanisms of Longevity and Aging.pdf",
+    "2008 - GENETIC REGULATION OF HEMATOPOIETIC STEM CELL AGING (3).pdf"
+  ],
+  "extraction_id": [
+    "ab26a306-0581-5bdc-a6d1-689622689e90",
+    "dab38594-466b-50bc-8213-150f3862ff03",
+    "c4a47fc1-b528-5e29-9d13-e64be4e04938",
+    "c5185d6d-b244-57d7-886c-2ebb364a3ac7",
+    "1a3a302a-4009-5ccf-aafa-f5f5a258ffde",
+    "b36b1865-2949-50be-ad95-bdc9d05b82eb",
+    "04e838ad-d90d-5e9d-af94-8e975af339a0",
+    "1a3a302a-4009-5ccf-aafa-f5f5a258ffde",
+    "718d36c5-299d-596e-90be-416d12f7b5d1",
+    "6efb8add-cedc-5089-9374-2466867e388a"
+  ],
+  "document_id": [
+    "87ffccee-fc33-5373-948d-67736aa0f069",
+    "c6901c06-c8ed-5220-a989-807bacdc9d0d",
+    "91339298-860e-57d0-b58d-5a4571b4fc2b",
+    "578e2f7d-ddd4-56c8-a5b0-670969f8ff1e",
+    "91339298-860e-57d0-b58d-5a4571b4fc2b",
+    "578e2f7d-ddd4-56c8-a5b0-670969f8ff1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "91339298-860e-57d0-b58d-5a4571b4fc2b",
+    "588185a0-e157-552f-a304-4beefb85d398",
+    "7412a162-ee3b-5f09-9886-8e9172dd3ee8"
+  ],
+  "id": [
+    "chatcmpl-AIHWNXCXElapoM0J1wCt0Uh4pwpDs",
+    "1290eb6d-c454-5177-b55c-2e0f17265ab8",
+    "f51d2566-aef3-51af-ac47-cfba546bd293",
+    "212e1fcc-f0f0-5bd0-81af-aea694179b9e",
+    "12a416a1-9833-5e88-b86d-7ce6c54850b7",
+    "bada4b21-3c6d-55a4-b857-091a3a86f65d",
+    "ebd7a483-80a4-5f16-959d-e021635c88db",
+    "b2d6de59-f3d4-5f74-9bcb-96f00f885ba2",
+    "fa95b6a0-b4ef-5343-95aa-93d38aa291be",
+    "a681ba09-0707-5611-9a91-36f9967f91c8",
+    "14898b2f-4643-5362-be34-31d5ee5a4be6"
+  ],
+  "contexts": [
+    "loss of chromatin homeostasis drives aspects of aging. As chroma-tin marks are relatively stable and can even persist through cell divi-sion (Kouskouti and Talianidis 2005), sustained alterations to thechromatin landscape may mediate the propagation of age-associat- ed functional decline. Age-dependent changes in chromatin marks (e.g., DNA meth- ylation, histone modifications) have been observed in multiple species and tissues (Benayoun et al. 2015; Booth and Brunet",
+    "contributes to the onset of tissue dysfunction and the eventual demise of organisms as they age. During replicative senescence of human fibroblasts chromatin  is subject to extensive changes in the global distribution  of euchromatin and heterochromatin [25,35]. We found that the fundamental architecture of the genome undergoes profound alterations: an overall closing of  chromatin in euchromatic gene-rich regions, which is",
+    "impaired function of histone modifying activ-ities, which in turn lead to structural chroma- tin changes. The number of known diseasesOrganismal agingAging-associated gene expression programsCellular stress DNA damageChromatin remodelingEpigenetic status  SusceptibilityHistone modifier redistribution Non-specific gene expression events Figure 3. Chromatin effects in aging. A complex network of interactions links chromatin structure to aging.",
+    "by Pelicci and colleagues in this issue). However, it could  also be argued that chromatin structure is directly affected  by the ageing process through an as-yet-unknown mecha - nism that leads to increased DNA damage and a perma - nent damage response that alters gene-expression patterns  in a similar way to the model proposed in this review. o ver the coming years, as researchers use mammalian  models to map the global pattern of chromatin modifi -",
+    "and peripheral heterochromatin blocks are lost during aging (Haithcock et al. 2005). The aging-associated defects in chromatin structure have various functional consequences.T o start with, aged genomes are characterized by increased DNA damage and high levels of per-sistent DNA breaks, possibly brought about by structural changes, which increase the suscepti- bility of the genome to damage. Furthermore,probably as a consequence of loss of pericentro- meric heterochromatin structure, physiologi-",
+    "related changes in gene expression and the ageing   process4,5. Changes in gene expression were already  known to contribute to cellular senescence6, a possible  cause of ageing7, and may provide an explanation for  the age-related decline in organ and tissue function in  complex organisms.Although chromatin reorganization was linked to  ageing in budding yeast over 10 years ago8,9, these ideas  have remained untested. Recently, a growing appre - ciation for the importance of chromatin in regulating",
+    "tone loss in the ageing process has been attributed to alterations in heterochromatin,  which are characterized by a decrease in its distribution in the genome and the  content of characteristic heterochromatin histone marks (such as H3K9me3 and  H3K27me3) as evidenced in fibroblasts cells from a HGS patient and healthy aged  individuals [59, 60]. Interestingly, it has been suggested that the increase in chroma- tin opening in T cells from aged people could be related to histone loss, which in",
+    "long lifespan (Dang et al. 2009). Given theseextensive changes in histone modications, not surprisingly, aged cells show dramatic and global misregulation of gene expression. Al-though some of these changes are likely part of specic aging-related gene expression pro- grams including inammation and cellularstress responses, others likely occur largely sto- chastically because of random changes in epi- genetic modications and chromatin structure. The mechanisms that drive chromatin and",
+    "general loss of histones coupled with local and global chromatinremodeling, an imbalance of activating and repressive histone modications, and transcriptional change in all aging models. Additionally, particularly in mammalian systems, there is globaland local change in DNA methylation, site-specic loss and gain in heterochromatin, and signicant nuclear reorganization (Figure 1 ). It is as yet unclear whether changes in the activity of epigenetic",
+    "Amarcb1) as well as histone deacetylases (Hdac1, -5, and -6) and a DNA methyltransferace (Dnmt3b) were downregulated in aged cells.  They also showed that several chromosomal regions changed with age in a coordinated manner resulting in an overall increase in transcriptional activity.  They propos e that chromatin dysregulation and epigenetic changes drive the loss of cellular function and ultimately drive the aging process in HSCs.  Consistent with these data, Polycomb proteins (transcriptional"
+  ],
+  "answer": "Age-related changes in chromatin architecture contribute to the decline in cellular function through several mechanisms:  1. **Loss of Chromatin Homeostasis**: Sustained alterations in the chromatin landscape, such as changes in DNA methylation and histone modifications, can mediate the propagation of age-associated functional decline [1]. These changes are relatively stable and can persist through cell division, affecting cellular function over time.  2. **Changes in Chromatin Distribution**: During aging, there is an extensive change in the global distribution of euchromatin and heterochromatin. Specifically, there is an overall closing of chromatin in euchromatic gene-rich regions, which contributes to tissue dysfunction and the eventual decline of cellular function [2].  3. **Increased DNA Damage**: Aging-associated defects in chromatin structure lead to increased DNA damage and persistent DNA breaks. This is possibly due to structural changes that increase the genome's susceptibility to damage, further contributing to the decline in cellular function [5].  4. **Histone Loss and Chromatin Remodeling**: There is a general loss of histones and chromatin remodeling, leading to an imbalance of activating and repressive histone modifications. This results in transcriptional changes that are observed in all aging models, contributing to the decline in cellular function [9].  5. **Epigenetic Changes and Gene Expression**: Age-related chromatin dysregulation and epigenetic changes drive the loss of cellular function by altering gene expression patterns. These changes can lead to increased transcriptional activity in certain chromosomal regions, ultimately driving the aging process [10].  These changes in chromatin architecture collectively contribute to the decline in cellular function observed with aging.",
+  "question": "How do age-related changes in chromatin architecture contribute to the decline in cellular function?"
+}

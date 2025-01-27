@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Pathomechanisms of Type 2 Diabetes Genes.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2012 - Type 2 Diabetes Genetics Beyond GWAS.pdf",
+    "2007 - Recent development in pharmacogenomics from candidate genes to genome-wide association studies.pdf",
+    "2014  - Dorothy Hodgkin Lecture 2014 Understanding genes identified by genome\u2010wide association.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2015 - Type 2 Diabetes Mellitus and the Association of Candidate Genes.pdf",
+    "2007 - A German genome-wide linkage scan for type 2 diabetes supports the existence of a metabolic syndrome locus on chromosome 1p36.13 and a type 2 diabetes locus on chromosome 16p12.pdf",
+    "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+    "2007 - TCF7L2 the biggest story in diabetes genetics since HLA.pdf"
+  ],
+  "extraction_id": [
+    "eff1d167-9689-5c26-9a12-c66714696d86",
+    "36f9d4f2-293e-53e3-8b4b-12571af6669a",
+    "a3a875fa-e55b-52d0-b9bf-72b96330c393",
+    "f2fa55c2-fbca-5f7b-a744-deb279bf9369",
+    "86253f12-bb43-5236-bfb1-df5dff759f6d",
+    "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07",
+    "5ffb710d-ca19-5415-bbb6-34b3f85bf47f",
+    "198c5f2d-fc43-5744-9cd8-4222c8fa8ab8",
+    "25187f10-04b3-51c6-8f4c-d4e480353fa2",
+    "0f7bd536-46b9-52e2-927e-a8309d541066"
+  ],
+  "document_id": [
+    "cf8ec75c-8ffe-5baa-830d-ac7a4a5964bd",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "d59a38d7-889b-51b5-b896-c305c82a2169",
+    "fe012b74-6516-5503-a88a-dc8071869632",
+    "11d0cb98-a00f-53f1-92e3-e1be17002c02",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "3236fdee-e304-5b88-921f-52e52dc5afa3",
+    "f8a85060-6303-5228-ba89-7ee8701bda9f",
+    "ce4f171c-494c-53f2-a770-c3edd3561c40",
+    "018b8646-b894-5b7d-a8c8-932a2bc13ca8"
+  ],
+  "id": [
+    "chatcmpl-ADYmusmSLbuh68YcOiU3r0KXSi3Ub",
+    "3e678e3c-ad2c-5884-9c88-7f4d54c914bd",
+    "6617e15c-ab52-596c-b628-60ec5a7001e7",
+    "1eb3a215-002b-528b-a954-bb9e2419ea6f",
+    "e456e587-e172-5ae9-b68e-98e38c5052c2",
+    "5d936c2c-faf7-5b0f-92e1-c3f8f43b3011",
+    "ed5d8e9e-859e-5256-a7b5-468c1f7837a2",
+    "263f6b22-d314-5653-bbef-3f0e3e09839b",
+    "05e76af5-c67b-50ca-a06a-a603d6d4b35e",
+    "fc63f56e-f1fb-56e0-9e62-b4bdcefb5a53",
+    "c21b7f01-ff01-5561-8016-c4432d844baf"
+  ],
+  "contexts": [
+    "single nucleotide polymorphisms in TCF7L2 are reproduc-ibly associated with type 2 diabetes and reduce the insulinresponse to glucose in nondiabetic individuals. Diabetes55:28902895 135. Cauchi S, Meyre D, Dina C, Choquet H, Samson C, Gallina S, Balkau B, Charpentier G, Pattou F, StetsyukV, Scharfmann R, Staels B, Fru  hbeck G, Froguel P 2006 Transcription factor TCF7L2 genetic study in the Frenchpopulation: expression in human /H9252-cells and adipose tissue",
+    "L. Mechanisms by which common variants in the TCF7L2 gene  increase risk of type 2 diabetes. J Clin Invest  2007; 117: 2155-2163  [PMID: 17671651 DOI: 10.1172/JCI30706] 164 Gloyn AL , Braun M, Rorsman P. Type 2 diabetes susceptibility  gene TCF7L2 and its role in beta-cell function. Diabetes  2009; 58:  800-802 [PMID: 19336690 DOI: 10.2337/db09-0099] 165 da Silva Xavier G , Loder MK, McDonald A, Tarasov AI, Carzaniga  R, Kronenberger K, Barg S, Rutter GA. TCF7L2 regulates late",
+    "transcription factor 7-like 2 ( TCF7L2 ) gene confers risk of type 2 diabetes. Nat Genet. 2006; 38:320323. [PubMed: 16415884] 172. Gloyn AL, Noordam K, Willemsen MA, Ellard S, Lam WW, et al. Insights into the biochemical and genetic basis of glucokinase activation from naturally occurring hypoglycemia mutations. Diabetes. 2003; 52:24332440. [PubMed: 12941786] 173. Pearson ER, Donnelly LA, Kimber C, Whitley A, Doney AS, et al. Variation in TCF7L2",
+    "2 (TCF7L2 ) gene confers risk of Type 2  diabetes. Nat. Genet.  38(3), 320323  (2006). 143Florez JC, Jablonski KA, Bayley N et al.   TCF7L2 polymorphisms and progression to diabetes in the Diabetes Prevention Program. N. Engl. J. Med.  355(3),  241250 (2006). 144Damcott CM, Pollin TI, Reinhart LJ et al.   Polymorphisms in the transcription factor 7-like 2 ( TCF7L2 ) gene are associated with",
+    "rs7903146 and rs12255372 in intron 3 of the TCF7L2 gene [20], associated with a ~45% increase in Type 2 diabetes risk per allele. As such, the TCF7L2 locus presently repre- sents the strongest known genetic determinant of Type 2diabetes. Risk allele carriers show impaired insulin produc-tion [21] and b-cell dysfunction in vitro [22]. TCF7L2 (previously referred to as TCF-4) is a high-mobility group box-containing transcription factor involved in Wingless-type MMTV integration site (Wnt)",
+    "genes which also play a significant role in the risk and  pathogenesis of the disease[158,159]. The association  of TCF7L2  gene variants with type 2 diabetes and  its mechanism of action received special attention  by several investigators[161,162]. Over expression of the protein was shown to decrease the sensitivity of  beta islet cells to secrete insulin[163,164] and was more  precisely involved in the regulation of secretary granule  fusion that constitute a late event in insulin secretion",
+    "et al. Variant of transcription factor 7-like 2 (TCF7L2) gene confers risk of type 2  diabetes. Nat Genet . 2006;38:320-23.   Sladek R, Rocheleau G, Rung J, Dina C, Shen L, Serre D, et al. A genome- [9] wide association study identifies novel risk loci for type 2 diabetes. Nature .  2007;445:881-85.  Kirchhoff K, Machicao F, Haupt A, Schafer SA, Tschritter O, Staiger H, et al. [10] Polymorphisms in the TCF7L2, CDKAL1 and SLC30A8 genes are associated",
+    "transcription factor 7-like 2 (TCF7L2) gene confers risk of type 2diabetes. Nat Genet 38:320 3231422 Diabetologia (2007) 50:1418 1422",
+    "approximately double odds ratio compared to most other diabetes susceptibility polymorphisms. TCF7L2  is a transcription factor involved in the Wnt signaling pathway that is ubiquitously expressed,  and it has been observed that TCF7L2  risk alleles result in the overexpression of TCF7L2  in   pancreatic  cells. This overexpression causes reduced nutrient -induced insulin secretion, which results  in a direct predisposition to T2DM as well as an indirect predisp osition via an increase in hepatic glucose",
+    "diabetes. The gene seems to be widely expressed [ 18] and the transcription factor product is known to be involved in the Wnt signalling cascade. Current evidence strongly supports the idea that the predominant effect of TCF7L2 dysfunction on type 2 diabetes development is mediated through impairment of insulin secretion [ 11,1517,20], a finding that would be consistent, for example, with theknown effects of other (non-homologous) TCF genes (TCF1 [also known as HNF1A ] and TCF2 [also known as"
+  ],
+  "answer": "Yes, the gene TCF7L2 is involved in diabetes, specifically type 2 diabetes. Multiple sources in the provided context confirm this association:  1. Single nucleotide polymorphisms in TCF7L2 are reproducibly associated with type 2 diabetes and reduce the insulin response to glucose in nondiabetic individuals [1]. 2. Common variants in the TCF7L2 gene increase the risk of type 2 diabetes [2]. 3. The TCF7L2 gene confers risk of type 2 diabetes [3], [4]. 4. Variants in the TCF7L2 gene are associated with a significant increase in type 2 diabetes risk, representing the strongest known genetic determinant of the disease [5]. 5. Overexpression of TCF7L2 protein decreases the sensitivity of beta islet cells to secrete insulin, which is involved in the regulation of insulin secretion [6]. 6. TCF7L2 risk alleles result in overexpression in pancreatic cells, causing reduced nutrient-induced insulin secretion and a predisposition to type 2 diabetes [9]. 7. The predominant effect of TCF7L2 dysfunction on type 2 diabetes development is mediated through impairment of insulin secretion [10].  These references collectively support the involvement of TCF7L2 in the pathogenesis and risk of type 2 diabetes.",
+  "question": "Is the gene TCF7L2 involved in diabetes?"
+}

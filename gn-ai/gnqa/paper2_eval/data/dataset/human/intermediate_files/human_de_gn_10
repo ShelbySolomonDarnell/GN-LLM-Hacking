@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Classification of microarray data using gene networks.pdf",
+    "2020 - Gene network a continuously updated tool for systems genetics analyses.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2013 - Integrated Enrichment Analysis of Variants.pdf",
+    "2013 - Candidate gene association studies a comprehensive guide to useful in silicotools.pdf",
+    "2017 - Integrative functional genomics for systems genetics in GeneWeaver. org.pdf",
+    "2023 - Genome-wide RNA polymerase stalling.pdf",
+    "2011 - The age of the \u201come\u201d Genome, transcriptome and proteome data set collection and analysis.pdf",
+    "2020 - Gene network a continuously updated tool for systems genetics analyses.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf"
+  ],
+  "extraction_id": [
+    "b509b652-ff49-53b8-9fe1-6b2340c166a6",
+    "0ddd5599-537b-581d-9775-b4ec0662cfae",
+    "b1a51c38-5376-51ec-9d6b-a02b63164eb5",
+    "39015cf6-2e14-5ef7-a5af-b1a87ef22594",
+    "e4aaaddf-ed9f-5663-b8b7-403b02631793",
+    "800a4df7-3d75-50cf-bb6c-aef53b97af0f",
+    "801887dc-6c57-5d4d-8ba3-8a7a84707a8e",
+    "87e61158-ff52-5bbc-926d-47cd018529aa",
+    "f9dee762-add3-56b8-baa6-f260e05af531",
+    "58f46b5e-7cfe-5926-ae36-d0a6d7741171"
+  ],
+  "document_id": [
+    "639e0456-a445-5e2e-adf5-8eaf987ce2d1",
+    "374fd6d3-e6c1-560c-a421-a4b393ba23b2",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "e4b37f87-e940-563c-851c-b272fc30e394",
+    "72134204-0751-5b57-a051-a0ea2d320fa1",
+    "cbe10d1f-5271-5c0e-94e3-1479b7e39146",
+    "78812a12-8d31-5159-8367-b0d38e5bc84b",
+    "ca99ed69-ee09-5717-95ed-c26eefb5e42d",
+    "374fd6d3-e6c1-560c-a421-a4b393ba23b2",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a"
+  ],
+  "id": [
+    "chatcmpl-ADZAEvRN04c44oiql0rqsqslEqSpD",
+    "8f5c5693-f995-5ded-8498-701ff0889deb",
+    "6ab69fa3-2dcf-50dc-bd36-283407a39451",
+    "02b60e7c-25ee-5583-822d-a0a4799f4eeb",
+    "7dbba72c-bf76-5431-aa01-9c828355bed8",
+    "3539d21a-cc75-54dc-aca3-2d936893481b",
+    "0c72f387-9074-592d-a87e-7643c2f37d0c",
+    "5014c31a-1e5c-5101-9c4c-9b6b40c65435",
+    "e17e2cc4-ca55-55e8-9461-b692c3c5bf00",
+    "e9748c2d-a9f6-596e-bba2-97bf34ed86d6",
+    "96f49474-9477-5ac6-8606-81296848493a"
+  ],
+  "contexts": [
+    "[3] and KEGG [4] all allow a list of genes to be crossed with biological functions and genetic networks, including metabolic, signalling or other regulation pathways. Basic statistical analysis (e.g., [5,6]) can then determine whether a pathway is over-represented in the list, and whether it is over-activated or under-activated. However, one can argue that introducing information on the path- way at this point in the analysis process sacrifices some statistical power to the simplicity of the approach. For",
+    "Sidiropoulos, K., Viteri, G., Sevilla, C., Jupe, S., Webber, M., Orlic -Milacic, M., et al. (2017).  Reactome enhanced pathway visualization. Bioinformatics  33, 3461 3467.  doi:10.1093/bioinformatics/btx441.   Slenter, D. N., Kutmon, M., Hanspers, K., Riutta, A., Windsor, J., Nunes, N., et al. (2018).  WikiPathways: a multifaceted pathway database bri dging metabolomics to other omics  research. Nucleic Acids Res.  46, D661 D667. doi:10.1093/nar/gkx1064.",
+    "Sidiropoulos, K., Viteri, G., Sevilla, C., Jupe, S., Webber, M., Orlic -Milacic, M., et al. (2017).  Reactome enhanced pathway visualization. Bioinformatics  33, 3461 3467.  doi:10.1093/bioinformatics/btx441.   Slenter, D. N., Kutmon, M., Hanspers, K., Riutta, A., Windsor, J., Nunes, N., et al. (2018).  WikiPathways: a multifaceted pathway database bri dging metabolomics to other omics  research. Nucleic Acids Res.  46, D661 D667. doi:10.1093/nar/gkx1064.",
+    "analysis, we restrict the analysis to curated, peer-reviewedpathways based on experimental evidence, and pathways inferred via gene homology. We draw candidate pathways from the collections listed in Figure 6 (see also Supplementary Materials). KEGG [146] and HumanCyc [147] are primarily databases of metabolic pathways, and are unlikely to be relevant to someJoint Analysis of Variants and Pathways in Disease PLOS Genetics | www.plosgenetics.org 11 October 2013 | Volume 9 | Issue 10 | e1003770",
+    "textual interface, also linking out to the original articles. Analysing participating pathways is an important aspect of any gene s functional analysis strategy. In this view, REACTOME (http://www.reactome.org) [13] is a cross referenced, manually curated and peer reviewed pathway database. LitInspector (http://www.litinspector.org) [14]and NetPath (http://www.netpath.org/index.html) [15] allow one to access curated signal transduction related lit-",
+    "I, Babur O, Anwar N, Schultz N, Bader GD, Sander C (2011) Pathway Commons, a web resource for biological pathway data. Nucleic Acids Res 39(Database issue):D685D690. doi:   10.1093/nar/gkq1039           6.    Baker EJ, Jay JJ, Bubier JA, Langston MA,  Chesler EJ (2012) GeneWeaver: a web-based system for integrative functional genomics. Nucleic Acids Res 40(Database issue):D1067D1076. doi:   10.1093/nar/gkr968            7.    Bubier JA, Phillips CA, Langston MA, Baker",
+    "67. Krmer, A., Green, J., Pollard, J. Jr. & Tugendreich, S. Causal analysis approaches in ingenuity pathway analysis. Bioinformatics   30, 523530 (2014). 68. Jassal, B. et al. The reactome pathway knowledgebase. Nucleic Acids Res. 48, D498D503 (2020). 69. Okonechnikov, K., Conesa, A. & Garca-Alcalde, F. Qualimap 2: advanced multi-sample quality control for high-throughput sequencing data. Bioinformatics 32, 292294 (2016).",
+    "Biocarta    pathway  maps  www.biocarta.com BioGRID    genetic  and  protein  interaction  database  thebiogrid.org AnalysisPLINK  processing  and  QC  of  genetic  data  sets  pngu.mgh.harvard.edu/ purcell/plink Bioconductor    processing  and  QC  of  expression  data  sets  www.bioconductor.org DAVID   gene  ontology,  pathway  analysis  david.abcc.ncifcrf.gov WebGestalt    gene  ontology,  pathway  analysis  bioinfo.vanderbilt.edu/webgestalt Sage",
+    "2004; Gene Ontology Consortium, 2015; The Gene Ontology Consortium, 2019) , KEGG  pathways  (Kanehisa and Goto, 2000; Kanehisa et al., 2012) , Panther pathways  (Mi et al., 2019a,  2019b) , Reactome pathways  (Sidiropoulos et al., 2017; Jassal et al., 2020) , and Wikipathway  pathways  (Pico et al., 2008; Slenter et al., 2018)  (Figure 31). As many different annotations as  wanted can be chosen by clicking on the + icon ( Figure 31). Also note, that the user can",
+    "2004; Gene Ontology Consortium, 2015; The Gene Ontology Consortium, 2019) , KEGG  pathways  (Kanehisa and Goto, 2000; Kanehisa et al., 2012) , Panther pathways  (Mi et al., 2019a,  2019b) , Reactome pathways  (Sidiropoulos et al., 2017; Jassal et al., 2020) , and Wikipathway  pathways  (Pico et al., 2008; Slenter et al., 2018)  (Figure 31). As many different annotations as  wanted can be chosen by clicking on the + icon ( Figure 31). Also note, that the user can"
+  ],
+  "answer": "For pathway analyses, you can use the following resources:  1. **KEGG (Kyoto Encyclopedia of Genes and Genomes)**: This database allows you to cross-reference a list of genes with biological functions and genetic networks, including metabolic, signaling, or other regulation pathways [1], [4], [9], [10].  2. **Reactome**: A cross-referenced, manually curated, and peer-reviewed pathway database that provides enhanced pathway visualization [2], [3], [5], [7], [9], [10].  3. **WikiPathways**: A multifaceted pathway database that bridges metabolomics to other omics research [2], [3], [9], [10].  4. **HumanCyc**: Primarily a database of metabolic pathways [4].  5. **Pathway Commons**: A web resource for biological pathway data [6].  6. **BioCarta**: Provides pathway maps [8].  7. **BioGRID**: A genetic and protein interaction database [8].  8. **DAVID (Database for Annotation, Visualization, and Integrated Discovery)**: Offers gene ontology and pathway analysis [8].  9. **WebGestalt**: Provides gene ontology and pathway analysis [8].  These resources can help you determine whether a pathway is over-represented in your gene list and whether it is over-activated or under-activated [1].",
+  "question": "What resources can I use to do pathway analyses?"
+}

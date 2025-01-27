@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+    "2011 - Peroxisomal L-bifunctional enzyme (Ehhadh) is essential for the production of medium-chain dicarboxylic acids.pdf",
+    "2009 - Metabolomics Applied to Diabetes Research.pdf",
+    "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2015 - Cell cycle gene expression networks discovered using systems biology Significance in carcinogenesis.pdf",
+    "2013 - Pathways, Networks and Systems Medicine Conferences.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+    "a8b40857-7ae8-512a-9817-bea1ae3345ba",
+    "380e9a2e-8f9f-5f9e-ba20-3695b1c60fda",
+    "4ca2fc9e-7d42-5ea3-b1b7-a296bfbc6a09",
+    "7dd82b3f-58bd-5915-9eea-250f11412ff2",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "5b6d04d2-3aa2-5a43-814a-b13e60e3bb1d",
+    "9ca6d444-064c-5743-b029-9d634685f11b"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "76a715a4-8222-598b-8e65-6d5b6e807989",
+    "ac61753e-bcb2-55c3-804b-e821e3d1a4ad",
+    "a6ae2fb6-88ae-588f-a98d-b6092f886ed9",
+    "d11a87ca-4989-59af-95e3-ab90af7d9212",
+    "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "6f354254-4f4d-52ad-bed7-9356f43c0b20",
+    "b50a9732-7d01-5d4d-8f33-a9d43dbc7df3"
+  ],
+  "id": [
+    "chatcmpl-ADZRLVC30o2qvIhM1bclRsts27OFA",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "21936758-94b1-506f-9229-77e26001ae44",
+    "8b8a24da-a175-5cb8-91bd-8966fca5d344",
+    "418060c8-fafb-5010-a512-55819ed36a3d",
+    "7ce6c0fe-8b0a-5ce9-83d1-6e6b99b4f24d",
+    "30e2423f-2b2b-5c7d-8808-b025242fa0c7",
+    "fa07b1bf-94e6-515b-8400-cf3afa8b8741",
+    "dcb29dfe-ba22-54bc-91f7-af3261a18fd2",
+    "f163b61d-987b-50eb-aef2-ee0dc0eddb9f"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes are two such examples of possible tools. For this study, we",
+    "subnetworks   GeneNetwork (www.genenetwork.org) is a depository of data- sets and tools for use in complex systems biology approaches in  order to generate or predict higher order gene function ( 23, 24 ).",
+    "of these tools to diabetes andmetabolic disease research at the cellular, animal model,and human disease levels are summarized, with a partic-ular focus on insights gained from the more quantitativetargeted methodologies. We also provide early examplesof integrated analysis of genomic, transcriptomic, andmetabolomic datasets for gaining knowledge about meta-bolic regulatory networks and diabetes mechanisms andconclude by discussing prospects for future insights.",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "data are entered into GeneNetwork after they have been shepherded through a system like PhenoGen that has extensive capabilities for normalization and quality control. A comparison of the brain gene expression datasets and some of the tools for data analysis available on PhenoGen and GeneNetwork is shown in Table 3, and more detailed information on features provided by each site is outlined in the Supplementary DiscussionHoffman et al. Page 5 Addict Biol . Author manuscript; available in PMC 2012 July 1.",
+    "of importance in the emergence of precision medicine ( Curtis, 2015 ; Desautels et al., 2014 ;  Glade Bender et al., 2015 ; Jorgensen, 2015 ; Kummar et al., 2015 ; Marquet et al., 2015 ;  Rubin, 2014 ) wherein therapeutic strategies need to be aligned with specific properties of  tumors. Methods GeneNetwork and WebGestalt GeneNetwork is an open access, online data analysis resource for systems biology and  systems genetics. It contains a large number of microarray datasets from multiple tissues of",
+    "results in applying the method  to type 2 diabetes mellitus suggest it may hold  promise as a useful research tool for complex diseases .  Further details on the  methodol ogy is available from the following paper: Liu M, Liberzon A, Kong  SW, Lai WR, Park PJ et al (2007) Network -based analysis of affected biological  processes in type 2 diabetes models.  PLoS Genet 3(6):e96.   doi:10.1371/journal.pgen.0030096."
+  ],
+  "answer": "GeneNetwork offers several specific tools that are particularly useful for diabetes research:  1. **Multi-Omics Analysis**: GeneNetwork includes data from multiple species and supports multi-omics analysis, which integrates genomic, transcriptomic, and metabolomic datasets. This integration is crucial for understanding the complex regulatory networks and mechanisms underlying diabetes [1], [5].  2. **Correlation and Network Analysis**: These tools allow researchers to compare associations between tissues and between rodent or human datasets. This can help identify key molecular interactions and pathways involved in diabetes [6], [7].  3. **Systems Genetics Mapping**: Many datasets within GeneNetwork are amenable to systems genetics mapping, which can be used to link genetic variations to phenotypic traits related to diabetes. This helps in identifying genetic factors that contribute to the disease [6].  4. **Microarray Data Analysis**: GeneNetwork provides access to a large number of microarray datasets from multiple tissues. This data can be used to study gene expression patterns and identify genes that are differentially expressed in diabetic conditions [3], [9].  5. **Predictive Medicine and Systems Genetics**: GeneNetwork is designed as a resource for predictive medicine and systems genetics, which are essential for developing personalized treatment strategies for diabetes [1].  These tools are applied in diabetes research to gain insights into the genetic and molecular basis of the disease, identify potential biomarkers, and develop targeted therapeutic strategies. For example, integrated analysis of genomic, transcriptomic, and metabolomic datasets can reveal metabolic regulatory networks and mechanisms specific to diabetes [5]. Correlation and network analysis can help in understanding how different tissues interact and contribute to the disease pathology [6], [7].",
+  "question": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+}

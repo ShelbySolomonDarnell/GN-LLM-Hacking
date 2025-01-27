@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2012 - Genome-Scale Studies of Aging Challenges and Opportunities.pdf",
+    "2020 - A multidimensional systems biology.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2018 - Human Ageing Genomic Resources new and updated.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2012 - Human Ageing Genomic Resources Integrated.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf"
+  ],
+  "extraction_id": [
+    "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d",
+    "53c57cc4-4d43-505a-974c-442d06e144df",
+    "fe4ec57e-6ae7-59c4-b8fa-da73fe77ce96",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "6b10898e-0906-5fff-9c70-b3be2d562fda",
+    "03c88365-c56c-56f2-a15f-e183398d3dfe",
+    "7ada6b55-99c2-5e20-bf96-d153f927256c",
+    "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d",
+    "25e9d8a3-54ac-5412-8efb-3b56d93f363f",
+    "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d"
+  ],
+  "document_id": [
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "b77aace0-fa36-5fd4-8e2a-c8932198acd1",
+    "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "82726cea-f77c-5a92-9f2e-ecccc369953a",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "5f554cc7-c94d-5fbd-9567-528499663ed6",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529"
+  ],
+  "id": [
+    "chatcmpl-ADZWTp42DWHZeK1fZT0MSpkOitZfP",
+    "496d27de-6dd0-5f6a-bedb-64d4c252981d",
+    "df726361-271a-5dbb-b6d1-03dab5a63006",
+    "9716c2c9-6f43-57f2-bad4-6d96c82d5c16",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "42464f0d-d8ce-5f73-9c7c-0cdec45e7f4f",
+    "3153cd1e-de1c-52fb-aede-4065019d8c6b",
+    "676b5bff-01e8-58cf-93e5-ac14d8e82760",
+    "4c4f5670-cb9a-59b5-b9cc-ba5bce662035",
+    "cf8bf1ec-4919-59b2-a60d-183fc5a04bb0",
+    "1d7f120f-20c4-5d6c-983f-41534fb30503"
+  ],
+  "contexts": [
+    "the different pathways linked with aging and even study genenetworks. In such works, GenAge is an adequate resource asit provides a framework for the functional genomics of aging.For example, Xue   et     al  . (2007) used GenAge to construct a modular network of aging and obtain insights into aging, including thefact that genes connecting different modules are more likely toaffect longevity and/or aging, an hypothesis the authors validatedexperimentally in worms (Xue   et     al",
+    "[111], and for generation of networks based on known gene  interactions such as GeneMania [112] and Cytoscape [113], as well as for identifying cross-species orthology relation-ships [114], network-based thinking has been increasingly applied to the study of aging and lifespan [115-118]. Re-cently, the novel computational method of network identifi- cation by regression (NIR) [119] has been used to identify",
+    "networks can be built using protein interaction and gene co-expression data. A previous paper used protein- protein interactions to build genetic networks identifying potential longevity genes along with links between genes and aging-related diseases [ 30]. Here, we present the network of proteins and genes co-expressed with the CellAge senescence genes. Assaying the networks, we find links between senescence and immune system func- tions and find genes highly connected to CellAge genes",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "of GenAge involved finding novel genes that may be linked toaging by way of an analysis of proteinprotein interactions. Theprinciple being that proteins not previously thought to berelated to aging which interact with a large number of proteinsdirectly linked to aging might too be involved in aging and arethus promising candidates for future studies (de Magalhes &Toussaint, 2004; Budovsky   et     al  ., 2007). Similar works are made",
+    "2009, with over 400 genes added in the current update (Ta-ble1), includingmiRNAs for thefirst time. GenAge has proven a valuable resource for ageing re- search, as evidence by many publications. A systems levelanalysis of the GenAge human genes database identified a robust group of ageing-specific network characteristics, re- vealingageinggenesasnetworkhubs( 11).Moreover,inan analysis of genes in the ageing human brain, 54 genes with sustained, consistent expression and 23 genes with DNA",
+    "a curated database of genes potentiallyassociated with human aging, and a list of genes testedfor their association with human longevity. A myriad ofbiological data and information is included for hundredsof genes, making GenAge a reference for research thatreflects our current understanding of the genetic basis ofaging. GenAge can also serve as a platform for thesystems biology of aging, and tools for the visualizationof proteinprotein interactions are also included. AnAgeis a database of aging in",
+    "et     al  ., 2007). In a sense, GenAge offers an overall view of what is presently known about thegenetics of aging in model organisms and in humans that canbe used for numerous studies, including in contemporary functionalgenomics and systems biology methods.Table 2 Criteria used to select entries for inclusion in the GenAge human data set Main reason for selectionNumber  of genes Evidence directly linking the gene product to aging in humans 3",
+    "senescence.info/genes/) is to host high-quality curatedgene-centric information relevant to human ageing.Although initially GenAge was designed to include onlyhuman genes potentially associated with ageing, thedatabase has signicantly grown since, and several newgene sets have been added to it. For example, GenAge includes, since 2008, a list of genes from model organisms based on genetic manipulation experiments (2). Currently, the database is divided into three main",
+    "information source on the genetics of aging. In particular forthe human data set, a wealth of biological data is provided foreach entry, including relevant information in the context ofbiogerontology (see example below) to an extent that is notavailable in larger, more generic databases like Entrez Gene.Therefore, to learn about the involvement of a given gene inaging, a quick search in GenAge is the best place to start.GenAge features a sophisticated search engine and its user-friendly interface is easy"
+  ],
+  "answer": "GeneNetwork is a resource that has been significantly updated and enhanced to include data from 10 species, multi-omics analysis, updated code, and new tools. It serves as an exciting resource for predictive medicine and systems genetics, constantly being maintained and improved [4].  In relation to aging research, GeneNetwork is used to study genetic networks and pathways linked with aging. For example, researchers use GeneNetwork to construct modular networks of aging, which can provide insights into how different genes interact and affect longevity and aging processes [1]. This network-based approach allows for the identification of potential longevity genes and the links between genes and aging-related diseases [3]. Thus, GeneNetwork plays a crucial role in the functional genomics of aging by enabling the analysis and visualization of complex genetic interactions and their implications for aging and longevity.",
+  "question": "What is GeneNetwork and how does it relate to aging research?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf",
+    "2020 - Precision Medicine in Diabetes.pdf",
+    "2020 - Precision Medicine in Diabetes.pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+    "2010 - Interactions of Dietary Whole-Grain Intake.pdf",
+    "2013 - Gene-Environment and Gene-Treatment.pdf",
+    "2011 - Interaction Between Exercise and Genetics.pdf",
+    "2012 - Gene-Environment Interactions in the Development of Type 2 Diabetes.pdf",
+    "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf"
+  ],
+  "extraction_id": [
+    "751ccb98-2846-5ca7-8ab8-2684100c28fa",
+    "0504a937-6b88-5004-a13e-5e9c3073eaf6",
+    "0504a937-6b88-5004-a13e-5e9c3073eaf6",
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "93638ea5-6d1f-5b6a-9629-798804de24dd",
+    "6283c124-b479-5050-86ca-dc42390147a1",
+    "ee6a4bf3-6f68-58e7-a96f-c879b5269694",
+    "ed6dcfee-8273-5512-8fb4-fc51a9c921da",
+    "89bf4316-d0cc-5310-a45e-1dd8b8aefe1b",
+    "3bf3c6a7-de03-5114-bad8-d53fd76d0fba"
+  ],
+  "document_id": [
+    "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d",
+    "0ad5b2de-d782-5d43-b294-bff5c7befd2d",
+    "0ad5b2de-d782-5d43-b294-bff5c7befd2d",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+    "e4d4a19e-18a0-5a08-9ab7-537f31b7cdc1",
+    "fe958fb1-5408-56ec-b102-ccf07b4bac2d",
+    "c36db75e-4b76-540d-9efb-d0e156e61541",
+    "ea9601ed-ad83-506e-b1b7-e7211671ff73",
+    "17637a6f-804e-50e4-9cf5-37318e17f15c"
+  ],
+  "id": [
+    "chatcmpl-AIFqrzKmzcOBxhh6XTfMBqYsubXv7",
+    "a1c71566-1d75-551a-8588-9a05436545dc",
+    "fe89ba68-d709-5494-bcdc-82d81e1498d1",
+    "799f3578-a7ac-551f-b84a-b9fb3be53040",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "be87703d-e7b2-5db5-9983-5412e09a57ba",
+    "89339b65-325f-588f-9f25-761124f0012f",
+    "fe35615a-6df7-548c-b313-4abca69b1e2d",
+    "68a382e9-85e0-548c-910e-5f24cb48f9c8",
+    "6b83f0af-1145-5679-9dae-0f645771d25d",
+    "1b364e28-08e2-5813-b066-7ce37eeb36cf"
+  ],
+  "contexts": [
+    "of a given genetic variant is modified by the environ - mental milieu (and vice versa). Evidence that lifestyle factors modify the genetic effects on T2DM risk has been  generated from both observational studies and clinical  trials82. However, genetic background might also affect  the individuals response to lifestyle interventions83. In  addition, replication data are sparse, and comprehensive,  large-scale studies have failed to provide a compelling",
+    "genetic risk for diabetes may not moti-vate improvements in lifestyle behaviors.Indeed, knowledge of increased geneticrisk for diabetes may decrease motiva-tion to modify behavior in genetic fatal-ists (83). Diet recommendations optimized to the individual have been shown to re-duce postprandial glycemic excursionsto a greater extent than standard approaches in healthy individuals (84).Meal compositions that induce the most favorable glycemic pro les have been",
+    "diabetes regardless of the underlying genetic risk. This contrasts with theextensive epidemiological evidence sug-gesting that the relationship of lifestylewith obesity is dependent on genetic risk(7881); however, with few exceptions (e.g., [74]), analyses in large randomizedcontrolled trials have failed to show thatthese same genetic variants modifyweight loss in response to lifestyle in-tervention (82). It is also important to recognize that knowledge of increased",
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "suggested to attenuate its negative e  ect on metabolic pro  le,  body weight, and diabetes risk (   Franks et al., 2007   ;    Kilpelainen et al., 2008   ;    Lindi et al., 2002   ;    Ruchat et al., 2010   ) (             Table 1   ).  The notion that lifestyle modi  cation can eliminate the increased  risk for development of T2DM in subjects with genetic suscepti-bility is also supported by  ndings of    Barwell et al. (2008)    who",
+    "proven particularly effective for preven-tion and management of type 2 diabetes.For example, improvement in dietaryquality, in conjunction with other lifestylemodications like increased physical ac-tivity, was shown to be more effectivethan pharmacological treatment in pre-vention of diabetes in individuals at highrisk (1). Further, lifestyle modicationmay mitigate the risk associated with thestrongest known diabetes risk loci (2).While the existence of environmental in-uences on genetic risk (and vice",
+    "who is lean, genetic risk factors are more likely to be present than in someone who is obese and develops the disease or that weight loss enhances the genetic risk ofdiabetes. Genetic analyses performed in clinical trials involving intensive lifestyle modi - cation provide an important adjunct to the epidemiological literature on gene- lifestyle interactions in type 2 diabetes.On one hand, a major advantage of ran- domized controlled trials is that interac-",
+    "Lifestyle behaviors and genetic loci have clear and distinguishable effects on  T2D risk; however, the pattern of disease occurrence within and between popula-tions that differ in their genetic and environmental underpinnings suggests T2D is caused in part by the interaction between adverse lifestyle behaviors and the genetic profile of an individual. For many, this seems a reasonable assumption, but there is little robust empirical evidence supporting the presence of such interactions.",
+    "this occurs. Findings to date, however, indicate that behavioral changes can substantially mitigate diabetogenic and obesogenic effects of individual or multiple risk alleles, which has much broader clinical and public health implications.We have seen considerable progress in our understanding of the role that both environ- ment and genetics play in the development of T2D. Recent work suggests that the adverse effect of some established T2D-associated loci may be greatly attenuated by appropriate",
+    "Susceptibility to obesity and diabetes is deter- mined by both genetic and lifestyle factors.Suggestive evidence of genelifestyle interac- tion (Box 33.3) in the development of common diseases such as obesity and type 2 diabetes wasrst provided by descriptive epidemiological studies such as migration studies that compare the disease risk between genetically related pop-ulations who live different lifestyles. A classicalexample is the comparison of the risk of obesity"
+  ],
+  "answer": "Yes, lifestyle changes can affect genetic risk factors for diabetes. Evidence from both observational studies and clinical trials suggests that lifestyle factors can modify the genetic effects on the risk of developing type 2 diabetes mellitus (T2DM) [1]. Lifestyle modifications, such as improvements in dietary quality and increased physical activity, have been shown to be particularly effective in preventing and managing type 2 diabetes, even in individuals with a high genetic risk [6]. Furthermore, behavioral changes can substantially mitigate the diabetogenic effects of individual or multiple risk alleles, indicating that the adverse effects of some established T2D-associated loci may be greatly attenuated by appropriate lifestyle changes [9].",
+  "question": "Can lifestyle changes affect genetic risk factors for diabetes?"
+}

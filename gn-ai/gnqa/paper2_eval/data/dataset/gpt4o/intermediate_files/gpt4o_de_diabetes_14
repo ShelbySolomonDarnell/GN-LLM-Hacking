@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2017 - Insights into beta cell regeneration for diabetes via integration of molecular landscapes in human insulinomas.pdf",
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf"
+  ],
+  "extraction_id": [
+    "7f7a7f30-2e4e-50aa-bbcb-9f211c371e38",
+    "7a2a9981-4096-5049-a717-3e69eb609777",
+    "8bbfb009-87b7-54ae-8465-8796db8c271a",
+    "117cc1a5-d236-56b2-a69d-9c0a2fb9053d",
+    "dee54186-e75e-5ed2-818d-cd6f4370b153",
+    "7a2a9981-4096-5049-a717-3e69eb609777",
+    "10e4029f-0324-55c9-8fe8-023a924d1732",
+    "7a2a9981-4096-5049-a717-3e69eb609777",
+    "f740892a-7817-58b0-bec4-8648086b2353",
+    "65471d38-cd13-5de2-8c19-1eb72d24d6f5"
+  ],
+  "document_id": [
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "6cf1eb8d-a91e-58a2-b6f4-29653678d0d3",
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70"
+  ],
+  "id": [
+    "chatcmpl-AIHKFuXAocol6QH0B6QHJlkuJdiDC",
+    "b7812a7a-5504-57ca-8755-969dee45717e",
+    "d5c2a32a-b869-59c1-8a63-45ab620669de",
+    "ab373b7e-8c0b-59d8-9408-3e09ac76761e",
+    "a2adc65b-035b-568f-a0ae-9f7821ef45bc",
+    "887e1f7e-5044-5be8-a506-588ca7afa004",
+    "4bfcfbd6-f45e-553d-a043-a12e7abeff61",
+    "d32d6338-6cda-5f58-999d-2b4287ee4a77",
+    "ef0b8934-2af1-5848-88f9-ff5a2e4f3cc1",
+    "46ed97d7-7b3e-5be2-a409-04a37d105ef2",
+    "f06bcc81-6ef9-5874-8ef9-6bcb3c34b0d0"
+  ],
+  "contexts": [
+    "Tang X, Huang Y, Lei J, Luo H, Zhu X (2019) The single-cell sequenc- ing: new developments and medical applications. Cell Biosci  9:53. https ://doi.org/10.1186/s1357 8-019-0314-y Teo AKK etal (2018) Single-cell analyses of human islet cells reveal  de-differentiation signatures. Cell Death Discov 4:14. https ://doi. org/10.1038/s4142 0-017-0014-5 Theis FJ, Lickert H (2019) A map of beta-cell differentiation pathways  supports cell therapies for diabetes. Nature 569:342343. https  ://",
+    "4. PRECISE CELLULAR GENOMICS Elucidating the molecular mechanisms that lead to beta cell dysfunction and T2D pathogenesis has been a major focus of diabetes research for decades. However, advances in single cell genomic proling techniques have led to greater understanding of non-beta cell type transcriptional regulation and suggest that they may play important roles in hallmark features of beta cell insuf ciency and",
+    "53. Eliasson L, Esguerra JL (2014) Role of non-coding RNAs in pancreatic beta-cell development and physiology. Acta Physiol  (Oxf) 211:273284  54. Ding GL, Wang FF, Shu J etal (2012) Transgenerational glucose  intolerance with Igf2/H19 epigenetic alterations in mouse islet induced by intrauterine hyperglycemia. Diabetes 61:11331142  55. Ku GM, Kim H, Vaughn IW etal (2012) Research resource: RNA-Seq reveals unique features of the pancreatic beta-cell tran-scriptome. Mol Endocrinol 26:17831792",
+    "understand each cell type s genomic architecture and better charac- terize their roles in islet resilience and failure. Experimental manipu- lation of the regulatory elements and/or the target genes identi ed by (epi)genomic approaches described above and modeling the putativepathways and processes they implicate in human islet cell lines (e.g., EndoC- bH1-H3) is essential to progress from correlation to causation. Similarly, transitioning from themouse (C57BL/6) to multiple mouse",
+    "therapeutic pathways for beta cell regeneration. An integrative analysis of whole-exome andRNA-sequencing data was employed to extensively characterize the genomic and molecularlandscape of insulinomas relative to normal beta cells. Here, we show at the pathway levelthat the majority of the insulinomas display mutations, copy number variants and/or dys-regulation of epigenetic modifying genes, most prominently in the polycomb and trithoraxfamilies. Importantly, these processes are coupled to co-expression",
+    "gesting that changes in alpha cell identity may ultimately lead to theirdysfunction. Analysis of normal and T2D islet single cells with simultaneous RNA-seq and patch clamping (patch-seq) also revealed subpopulations of alpha cells with varying enrichment for ER stressresponse genes (e.g., DDIT3, XBP1, PPP1R15A )[30]. Interestingly, this transcriptomic heterogeneity was consistent in normal and T2D islets",
+    "RNA-seq analysis: a tutorial. Mol Syst Biol 15:e8746. https ://doi.org/10.15252 /msb.20188 746 Ma L, Zheng J (2018) Single-cell gene expression analysis reveals  -cell dysfunction and deficit mechanisms in type 2 diabe-tes. BMC Bioinform 19:515. https ://doi.org/10.1186/s1285   9-018-2519-1 Macaulay IC, Ponting CP, Voet T (2017) Single-cell multiom- ics: multiple measurements from single cells. Trends Genet 33:155168. https ://doi.org/10.1016/j.tig.2016.12.003",
+    "peak current. Prior single cell transcriptomic analyses have also notedsubpopulations of ER-stressed beta cells [31,32] which implicates the dysfunction of both alpha and beta cells in diabetes pathogenesis.Similarly, the integrity of beta and alpha cell functions seem to beReview S18MOLECULAR METABOLISM 27 (2019) S15 eS24/C2112019 Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ). www.molecularmetabolism.com",
+    "to understanding human development using single-cell tran-scriptomics. Development 144:1584. https ://doi.org/10.1242/dev.15045 8 Camp JG, Wollny D, Treutlein B (2018) Single-cell genomics to guide  human stem cell and tissue engineering. Nat Methods 15:661667. https ://doi.org/10.1038/s4159 2-018-0113-0 Carrano AC, Mulas F, Zeng C, Sander M (2017) Interrogating islets  in health and disease with single-cell technologies. Mol Metab  6:9911001. https ://doi.org/10.1016/j.molme  t.2017.04.012",
+    "Advances ofsingle -cell genomics andepigenomics inhuman disease: whereare we now?   1 3 Brissova etal. 2018; Tritschler etal. 2017). Moreover, an  increase in hyperglycaemia has been associated with a loss of beta-cell mass, function and organization and is the cell type most frequently studied for insulin resistance (Carrano etal. 2017; Lawlor etal. 2017b; Segerstolpe etal. 2016;  Theis and Lickert 2019; Tritschler etal. 2017). Notably, single-cell transcriptome profiling has been"
+  ],
+  "answer": "Recent single-cell RNA-sequencing studies have provided significant mechanistic insights into beta-cell failure pathways. These insights include:  1. **De-differentiation Signatures**: Single-cell analyses of human islet cells have revealed de-differentiation signatures, suggesting that beta cells may lose their specialized functions and revert to a more progenitor-like state, which contributes to their dysfunction in diabetes [1].  2. **Transcriptional Regulation**: Advances in single-cell genomic profiling have enhanced our understanding of transcriptional regulation in non-beta cell types, which may play crucial roles in the hallmark features of beta-cell insufficiency and dysfunction in type 2 diabetes (T2D) [2].  3. **ER Stress and Heterogeneity**: Single-cell transcriptomic analyses have identified subpopulations of beta cells experiencing endoplasmic reticulum (ER) stress. This stress is implicated in the dysfunction of both alpha and beta cells, contributing to diabetes pathogenesis [8].  These findings highlight the complexity of beta-cell failure and underscore the importance of single-cell technologies in unraveling the molecular mechanisms underlying diabetes.",
+  "question": "What are the mechanistic insights into the beta-cell failure pathways gleaned from recent single-cell RNA-sequencing studies?"
+}

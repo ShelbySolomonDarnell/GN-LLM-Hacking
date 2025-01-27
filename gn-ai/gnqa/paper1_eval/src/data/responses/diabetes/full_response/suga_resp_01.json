@@ -1,0 +1,394 @@
+{
+    "created_at": "2024-04-18T18:19:31.857649Z",
+    "data": {
+        "amplify": false,
+        "answer": "The onset of diabetes in mice can occur as early as 3 to 4 weeks of age, with blood sugar concentrations often elevating between 5 and 8 weeks. However, in some cases, hyperglycemia can develop at approximately 20 weeks of age.",
+        "context": {
+            "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d": [
+                {
+                    "document_id": "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d",
+                    "text": "Diabetes incidence study. Mice were kept for 20-28 weeks and tested for diabetes monthly by blood glucose and weekly by urine assessment, with a positive indication being followed by twice-weekly blood testing.Mice were diagnosed as diabetic when the blood glucose concentration was over 260 mg/dl (14.4 mM) after 2-3 h of fasting for two sequential tests.Glucose and insulin tolerance tests were performed by injecting glucose (2 g/kg body weight) or insulin (1 U/kg body weight) intraperitoneally in mice fasted for 6-7 h.Tail vein blood was tested by a Contour glucometer.Assessments of plasma insulin, proinsulin and C-peptide levels were performed using commercial ELISA kits, according to the manufacturer's instructions (insulin, proinsulin and C-peptide mouse ELISA kits, R&D Systems Quantikine).Assays were performed with blinding, with mice coded by number until experimental end."
+                }
+            ],
+            "1bf337a1-ffed-4199-a11f-c5a62df47980": [
+                {
+                    "document_id": "1bf337a1-ffed-4199-a11f-c5a62df47980",
+                    "text": "\n\nSubsequently, genetic dissection of the diabetes-associated traits in the male BC1 progeny obtained from a cross between (normal B6 female ϫ diabetic TH male)F1 female and diabetic TH male mice (B6 cross) was carried out.Because of the sexual dimorphism, with respect to NIDDM onset, we used diabetic TH male mice as breeders to ensure the presence of a mutant allele(s) and targeted our genetic dissection using only male BC1 progeny.In male BC1 mice hyperglycemia developed at approximately 20 weeks of age and was sustained through a 30-week period studied.Based on these data, we measured plasma glucose levels three times in biweekly intervals (to minimize phenotyping error) between 20 and 26 weeks of age, and the mean of the three measurements was used for genetic analysis.Body weights were measured at 20 weeks.At the end of the study (26 weeks), plasma insulin levels and nasal-anal lengths were measured, and the five regional fat pads were dissected and weighed from a subset of 133 mice.In total, 206 male BC1 mice were collected, and individual mice were genotyped with 92 SSLP markers at approximately 20-cM intervals (covering ϳ96% of the genome)."
+                }
+            ],
+            "20771d36-aa57-46ad-b3c6-80f5b038ba43": [
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nThe Diabetes (db) .Mouse (Chromosome 4).Diabetes (db), an autosomal recessive mutation, occurred in the C57BL/KsJ (BL/Ks) inbred strain and on this background is characterized by obesity, hyperphagia, and a severe diabetes with marked hyperglycaemia [7,22].Increased plasma insulin concentration is observed as early as 10 days of age [10].The concentration of insulin peaks at 6 to 10 times normal by 2 to 3 months of age then drops precipitously to near normal levels.Prior to the fall in plasma insulin concentration, the most consistent morphological feature of the islets of Langerhans appears to be hyperplasia and hypertrophy of the beta cells in an attempt to produce sufficient insulin to control blood glucose concentration at physiological levels.The drop in plasma insulin concentration is concomitant with islet atrophy and rapidly rising blood glucose concentrations that remain over 400 mg per 100 ml until death at 5 to 8 months [7].Compared with other obesity mutants the diabetic condition is more severe and the lifespan is markedly decreased."
+                },
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nThe animal models available for diabetes research (Table 1) are most often more like maturityonset diabetes in man.Obesity is a consistent factor and insulinopaenia is rare.However, the time of gene expression at about two weeks of age is within the time period of juvenile expression.The severity and clinical course of the diabetes produced depends on the interaction of the mutant gene with the inbred background rather than the action of the gene itself.Thus on one inbred background a well-compensated, maturity onset type diabetes, compatible with near normal life is observed whereas on another inbred background the syndrome presents as a juvenile-type diabetes with insulinopaenia, islet cell degeneration, marked hyperglycaemia, some ketosis and a much shortened lifespan.Unfortunately, vascular, retinal and the other complications of diabetes are not seen consistently in these rodent syndromes.It seems that the severely diabetic animal either does not live long enough to develop these complications or that rodents are particularly resistant to those complications that commonly afflict human diabetics.Several comprehensive bibliographies and excellent reviews of the various studies carried out with each of these syndromes in animals have been published [2,3,19,30,31,32].This presentation will be restricted primarily to the research undertaken by my colleagues and myself with the two mouse mutations; diabetes (db), and obese (ob).Both mutations have been extensively studied by numerous investigators in attempts to define the primary lesion causing the syndrome.As yet, the primary defect remains illusive, although several possibilities are becoming increasingly plausible in the light of current research.Although the metabolic abnormalities associated with both obese and diabetes have many similarities with regard to the overall progression of the obesity-diabetes state, the documentation of two single genes on separate chromosomes makes it unlikely that the two syndromes are caused by the same primary lesion.However, the marked similarity between the two mutants when maintained on the same genetic background implies that the defects may occur in the same metabolic pathway."
+                },
+                {
+                    "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                    "text": "\n\nDiabetes-obesity syndromes in rodents"
+                }
+            ],
+            "29e232a4-a580-411d-83a3-7ff6a4e8f0ad": [
+                {
+                    "document_id": "29e232a4-a580-411d-83a3-7ff6a4e8f0ad",
+                    "text": "\n\nDiabetes-related clinical traits for 275 B6XBTBR-ob/ ob F2 male mice at 10 weeks of age."
+                }
+            ],
+            "43d5140a-ad39-438e-8ba6-76dd3c7c42bc": [
+                {
+                    "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                    "text": "However, in other contexts, B6 mice are more likely\nthan D2 to spontaneously develop diabetic syndromes,\nAging Clin Exp Res\n\nindicating that risk factors exist on both genetic backgrounds [29]. QTL mapping studies indicate that these\nmurine metabolic traits have a complex genetic architecture that is not dominated by any single allele [29–31],\nmuch like humans [32, 33]. Prior work identified candidate genes on Chr 13 that might\nunderlie diabetes-related traits, including RASA1, Nnt, and\nPSK1. RASA1 show strong sequence differences between\nB6 and D2 strains [34]. Rasche et al."
+                }
+            ],
+            "52990c69-609c-448e-9f2c-36e1655ca6db": [
+                {
+                    "document_id": "52990c69-609c-448e-9f2c-36e1655ca6db",
+                    "text":"In total, about\n360 male mice (10 for each strain) were fed with either a regular\nchow diet (CD) or a high-fat diet (HFD) to induce obesity and\nassociated metabolic stress. At 20 weeks of age, a test meal\nbolus was administered orally, and postprandial BAs and blood\nglucose levels were analyzed at three different time points (before\nand 30 or 60 min after gavage). Nine weeks later, the mice were\nsacrificed 4 h after feeding, a time point in which the main metabolic adaptive processes in response to BA-mediated food intake\nare captured."
+                }
+            ],
+            "770beab7-59a4-4bbe-94a5-79a965ab696a": [
+                {
+                    "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                    "text": "\n\nBB rats usually develop diabetes just after puberty and have similar incidence in males and females.Around 90% of rats develop diabetes between 8 and 16 weeks of age.The diabetic phenotype is quite severe, and the rats require insulin therapy for survival.Although the animals have insulitis with the presence of T cells, B cells, macrophages and NK cells, the animals are lymphopenic with a severe reduction in CD4 + T cells and a near absence of CD8 + T cells (Mordes et al., 2004).Lymphopenia is not a characteristic of type 1 diabetes in humans or NOD mice (Mordes et al., 2004) and is seen to be a disadvantage in using the BB as a model of type 1 diabetes in humans.Also, in contrast to NOD mice, the insulitis is not preceded by peri-insulitis.However, the model has been valuable in elucidating more about the genetics of type 1 diabetes (Wallis et al., 2009), and it has been suggested that it may be the preferable small animal model for islet transplantation tolerance induction (Mordes et al., 2004).In addition, BB rats have been used in intervention studies (Hartoft-Nielsen et al., 2009;Holmberg et al., 2011) and studies of diabetic neuropathy (Zhang et al., 2007)."
+                }
+            ],
+            "77daf125-3e88-41fe-92fd-71a9ce9c6671": [
+                {
+                    "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                    "text": "\n\nAgeing likewise affects metabolic parameters in rodents.Analogous to what occurs in humans, the body weight of the C57BL/6J mouse, the most commonly used mouse strain for metabolic studies, increases with age, peaking at ~9 months 133 , and older C57BL/6J mice (22 months) have reduced lean mass and increased fat mass compared with young 3-month-old mice 134 .In both rats and mice, fasting glucose levels are mostly stable throughout life, but whereas glucose tolerance generally worsens with age in rats, mice are less affected [135][136][137][138][139][140] .In fact, 2-year-old male C57BL/6J mice were significantly more glucose tolerant than their 5-month-old counterparts 138 .Consistent with these findings, glucosestimulated insulin release from the pancreas decreases with age in rats, but not in mice 137,138 ."
+                }
+            ],
+            "b1a1282d-421f-494a-b9df-5c3c9e1e2540": [
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "All mice h o m o z y g o u s for t h e d i a b e t e s\ngene (db/db) b e c o m e diabetic, t h e first d i s t i n g u i s h i n g\nf e a t u r e being a m a r k e d t e n d e n c y to o b e s i t y w i t h large\nf a t d e p o s i t i o n s o b s e r v e d in t h e a x i l l a r y a n d i n g u i n a l\nregions a t a b o u t 3 t o 4 weeks of age."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "In many of these diabetic mice\nblood sugar concentration tends to increase gradually\nbetween 5 and 12 weeks of age, after which it may rise\nsharply to over 500 rag/100 ml of blood almost overnight. The diabetic condition, thus, appears to develop\nin two phases, an early one when there is some regulation of blood sugar concentration, and a later stage\ncharacterized by a marked increase in hyperglycemia\nand a complete loss of metabolic control. A few exceptional diabetics, usually females, exhibit\na pattern similar to that shown in Fig. 3. Although\n16\n240\n\nD.L. COLEMANand K.P."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Results\nAll mice homozygous for the trait, diabetes (db),\ndevelop an abnormal and characteristic deposition of\nfat beginning at 3 to 4 weeks of age, making their early\nidentification possible. The difference in size and\nappearance of litter-mate 6-week old mice, one normal\nand one diabetic, is shown in Fig. 1. Weight increases\n\nFig. 1. C57BL/Ks-db litter-mates a t 6 weeks."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "of age; m o r e o f t e n this e l e v a t i o n occurs b e t w e e n 5\na n d 8 weeks. I n older d i a b e t i c mice b l o o d sugar\nc o n c e n t r a t i o n s g r e a t e r t h a n 600 m g / 1 0 0 m l are n o t\n\nu n c o m m o n ."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "I n older mice with blood sugar concentrations over 250 rag/100 ml, injections of up t o 100 units /\n100 g were completely ineffective in reducing blood sugar\nto normal levels. Continued treatment of young diabetic\nmice with daily injections of insulin, although controlling Mood sugar concentrations initially, did not prevent or delay either the obesity or the uncontrollable\nhigh blood sugar concentrations, which usually develop\nat about 6 to 8 weeks of age."
+                },
+                {
+                    "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                    "text": "Although the early onset of diabetes in db mice\ncoincides with t h a t in juvenile diabetes in man, the\nsymptoms of obesity and elevated serum insulin are\nmore suggestive of the pattern of development observed in the maturity-onset type of diabetes. As yet,\nnone of the lesions associated with advanced diabetes\nin humans such as retinopathies, cardiovascular and\nkidney lesions have been observed, possibly because\nof the early onset of the diabetes and the relatively\nrapid deterioration and death of these mice."
+                }
+            ],
+            "c24330f7-9f82-404a-86d5-a16d814bb754": [
+                {
+                    "document_id": "c24330f7-9f82-404a-86d5-a16d814bb754",
+                    "text": "\n\nTo screen for genes that show correlation with different phenotypic outcome in diabetic mouse models, we used the cross-sectional design and performed microarray analysis on 24-wk-old STZ-treated and db/db mice with established renal pathology.In parallel with the functional genomics characterization, each individual mouse underwent a detailed renal phenotype analysis.Mice that were treated with low doses of STZ developed diabetes and moderately severe albuminuria (twice the control).In mice with C57B6/J background, the mesangial changes were mild or absent.Mice with 129SvJ genetic background developed significant glomerular changes.However, these were not significantly different from the agematched controls (K.Sharma, K. Susztak, and E.P. Bo ¨ttinger, unpublished observations).The db/db mice became insulin resistant and developed diabetes at approximately 8 wk of age.Albuminuria was detected as early as 3 to 4 wk after the development of hyperglycemia.The glomerular histology was characterized by severe diffuse mesangial expansion, as previously reported (49)."
+                },
+                {
+                    "document_id": "c24330f7-9f82-404a-86d5-a16d814bb754",
+                    "text": "Renal lesions in diabetic mouse models\n\nDb/db mice, which have a recessive mutation in the hypothalamic leptin receptor, develop obesity at 4 wk of age and type 2 diabetes at approximately 8 wk of age.In C57BL/6J background, the diabetes and the obesity are usually less severe than in the C57BL/KsJ background (44).Kidneys are generally enlarged in this mouse strain, and structural glomerular changes (e.g., diffuse glomerulosclerosis, GBM thickening) occur without evidence of tubulointerstitial disease (40).Glomerular lesions of the KK mice are characterized by diffuse and nodular mesangial sclerosis without evidence of tubular disease (45).The lack of reliable mouse models prompted the National Institute of Diabetes and Digestive and Kidney Diseases to fund a consortium for the development and phenotyping of new diabetic mouse models that would resemble closely human DNP."
+                }
+            ],
+            "c802cb60-1a15-4962-8e6d-f06608c00a54": [
+                {
+                    "document_id": "c802cb60-1a15-4962-8e6d-f06608c00a54",
+                    "text":"In total, about\n360 male mice (10 for each strain) were fed with either a regular\nchow diet (CD) or a high-fat diet (HFD) to induce obesity and\nassociated metabolic stress. At 20 weeks of age, a test meal\nbolus was administered orally, and postprandial BAs and blood\nglucose levels were analyzed at three different time points (before\nand 30 or 60 min after gavage). Nine weeks later, the mice were\nsacrificed 4 h after feeding, a time point in which the main metabolic adaptive processes in response to BA-mediated food intake\nare captured."
+                }
+            ],
+            "ed1a5572-124a-4824-8b9c-5a540e5d6092": [
+                {
+                    "document_id": "ed1a5572-124a-4824-8b9c-5a540e5d6092",
+                    "text": "Assessment of Diabetes\n\nMice were monitored for the development of diabetes as described previously (Wicker et al. 1994)."
+                }
+            ]
+        },
+        "data_source": [
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "In many of these diabetic mice\nblood sugar concentration tends to increase gradually\nbetween 5 and 12 weeks of age, after which it may rise\nsharply to over 500 rag/100 ml of blood almost overnight.  The diabetic condition, thus, appears to develop\nin two phases, an early one when there is some regulation of blood sugar concentration, and a later stage\ncharacterized by a marked increase in hyperglycemia\nand a complete loss of metabolic control.\n A few exceptional diabetics, usually females, exhibit\na pattern similar to that shown in Fig.  3.  Although\n16\n240\n\nD.L.  COLEMANand K.P."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "Results\nAll mice homozygous for the trait, diabetes (db),\ndevelop an abnormal and characteristic deposition of\nfat beginning at 3 to 4 weeks of age, making their early\nidentification possible.  The difference in size and\nappearance of litter-mate 6-week old mice, one normal\nand one diabetic, is shown in Fig.  1.  Weight increases\n\nFig.  1.  C57BL/Ks-db litter-mates a t 6 weeks."
+            },
+            {
+                "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                "section_type": "main",
+                "text": "\n\nAgeing likewise affects metabolic parameters in rodents.Analogous to what occurs in humans, the body weight of the C57BL/6J mouse, the most commonly used mouse strain for metabolic studies, increases with age, peaking at ~9 months 133 , and older C57BL/6J mice (22 months) have reduced lean mass and increased fat mass compared with young 3-month-old mice 134 .In both rats and mice, fasting glucose levels are mostly stable throughout life, but whereas glucose tolerance generally worsens with age in rats, mice are less affected [135][136][137][138][139][140] .In fact, 2-year-old male C57BL/6J mice were significantly more glucose tolerant than their 5-month-old counterparts 138 .Consistent with these findings, glucosestimulated insulin release from the pancreas decreases with age in rats, but not in mice 137,138 ."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "All mice h o m o z y g o u s for t h e d i a b e t e s\ngene (db/db) b e c o m e diabetic, t h e first d i s t i n g u i s h i n g\nf e a t u r e being a m a r k e d t e n d e n c y to o b e s i t y w i t h large\nf a t d e p o s i t i o n s o b s e r v e d in t h e a x i l l a r y a n d i n g u i n a l\nregions a t a b o u t 3 t o 4 weeks of age."
+            },
+            {
+                "document_id": "0ffd1f4d-683e-4e44-a6b2-8d2d9849c45d",
+                "section_type": "main",
+                "text": "Diabetes incidence study. Mice were kept for 20-28 weeks and tested for diabetes monthly by blood glucose and weekly by urine assessment, with a positive indication being followed by twice-weekly blood testing.Mice were diagnosed as diabetic when the blood glucose concentration was over 260 mg/dl (14.4 mM) after 2-3 h of fasting for two sequential tests.Glucose and insulin tolerance tests were performed by injecting glucose (2 g/kg body weight) or insulin (1 U/kg body weight) intraperitoneally in mice fasted for 6-7 h.Tail vein blood was tested by a Contour glucometer.Assessments of plasma insulin, proinsulin and C-peptide levels were performed using commercial ELISA kits, according to the manufacturer's instructions (insulin, proinsulin and C-peptide mouse ELISA kits, R&D Systems Quantikine).Assays were performed with blinding, with mice coded by number until experimental end."
+            },
+            {
+                "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                "section_type": "main",
+                "text": "\n\nThe Diabetes (db) .Mouse (Chromosome 4).Diabetes (db), an autosomal recessive mutation, occurred in the C57BL/KsJ (BL/Ks) inbred strain and on this background is characterized by obesity, hyperphagia, and a severe diabetes with marked hyperglycaemia [7,22].Increased plasma insulin concentration is observed as early as 10 days of age [10].The concentration of insulin peaks at 6 to 10 times normal by 2 to 3 months of age then drops precipitously to near normal levels.Prior to the fall in plasma insulin concentration, the most consistent morphological feature of the islets of Langerhans appears to be hyperplasia and hypertrophy of the beta cells in an attempt to produce sufficient insulin to control blood glucose concentration at physiological levels.The drop in plasma insulin concentration is concomitant with islet atrophy and rapidly rising blood glucose concentrations that remain over 400 mg per 100 ml until death at 5 to 8 months [7].Compared with other obesity mutants the diabetic condition is more severe and the lifespan is markedly decreased."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "of age; m o r e o f t e n this e l e v a t i o n occurs b e t w e e n 5\na n d 8 weeks.  I n older d i a b e t i c mice b l o o d sugar\nc o n c e n t r a t i o n s g r e a t e r t h a n 600 m g / 1 0 0 m l are n o t\n\nu n c o m m o n ."
+            },
+            {
+                "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                "section_type": "main",
+                "text": "\n\nThe animal models available for diabetes research (Table 1) are most often more like maturityonset diabetes in man.Obesity is a consistent factor and insulinopaenia is rare.However, the time of gene expression at about two weeks of age is within the time period of juvenile expression.The severity and clinical course of the diabetes produced depends on the interaction of the mutant gene with the inbred background rather than the action of the gene itself.Thus on one inbred background a well-compensated, maturity onset type diabetes, compatible with near normal life is observed whereas on another inbred background the syndrome presents as a juvenile-type diabetes with insulinopaenia, islet cell degeneration, marked hyperglycaemia, some ketosis and a much shortened lifespan.Unfortunately, vascular, retinal and the other complications of diabetes are not seen consistently in these rodent syndromes.It seems that the severely diabetic animal either does not live long enough to develop these complications or that rodents are particularly resistant to those complications that commonly afflict human diabetics.Several comprehensive bibliographies and excellent reviews of the various studies carried out with each of these syndromes in animals have been published [2,3,19,30,31,32].This presentation will be restricted primarily to the research undertaken by my colleagues and myself with the two mouse mutations; diabetes (db), and obese (ob).Both mutations have been extensively studied by numerous investigators in attempts to define the primary lesion causing the syndrome.As yet, the primary defect remains illusive, although several possibilities are becoming increasingly plausible in the light of current research.Although the metabolic abnormalities associated with both obese and diabetes have many similarities with regard to the overall progression of the obesity-diabetes state, the documentation of two single genes on separate chromosomes makes it unlikely that the two syndromes are caused by the same primary lesion.However, the marked similarity between the two mutants when maintained on the same genetic background implies that the defects may occur in the same metabolic pathway."
+            },
+            {
+                "document_id": "1bf337a1-ffed-4199-a11f-c5a62df47980",
+                "section_type": "main",
+                "text": "\n\nSubsequently, genetic dissection of the diabetes-associated traits in the male BC1 progeny obtained from a cross between (normal B6 female ϫ diabetic TH male)F1 female and diabetic TH male mice (B6 cross) was carried out.Because of the sexual dimorphism, with respect to NIDDM onset, we used diabetic TH male mice as breeders to ensure the presence of a mutant allele(s) and targeted our genetic dissection using only male BC1 progeny.In male BC1 mice hyperglycemia developed at approximately 20 weeks of age and was sustained through a 30-week period studied.Based on these data, we measured plasma glucose levels three times in biweekly intervals (to minimize phenotyping error) between 20 and 26 weeks of age, and the mean of the three measurements was used for genetic analysis.Body weights were measured at 20 weeks.At the end of the study (26 weeks), plasma insulin levels and nasal-anal lengths were measured, and the five regional fat pads were dissected and weighed from a subset of 133 mice.In total, 206 male BC1 mice were collected, and individual mice were genotyped with 92 SSLP markers at approximately 20-cM intervals (covering ϳ96% of the genome)."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "I n older mice with blood sugar concentrations over 250 rag/100 ml, injections of up t o 100 units /\n100 g were completely ineffective in reducing blood sugar\nto normal levels.  Continued treatment of young diabetic\nmice with daily injections of insulin, although controlling Mood sugar concentrations initially, did not prevent or delay either the obesity or the uncontrollable\nhigh blood sugar concentrations, which usually develop\nat about 6 to 8 weeks of age."
+            },
+            {
+                "document_id": "29e232a4-a580-411d-83a3-7ff6a4e8f0ad",
+                "section_type": "main",
+                "text": "\n\nDiabetes-related clinical traits for 275 B6XBTBR-ob/ ob F2 male mice at 10 weeks of age."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "Although the early onset of diabetes in db mice\ncoincides with t h a t in juvenile diabetes in man, the\nsymptoms of obesity and elevated serum insulin are\nmore suggestive of the pattern of development observed in the maturity-onset type of diabetes.  As yet,\nnone of the lesions associated with advanced diabetes\nin humans such as retinopathies, cardiovascular and\nkidney lesions have been observed, possibly because\nof the early onset of the diabetes and the relatively\nrapid deterioration and death of these mice."
+            },
+            {
+                "document_id": "ed1a5572-124a-4824-8b9c-5a540e5d6092",
+                "section_type": "main",
+                "text": "Assessment of Diabetes\n\nMice were monitored for the development of diabetes as described previously (Wicker et al. 1994)."
+            },
+            {
+                "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                "section_type": "main",
+                "text": "\n\nBB rats usually develop diabetes just after puberty and have similar incidence in males and females.Around 90% of rats develop diabetes between 8 and 16 weeks of age.The diabetic phenotype is quite severe, and the rats require insulin therapy for survival.Although the animals have insulitis with the presence of T cells, B cells, macrophages and NK cells, the animals are lymphopenic with a severe reduction in CD4 + T cells and a near absence of CD8 + T cells (Mordes et al., 2004).Lymphopenia is not a characteristic of type 1 diabetes in humans or NOD mice (Mordes et al., 2004) and is seen to be a disadvantage in using the BB as a model of type 1 diabetes in humans.Also, in contrast to NOD mice, the insulitis is not preceded by peri-insulitis.However, the model has been valuable in elucidating more about the genetics of type 1 diabetes (Wallis et al., 2009), and it has been suggested that it may be the preferable small animal model for islet transplantation tolerance induction (Mordes et al., 2004).In addition, BB rats have been used in intervention studies (Hartoft-Nielsen et al., 2009;Holmberg et al., 2011) and studies of diabetic neuropathy (Zhang et al., 2007)."
+            },
+            {
+                "document_id": "43d5140a-ad39-438e-8ba6-76dd3c7c42bc",
+                "section_type": "main",
+                "text": "However, in other contexts, B6 mice are more likely\nthan D2 to spontaneously develop diabetic syndromes,\nAging Clin Exp Res\n\nindicating that risk factors exist on both genetic backgrounds [29].  QTL mapping studies indicate that these\nmurine metabolic traits have a complex genetic architecture that is not dominated by any single allele [29–31],\nmuch like humans [32, 33].\n Prior work identified candidate genes on Chr 13 that might\nunderlie diabetes-related traits, including RASA1, Nnt, and\nPSK1.  RASA1 show strong sequence differences between\nB6 and D2 strains [34].  Rasche et al."
+            },
+            {
+                "document_id": "20771d36-aa57-46ad-b3c6-80f5b038ba43",
+                "section_type": "main",
+                "text": "\n\nDiabetes-obesity syndromes in rodents"
+            },
+            {
+                "document_id": "c802cb60-1a15-4962-8e6d-f06608c00a54",
+                "section_type": "main",
+                "text":"In total, about\n360 male mice (10 for each strain) were fed with either a regular\nchow diet (CD) or a high-fat diet (HFD) to induce obesity and\nassociated metabolic stress.  At 20 weeks of age, a test meal\nbolus was administered orally, and postprandial BAs and blood\nglucose levels were analyzed at three different time points (before\nand 30 or 60 min after gavage).  Nine weeks later, the mice were\nsacrificed 4 h after feeding, a time point in which the main metabolic adaptive processes in response to BA-mediated food intake\nare captured."
+            },
+            {
+                "document_id": "52990c69-609c-448e-9f2c-36e1655ca6db",
+                "section_type": "main",
+                "text":"In total, about\n360 male mice (10 for each strain) were fed with either a regular\nchow diet (CD) or a high-fat diet (HFD) to induce obesity and\nassociated metabolic stress.  At 20 weeks of age, a test meal\nbolus was administered orally, and postprandial BAs and blood\nglucose levels were analyzed at three different time points (before\nand 30 or 60 min after gavage).  Nine weeks later, the mice were\nsacrificed 4 h after feeding, a time point in which the main metabolic adaptive processes in response to BA-mediated food intake\nare captured."
+            },
+            {
+                "document_id": "1bf337a1-ffed-4199-a11f-c5a62df47980",
+                "section_type": "main",
+                "text": "\n\nTo investigate the effects of genetic background variation on the measured traits, we also conducted a genetic cross using CAST as the diabetes-resistant strain (CAST cross).In the male BC1 progeny of this CAST cross, the onset of the hyperglycemia was slightly delayed compared to the B6 cross; 27% vs 45% of the male BC1 mice showed Ͼ300 mg/dl plasma glucose at 20 weeks.In the CAST cross the hyperglycemia was also maintained throughout the 30-week period studied.Therefore, the mean of three glucose measurements between 22 and 28 weeks of age for each BC1 progeny was used for genetic analysis.Body weights were measured at 24 weeks.At the end of the study (28 weeks), plasma insulin levels and nasal-anal lengths were measured, and five fat pads were dissected and weighed.In total, 95 male BC1 mice were collected and genotyped individually with 69 SSLP markers spaced through out the genome."
+            },
+            {
+                "document_id": "a551b815-1d9d-4dae-a194-8f77e317b506",
+                "section_type": "main",
+                "text": "Diabetes monitoring\n\nCohorts of female mice were housed in an SPF facility and tested once a week for elevated urinary glucose (>110 mmol/L) using Diastix reagent strips (Bayer Australia, Ltd.) over a 300-d time course.Three consecutive elevated readings indicated the onset of diabetes.Pairwise comparisons of the diabetes incidence between mouse strains were done using the log-rank test."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "Two of the mice had\nblood sugar concentrations only slightly above normal\nat the end of the 3 month period, while two others\nstabilized at the starting blood sugar concentrations.\n Weight gains of diabetic mice on this ration, were,\non the whole, variable but somewhat smaller than\nthose seen on the chow ration.  However, those diabetic\nmice that showed the greatest decrease in rate of\nweight gain did not necessarily have the lowest blood\nsugar concentrations at the end of the treatment\n\nperiod."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "The diabetic mouse on the\nright weighs 50 per cent more t h a n the control mouse on the left and shows\ntypical f a t deposition\n\nwith age and concomitant elevations of blood sugar\nconcentration have been described previously [11]\nand will not be dealt with in detail here.  Although\nthere are individual variations in the age of onset of\ndiabetes and the rate of increase in weight and blood\nsugar concentration, there is a general pattern, which\nis depicted in Fig.  2."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "They are probably typical of those\nfew mice that develop diabetes more slowly and do\nnot tax the pancreatic insulin supply as severely early\nin the course of the disease.\n Attempts at therapy.  Attempts to keep the weight\nof diabetic mice within normal limits by total or\npartial food restriction resulted in premature deaths.\n After it was discovered that gluconeogenesis is greatly\nincreased in diabetic mice, attempts were made to\nregulate blood sugar levels and also weight gain by\nfeeding rations devoid of carbohydrate."
+            },
+            {
+                "document_id": "8cb13eb6-a9b9-4f9f-8680-9b8add1c453d",
+                "section_type": "main",
+                "text": "\n\nM16 mouse: M16 mouse is a new model for obesity and type 2 diabetes which results from long-term selection for 3 to 6 wk weight gain from an Institute of Cancer Research, London, UK (ICR) base population.M16 mice exhibit early onset of obesity and are larger at all ages characterized by increased body fat percentage, fat cell size, fat cell numbers, and organ weights.These mice also exhibit hyperphagia, accompanied by moderate obesity, and are hyperinsulinaemic, hyperleptinaemic and hypercholesterolaemic relative to ICR.Both M16 males and females are hyperglycaemic relative to ICR, with 56 and 22 per cent higher fasted blood glucose levels at 8 wk of age.M16 mice represent an outbred animal model to facilitate gene discovery and pathway regulation controlling early onset polygenic obesity and type 2 diabetic phenotypes.Phenotypes prevalent in the M16 model, with obesity and diabesity exhibited at a young age, closely mirror current trends in human populations 36 ."
+            },
+            {
+                "document_id": "38be907c-70ea-45f2-a8c1-7aed203a5256",
+                "section_type": "main",
+                "text": "Mice and Intervention Protocol\n\nProtocols were approved by the Rutgers University Institutional Care and Use Committee and followed federal and state laws.Five-week-old male C57BL/6J mice (10-20 g) were purchased from The Jackson Laboratory (Bar Harbor, ME) and fed a standard chow diet ad libitum (cat.no.5015; Purina) during their 1-week acclimatization period.Animals were housed, five per cage, with free access to water in a room with a temperature of 24 6 1°C and a 12:12-h light:dark cycle (7:00 A.M.-7:00 P.M.).At 6 weeks of age, oral glucose tolerance tests (OGTTs) were performed on 45 mice.The area under the curve (AUC) corresponding to the OGTT data from each mouse was calculated, and a mean AUC for each cage of five mice was determined.The nine cages were separated into three groups based on the average AUCs calculated for each cage so that each group of 15 mice would be similar at baseline with respect to oral glucose tolerance.This method of assignment was used as a way to normalize oral glucose tolerance at baseline and also keep mice in their original cage placements, as switching the animals around can sometimes lead to aggressive behavior in the new group.Mice were fed GP-SPI diet, SPI diet, or HFD (n = 15 mice/diet group) for a total of 13 weeks.The HFD group was used mainly as a control to monitor body weight gain and food intake between groups.Various end points were measured during the intervention period as described below.A second group of 5-week-old male C57BL/6J mice (10-20 g) (n = 10) was purchased at a later time to have an LFD cohort with which to compare body weights, food intake, and microbiome samples.These LFD-fed mice were similarly housed (five per cage) in the same experimental room and space.Mice were initially fed a regular chow diet ad libitum for 1 week and then switched to the LFD for 12 weeks with OGTT performed at the same intervals."
+            },
+            {
+                "document_id": "02a9d5a9-41a4-4d70-b828-c4bda13fa01c",
+                "section_type": "main",
+                "text": "Methods\n\nMouse models of diabetes.All animal studies were conducted according to a protocol approved by the Institutional Animal Care and Use Committee at the Beckman Research Institute of City of Hope.Male type-2 diabetic db/db mice (T2D leptin receptor deficient; Strain BKS.Cg-m þ / þ lepr db/J) and genetic control non-diabetic db/ þ mice (10-12 weeks old), were obtained from The Jackson Laboratory (Bar Harbor, ME) 11,17 .Male C57BL/6 mice (10 week old, The Jackson Laboratory) were injected with 50 mg kg À 1 of STZ intraperitoneally on 5 consecutive days.Mice injected with diluent served as controls.Diabetes was confirmed by tail vein blood glucose levels (fasting glucose 4300 mg dl À 1 ).Each group was composed of five to six mice.Mice were sacrificed at 4-5 or 22 (ref.17) weeks post-induction of diabetes.Glomeruli were isolated from freshly harvested kidneys by a sieving technique 11,17 in which renal capsules were removed, and the cortical tissue of each kidney separated by dissection.The cortical tissue was then carefully strained through a stainless sieve with a pore size of 150 mm by applying gentle pressure.Enriched glomerular tissue below the sieve was collected and transferred to another sieve with a pore size of 75 mm.After several washes with cold PBS, the glomerular tissue remaining on top of the sieve was collected.Pooled glomeruli were centrifuged, and the pellet was collected for RNA, protein extraction or for preparing MMCs 11,17 .Male Chop-KO mice were also obtained from the Jackson Laboratory (B6.129S(Cg)-Ddit3 tm2.1Dron /J).Based on our previous experience, sample size was determined to have enough power to detect an estimated difference between two groups.With minimum sample size of 5 in each group, the study can provide at least 80% power to detect an effect size of 2 between diabetic and non-diabetic groups or treated and untreated groups at the 0.05 significant level using two-sided t-test.Since we expected larger variation between groups especially for the mice with oligo-injection, we used more than 5 mice in each group (with 6 mice in each group, we have 80% power to detect an effect size of 1.8 at the 0.05 confidence level).Our actual results with current sample size did show statistical significance for majority of the miRNAs in the cluster.Histopathological and biochemical analysis of tissues or cells derived from animal models were performed by investigators masked to the genotypes or treatments of the animals."
+            },
+            {
+                "document_id": "8e92b2e3-b525-4c17-a0cb-5ca740a74c66",
+                "section_type": "main",
+                "text": "\n\nMice of the KK strain exhibit a multigenic syndrome of hyperphagia, moderate obesity, hyperinsulinemia, and hyperglycemia (Ikeda 1994;Nakamura andYamada 1963, 1967;Reddi and Camerini-Davalos 1988).Most KK males develop non-insulindependent diabetes after 4 months of age (Leiter and Herberg 1997).While KK females are much less diabetes prone, they do become obese.Previous analyses indicate that the inheritance of obesity and diabetes phenotypes in KK mice is multigenic (Nakamura and Yamada 1963;Reddi and Camerini-Davalos 1988).In the present study, we have searched for QTLs affecting male and female adiposity and related traits in an intercross between strains KK and B6."
+            },
+            {
+                "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                "section_type": "main",
+                "text": "\n\nSummary of rodent models of type 2 diabetes"
+            },
+            {
+                "document_id": "c24330f7-9f82-404a-86d5-a16d814bb754",
+                "section_type": "main",
+                "text": "\n\nTo screen for genes that show correlation with different phenotypic outcome in diabetic mouse models, we used the cross-sectional design and performed microarray analysis on 24-wk-old STZ-treated and db/db mice with established renal pathology.In parallel with the functional genomics characterization, each individual mouse underwent a detailed renal phenotype analysis.Mice that were treated with low doses of STZ developed diabetes and moderately severe albuminuria (twice the control).In mice with C57B6/J background, the mesangial changes were mild or absent.Mice with 129SvJ genetic background developed significant glomerular changes.However, these were not significantly different from the agematched controls (K.Sharma, K. Susztak, and E.P. Bo ¨ttinger, unpublished observations).The db/db mice became insulin resistant and developed diabetes at approximately 8 wk of age.Albuminuria was detected as early as 3 to 4 wk after the development of hyperglycemia.The glomerular histology was characterized by severe diffuse mesangial expansion, as previously reported (49)."
+            },
+            {
+                "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                "section_type": "main",
+                "text": "\n\nLeptin-receptor-deficient db/db mice on the C57BLKS/J background largely recapitulate the obesity phenotype of the ob/ob mouse.The nomenclature of db (that is, diabetic) stems from the original observation of marked hyperglycaemia in these mice.db/db mice are hyperphagic and have reduced energy expenditure, leading to early-onset obesity 195 .They are also hypothermic, have decreased linear growth owing to GH deficiency and are infertile 195 , and leptin levels in db/db mice are markedly elevated 205 .Hyperinsulinaemia can be detected as early as 10 days of age, and insulin levels continue to increase until 3 months of age.The hyperinsulinaemia is accompanied by hyperplasia and hypertrophy of the pancreatic β-cells.After 3 months, levels of insulin in db/db mice drop profoundly, which is concomitant with the atrophy of β-cells.Consequently, marked and sustained hyper glycaemia with blood glucose values >400 mg/dl promotes premature death around 5-8 months of age.However, the db/db model does not capture all the diabetic complications observed in the human disease.Vascular and retinal complications, for example, are rarely documented in db/db mice, likely because of the dramatically shortened lifespan.Notably, db/db mice on a C57BL/6J background exhibit only mild diabetic symptoms and a normal lifespan, despite marked obesity 78,79,195 ."
+            },
+            {
+                "document_id": "7d5b12ef-7b17-4b49-8da2-1a4179601520",
+                "section_type": "main",
+                "text": "LEW.1AR1/Ztm-Iddm Rats\n\nIn this strain, type 1 diabetes develops at age 2 months as result of immune damage caused by heavy infiltration of the islets of Langerhans by B and T lymphocytes, macrophages and NK cells and beta cell destruction by apoptosis [85][86][87].The mutation in this strain resides in the Dock8 gene, which encodes a member of the DOCK180 protein superfamily of guanine nucleotide exchange factors that act as activators of Rac/Rho family GTPases [88]."
+            },
+            {
+                "document_id": "77daf125-3e88-41fe-92fd-71a9ce9c6671",
+                "section_type": "main",
+                "text": "\n\nTo achieve a slow pathogenesis of T2DM, young adult mice 284 or rats 285 are fed a high-fat or Western diet to elicit DIO and insulin resistance.Single or multiple injections with low-dose streptozotocin (~30-40 mg/kg intraperitoneally) then elicit partial loss of β-cells, which results in hypoinsulinaemia and hyperglycaemia.Protocols are being continuously refined and likely differ between species and even strains 283 .The HFD streptozotocin rat is sensitive to metformin, further demonstrating the utility of this model 285 .Downsides of streptozotocin treatment include liver and kidney toxicity and mild carcinogenic adverse effects (TABLE 1)."
+            },
+            {
+                "document_id": "c24330f7-9f82-404a-86d5-a16d814bb754",
+                "section_type": "main",
+                "text": "Renal lesions in diabetic mouse models\n\nDb/db mice, which have a recessive mutation in the hypothalamic leptin receptor, develop obesity at 4 wk of age and type 2 diabetes at approximately 8 wk of age.In C57BL/6J background, the diabetes and the obesity are usually less severe than in the C57BL/KsJ background (44).Kidneys are generally enlarged in this mouse strain, and structural glomerular changes (e.g., diffuse glomerulosclerosis, GBM thickening) occur without evidence of tubulointerstitial disease (40).Glomerular lesions of the KK mice are characterized by diffuse and nodular mesangial sclerosis without evidence of tubular disease (45).The lack of reliable mouse models prompted the National Institute of Diabetes and Digestive and Kidney Diseases to fund a consortium for the development and phenotyping of new diabetic mouse models that would resemble closely human DNP."
+            },
+            {
+                "document_id": "b954224b-333b-4d82-bb9a-6e5b3837849e",
+                "section_type": "main",
+                "text": "\n\nAnimal models of Type 2 diabetes mellitus"
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "HV~MEI,: Studies with the Mutation, Diabetes\n\nalmost undetectable.  Similarly, the activities of citrate\nlyase and glucose-6-phosphate dehydrogenase were\ngreatly decreased in these older diabetic as compared\n\nDiabetologia\n\nthe diabetic mice have attained m a x i m u m weight,\nafter which no further accumulation of adipose tissue\nis noted.\n\n Fig.  8."
+            },
+            {
+                "document_id": "770beab7-59a4-4bbe-94a5-79a965ab696a",
+                "section_type": "main",
+                "text": "\n\nSummary of rodent models of type 1 diabetes"
+            },
+            {
+                "document_id": "8cb13eb6-a9b9-4f9f-8680-9b8add1c453d",
+                "section_type": "main",
+                "text": "\n\nALS/Lt mouse: Alloxan susceptible (ALS) new mouse model is produced by inbreeding outbred CD-1 mice (a commercial stock of ICR mice from which inbred NSY and NON mouse are developed), with selection for susceptibility to alloxan (ALX), a generator of highly reactive oxygen free radicals and a potent betacell toxin.Initially, the type 2 diabetes predisposition of ALS mouse was recognized by congenic analysis of the yellow mutation (Ay) at the agouti locus on chromosome 2. Indeed, in ALS/Lt (a substrain maintained at Jackson Laboratory, Bar Habor) mice, hyperinsulinaemia and impaired glucose tolerance develop spontaneously between 6 and 8 wk of age in alloxan-untreated males.This mouse model with reduced ability to diffuse free radical stress is of obvious interest because free radical-mediated damage is implicated in the pathogenesis and complications of both type 1 and type 2 diabetes 62 ."
+            },
+            {
+                "document_id": "b1a1282d-421f-494a-b9df-5c3c9e1e2540",
+                "section_type": "main",
+                "text": "I n the latter three,\nbody weights were stabilized at that seen when treatment was initiated.  However, no actual weight losses\nwere seen and the relative obesity of these mice was\nstill apparent.\n Discussion\nThe marked tendency to obesity,\nactivities of several insulin-dependent\nthe degranulation of fl-cells of the islets\nobserved in the younger diabetic mice\n\nthe increased\nenzymes, and\nof Langerhans\nare quite con-\nVol.  3, 2Vo.  2, 1967\n\nD.L.  COLEMAXand K.P.  I-IuMM]~L:Studies with the Mutation, Diabetes\n\nsistent with the increased levels of circulating insulin\nfound in these mice."
+            },
+            {
+                "document_id": "29e232a4-a580-411d-83a3-7ff6a4e8f0ad",
+                "section_type": "main",
+                "text": "Results\n\nWe generated an F2 inter-cross between diabetes-resistant (B6) and diabetes-susceptible (BTBR) mouse strains, made genetically obese in response to the Lep ob mutation [24].The cross consisted of .500mice, evenly split between males and females.A comprehensive set of ,5000 genotype markers were used to genotype each F2 mouse (,2000 informative SNPs were used for analysis), and the expression levels of ,40 K transcripts (corresponding to 25,901 unique genes) were monitored in five tissues (adipose, liver, pancreatic islets, hypothalamus, and gastroc (gastrocnemius muscle)) that were harvested from each mouse at 10 weeks of age.In addition to gene expression, several key T2D-related traits were determined for each mouse.The medians, and 1st and 3rd quartiles for the following traits: body weight, the number of islets harvested per pancreas, HOMA, plasma insulin, glucose, triglyceride, and C-peptide are listed in Table 1."
+            },
+            {
+                "document_id": "7e809821-000d-4fff-971d-264650e3612b",
+                "section_type": "main",
+                "text": "\n\nRodent models of diabetic retinopathy iii)"
+            }
+        ],
+        "document_id": "75D95A4CEF90AC3DEAB5CD33E1C3DDD9",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "db/db&mice",
+            "diabetes",
+            "onset",
+            "age",
+            "obesity",
+            "hyperglycemia",
+            "C57BL/KsJ",
+            "C57BL/6J",
+            "insulin&resistance",
+            "albuminuria"
+        ],
+        "metadata": [
+            {
+                "object": "Data suggest that secretion of insulin by beta-cells is related to insulin resistance in complex manner; insulin secretion is associated with type 2 diabetes in obese and non-obese subjects, but insulin resistance is associated with type 2 diabetes only in non-obese subjects. Chinese subjects were used in these studies.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab210958"
+            },
+            {
+                "object": "Data suggest that circulating IGF-1 levels are higher, insulin resistance is worse, and lean mass is higher in mice with obesity induced at earlier age modeling peripubertal-onset obesity as compared to older mice modeling adult-onset obesity.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab205540"
+            },
+            {
+                "object": "We used young, leptin receptor deficient Db/Db mice to mimic the effect of diet and diabetes on adolescents. Db/Db and Control mice were fed either Western or Control diets, and were sacrificed at 3 months of age. Db/Db mice were obese, while only female mice developed diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab1014541"
+            },
+            {
+                "object": "The present study shows that elevated plasma levels of RBP4 were associated with diabetic retinopathy and vision-threatening diabetic retinopathy in Chinese patients with type 2 diabetes, suggesting a possible role of RBP4 in the pathogenesis of diabetic retinopathy complications. Lowering RBP4 could be a new strategy for treating type 2 diabetes with diabetic retinopathy .",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab851311"
+            },
+            {
+                "object": "Blockade of IL-27 significantly delayed the onset of diabetic splenocyte-transferred diabetes, while IL-27-treated diabetic splenocytes promoted the onset of autoimmune diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab103352"
+            },
+            {
+                "object": "The mean age of Parkinsonism onset among LRRK2 G2385R carriers was 42.7 years old for early-onset compared to 74.3 for late-onset patients. LRRK2 G2385R mutation appears to be as prevalent among early-onset as late-onset patients.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab833283"
+            },
+            {
+                "object": "The SORBS1 GG genotype of rs2281939 was associated with a higher risk of diabetes at baseline, an earlier onset of diabetes, and higher steady-state plasma glucose levels in the modified insulin suppression test. The minor allele T of rs2296966 was associated with higher prevalence and incidence of diabetes, an earlier onset of diabetes, and higher 2-h glucose during oral glucose tolerance test in Chinese patients.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab872946"
+            },
+            {
+                "object": "Galectin-3 and S100A9 are overexpressed in Pancreatic cancer-associated diabetes tumors and mediate insulin resistance. Galectin-3 and S100A9 distinguish Pancreatic cancer-associated diabetes from type 2 diabetes in subjects with new-onset diabetes.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab310949"
+            },
+            {
+                "object": "This study investigates the involvement of a 14-bp deletion polymorphism rs371194629 at the 3' untranslated region of HLA-G in the context of T1DM and age of onset.the deletion/deletion DEL/DEL genotype was found to be associated with an early age of onset P = 0.001, while the presence of the insertion allele INS was associated to a later age of onset of type I diabetes mellitus",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab944007"
+            },
+            {
+                "object": "Data suggest that subjects with point mutation 3243A>G in mtRNA-LeuUUR develop MIDD maternally inherited diabetes and deafness; as compared to patients with T1DM type 1 diabetes mellitus or early-onset T2DM type 2 diabetes mellitus matched for sex, age, duration of diabetes, such MIDD patients have highest rate of osteoporosis.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab211558"
+            }
+        ],
+        "question": "What is the age range in mouse for the onset of diabetes?",
+        "subquestions": null,
+        "task_id": "75D95A4CEF90AC3DEAB5CD33E1C3DDD9",
+        "usage": {
+            "chatgpt": 6475,
+            "gpt-4": 4255,
+            "gpt-4-turbo-preview": 3283
+        },
+        "user_id": 2
+    },
+    "document_id": "75D95A4CEF90AC3DEAB5CD33E1C3DDD9",
+    "task_id": "75D95A4CEF90AC3DEAB5CD33E1C3DDD9"
+}

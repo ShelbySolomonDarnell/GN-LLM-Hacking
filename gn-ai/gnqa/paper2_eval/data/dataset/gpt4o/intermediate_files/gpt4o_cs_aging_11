@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2001 - The genetics of aging.pdf",
+    "2009 - Garland_and_Rose_Experimental_Evolution.pdf",
+    "2009 - Experimental_Evolution.pdf",
+    "2015 - Great Is Their Sin.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2021 - Career Retrospective Tom Johnson?Genetics, Genomics.pdf",
+    "2019 - Genomics of 1 million parent lifespans.pdf",
+    "2018 - Sex Differences in Aging Genomic Instability.pdf"
+  ],
+  "extraction_id": [
+    "e6fb876b-e91c-505a-aa16-7b428ec61f10",
+    "7ada6b55-99c2-5e20-bf96-d153f927256c",
+    "76bae746-eabf-51ed-a01f-d32ecc89c11b",
+    "5aa7f5b9-df70-54ec-a95c-dcaefa3b617f",
+    "c9d59e72-f068-58da-be7a-71b2f51a23f3",
+    "44c57701-0d0e-5ef8-afa1-ea3a6c4742d6",
+    "ead14808-bfb7-5e32-9830-28efaae71151",
+    "dd4a6239-2e79-5b99-89ef-3e4939b87805",
+    "ff0adc7c-70ff-5b14-ba7d-a9dda60fac80",
+    "0104338d-cc9c-538f-be29-8343a64da37d"
+  ],
+  "document_id": [
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "aa9a9193-b6f3-5ef8-aefd-e01ec44abb46",
+    "496faa7f-9623-5ab7-9816-7c3755abb3aa",
+    "34821353-1b74-5ee2-ac39-66dd46f145bf",
+    "e5ae9710-3049-5327-82e4-e6626eb670c2",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "f3a26f44-f5af-5b2b-aa1c-aec2fd99f17e",
+    "f68b939c-847b-5eac-8926-24713ae43478",
+    "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f"
+  ],
+  "id": [
+    "chatcmpl-AIFhez5FFXsDDkyj8CmiEuE5k6YSr",
+    "c96b67f8-ad31-50fd-b053-07b127938ef2",
+    "1c4286b6-ede2-568b-9c18-b1e99ede17a6",
+    "e09c33ea-4139-5cc2-9cf5-a40045f26a0c",
+    "f7120061-9773-5f74-9760-5442d49fbaae",
+    "d0e74ffd-034d-5e0e-86b6-4cf0de57d774",
+    "217c3592-1622-503f-a140-fd1452083301",
+    "b3e21ac9-8df8-5119-a769-a9da82db78da",
+    "fd811aec-6e33-5078-83d5-b68bd59b5a61",
+    "de7c30f6-cce9-563d-83f4-809f2aab781b",
+    "a9434032-4a9d-54f8-a7a6-16110d1b3118"
+  ],
+  "contexts": [
+    "During the past century, remarkable progress has been  made in unveiling the mechanisms of aging. Genetic and molecular pathways that regulate healthspan and lifespan have been identified in various model organisms, provid-ing a rich knowledge base (Longo etal. 2015; Lopez-Otin etal. 2013, 2016; Singh etal. 2019). However, the focus on",
+    "series of recent breakthroughs, a number of genes capable ofaltering the aging process as a whole  or at least to a largedegree  have been identified in animal models and even a fewin humans (Finch & Ruvkun, 2001; de Magalhes, 2005; Kenyon,2005). Furthermore, multiple alleles have been examined fortheir association with human exceptional longevity (Vijg & Suh,2005). This is a fascinating and important area of research, yetthere are now so many genes being associated with aging andlongevity that keeping",
+    "Recent developments on the genetics of aging can be seen as several streams of effort. In general, humans show a relatively modest ( <50%) heritability of",
+    "One approach that has become increasingly common in the characterization of the ge-netics of aging is to isolate aging mutants, usually from mutagenesis experiments, andthen to determine the mechanistic basis for the unusual life span in the mutants. Thisapproach has led to the discovery of genes that can enhance (e.g., Maynard Smith 1958;Lin et al. 1988; reviewed in Guarente and Kenyon 2000, Kim 2007) or reduce life span(e.g., Pearl and Parker 1922). Most of the large-effect mutants affecting aging",
+    "One approach that has become increasingly common in the characterization of the ge-netics of aging is to isolate aging mutants, usually from mutagenesis experiments, andthen to determine the mechanistic basis for the unusual life span in the mutants. Thisapproach has led to the discovery of genes that can enhance (e.g., Maynard Smith 1958;Lin et al. 1988; reviewed in Guarente and Kenyon 2000, Kim 2007) or reduce life span(e.g., Pearl and Parker 1922). Most of the large-effect mutants affecting aging",
+    "genetics of aging I. What is aging? Frontiers in Genetics. doi:10.3389/fgene.2012.00134. r ose, Michael  r ., Anthony D. Long, Laurence D. Mueller, Cristina L.  r izza, Kennedy C. Matsagas,  LeeF. Greer, and Bryant  villeponteau. 2009.  e volutionary nutrigenomics. In The future of aging, eds.  G. M. Fahy, M. D. West, L. S. Coles, and S. B.  h arris. Berlin: Springer. r ushton, J.  p hillippe. 1995. Race, evolution, and behavior: A life history approach. New Brunswick, NJ:  Transaction  p ublishers.",
+    "informed by age-related disease identifies loci for exceptional human longevity. Li H, editor.  PLoS Genet. 2015. https://doi.org/10.1371/journal.pgen.  15. Polderman TJC, Benyamin B, de Leeuw CA, Sullivan PF, van Bochoven A, Visscher PM,  etal. Meta-analysis of the heritability of human traits based on fifty years of twin studies. Nat  Genet. 2015;47:7029.  16. Cellerino A, Ori A.What have we learned on aging from omics studies? Semin Cell Dev Biol.  2017;70:17789.",
+    "eries that have inspired thousands of researchers across the world  to study aging, and we acknowledge the wider significance of the  creation of a field that has the potential to transform human health. Genetics Aging is influenced by genetic factors. It may be surprising to know  that as recently as the 1970s and 1980s, the concept of modulating  Downloaded from https://academic.oup.com/biomedgerontology/article/76/7/e85/6145792 by guest on 15 October 2023",
+    "discover specific genes that directly influence how quickly people age, beyond diseases. If such genes exist, their effects were too small to be detected in this study. The next step will be to expand the study to include more participants, which will hopefully pinpoint further genomic regions and help disentangle the biology of ageing and disease. DOI: https://doi.org/10.7554/eLife.39856.002",
+    "males: what are the molecular and evolutionary causes? Aging Cell. 2007;6:225233. doi:10.1111/j.1474-9726.2007.00279.x  63. Benayoun BA, Pollina EA, Brunet A. Epigenetic regulation of ageing: link- ing environmental inputs to genomic stability. Nat Rev Mol Cell Biol. 2015;16:593610. doi:10.1038/nrm4048  64. Sen P, Shah PP, Nativio R, Berger SL. Epigenetic mechanisms of longevity  and aging. Cell. 2016;166:822839. doi:10.1016/j.cell.2016.07.050"
+  ],
+  "answer": "Recent discoveries in the genetics of aging include the identification of a number of genes capable of altering the aging process significantly in animal models and even in some humans [2]. Additionally, recent efforts have focused on isolating aging mutants through mutagenesis experiments to determine the mechanistic basis for unusual life spans, leading to the discovery of genes that can either enhance or reduce life span [4]. These findings contribute to a growing understanding of the genetic factors influencing aging and longevity.",
+  "question": "What recent discoveries have been made about the genetics of aging?"
+}

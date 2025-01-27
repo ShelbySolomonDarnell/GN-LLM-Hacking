@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2019 - Bioinformatic prediction of critical genes and pathways.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2008 - Towards systems genetic analyses in barley Integration of phenotypic, expression and genotype data into GeneNetwork.pdf",
+    "2017 - Systems Genetics Analysis to Identify the Genetic Modulation of a Glaucoma-Associated Gene.pdf",
+    "2011 - Prioritizing candidate disease genes by network-based boosting of genome-wide association data.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf",
+    "2019 - Different genetic mechanisms mediate spontaneous versus UVR-induced malignant melanoma.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf"
+  ],
+  "extraction_id": [
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "9383f177-92a5-5264-9d81-ff623d0614e3",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "a6c480d1-b384-5c6f-b21b-94fe0b3b0f4d",
+    "2455cf6d-4c9b-5272-8650-da127cc329e8",
+    "4eb8a5f8-5936-523d-971d-302348d6d62f",
+    "223e442e-898d-5aea-866a-5cdc0ac915e8",
+    "a771f252-00da-5f52-9c29-d006313c9e7b",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744"
+  ],
+  "document_id": [
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "01201944-11f2-52d9-ac3e-7af685d4a4c4",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "8513abbe-65ed-5f35-9f86-ba93cfc5a194",
+    "67e804db-8127-5938-8d7f-a5918cdf4f86",
+    "db0aa4b3-66ec-5d51-be72-2a1289db944a",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda",
+    "8161c536-c996-5660-b6ae-2d33c5d4aa9a",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861"
+  ],
+  "id": [
+    "chatcmpl-AIGlKS6puXfNaWUwFF42aUVBShhJ7",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "f1d40272-4a35-5b52-b3a8-3a0e7e8626d2",
+    "d8162fdc-326a-5f90-9fa4-24d86d701184",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "01a09a4e-3c30-53b1-8819-6085d4886079",
+    "18c7c27b-b51f-5ab6-9d09-4235c57811b1",
+    "a11bd1db-1c26-54fa-85c8-39bb745d2ebf",
+    "72cac585-5de7-56ca-8ea5-c133d3ff7acf",
+    "c0150694-7ee6-5e4f-a880-302cfd596718",
+    "312eae52-ede7-5c13-8974-fce0126426cf"
+  ],
+  "contexts": [
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "Molecular Genetics and Genomics  1 3 as overexpression, knockdown, knockout and mutation  (Online Resource 1). Gene network construction Genegene interaction data were extracted from the STRING database (http://strin g-db.org/) (Christian etal. 2003), a web resource that includes comprehensively predicted and known interaction information. Then, the genegene interaction pairs were imported into Cytoscape software (Version 3.5.1) (http://cytos  cape.org/ ) (Smoot etal. 2011 ) to construct a",
+    "of links to external resources for tracing the interrelationships of a gene among multiple Web-based resources. GeneNetwork also offers a number of correlation and mapping strategies for assessing associations among multiple genes and QTLs. GeneNetwork aims to make the study of complex traits through the use of systems genetics widely available to the scientific community. A powerful tool that can be integrated with GeneNetwork or used on",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "is shown in Figure 1A. Associations between transcript abundance, phenotypic traits and genotype can be estab- lished either using correlation or genetic linkage mapping functions [29,30]. The main page of GeneNetwork at http://www.genenetwork.org  provides access to subsets of data through pull-down menus that allow specific data sets to be queried. The datasets can be further restricted using a single text box for specific database entries to query probe set or trait ID, or annotations associated with",
+    "genetics approaches can not only provide insights into the roles of  individual genes or developmental pathways but also illuminate  relationships between different levels of a biologic system, such as  the genome, transcriptome, and phenome [ 10]. One such resource  of systems genetics is the GeneNetwork website and resource  (www.genenetwork.org ) that provides access to a wide variety of  data such as genotypes (e.g., SNPs), phenotypes that are obtained",
+    "occurrence; GN, gene neighbor; GT, genetic interaction; LC, literature-curated protein interactions; MS, affinity purification/mass spectrome try; PG, phy- logenetic profiles; PI, fly protein interactions; TS, tertiary structure; and YH, yeast two-hybrid). Detailed descriptions are listed in Suppleme ntal Table S1. ( B) Essential genes were highly interconnected in HumanNet, and thus predictable from the network, as shown by ROC analysis. Genes were ranked by their sum",
+    "from co-regulation patterns found within tens of thousands of samples for which gene expression was measured. GeneNetwork provid es un- precedented resolution and predictive power across multip le cell types and tissues. Analogous to discovering patterns in expressi on data, the network of protein-protein interactions can also be comput ationally pre- dicted using various methods[381]. The combined current knowledge of how cells control functio ns",
+    "(http://string-db.org/ ). STRING creates networks representing the best available knowledge of gene interconnections. Each protein-protein interaction is annotated with scores indicating how likely an interaction should be true. Scores rank from 0 to 1, with one being the highest confidence. A score of 0.5 indicates roughly every second interaction might be erroneous. Gene-gene co-expression cor- relations were computed as Pearson product-moment correlations (r) in Genenetwork.org after removing outliers.",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published"
+  ],
+  "answer": "GeneNetwork.org provides several tools and resources to explore how genes interact with each other. It is a bioinformatics tool that allows users to explore systems genetics data, which is crucial for defining biological networks and predicting molecular interactions [1]. GeneNetwork offers correlation and mapping strategies to assess associations among multiple genes and quantitative trait loci (QTLs), facilitating the study of complex traits [3]. Additionally, it provides access to a wide variety of data, including genotypes and phenotypes, which can illuminate relationships between different levels of a biological system, such as the genome, transcriptome, and phenome [6]. GeneNetwork also computes gene-gene co-expression correlations, which are essential for understanding gene interactions [9].",
+  "question": "What can GeneNetwork.org tell us about how genes interact with each other?"
+}

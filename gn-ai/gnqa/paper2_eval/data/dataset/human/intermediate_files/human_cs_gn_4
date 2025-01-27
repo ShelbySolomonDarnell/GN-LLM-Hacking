@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2004 - Nutritional genomics.pdf",
+    "2008 - (Infectious Disease) Karl A. Western (auth.), Vassil St. Georgiev PhD, Karl A. Western MD, John J. McGowan PhD (eds.) - National Institute of Allergy and Infectious Diseases, NIH_ Frontiers in Researc (3).pdf",
+    "2008 - Biotools for Determining the Genetics of Susceptibility to Infectious Diseases.pdf",
+    "2006 - Invited Review Microbial ecology in the age of genomics and metagenomics concepts, tools, and recent advances.pdf",
+    "2008 - Molecular profiling in the age of cancer genomics.pdf",
+    "2003 - Molecular profiling in the age.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf"
+  ],
+  "extraction_id": [
+    "713c3d5f-dea2-5d83-a4f9-8749e8c0a9e8",
+    "39d8f5af-dff0-58ab-b16f-f0b25f7ccdf0",
+    "16c8fbb0-ab2a-563f-a6b2-e0d8733b69fb",
+    "fe6eb7f0-9f09-50f8-a7a1-c71e507226d5",
+    "c08e6c0a-19fe-52ae-a715-8241e7b9baf8",
+    "167ddb29-f516-5670-9b89-a5d6c9eb930f",
+    "4c017db4-38d5-5116-b707-57e836fd043b",
+    "512cfd3a-f28e-5e11-8caa-6add0151a824",
+    "564e2e42-51ba-5b46-9375-b9ebee9ceabc",
+    "dd3030ab-0d42-521f-a769-8ee1b2fd0902"
+  ],
+  "document_id": [
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "f97bdb31-0a83-5046-a60c-81d633684557",
+    "4db8c752-c8e2-5f6d-a091-dc4f1d0c48bc",
+    "fcbbb3ce-6524-50e3-9f8d-c191dc551231",
+    "a666073a-eb22-53b0-bc94-550e775e456a",
+    "a3e71525-cef6-50ba-abd1-e3853ddf77fa",
+    "547b71a7-ac5a-52ca-b9db-04391e9e50c6",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0"
+  ],
+  "id": [
+    "chatcmpl-ADZIuGqxbDENLCoABzAMboXc8WUvK",
+    "9b81ec06-a109-5441-93bc-fd3e2d0b7862",
+    "2369f273-6321-5702-9c80-c29ae74935d0",
+    "3aafc5c1-96b5-5629-bc72-b00cf5070536",
+    "6081b16d-3380-5602-9daf-0500940fafbb",
+    "011b9d94-7b34-597c-9b89-74062b999132",
+    "32219bd7-c673-5deb-bb35-3bea4ae9bd3a",
+    "5cebb071-960c-5072-beb7-842815ae89bb",
+    "59772d2c-7eac-5a4b-b9ef-70735afda23e",
+    "aa406f0f-8f39-5189-9131-91345a876489",
+    "f03ab31a-1da3-50f1-9cfe-dc05cee18c05"
+  ],
+  "contexts": [
+    "is the   eld of bioinformatics.",
+    "the umbrella of bioinformatics or com-putational biology.",
+    "methods of computer-based information processing for ana-lyzing the structure and function of biologically important molecules. NCBI bioinformatics-related resources may be accessed through its home page at:   www.ncbi.nlm.nih.gov.          The NCBI has three principal branches:     1.     Computational Biology Branch (  http://www.ncbi.nlm. nih.gov/CBBresearch/)           2.     Information Engineering Branch (  http://www.ncbi.nlm. nih.gov/IEB/)",
+    "methods of computer-based information processing for ana-lyzing the structure and function of biologically important molecules. NCBI bioinformatics-related resources may be accessed through its home page at:   www.ncbi.nlm.nih.gov.          The NCBI has three principal branches:     1.     Computational Biology Branch (  http://www.ncbi.nlm. nih.gov/CBBresearch/)           2.     Information Engineering Branch (  http://www.ncbi.nlm. nih.gov/IEB/)",
+    "been successful in microbial ecological research withoutbioinformatics tools. Broadly defined, bioinformatics refersto the use of computers to seek patterns in the observedbiological data and to propose mechanisms for such patterns.As can be seen from below, bioinformatics not only canhelp us directly address experimental research objectives butalso can integrate information from various sources and seekspatterns not achievable through experimentation alone.",
+    "Since the first protein database was created by Margaret Dayhoffin 1965 in response to the increase in protein sequencing, therehas been an explosion of data from the different modalities. Foreach of the aforementioned levels, bioinformatics plays a crucialand intimate role in each of the steps. In general, there are threelarge categories of bioinformatics applications, including data-bases, algorithms and predictions. The category of databasesallows for the combining and organization of large amounts",
+    "Since the first protein database was created by Margaret Dayhoffin 1965 in response to the increase in protein sequencing, therehas been an explosion of data from the different modalities. Foreach of the aforementioned levels, bioinformatics plays a crucialand intimate role in each of the steps. In general, there are threelarge categories of bioinformatics applications, including data-bases, algorithms and predictions. The category of databasesallows for the combining and organization of large amounts",
+    "remit of the early bioinformaticist.1,2T o address these problems, the eld drew from the foundations of statistics, mathematics, physics, computer science and, of course, molecular biology. T oday, predictably, bioinformatics still reects the broad base on which it started, comprising an eclectic collection of scientic specialists. As a result of its inherent diversity, it is difcult to dene the scope of bioinformatics as a discipline. It may be even fruitless to try to draw hard boundaries around the eld.",
+    "remit of the early bioinformaticist.1,2T o address these problems, the eld drew from the foundations of statistics, mathematics, physics, computer science and, of course, molecular biology. T oday, predictably, bioinformatics still reects the broad base on which it started, comprising an eclectic collection of scientic specialists. As a result of its inherent diversity, it is difcult to dene the scope of bioinformatics as a discipline. It may be even fruitless to try to draw hard boundaries around the eld.",
+    "remit of the early bioinformaticist.1,2T o address these problems, the eld drew from the foundations of statistics, mathematics, physics, computer science and, of course, molecular biology. T oday, predictably, bioinformatics still reects the broad base on which it started, comprising an eclectic collection of scientic specialists. As a result of its inherent diversity, it is difcult to dene the scope of bioinformatics as a discipline. It may be even fruitless to try to draw hard boundaries around the eld."
+  ],
+  "answer": "Bioinformatics broadly refers to the use of computers to seek patterns in observed biological data and to propose mechanisms for such patterns [5]. It involves methods of computer-based information processing for analyzing the structure and function of biologically important molecules [3], [4]. The field draws from the foundations of statistics, mathematics, physics, computer science, and molecular biology, reflecting a broad base of scientific specialties [8], [9], [10].",
+  "question": "what is bioinformatics"
+}

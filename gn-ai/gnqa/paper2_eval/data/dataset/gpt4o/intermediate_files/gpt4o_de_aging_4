@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2013 - Age-associated epigenetic drift implications.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2016 - Epigenetic drift in the aging genome a ten-year.pdf"
+  ],
+  "extraction_id": [
+    "f244a68b-5127-5507-94a2-d2b8ca84f0ee",
+    "0e274732-b0df-53b8-999b-30b798af92e2",
+    "915ca931-d49d-5837-97fd-f06c145764d0",
+    "0e274732-b0df-53b8-999b-30b798af92e2",
+    "42343f61-f147-520b-bd14-0c2bf7b63262",
+    "617f523f-b892-5bfc-b99c-2e67a4cc185f",
+    "704a88b4-f49e-57cb-b572-1fa948b6065b",
+    "f244a68b-5127-5507-94a2-d2b8ca84f0ee",
+    "7f8f4ca0-9b27-55e3-a889-030af08dc84b",
+    "2f6d20f0-addc-51e8-979d-1aac7ac26694"
+  ],
+  "document_id": [
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "8513121f-71f3-5bb0-9433-feece9fd9fbc",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "52f09ef3-4e4c-538f-909c-d28eb72d91f3"
+  ],
+  "id": [
+    "chatcmpl-AIHWU7LIWS22cXcNTfkSGgjRTVQIK",
+    "b4eebcc5-781b-505b-a340-305b29285c66",
+    "78059a6b-4809-5d36-b961-6fcddbb06f2b",
+    "6baf63a6-fa5a-54e2-8290-af586a51243f",
+    "ef0f46ad-2e78-5666-b83d-36d2920b64ea",
+    "02361135-a01e-55f2-9efa-b7c465f2498b",
+    "82815a35-f43e-56fc-a254-92b03a278ab5",
+    "b5f6d630-dc24-50d7-af74-b3034cbb1055",
+    "8822b363-e906-5f83-a494-caad665c7af2",
+    "0e8901a7-c123-5e96-97fe-4d5cd85eb0c9",
+    "0aede05b-f0dd-595a-a11d-acac0970d25d"
+  ],
+  "contexts": [
+    "experiments suggest that epigenetic features associated withaging can be reversed. In successfully reprogrammed iPSCs, the chromatin state of CDKN2A locus associated with aging is erased and restored to that of youthful cells ( Meissner, 2010 ). The requirement for proper epigenetic gene silencing for longevity has been observed in multiple model organisms, sug- gesting an evolutionarily conserved process ( Lin et al., 2000; Chen et al., 2005; Greer et al., 2010 ). The function of Polycomb",
+    "apparent rewinding of the aging clock without loss of differenti-ation. Formal demonstration will require clear epigenetic signa- tures of young and old cells and evidence that the aged cells have regained a youthful signature. It should be noted thatreprogramming of the epigenome to a youthful state in an aged cell has inherent risks and uncertainties. For example, the",
+    "et al., 2010 ). Clearly, inhibiting single signaling pathways (NF-k B and mTOR) is sufcient to restore some features of youthful cells, but the number of transcriptional regulatorsthat need to be modulated to result in full rejuvenation is unknown. Third, is the youthful state or the aged state domi- nant? It would be interesting to determine which epigeneticand transcriptional prole is more robust in experiments of fusion of young and old cells. Concluding Remarks",
+    "Rejuvenation: Is It Epigenetic Reprogramming?By analogy to the attainment of a pluripotent state by epigenetic reprogramming of a differentiated cell, is cellular rejuvenation byheterochronic parabiosis, NF- kB inhibition, or inhibition of mTOR signaling ( Figure 1 ) a form of epigenetic reprogramming from an aged state to a youthful state? If so, then these would be examples of an uncoupling of the differentiation program from the aging clock, with cells in each case manifesting an",
+    "with a healthy lifestyle may preserve a more intact epigenome and hence experi-ence longevity. Reprogramming of aged cells into iPSCs and regeneration of dif-ferentiated cells may provide a mechanism for epigenetic rejuvenation. In addition to epigenetic drift, telomere shortening has been associated with",
+    "tion through the lens of epigenetic reprogramming. By dening youthfulness and senescence as epigenetic states, a framework for asking new questions about the aging process emerges. Introduction The inexorable tolls of aging are evident in almost all living beings. From the onset of reproductive maturity, organismalaging is generally characterized by a decline in fecundity, an increased susceptibility to disease and tissue dysfunction, and increased risk of mortality ( Kirkwood, 2005; Hayick, 2007; Kirk-",
+    "others (i.e. DNA methylation influences chromatin structures, histones PTMs). Several important conclusions emerge from the presented findings: there are at  least two ways to reverse or inhibit senescence by epigenetic mechanisms, whereby  a healthy life expectancy could be prolonged. The first way involves rejuvenation  through effective epigenetic reprogramming in cells undergoing senescence or cells  derived from very aged patients or patients with progeroid syndromes, by which the",
+    "aging is at least in part, if not largely, a manifestation of epigeneticchanges, including those that may be secondary to genomicmutations, offers a theoretical construct for understanding the mechanisms of rejuvenation. If so, it should be possible to char- acterize young and old cells by specic transcriptional andepigenetic proles and states. Furthermore, the processes that underlie aging and rejuvenation should be identiable in terms",
+    "determinants of the aged state by genetically manipulatingspecic biochemical pathways. A recent example demonstratesthe power of transcriptional proling and bioinformatic analysis to reveal an aging signature that can be genetically engineered to reect a more youthful state ( Adler et al., 2007 ). In a compar- ison of old and young tissues from mice and humans, old tissues were found to express at signicantly higher levels a set of genes that contained sequences in their 5 0regulatory regions, indica-",
+    "Recently, studying the direct relationship between epigeneticmechanisms and the aging process itself is gaining increasing attention. The potential reversibility of these epigenetic changes that occur as a hallmark of aging offers excitingopportunities to alter the trajectory of age-related diseases. 8 This is especially important given the remarkable plasticityof aging. 9,10In the literature, age-associated epigenetic alter- ations have been identified by epigenome-wide association"
+  ],
+  "answer": "Studying the epigenetic reprogramming of aged cells to a more youthful state has provided several insights:  1. **Reversal of Aging-Associated Epigenetic Features**: Experiments have shown that epigenetic features associated with aging can be reversed. For instance, in successfully reprogrammed induced pluripotent stem cells (iPSCs), the chromatin state of the CDKN2A locus, which is associated with aging, is erased and restored to that of youthful cells [1].  2. **Potential for Longevity**: Proper epigenetic gene silencing is required for longevity, as observed in multiple model organisms. This suggests that the process of epigenetic reprogramming might be evolutionarily conserved and could play a role in extending lifespan [1].  3. **Rewinding the Aging Clock**: There is an apparent ability to rewind the aging clock without losing cellular differentiation. However, this requires clear epigenetic signatures of young and old cells and evidence that aged cells have regained a youthful signature [2].  4. **Risks and Uncertainties**: While reprogramming the epigenome to a youthful state holds promise, it also carries inherent risks and uncertainties, highlighting the need for further research to understand the full implications and safety of such interventions [2].  5. **Mechanisms of Rejuvenation**: The study of epigenetic reprogramming provides a framework for understanding the mechanisms of rejuvenation, suggesting that aging is at least partly a manifestation of epigenetic changes. This offers opportunities to alter the trajectory of age-related diseases [8], [10].  6. **Prolonging Healthy Life Expectancy**: There are at least two ways to reverse or inhibit senescence through epigenetic mechanisms, which could prolong healthy life expectancy. One involves rejuvenation through effective epigenetic reprogramming in cells undergoing senescence or derived from very aged patients [7].  These insights collectively suggest that epigenetic reprogramming holds significant potential for reversing aging processes and extending healthy lifespan, although further research is needed to fully understand and safely harness these capabilities.",
+  "question": "What insights have been gained from studying the epigenetic reprogramming of aged cells to a more youthful state?"
+}

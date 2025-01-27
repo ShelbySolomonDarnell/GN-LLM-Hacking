@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2013 - Pathogenesis and reversal of liver fibrosis Effects of genes and environment.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2014 - Systems Genetics of Liver Fibrosis Identification of Fibrogenic and Expression Quantitative Trait Loci in the BXD Murine Reference Population.pdf",
+    "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2020 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2008 - Towards systems genetic analyses in barley Integration of phenotypic, expression and genotype data into GeneNetwork.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "71f1aefb-6e32-5add-804e-6fbaa39ca720",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "8c423789-3641-5853-9cf3-f4a026ffb446",
+    "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "28892088-5a95-56eb-822d-b12da3a612d0",
+    "62c12bdc-ae2b-5cc0-88f5-a3c1a264326b",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "dc001755-2e77-5b41-8617-263b3ba35af8"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "73724c99-98df-53b2-a378-29c8b4faa171",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "125d9cd4-5297-5173-9b16-9073cd3bcc71",
+    "76a715a4-8222-598b-8e65-6d5b6e807989",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "f2f0dc2f-eaf5-57f6-9ffa-816d3fab6640",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "8513abbe-65ed-5f35-9f86-ba93cfc5a194"
+  ],
+  "id": [
+    "chatcmpl-AIGlYq5ocxHDndnTkp4uj3sxjmcHK",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "f5c218f0-1280-55f8-912b-b32b833e93a3",
+    "0b2bd83d-680a-52d2-8116-50cce4f35cc3",
+    "1c26e6f6-680b-5877-9600-fee25a42c943",
+    "21936758-94b1-506f-9229-77e26001ae44",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "7b626f27-5aed-5464-a20d-463954ff057d",
+    "aaf19f3a-353a-595b-b7de-da9f01a7b0f1",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "251de62d-6e8e-50c7-9616-7fea05a250fb"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "GeneNetwork (www.genenetwork.org). The web -based software further allows extraction of sets of",
+    "al., 2005). GeneNetwork is designed primarily as a web service for exploratory and statistical analysis of large published phenotype and genome datasets, and includes data from several species (see Supplementary Discussion). GeneNetwork includes extensive phenotype data extracted from the literature and submitted by users, which makes it practical to compare data on drug responses with gene expression patterns. Gene expression",
+    "GeneNetwork is an open-access database that collates genomic information of diverse experimental crosses and reference panels as well as phenotypic data from miscellaneous research groups [26]. Statistics Data generation, statistical analysis and graph creation were performed with SPSS Statistics 21 (IBM, Ehningen, Germany). As appropriate, mean and median values were further used for QTLanalysis. Phenotypic robustness for each strain was assessed by the",
+    "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes are two such examples of possible tools. For this study, we",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "distributed neuroscience data sharing with ever expanding prospects for future breakthroughs. GeneNetwork.org : genetic analysis for all neuroscientists Originally named webqtl, GeneNetwork.org is the oldest contin- uously operating website in biomedical research ( Williams, 1994). This massive database contains ;40 million datasets. GeneNetwork.org also offers a powerful statistical platform for online network analyses and mapping, enabling numerous mo-",
+    "distributed neuroscience data sharing with ever expanding prospects for future breakthroughs. GeneNetwork.org : genetic analysis for all neuroscientists Originally named webqtl, GeneNetwork.org is the oldest contin- uously operating website in biomedical research ( Williams, 1994). This massive database contains ;40 million datasets. GeneNetwork.org also offers a powerful statistical platform for online network analyses and mapping, enabling numerous mo-",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "abundance data sets directly within GeneNetwork's ana- lytical environment we provide simple web access to the data for the research community. In this environment, a combination of correlation analysis and linkage mapping provides the potential to identify and substantiate gene targets for saturation mapping and positional cloning. By integrating datasets from an unsequenced crop plant (bar- ley) in a database that has been designed for an animal model species (mouse) with well established genome"
+  ],
+  "answer": "GeneNetwork.org utilizes data from different populations around the world by integrating diverse genomic information and phenotypic data from various experimental crosses and reference panels. This allows for comprehensive exploratory and statistical analysis of large published phenotype and genome datasets [3], [4]. The platform includes data from multiple species, which facilitates the comparison of gene expression patterns with drug responses and other phenotypic traits [3]. Additionally, GeneNetwork.org provides analytical tools that enable users to compare traits across datasets from different experimenters, further enhancing the ability to study correlations and perform data mining in genomic regions [5], [9]. This integration of diverse datasets supports the construction of predictive biological networks by interfacing DNA variation data with gene expression, protein interactions, and DNA-protein binding information [6].",
+  "question": "How does GeneNetwork.org make use of data from different populations around the world?"
+}

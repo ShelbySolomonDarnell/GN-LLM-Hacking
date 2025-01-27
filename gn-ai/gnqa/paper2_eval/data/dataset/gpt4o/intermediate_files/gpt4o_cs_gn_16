@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2020 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2011 - Peroxisomal L-bifunctional enzyme (Ehhadh) is essential for the production of medium-chain dicarboxylic acids.pdf",
+    "2013 - Pathogenesis and reversal of liver fibrosis Effects of genes and environment.pdf",
+    "2015 - Gene network of a phosphoglycerate mutase in muscle wasting in mice.pdf",
+    "2012 - Genetic and Molecular Network Analysis of Behavior.pdf",
+    "2008 - Systems_genetics_can_provide_new_insight.pdf",
+    "2017 - Systems genetics of liver fibrosis.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "14530ed7-e49e-5a1a-9df6-820c7495a8ce",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "a8b40857-7ae8-512a-9817-bea1ae3345ba",
+    "71f1aefb-6e32-5add-804e-6fbaa39ca720",
+    "b71c7c43-8bd9-5d7e-b337-a8c0396f96b7",
+    "833f822f-9080-5434-b9a1-2473531becfe",
+    "bfd98d6d-b026-5bbd-896f-b70045a032c8",
+    "1c595cd2-cdf9-58c7-a344-902eb2facf31"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "f2f0dc2f-eaf5-57f6-9ffa-816d3fab6640",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "ac61753e-bcb2-55c3-804b-e821e3d1a4ad",
+    "73724c99-98df-53b2-a378-29c8b4faa171",
+    "912c42f2-1802-5fe9-b9dd-871c5290dd18",
+    "4b6759f8-fdaf-59a1-94bd-5a7cf184e1f9",
+    "0bc5b1ee-f7fe-5d12-9ebf-ab7363119424",
+    "4efaa694-a204-54e3-8f4b-caa322574f0a"
+  ],
+  "id": [
+    "chatcmpl-AIGmWH13RNXnSJZf14g9zwI9AF1X4",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "7beda13b-1ea5-53c0-9380-72eee2df79fe",
+    "a1124460-ae34-57fb-846b-e033f4bbf49c",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "8b8a24da-a175-5cb8-91bd-8966fca5d344",
+    "f5c218f0-1280-55f8-912b-b32b833e93a3",
+    "a0c173a5-8685-50df-8110-8d7ec02cdbf3",
+    "27eda296-b0b7-5ae4-881e-31987ba63dec",
+    "55461d7c-995b-5f5a-be38-a64acd4a904a",
+    "fb6033cf-3df1-5dd6-b3ed-1d32913800b2"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "subnetworks   GeneNetwork (www.genenetwork.org) is a depository of data- sets and tools for use in complex systems biology approaches in  order to generate or predict higher order gene function ( 23, 24 ).",
+    "GeneNetwork (www.genenetwork.org). The web -based software further allows extraction of sets of",
+    "resources, gene expression pro les, and gene network constructions, methods for the analysis of gene function have been revolutionised in the past few years. One great resource for the analysis of gene networks is the databaseGeneNetwork, which consists of a set of linked resources for systems genetics (Andreux et al., 2012). It has been designed for multiple scale integration of networks of genes,transcripts in multiple tissues. GeneNetwork is an interac-",
+    "files on GeneNetwork) will also reduce the energy barrier of adopting powerful systems  genetics and systems behavioral approaches. Web services such as GeneNetwork and its  companionsGeneWeaver ( Baker et al., 2012 ), WebGestalt ( Zhang et al., 2005 ), DAVID  (Huang et al., 2009a ; Huang et al., 2009b ), and the Allen Brain Atlas ( Lein et al., 2007 ) can now be used as virtual and free laboratories to test specific biological hypothesis, or they  can be used to generate new ideas ab initio .",
+    "Its use is centred upon user-specied genes and can identify novel potential master regulatory genes for further investigation. We are working to increase the functionality and power of the GeneNet- work and systems genetics further in a number of areas. In partic- ular, increasing the number of strains studied can increase the mapping resolution. By increasing the genetic diversity of the founders of an RI set, the potential for observing regulatory poly-",
+    "gration   enhances the chance to detect genuine modi  ers across  organs. GeneNetwork is a valuable platform that can be used by  researchers without advanced skills of bioinformatics to perform  systems  genetics   analyses. The next step would be to establish soft- ware tools that allow researchers to combine datasets from multiple  resources and mapping analyses in different crosses and species (e.g.  intercross, recombinant inbred lines, and human data).         References"
+  ],
+  "answer": "The research done through GeneNetwork.org has several practical applications:  1. **Predictive Medicine and Systems Genetics**: GeneNetwork is a valuable resource for predictive medicine and systems genetics, providing tools and data for multi-omics analysis across multiple species [1].  2. **Teaching Tool**: It serves as a teaching tool in neuroscience and genetics, allowing educators to use it for dry-lab teaching and helping students explore gene-to-phenotype relationships [2].  3. **Exploration of Systems Genetics Data**: GeneNetwork is used to explore systems genetics data, which is crucial for defining biological networks and predicting molecular interactions [4].  4. **Complex Systems Biology Approaches**: It provides datasets and tools for complex systems biology approaches, aiding in the generation or prediction of higher-order gene functions [5].  5. **Virtual Laboratory for Hypothesis Testing**: GeneNetwork can be used as a virtual laboratory to test specific biological hypotheses or to generate new ideas from scratch [8].  6. **Identification of Regulatory Genes**: The platform can identify novel potential master regulatory genes for further investigation, enhancing the understanding of genetic regulation [9].  7. **User-Friendly Systems Genetics Analyses**: It allows researchers without advanced bioinformatics skills to perform systems genetics analyses, making it accessible to a broader range of scientists [10].",
+  "question": "What are the practical applications of the research done through GeneNetwork.org?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2020 - Gene network a continuously updated tool for systems genetics analyses.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2017 - Precise network modeling of systems genetics data using the Bayesian network webserver.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2005 - How replicable are mRNA expression QTL.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2019 - Systems genetics approaches to probe gene function.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "c08af10b-f2ad-540b-be15-7cc101bf2dbc",
+    "046a82bb-8f86-5ecd-8879-34e569630a21",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "803030b1-07ab-5b8c-97cb-297339488484",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "0a4dc047-3b00-5657-b414-885d99b55d19",
+    "3276b251-2e60-53e8-8fd1-07702f486a43",
+    "8ef4c3cf-8018-5334-9f82-19c9e86739a5",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "374fd6d3-e6c1-560c-a421-a4b393ba23b2",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "c80b6981-5243-55a2-b5d8-0d7ffb2f4505",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "699171c5-d983-50de-bcd2-fc3e117ff444",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "1cd18d9c-0fd1-52e3-b0cf-c5e3ad0ff683",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a"
+  ],
+  "id": [
+    "chatcmpl-AIGrUMBGxTc4nmy408W8WUAr2t9TQ",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "f53306e0-447d-5640-b26f-6b617ce35a46",
+    "da10a7f5-6d13-504c-8db9-d67a48a3193e",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "d500c4bd-50b1-5271-b7a6-42591225de7a",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "a24d4dd1-29f8-596e-bc8b-f0dafaa82858",
+    "c2dae4f8-2305-5d4a-a3f8-c0424d4b80b1",
+    "1e9adc57-45b4-5ac1-a0bf-a0b5ce07fef1",
+    "d7e5ef8a-d43a-587d-8ffd-cd5e8e63f6ab"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "Conclusion   GeneNetwork  is an excellent tool for exploring complex phenotypes with systems genetics.   Here we have used GeneNetwork to explore an inflammatory phenotype, and identified a small  number of plausible candidate genes. A similar workflow can be used for any trait on  GeneNetwork, or for any phenotype collected by an investigator in a genetically diverse  population. GeneNetwork can allow users to study relationships between genes, pathways, and  phenotypes in an easy to use format.",
+    "Conclusion   GeneNetwork  is an excellent tool for exploring complex phenotypes with systems genetics.   Here we have used GeneNetwork to explore an inflammatory phenotype, and identified a small  number of plausible candidate genes. A similar workflow can be used for any trait on  GeneNetwork, or for any phenotype collected by an investigator in a genetically diverse  population. GeneNetwork can allow users to study relationships between genes, pathways, and  phenotypes in an easy to use format.",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "connect Genotype with Gene2 and Phenotype, knowledge of the  Genotype still influences the predicted values of these variables.  For example, Genotype  = 1 may cause a decrease in Gene1 and this  decrease in Gene1 will subsequently cause a reduction in Gene2. 4 Discussion Network modeling of biological datasets is often limited by the  number of samples within a dataset, and the available data does not  support the construction of precise and reliable large-scale networks",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "metadata (data about the data) are combined with sophisticated statistical and computation tools for the genetic dissection and synthesis of single traitsor entire systems of traits. One challenge facing investigators in the inter- pretation of the massive data sets on GeneNetworkand elsewhere is deciding how much confidence toplace in QTL extracted from still noisy array andproteomic platforms after having conducted many thousands of statistical tests with poorly understood",
+    "accuracy of predictive networks [40, 5153]. We have also recently demonstrated how this class of network can be used to inform associations identied in GW Astudies [40]. 9 Summary The signicant challenge we face in the post-genome era is deciphering the bio-logical function of individual genes, pathways, and networks that drive complexphenotypes like disease. The availability of low-cost, high-throughput technologies",
+    "members o f pathway modules  [78]. Other studies applied gene network modeling algorithms to identify the  potential regulators in complex di seases, for example cardiomyopathy [79], hepatic steatosis [80], as well as  coronary artery disease [81].         Finally, there are many other integrative approaches available for the analysis of multi -omics data, but  have not yet been applied in mouse systems genetics studies. Examples include the transcriptome -wide",
+    "gathered together into an easily accessible format, not siloed into disparate data pools that  cannot easily be integrated, valid ated, o r extended.  This approach will allow us to make animal  models of so called  precision medicine, although perhaps more accurately, we want   predictive medicine , where a phenotypic outcome (such as disease) can be predicted , and  avoided .    GeneNetwork   (genenetwork.or g; GN) is  one tool for systems genetics and predictive medicine,"
+  ],
+  "answer": "Multi-omics data integration techniques enhance the prediction accuracy of phenotypic traits in GeneNetwork datasets by allowing for the construction of biological networks that are predictive of molecular interactions and phenotypic outcomes. When data on DNA variation is combined with gene expression, protein interactions, and DNA-protein binding information, it enables the creation of comprehensive models that can predict complex phenotypes more accurately [6]. This integration facilitates the study of relationships between genes, pathways, and phenotypes, providing a more holistic view of the biological systems involved [2]. Additionally, the use of sophisticated statistical and computational tools in conjunction with multi-omics data allows for the genetic dissection and synthesis of traits, further enhancing predictive accuracy [7].",
+  "question": "How do multi-omics data integration techniques enhance the prediction accuracy of phenotypic traits in GeneNetwork datasets?"
+}

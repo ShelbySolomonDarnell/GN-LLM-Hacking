@@ -1,0 +1,2578 @@
+{
+  "1": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQAXp2EmWZCiBbiRu4ySm4isUy8",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The genetic bases for the varying efficacy of diabetes treatments among individuals are multifaceted and involve several genetic variants that influence drug response. Key points include:\n\n1. **Genetic Variants in Drug Receptors and Metabolizers**: Variations in genes such as OCT, KCNJ11, ABCC8, and CYP2C9 have been associated with differing responses to antidiabetic drugs. These genes are involved in drug receptors or drug metabolism, which can affect how well a patient responds to a particular treatment [2].\n\n2. **Gene-Gene and Gene-Environment Interactions**: The interplay between different genes and between genes and environmental factors can also contribute to the variability in treatment efficacy. This includes how genetic predispositions interact with lifestyle factors and other environmental influences [2].\n\n3. **Specific Genetic Mutations**: For instance, mutations in the hepatocyte nuclear factor-1alpha gene have been linked to sensitivity to sulphonylureas, highlighting a specific pharmacogenetic interaction in diabetes treatment [3].\n\n4. **Genetically Driven Dominant Processes**: Certain genetic variants may drive dominant processes such as beta-cell dysfunction, lipodystrophy, or obesity, which in turn can influence the effectiveness of drugs targeting these pathways, such as sulfonylureas, GLP-1 receptor agonists, DPP4 inhibitors, and thiazolidinediones [4].\n\n5. **Pharmacogenetic Studies**: Although pharmacogenetic research in diabetes is still developing, studies have shown that genetic variations can significantly impact drug response. For example, variations in the glucose transporter gene SLC2A2 have been associated with differential responses to metformin [8].\n\n6. **Complex Interplay of Factors**: The glycaemic response to treatments like metformin is likely determined by a complex interplay of genetic and environmental factors, with clinical variables such as BMI, drug adherence, and dosing also playing roles [5].\n\nThese genetic factors underscore the importance of personalized medicine in diabetes treatment, where understanding an individual's genetic makeup can help tailor more effective therapeutic strategies.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797786,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 419,
+          "prompt_tokens": 1418,
+          "total_tokens": 1837
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6aa611a9-aa5b-5dc5-a760-eaf1f95b8109",
+            "score": 0.7575886249542236,
+            "metadata": {
+              "text": "interindividual variation in responses to antidiabetic\ntreatment and may provide the foundation for future\ngenotype-based treatment standards. Pharmacogenetics\nand Genomics 25:475 484 Copyright  2015\nWolters Kluwer Health, Inc. All rights reserved.\nPharmacogenetics and Genomics 2015, 25:475 484\nKeywords: antidiabetic treatment, diabetes type 2, disease progression,\ngenotype, pharmacogenetics\naSection of Metabolic Genetics, Novo Nordisk Research Foundation Center for",
+              "title": "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "46081466-a50f-59d8-893d-8b8883b38507",
+              "extraction_id": "026d2a7d-a7b7-5342-981a-2664a998c79b",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "4352b950-a365-523c-b704-9eb4eddaf448",
+            "score": 0.7063222527503967,
+            "metadata": {
+              "text": "treatment guidelines. Yet, the interindividual response to\ntherapy and slope of disease progression varies markedly\namong patients with type 2 diabetes. Gene gene,\ngene environment, and gene treatment interactions may\nexplain some of the variation in disease progression.\nSeveral genetic variants have been suggested to beassociated with response to antidiabetic drugs. Some are\npresent in drug receptors or drug metabolizers ( OCT genes,\nKCNJ11 ,ABCC8 , and CYP2C9 ). Numerous type 2 diabetes",
+              "title": "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "46081466-a50f-59d8-893d-8b8883b38507",
+              "extraction_id": "026d2a7d-a7b7-5342-981a-2664a998c79b",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "db50a759-ac52-5e02-a5c1-5c898f16bd27",
+            "score": 0.6914693897086758,
+            "metadata": {
+              "text": "mic control in the majority of insulin-treated \npatients. Diabet Med . 2009;26(4):437441.\n 20. Pearson ER, et al. Sensitivity to sulphonylureas \nin patients with hepatocyte nuclear factor-1alpha \ngene mutations: evidence for pharmacogenetics \nin diabetes. Diabet Med . 2000;17(7):543545.\n 21. Pearson ER, et al. Genetic cause of hypergly-\ncaemia and response to treatment in diabetes. \nLancet . 2003;362(9392):12751281.\n 22. Fantasia KL, Steenkamp DW. Optimal glycemic",
+              "title": "2021 -  Monogenic diabetes a gateway to precision medicine.pdf",
+              "version": "v0",
+              "chunk_order": 128,
+              "document_id": "0b6ff786-6a7b-5d24-ba5e-7a61fee7757f",
+              "extraction_id": "baea9ac6-7ff9-5724-87ed-81b17e2469cd",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "c372d094-ceb2-56d1-82f3-c63f65e5c5c1",
+            "score": 0.6906866431236267,
+            "metadata": {
+              "text": "When considering etiological varia-\ntion, recent work partitioning diabe-tes-associated genetic variants by theirpresumed etiological process (parti-tioned polygenic scores) (6,42,101)may de ne genetically driven dominant\nprocesses. These processes, such asb-cell dysfunction, lipodystrophy, or obe-\nsity, could respond differently to drugsthat act on these pathways, such assulfonylureas, glucagon-like peptide 1 re-\nceptor agonist (GLP-1RA), DPP4i, and\nthiazolidinediones.",
+              "title": "2020 - Precision Medicine in Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 156,
+              "document_id": "0ad5b2de-d782-5d43-b294-bff5c7befd2d",
+              "extraction_id": "c27447b1-5f7e-5b8b-9172-baba74ffc29b",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "f187dbbd-3380-566a-ab25-18fc923e2263",
+            "score": 0.6879329085350037,
+            "metadata": {
+              "text": "source of such variation might help to identify patients most likely not to respond to metformin and could help to develop more e  ective agents by providing insight into \nthe biological mechanism of metformin.\nAs with other complex traits, glycaemic response to \nmetformin is probably determined by the interplay between genetic and environmental factors. Clinical variables such as BMI, drug adherence, and dosing only account for part of the variation.\n3 Pharmacogenetic",
+              "title": "2014 - Heritability of variation in glycaemic response to metformin.pdf",
+              "version": "v0",
+              "chunk_order": 7,
+              "document_id": "458da117-3235-5852-aff2-529c0bf16074",
+              "extraction_id": "90ea6bd5-5140-5c73-ace7-fd5030e83c6d",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "9ced327e-3feb-5b7b-a938-30ad544113e2",
+            "score": 0.6816630363464355,
+            "metadata": {
+              "text": "Pharmacogenetics and individual responses to treatment of\nhyperglycemia in type 2 diabetes\nLine Engelbrechtsena, Ehm Anderssona, Soeren Roepstorffb,\nTorben Hansenaand Henrik Vestergaarda\nThe aim of this study was to summarize current knowledge\nand provide perspectives on the relationships between\nhuman genetic variants, type 2 diabetes, antidiabetic\ntreatment, and disease progression. Type 2 diabetes is a\ncomplex disease with clear-cut diagnostic criteria and",
+              "title": "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+              "version": "v0",
+              "chunk_order": 0,
+              "document_id": "46081466-a50f-59d8-893d-8b8883b38507",
+              "extraction_id": "026d2a7d-a7b7-5342-981a-2664a998c79b",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "b4516514-f107-5b15-b73d-0d3d89dce5a8",
+            "score": 0.6798309278588947,
+            "metadata": {
+              "text": "Genomics. 2010; 20:3844. [PubMed: 19898263]\n168. Jablonski KA, McAteer JB, de Bakker PI, Franks PW, Pollin TI, et al. Common variants in 40\ngenes assessed for diabetes incidence and response to metformin and lifestyle intervention in the\ndiabetes prevention program. Diabetes. 2010; 59:26722681. [PubMed: 20682687]\n169. Wolford JK, Yeatts KA, Dhanjal SK, Black MH, Xiang AH, et al. Sequence variation in PPARG\nmay underlie differential response to troglitazone. Diabetes. 2005; 54:33193325. [PubMed:\n16249460]",
+              "title": "2012 - Type 2 Diabetes Genetics Beyond GWAS.pdf",
+              "version": "v0",
+              "chunk_order": 176,
+              "document_id": "d59a38d7-889b-51b5-b896-c305c82a2169",
+              "extraction_id": "a3a875fa-e55b-52d0-b9bf-72b96330c393",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "6707ac07-6096-5eaa-b6c4-315faa4c2813",
+            "score": 0.6786288406099319,
+            "metadata": {
+              "text": "10.1007/s00125-017-4227-1.\n 42. Hattersley AT, et al. Precision diabetes: learning from monogenic diabetes. Diabetologia. 2017;60:769777. doi: 10.1007/s00125-017-4226-2.\n 43. Florez JC. The pharmacogenetics of metformin. Diabetologia. \n2017;60:16481655. doi: 10.1007/s00125-017-4335-y.\n 44. Maruthur NM, et al. The pharmacogenetics of type 2 diabetes: a system-atic review. Diabetes Care. 2014;37:876886. doi: 10.2337/dc13-1276.\n 45. Zhou K, et al. Variation in the glucose transporter gene SLC2A2 is associ-",
+              "title": "2018 - Human Genetics of Obesity and Type 2 Diabetes Mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 135,
+              "document_id": "2083de31-17c6-5d1e-9aa6-2efc6c1d9ac2",
+              "extraction_id": "e18fd615-3cde-5dc2-ab7d-a9e17d4c8ed6",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "c2b8b8a1-d19e-5f7e-aa22-a421367e4fdd",
+            "score": 0.6780313849449158,
+            "metadata": {
+              "text": "typically based on efficacy, yet favorable respon ses to such therapeutics are oftentimes \nvariable and difficult to pred ict. Characterization of drug  response is expected to \nsubstantially enhance our ability to provide patients with the most effective treatment \nstrategy given their indivi dual backgrounds, yet pharmacogenetic study of diabetes \nmedications is still in its infancy. To date, major pharmacogenetic studies have focused on",
+              "title": "2010 - Pharmacogenetics of Anti-Diabetes Drugs.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "ffeebaf9-ff76-5751-9b8b-7a2a4a4f1dc3",
+              "extraction_id": "a1359f6d-8f61-51ca-8b02-45420e345946",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          },
+          {
+            "id": "35d3fc6c-28a8-53fe-9574-e92d87f01c19",
+            "score": 0.6756483316421509,
+            "metadata": {
+              "text": "treatment or adverse effects  and dosing of medications \nare not likely to be adversely affected by environmental \nexposures and tend to have large effect sizes [95]. There\nfore, some of the variability in response or dosing could \nbe due to genetic variation. Pharmacogenetics in the area \nof diabetes is still in its infancy, although there have been \nstudies examining KCNJ11  and sulfonylurea therapy for \nboth rare [96,97] and common [98,99] variants and res",
+              "title": "2011 - Inherited destiny Genetics and gestational diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 64,
+              "document_id": "6d341cd2-ae56-5807-9aff-39298efc4d06",
+              "extraction_id": "48c3e4a4-db23-5fca-9c46-775e80894655",
+              "associatedQuery": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "2": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQIhRURTB7PnDm4Bf2cVOJhSbs0",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Protective genetic factors against diabetes in elderly populations can be understood through several key insights from the provided context:\n\n1. **Genome-Wide Association Studies (GWAS)**: Research has identified common genetic variants associated with fasting proinsulin levels, which provide new insights into the pathophysiology of type 2 diabetes. These findings suggest that certain genetic variants may play a protective role by influencing insulin regulation and glucose metabolism in the elderly [3].\n\n2. **Single Nucleotide Polymorphisms (SNPs)**: Studies have identified specific SNPs that are associated with diabetes risk. For example, some genetic mutations are linked to early-onset diabetes, but individuals with certain protective alleles may retain normal glucose tolerance into late adulthood. This indicates that specific genetic configurations can delay or prevent the onset of diabetes in elderly populations [6].\n\n3. **Gene-Environment Interactions**: The interaction between genetic factors and environmental influences is crucial in understanding diabetes risk. Protective genetic factors may interact with lifestyle and environmental factors to reduce the likelihood of developing diabetes in older adults [7].\n\n4. **Oxidative Stress Protection**: Certain genetic factors may protect against oxidative stress-induced insulin-deficient diabetes. This suggests that genetic mechanisms that enhance the body's ability to manage oxidative stress could be protective against diabetes in the elderly [9].\n\nIn summary, protective genetic factors against diabetes in elderly populations include specific genetic variants that influence insulin regulation, SNPs that delay diabetes onset, gene-environment interactions, and genetic mechanisms that protect against oxidative stress. These factors collectively contribute to a reduced risk of developing diabetes in older adults.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797794,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 321,
+          "prompt_tokens": 1406,
+          "total_tokens": 1727
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+            "score": 0.674344539642334,
+            "metadata": {
+              "text": "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+              "title": "2008 - Glossary of Genetics Genomics Terms.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+              "extraction_id": "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "0ccd2114-85e2-5aa3-85b5-3ae4b202037a",
+            "score": 0.6731885270363982,
+            "metadata": {
+              "text": "ger, will develop diabetes because the prevalence of diabetes increases\nwith age. In order to circumvent this problem, age was adjusted for in2 K. Ramya et al. / Gene xxx (2013) xxx xxx\nPlease cite this article as: Ramya, K., et al., Genetic association of ADIPOQ gene variants with type 2 diabetes, obesity and serum adiponectin levels\nin south Indian population, Gene (2013), http://dx.doi.org/10.1016/j.gene.2013.09.012",
+              "title": "2013 - Genetic association of ADIPOQ gene variants with type 2 diabetes, obesity.pdf",
+              "version": "v0",
+              "chunk_order": 29,
+              "document_id": "6a2afe9a-51c0-52a6-be40-c034fb45c69a",
+              "extraction_id": "c2875fb7-31e1-51f2-87b8-f2c21d597d08",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "bf4247f8-f82c-5c40-b5af-3a68476f54bf",
+            "score": 0.6689281066932713,
+            "metadata": {
+              "text": "elderly population. PLoS One 9: e100548. doi: 10.1371/journal.pone.0100548 PMID: 24959828\n23. Strawbridge RJ, Dupuis J, Prokopenko I, Barker A, Ahlqvist E, Rybin D, et al. (2011) Genome-wide\nassociation identifies nine common variants associated with fasting proinsulin levels and provides new\ninsights into the pathophysiology of type 2 diabetes. Diabetes 60: 2624 2634. doi: 10.2337/db11-0415\nPMID: 21873549",
+              "title": "2015 - The Association of Type 2 Diabetes Loci.pdf",
+              "version": "v0",
+              "chunk_order": 161,
+              "document_id": "a2abccec-e5cb-56ae-93b9-3040bc09f148",
+              "extraction_id": "8703f848-f3bc-58b2-932a-a49b1f0fb002",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "4b289db2-bda2-51d1-8f65-1cda62a4e40f",
+            "score": 0.6677386164665222,
+            "metadata": {
+              "text": "information for diabetes risk prediction - differences according to sex, age, family history and\nobesity. PloS One 8(5):e64307. doi: 10.1371/journal.pone.0064307\nNeel JV (1962) Diabetes mellitus: a thrifty genotype rendered detrimental by progress? Am J\nHum Genet 14:353362\nNeel JV (1999) The thrifty genotype in 1998. Nutr Rev 57(5 Pt 2):S2S9\nPalmer ND, McDonough CW, Hicks PJ, Roh BH, Wing MR, An SS, Hester JM, Cooke JN,",
+              "title": "2016 - Genome-Wide Association Studies of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 255,
+              "document_id": "185aad8a-6a5b-5b18-81c4-ef251edef5e7",
+              "extraction_id": "c92c81bb-ede1-5e01-af7d-e244214fc856",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "9fc663d2-2833-51e7-ae6a-55b007a6e27c",
+            "score": 0.6663793921470642,
+            "metadata": {
+              "text": "insulin resistance, hypertension, and dyslipidemia (Obesity Education Initiative Expert Panel,  1998 ). Insulin resist-ance increases with age, and the incidence of diabetes rises sharply in the elderly (American Diabetes Association,  2010a ). \n In a few patients, genetic mutations appear to be associ-\nated with T2D (Roche  et al.  ,  2005 ; American Diabetes \nAssociation,  2010a ). For example, recent work using the DPP data has led to the identi  cation of 27 single nucle-",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 9596,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "eb3de845-98db-505c-bb7f-c0f3259875fc",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "a67fe95c-11ac-5d06-8757-209f9abd0fd8",
+            "score": 0.6663011312484741,
+            "metadata": {
+              "text": "early-onset diabetes in some pedigrees, but it also maybe observed in individuals who retain normal glucose\ntolerance into late adulthood and beyond ( ). Studying\n individuals from  HNF A-MODY families,\nLango Allen et al. () found that a -SNP T Dr s P S\nwas signi cantly associated with earlier age of diabetes\ndiagnosis, with each additional risk allele accelerating\ndiagnosis by ~ months.\nClinical application of predictive scores",
+              "title": "2019 - Genetic Risk Scores for Diabetes Diagnosis.pdf",
+              "version": "v0",
+              "chunk_order": 92,
+              "document_id": "8c66aca1-d4ba-534d-a037-4273de340ee1",
+              "extraction_id": "a8162fba-c5da-504f-a018-b6242a026bc5",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "14608f3c-f5fa-52d6-b2c7-6ce6fd40985f",
+            "score": 0.666239599361397,
+            "metadata": {
+              "text": "12. de Miguel-Yanes JM, Shrader P, Pencina MJ, Fox CS, Manning AK, et al. 2011. Genetic risk reclassi-\ncation for type 2 diabetes by age below or above 50 years using 40 type 2 diabetes risk single nucleotide\npolymorphisms. Diabetes Care 34:12125\n13. Dempe A, Scherag A, Hein R, Beckmann L, Chang-Claude J, Schafer H. 2008. Gene-environment\ninteractions for complex traits: denitions, methodological requirements and challenges. Eur. J. Hum.\nGenet. 16:116472",
+              "title": "2012 - Gene-Environment Interactions in the Development of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 85,
+              "document_id": "ea9601ed-ad83-506e-b1b7-e7211671ff73",
+              "extraction_id": "b961664b-5008-547c-a302-ee8c719f68fd",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "32b978f9-4bce-5f39-a655-09685b0d0f1f",
+            "score": 0.6639460124937315,
+            "metadata": {
+              "text": "diabetes risk genes predicts impaired glucose tolerance in female andobese individuals. PLoS One . 2012;7:e38224 .\n74. Stevens JW, Khunti K, Harvey R, et al. Preventing the progression\nto type 2 diabetes mellitus in adults at high risk: a systematic review\nand network meta-analysis of lifestyle, pharmacological and surgicalinterventions. Diabetes Res Clin Pract . 2015;107:320 331(in eng).Cumulative Risk Alleles and Type 2 Diabetes Mellitus\n18jJ Epidemiol 2018;28(1):3-18",
+              "title": "2018 - Quantitative Relationship Between Cumulative Risk Alleles Based.pdf",
+              "version": "v0",
+              "chunk_order": 193,
+              "document_id": "d585896e-1c32-51cb-827d-e4fd3b3943f3",
+              "extraction_id": "6db9f25e-36fd-51c0-be36-6dfacd963b1b",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "74ab0f97-7758-5b01-b178-afee23d2e6cc",
+            "score": 0.663611650466919,
+            "metadata": {
+              "text": "and protects against oxidative stress-induced insulin-deficient \ndiabetes. PLoS One  2014; 9: e87941 [PMID: 24498408 DOI: \n10.1371/journal.pone.0087941]\n23 Maahs DM , West NA, Lawrence JM, Mayer-Davis EJ. Epidemiology \nof type 1 diabetes. Endocrinol Metab Clin North Am  2010; 39: \n481-497 [PMID: 20723815 DOI: 10.1016/j.ecl.2010.05.011]\n24 Daneman D . Type 1 diabetes. Lancet  2006; 367: 847-858 [PMID: \n16530579 DOI: 10.1016/S0140-6736(06)68341-4]",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 127,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "b1c7a0c1-90a0-54fe-a662-9113e44e2c9f",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          },
+          {
+            "id": "10d30a80-821a-5d09-988b-60bc71eae43c",
+            "score": 0.6612891554832458,
+            "metadata": {
+              "text": "Sosenko JM, Skyler JS, Krischer JP , Greenbaum CJ, Mahon J,\nRafkin LE, Cuthbertson D, Cowie C, Herold K, Eisen-barth G, et al. 2010. Glucose excursions between states\nof glycemia with progression to type 1 diabetes in the\ndiabetes prevention trial-type 1 (DPT-1). Diabetes 59:\n23862389.\nSteck AK, Armstrong TK, Babu SR, Eisenbarth GS. 2011.\nType 1 Diabetes Genetics Consortium. Stepwise or linear\ndecrease in penetrance of type 1 diabetes with lower-risk\nHLA genotypes over the past 40 years. Diabetes 60:",
+              "title": "2012 - The Pathogenesis and Natural History of Type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 165,
+              "document_id": "acad2a9b-1149-539b-b335-661176d631f1",
+              "extraction_id": "b797dd19-b8f4-5dc9-93ee-ace7594bf3bf",
+              "associatedQuery": "Explain Protective Genetic Factors Against Diabetes in Elderly Populations"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "3": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQPOsxOK9DJcrr7qBEh29WBnCmr",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Lifestyle modifications, including increased physical activity (PA) and prudent food consumption, have been shown to be effective in preventing obesity and type 2 diabetes mellitus (T2DM) [1]. These modifications can have a sustained positive effect on diabetes risk, even independently of body weight and weight loss [1]. This suggests that the benefits of lifestyle changes extend beyond mere weight management.\n\nFurthermore, lifestyle modifications can attenuate the negative effects on metabolic profiles, body weight, and diabetes risk, even in individuals with genetic susceptibility to T2DM [2]. This indicates that lifestyle changes can potentially eliminate the increased risk of developing T2DM in genetically predisposed individuals.\n\nThe effectiveness of lifestyle changes in reducing the rate of diabetes development has been demonstrated in prediabetic populations, where both reduced macronutrient intake and increased exercise have been shown to lower inflammation, a key factor in diabetes progression [6]. Additionally, randomized controlled trials have shown that lifestyle interventions can reduce the incidence of T2DM by approximately 60% [4].\n\nIn summary, lifestyle modifications play a crucial role in reducing the risk of aging-associated diabetes by improving metabolic health, reducing inflammation, and mitigating genetic risks, thereby offering a comprehensive approach to diabetes prevention [1], [2], [4], [6].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797801,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 255,
+          "prompt_tokens": 1264,
+          "total_tokens": 1519
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "4d08d1ea-03a2-53d9-bb9d-df46c3fc2dcb",
+            "score": 0.683348735670708,
+            "metadata": {
+              "text": "demonstrate that lifestyle modi  cation comprising higher levels \nof PA and prudent food consumption may be e  ective in obesity \nand T2DM prevention. The positive e  ect of lifestyle on body \nweight seems somewhat transient, whereas the e  ect on T2DM \nis sustained for longer periods. Furthermore, lifestyle modi  ca-\ntion appears to have an e  ect on diabetes risk independently of \nbody weight and even of weight loss.\n     Lifestyle and Genetics in Obesity and Type 2 Diabetes",
+              "title": "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 44,
+              "document_id": "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+              "extraction_id": "93638ea5-6d1f-5b6a-9629-798804de24dd",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "be87703d-e7b2-5db5-9983-5412e09a57ba",
+            "score": 0.6759604215621948,
+            "metadata": {
+              "text": "suggested to attenuate its negative e  ect on metabolic pro  le, \nbody weight, and diabetes risk (   Franks et al., 2007   ;    Kilpelainen et al., 2008   ;    Lindi et al., 2002   ;    Ruchat et al., 2010   ) (     \n       Table 1   ). \nThe notion that lifestyle modi  cation can eliminate the increased \nrisk for development of T2DM in subjects with genetic suscepti-bility is also supported by  ndings of    Barwell et al. (2008)    who",
+              "title": "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 52,
+              "document_id": "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+              "extraction_id": "93638ea5-6d1f-5b6a-9629-798804de24dd",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "5c99d3b9-8b1a-5be4-8689-97662557dac4",
+            "score": 0.6684973239898682,
+            "metadata": {
+              "text": "M., Bray, G. A. et al (2006). Effect of weight loss withlifestyle intervention on risk of diabetes. Diabetes\nCare, 29 , 21022107.\nHerder, C., Peltonen, M., Koenig, W., Sutfels, K.,\nLindstrom, J. et al (2009). Anti-inammatory effect oflifestyle changes in the Finnish Diabetes PreventionStudy. Diabetologia, 52 , 433442.\nHung, J., McQuillan, B. M., Thompson, P . L., and Beilby,",
+              "title": "2010 - Candidate Gene and Genome-Wide Association Studies in Behavioral Medicine.pdf",
+              "version": "v0",
+              "chunk_order": 6056,
+              "document_id": "17637a6f-804e-50e4-9cf5-37318e17f15c",
+              "extraction_id": "3bf4c712-4a5a-5a67-9e2a-d83fba8c1cb4",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "4c5eb67d-3bdd-58d7-bf5e-d1d08a47118d",
+            "score": 0.6649004220962524,
+            "metadata": {
+              "text": "22\n       Medications for Diabetes \nPrevention \n Even in the most successful of the randomized \ncontrolled trials, the risk reduction for incident diabetes following lifestyle intervention was ~60 % [ \n48  51 ]. That raises the argument as to",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 238,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "bc31e1f8-f149-50c4-82c1-86e2d465202c",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "3fd5d259-8fd4-5b0d-bb64-134424baeef2",
+            "score": 0.6619968414306641,
+            "metadata": {
+              "text": "SRT2104 extend the life span of obese mice and protect against age-\nrelated changes in multiple tissues ( 215).\nThe antidiabetic drug metformin also induces effects similar to CR\n(216). Diabetes is considered an age-associated disease, and disturbances\nin insulin signaling and carbohydrate homeostasis may essentially lead toother age-related complications, including cancer, if untreated. Along\nwith its antidiabetic properties, metformin supplementation has been",
+              "title": "2016 - Epigenetics and aging.pdf",
+              "version": "v0",
+              "chunk_order": 184,
+              "document_id": "71b206ec-81bd-5194-8b21-ae522f8cbc2d",
+              "extraction_id": "4fb7ef96-fe5a-5d81-bf28-c756656f1cbb",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "8c4e8b2c-6730-541c-8a2e-22fbd7ddb487",
+            "score": 0.6619370781220759,
+            "metadata": {
+              "text": "74\nThe mechanism underlying this effect of exercise is not known;however, it is noteworthy that lifestyle change is a very effectiveway to reduce the rate of development of diabetes in a predia-betic population, as shown by the diabetes prevention study.\n75,76\nBoth a reduction in macronutrient intake and exercise cause areduction in inflammation.\nReferences\n1. Reaven GM. Banting lecture 1988. Role of insulin resistance in human\ndisease. Diabetes . 1988;37:15951607.",
+              "title": "2005 - Metabolic Syndrome A Comprehensive Perspective Based  on Interactions Between Obesity Diabetes and Inflammation.pdf",
+              "version": "v0",
+              "chunk_order": 64,
+              "document_id": "de2aa54c-eb0f-5dc3-ac92-23ee3215dd2a",
+              "extraction_id": "c6cfb382-639a-5dd4-a9c8-c8f57b6daabc",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "6f12fbd4-284d-5d41-9d60-54aa268a635d",
+            "score": 0.6576255755908962,
+            "metadata": {
+              "text": "uals, but also for low-risk lean individuals (   Kriska et al., 2003   ;    Meisinger et al., 2005   ;    Schulze et al., 2006   ). Furthermore, health-ier lifestyle has been shown to be associated with decreased incidence of obesity- and T2DM-related complications such as hypertension and cardiovascular disease (   Manson et al., 2002   ;    Stampfer et al., 2000   ).\n    Evidence from randomized controlled trails\n  The e  cacy of lifestyle changes in obesity and T2DM prevention",
+              "title": "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 25,
+              "document_id": "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+              "extraction_id": "551087b1-8e80-5a7b-839a-304f566a6417",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "06c32067-10ea-599a-9af2-9413ad8c8984",
+            "score": 0.6573020815849304,
+            "metadata": {
+              "text": "extends lifespan. Cell Rep. 20, 451463 (2017). [PubMed: 28700945] \n64. Barzilai N & Ferrucci L Insulin resistance and aging: A cause or a protective response? J. \nGerontol. Ser. A 67, 13291331 (2012).\n65. Holmes MV , Ala-Korpela M & Smith GD Mendelian randomization in cardiometabolic disease: \nchallenges in evaluating causality. Nat. Rev. Cardiol. 14, 577590 (2017). [PubMed: 28569269] \n66. Holmes MVet al.Mendelian randomization of blood lipids for coronary heart disease. Eur. Heart J.",
+              "title": "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf",
+              "version": "v0",
+              "chunk_order": 153,
+              "document_id": "4d082da4-fa48-5170-8147-c4fea47a5d4b",
+              "extraction_id": "bca61863-81b3-5ef7-850d-10cc9577a9e1",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "57012499-8167-5e51-8cb5-b436460e24a2",
+            "score": 0.6546722845635502,
+            "metadata": {
+              "text": "70. Knowler WC, Barrett-Connor E, Fowler SE,et al.; Diabetes Prevention Program ResearchGroup. Reduction in the incidence of type 2diabetes with lifestyle intervention or metfor-min. N Engl J Med 2002;346:393 403\n71. Crandall J, Schade D, Ma Y, et al.; DiabetesPrevention Program Research Group. The in-uence of age on the effects of lifestyle mod-",
+              "title": "2020 - Precision Medicine in Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 248,
+              "document_id": "0ad5b2de-d782-5d43-b294-bff5c7befd2d",
+              "extraction_id": "68183d3e-4c95-5363-92b8-891dccf7e3d6",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          },
+          {
+            "id": "2dc0e0fa-b061-5c09-8af3-02a44811042e",
+            "score": 0.6545852032551059,
+            "metadata": {
+              "text": "diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. N Engl J Med 2001; 344: 134350.\n114 Knowler WC, Barrett-Connor E, Fowler SE, et al. Reduction in \nthe incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 2002; 346: 393403.\n115 Ramachandran A, Snehalatha C, Mary S, Mukesh B, Bhaskar AD,",
+              "title": "2011 - Type 2 diabetes across generations from pathophysiology to prevention and management.pdf",
+              "version": "v0",
+              "chunk_order": 181,
+              "document_id": "0f49b102-1d7e-5702-af30-35e5f2ed93a6",
+              "extraction_id": "de689016-3a4c-53b2-b3bf-a25ccbcbbb02",
+              "associatedQuery": "Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "4": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQVK9rNW7qGGShVvwBLR6uFNp9v",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Longevity genes play a significant role in protecting against diabetes by influencing various biological pathways that contribute to better glucose tolerance and metabolic health. Here are some key points explaining their role:\n\n1. **Favorable Glucose Tolerance and Lower Prevalence of Metabolic Syndrome**: Research has shown that individuals from long-lived families tend to have favorable glucose tolerance and a lower prevalence of metabolic syndrome, which are critical factors in reducing the risk of type 2 diabetes [3].\n\n2. **Insulin/IGF-1 Pathway**: The insulin/IGF-1 signaling pathway is crucial in regulating lifespan and metabolic processes. Mutations in the insulin-like growth factor I receptor (IGF-1R) have been found in centenarians, suggesting that these mutations may contribute to longevity by enhancing insulin sensitivity and glucose metabolism, thereby protecting against diabetes [9].\n\n3. **Genetic Risk and Longevity**: Studies have indicated that nonagenarians and centenarians carry the same number of disease risk alleles for type 2 diabetes as younger controls, yet they do not exhibit the disease. This suggests that longevity genes may counteract the effects of diabetes risk alleles, possibly through mechanisms that enhance metabolic health and insulin sensitivity [2], [5].\n\n4. **Use of Centenarians as Super-Controls**: Centenarians are often used as super-controls in genetic studies to assess the biological relevance of genetic risk factors for common age-related diseases, including type 2 diabetes. This approach helps identify genetic factors that contribute to both longevity and protection against diabetes [6].\n\nIn summary, longevity genes contribute to protecting against diabetes by promoting favorable glucose tolerance, enhancing insulin sensitivity, and counteracting the effects of diabetes risk alleles through various genetic and metabolic pathways [2], [3], [5], [6], [9].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797807,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 370,
+          "prompt_tokens": 1342,
+          "total_tokens": 1712
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "849d5eca-38a4-553e-83da-a967ba81614c",
+            "score": 0.6423403024673462,
+            "metadata": {
+              "text": "Longitudinal Study of Aging. The natural history of progression from normalglucose tolerance to type 2 diabetes in the Baltimore Longitudinal Study\nof Aging. Diabetes 2003; 52:1475 1484.\n22 Hornbak M, Allin KH, Jensen ML, Lau CJ, Witte D, Jrgensen ME ,e ta l .A\ncombined analysis of 48 type 2 diabetes genetic risk variants shows nodiscriminative value to predict time to first prescription of a glucose lowering\ndrug in Danish patients with screen detected type 2 diabetes. PLoS One\n2014; 9:e104837.",
+              "title": "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+              "version": "v0",
+              "chunk_order": 94,
+              "document_id": "46081466-a50f-59d8-893d-8b8883b38507",
+              "extraction_id": "32275a81-cd67-525e-b6c1-c68dc441ab62",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "260a4030-b151-5afd-ae06-86246ee73a7a",
+            "score": 0.641514203458179,
+            "metadata": {
+              "text": "A set of currently known alleles increasing the risk for coronary\nartery disease, cancer, and type 2 diabetes as identi ed by genome-\nwide association studies was tested for compatibility with human\nlongevity. Here, we show that nonagenarian siblings from long-\nlived families and singletons older than 85 y of age from the general\npopulation carry the same number of disease risk alleles as young\ncontrols. Longevity in this study population is not compromised by",
+              "title": "2010 - Genome-wide association study (GWAS)-identified disease risk alleles do not compromisehuman longevity.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "200c2966-b647-552f-8504-0d6fb7f50bfa",
+              "extraction_id": "680423ed-71cc-5049-a80f-c78fe86e35ff",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "558acee9-89ff-599a-8502-bc181bc94995",
+            "score": 0.6379552483558655,
+            "metadata": {
+              "text": "52561.x )\n17 Atzmon, G., Schechter, C., Greiner, W ., Davidson, D.,\nRennert, G. & Barzilai, N. 2004 Clinical phenotype of\nfamilies with longevity. J. Am. Geriatr. Soc. 52, 274\n277. ( doi:10.1111/j.1532-5415.2004.52068.x )\n18 Rozing, M. P . et al. 2009 Human insulin/IGF-1 and\nfamilial longevity at middle age. Aging (Albany NY )1,\n714722.\n19 Rozing, M. P . et al. 2010 Favorable glucose tolerance\nand lower prevalence of metabolic syndrome in",
+              "title": "2011 - Genomics of human longevity.pdf",
+              "version": "v0",
+              "chunk_order": 97,
+              "document_id": "2e038219-fdaa-506f-9cd3-51379054130e",
+              "extraction_id": "7c183ae5-f10e-5f0c-962e-32135887b3bd",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "06c32067-10ea-599a-9af2-9413ad8c8984",
+            "score": 0.6368773579597473,
+            "metadata": {
+              "text": "extends lifespan. Cell Rep. 20, 451463 (2017). [PubMed: 28700945] \n64. Barzilai N & Ferrucci L Insulin resistance and aging: A cause or a protective response? J. \nGerontol. Ser. A 67, 13291331 (2012).\n65. Holmes MV , Ala-Korpela M & Smith GD Mendelian randomization in cardiometabolic disease: \nchallenges in evaluating causality. Nat. Rev. Cardiol. 14, 577590 (2017). [PubMed: 28569269] \n66. Holmes MVet al.Mendelian randomization of blood lipids for coronary heart disease. Eur. Heart J.",
+              "title": "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf",
+              "version": "v0",
+              "chunk_order": 153,
+              "document_id": "4d082da4-fa48-5170-8147-c4fea47a5d4b",
+              "extraction_id": "bca61863-81b3-5ef7-850d-10cc9577a9e1",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "19faf41b-7716-5244-a9c3-196c2e5cd477",
+            "score": 0.6361441016197205,
+            "metadata": {
+              "text": "et al., 2012 ), possibly due to the indirect and/or a mixed relation-\nship between individual genetic disease risk loci and exceptional\nlongevity (as discussed by Fortney et al., 2015 ) versus the poten-\ntially more direct relationship between aging in the absence of\ndisease and overall genetic disease risk.\nOn the other hand, no difference in genetic risk is observed for\ntype 2 diabetes genetic risk and cancer. Some of these ndings\n(type 2 diabetes, colon, and lung cancer) can be explained by the",
+              "title": "2016 - Whole-Genome Sequencing of a Healthy Aging Cohort.pdf",
+              "version": "v0",
+              "chunk_order": 55,
+              "document_id": "3a287979-e475-545b-99e6-4c1925653a79",
+              "extraction_id": "c55b4a12-6cc8-5594-87d4-53e4f8f023d1",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "369b0a64-a439-573a-99dd-67d911026c37",
+            "score": 0.6348070095421976,
+            "metadata": {
+              "text": "5. Garagnani P, Giuliani C, Pirazzini C, etal. Centenarians as super-controls to assess the biological relevance of genetic risk factors for common age-related diseases: a proof of principle on type 2 diabetes. Aging (Albany NY). 2013;5:373385. doi:10.18632/aging.100562\n 6. Sebastiani P, Nussbaum L, Andersen SL, Black MJ, Perls TT. Increasing \nsibling relative risk of survival to older and older ages and the importance",
+              "title": "2017 - Four Genome-Wide Association Studies Identify New.pdf",
+              "version": "v0",
+              "chunk_order": 139,
+              "document_id": "c10653f6-b3d7-5b92-9271-ab8fcc7905a7",
+              "extraction_id": "a6075268-c86f-536b-a6b4-d2e18be9f117",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+            "score": 0.634658694267273,
+            "metadata": {
+              "text": "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+              "title": "2008 - Glossary of Genetics Genomics Terms.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+              "extraction_id": "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "a45fa299-f675-5050-a510-dfa6d0954a25",
+            "score": 0.6339999626278869,
+            "metadata": {
+              "text": "The pursuit of longevity has been the goal of humanity since ancient times. Genetic alterations have been demonstrated to affect lifespan. As increasing numbers of pro-longevity genes and anti-longevity genes have been discovered in Drosophila, screening for functionally important genes among the large number of genes has become difficult. The aim of the present study was to explore critical genes and pathways affecting longevity in Drosophila melanogaster. In this study, 168 genes associated with",
+              "title": "2019 - Bioinformatic prediction of critical genes and pathways.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "01201944-11f2-52d9-ac3e-7af685d4a4c4",
+              "extraction_id": "4109e561-4721-5f4e-b4d5-4353f8d1741d",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "cfe4eab8-fb34-5d0b-ae67-79c3d9993e15",
+            "score": 0.6321871280670166,
+            "metadata": {
+              "text": "offspring without diabetes mellitus of nonagenariansiblings: the Leiden Longevity Study. J. Am. Geriatr.\nSoc. 58, 564569. ( doi:10.1111/j.1532-5415.2010.\n02725.x )\n20 Suh, Y . et al. 2008 Functionally signicant insulin-like\ngrowth factor I receptor mutations in centenarians.Proc. Natl Acad. Sci. USA 105, 34383442. ( doi:10.\n1073/pnas.0705467105 )\n21 Heijmans, B. T ., Beekman, M., Houwing-Duistermaat,\nJ. J., Cobain, M. R., Powell, J., Blauw, G. J., van der",
+              "title": "2011 - Genomics of human longevity.pdf",
+              "version": "v0",
+              "chunk_order": 98,
+              "document_id": "2e038219-fdaa-506f-9cd3-51379054130e",
+              "extraction_id": "7c183ae5-f10e-5f0c-962e-32135887b3bd",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          },
+          {
+            "id": "a67fe95c-11ac-5d06-8757-209f9abd0fd8",
+            "score": 0.6305898427963257,
+            "metadata": {
+              "text": "early-onset diabetes in some pedigrees, but it also maybe observed in individuals who retain normal glucose\ntolerance into late adulthood and beyond ( ). Studying\n individuals from  HNF A-MODY families,\nLango Allen et al. () found that a -SNP T Dr s P S\nwas signi cantly associated with earlier age of diabetes\ndiagnosis, with each additional risk allele accelerating\ndiagnosis by ~ months.\nClinical application of predictive scores",
+              "title": "2019 - Genetic Risk Scores for Diabetes Diagnosis.pdf",
+              "version": "v0",
+              "chunk_order": 92,
+              "document_id": "8c66aca1-d4ba-534d-a037-4273de340ee1",
+              "extraction_id": "a8162fba-c5da-504f-a018-b6242a026bc5",
+              "associatedQuery": "Explain The Role of Longevity Genes in Protecting Against Diabetes"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "5": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQdCy9515POnQgOjqu9IhwdWHwq",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Diabetes is classified into several types based on different criteria. The main types of diabetes are:\n\n1. **Type 1 Diabetes (T1D)**: Also known as insulin-dependent diabetes mellitus (IDDM) or juvenile onset diabetes, it is an autoimmune disease that usually occurs in childhood but can onset at any age [4], [6], [7].\n\n2. **Type 2 Diabetes (T2D)**: Also known as non-insulin-dependent diabetes mellitus (NIDDM) or adult-onset diabetes, it is characterized by insulin resistance and relative insulin deficiency [4], [6].\n\n3. **Gestational Diabetes Mellitus (GDM)**: This type occurs during pregnancy and is defined as any degree of glucose intolerance with onset or first recognition during pregnancy [4].\n\n4. **Other Types**: These include monogenic diabetes (such as maturity onset diabetes of the young [MODY], neonatal diabetes, mitochondrial diabetes), and syndromes of insulin resistance [5].\n\nAdditionally, a 2018 study identified five novel subtypes of adult-onset diabetes, which include severe autoimmune diabetes (SAID, including type 1 diabetes and latent autoimmune diabetes in adults [LADA]), severe insulin-deficient diabetes (SIDD), severe insulin-resistant diabetes (SIRD), mild obesity-related diabetes (MOD), and mild age-related diabetes [10].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797815,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 273,
+          "prompt_tokens": 1109,
+          "total_tokens": 1382
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "2454130e-8098-5c7f-944b-c5933a8409f8",
+            "score": 0.6786564184036018,
+            "metadata": {
+              "text": "disorder caused by different factors characterized by a chronic high level of blood sugar with distur-bances to carbohydrate, fat, and protein metabo-lism resulting from defects in insulin secretion, insulin action, or both [ \n83 ]. Scientists have \ndivided diabetes into three different types: Type 1 F. Assah and J.C. Mbanya",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 415,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "d5004507-475d-5ac1-9aa6-b5fd664b8bf7",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "6ba4950a-304f-5257-bd31-3e83a2f52df1",
+            "score": 0.6597765684127808,
+            "metadata": {
+              "text": "Type 1 and type 2 diabetes are the two main types, with type 2 diabetesaccounting for the majority ( >85%) of total diabetes prevalence. Both",
+              "title": "2010 - Epidemiology of diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "7f1cb121-3a35-571e-81c9-96a3afd66448",
+              "extraction_id": "4307e79a-c3ae-51d7-8510-820375d2c4ca",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "008aa60f-789b-519b-b81d-f437042c3df8",
+            "score": 0.656937301158905,
+            "metadata": {
+              "text": "classical classification of diabetes as proposed by the \nAmerican Diabetes Association (ADA) in 1997 as type \n1, type 2, other types, and gestational diabetes mellitus \n(GDM) is still the most accepted classification and \nadopted by ADA[1]. Wilkin[8] proposed the accelerator \nhypothesis that argues type 1 and type 2 diabetes \nare the same disorder of insulin resistance set against \ndifferent genetic backgrounds[9]. The difference bet -\nween the two types relies on the tempo, the faster",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 13,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "6a734fb4-5ce1-5f11-b1fb-288e38ef9a6c",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "4660d51a-178a-5a14-a27a-2eeef1b0bf95",
+            "score": 0.6504240036010742,
+            "metadata": {
+              "text": "41\ndiabetes mellitus (formerly insulin- dependent \ndiabetes mellitus  IDDM) or type 1 diabetes is also known as juvenile onset diabetes. Type 2 diabetes mellitus (non-insulin-dependent diabe-tes mellitus (formerly non-insulin- dependent dia-betes, NIDDM) or type 2 diabetes  adult-onset diabetes) is found in individuals who are insulin-resistant and who usually have relative insulin de ciency. Gestational diabetes mellitus (GDM), \nthe third type, is de  ned as any degree of glucose",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 416,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "b2cd4ee5-81b3-5701-8cd1-8dbea4242cc1",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "64fa332d-1415-584b-8b7c-43e8e3e698dc",
+            "score": 0.6410542917565794,
+            "metadata": {
+              "text": "Diabetes is a metabolic disease characterized by uncontrolled hyper-glycemia resulting from the variable combination of dysfunctional in-sulin secretion by pancreatic beta cells and insulin resistance. It is\ngenerally classi ed into monogenic diabetes (maturity onset diabetes\nof the young [MODY], neonatal diabetes, mitochondrial diabetes[54,55] , syndromes of insulin resistance) [56], type 1 diabetes (T1D)\nand type 2 diabetes (T2D). The metabolic syndrome is a combination of",
+              "title": "2016 - Dissecting diabetes metabolic disease.pdf",
+              "version": "v0",
+              "chunk_order": 43,
+              "document_id": "eee2f79d-e093-52fb-871a-798fd859235e",
+              "extraction_id": "998a92ba-e7fc-5553-b629-7b5797fbfafe",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "3ef149b8-30fa-533b-b950-fc4122586080",
+            "score": 0.6398564171748289,
+            "metadata": {
+              "text": "Diabetes mellitus is a group of metabolic diseases characterized by hyperglycemia (elevated levels of glucose in the blood) resulting from defects in insulin secretion, insulin action, or both. There are two major types of diabetes mellitus: type 1 (T1D) and T2D, although several other rarer forms also exist [13]. T1D is an autoimmune disease that usually occurs in childhood, but the onset may occur at any age. T1D results from a cellular-mediated autoimmune destruction of the beta-cells in the pancreatic",
+              "title": "2011 - Interaction Between Exercise and Genetics.pdf",
+              "version": "v0",
+              "chunk_order": 14,
+              "document_id": "c36db75e-4b76-540d-9efb-d0e156e61541",
+              "extraction_id": "ed6dcfee-8273-5512-8fb4-fc51a9c921da",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "ecc77a70-68dc-51a8-92a3-50f417deb98e",
+            "score": 0.6372276544570923,
+            "metadata": {
+              "text": "2. Classification of Diabetes\nOn the basis of insulin deficiency, diabetes can be classifiedintothefollowingtypesasfollows.2.1. Insulin Dependent Diabetes Mellitus (IDDM). It is also\nknown as juvenile onset diabetes or type 1 diabetes, which\naccounts for 510% of the patients, resulting from cellular-mediated autoimmune destruction of the pancreatic cells.\nThediseasecanaffectpeopleofallagesbutusuallyoccursin\nchildrenoryoungadults.Regularsupplyofinsulininjections",
+              "title": "2015 - Recent Trends in Therapeutic Approaches for Diabetes Management  A Comprehensive Updat.pdf",
+              "version": "v0",
+              "chunk_order": 25,
+              "document_id": "ec4921c2-af14-56cc-aed3-65f8ea236bde",
+              "extraction_id": "b8e47ab6-95e0-5fbb-bc40-fa9e46c0b1dc",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "b169069b-43f2-5c24-8431-adfcaad27942",
+            "score": 0.6270151138305664,
+            "metadata": {
+              "text": "2 JournalofDiabetesResearch\nType I diabetes \nIDDM\nType II diabetes \nNIDDM \nGestational \ndiabetesPancreas\nIslet of Langerhans-glucagon\nbeta cells: insulin\nGenomic mutationsadministration for \nsurvival\nsugar levels\nInsulin \nresistance\nDefective insulin \nproduction\nIncreased \nmortalityY ounger \npopulationGlobal \npandemicHuman body \nand diabetes \npregnancy, it needs\ncomplete care and \nglucose monitorin g\nglycemic status\nindividual level\nidentification/development of \nlead moleculesRegular insulin\nExercise",
+              "title": "2015 - Recent Trends in Therapeutic Approaches for Diabetes Management  A Comprehensive Updat.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "ec4921c2-af14-56cc-aed3-65f8ea236bde",
+              "extraction_id": "e4d87eba-dfd4-51e5-a560-1ad46924edf1",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "ae1db826-0202-53c9-a251-0fc9216bbf5c",
+            "score": 0.6257643103599548,
+            "metadata": {
+              "text": "However, there are two major clinical types, type 1  diabetes (T1D) and type 2 \ndiabetes (T2D), according to the etiopathology of t he disorder.  T2D appears to be the",
+              "title": "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+              "version": "v0",
+              "chunk_order": 32,
+              "document_id": "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+              "extraction_id": "81a02908-ff22-5136-be83-d53e04a81541",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          },
+          {
+            "id": "ddc1154f-5406-5028-bacb-47a2ee6fbcf4",
+            "score": 0.6254611015319824,
+            "metadata": {
+              "text": "SIDD Severe insulin-deficient diabetes\nSIRD Severe insulin-resistant diabetes\nIntroduction\nIn 2018, a ground-breaking study identified five novel subtypes\nof adult-onset diabetes: severe autoimmune diabetes (SAID,\nincluding type 1 diabetes and latent autoimmune diabetes in\nadults [LADA]) and four subtypes of type 2 diabetes (severe\ninsulin-deficient diabetes [SIDD], severe insulin-resistant diabetes\n[SIRD], mild obesity-related diabetes [MOD] and mild age-",
+              "title": "2023 - Childhood adiposity and novel subtypes of adult-onset diabetes a Mendelian randomisation and genome-wide genetic correlation study.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "fff2bd78-2ac2-5672-b8fd-ed82ab7c910b",
+              "extraction_id": "f0e064be-81a0-5ee9-88da-2a7049c65520",
+              "associatedQuery": "What are the types of diabetes"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "6": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQhFOO3LRPtv9Lg1g6L8gDOic6T",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "There are several types of diabetes. The classical classification includes type 1, type 2, other types, and gestational diabetes mellitus (GDM) [2]. Additionally, there are subtypes of adult-onset diabetes, including severe autoimmune diabetes (SAID), severe insulin-deficient diabetes (SIDD), severe insulin-resistant diabetes (SIRD), mild obesity-related diabetes (MOD), and mild age-related diabetes [4]. Monogenic diabetes, such as Maturity Onset Diabetes of the Young (MODY), also exists [8]. Therefore, the main types of diabetes are:\n\n1. Type 1 diabetes\n2. Type 2 diabetes\n3. Other types of diabetes\n4. Gestational diabetes mellitus (GDM)\n5. Monogenic diabetes (e.g., MODY)\n\nIn summary, there are at least five main types of diabetes, with additional subtypes identified in recent studies.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797819,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 183,
+          "prompt_tokens": 1060,
+          "total_tokens": 1243
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6ba4950a-304f-5257-bd31-3e83a2f52df1",
+            "score": 0.6573393940925598,
+            "metadata": {
+              "text": "Type 1 and type 2 diabetes are the two main types, with type 2 diabetesaccounting for the majority ( >85%) of total diabetes prevalence. Both",
+              "title": "2010 - Epidemiology of diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "7f1cb121-3a35-571e-81c9-96a3afd66448",
+              "extraction_id": "4307e79a-c3ae-51d7-8510-820375d2c4ca",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "008aa60f-789b-519b-b81d-f437042c3df8",
+            "score": 0.6367785930633545,
+            "metadata": {
+              "text": "classical classification of diabetes as proposed by the \nAmerican Diabetes Association (ADA) in 1997 as type \n1, type 2, other types, and gestational diabetes mellitus \n(GDM) is still the most accepted classification and \nadopted by ADA[1]. Wilkin[8] proposed the accelerator \nhypothesis that argues type 1 and type 2 diabetes \nare the same disorder of insulin resistance set against \ndifferent genetic backgrounds[9]. The difference bet -\nween the two types relies on the tempo, the faster",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 13,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "6a734fb4-5ce1-5f11-b1fb-288e38ef9a6c",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "4660d51a-178a-5a14-a27a-2eeef1b0bf95",
+            "score": 0.6247700452804565,
+            "metadata": {
+              "text": "41\ndiabetes mellitus (formerly insulin- dependent \ndiabetes mellitus  IDDM) or type 1 diabetes is also known as juvenile onset diabetes. Type 2 diabetes mellitus (non-insulin-dependent diabe-tes mellitus (formerly non-insulin- dependent dia-betes, NIDDM) or type 2 diabetes  adult-onset diabetes) is found in individuals who are insulin-resistant and who usually have relative insulin de ciency. Gestational diabetes mellitus (GDM), \nthe third type, is de  ned as any degree of glucose",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 416,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "b2cd4ee5-81b3-5701-8cd1-8dbea4242cc1",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "ddc1154f-5406-5028-bacb-47a2ee6fbcf4",
+            "score": 0.6226490139961243,
+            "metadata": {
+              "text": "SIDD Severe insulin-deficient diabetes\nSIRD Severe insulin-resistant diabetes\nIntroduction\nIn 2018, a ground-breaking study identified five novel subtypes\nof adult-onset diabetes: severe autoimmune diabetes (SAID,\nincluding type 1 diabetes and latent autoimmune diabetes in\nadults [LADA]) and four subtypes of type 2 diabetes (severe\ninsulin-deficient diabetes [SIDD], severe insulin-resistant diabetes\n[SIRD], mild obesity-related diabetes [MOD] and mild age-",
+              "title": "2023 - Childhood adiposity and novel subtypes of adult-onset diabetes a Mendelian randomisation and genome-wide genetic correlation study.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "fff2bd78-2ac2-5672-b8fd-ed82ab7c910b",
+              "extraction_id": "f0e064be-81a0-5ee9-88da-2a7049c65520",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "945f57d6-b790-5c1b-a94b-c3076ab28adc",
+            "score": 0.6116316318511963,
+            "metadata": {
+              "text": "7 American Diabetes Association. Diagnosis and classification of diabetes mellitus. Diabetes Care  37(Suppl. 1), S81S90 \n(2014).\n8 Daneman D. Type 1 diabetes. Lancet  367(9513), 847858 \n(2006).\n9 Kahn SE, Cooper ME, Del Prato S. Pathophysiology and treatment of Type 2 diabetes: perspectives on the past, present, and future. Lancet  383(9922), 10681083 (2014).\n\t Describes\tthe\tpathophysiology\tof\tType\t2\tdiabetes\t(T2D)\tin \t\ndetail\twith\tprospective\tof\t -cell\tdysfunction\tand\tpotential",
+              "title": "2015 - Genetics, genomics and personalized medicine in Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 130,
+              "document_id": "d8b85c3e-62f3-5e67-99b0-d0a2f225aff0",
+              "extraction_id": "670074e5-275c-5999-9fb2-2370a1ce3dbf",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "ae1db826-0202-53c9-a251-0fc9216bbf5c",
+            "score": 0.6104669570922852,
+            "metadata": {
+              "text": "However, there are two major clinical types, type 1  diabetes (T1D) and type 2 \ndiabetes (T2D), according to the etiopathology of t he disorder.  T2D appears to be the",
+              "title": "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+              "version": "v0",
+              "chunk_order": 32,
+              "document_id": "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+              "extraction_id": "81a02908-ff22-5136-be83-d53e04a81541",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "191582b1-0a31-5791-b123-4e1fa2672962",
+            "score": 0.6032470464706421,
+            "metadata": {
+              "text": "type 1 diabetes, 723 (53%) had LADA, 162 (12%) had secondary diabetes (coexisting pancreatic disease), and 519 (38%) were unclassifiable because of missing data. The remaining 12\n 112 (883%) patients were considered \nto have type 2 diabetes (appendix).\nTo classify patients into novel diabetes subgroups, first",
+              "title": "2018 - Novel subgroups of adult-onset diabetes and their association.pdf",
+              "version": "v0",
+              "chunk_order": 55,
+              "document_id": "c9a39a25-de31-5553-941b-bf1298cf1693",
+              "extraction_id": "20a6e2db-c742-5f28-a310-62f3bf58d92a",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "ee7614a8-89a2-503a-9da2-4207c22225bc",
+            "score": 0.6026477217674255,
+            "metadata": {
+              "text": "4 \n monogenic diabetes not only provides opportunities for etiology- based treatment of the \nminority of individuals with highly penetrant variants, but also informs broader \nunderstanding of diabetes etiology. Types of monogenic diabetes  \nMaturity onset diabetes of the young (MODY)  \nMODY comprises most  monogenic diabetes cases, with classical characteristics",
+              "title": "2021 - Genomic Medicine in Diabetes Improving the Diagnostic Rate of Monogenic Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 86,
+              "document_id": "e315a891-ba59-57e9-856b-602544375324",
+              "extraction_id": "499fe6d8-73ba-5835-91a7-af3376d1651b",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "13ab2950-2bdc-57d2-840a-042157d2b9e8",
+            "score": 0.5993485928358367,
+            "metadata": {
+              "text": "19\nRACIALIZED ETIOLOGIES OF DIABETES\nDiabetes is not one disease but many. More than 90 percent of all diabetics",
+              "title": "2007 - Bioethnic Conscription Genes, Race.pdf",
+              "version": "v0",
+              "chunk_order": 74,
+              "document_id": "d90126d9-fd87-5b38-87f7-08415f690836",
+              "extraction_id": "d824748c-69ce-5124-8a76-99c3cf221f8a",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          },
+          {
+            "id": "6a7f929c-ba32-51ea-93e1-2b760bcb156d",
+            "score": 0.5927988886833191,
+            "metadata": {
+              "text": "with young-onset diabetes. Diabetologia 55:1265 1272\n13. Schwartz SS, Epstein S, Corkey BE, Grant SF, Gavin JR 3rd,\nAguilar RB (2016) The time is right for a new classification system\nfor diabetes: rationale and implications of the -cell-centric classi-\nfication schema. Diabetes Care 39:179 186\n14. Gale EAM (2006) Declassifying diabetes. Diabetologia 49:1989 \n1995\n15. V oight BF, Scott LJ, Steinthorsdottir V et al (2010) Twelve type 2",
+              "title": "2017 - Painting a new picture of personalised medicine for diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 71,
+              "document_id": "e226b2b1-0bc4-5d79-b931-ad47f21be045",
+              "extraction_id": "2ee5d7fa-babf-5feb-b40a-fd453b4b3f31",
+              "associatedQuery": "How many types of diabetes exist?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "7": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQlbMdmyuTz6o9831V2evAJSxPf",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Yes, there is a direct association between aging and susceptibility to having diabetes. Aging is considered one of the main factors responsible for several complex diseases, including diabetes, particularly type 2 diabetes (T2D) [1]. Additionally, insulin resistance, which is a key factor in the development of diabetes, increases with age, and the incidence of diabetes rises sharply in the elderly [6].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797823,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 78,
+          "prompt_tokens": 1135,
+          "total_tokens": 1213
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "a2125212-46c1-5020-ab62-196db673c2f5",
+            "score": 0.6960610151290894,
+            "metadata": {
+              "text": "The biological processes linking aging and disease risk are poorly understood. Still, aging is considered to date as \none of the main factors responsible for several complex diseases including cancer, cardiovascular diseases, and diabetes.\nParticularly, type 2 diabetes (T2D) has become very prevalent all over the world, with a projected increas-\ning growth rate for the years ahead\n1. The pathophysiological mechanism that underlines diabetic complications",
+              "title": "2017 - Regular exercise participation improves genomic stability in diabetic patients an exploratory study to analyse telomere length and DNA damage.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "dcaf7b09-2d54-5cbf-b061-e3c4e6c6c518",
+              "extraction_id": "0e53122e-a308-55f7-8ee8-a0857ac9c52f",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "962238ce-db77-5c91-8f41-33640d0bf501",
+            "score": 0.6702196198570967,
+            "metadata": {
+              "text": "fects correlate with the functional alterations associated withaging of the brain and with AD pathogenesis (411). The vastmajority of AD cases are late onset and sporadic in origin withaging being the most profound risk factor. Insulin signaling isknown to be involved in the process of brain aging (1220).Insulin dysfunction/resistance in diabetes mellitus (DM) is notonly a common syndrome in the elderly but also considered a riskfactor for AD, especially for vascular dementia (21, 22). The link",
+              "title": "2009 - Antidiabetic drug metformin (GlucophageR) increasesbiogenesis of Alzheimer\u2019s amyloid peptides viaup-regulatingBACE1transcription.pdf",
+              "version": "v0",
+              "chunk_order": 9,
+              "document_id": "78818ecc-83cb-5189-8eba-2ed7cb6d3a7f",
+              "extraction_id": "660377a1-3bd9-5628-ba52-4603b485267a",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "6da64757-8c4d-5ec8-9c70-8da1be37af81",
+            "score": 0.6695453128083146,
+            "metadata": {
+              "text": "striking similarities to people with respect to age-associ-\nated increases in risk for several diseases, the relative risk\nfor individual diseases is not always shared. For example,although the prevalence of type II diabetes in older dogs\nincreases with age, it is still much lower than the current\nprevalence of type II diabetes in people, and the mostcommon form of diabetes in dogs resembles type I diabetes\nin people (Nelson and Reusch 2014 ). Whether this reects",
+              "title": "2016 - The dog aging project translational geroscience in companion.pdf",
+              "version": "v0",
+              "chunk_order": 35,
+              "document_id": "e841c6bd-78b8-56e1-b3dd-e2bcc8a0f590",
+              "extraction_id": "0d62683a-9b2d-535a-9464-15df3187bff3",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "2747746a-5ede-5c96-aa43-8b71a29c1ce0",
+            "score": 0.6691039204597473,
+            "metadata": {
+              "text": "strong inverse association between BMI and age at diagnosis of type 2 diabetes. When type 2 diabetes presents in later life, the severity of insulin resistance is often greater among individuals with a history of protracted and severe obesity, particularly with excess visceral adiposity.\n28",
+              "title": "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+              "version": "v0",
+              "chunk_order": 23,
+              "document_id": "cc708325-df0a-55ec-9e9b-2bf97835c992",
+              "extraction_id": "ec07ba94-177b-599e-8104-92b2e0b943e6",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "916717da-d554-5e4c-95d5-780d96c8bad2",
+            "score": 0.6644185781478882,
+            "metadata": {
+              "text": "COMMENT\nIn a cohort of more than 800 older persons, we found thatdiabetes mellitus sometime in the study was associated withan increased risk of developing AD during a mean of 5.5years of observation. The risk of incident AD was 65% higherin those with diabetes mellitus than in those without it.Overall, results were similar in analyses restricted to dia-",
+              "title": "2004 - Diabetes Mellitus and Risk of Alzheimer Disease and Decline in Cognitive Function.pdf",
+              "version": "v0",
+              "chunk_order": 49,
+              "document_id": "a6fca397-1f0f-5a8d-846d-78e92ef5c088",
+              "extraction_id": "d301fa41-68c5-5d02-94cc-ef3f83f2df8a",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "9fc663d2-2833-51e7-ae6a-55b007a6e27c",
+            "score": 0.6526705622673035,
+            "metadata": {
+              "text": "insulin resistance, hypertension, and dyslipidemia (Obesity Education Initiative Expert Panel,  1998 ). Insulin resist-ance increases with age, and the incidence of diabetes rises sharply in the elderly (American Diabetes Association,  2010a ). \n In a few patients, genetic mutations appear to be associ-\nated with T2D (Roche  et al.  ,  2005 ; American Diabetes \nAssociation,  2010a ). For example, recent work using the DPP data has led to the identi  cation of 27 single nucle-",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 9596,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "eb3de845-98db-505c-bb7f-c0f3259875fc",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "19faf41b-7716-5244-a9c3-196c2e5cd477",
+            "score": 0.6447364091873169,
+            "metadata": {
+              "text": "et al., 2012 ), possibly due to the indirect and/or a mixed relation-\nship between individual genetic disease risk loci and exceptional\nlongevity (as discussed by Fortney et al., 2015 ) versus the poten-\ntially more direct relationship between aging in the absence of\ndisease and overall genetic disease risk.\nOn the other hand, no difference in genetic risk is observed for\ntype 2 diabetes genetic risk and cancer. Some of these ndings\n(type 2 diabetes, colon, and lung cancer) can be explained by the",
+              "title": "2016 - Whole-Genome Sequencing of a Healthy Aging Cohort.pdf",
+              "version": "v0",
+              "chunk_order": 55,
+              "document_id": "3a287979-e475-545b-99e6-4c1925653a79",
+              "extraction_id": "c55b4a12-6cc8-5594-87d4-53e4f8f023d1",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "5bc52c12-3339-542b-82a2-b839203370b9",
+            "score": 0.6433898210525513,
+            "metadata": {
+              "text": "equal number of adults over 18 are thought to develop the disease,although incidence in older people receives less media/research\nattention. In this review, we discuss our current understanding of\nthe cellular/molecular mechanisms of disease aetiology and progres-sion, the usefulness and limitations of rodent models of spontaneousdiabetes, the factors that are influencing the current increased inci-dence and the clinical opportunities for those affected.",
+              "title": "2010 - Genetics, pathogenesis and clinical interventions in type\u20091 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 5,
+              "document_id": "46ac7ad7-a672-5d91-abf8-9c2f6307cd38",
+              "extraction_id": "6d537deb-a8fa-59cf-a961-aa3da56b18da",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "13ca56ac-b751-5bc8-b557-e7a7a12a1b04",
+            "score": 0.6385682440657482,
+            "metadata": {
+              "text": "associated with maturity onset diabetes of the young and early onset-age of \ntype 2 diabetes. J. Diabetes Complications 26, 343347 (2012).\n19. Langenberg, C. et al. Design and cohort description of the InterAct Project: \n \nan examination of the interaction of genetic and lifestyle factors on the incidence of type 2 diabetes in the EPIC Study. Diabetologia 54, 22722282 \n(2011).",
+              "title": "2016 - The genetic architecture of type 2 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 87,
+              "document_id": "d7e2a9de-46f1-5191-9cb0-dd68eb9f365a",
+              "extraction_id": "8b8b572d-68f5-5470-b5ed-ec5c6219dd5e",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          },
+          {
+            "id": "652c144e-94d8-519b-8d1f-1bcb2bf1b7b3",
+            "score": 0.6347618103027344,
+            "metadata": {
+              "text": "in the precipitation of diabetes. Saturated fatty acids drive the apoptosis  and senescence of beta cells27,41, with increased oxidative stress42 and \nendoplasmic reticulum stress41. As increased body mass index is asso -\nciated with earlier onset of T1D43, it is possible that dietary fat is acting \nas a sensitizer similar to insHEL, in effect lowering the threshold for \nautoimmune stress to precipitate clinical diabetes.\nThe male-specific susceptibility to diabetes in this model is in sharp",
+              "title": "2016 - Genetic predisposition for beta cell fragility underlies type 1 and type 2 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 102,
+              "document_id": "5b239c51-7b4c-58e0-acca-2061593fe317",
+              "extraction_id": "77681744-9c95-530f-afec-248e183fd78c",
+              "associatedQuery": "Is there a direct association between aging and susceptibility to having diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "8": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQoBhwZsCCyM8hyEreAlAw5KAiT",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Genetics plays a significant role in influencing the emergence of diabetes. Several key points highlight this influence:\n\n1. **Genetic Predisposition**: Genetic factors are crucial in determining an individual's risk of developing diabetes [1]. There is a strong genetic component to type 2 diabetes, with many patients having a first-degree relative with the disease [6].\n\n2. **Interaction with Environmental Factors**: The development of diabetes is generally presumed to result from interactions between genetic predisposition and environmental triggers such as dietary habits, physical inactivity, and obesity [2]. This interaction suggests that while genetics set the stage, environmental factors act as accelerants.\n\n3. **Insulin Secretion and Resistance**: Specific genes are directly related to insulin secretion and indirectly to insulin resistance. This supports the idea that genetically programmed beta-cell dysfunction, when combined with environmentally triggered insulin resistance, precipitates diabetes [5].\n\n4. **Familial Clustering**: There is evidence of familial clustering of diabetes, indicating a genetic predisposition to the disease and its complications [7].\n\n5. **Genetic Models**: Genetic models of diabetes have been developed through selective breeding, which often results in monogenic forms of the disease due to single mutations [8].\n\n6. **Concordance in Twins**: The concordance rate for diabetes in identical twins is less than 50%, indicating that while genetics play a significant role, environmental or developmental events also affect the progression of diabetes [4].\n\nIn summary, genetics significantly influences the emergence of diabetes by predisposing individuals to the disease, which is then often triggered or exacerbated by environmental factors.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797826,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 323,
+          "prompt_tokens": 1167,
+          "total_tokens": 1490
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+            "score": 0.7223600149154663,
+            "metadata": {
+              "text": "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+              "title": "2008 - Glossary of Genetics Genomics Terms.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+              "extraction_id": "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "ceedd7ed-ae19-5971-89f8-cccc731741b6",
+            "score": 0.6957623958587646,
+            "metadata": {
+              "text": "the diabetes epidemic, and its predilection\nfor certain ethnic groups, are unknown.\nHowever, interactions between genetic pre-disposition and environmental triggers (or\naccelerants) are generally presumed to un-\nderlie the etiology of diabetes (3 5) (Fig. 1).\nThe best known environmental risk factors\nare dietary habits, physical inactivity, and\nobesity; interventions that ameliorate theserisk factors prevent the development oftype 2 diabetes (6,7).\nBy contrast, knowledge of the genetic",
+              "title": "2012 - Predicting Diabetes Our Relentless Quest for Genomic Nuggets.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "7ef99c69-e777-521f-bb99-26bcb81de748",
+              "extraction_id": "19b662f1-779b-57d2-bb51-e5505479ddc6",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "12ee4112-ee8b-584a-bbab-b47863449868",
+            "score": 0.6826740503311157,
+            "metadata": {
+              "text": "increases the risk of type  2 diabetes. Such a strong environmental component to a dis -\nease should perhaps have deterred geneticists \nfrom studying the disorder. However, there \nare many obese people who do not suffer \nfrom diabetes and many non-obese people \nwho do, showing that obesity is not the only \nfactor involved in the aetiology of type\n \n2 \ndiabetes (FIG. 1).\nIn the past 10 years, geneticists have \ndevoted a large amount of effort to finding type\n \n2 diabetes genes. These efforts have",
+              "title": "2007 - Genome\u2013wide association studies provide new insights into type 2 diabetes aetiology..pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "2ad9b6c6-56ed-5ba6-ad88-c1a6777f5196",
+              "extraction_id": "cd034e2b-72bd-5cda-a456-48cf17ead1bf",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "65084469-bf7c-508c-a211-1f28f7626638",
+            "score": 0.6779285669326782,
+            "metadata": {
+              "text": "future diabetes, however, is not possible on a genetic basis alone. For \nexample, the concordance rate for identical twins is < 50%, indicating that \neither environmental or developmental events (such as T cell development) \naffect the progression of diabetes. \nThe ability of serologic studies to identify individuals at risk for \ndiabetes in the general population is under investigation. Among relatives of \npatients with diabetes, serologic markers can identify patients at high risk.3",
+              "title": "2004 - Diabetes Genes b.pdf",
+              "version": "v0",
+              "chunk_order": 734,
+              "document_id": "da2f2624-e3e6-5e2d-b406-941db2fe7671",
+              "extraction_id": "35324efd-a618-54aa-b9a5-541a9435134c",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "3bbf736e-7d8b-5e67-a4bf-e1ae28738bf3",
+            "score": 0.67778650787038,
+            "metadata": {
+              "text": "genes relate directly to insulin secretion and indirectly, through collaborating with other genes, to insulin resistance. Thisseems to support the epidemiological evidence that environmentally triggered insulin resistance interacts with geneticallyprogrammed bcell dysfunction to precipitate diabetes.\nCitation: Jain P, Vig S, Datta M, Jindel D, Mathur AK, et al. (2013) Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes. PLoS\nONE 8(1): e53522. doi:10.1371/journal.pone.0053522",
+              "title": "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 5,
+              "document_id": "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f",
+              "extraction_id": "9369222f-e125-58c0-8f2b-cf5daa867f77",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "6c14eef8-bb27-503a-9523-9e7a16d71021",
+            "score": 0.6773942708969116,
+            "metadata": {
+              "text": "Genetic factors\nType 2 diabetes has a strong genetic component and most Asian patients have a   rst-degree relative with diabetes.\n48,49 Much progress has been made in our \nunderstanding of the genetics of this disease. Importantly, most of the loci originally associated with diabetes in European populations have been replicated in Asian populations. Whereas monogenic forms of diabetes result from rare genetic mutations with large e  ects, \nsuch as those seen in maturity-onset diabetes of young people,",
+              "title": "2010 - Diabetes in Asia.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "0be842b8-7f69-503b-baed-c336e5c834d6",
+              "extraction_id": "e99fe157-eda9-5e56-9ec9-8f428de2a161",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "8397e685-13d3-5487-a9c6-856cc119cef9",
+            "score": 0.6757437780056144,
+            "metadata": {
+              "text": "literature abounds with evidence for genetic mediation ofthe initiation and progression of diabetic nephropathy.First, there is familial clustering that is not completelyexplained by environmental factors [3947]. Our indexcase and her family are perfect examples of genetic pre-disposition to diabetes and its complications, or, at thevery least, familial clustering. Parving and colleagues es-timated that glycemic control, hypertension, and albu-minuria account for only one-third of the variability",
+              "title": "2004 - Diabetic nephropathy Linking histology, cell biology.pdf",
+              "version": "v0",
+              "chunk_order": 85,
+              "document_id": "b0732aa4-4250-563c-b4e7-b98bb8706299",
+              "extraction_id": "7d723588-2c9a-5f6f-8ed1-f484fada8d13",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "44725666-366f-5123-92dd-ab2cf29e88c1",
+            "score": 0.6743544340133667,
+            "metadata": {
+              "text": "GENETIC MODELS OF DIABETES \nClassically, genetic models of diabetes and obesity have been produced in \ntwo ways. One is serendipitous observation of a spontaneously arising \nextreme phenotype, followed by selective breeding to fix the trait. The \nresulting model will often be monogenic, i.e. due to a single mutation. The \nother approach is by repeated selective breeding of initially normal\nappearing members of a genetically diverse ( outbred) population that are at",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 717,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "4beabe81-e24e-535c-9df3-bfaa9cfdde90",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "2aa9f009-ae05-5c93-ac3a-58b1f516d844",
+            "score": 0.6700691777426506,
+            "metadata": {
+              "text": "36 Herder C, Roden M. Genetics of type 2 diabetes: pathophysiologic \nand clinical relevance. Eur J Clin Invest 2011; 41: 67992.\n37 Dabelea D, Hanson RL, Lindsay RS, et al. Intrauterine exposure \nto diabetes conveys risks for type 2 diabetes and obesity: a study of discordant sibships. Diabetes 2000; 49: 220811.\n38 Voight BF, Scott LJ, Steinthorsdottir V, et al. Twelve type 2 diabetes \nsusceptibility loci identi  ed through large-scale association analysis. Nat Genet 2010; 42: 57989.",
+              "title": "2011 - Type 2 diabetes across generations from pathophysiology to prevention and management.pdf",
+              "version": "v0",
+              "chunk_order": 151,
+              "document_id": "0f49b102-1d7e-5702-af30-35e5f2ed93a6",
+              "extraction_id": "baec13ec-c42b-51b4-9974-8ef1c2d10ddc",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          },
+          {
+            "id": "54d5bc85-a2f5-58f6-814f-b511f2e0c4cf",
+            "score": 0.6695160865783691,
+            "metadata": {
+              "text": "Environmental influences interact with genetic factors to determine \nsusceptibility to type 2 diabetes by affecting either insulin action, insulin \nsecretion or both. The prevalence of type 2 diabetes has increased markedly \nin populations that have rapidly adopted a Western lifestyle (for example the \nPima Indians) and in many populations that have migrated to regions with a \nmore affluent lifestyle compared to their native country (see Chapter IV.2).",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 940,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "5a2221e0-dabc-523c-8358-3e43789e8f7a",
+              "associatedQuery": "How does genetics influence the emergency of diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "9": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZQut2fnFLEnMmGsKclOiiWtUmw9",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Several genes have been associated with diabetes, both type 1 and type 2, according to the provided context:\n\n1. **Type 1 Diabetes:**\n   - **Insulin gene minisatellite locus (IDDM2)**: Susceptibility to type 1 diabetes is determined by tandem repeat variation at this locus [2].\n   - **CTLA-4 gene region of chromosome 2q33**: This gene region is linked to and associated with type 1 diabetes [4].\n\n2. **Type 2 Diabetes:**\n   - **ABCC8/SUR1**: A rare mutation in this gene affects ATP-sensitive K+ channel activity and beta-cell glucose sensing, leading to type 2 diabetes [1].\n   - **Common gene variants**: Several genome-wide association studies (GWAS) have linked common gene variants with increased risk of type 2 diabetes, including:\n     - **CDKAL1, CDKN2A, CDKN2B**: Associated with reduced insulin secretion via reduced beta-cell mass [3].\n     - **MTNR1B, TCF7L2, KCNJ11**: Associated with beta-cell dysfunction [3].\n     - **FTO**: Associated with increased insulin resistance related to obesity [3].\n     - **IRS1, PPARG**: Associated with increased insulin resistance unrelated to obesity [3].\n   - **Other genes**: Additional genes associated with type 2 diabetes include:\n     - **TCF7L2, KCNJ11, PPARG, CDKAL1, IGF2BP2, FTO, HHEX, SLC30A8, WFS1** [5].\n     - **JAZF1, CDC123/CAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, NOTCH2** [5].\n   - **Genes related to beta-cell dysfunction**: Many type 2 diabetes genes appear to be related to beta-cell dysfunction [6].\n   - **Monogenic diabetes genes**: Genes such as **HNF1A, HNF4A, HNF1B, INS, NEUROD1, PDX1, PAX4, ABCC8, KCNJ11, KLF11, CEL, BLK** are associated with monogenic forms of diabetes [7].\n   - **Genes associated with recessive diseases that include diabetes**: **WFS1, NEUROG3, EIF2AK3, GLIS3, RFX6, SLC19A2** [7].\n   - **Genes with heterozygous mutations causing diabetes mellitus**: **PAX6, GATA6, PPARG** [7].\n   - **Inflammatory genes**: Genes such as **IL-6, TNF-\u03b1, IL-10, IL12B, IL23R, IL23A** are associated with a greater risk of developing type 2 diabetes [9].\n\nThese references provide a comprehensive list of genes associated with both type 1 and type 2 diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797832,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 633,
+          "prompt_tokens": 1519,
+          "total_tokens": 2152
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "437a7129-63b8-5f34-8273-2eef9535e987",
+            "score": 0.7895213004804048,
+            "metadata": {
+              "text": "gene are associated with NIDDM in Caucasians. Diabetes 1996 , 45, 825-831. \n46.  Tarasov, A.I.; Nicolson, T.J. ; Riveline, J.P.; Taneja, T.K. ; Baldwin, S.A.; Baldwin, J.M.; \nCharpentier, G.; Gautier, J.F. ; Froguel, P.; Vaxillaire, M.; et al.  A rare mutation in ABCC8/SUR1 \nleading to altered ATP-sensitive K+ channel activ ity and beta-cell glucose sensing is associated \nwith type 2 diabetes in adults. Diabetes 2008 , 57, 1595-1604.",
+              "title": "2010 - Pharmacogenetics of Anti-Diabetes Drugs.pdf",
+              "version": "v0",
+              "chunk_order": 184,
+              "document_id": "ffeebaf9-ff76-5751-9b8b-7a2a4a4f1dc3",
+              "extraction_id": "73e1aaff-7ef6-5ca2-9c94-23f5674a4f88",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "e2cc78dc-8af3-5459-bc88-84939f5aced4",
+            "score": 0.7614341462940708,
+            "metadata": {
+              "text": "gene is associated with insulin-dependent diabetes mellitus. Diabetes\n33:176 183, 1984\n6. Bennett ST, Lucassen AM, Gough SCL, Powell EE, Undlien DE, Pritchard\nLE, Merriman ME, Kawaguchi Y, Drons eld MJ, Pociot F, Nerup J,\nBouzekri N, Cambon-Thomasen A, R nningen KS, Barnett AH, Bain SC,\nTodd JA: Susceptibility to human type 1 diabetes at IDDM2 is determinedby tandem repeat variation at the insulin gene minisatellite locus. Nat\nGenet 9:284 292, 1995",
+              "title": "2002 - Genetic Effects on Age-Dependent Onset and Islet Cell.pdf",
+              "version": "v0",
+              "chunk_order": 135,
+              "document_id": "2598ed03-43da-5894-8a62-41c8f53559d1",
+              "extraction_id": "3dbc9428-663d-58ba-9268-3d87957bad4d",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "47e8bd94-fd61-57f2-b1d0-cc139d71936a",
+            "score": 0.7570793854319869,
+            "metadata": {
+              "text": "of Diabetes \n Results of several genome-wide association stud-\nies (GWAS) have linked the following common gene variants with a 1520% increased risk of diabetes: reduced insulin secretion via reduce beta-cell mass (CDKAL1, CDKN2A, CDKN2B) and beta-cell dysfunction (MTNR1B, TCF7L2, KCNJ11) and increased insulin resistance related to obesity (FTO) and unrelated to obesity (IRS1, PPARG) [ \n11 ]. While most of the early studies",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 2429,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "d7bd898b-1d46-557a-b065-f94fc5310b2a",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "a495dcc8-5cee-58a9-9f15-95be8fbc9b6a",
+            "score": 0.7559433950202675,
+            "metadata": {
+              "text": "gene is associated with insulin-dependent diabetes mellitus. Diabetes\n33:176 183, 1984\n3. Nistico L, Buzzetti R, Pritchard L, Van der Auwera B, Giovannini C, Bosi E,\nLarrad M, Rios M, Chow C, Cockram C, Jacobs K, Mijovic C, Bain S,Barnett A, Vandewalle C, Schuit F, Gorus F, Tosi R, Pozzilli P, Todd J: TheCTLA-4 gene region of chromosome 2q33 is linked to, and associated with,type 1 diabetes: Belgian Diabetes Registry. Hum Mol Genet 5:1075 1080,\n1996",
+              "title": "2004 - Interaction and Association Analysis of a Type 1 Diabetes Susceptibility Locus.pdf",
+              "version": "v0",
+              "chunk_order": 102,
+              "document_id": "4246f8d0-69e8-56cf-9674-d379467dfb61",
+              "extraction_id": "d71343b2-f7c5-52b4-96f9-bcc98f97fe81",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "aa72551a-ac0c-5d7d-8057-34f229f68eb1",
+            "score": 0.7392083626749627,
+            "metadata": {
+              "text": "ly associated with type 2 diabetes: TCF7L2, KCNJ11,  \nand PPARG .\n5-7 However, in 2007, a number of novel \ngenetic variants ( CDKAL1, IGF2BP2,  the locus on \nchromosome 9 close to CDKN2A/CDKN2B, FTO, \nHHEX, SLC30A8,  and WFS1)8-14 were shown to in -\ncrease susceptibility to type 2 diabetes in repro -\nducible studies. Furthermore, a recent meta-analy -\nsis identified six novel variants ( JAZF1, CDC123/\nCAMK1D, TSPAN8/LGR5, THADA, ADAMTS9, and NOTCH2 ) that are associated with type 2 dia -\nbetes.\n15",
+              "title": "2008 - Clinical Risk Factors, DNA Variants.pdf",
+              "version": "v0",
+              "chunk_order": 10,
+              "document_id": "0018610a-9c86-5e2d-a27d-f66cf4f8519d",
+              "extraction_id": "2643b341-8c50-5cea-af36-86a8b070a80e",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "9a42b2f0-cad6-56af-9aa4-0d2f9bedd351",
+            "score": 0.736910380813173,
+            "metadata": {
+              "text": "date gene approaches now have identified /H1101140 genes as-\nsociated with type 2 diabetes (17, 18) and a similar num-ber, albeit largely different, with obesity. Most type 2diabetes genes appear to be related to\n/H9252-cell dysfunction,",
+              "title": "2011 - Obesity and Type 2 Diabetes What Can Be Unified.pdf",
+              "version": "v0",
+              "chunk_order": 27,
+              "document_id": "07e715c3-4f95-54f4-8461-5062e62d0fe6",
+              "extraction_id": "037a2c9e-51be-5bd8-957a-4b3dfcc82e46",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "748d13eb-eec0-5f79-8138-e3227a188b52",
+            "score": 0.7355773229724996,
+            "metadata": {
+              "text": "HNF1A ,HNF4A ,HNF1B ,INS,NEUROD1 ,PDX1 ,PAX4 ,\nABCC8 ,KCNJ11 ,KLF11 ,CEL, and BLK), 6 genes associ-\nated with recessive diseases that include diabetes as a\nphenotype ( WFS1 ,NEUROG3 ,EIF2AK3 ,GLIS3 ,RFX6 ,\nandSLC19A2 ), and 3 genes in which heterozygous mu-\ntations have been shown to cause diabetes mellitus\n(PAX6 ,GATA6 , and PPARG ). Our primary objectives\nwere to (1) identify subjects with potentially undiag-\nnosed monogenic diabetes, (2) compare and contrast the",
+              "title": "2017 - Spectrum of mutations in monogenic diabetes genes identified from high-throughput DNA sequencing of 6888 individuals.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "18a8a000-69ed-5d34-b13f-f5ae016d1067",
+              "extraction_id": "b24927c4-ee83-51a8-b431-b43be7d3b678",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "b4efc562-0077-5428-be43-f3eeafeb6847",
+            "score": 0.7354490099445952,
+            "metadata": {
+              "text": "4. ORahilly S. Human genetics illumi -\nnates the paths to metabolic disease. Na -\nture 2009;462:307-14.\n5. McCarthy MI. Growing evidence for \ndiabetes susceptibility genes from genome scan data. Curr Diab Rep 2003;3:159-67.\n6. Hattersley AT, McCarthy MI. What \nmakes a good genetic association study? Lancet 2005;366:1315-23.\n7. Altshuler D, Hirschhorn JN, Klanne -\nmark M, et al. The common PPARgamma Pro12Ala polymorphism is associated with decreased risk of type 2 diabetes. Nat Genet 2000;26:76-80.",
+              "title": "2010 - Genomics, Type 2 Diabetes, and Obesity.pdf",
+              "version": "v0",
+              "chunk_order": 98,
+              "document_id": "3d629777-f1b6-5450-94ef-56736e5a4e10",
+              "extraction_id": "8a28c11f-e0d2-526b-ac85-2f2fbf054fc5",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "d184bcc3-8c38-5969-859a-22db976fec35",
+            "score": 0.7351778964751335,
+            "metadata": {
+              "text": "genes including interlukin-6 ( IL-6), tumor necrosis \nfactor- and IL-10 genes were found to be associated \nwith greater risk of developing type 2 diabetes[171], in \naddition to genetic variants in the genes for IL12B , \nIL23R  and IL23A  genes[172]. In a study involving the \nhormone sensitive lipase re sponsible for lipolysis \nin adipose tissues, a deletion null mutation, which \nresulted in the absence of the protein from adipocytes, \nwas reported to be associated with diabetes[173]. Nine",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 90,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          },
+          {
+            "id": "3e22864f-a062-55b2-a9a3-a64cde8bd388",
+            "score": 0.7340888599779866,
+            "metadata": {
+              "text": "2 diabetes[144,149,150], however, not all of these genes \nshowed consistent and reproducible association with \nthe disease[151]. Genome wide association studies \n(GWAS) in various populations identified 70 loci \nassociated with type 2 diabetes and revealed positive \nlinkage of many mutations and SNPs that influence \nthe expression and physiological impact of the related \nproteins and risk to develop type 2 diabetes. One study \ninvolved several thousand type 2 diabetes patients and",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 82,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07",
+              "associatedQuery": "what genes are associated with diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "10": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZR8nkJvPePGl3BA4Ofgj0JbQyIv",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Diabetes can be caused by different factors depending on the type. \n\n1. **Type 1 Diabetes**: This type is primarily caused by an absolute deficiency of insulin secretion due to an autoimmune process that destroys insulin-producing beta cells in the pancreatic islets [1], [5]. Genetic markers and serological evidence can often identify individuals at increased risk [1].\n\n2. **Type 2 Diabetes**: This type is caused by a combination of resistance to insulin action and an inadequate compensatory insulin secretory response [1]. It develops over time as tissues become resistant to insulin, and the pancreas's ability to release insulin diminishes [3]. Obesity is a major risk factor for type 2 diabetes, with both genetic and environmental factors playing a role [8].\n\n3. **General Factors**: Both types of diabetes ultimately lead to pancreatic beta-cell dysfunction [2]. Environmental factors, such as viral infections and chemicals, can contribute to the development of diabetes, particularly type 1, while obesity is a common predisposing factor for type 2 diabetes [10].\n\nIn summary, diabetes is caused by a combination of genetic, autoimmune, and environmental factors that affect insulin production and action [1], [3], [8], [10].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797846,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 250,
+          "prompt_tokens": 1238,
+          "total_tokens": 1488
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "c3e7c5c2-d8d3-55ba-ba38-b8ca5eb2487a",
+            "score": 0.635399341583252,
+            "metadata": {
+              "text": "two broad etiopathogenetic groups. In one group (type I diabetes), the cause \nis an absolute deficiency of insulin secretion. Individuals at increased risk of \ndeveloping this type of diabetes can often be identified by serological \nevidence of an autoimmune process of the pancreatic islets and by genetic \nmarkers. In the second and more prevalent group (type 2 diabetes), the cause \nis a combination of resistance to insulin action with inadequate \ncompensatory insulin secretory response.",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 479,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "0d4b1f7a-5757-5129-835a-6ed0334a1e0e",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "24aac9a6-38ed-5a54-b60a-0604d31e5972",
+            "score": 0.598839282989502,
+            "metadata": {
+              "text": "Diabetes mellitus.  Type1 diabetes mellitus (T1DM) and \nT2DM have different causes, but both ultimately lead to \npancreatic -cell dysfunction. Damaging the pancreas \nchemically or mechanically can induce experimental \ndiabetes mellitus. Pancreatic damage can be achieved by \nsurgically removing parts of or all of the pancreatic tissue \n(pancreatectomy) to reduce or fully ablate endogenous \ninsulin production282. The benefit of this method is the \nlack of toxic adverse effects (compared with diabetogenic",
+              "title": "2018 - Animal models of obesity.pdf",
+              "version": "v0",
+              "chunk_order": 159,
+              "document_id": "9e9af9c7-814f-562e-a04d-878528a38002",
+              "extraction_id": "f3ffcc7b-7d0c-5f1a-9a5a-762cf6c85403",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "65469d6d-578f-5c78-97cf-d06b2f483dcf",
+            "score": 0.5964103937149048,
+            "metadata": {
+              "text": "Diabetes is a disorder of carbohydrate metabolism charac-terized primarily by hyperglycemia resulting from ineffec-tive uptake of glucose by tissues. Type 1 diabetes is an autoimmune disease that typically occurs early in life and results in total loss of insulin production, whereas type 2 diabetes develops over time as tissues develop a resistance to insulin, and insulin release from the pancreas slowly diminishes. As carbohydrates have the greatest effect on blood glucose of all macronutrients, their",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 1172,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "5364714e-1909-58f7-a15d-fb60df4e7bee",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "92749b8d-6c7a-5f2b-a873-a04904cc247b",
+            "score": 0.5906752347946167,
+            "metadata": {
+              "text": "diabetes but a rare cause of diabetes diag -\nnosed in childhood or adulthood. Diabetes . \n2008;57(4):10341042.\n 152. Molven A, et al. Mutations in the insulin gene can \ncause MODY and autoantibody-negative type 1 \ndiabetes. Diabetes . 2008;57(4):11311135.\n 153. Gloyn AL, et al. Mutations in the genes encoding \nthe pancreatic beta-cell KATP channel subunits \nKir6.2 (KCNJ11) and SUR1 (ABCC8) in diabe -\ntes mellitus and hyperinsulinism. Hum Mutat. \n2006;27(3):220231.",
+              "title": "2021 -  Monogenic diabetes a gateway to precision medicine.pdf",
+              "version": "v0",
+              "chunk_order": 178,
+              "document_id": "0b6ff786-6a7b-5d24-ba5e-7a61fee7757f",
+              "extraction_id": "9b3c9e69-82ff-5bfc-9b5b-77038a59d8e9",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "18ba0b3f-51a8-5af0-98ec-3b45f1e3219a",
+            "score": 0.5862365961074829,
+            "metadata": {
+              "text": "Type 1 diabetes is an autoimmune disease caused by T-cell-mediated destruction of insulin-producing beta cellsin the pancreatic islets of Langerhans (Atkinson andMaclaren 1994). Various aberrations in immune regula-tion have been described in both human patients andanimal models of type 1 diabetes (Rosmalen et al. 2002).A recent study has demonstrated that the disturbance ofcentral and/or peripheral tolerance mechanisms existed indiabetes-prone humans and animals (Sakaguchi 2000).With respect to the",
+              "title": "2003 - A functional polymorphism in the promoterenhancer region of the FOXP3Scurfin gene associated with type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 5,
+              "document_id": "4a3964a4-0aea-58ee-b749-33e0d8c62228",
+              "extraction_id": "aacbb5a1-c294-5568-ba02-3d4342091e86",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "2454130e-8098-5c7f-944b-c5933a8409f8",
+            "score": 0.5793699872869271,
+            "metadata": {
+              "text": "disorder caused by different factors characterized by a chronic high level of blood sugar with distur-bances to carbohydrate, fat, and protein metabo-lism resulting from defects in insulin secretion, insulin action, or both [ \n83 ]. Scientists have \ndivided diabetes into three different types: Type 1 F. Assah and J.C. Mbanya",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 415,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "d5004507-475d-5ac1-9aa6-b5fd664b8bf7",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "856c7a02-c233-5b00-ae1c-55a5e2b1a2ed",
+            "score": 0.5788074637881006,
+            "metadata": {
+              "text": "(Fig. 1), indicating that insulin resistance and insulin secretory\ndefect played a cooperative role in the development and exac-\nerbation of diabetes, even though neither was strong enough\nalone to cause overt diabetes. From another point of view,\neven if genetically determined insulin resistance itself might\nnot be sufficient for the development of diabetes, insulin resis-\ntance results in diabetes if pancreatic /H9252 cell function is im-\npaired genetically (this study) or nongenetically. Development",
+              "title": "1997 - Development of non-insulin-dependent diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 55,
+              "document_id": "8598a406-5a79-5f9e-8a1b-bf69daf071bf",
+              "extraction_id": "e27a0679-e4b0-5e9f-8d98-1cd4e8b08b00",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "3313b0de-44f4-5cb5-9735-2fefd5ebf0bb",
+            "score": 0.5768344402313232,
+            "metadata": {
+              "text": "tors, and other environmental factors that trigger isletautoimmunity and/or type 1 diabetes.\nType 2 Diabetes\nType 2 diabetes develops when b-cells fail to secrete suf-\ncient insulin to keep up with demand, usually in the\ncontext of increased insulin resistance. A minority of peo-\nple diagnosed with type 2 diabetes also have evidence ofislet autoimmunity (57,58). Obesity is a major risk factor\nfor type 2 diabetes (59,60) with complex genetic and en-\nvironmental etiology.",
+              "title": "2017 - Differentiation of Diabetes by Pathophysiology.pdf",
+              "version": "v0",
+              "chunk_order": 38,
+              "document_id": "9cfaef1e-fb60-5c2b-94f0-632c89b2eb16",
+              "extraction_id": "a9accd40-eb89-5595-bf27-b6b82b49f4d4",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "1e84a9e4-7bd1-51ad-80b5-3a371c090151",
+            "score": 0.5762423276901245,
+            "metadata": {
+              "text": "have environmental (islet-injuring drugs or a particular diet) and/or genetic \n(monogenic or polygenic) causes. We have grouped the models by cause \nand type of diabetes. While this grouping is reasonable and instructive, it \ncan over-emphasize distinctions. For example, it is believed that beta cell \nfailure (and/or poor islet regeneration) contributes to type 2 diabetes, but in \ntheir pure, severe form these processes cause type I diabetes. \nMODELS OF INSULIN-DEFICIENT DIABETES",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 720,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "4beabe81-e24e-535c-9df3-bfaa9cfdde90",
+              "associatedQuery": "What causes diabetes?"
+            }
+          },
+          {
+            "id": "3b29472a-7875-5761-86d5-cbc57c20db85",
+            "score": 0.5725400447845459,
+            "metadata": {
+              "text": "Diabetes mellitus comprises a heterogenous group\nof disorders that have been classified as either\ninsulin-dependent (IDDM) or non-insulin-depend-\nent (NIDDM).1 Their causes are poorly understood\nbut appear to involve some form of interaction between ge-\nnetic and environmental factors.2-4 Some of the environmen-\ntal factors that can contribute to IDDM include viral infections\nand chemicals, while obesity is a common predisposing fac-\ntor for NIDDM. Genes that confer susceptibility or can cause",
+              "title": "1984 - A Polymorphic Locus.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "df2478dd-6970-5d8d-99e5-bb23f46bcdb1",
+              "extraction_id": "57f307f8-2493-5438-ad08-b4d85288b94e",
+              "associatedQuery": "What causes diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "11": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZRC8tLslwOrPHuuXyMSXCo1Prfp",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Yes, cycling, as a form of physical activity, can reduce the risk of diabetes. According to the context provided:\n\n- The Atherosclerosis Risk in Communities (ARIC) study found that higher levels of leisure activity, which primarily included cycling and walking, were associated with a 34% lower odds of developing hypertension over six years compared to the least active group. This study also indicated that physical activity reduces the risk of developing diabetes and hypertension through mechanisms involving changes in body weight and glucose tolerance [3].\n- Additionally, other studies have shown that exercise, including activities like cycling, can prevent the development of Type 2 diabetes in high-risk groups [5].\n\nThus, engaging in regular cycling can contribute to a reduced risk of developing diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797850,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 149,
+          "prompt_tokens": 1177,
+          "total_tokens": 1326
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "5479de8e-2994-5b99-a0a7-915840f1de0d",
+            "score": 0.6417355537414551,
+            "metadata": {
+              "text": "2 diabetes suggest that regular exercise might play an important role in \ndecreasing the very high incidence of premature coronary artery disease. \nAlthough there are no randomized controlled trials assessing reduction \nin cardiovascular events induced by physical activity in type 2 diabetes, \navailable evidence is consistent with the concept that physical activity may play \nan important role in reducing cardiovascular risk in type 2 diabetes. 44 Large",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 2997,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "ad5bdba5-b3c6-50ac-a4b3-3089e7bed0da",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "cdd1e1cb-6b89-5045-96e2-280f6d615ab4",
+            "score": 0.6175409143430269,
+            "metadata": {
+              "text": "tern of weight change impact health. For example, in the DiabetesPrevention Program (DPP; described in more detail later), both\nshort- and intermediate-term weight loss were associated with\nreduced diabetes risk and intermediate cardiometabolic risk factor\nlevels, whereas weight cycling (defined as number of 5 lb [2.25 kg]\nweight cycles) raised diabetes risk, fasting glucose levels, insulinresistance, and systolic blood pressure. Initial (baseline to 1 month)",
+              "title": "2016 - NIH working group report using genomic information to guide weight management  From universal.pdf",
+              "version": "v0",
+              "chunk_order": 26,
+              "document_id": "0ee28c8a-3618-559e-be0a-30f2579a0d1f",
+              "extraction_id": "bbaf5afd-56e0-5ded-bf17-c8c36d67122c",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "50f8c1de-8641-5cb6-8080-620f15810922",
+            "score": 0.6082367897033691,
+            "metadata": {
+              "text": "sclerosis Risk in Communities (ARIC) study, the highestquartile of leisure activity (primarily cycling and walking)had a 34% lower odds of developing hypertension over\n6 years compared to the least active [ 107]. Thus, physical\nactivity reduces the risk of developing diabetes and hyper-\ntension. The mechanism involves changes in body weight\nand glucose tolerance, as well as other factors [ 107].\nThe effect of obesity susceptibility genes on the onset of",
+              "title": "2012 - Diabetes and Hypertension Is There a Common Metabolic Pathway.pdf",
+              "version": "v0",
+              "chunk_order": 35,
+              "document_id": "37b08243-09de-5a78-b2bb-1eade3c714af",
+              "extraction_id": "e0a47978-ae34-5905-baff-36a3364d21af",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "9da658e9-223d-527d-a913-b1d8eac31de2",
+            "score": 0.604130232087957,
+            "metadata": {
+              "text": "exercise can reduce the incidence of type 2 diabetes. Tuomilehto and \ncoworkers demonstrated that the individuals on a consistent diet and exercise \nprogram had 10% incidence of diabetes during 4 years of follow-up \ncompared to 22% for patients in the control group, who met only once a year \nwith the dietician and the physician.40 A six-year randomized trial conducted \nby Pan and colleagues demonstrated that exercise resulted in 46% reduction",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 136,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "424d7751-3dbf-5e10-83ca-12101841d17c",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "e317892f-8310-5414-869e-b759258b2eeb",
+            "score": 0.5905454158782959,
+            "metadata": {
+              "text": "Exercise \nExercise has been shown to prevent development of Type 2 \ndiabetes in high-risk groups. A number of studies have looked at the effect \nof insulin on delaying the onset of diabetes. In a study of 5990 male \nalumni from an American university followed over 10 years, 202 pts (3.3 \npercent) developed Type 2 diabetes mellitus. The relative risk was lower \nin patients who exercised regularly even when adjusted for obesity, \nhypertension, and a family history of diabetes. The benefit was greatest in",
+              "title": "2004 - Diabetes Genes b.pdf",
+              "version": "v0",
+              "chunk_order": 772,
+              "document_id": "da2f2624-e3e6-5e2d-b406-941db2fe7671",
+              "extraction_id": "cef57178-c218-52d3-b049-aa6ca097fd73",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "a3060853-46b0-506a-b3ed-9e85c2c450da",
+            "score": 0.5828350533744735,
+            "metadata": {
+              "text": "nonrandomized studies of both men and women with type 2 diabetes and \nimpaired glucose tolerance have found that physical activity is associated with \na decreased risk for cardiovascular disease. It also appears that the amount of \nphysical activity is inversely associated with coronary events.5354 \nRISK OF EXERCISE IN PATIENTS WITH DIABETES \nThe risks associated with exercise can be divided into metabolic, \nvascular, neurologic and musculoskeletal (Table 4).",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 2998,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "ad5bdba5-b3c6-50ac-a4b3-3089e7bed0da",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "8c4e8b2c-6730-541c-8a2e-22fbd7ddb487",
+            "score": 0.5731067315872482,
+            "metadata": {
+              "text": "74\nThe mechanism underlying this effect of exercise is not known;however, it is noteworthy that lifestyle change is a very effectiveway to reduce the rate of development of diabetes in a predia-betic population, as shown by the diabetes prevention study.\n75,76\nBoth a reduction in macronutrient intake and exercise cause areduction in inflammation.\nReferences\n1. Reaven GM. Banting lecture 1988. Role of insulin resistance in human\ndisease. Diabetes . 1988;37:15951607.",
+              "title": "2005 - Metabolic Syndrome A Comprehensive Perspective Based  on Interactions Between Obesity Diabetes and Inflammation.pdf",
+              "version": "v0",
+              "chunk_order": 64,
+              "document_id": "de2aa54c-eb0f-5dc3-ac92-23ee3215dd2a",
+              "extraction_id": "c6cfb382-639a-5dd4-a9c8-c8f57b6daabc",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "09070d01-4946-559c-9b44-f502c7b066c3",
+            "score": 0.5698337215284285,
+            "metadata": {
+              "text": "physical training on carbohydrate metabolism and associated cardiovascular risk factors in patients with diabetes. Diabetes Rev. 1995;3:378407.  \n   23.    Rogers MA, Yamamoto C, King DS, Harberg JM, \nEnsani AA, Holloszy JO. Improvement in glucose tolerance after one week of exercise in patients with mild NIDDM. Diabetes Care. 1988;11:6138.  \n   24.    Eriksson KF, Lindgarde F. Prevention of type 2 dia-\nbetes mellitus by diet and physical exercise. Diabetologia. 1991;34:8918.",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 298,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "f7fe5916-4f25-5740-8737-f668f216575d",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "eb818d5f-6b01-53ef-8343-1823c449f779",
+            "score": 0.5656954050064087,
+            "metadata": {
+              "text": "migrant and other observational studie!f86970 and prospective studies in subjects \nat high risk for developing type 2 diabetes.717273 Recently, large interventional \ntrials have reinforced the benefits of exercise in reducing the risk for type 2 \ndiabetes. These include the Malmo study from Sweden45, the Da Quing study \nfrom China74 and the recently concluded Finnish Diabetes Prevention Study.75 \nThese prospective but not randomized studies show a reduction in the risk of \n560",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 3036,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "4657f231-5e0c-5572-ad75-22c74f55a70f",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          },
+          {
+            "id": "e08c0b4a-24f9-576e-b5cf-74641fe81fd0",
+            "score": 0.5651723146438599,
+            "metadata": {
+              "text": "reduce systolic blood pressure, reduce total cholesterol, raise HDL cholesterol, and improve endothelial function in overweight patients with young-onset type 2 diabetes.\n47 \nHowever, any potential benefits to the cardiovascular disease risk profile are lost within 36 months after cessation of exercise training, and do not confer protection against later cardiovascular events.\n47,121 Additionally, \nreviews49,121,122 of the limited number of studies done to",
+              "title": "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+              "version": "v0",
+              "chunk_order": 98,
+              "document_id": "cc708325-df0a-55ec-9e9b-2bf97835c992",
+              "extraction_id": "6c730685-6ec0-52a4-8f33-671a39616a86",
+              "associatedQuery": "Does cycling reduce risk of diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "12": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZRGfPVf97ITQ8FTyJHnwW98zLJf",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "GeneNetwork can assist in identifying genetic factors involved in diabetes by leveraging large-scale genetic studies and databases that focus on genetic susceptibility factors. For instance, the Diabetes (GoKinD) study provides a genetics collection specifically aimed at identifying genetic susceptibility factors for diabetic nephropathy in type 1 diabetes [2], [4]. Additionally, advances in genotyping technology have facilitated rapid progress in large-scale genetic studies, enabling the identification of numerous novel genetic variants that increase susceptibility to diabetes and related traits [5]. These resources and technological advancements can be utilized within GeneNetwork to analyze genetic data and identify potential genetic factors involved in diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797854,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 124,
+          "prompt_tokens": 1039,
+          "total_tokens": 1163
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+            "score": 0.7289657592773438,
+            "metadata": {
+              "text": "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+              "title": "2008 - Glossary of Genetics Genomics Terms.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+              "extraction_id": "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "8a7d2ffb-20b3-572a-99af-ec120e268bd3",
+            "score": 0.7284626960754395,
+            "metadata": {
+              "text": "Diabetes (GoKinD) study: a genetics collection \navailable for identifying genetic susceptibility \nfactors for diabetic nephropathy in type1 \ndiabetes. J. Am. Soc. Nephrol.  17, 17821790 \n(2006).\n137. Scott, R.A. etal. Large-scale association \nanalyses identify new loci influencing glycaemic \ntraits and provide insight into the underlying \nbiological pathways. Nat. Genet.  44, 9911005 \n(2012).\nAuthor contributions\nAll authors researched the data for the article,",
+              "title": "2015 - The genetics of diabetic complications.pdf",
+              "version": "v0",
+              "chunk_order": 148,
+              "document_id": "5bc1f058-caf2-5cb4-9623-b1d04b074a3c",
+              "extraction_id": "27de21d5-8e86-5233-8196-ff09c1916eb8",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "506f423f-23f7-5d72-b614-1ccc9b38e853",
+            "score": 0.721440315246582,
+            "metadata": {
+              "text": "identifying genetic susceptibility factors for diabetic nephropathy in type 1\ndiabetes. J Am Soc Nephrol 17: 17821790.\n44. Manolio TA, Rodriguez LL, Brooks L, Abecasis G, Ballinger D, et al. (2007)\nNew models of collaboration in genome-wide association studies: the Genetic\nAssociation Information Network. Nat Genet 39: 10451051.\n45. Mailman MD, Feolo M, Jin Y, Kimura M, Tryka K, et al. (2007) The NCBI\ndbGaP database of genotypes and phenotypes. Nat Genet 39: 11811186.",
+              "title": "2009 - From Disease Association to Risk Assessment.pdf",
+              "version": "v0",
+              "chunk_order": 166,
+              "document_id": "a61066d0-0d1a-5f10-96c3-aa96bacdad5e",
+              "extraction_id": "6f819601-6eea-54a4-ab88-27e1b0602287",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "d84c2221-5d5b-5df9-bafd-2dd17e9fb132",
+            "score": 0.7182623744010925,
+            "metadata": {
+              "text": "in Diabetes (GoKinD) study: a genetics collection availablefor identifying genetic susceptibility factors for diabeticnephropathy in type 1 diabetes. J Am Soc Nephrol 2006;\n177: 1782 1790.\n10. Pezzolesi MG, Poznik GD, Mychaleckyj JC, et al. Genome-\nwide association scan for diabetic nephropathysusceptibility genes in type 1 diabetes. Diabetes 2009; 586:\n14031410.\n11. Paterson AD, Lopes-Virella MF, Waggott D, et al.",
+              "title": "2014 - Identification of novel risk genes associated with type 1 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 70,
+              "document_id": "97fe33b0-a6c7-59b6-bd34-05528e77293f",
+              "extraction_id": "cce6eb13-6c59-5916-a108-477128ed6912",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "069b11b5-0785-599a-b92e-543e133c1c65",
+            "score": 0.7167181968688965,
+            "metadata": {
+              "text": "beta cell function, insulin mode of action, glucose  metabolism and/or other risk \nfactors.  It is a fact that advances in genotyping technology, over the past few years, \nhave facilitated rapid progress in large-scale gene tic studies.   Identification of a large \nnumber of novel genetic variants increasing suscept ibility diabetes and related traits \nopened up opportunities, not existing thus far, to associate this genetic information",
+              "title": "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+              "version": "v0",
+              "chunk_order": 106,
+              "document_id": "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+              "extraction_id": "46f1cae6-a01f-5445-b20f-0eadf892f8bf",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "f0848c4e-5c55-5e13-8ac5-75065aaed286",
+            "score": 0.7139273115353186,
+            "metadata": {
+              "text": "DISCUSSION\nThe findings of previous epidemiological and family studies\nsuggest that diabetic nephropathy results from an interaction\nbetween metabolic abnormalities that are typical of poorlycontrolled IDDM and predisposing genetic factors (4,5). Thenature of the genetic factors, however, has remained un-\nknown (22).\nUsing a candidate gene approach, we have found in this",
+              "title": "1994 - Genetic Predisposition to Diabetic Nephropathy.pdf",
+              "version": "v0",
+              "chunk_order": 51,
+              "document_id": "e9dce475-d40f-5cda-a53d-3e722191d447",
+              "extraction_id": "9f693d00-d331-5924-a0bc-8ec8614ccd6e",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "9c16d623-9eb8-57fe-8ae8-48009f766d64",
+            "score": 0.7128373980522156,
+            "metadata": {
+              "text": "PLoS Genetics | www.plosgenetics.org June 2007 | Volume 3 | Issue 6 | e96 0963\nType 2 Diabetes Network-Based Analysis",
+              "title": "2007 - Network-Based Analysis.pdf",
+              "version": "v0",
+              "chunk_order": 78,
+              "document_id": "1f23601c-2dab-570a-a2ca-039283831b17",
+              "extraction_id": "295a5916-ff2d-54b2-a0fe-4b279e71b5ad",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "9fd6df7d-c275-573d-8c8e-afe69ec5c544",
+            "score": 0.712662177523246,
+            "metadata": {
+              "text": "PLoS Genetics | www.plosgenetics.org June 2007 | Volume 3 | Issue 6 | e96 0971\nType 2 Diabetes Network-Based Analysis",
+              "title": "2007 - Network-Based Analysis.pdf",
+              "version": "v0",
+              "chunk_order": 165,
+              "document_id": "1f23601c-2dab-570a-a2ca-039283831b17",
+              "extraction_id": "334686b0-71fb-5820-9649-3cdf355f1dfe",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "5005ed0b-8b17-540f-8106-94593c601084",
+            "score": 0.7124179773081567,
+            "metadata": {
+              "text": "PLoS Genetics | www.plosgenetics.org June 2007 | Volume 3 | Issue 6 | e96 0967\nType 2 Diabetes Network-Based Analysis",
+              "title": "2007 - Network-Based Analysis.pdf",
+              "version": "v0",
+              "chunk_order": 115,
+              "document_id": "1f23601c-2dab-570a-a2ca-039283831b17",
+              "extraction_id": "63fadd0c-3522-5339-b534-807144901fa9",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          },
+          {
+            "id": "81a23927-18e2-54fe-94c2-6b64cc3c7020",
+            "score": 0.71149742603302,
+            "metadata": {
+              "text": "High-Density Single Nucleotide Polymorphism\nGenome-Wide Linkage Scan for Susceptibility Genes forDiabetic Nephropathy in Type 1 Diabetes\nDiscordant Sibpair Approach\nJohn J. Rogus,1,2G. David Poznik,1Marcus G. Pezzolesi,1,2Adam M. Smiles,1Jonathon Dunn,1\nWilliam Walker,1Krzysztof Wanic,1,2Dariusz Moczulski,1,2,3Luis Canani,1,2,4Shinichi Araki,1,2,5\nYuichiro Makita,1,2,6James H. Warram,1and Andrzej S. Krolewski1,2\nOBJECTIVE Epidemiological and family studies have demon-",
+              "title": "2008 - High-Density Single Nucleotide Polymorphism.pdf",
+              "version": "v0",
+              "chunk_order": 0,
+              "document_id": "ce79f562-c274-5cbe-bae2-e5b688348b04",
+              "extraction_id": "e04a055d-630a-50b5-a468-560e25bf1d40",
+              "associatedQuery": "How can GeneNetwork assist in identifying genetic factors involved in diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "13": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZRLVC30o2qvIhM1bclRsts27OFA",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "GeneNetwork offers several specific tools that are particularly useful for diabetes research:\n\n1. **Multi-Omics Analysis**: GeneNetwork includes data from multiple species and supports multi-omics analysis, which integrates genomic, transcriptomic, and metabolomic datasets. This integration is crucial for understanding the complex regulatory networks and mechanisms underlying diabetes [1], [5].\n\n2. **Correlation and Network Analysis**: These tools allow researchers to compare associations between tissues and between rodent or human datasets. This can help identify key molecular interactions and pathways involved in diabetes [6], [7].\n\n3. **Systems Genetics Mapping**: Many datasets within GeneNetwork are amenable to systems genetics mapping, which can be used to link genetic variations to phenotypic traits related to diabetes. This helps in identifying genetic factors that contribute to the disease [6].\n\n4. **Microarray Data Analysis**: GeneNetwork provides access to a large number of microarray datasets from multiple tissues. This data can be used to study gene expression patterns and identify genes that are differentially expressed in diabetic conditions [3], [9].\n\n5. **Predictive Medicine and Systems Genetics**: GeneNetwork is designed as a resource for predictive medicine and systems genetics, which are essential for developing personalized treatment strategies for diabetes [1].\n\nThese tools are applied in diabetes research to gain insights into the genetic and molecular basis of the disease, identify potential biomarkers, and develop targeted therapeutic strategies. For example, integrated analysis of genomic, transcriptomic, and metabolomic datasets can reveal metabolic regulatory networks and mechanisms specific to diabetes [5]. Correlation and network analysis can help in understanding how different tissues interact and contribute to the disease pathology [6], [7].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797859,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 339,
+          "prompt_tokens": 1061,
+          "total_tokens": 1400
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "c63cfaee-749e-547b-9c0a-086266f10670",
+            "score": 0.7109196186065674,
+            "metadata": {
+              "text": "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics \nanalysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for \npredictive medicine and systems genetics, which is constantly being maintained and improved.   \nHere, we give a brief overview of the process  for carrying out some of the most common \nfunctions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+              "title": "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+              "extraction_id": "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "a9508122-3b14-5365-979c-ba580bdcb78f",
+            "score": 0.7023895978927612,
+            "metadata": {
+              "text": "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to\nexplore systems genetics data.\nThe importance of defining biological networks and\npredicting molecular interactions has been emphasized\nby several reports [1,2]. Such studies emphasize that\nwhen knowledge about DNA variation within popula-\ntions is interfaced with data on gene expression, protein\ninteractions and DNA-protein binding, biological\nnetworks can be constructed that are predictive of the",
+              "title": "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+              "extraction_id": "ec624ebb-489a-5437-a721-f01cf981d0a7",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "21936758-94b1-506f-9229-77e26001ae44",
+            "score": 0.6944475356073668,
+            "metadata": {
+              "text": "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes\nare two such examples of possible tools. For this study, we",
+              "title": "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+              "version": "v0",
+              "chunk_order": 105,
+              "document_id": "76a715a4-8222-598b-8e65-6d5b6e807989",
+              "extraction_id": "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "8b8a24da-a175-5cb8-91bd-8966fca5d344",
+            "score": 0.6924966780095305,
+            "metadata": {
+              "text": "subnetworks \n GeneNetwork (www.genenetwork.org) is a depository of data-\nsets and tools for use in complex systems biology approaches in \norder to generate or predict higher order gene function ( 23, 24 ).",
+              "title": "2011 - Peroxisomal L-bifunctional enzyme (Ehhadh) is essential for the production of medium-chain dicarboxylic acids.pdf",
+              "version": "v0",
+              "chunk_order": 29,
+              "document_id": "ac61753e-bcb2-55c3-804b-e821e3d1a4ad",
+              "extraction_id": "a8b40857-7ae8-512a-9817-bea1ae3345ba",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "418060c8-fafb-5010-a512-55819ed36a3d",
+            "score": 0.6917344927787781,
+            "metadata": {
+              "text": "of these tools to diabetes andmetabolic disease research at the cellular, animal model,and human disease levels are summarized, with a partic-ular focus on insights gained from the more quantitativetargeted methodologies. We also provide early examplesof integrated analysis of genomic, transcriptomic, andmetabolomic datasets for gaining knowledge about meta-bolic regulatory networks and diabetes mechanisms andconclude by discussing prospects for future insights.",
+              "title": "2009 - Metabolomics Applied to Diabetes Research.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "a6ae2fb6-88ae-588f-a98d-b6092f886ed9",
+              "extraction_id": "380e9a2e-8f9f-5f9e-ba20-3695b1c60fda",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "7ce6c0fe-8b0a-5ce9-83d1-6e6b99b4f24d",
+            "score": 0.6751978590966559,
+            "metadata": {
+              "text": "including correlation and network analysis to compare associations \nbetween tissues and between other rodent or human data sets[32]\nMany of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+              "title": "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+              "version": "v0",
+              "chunk_order": 264,
+              "document_id": "d11a87ca-4989-59af-95e3-ab90af7d9212",
+              "extraction_id": "4ca2fc9e-7d42-5ea3-b1b7-a296bfbc6a09",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "30e2423f-2b2b-5c7d-8808-b025242fa0c7",
+            "score": 0.6751966267589824,
+            "metadata": {
+              "text": "including correlation and network analysis to compare associations \nbetween tissues and between other rodent or human data sets[32]\nMany of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+              "title": "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+              "version": "v0",
+              "chunk_order": 264,
+              "document_id": "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+              "extraction_id": "7dd82b3f-58bd-5915-9eea-250f11412ff2",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "fa07b1bf-94e6-515b-8400-cf3afa8b8741",
+            "score": 0.6744799613952637,
+            "metadata": {
+              "text": "data are entered into GeneNetwork after they have been shepherded through a system like\nPhenoGen that has extensive capabilities for normalization and quality control. A\ncomparison of the brain gene expression datasets and some of the tools for data analysis\navailable on PhenoGen and GeneNetwork is shown in Table 3, and more detailed\ninformation on features provided by each site is outlined in the Supplementary DiscussionHoffman et al. Page 5\nAddict Biol . Author manuscript; available in PMC 2012 July 1.",
+              "title": "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+              "version": "v0",
+              "chunk_order": 44,
+              "document_id": "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+              "extraction_id": "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "dcb29dfe-ba22-54bc-91f7-af3261a18fd2",
+            "score": 0.6744725704193115,
+            "metadata": {
+              "text": "of importance in the emergence of precision medicine ( Curtis, 2015 ; Desautels et al., 2014 ; \nGlade Bender et al., 2015 ; Jorgensen, 2015 ; Kummar et al., 2015 ; Marquet et al., 2015 ; \nRubin, 2014 ) wherein therapeutic strategies need to be aligned with specific properties of \ntumors.\nMethods\nGeneNetwork and WebGestalt\nGeneNetwork is an open access, online data analysis resource for systems biology and \nsystems genetics. It contains a large number of microarray datasets from multiple tissues of",
+              "title": "2015 - Cell cycle gene expression networks discovered using systems biology Significance in carcinogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "6f354254-4f4d-52ad-bed7-9356f43c0b20",
+              "extraction_id": "5b6d04d2-3aa2-5a43-814a-b13e60e3bb1d",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          },
+          {
+            "id": "f163b61d-987b-50eb-aef2-ee0dc0eddb9f",
+            "score": 0.6735756597988507,
+            "metadata": {
+              "text": "results in applying the method  to type 2 diabetes mellitus suggest it may hold \npromise as a useful research tool for complex diseases .  Further details on the \nmethodol ogy is available from the following paper: Liu M, Liberzon A, Kong \nSW, Lai WR, Park PJ et al (2007) Network -based analysis of affected biological \nprocesses in type 2 diabetes models.  PLoS Genet 3(6):e96.  \ndoi:10.1371/journal.pgen.0030096.",
+              "title": "2013 - Pathways, Networks and Systems Medicine Conferences.pdf",
+              "version": "v0",
+              "chunk_order": 144,
+              "document_id": "b50a9732-7d01-5d4d-8f33-a9d43dbc7df3",
+              "extraction_id": "9ca6d444-064c-5743-b029-9d634685f11b",
+              "associatedQuery": "What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "14": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZRS3ZXELoaA2dkAlgxXgB5ABMRV",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Insulin plays a central role in the regulation of blood glucose levels by facilitating the uptake of glucose into peripheral tissues and suppressing glucose production by the liver. When blood glucose levels rise, such as after food intake, insulin is secreted by the pancreas into the bloodstream [1]. This secretion stimulates peripheral tissues, including muscle and adipose tissue, to absorb glucose, thereby lowering blood glucose levels [1], [3], [8]. \n\nInsulin also acts in the liver to suppress glucose production and gluconeogenesis, further contributing to the reduction of blood glucose levels [3], [6], [8]. Additionally, insulin triggers the translocation of GLUT4 receptors to the cell surface in skeletal muscle and adipose tissue, enhancing glucose uptake by these tissues [8]. This finely tuned balance between glucose absorption, production, and extraction ensures that blood glucose levels are maintained within a narrow range [4], [5].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797866,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 183,
+          "prompt_tokens": 961,
+          "total_tokens": 1144
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "1da7c09b-640d-5791-b411-4f87dfc2e03c",
+            "score": 0.6330244601325177,
+            "metadata": {
+              "text": "Figure 3. Schematics view of insulin regulation. Elevated glucose level by either food intake or liver glycogenolysis is sensed by islet and leads\nto insulin secretion to the bloodstream. The increased insulin stimulates peripheral tissues to absorb glucose, and as a consequence, the glucose le vel",
+              "title": "2012 - Integrative Analysis of a Cross-Loci Regulation Network.pdf",
+              "version": "v0",
+              "chunk_order": 36,
+              "document_id": "de5b6ecc-8a65-5dc7-9a4a-49e6df22472e",
+              "extraction_id": "63fe12a0-20b1-5f8b-9fd6-adaecaa66eeb",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "7b13b8a2-7d7f-5675-b3f0-c9aa48566b45",
+            "score": 0.6253061741225556,
+            "metadata": {
+              "text": "plays an important role in regulating insulin secretion in beta cells of the pancreas. It has been shown that glucosestimu-lated insulin secretion may be triggered by the autocrine ac-tivation of the insulin signaling pathway, including insulin receptor phosphorylation, tyrosine phosphorylation in IRS1, and the activation of PI3Kinase. Putting together these data leads to the hypothesis that a single molecular impairment in the pathway of insulin signaling, including an incomplete interaction between",
+              "title": "2019 - IRS1\u2010 rs10498210 GA and CCR5\u201059029 AG polymorphisms in patients with type 2 diabetes in Kurdistan.pdf",
+              "version": "v0",
+              "chunk_order": 47,
+              "document_id": "18afbfee-ddee-54b3-88cc-342812a65d09",
+              "extraction_id": "5b74e0f4-8b7a-5ef2-ab41-99819fe185cc",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "089f1f4d-d9d9-5245-b7ca-cf6e2ff87111",
+            "score": 0.623233363242945,
+            "metadata": {
+              "text": "(A) Insulin interacts in the liver to suppress glucose production, and in muscle and adipose tissue to stimulate uptake of glucose, aminoacids, and fatty acids. The amount of insulin released to maintain normal glucose homoeostasis is established by prevailing insulin sensitivity. This feedback is probably mediated through neuronal and humoral mechanisms, but exact mediators are still not known. (B) When insulin resistance develops in insulin-sensitive tissues, feedback to  cells ensures that the cells",
+              "title": "2014 - Pathophysiology and treatment of type 2 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 25,
+              "document_id": "ab9288ab-e3ad-58f1-b5ba-183ee17ce4bd",
+              "extraction_id": "b4a31e40-c59e-525c-afcf-6f1efae2ef3a",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "dd5661a5-6349-5abf-95c6-4abe424ada78",
+            "score": 0.621403143238651,
+            "metadata": {
+              "text": "Insulin Action \n In healthy, normal individuals, blood glucose concentra-\ntion is maintained within a narrow range. After an over-night fast or between meals, blood glucose normally falls within the range of 3.5  5.5   mM. Immediately after a meal containing carbohydrate, blood glucose concentration rises to a peak of 6  10   mM followed by a sharp decline back to baseline within 60 minutes. This exquisite control is achieved by a   ne balance between glucose absorption",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 8579,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "4cf7634b-caa6-589c-939d-3bf8d9410e46",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "4f477c98-cd75-5955-ac3e-72a44d53f45e",
+            "score": 0.6210094771964304,
+            "metadata": {
+              "text": "from the gut, glucose production by the liver, and glucose extraction from the blood into the cells and tissues. \n Insulin plays a central role in the regulation of blood",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 8580,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "4cf7634b-caa6-589c-939d-3bf8d9410e46",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "2ace6cbd-084e-57e5-b6ed-1f42527b59b9",
+            "score": 0.6177650549691894,
+            "metadata": {
+              "text": "glucose transport into the cell. Concomitantly, insulin stimulates intracellular utili-zation of glucose by many other tissues as well. In the fasting state, the main physiological function of insulin is to suppress glucose production by the liver and prevent uncontrolled lipolysis and ketogenesis, without which dia-betic ketoacidosis would quickly develop. Hence, if either of these aspects of insulin action is impaired, then periph-eral or liver hepatic insulin resistance or both are said to be present.",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 8567,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "3faeb0aa-9894-58e7-a2a6-c5f9ceb5cd22",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "eafb2d74-ca99-52c6-a93d-89711b063a53",
+            "score": 0.6154618905071783,
+            "metadata": {
+              "text": "and suppression ofglucose production are regulated by insulin.",
+              "title": "2000 - Pathophysiology and Pharmacological Treatment.pdf",
+              "version": "v0",
+              "chunk_order": 26,
+              "document_id": "27206293-61c6-5a22-a342-6dfe1a759f04",
+              "extraction_id": "8bbb1489-4c01-5d58-99f3-c007c9e4713a",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "63d20d73-d6a3-56cb-91f6-34c66f439c7f",
+            "score": 0.6149260264723313,
+            "metadata": {
+              "text": "the pancreas in response to an increase in blood glucose, such as that which follows a carbohydrate - containing meal. Insulin acts to decrease blood glucose levels by increasing glucose uptake by tissues and by decreasing gluconeogenesis by the liver. To increase tissue uptake, insulin triggers the translocation of GLUT4 receptors to the cell surface in skeletal muscle and adipose tissue. Insulin also stimulates each of the regulatory enzymes in the glycolytic pathway, while also inhibiting the key",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 1141,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "ae5e854d-a344-56f3-a597-fb8e1e745af7",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "39b2638a-6bc8-5d16-bde4-4abd573cca47",
+            "score": 0.6145545107657344,
+            "metadata": {
+              "text": "insulin suppresses both hepatic and renal glucose release, 3031 and stimulates \nglucose uptake exogenous insulin administration causes systemic glucose \nutilization to exceed systemic glucose release so that plasma glucose \nconcentrations decrease. \nAs the plasma glucose levels decrease there is a characteristic \nhierarchy of responses (Figure 1 ). Reduction of insulin secretion, the first in \nthe cascade of hypoglycemia counterregulation, 2 derepresses glucose",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 1553,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "77878a83-0136-583f-a237-5443ce967a1a",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          },
+          {
+            "id": "8240c5cc-7d4f-51b4-935a-eb47314b3ec0",
+            "score": 0.6095093954194356,
+            "metadata": {
+              "text": "Counter-regulatory hormones antagonize the glucose lowering action \nof insulin, and act to raise the blood glucose level. Glucagon, a potent \ncounter-regulatory hormone inhibited by insulin, is secreted from pancreatic \nalpha cells when cells perceive low glucose. In diabetes, pancreatic insulin \nlevels are reduced and glucagon is chronically elevated. In DKA, in addition \nto low insulin action, there is the cellular perception of low glucose , which",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 1439,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "a7e3dee0-551a-57ea-8a22-04b5f84252da",
+              "associatedQuery": "What role does insulin play in the regulation of blood glucose levels?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "15": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZRXnhQYKwt6bdryLveg63fKEuX4",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Aging is considered one of the main factors responsible for the development of type 2 diabetes (T2D) [1]. As populations in Western countries are aging rapidly, the prevalence of T2D is increasing [5]. This is partly due to lifestyle changes that impede insulin action and increase hepatic glucose production, which are more pronounced in older adults [5]. Additionally, the severity of insulin resistance tends to be greater in older individuals, especially those with a history of prolonged and severe obesity [7]. Therefore, aging significantly increases the risk of developing type 2 diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797871,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 115,
+          "prompt_tokens": 991,
+          "total_tokens": 1106
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "a2125212-46c1-5020-ab62-196db673c2f5",
+            "score": 0.7258647680282593,
+            "metadata": {
+              "text": "The biological processes linking aging and disease risk are poorly understood. Still, aging is considered to date as \none of the main factors responsible for several complex diseases including cancer, cardiovascular diseases, and diabetes.\nParticularly, type 2 diabetes (T2D) has become very prevalent all over the world, with a projected increas-\ning growth rate for the years ahead\n1. The pathophysiological mechanism that underlines diabetic complications",
+              "title": "2017 - Regular exercise participation improves genomic stability in diabetic patients an exploratory study to analyse telomere length and DNA damage.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "dcaf7b09-2d54-5cbf-b061-e3c4e6c6c518",
+              "extraction_id": "0e53122e-a308-55f7-8ee8-a0857ac9c52f",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "df41de1c-0fa9-5a3b-a610-20c98a3f2b2d",
+            "score": 0.7159596681594849,
+            "metadata": {
+              "text": "unclear whether age at menopause is associated with risk of type2d i a b e t e s[ 3,4]. Data from cross-sectional studies examining the\nassociation between age at menopause and type 2 diabetes are\ncontradictory, with a few studies reporting no association and\nsome other reporting higher odds of having type 2 diabetes with\nearly onset of menopause [ 57]. Recently, a nested case cohort\nstudy reported that an increased risk of type 2 diabetes is associ-",
+              "title": "2017 - Age at natural menopause and risk of type 2 diabetes a prospective cohort study.pdf",
+              "version": "v0",
+              "chunk_order": 10,
+              "document_id": "7457a250-85c1-520b-a177-f7775a60b14f",
+              "extraction_id": "7d48e6ab-4fe7-539f-beee-b65ee92cb187",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "c03fd521-abb7-53c7-a2f9-61fea38ca541",
+            "score": 0.7105507254600525,
+            "metadata": {
+              "text": "The mechanisms leading to development of type 2 diabetes in young people are similar to those in older patients; however, the speed of onset, severity, and interplay of reduced insulin sensitivity and defective insulin secretion might be different in patients who develop the disease at a younger age.\n18 In adolescents with type 2 diabetes, as in \nlater onset type 2 diabetes, the initial deterioration in -cell function is characterised by loss of first-phase nutrient-stimulated insulin secretion.",
+              "title": "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+              "version": "v0",
+              "chunk_order": 16,
+              "document_id": "cc708325-df0a-55ec-9e9b-2bf97835c992",
+              "extraction_id": "ec07ba94-177b-599e-8104-92b2e0b943e6",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "f2086a09-1ba9-5cc7-8573-3a3c654ee2c6",
+            "score": 0.708970308303833,
+            "metadata": {
+              "text": "anincreased risk of developing type 2 diabetes (T2D) later in their",
+              "title": "2012 - Meta-Analysis of the Relationship between Common.pdf",
+              "version": "v0",
+              "chunk_order": 8,
+              "document_id": "0135b1a8-aa80-5d2f-a64c-daf7806868bd",
+              "extraction_id": "a1598191-38cd-5ece-ad1f-24f100ce43a4",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "dee77427-41b1-5ebb-a50c-8d29bc152f88",
+            "score": 0.7024066625591134,
+            "metadata": {
+              "text": "T2D is associated with age, and Western populations are aging rapidly. The second major explanation is our lifestyles have changed dramatically in recent years. Epidemiological studies have identified strong T2D risk relationships for obesity, sedentary behavior [24], and diets rich in energy [5], processed carbohydrates [6], and animal fats [7]. Collectively, these lifestyle factors impede the actions of insulin and raise hepatic glucose production, which can result in the diminution of endog-enous",
+              "title": "2011 - Interaction Between Exercise and Genetics.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "c36db75e-4b76-540d-9efb-d0e156e61541",
+              "extraction_id": "3c217c69-d626-541a-a846-3277ddbf3e12",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "765594a9-3100-57fb-a061-3d72b771fce7",
+            "score": 0.7017079591751099,
+            "metadata": {
+              "text": "tion. Many people with type 2 diabetes ultimately requirei n s u l i nt h e r a p y ,w h i c hr e ects long-standing type 2\ndiabetes and greatly diminished b-cell function but also\nlikely includes individuals who have slowly progressingautoimmune diabetes with adult onset (LADA) or otherambiguous forms of diabetes.\nAge. Data from randomized controlled trials in people\nwith type 2 diabetes under the age of 18 years or over the\nage of 65 years are scarce. Bene cial effects of tight",
+              "title": "2017 - Differentiation of Diabetes by Pathophysiology.pdf",
+              "version": "v0",
+              "chunk_order": 80,
+              "document_id": "9cfaef1e-fb60-5c2b-94f0-632c89b2eb16",
+              "extraction_id": "47e113ad-dfd3-5a57-be05-7cbb1457f0b6",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "2747746a-5ede-5c96-aa43-8b71a29c1ce0",
+            "score": 0.6961544156074524,
+            "metadata": {
+              "text": "strong inverse association between BMI and age at diagnosis of type 2 diabetes. When type 2 diabetes presents in later life, the severity of insulin resistance is often greater among individuals with a history of protracted and severe obesity, particularly with excess visceral adiposity.\n28",
+              "title": "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+              "version": "v0",
+              "chunk_order": 23,
+              "document_id": "cc708325-df0a-55ec-9e9b-2bf97835c992",
+              "extraction_id": "ec07ba94-177b-599e-8104-92b2e0b943e6",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "c0c7ac1b-e32e-5971-a63c-7d2ee7b48d5f",
+            "score": 0.6927418112754822,
+            "metadata": {
+              "text": "patients with young-onset type 2 diabetes than in patients without diabetes, whereas the risk of myocardial infarction was much less (typically 24 times higher) in patients with \ntype 2 diabetes presenting in middle and later life.\n106 In \nHong Kong, where 20% of type 2 diabetes diagnosed since \n1995 occurs in people aged 40 years or younger, a 7-year prospective study\n107 showed that when adjusted for age,",
+              "title": "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+              "version": "v0",
+              "chunk_order": 85,
+              "document_id": "cc708325-df0a-55ec-9e9b-2bf97835c992",
+              "extraction_id": "18efcee1-5d44-55fc-9d04-e8caaf1a13ab",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "91e2be43-bd18-5304-9755-3ee18dcf0040",
+            "score": 0.6922511641829524,
+            "metadata": {
+              "text": "type 2 diabetes, the major predisposing risk factors are obesity, family history, and sedentary lifestyle. Onset of diabetes at a younger age (defined here as up to age 40 years) is associated with longer disease exposure and increased risk for chronic complications. Young-onset type 2 diabetes also affects more individuals of working age, accentuating the adverse societal effects of the disease. Furthermore, evidence is accumulating that young-onset type 2 diabetes has a more aggressive disease phenotype,",
+              "title": "2018 - Type 2 Diabetes in adolescents and young adults.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "cc708325-df0a-55ec-9e9b-2bf97835c992",
+              "extraction_id": "ea61883c-6516-509f-b336-e50da1272f69",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          },
+          {
+            "id": "13911a7c-bc0a-5643-bbe6-f4ec9a9a2292",
+            "score": 0.6916474103927612,
+            "metadata": {
+              "text": "pathophysiology of type 2 diabetes. Diabetes 60(10):26242634.\ndoi:10.2337/db11-0415Aging Clin Exp Res\n123",
+              "title": "2015 - A Chromosome 13 locus is associated with male-specific mortality in mice.pdf",
+              "version": "v0",
+              "chunk_order": 79,
+              "document_id": "ad8f2626-87fb-520e-8cef-ee9a9cc3ab0b",
+              "extraction_id": "5cc56e3b-53ab-5299-814d-014e2ed31d2f",
+              "associatedQuery": "How does aging affect the risk of developing type 2 diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "16": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZRbty26XP7vi2KOPG4Rh8fHX6iY",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Lifestyle changes, particularly those involving diet and physical activity, have been shown to be effective in managing and even reversing type 2 diabetes (T2DM). Several sources in the provided context support this:\n\n1. **Prevention and Management**: Lifestyle interventions, including dietary modifications and increased physical activity, have been proven effective in preventing the progression from impaired glucose tolerance to type 2 diabetes [1], [2], [3], [5], [9]. These interventions are more efficacious than pharmacological treatments in some cases [5].\n\n2. **Sustained Effects**: The positive effects of lifestyle changes on type 2 diabetes risk are sustained over longer periods, even if weight is partially or totally regained [4], [10]. This suggests that the benefits of lifestyle modifications are not solely dependent on weight loss.\n\n3. **Cornerstone of Treatment**: Lifestyle modification, including exercise, nutrition, and behavioral changes, is considered the cornerstone for both preventing and treating type 2 diabetes [7].\n\nIn summary, lifestyle changes can indeed play a significant role in reversing type 2 diabetes, as evidenced by multiple clinical trials and studies [1], [2], [3], [4], [5], [7], [9], [10].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727797875,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 252,
+          "prompt_tokens": 1134,
+          "total_tokens": 1386
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "4e079c08-9095-5ec2-8c19-c6d0b222891e",
+            "score": 0.709074812586618,
+            "metadata": {
+              "text": "of Type 2 Diabetes \n The lifestyle intervention using physical exercise \nand modi  cation of nutrition is ef  cient in pre-\nventing type 2 diabetes in patients with impaired glucose tolerance [ \n99 ]. Clinical trials con  rm \nthat lifestyle interventions (dietary modi  cation \nand increased physical activity) reduce the risk of progressing from impaired glucose tolerance to type 2 diabetes [ \n105 ]. Assessing T2D risk accord-\ning to FINDRISK scale [ 106 ] is quite common in",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 2048,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "e6158348-e782-5e6d-9d89-3169b8fa630f",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "b81dd6ab-e06e-55a2-bc0a-c89c5e883d3a",
+            "score": 0.6927184645701382,
+            "metadata": {
+              "text": "Major clinical trials have demonstrated that diet and lifestyle modifications are \neffective in preventing T2DM in high-risk individuals.\n T2DM management strategies including lifestyle modifications, social support and \nensuring medication adherence are key to reducing the incidence of diabetes \nmellitus complications.\nREVIEWS\nNATURE REVIEWS | ENDOCRINOLOGY  VOLUME 14 | FEBRUARY 2018 | 89",
+              "title": "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf",
+              "version": "v0",
+              "chunk_order": 24,
+              "document_id": "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d",
+              "extraction_id": "b534ab93-c837-5d89-809d-92062b1d49a4",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "d090cda1-cf6a-5f2f-899a-3c7c763d0c8c",
+            "score": 0.6889619827270508,
+            "metadata": {
+              "text": "focused on people with impaired glucose tolerance or impaired fasting glucose because of their high risk of development of type 2 diabetes. Several studies have examined the ability of lifestyle modi  cation and drugs to slow progression to diabetes (table 2). Findings from these trials have nearly all shown a bene  t, with lifestyle modi  cations being more e   cacious than any drug, with \nthe exception of the thiazolidinedione anti diabetics.\n163175",
+              "title": "2014 - Pathophysiology and treatment of type 2 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 114,
+              "document_id": "ab9288ab-e3ad-58f1-b5ba-183ee17ce4bd",
+              "extraction_id": "35936d60-f8db-502e-be2c-4fe39f60fddd",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "2b361786-7027-54e1-825d-34abc3a3fe98",
+            "score": 0.6758465960117235,
+            "metadata": {
+              "text": "no or just minor weight loss was achieved, diabetes incidence was also reduced (   Pan et al., 1997   ;    Ramachandran et al., 2006   ). In addition, on the long term weight was partially or totally regained in all of the studies (   Knowler et al., 2009   ;    Li et al., 2008   ;    Lindstrom et al., 2006   ;    Lindstrom et al., 2003   ). Despite this regain T2DM risk remained low or decreased further, thus the e  ect of lifestyle is unlikely to be solely due to",
+              "title": "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 35,
+              "document_id": "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+              "extraction_id": "93638ea5-6d1f-5b6a-9629-798804de24dd",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "89339b65-325f-588f-9f25-761124f0012f",
+            "score": 0.669389923251277,
+            "metadata": {
+              "text": "proven particularly effective for preven-tion and management of type 2 diabetes.For example, improvement in dietaryquality, in conjunction with other lifestylemodications like increased physical ac-tivity, was shown to be more effectivethan pharmacological treatment in pre-vention of diabetes in individuals at highrisk (1). Further, lifestyle modicationmay mitigate the risk associated with thestrongest known diabetes risk loci (2).While the existence of environmental in-uences on genetic risk (and vice",
+              "title": "2010 - Interactions of Dietary Whole-Grain Intake.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "e4d4a19e-18a0-5a08-9ab7-537f31b7cdc1",
+              "extraction_id": "6283c124-b479-5050-86ca-dc42390147a1",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "74ec2f7f-a933-53b3-a78a-c69b9796c1c5",
+            "score": 0.6691490611180386,
+            "metadata": {
+              "text": "spite of our incomplete knowledge of the genetics of type 2diabetes today, the burden of type 2 diabetes can be amelio-rated at the population level. Recent studies have found thatlifestyle changes through diet and exercise can prevent or",
+              "title": "2008 - Public Health Genomics Approach to Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 36,
+              "document_id": "47186d35-9c05-5b0a-b8cd-21d2e0e688d8",
+              "extraction_id": "12668f1a-1631-5cce-bb6a-80b4de3fbb9e",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "e6e5b010-d608-5a19-ae74-d571499fbb7b",
+            "score": 0.6680524945259094,
+            "metadata": {
+              "text": "Lifestyle modification including exercise, nutrition and\nbehavioral changes is the cornerstone to prevent and treat\ntype 2 diabetes. Oral antidiabetic medication either as\nsingle agent or combination therapy is frequently required\nto maintain metabolic control, as assessed by monitoring ofglycated hemoglobin A\n1C(HbA 1C) levels. Eventually, asignificant proportion of patients with type 2 diabetes require\nthe exogenous administration of insulin [40].",
+              "title": "2009 - Zinc and Diabetes - clinical links and molecular mechanisms.pdf",
+              "version": "v0",
+              "chunk_order": 17,
+              "document_id": "72ab8458-928b-56b9-9547-1ba4b59dfab9",
+              "extraction_id": "ef8e6aa1-b7e0-5988-b9fb-a339317f9a66",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "2dc0e0fa-b061-5c09-8af3-02a44811042e",
+            "score": 0.6664275129778687,
+            "metadata": {
+              "text": "diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. N Engl J Med 2001; 344: 134350.\n114 Knowler WC, Barrett-Connor E, Fowler SE, et al. Reduction in \nthe incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 2002; 346: 393403.\n115 Ramachandran A, Snehalatha C, Mary S, Mukesh B, Bhaskar AD,",
+              "title": "2011 - Type 2 diabetes across generations from pathophysiology to prevention and management.pdf",
+              "version": "v0",
+              "chunk_order": 181,
+              "document_id": "0f49b102-1d7e-5702-af30-35e5f2ed93a6",
+              "extraction_id": "de689016-3a4c-53b2-b3bf-a25ccbcbbb02",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "0e465787-e5b0-5f33-88cf-9bd1d0624f68",
+            "score": 0.6654229362435027,
+            "metadata": {
+              "text": "type 2 diabetes. Physical activity, favorable dietary changes,and weight reduction were essential components of a success-ful lifestyle intervention in two large randomized controlled\ntrials on the prevention of type 2 diabetes in high-risk individ-uals with impaired glucose tolerance (IGT), including theFinnish Diabetes Prevention Study (DPS) (44) and the Diabe-tes Prevention Program (DPP) (22). In the DPS, increasedphysical activity was associated with a decreased risk of type",
+              "title": "2007 - Physical activity modifies the effect of SNPs in the SLC2A2 (GLUT2).pdf",
+              "version": "v0",
+              "chunk_order": 9,
+              "document_id": "6f5ced46-b777-563a-b644-432f4e7e2644",
+              "extraction_id": "65609b08-1113-5a7f-9117-73476bcf50de",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          },
+          {
+            "id": "4d08d1ea-03a2-53d9-bb9d-df46c3fc2dcb",
+            "score": 0.6643173892592609,
+            "metadata": {
+              "text": "demonstrate that lifestyle modi  cation comprising higher levels \nof PA and prudent food consumption may be e  ective in obesity \nand T2DM prevention. The positive e  ect of lifestyle on body \nweight seems somewhat transient, whereas the e  ect on T2DM \nis sustained for longer periods. Furthermore, lifestyle modi  ca-\ntion appears to have an e  ect on diabetes risk independently of \nbody weight and even of weight loss.\n     Lifestyle and Genetics in Obesity and Type 2 Diabetes",
+              "title": "2011 - Lifestyle and Genetics in Obesity and type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 44,
+              "document_id": "a16d3328-039c-530a-bfe5-f6f80ecf2ad0",
+              "extraction_id": "93638ea5-6d1f-5b6a-9629-798804de24dd",
+              "associatedQuery": "Can lifestyle changes reverse type 2 diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2012 - Genetic and Molecular Network Analysis of Behavior.pdf",
+    "2008 - Towards systems genetic analyses in barley Integration of phenotypic, expression and genotype data into GeneNetwork.pdf",
+    "2018 - Molecular Brain Adaptations to Ethanol_ Role of Glycogen Synthase (2).pdf",
+    "2008 - Genetic Analysis of Posterior Medial Barrel Subfield Size.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf"
+  ],
+  "extraction_id": [
+    "6cbea84e-4d8d-5ce0-8e58-45ee75f6f908",
+    "2bdd2f18-e4d0-53e9-b0fa-a7ed8d710961",
+    "3033b643-e51e-5467-b7d7-6a5c27061cab",
+    "dbfd3de6-3641-5430-b694-682fed7b32e9",
+    "a6c480d1-b384-5c6f-b21b-94fe0b3b0f4d",
+    "1047bf10-3878-5b70-8bb2-c0249f2a9c53",
+    "66aad1b1-a76d-58a8-aa40-76a6b58c4964",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "308bef07-d720-5686-990d-d1e26a48e8a1",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c"
+  ],
+  "document_id": [
+    "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+    "d11a87ca-4989-59af-95e3-ab90af7d9212",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "4b6759f8-fdaf-59a1-94bd-5a7cf184e1f9",
+    "8513abbe-65ed-5f35-9f86-ba93cfc5a194",
+    "cc2690a9-5a87-5f09-87d5-115a6a6b8349",
+    "76a715a4-8222-598b-8e65-6d5b6e807989",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f"
+  ],
+  "id": [
+    "chatcmpl-AIGmBVU8OOwhBDyIls65dlks2MJDd",
+    "1762dc59-0e50-5b7e-bdc2-b754e0e57797",
+    "e030ce79-6970-5300-a1d8-1623d07c2157",
+    "48cb54db-68ef-50f0-bc7c-83b7db2ec9a5",
+    "bd9e8c5d-405c-5b8b-b731-bf4fdaea1b3a",
+    "01a09a4e-3c30-53b1-8819-6085d4886079",
+    "d261c68c-c253-52c9-8e27-f76fb8d0b4f8",
+    "21936758-94b1-506f-9229-77e26001ae44",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "94f60899-c281-586e-8741-135a4fef2663",
+    "d8162fdc-326a-5f90-9fa4-24d86d701184"
+  ],
+  "contexts": [
+    "Fig. 2.  GeneNetwork main search page and organization. Most analyses in GeneNetwork will  follow the steps shown in panels A  through D. In this workfl ow, a data set is selected ( A)  and mined for traits of interest based on user search queries ( B). Traits are then selected  from the search ( C) and placed in a collection for further inspection and quantitative analysis  (D). The banner menu contains additional search options and helpful resources under the",
+    "Fig. 2.  GeneNetwork main search page and organization. Most analyses in GeneNetwork will  follow the steps shown in panels A  through D. In this workfl ow, a data set is selected ( A)  and mined for traits of interest based on user search queries ( B). Traits are then selected  from the search ( C) and placed in a collection for further inspection and quantitative analysis  (D). The banner menu contains additional search options and helpful resources under the",
+    "Another powerful feature of GeneNetwork is the ability to create and analyze whole collections  of data. In Figure 3  there are boxes within the table that can be selected in order to form a trait  collection. To do this, select the boxes in the table that su it the interests of the study, and press  Add. This function allows groups of traits to be saved for later analysis such as the generation of  a QTL, a network graph, and correlation matrix, some of which will be investigated further in",
+    "analysis in GeneNetwork, but there is an even more direct way to answer the same question.  It is possible to query data sets in GeneNetwork from the Select and Search  page using  advanced options to locate the highest trait LRS values for any genomic interval, in this case  the region within 2 Mb of Comt . (Note: You can explore this and other search options  further by clicking the Advanced Search  button and reading the section Advanced",
+    "is shown in Figure 1A. Associations between transcript abundance, phenotypic traits and genotype can be estab- lished either using correlation or genetic linkage mapping functions [29,30]. The main page of GeneNetwork at http://www.genenetwork.org  provides access to subsets of data through pull-down menus that allow specific data sets to be queried. The datasets can be further restricted using a single text box for specific database entries to query probe set or trait ID, or annotations associated with",
+    "genetic mapping, and correlation of quantitative traits such as gene expression data and behavioral parameters (Wang  et al, 2003) . GeneNetwork employs  genotype data from 3809 markers, selected based on their being informative (i.e., different between progenitor strains). GeneNetwork outputs peak likelihood ratio statistic (LRS) locations for each trait, whic h can be directly converted to",
+    "GeneNetwork provides users with an array of analyticaltools to compare a given trait with a number of data setsavailable from other experimenters. Microarray data ofgene expression in the brain and data of other phenotypes are two such examples of possible tools. For this study, we",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "(description of GeneNetwork provided by Dr. Robert W. Williams). Both of these websites focus to a large extent on correlations of behavioral phenotype with gene expression levels in recombinant inbred and inbred panels of mice and rats, and on QTL analyses, as a means to identify candidate genes for complex traits. What distinguishes PhenoGen, in addition to the tools for raw expression data analysis described above, is that the user can not only",
+    "of links to external resources for tracing the interrelationships of a gene among multiple Web-based resources. GeneNetwork also offers a number of correlation and mapping strategies for assessing associations among multiple genes and QTLs. GeneNetwork aims to make the study of complex traits through the use of systems genetics widely available to the scientific community. A powerful tool that can be integrated with GeneNetwork or used on"
+  ],
+  "answer": "Researchers identify important genes for certain traits using GeneNetwork.org through a series of steps and tools provided by the platform:  1. **Data Selection and Trait Mining**: Researchers begin by selecting a data set and mining it for traits of interest based on user search queries [1]. This involves using the main search page to query specific data sets and identify traits that are relevant to their study.  2. **Trait Collection and Analysis**: Once traits are identified, they are selected and placed in a collection for further inspection and quantitative analysis [1]. This allows researchers to organize and focus on specific traits for deeper investigation.  3. **Advanced Search Options**: GeneNetwork offers advanced search options that enable researchers to query data sets for specific genomic intervals and locate traits with the highest likelihood ratio statistic (LRS) values, which are indicative of strong genetic associations [4].  4. **Correlation and Genetic Linkage Mapping**: Researchers can establish associations between transcript abundance, phenotypic traits, and genotype using correlation or genetic linkage mapping functions [5]. This helps in identifying candidate genes linked to specific traits.  5. **QTL Analysis and Network Graphs**: The platform allows for the generation of quantitative trait loci (QTL) analyses, network graphs, and correlation matrices, which are essential for understanding the genetic architecture of complex traits [3].  By utilizing these tools and processes, researchers can effectively identify and analyze genes that are important for specific traits using GeneNetwork.org.",
+  "question": "How do researchers identify which genes are important for certain traits using GeneNetwork.org?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2012 - Predicting Diabetes Our Relentless Quest for Genomic Nuggets.pdf",
+    "2007 - Genome\u2013wide association studies provide new insights into type 2 diabetes aetiology..pdf",
+    "2004 - Diabetes Genes b.pdf",
+    "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf",
+    "2010 - Diabetes in Asia.pdf",
+    "2004 - Diabetic nephropathy Linking histology, cell biology.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2011 - Type 2 diabetes across generations from pathophysiology to prevention and management.pdf",
+    "2004 - Diabetes Genes a.pdf"
+  ],
+  "extraction_id": [
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "19b662f1-779b-57d2-bb51-e5505479ddc6",
+    "cd034e2b-72bd-5cda-a456-48cf17ead1bf",
+    "35324efd-a618-54aa-b9a5-541a9435134c",
+    "9369222f-e125-58c0-8f2b-cf5daa867f77",
+    "e99fe157-eda9-5e56-9ec9-8f428de2a161",
+    "7d723588-2c9a-5f6f-8ed1-f484fada8d13",
+    "4beabe81-e24e-535c-9df3-bfaa9cfdde90",
+    "baec13ec-c42b-51b4-9974-8ef1c2d10ddc",
+    "5a2221e0-dabc-523c-8358-3e43789e8f7a"
+  ],
+  "document_id": [
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "7ef99c69-e777-521f-bb99-26bcb81de748",
+    "2ad9b6c6-56ed-5ba6-ad88-c1a6777f5196",
+    "da2f2624-e3e6-5e2d-b406-941db2fe7671",
+    "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f",
+    "0be842b8-7f69-503b-baed-c336e5c834d6",
+    "b0732aa4-4250-563c-b4e7-b98bb8706299",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "0f49b102-1d7e-5702-af30-35e5f2ed93a6",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa"
+  ],
+  "id": [
+    "chatcmpl-ADZQoBhwZsCCyM8hyEreAlAw5KAiT",
+    "54ff4672-bf7f-5158-b228-ca3d45e0cb0d",
+    "ceedd7ed-ae19-5971-89f8-cccc731741b6",
+    "12ee4112-ee8b-584a-bbab-b47863449868",
+    "65084469-bf7c-508c-a211-1f28f7626638",
+    "3bbf736e-7d8b-5e67-a4bf-e1ae28738bf3",
+    "6c14eef8-bb27-503a-9523-9e7a16d71021",
+    "8397e685-13d3-5487-a9c6-856cc119cef9",
+    "44725666-366f-5123-92dd-ab2cf29e88c1",
+    "2aa9f009-ae05-5c93-ac3a-58b1f516d844",
+    "54d5bc85-a2f5-58f6-814f-b511f2e0c4cf"
+  ],
+  "contexts": [
+    "Genetic factors appear to play a role in determining an individuals risk of developing diabetes. It is hoped",
+    "the diabetes epidemic, and its predilection for certain ethnic groups, are unknown. However, interactions between genetic pre-disposition and environmental triggers (or accelerants) are generally presumed to un- derlie the etiology of diabetes (3 5) (Fig. 1). The best known environmental risk factors are dietary habits, physical inactivity, and obesity; interventions that ameliorate theserisk factors prevent the development oftype 2 diabetes (6,7). By contrast, knowledge of the genetic",
+    "increases the risk of type  2 diabetes. Such a strong environmental component to a dis - ease should perhaps have deterred geneticists  from studying the disorder. However, there  are many obese people who do not suffer  from diabetes and many non-obese people  who do, showing that obesity is not the only  factor involved in the aetiology of type   2  diabetes (FIG. 1). In the past 10 years, geneticists have  devoted a large amount of effort to finding type   2 diabetes genes. These efforts have",
+    "future diabetes, however, is not possible on a genetic basis alone. For  example, the concordance rate for identical twins is < 50%, indicating that  either environmental or developmental events (such as T cell development)  affect the progression of diabetes.  The ability of serologic studies to identify individuals at risk for  diabetes in the general population is under investigation. Among relatives of  patients with diabetes, serologic markers can identify patients at high risk.3",
+    "genes relate directly to insulin secretion and indirectly, through collaborating with other genes, to insulin resistance. Thisseems to support the epidemiological evidence that environmentally triggered insulin resistance interacts with geneticallyprogrammed bcell dysfunction to precipitate diabetes. Citation: Jain P, Vig S, Datta M, Jindel D, Mathur AK, et al. (2013) Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes. PLoS ONE 8(1): e53522. doi:10.1371/journal.pone.0053522",
+    "Genetic factors Type 2 diabetes has a strong genetic component and most Asian patients have a   rst-degree relative with diabetes. 48,49 Much progress has been made in our  understanding of the genetics of this disease. Importantly, most of the loci originally associated with diabetes in European populations have been replicated in Asian populations. Whereas monogenic forms of diabetes result from rare genetic mutations with large e  ects,  such as those seen in maturity-onset diabetes of young people,",
+    "literature abounds with evidence for genetic mediation ofthe initiation and progression of diabetic nephropathy.First, there is familial clustering that is not completelyexplained by environmental factors [3947]. Our indexcase and her family are perfect examples of genetic pre-disposition to diabetes and its complications, or, at thevery least, familial clustering. Parving and colleagues es-timated that glycemic control, hypertension, and albu-minuria account for only one-third of the variability",
+    "GENETIC MODELS OF DIABETES  Classically, genetic models of diabetes and obesity have been produced in  two ways. One is serendipitous observation of a spontaneously arising  extreme phenotype, followed by selective breeding to fix the trait. The  resulting model will often be monogenic, i.e. due to a single mutation. The  other approach is by repeated selective breeding of initially normal appearing members of a genetically diverse ( outbred) population that are at",
+    "36 Herder C, Roden M. Genetics of type 2 diabetes: pathophysiologic  and clinical relevance. Eur J Clin Invest 2011; 41: 67992. 37 Dabelea D, Hanson RL, Lindsay RS, et al. Intrauterine exposure  to diabetes conveys risks for type 2 diabetes and obesity: a study of discordant sibships. Diabetes 2000; 49: 220811. 38 Voight BF, Scott LJ, Steinthorsdottir V, et al. Twelve type 2 diabetes  susceptibility loci identi  ed through large-scale association analysis. Nat Genet 2010; 42: 57989.",
+    "Environmental influences interact with genetic factors to determine  susceptibility to type 2 diabetes by affecting either insulin action, insulin  secretion or both. The prevalence of type 2 diabetes has increased markedly  in populations that have rapidly adopted a Western lifestyle (for example the  Pima Indians) and in many populations that have migrated to regions with a  more affluent lifestyle compared to their native country (see Chapter IV.2)."
+  ],
+  "answer": "Genetics plays a significant role in influencing the emergence of diabetes. Several key points highlight this influence:  1. **Genetic Predisposition**: Genetic factors are crucial in determining an individual's risk of developing diabetes [1]. There is a strong genetic component to type 2 diabetes, with many patients having a first-degree relative with the disease [6].  2. **Interaction with Environmental Factors**: The development of diabetes is generally presumed to result from interactions between genetic predisposition and environmental triggers such as dietary habits, physical inactivity, and obesity [2]. This interaction suggests that while genetics set the stage, environmental factors act as accelerants.  3. **Insulin Secretion and Resistance**: Specific genes are directly related to insulin secretion and indirectly to insulin resistance. This supports the idea that genetically programmed beta-cell dysfunction, when combined with environmentally triggered insulin resistance, precipitates diabetes [5].  4. **Familial Clustering**: There is evidence of familial clustering of diabetes, indicating a genetic predisposition to the disease and its complications [7].  5. **Genetic Models**: Genetic models of diabetes have been developed through selective breeding, which often results in monogenic forms of the disease due to single mutations [8].  6. **Concordance in Twins**: The concordance rate for diabetes in identical twins is less than 50%, indicating that while genetics play a significant role, environmental or developmental events also affect the progression of diabetes [4].  In summary, genetics significantly influences the emergence of diabetes by predisposing individuals to the disease, which is then often triggered or exacerbated by environmental factors.",
+  "question": "How does genetics influence the emergency of diabetes?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2016 - Genetic networks in mouse retinal ganglion cells.pdf",
+    "2018 - Genetic Networks Activated by Blast Injury to the Eye.pdf",
+    "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2015 - Selecting causal genes from genome-wide association studies via functionally coherent subnetworks.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2021 - Lessons learned from the eMERGE Network balancing genomics.pdf",
+    "2012 - Large-scale association analyses identify new loci influencing glycemic traits and provide insight into the underlying biological pathways.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "194c0d73-a9b7-5b5e-ac92-7dd689da6fc0",
+    "b881d0e1-11d4-578d-8560-0106c77d7a23",
+    "7dd82b3f-58bd-5915-9eea-250f11412ff2",
+    "4ca2fc9e-7d42-5ea3-b1b7-a296bfbc6a09",
+    "46616368-74e6-5605-9e43-9789e8e1bea1",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "8aecb357-2d62-51f9-9256-6fdf8c73791e",
+    "bc862e34-d30b-5882-9cc9-69f2bce72239"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "ca0d3a29-7814-5d09-ad9d-e4143e87900d",
+    "57e3820f-7a5d-51f1-a0c6-ecfbdf546005",
+    "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+    "d11a87ca-4989-59af-95e3-ab90af7d9212",
+    "af43f4ac-7211-52f0-8f6b-e4bde73bbe4a",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "cd0002dd-dcf1-567a-bf41-61eb0d6d982b",
+    "879c61e9-2efa-550b-b7ca-f88d67eb2199"
+  ],
+  "id": [
+    "chatcmpl-AIGrg63GEuWBoLBB21tTvYo1XKFpy",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "c2225b34-e4a6-5147-998d-c2a5132d7a08",
+    "dc8fdfb1-539c-5941-bd4d-b595164cce9b",
+    "30e2423f-2b2b-5c7d-8808-b025242fa0c7",
+    "7ce6c0fe-8b0a-5ce9-83d1-6e6b99b4f24d",
+    "33dc52df-73a5-514e-8edb-33ae5046b8af",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "0b2bd83d-680a-52d2-8116-50cce4f35cc3",
+    "e17f1d54-7ea8-5a44-95b7-5d07f348574c",
+    "d519a13a-b6a0-505d-9a90-dd8f974721b4"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "GeneNetwork provided the platform for correlation analysis, principal component generation, and linkage analysis. In general, datasets were queried for gene symbols, downloaded from GeneNetwork, and additional analysis was performed in R whenever necessary. P-values mentioned in relation to Pearsons coecient throughout this paper are based on pair- wise comparisons. All p-values were Bonferroni-adjusted for 36,012 genes, which is equal to the number of genes captured",
+    "GeneNetwork provided the platform for correlation analysis, principal component generation, and linkage analysis. In general, datasets were queried for gene symbols, downloaded from GeneNetwork, and additional analysis was performed in R whenever necessary. P-values mentioned in relation to Pearsons coecient throughout this paper are based on pair- wise comparisons. All p-values were Bonferroni-adjusted for 36,012 genes, which is equal to the number of genes captured",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "network. Cell 9, 12121226 (2014). 12. Hirschhorn, J.N. Genomewide association studiesilluminating biologic  pathways. N. Engl. J. Med.  0, 16991701 (2009). 13. Cantor, R.M., Lange, K. & Sinsheimer, J.S. Prioritizing GWAS results:   a review of statistical methods and recommendations for their application.  Am. J. Hum. Genet.  8, 622 (2010). 14. Lee, I., Date, S.V., Adai, A.T. & Marcotte, E.M. A probabilistic functional  network of yeast genes. Science  0, 15551558 (2004).",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "al., 2005). GeneNetwork is designed primarily as a web service for exploratory and statistical analysis of large published phenotype and genome datasets, and includes data from several species (see Supplementary Discussion). GeneNetwork includes extensive phenotype data extracted from the literature and submitted by users, which makes it practical to compare data on drug responses with gene expression patterns. Gene expression",
+    "limit the applicability of genetic ndings in more diversepopulations. In the next phase of the network, the goalis to increase the diversity of underrepresented popula-tions, with targeted recruitment aimed at over 50% non-European ancestry. The lessons from enrollment andRoRs to diverse populations, even limited, will inform our next phase as we continue to strive for a more represen-",
+    "data available across all contributing consortia will facilitate systematic  exploration of these correlated phenotypes with more sophisticated  statistical methods for joint analysis5254, yielding greater insight into  the underlying pathways and genetic networks they represent. As data  from human genetic networks accrue, we will be better placed to test  whether there is support for the notion of hub genesthat is, genes  highly connected with others in the network, proposed by experi"
+  ],
+  "answer": "The inclusion of data from diverse populations on GeneNetwork.org aims to enhance the generalizability of findings by addressing the limitations associated with genetic studies that predominantly focus on less diverse populations. The goal is to increase the diversity of underrepresented populations, with targeted recruitment aimed at over 50% non-European ancestry [9]. This effort is expected to improve the applicability of genetic findings across different populations, thereby enhancing the generalizability of the research outcomes. By incorporating data from a broader range of genetic backgrounds, GeneNetwork.org can provide more comprehensive insights into genetic networks and pathways, which are applicable to a wider array of populations.",
+  "question": "How has the inclusion of data from diverse populations impacted the generalizability of findings on GeneNetwork.org?"
+}

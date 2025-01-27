@@ -1,0 +1,154 @@
+{
+    "created_at": "2024-04-01T12:11:33.748564Z",
+    "data": {
+        "amplify": false,
+        "answer": "Genetic tracing is matrilineal due to the inheritance of mitochondrial DNA (mtDNA), which is passed from mother to all her children without any admixture from the father. This allows for a clear lineage tracing through the maternal line. In contrast, Y-DNA is passed from father to son, allowing for patrilineal tracing, but it does not provide information about the genetic contributions of other ancestors in a family tree.",
+        "context": {
+            "0376df42-5df7-4966-8f0d-e254b86ae743": [
+                {
+                    "document_id": "0376df42-5df7-4966-8f0d-e254b86ae743",
+                    "text": "distinguishing prenatal\nfrom postnatal maternal effects, see below). Maternal effects can\naccount for a large proportion of phenotypic variance, especially\nduring early life, and for some traits explain more variation than\ndirect genetic effects [33, 97, 99, 100, 102–115]. However, maternal and offspring genotype are correlated (i.e. half their genes are\nshared), and in inbred lines they are fully confounded, thus separating the effects of their respective genotypes is difficult. To remove\nthis confounding effect cross-fostering has been used, both in the\nlaboratory and in the field [119, 131]."
+                }
+            ],
+            "0a30029f-fa8f-49e3-9a68-82d1a8ae3157": [
+                {
+                    "document_id": "0a30029f-fa8f-49e3-9a68-82d1a8ae3157",
+                    "text": "Using genetic markers, the pattern of inheritance can be tracked through\nfamilies. For example, by analyzing a marker linked to the eye color gene\nin several generations, it is possible to determine from which grandparents a\nchild has inherited its eye color alleles. More importantly, ﬁnding a marker\nlinked to a disease can lead to location of the faulty gene causing the disease. Finding the gene is very valuable in the search for the cure. The distance between two loci can be expressed either as physical or genetic distance."
+                }
+            ],
+            "0e27d15f-e4a2-4902-b4a4-1e72c4202346": [
+                {
+                    "document_id": "0e27d15f-e4a2-4902-b4a4-1e72c4202346",
+                    "text": "\n\nAlthough autosomal SNPs are commonly used as genetic markers to infer ancestry or race/ethnicity membership, haploid such as mitochondria, Y-DNA, and X-lined markers are also important to provide separate stories of ancestry of individuals from paternal and maternal sides [42,43].Therefore, genetic structure created due to autosomal markers could be different from those of lineage markers (often influenced by political, social, and migration history of individuals/populations).mitochondrial DNA or mtDNA haploid is the maternally inherited mitochondrial genome (mtDNA) [44].All children inherit mtDNA from their mother, with no admixture from the father.Like Y-line DNA, mtDNA is passed intact from one generation to the next but through maternal line."
+                },
+                {
+                    "document_id": "0e27d15f-e4a2-4902-b4a4-1e72c4202346",
+                    "text": "\n\na) Autosomal DNA (testing both sexes) markers: autosomal DNA tests utilize DNA from the 22 pairs of autosomal chromosomes.Autosomal DNA is inherited from both parents.Autosomal testing provides percentages of ethnicity using autosomal DNA SNP test (i.e., ancestry informative markers), and it is the most commonly used test to infer ancestry across diploid genome.b) Y-DNA or Y-SNPs (paternal line testing) markers: a haploid Y-DNA is the paternally inherited non-recombining portion of the Y chromosome, and it tests only for males.The Y-DNA testing tests the Y chromosome which is passed intact from father to son with no DNA from the mother.Y-DNA testing can then be used to trace direct paternal line.Y-DNA remains the same in each generation, allowing us to compare surname from different regions to see if we are from the same family.Y-line testing does not indicate anything about the contributions of the other ancestors in a family tree.In other words, you could be 3/4th Native American, with only the direct paternal line being European, and this test would tell you nothing at all about those other three Native lines.When testing the Y-chromosome, there are two types of tests, short tandem repeat (STR) and SNP markers.STR tests are best for recent ancestry while SNP tests tell about more ancient ancestry.c) Mitochondrial DNA (maternal line testing) markers:"
+                }
+            ],
+            "14a15ff3-706d-44be-aca5-4bad24a5e4ec": [
+                {
+                    "document_id": "14a15ff3-706d-44be-aca5-4bad24a5e4ec",
+                    "text": "\n\nAdditional information about past breeding practices can be gleaned by quantifying the number of reproductive males and females in a population.This can be achieved by comparing levels of genetic diversity between sex chromosomes, autosomes and mtDNA 99 .In cattle, for example, gene flow from aurochs is evident in the autosomes but is absent in mtDNA 41 .This has been interpreted as a management strategy that may have involved allowing insemination of domesticated females by wild bulls 41,100 .In horses, a comparison of the levels of diversity of the Y chromosome and the autosomal chromosomes demonstrated that some cultures allowed fewer males to breed and instead selected specific stallion bloodlines 55 .This male-oriented breeding strategy was not practised by the Romans and only became increasingly prominent in the past 1,000 years as a result of the growing influence of Oriental stallions (Arabian, Persian and Turkmen) 101 ."
+                }
+            ],
+            "2420b221-94fa-40ac-8bfd-55e90d7c1c23": [
+                {
+                    "document_id": "2420b221-94fa-40ac-8bfd-55e90d7c1c23",
+                    "text": "\n\nDr Ring: What makes the maternal gene so peculiar compared to the paternal?Dr Cookson: If you look in the epidemiologic sense, many studies show that there is increased risk of allergic disease if the mother is affected.However, very few studies have actually set out to test that formally and most of them might suffer from some sort of selection bias because the mother is more likely to be aware of her symptoms and feel guilty, and so on.It is very difficult to explain.Is it genomic imprinting, where the gene is only active when transmitted through the mother?I do not think all of these genes would be imprinted, though it is possible.It also seems that there are effects of the maternal phenotype.The maternal phenotype, if the mother is affected or unaffected, determines the strength of the maternal effect.Again, if a gene was imprinted, you would not expect maternal phenotype to be important.So, I think that this has something to do with maternal/fetal interaction, either through the placenta or shortly after birth.There is the issue of immune conflict between mother and child.At the same time, the mother is trying to prime the infant's immune system."
+                }
+            ],
+            "25622783-ac42-479d-8698-905a7523c38a": [
+                {
+                    "document_id": "25622783-ac42-479d-8698-905a7523c38a",
+                    "text": "Genetic and Genomic Discovery Using Family Studies\n\nIngrid B. Borecki, PhD; Michael A. Province, PhD G enetic studies traditionally have been performed on sets of related individuals, that is, families.Mendel's early studies in sweet peas (Pisum sativum) on the inheritance patterns of discrete traits from parents with specific mating types to offspring has shed light on the basic mechanisms of inheritance, including the fundamental laws of segregation of discrete factors (genes) from parents to offspring and the cosegregation of genes that are closely located on a chromosome (linkage).The distribution of traits within families exhibited mathematical segregation ratios in offspring from known mating types.These expected segregation ratios have been used as an important discovery tool in the study of human diseases in pedigrees, providing evidence for a multitude of single-gene disorders.Furthermore, in some cases, trait cosegregation with genetic markers with known positions provides mapping information that enables localization and, ultimately, identification of the relevant causative gene."
+                }
+            ],
+            "46f190d1-f784-45cd-be09-d43a27ec4063": [
+                {
+                    "document_id": "46f190d1-f784-45cd-be09-d43a27ec4063",
+                    "text": "In fact, this idea has been pursued before in the\ncontext of signatures of reproductive isolation and shown to reveal\npatterns consistent with epistatic gene interactions that arise in the\nshape of Dobzhansky-Muller incompatibilities [10,11]. In contrast to the mouse data, the available human genotypes\nwere derived from outbred, ethnically distinct populations. In this\ncase pairs of functionally interacting genes can be detected\nfollowing a slightly different approach."
+                }
+            ],
+            "5c9aed30-dec7-49af-9401-3ec6fa0e1334": [
+                {
+                    "document_id": "5c9aed30-dec7-49af-9401-3ec6fa0e1334",
+                    "text": "Family Structure\n\nThe first re-identification method (FAMILY) employs genealogical data accompanying genomic data.Genealogies, rich in depth and structure, permit the construction of complex familial relationships.Consider a simple family structure of two parents and one child.Since the parental genders are guaranteed, there exist 2 variants of this structure, since the child's gender is either male or female.When disease status is taken into account, it is represented as a Boolean variable; either an individual afflicted or not afflicted.In this aspect, all three family members can be represented as three attributes {Father, Mother, Child}, and there exist (father's disease status)*(mother's disease status)*(child's disease status)*(child's gender) = 2*2*2*2 = 16 possible family-disease combinations.In reality, pedigrees are much more robust than a simple nuclear family.For example, a three-generation family of two children per family permits on the order of 10 5 distinct variants of the family-disease structure and 10 6 individuals that could be uniquely characterized.The number of combinationsk is larger when supplementary information, such as living status or medical/genetic features, is considered. 16e ability to determine unique family structures is only one part of the re-identification process.These structures must be linked to identifiable information, which, in many instances, is publicly available in the form of various genealogical databases.These databases are accessible both offline and via the World Wide Web.For example, genealogical records are available in many public databases, including ,Ancestry.com>,,Infospace.com>,,RootsWeb.com>,,GeneaNet.com>,,FamilySearch.org>, and ,Genealogy.com>. {From such data, it is not difficult to construct family structures and, with such information in hand, an adversary can link disease-labeled family structures to named individuals."
+                }
+            ],
+            "6041a1eb-5376-4e06-a4df-0563f1b8a724": [
+                {
+                    "document_id": "6041a1eb-5376-4e06-a4df-0563f1b8a724",
+                    "text": "\n\nFig. 3. Illustrations of the three CEU pedigrees (black) showing how genetic information from distant patrilineal relatives (arrow; red, patrilineal lines) can identify individuals.Filled squares represent sequenced individuals.To respect the privacy of these families, only abbreviated versions are presented.The sex of the CEU grandchildren was randomized.The numbers of grandchildren are not given."
+                }
+            ],
+            "748cfe7e-e4f2-453f-8575-50dfe84e2538": [
+                {
+                    "document_id": "748cfe7e-e4f2-453f-8575-50dfe84e2538",
+                    "text": "\n\nWhen I was in high school, I remember often trying to match my friends to their parents at various school functions and being surprised at how easy this was.As human geneticists, in spite of the enormous advances being made in our field, we still cannot answer many of the everyday questions that we are asked, such as: \"Why does he look just like his mother? \"Max Perutz [1], in a recent editorial comment in the New Scientist entitled \"The Molecular Biology of the Future,\" suggested some questions, for, as he put it, \"an examination in some future century. \"Here are two of them: (1) \"The time has come\" the Walrus said, \"To talk of many things ...And why the sea is boiling hot And whether pigs have wings. \"Calculate the amount of genetic information this would require in megacricks."
+                }
+            ],
+            "83a4ab87-f4a5-40b9-9297-5a3596e3636f": [
+                {
+                    "document_id": "83a4ab87-f4a5-40b9-9297-5a3596e3636f",
+                    "text": "Using genetic markers, the pattern of inheritance can be tracked through\nfamilies. For example, by analyzing a marker linked to the eye color gene\nin several generations, it is possible to determine from which grandparents a\nchild has inherited its eye color alleles. More importantly, ﬁnding a marker\nlinked to a disease can lead to location of the faulty gene causing the disease. Finding the gene is very valuable in the search for the cure. The distance between two loci can be expressed either as physical or genetic distance."
+                }
+            ],
+            "86b86235-b7a8-4dfc-be13-d119dc31b377": [
+                {
+                    "document_id": "86b86235-b7a8-4dfc-be13-d119dc31b377",
+                    "text": "In\ncontrast, genomic imprinting is due to epigenetic changes within\nthe individual causing differential gene expression characterized\nby either complete or partial silencing of one parental allele\n(Barlow, 2011; Abramowitz and Bartolomei, 2012; Ashbrook and\nHager, 2013). As both mothers and fathers had contact with the\npups in our study, our observed PGEs could come from either\nparent. Among quantitative USV traits only peak amplitude of call\ndisplayed a possible parent-of-origin effect. For call number, call\nduration, mean peak frequency, and all morphological traits,\nthere were no significant parent-of-origin effect in reciprocal\nF1 females. In contrast, Thornton et al."
+                }
+            ],
+            "915ee14c-df93-4482-966a-fbf3db2c11ea": [
+                {
+                    "document_id": "915ee14c-df93-4482-966a-fbf3db2c11ea",
+                    "text": "\n\nAnother way of avoiding stratification is to use family-based samples.This approach has several theoretical advantages: as well as being immune to stratification 114 , these samples can be used to determine whether an allele has different effects on disease when it is inherited maternally or paternally 115 , and DISCORDANT SIB designs [116][117][118] can control for the effects of shared environment.Furthermore, more complex family-based designs are possible 119 that might allow combined association and linkage analysis 120 , and family-based association tests have also been developed for quantitative traits [94][95][96][97][98] .However, pure sibship-based association studies are underpowered relative to case-control studies 107,116,117 , and the requirement for living parents might introduce an age-of-onset bias towards younger patients for diseases that usually arise late in life.Furthermore, family-based samples are often much more difficult to collect, particularly if larger pedigrees are sought.Finally, the most commonly used family-based design, the TRANSMISSION DISEQUILIBIRIUM TEST (TDT; see REF. 114) is susceptible to technical artefacts (see below)."
+                }
+            ],
+            "a12388bc-0a2c-4cf4-aa39-39eebabe9a7e": [
+                {
+                    "document_id": "a12388bc-0a2c-4cf4-aa39-39eebabe9a7e",
+                    "text": "\n\nBecause mtDNA is not subjected (as far as we know) to sexual recombination and crossover at the time of nuclear meiosis, nature must call on other means to ensure that inevitable germ plasm mtDNA mutations (Medvedev, 1981) are not transmitted.These mutations among primary oocytes, on the face of it, can be expected to increase with time, that is with maternal age.Empirical data on this question are incomplete and conflicting, being mostly confined so far to searches for deletions rather than point mutations (Chen et al., 1995;Keefe et al., 1995).It is inevitable, however, that there will be such mutations and that there must therefore be a reliable physiological mechanism (a) for giving an opportunity for back-mutations to occur, (b) for selecting in favor of those back-mutations (thus preserving the genome) and in favor of rare advantageous mutations, and (c) for preventing the spread of persistent harmful mutations through the population -mutations that are too slight (or too late in origin) to have escaped intraovarian culling.The sheer conservation of the mitochondrial genome over 0.5 billion years or more, despite a mutation rate estimated at 10 -20 times that of nuclear DNA, is ample reason to conclude that such a physiological purification process must exist."
+                }
+            ],
+            "ab1a324f-3c9c-4b41-bb1d-5d5ca216a001": [
+                {
+                    "document_id": "ab1a324f-3c9c-4b41-bb1d-5d5ca216a001",
+                    "text": "To scrutinize the polygenic networks underlying complex diseases, however, mouse resources\nthat are optimized to study the actions of isolated genetic loci on\na fixed background will be insufficient on their own. For example, predisposition to the metabolic syndrome is inherited in\na non-Mendelian fashion stressing genetic heterogeneity and\nmultigenetic pathogenesis (Nandi et al. , 2004). With the reawakening as to the extraordinary genetic resources and phenotypic\ndiversity archived in extant inbred strains, however, a foundation\nis in place for tracking down these complex traits and quantitative trait loci (QTL)."
+                }
+            ],
+            "b58ddaa8-9d41-4dc5-97d7-aca64de3685b": [
+                {
+                    "document_id": "b58ddaa8-9d41-4dc5-97d7-aca64de3685b",
+                    "text": "Otherwise, tens of thousands or markers will appear significant in\nthe genome-wise association studies using up to one million genetic\nmarkers. Approaches to control for stratification include using of\nself report of ancestry or genetically derived principle components\nin the analysis. For studies using inbred mouse lines, a cladogram\nwhich is a hierarchical grouping based on phylogenetic analysis of\nstrain relatedness can be created to subdivide inbred strains into\nmore genetically homogenous subgroups."
+                }
+            ],
+            "dc2f6b02-5c9a-4764-b70e-d2321135e148": [
+                {
+                    "document_id": "dc2f6b02-5c9a-4764-b70e-d2321135e148",
+                    "text": "\n\nAlthough bilateral descent is the norm in Western societies, it is not universal and there is variation with cultural practices around lineage.In certain societies, individuals place greater importance on (and have greater knowledge about) one side of the family than another (unilineal descent).Thus, individuals in patrilineal groups trace relationships through males only so that your father's brother's children are members of your family, but not your father's sisters (Kottak, 2007).They are members of their husband's group or family.Efforts to create a family pedigree may be hampered if the participant is not familiar with her mother's relatives, but her mother's brother's children (her cousins) may be able to supplement her overall family history.Knowledge about the cultural system of unilineal descent avoids assuming the universality of bilateral descent.Cultural beliefs such as these also have implications in the conduct of genetic research in terms of confidentiality and autonomy (Benkendorf et al., 1997;Wertz, 1997).One cannot assume that the named proband is in a position to speak for the extended family in agreeing to participate in any genetic research (DudokdeWit et al., 1997)."
+                }
+            ],
+            "dcc71b11-5668-4274-9f35-d9b7f01695a2": [
+                {
+                    "document_id": "dcc71b11-5668-4274-9f35-d9b7f01695a2",
+                    "text": "In particular in polygynous species, a female’s\noffspring may have different fathers and are thus more closely related through the maternal\nthan the paternal line. Therefore, any fitness cost to mothers, such as increased provisioning\nand care, affect maternally derived genes more strongly than paternally derived genes,\nleading to the silencing of the maternal copy (i.e. paternal expression) of genes that increase\nresource transfer. 5. Coadaptation between offspring and maternal traits\nThe genetics of the co-evolution of parental and offspring traits has been investigated using\nquantitative genetics models and in several empirical studies (Agrawal et al."
+                },
+                {
+                    "document_id": "dcc71b11-5668-4274-9f35-d9b7f01695a2",
+                    "text": "In this\nscenario, genes expressed in parents will be selected for their effects on parental behaviour\nwhile genes expressed in offspring will be selected for their effects on influencing parental\nbehaviour. At the genetic level the predicted conflict between paternal and maternal genomes is\nthought to have led to the evolution of genomic imprinting (monoallelic gene expression). Genomic imprinting effects are good examples of offspring genetic effects on maternal care\nbecause of the impact on the quality of maternal care and level of resource provisioning (e.g. Li et al. , 1999)."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "9520AB55F5C8D714F196867C1A9C4702",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "mtDNA",
+            "patrilineal",
+            "matrilineal",
+            "genetic&markers",
+            "autosomal&DNA",
+            "Y-DNA",
+            "mitochondrial&DNA",
+            "genomic&imprinting",
+            "ancestry",
+            "haploid"
+        ],
+        "metadata": [],
+        "question": "Why is genetic tracing matrilineal rather than patrilineal?",
+        "subquestions": null,
+        "task_id": "9520AB55F5C8D714F196867C1A9C4702",
+        "usage": {
+            "chatgpt": 7241,
+            "gpt-4": 4620,
+            "gpt-4-turbo-preview": 3661
+        },
+        "user_id": 2
+    },
+    "document_id": "9520AB55F5C8D714F196867C1A9C4702",
+    "task_id": "9520AB55F5C8D714F196867C1A9C4702"
+}

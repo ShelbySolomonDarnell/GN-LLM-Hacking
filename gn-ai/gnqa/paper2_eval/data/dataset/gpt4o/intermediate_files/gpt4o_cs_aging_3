@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - Dietary restriction protects from age-associated DNA methylation and induces epigenetic reprogramming of lipid metabolism.pdf",
+    "2009 - DNA Damage, Aging, and Cancer.pdf",
+    "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2011 - A genomic analysis of chronological longevity.pdf",
+    "2004 - A Transcriptional Profile of Aging.pdf",
+    "2017 - Dietary restriction protects from age-associated DNA methylation and induces epigenetic reprogramming of lipid metabolism.pdf",
+    "2015 - Cellular and Molecular Biology of Aging Endothelial Cells.pdf",
+    "2003 - Lifelong voluntary exercise in the mouse prevents.pdf"
+  ],
+  "extraction_id": [
+    "21efa872-9d89-5dee-9dd1-27dcaa1208cf",
+    "b03f4297-85f4-5011-8dcf-ec169d3051d3",
+    "30ba3324-6e19-58c2-9e32-508f827af3e5",
+    "791bae8d-8d24-5873-b611-9c289591d11d",
+    "e6fb876b-e91c-505a-aa16-7b428ec61f10",
+    "d7daf4ea-f57a-5f7b-b6f7-afae08c35b45",
+    "b382fe8a-0267-5515-ac4b-07be55420040",
+    "6364d669-4b96-5d2f-8ce8-526b065dce72",
+    "86f9502b-7a3a-501f-9053-8af1d37043b4",
+    "e6c82594-27ba-5754-a106-69ae8b5e72ae"
+  ],
+  "document_id": [
+    "fe573bb0-3d37-55e5-93fa-65b3fbc5f532",
+    "630c29c7-1dd7-509e-9b6b-b4af98b4ea48",
+    "4d082da4-fa48-5170-8147-c4fea47a5d4b",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "a2e69cf7-8475-55f6-8fab-a572c12de9f0",
+    "4ab656a7-9656-526b-94e1-422875409b44",
+    "fe573bb0-3d37-55e5-93fa-65b3fbc5f532",
+    "815d7f3e-e219-502f-aba0-57a68ae787d3",
+    "24d4f270-f45b-5830-84f9-b1e5bcd3c070"
+  ],
+  "id": [
+    "chatcmpl-AIFgiWkzt5opfBd5VTvAKGVKegG8y",
+    "7460a40c-8723-5de9-9f2e-c781f4872f1f",
+    "d78564d5-d785-554a-bb2c-d71917ccfe19",
+    "4bf7307d-d8a0-5594-b0b5-487fe0f265ca",
+    "da620f88-db92-5267-af81-d6b548e9f29c",
+    "c96b67f8-ad31-50fd-b053-07b127938ef2",
+    "a4e0cb76-8950-5471-a3c1-1ed43094fdf3",
+    "1da274d3-c789-5af5-a8b5-72cdc9a01899",
+    "5fc33fac-ab39-5ec1-9fb9-dcaa93a595d3",
+    "321d14fd-f2ae-5904-b502-dae3491cd370",
+    "4c3d343d-d443-5bb4-a9ef-dd1eecaf9fac"
+  ],
+  "contexts": [
+    "as diabetes, cancer and neurodegenerative disorders [1, 2]. Environmental and genetic interventions can ameliorate the effects of aging, with nutrition, nutrient-sensing signaling networks and metabolism playing evolutionarily conserved roles [1, 3 5]. Diet- ary restriction (DR), in which food intake is reducedwhile avoiding malnutrition, extends lifespan in di- verse model and non-model organisms [3, 6]. DR induces a remarkably broad-spectrum improvement in",
+    "limiting exposure to exogenous genotoxins and by suppressing metabolism  thereby producing fewer reactive species. However, DNA damage, like caloric restriction, can also elicit a protective survival response that promotes longevity and healthy aging. Recently, the use of sirolimus in mice was found to extend their life span and de - lay the development of conditions associated with aging, including cancer. 1 Sirolimus is one of pre -",
+    "Longev. Heal. 2, 10 (2013). 7. Kreienkamp Ret al.Doubled lifespan and patient-like pathologies in progeria mice fed high-fat diet.  Aging Cell18, e12852 (2019). [PubMed: 30548460]  8. Heilbronn LK & Ravussin E Calorie restriction and aging: review of the literature and implications  for studies in humans. Am. J. Clin. Nutr. 78, 361369 (2003). [PubMed: 12936916]  9. Liang Yet al.Calorie restriction is the most reasonable anti-ageing intervention: a meta-analysis of",
+    "can be slowed down to some extent by eating a healthy diet and taking physical exercise, and many of the chronic diseases prevalent in older adults are either preventable or modi  able with healthy lifestyle habits. Thus, older adults  can experience successful aging that allows them to achieve physical, social and mental well - being over the life course and to participate in society.   Much research has been conducted in recent years to",
+    "During the past century, remarkable progress has been  made in unveiling the mechanisms of aging. Genetic and molecular pathways that regulate healthspan and lifespan have been identified in various model organisms, provid-ing a rich knowledge base (Longo etal. 2015; Lopez-Otin etal. 2013, 2016; Singh etal. 2019). However, the focus on",
+    "13,14 Prior studies have identified dozens of genetic and environ - mental modifiers of chronological or replicative longevity, some of which are now known to function similarly to modulate life span in multicellular eukaryotes. 15-17 One example of such a con - served longevity intervention is dietary restriction, which has been shown to slow aging in many different species including yeast, nematodes, fruit flies and rodents, 18,19 and most recently",
+    "Genetic studies have shown that aging can be slowed in mutants that are defective in a wide range of cellularprocesses (such as mitochondrial function, chromatin regu- lation, insulin signaling, tran scriptional regulation, and genome stability). This indicates that aging is a complex process driven by diverse molecular pathways and biochem- ical events. As such, a powerful approach to study aging is touse systems biology, which allows a multitude of factors",
+    "Dietary interventions, including starvation and protein deprivation, can also alter patterns of DNA methyla- tion, potentially in a long-lasting manner [42, 43], including transgenerationally [26, 44]. Dietary, genetic and pharmacological interventions that improve health during aging and extend lifespan induce long-lasting changes in gene expression that mediate their effects. Here we have asked if and how age-related DNA methylation, transcription and lipid",
+    "in yeast , Drosophila, and C. elegans  is able to slow aging and increase lifespan  [252-255]. Follow -up stud ies  out of Richard Millers laboratory reproduced these findings in mice fed a diet with rapamycin incorporated   [256, 257]. These studies suggested that inhibiting mTOR via rapamycin could delay age-associated diseases  and extend lifespan in mammals. A subsequent study replicated these  findings by genetically manipulating a",
+    "appears to retard aging at the molecular level as indi-cated by the gene expression analysis? Most likely,aging retardation at the molecular level by exercise isnot observed in all tissues, including some that maylimit lifespan. For example, if exercise does not reduceaging rates in replicative tissues, then it will not retardage-related tumor onset, which tends to limit maxi-mum lifespan. Another possibility relates to the obser-vation that wheel running decreased to an average 680m/day at 33 mo of age"
+  ],
+  "answer": "To slow down genetic aging, several lifestyle choices can be beneficial:  1. **Dietary Restriction (DR)**: Reducing food intake without causing malnutrition has been shown to extend lifespan in various organisms. This approach improves healthspan by influencing nutrient-sensing signaling networks and metabolism [1].  2. **Healthy Diet and Physical Exercise**: Engaging in regular physical activity and maintaining a healthy diet can slow down aging and prevent or modify many chronic diseases prevalent in older adults. This contributes to successful aging, allowing individuals to achieve physical, social, and mental well-being [4].  3. **Caloric Restriction**: This is considered a reasonable anti-aging intervention, as it has been shown to slow aging in multiple species, including yeast, nematodes, fruit flies, and rodents [6].  4. **Exercise**: While exercise may not retard aging in all tissues, it can contribute to molecular-level aging retardation, which is beneficial for overall health and longevity [10].  These lifestyle choices, when combined, can help mitigate the effects of genetic aging and promote a longer, healthier life.",
+  "question": "What lifestyle choices can help slow down genetic aging?"
+}

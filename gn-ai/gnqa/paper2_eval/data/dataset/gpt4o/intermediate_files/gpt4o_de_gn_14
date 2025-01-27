@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2019 - Novel Genetic Loci Control L5 Vertebral Trabecular Bone and the Response to Low Calcium Intake in Growing BXD Recombinant Inbred Mice.pdf",
+    "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf",
+    "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+    "2009 - Genetics of the hippocampal transcriptome in mouse a systematic survey and online neurogenomics resource.pdf",
+    "2007 - Combinatorial genetic regulatory network analysis tools for high throughput transcriptomic data.pdf",
+    "2009 - Multiscale Genomic Analysis of the Corticolimbic System_ Uncoveri (1).pdf",
+    "2015 - Exploring multiple quantitative trait loci models of hepatic fibrosis in a mouse intercross.pdf",
+    "2008 - Type 2 diabetes new genes, new understanding.pdf",
+    "2008 - Towards systems genetic analyses in barley Integration of phenotypic, expression and genotype data into GeneNetwork.pdf",
+    "2022 -Chunduri- Drugs Animal Models.pdf"
+  ],
+  "extraction_id": [
+    "16fdf35c-ab83-53db-9f76-e817326c6067",
+    "76e22011-da6d-5af7-a74f-2b4d0f11e879",
+    "957166a3-0298-5324-a24a-02b59ec3427f",
+    "a47731b3-bb43-5d9c-a7eb-bfea5eea557e",
+    "47c06e52-1923-58d0-9286-9674893a502a",
+    "3296b30e-7dd3-576d-a2df-442406caa472",
+    "121f6744-a773-5a59-b8c7-7e7e85e2b067",
+    "31a1546b-c160-5b22-a3fb-1e26ab2861c3",
+    "9b24b22c-0f8c-5b3c-9479-518aa6dfab01",
+    "b93f76a6-6928-564a-a9a0-149c8ef774d9"
+  ],
+  "document_id": [
+    "de8dda5e-0e2f-5aa9-bb13-851c526b36a5",
+    "6f250b15-61b3-57ed-8900-5aa4a173fa8c",
+    "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+    "33437cc7-ee4e-59b9-b3e6-ed50eb504b52",
+    "d9038328-bfea-5f73-87aa-6077b697e4db",
+    "3d0df5a3-7d7c-5edc-b94d-cae582f59c12",
+    "464d119c-ba16-5716-8b69-169940f090b4",
+    "3992c53c-c48c-597d-8d96-70b1026deb70",
+    "8513abbe-65ed-5f35-9f86-ba93cfc5a194",
+    "9cfa4f4c-37ce-5c0f-9da6-3bbb075fdc45"
+  ],
+  "id": [
+    "chatcmpl-AIGsZPO5vngTlUtdx2Hky3vN1AZqv",
+    "93d79fcd-e841-5cd0-baa7-69ad032cacef",
+    "248ac859-2589-5afa-824d-e1357bf23e59",
+    "32497309-fb89-58c9-b828-6a16fa55c11d",
+    "ea5eaca1-c91d-59f6-af5b-5490749d950a",
+    "56ba9ce8-4cdd-5d4d-83c1-a370e9c8f959",
+    "cd33f83f-d19c-5419-a157-c2f1d8148347",
+    "e5354b88-c1ec-54e1-ab61-c30689e30ea1",
+    "3fa64113-fa70-575c-81ae-0769dff93a27",
+    "662c7b64-e34e-5faa-b920-6b59334ef372",
+    "f9ca5851-0871-54ae-8d01-752c806bd081"
+  ],
+  "contexts": [
+    "to as quantitative trait loc us (QTL) mapping study.  QTL  studies inform us region s on the  chromosome where existing polymorphisms or SNPs are highly correlated with  variation of the  trait of interest. With the advancement in DNA sequencing, whole genome database of several  mouse strains as well as gene expression data from several tiss ues are available. This allows us to  use bioinformatic tools to identify candidate genes with greater  confidence  for further functional  validations .",
+    "differences, allows for a far more comprehensive understanding of the genetic regulatory links underlying this variation. QTL mapping of gene expression traits  allows us to identify eQTLs; genomic regions that have a regulatory effect on  those expression traits. Two types of eQTLs can be distinguished, i.e., those  that map near (less than 10 Mb from) the gene which encodes the transcript  (local ) and those that map elsewhere in the genome ( distant ). 18 Together, local",
+    "simultaneously.  Beginning with a study in yeast  (Brem et al. 2002), QTL mapping has been  done with gene expression as the phenotype.  In such a study, the genomic loci responsible for variation in gene expression can be used to infer regulatory control.  While such a study is not conclusive, it can be used to narrow the potential regulatory candidates, generate  hypotheses for further testing and construct regulatory networks in s ilico.",
+    "is that one can now identify large numbers of less strong, second-ary QTLs which were previously lost to background noise, and this information opens up a whole new range of possible analy-ses, such as the identi  cation of epistatic interactions ( Figure 5),  that promise to uncover pathways of genetic control within the tissue studied. Traditionally, QTL mapping starts with a phenotype of inter-",
+    "and quantitative trait loci (QTL) regulatory models. A major goal is to identify which,among a set of candidate genes, are the most likely regulators of trait variation. These methods are applied in an effort to identify multiple-QTL regulatory models for large groups of genetically co-expressed genes, and to extrapolate the consequences of thisgenetic variation on phenotypes observed across levels of biological scale through the",
+    "distal regions into even finer regulatory loci. This influence on gene expression may be  the reason why so many classical QTLs have been mapped to Qrr1 .    The complexity highlighted by Qrr1 may very well be the rule rather than the  exception for loci that modulate complex traits. Efforts to fine -map a single QTL have  often been confronted by clusters of multiple small effect QTLs within the original  interval (Legare et al., 2000; Demarest  et al., 2001) . This poses a serious challenge, and",
+    "genotypes, availing of genetic markers across the whole genome, and allow the identication of QTLs with signi- cant effects on the disease (Darvasi 1998 ; Manolio 2010 ). QTLs are genetic regions closely linked to a gene with a quantitative effect on the phenotype. QTL mapping is based on the concept that phenotypic differences between inbred mouse strains can be used to demonstrate theimportance of genetic effects on complex phenotypes (Andreux et al. 2012 ; Hillebrandt et al. 2002 ). The standard",
+    "of the variants within associated loci through expression-quantitative trait locus (eQTL) studies will combine the genetic variation in associate d loci with expression analysis data to define regulatory relationships. Studies designed to understand the functional effect of any causal variants in relevant cell systems and an imal models will give insight to physiological consequence. These advances will underpin efforts to translate the findings through development of diagnostic tests, ris k evaluation and",
+    "illustrating the potential of functional  mapping for effici ently establishing  associations between existing QTL, as well as for novel QTL discovery. References 1. Damerval C, Maurice A, Josse JM, De Vienne D: Quantitative trait loci underlying gene product va riation: a novel perspective for analyzing regulation of genome expression.   Genetics  1994, 137:289-301. 2. Brem RB, Yvert G, C linton R, Kruglyak L: Genetic dissection of transcriptional regulation in budding yeast.   Science  2002, 296:752-755.",
+    "over a decade ago, using new genometypes for the BXD family of murine strains, as well as new statistical tools, showing that we can identify new quantitative trait loci (QTLs), resulting in highly plausible candidate genes. Quantitative trait locus (QTL) mapping has been carried out in numerous species to associate regions of the genome to phenotypes even before the structure of the genome was well understood (e.g., [ 3]). Rodents, especially mice, have been the species most prominently used for biomedi-"
+  ],
+  "answer": "Recent developments in quantitative trait locus (QTL) mapping have significantly refined our understanding of gene regulatory variants in several ways:  1. **Identification of eQTLs**: QTL mapping of gene expression traits allows for the identification of expression quantitative trait loci (eQTLs), which are genomic regions that have a regulatory effect on gene expression traits. These eQTLs can be categorized into local eQTLs, which are located near the gene encoding the transcript, and distant eQTLs, which are located elsewhere in the genome [2]. This distinction helps in understanding the regulatory architecture of the genome.  2. **Increased Resolution and Confidence**: With advancements in DNA sequencing and the availability of whole-genome databases and gene expression data from various tissues, researchers can use bioinformatic tools to identify candidate genes with greater confidence for further functional validations [1]. This enhances the precision of QTL mapping in pinpointing regulatory variants.  3. **Functional Mapping and Hypothesis Generation**: QTL mapping studies, such as those beginning with yeast, have used gene expression as the phenotype to infer regulatory control. Although these studies are not conclusive, they help narrow down potential regulatory candidates, generate hypotheses for further testing, and construct regulatory networks in silico [3].  4. **Detection of Secondary QTLs and Epistatic Interactions**: Recent developments allow for the identification of large numbers of less strong, secondary QTLs that were previously obscured by background noise. This opens up new possibilities for analyses, such as identifying epistatic interactions, which can reveal pathways of genetic control within the studied tissue [4].  5. **Integration with Expression Analysis**: The integration of genetic variation in associated loci with expression analysis data through eQTL studies helps define regulatory relationships. This approach provides insights into the physiological consequences of causal variants, aiding in the translation of findings into diagnostic tests and risk evaluation [8].  Overall, these advancements in QTL mapping enhance our understanding of the complex regulatory mechanisms underlying gene expression and trait variation.",
+  "question": "How do recent developments in quantitative trait locus (QTL) mapping refine our understanding of gene regulatory variants?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - Next Generation Transcriptomics.pdf",
+    "2016 - Genetics and Genomics of Coronary Artery Disease..pdf",
+    "2008 - Combining transcriptional profiling and genetic linkage analysis to uncover gene networks operating in hematopoietic stem cells and their progeny.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2011 - Human genetics and genomics a decade after the release of the draft sequence of the human genome.pdf",
+    "2010 - Genome-wide analysis of histone modifications.pdf",
+    "2011 - Molecular Genomic Research Designs.pdf"
+  ],
+  "extraction_id": [
+    "b3a2e390-fad2-5afc-b8ca-6f0b57b9cac1",
+    "203710b7-3267-5ecf-9397-b5becdaeead1",
+    "767fd341-f407-5322-a932-9b1cecb869e0",
+    "9515bd16-96d4-5b09-b23c-63a1cc5d19ae",
+    "522373ca-3ce6-5fe5-b062-ee097f378397",
+    "c5468773-a09b-510d-bcdf-f685d7714106",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "3960aec4-df25-57cd-9c60-5561f876a795",
+    "6b5317f7-aa3f-5dfe-8e50-ef90619b6707",
+    "d3fe612e-6d4a-5410-9e60-cd2ef8fff897"
+  ],
+  "document_id": [
+    "56cafe26-2b36-50d6-a5c7-c7d947473b61",
+    "23a1b7be-9541-5e16-b9cc-24ea420a4961",
+    "af6e0103-849d-542f-bca7-0251082bc0b3",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "6d475ac7-7094-5268-96ce-ae8f50f42cd2",
+    "68bfce04-818d-5122-91c2-13a4a3ba0229",
+    "ced08e27-8655-59a4-bf63-0ba746f139b7"
+  ],
+  "id": [
+    "chatcmpl-AIGsiGGBCVBLOOrTQrnGlB4EM7iVd",
+    "a87fa6ff-4bc0-50ac-b654-f7d734bbbf02",
+    "66fa4c5e-0b26-5c01-b5ec-d199a4da11bb",
+    "77ae8cce-6686-5930-a6a1-291143cba4c5",
+    "9c31e888-0660-507d-927f-e54f98a7248f",
+    "5935ee2f-4621-577d-8d9b-e47d2d0699e2",
+    "0f00daa0-2bb4-5a3f-8d51-a1cd2957bef4",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "03e25c07-34a0-5b1f-a5f9-ba9a0e2c0d91",
+    "2e2d861b-4662-5ba5-80e6-ff0e4d9e80b4",
+    "47eea0dd-b899-5ed2-8b16-150b976f1f0a"
+  ],
+  "contexts": [
+    "frequent usage of terms like epigenetic or chromatin land-scape. New methods for high-throughput mapping ofgenome-wide histone modifications and protein-DNA inter- actions were developed over the last few years (Blecher-Gonen et al., 2013; Garber et al., 2012). Histone Modifications Associated with Gene EnhancersChromatin can be modulated by covalent histone modifica-",
+    "orative efforts of the ENCODE Project [ 42] and Roadmap Epigenomics [ 43] consortia have already revealed a compendia of genome-wide histone modification signatures for various regulatory features in multiple primary tissues and cell lines. These datasets have been applied to global mapping studies and databases to prioritize functional regula- tory variants [ 44,45]. While these assays have been employed extensively in LCLs, and tumor cell lines to follow-up auto-",
+    "genetical genomics) and the genetics of epigeneticscould be studied simultaneously, thus revealing genes that directly or indirectly affect epigenetic gene states. An additional issue that could be addressed by such anapproach is to estimate the percentage of variation in gene expression that can be explained by different epigenetic conformations. The level of complexity could be further increased by including different cell types in the analysis, such as the",
+    "Incorporating epigenetics into genetic analysis can also enhance the predictive functional analysis of SNPs by highlighting regions of DNA that are accessible or inaccessible to protein binding by transcription factors and other regulatory pro- teins. SNPs may also lead to loss or gain of cytosineguanine dinucleotide (CpG) methylation sites. Rakyan et al. (2004) suggested that such an event might affect the overall methylation prole of a locus and, consequently, promoter activity and gene",
+    "Incorporating epigenetics into genetic analysis can also enhance the predictive functional analysis of SNPs by highlighting regions of DNA that are accessible or inaccessible to protein binding by transcription factors and other regulatory pro- teins. SNPs may also lead to loss or gain of cytosineguanine dinucleotide (CpG) methylation sites. Rakyan et al. (2004) suggested that such an event might affect the overall methylation prole of a locus and, consequently, promoter activity and gene",
+    "Incorporating epigenetics into genetic analysis can also enhance the predictive functional analysis of SNPs by highlighting regions of DNA that are accessible or inaccessible to protein binding by transcription factors and other regulatory pro- teins. SNPs may also lead to loss or gain of cytosineguanine dinucleotide (CpG) methylation sites. Rakyan et al. (2004) suggested that such an event might affect the overall methylation prole of a locus and, consequently, promoter activity and gene",
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "374. Bernstein, B.E., Stamatoyannopoulos, J.A., Costello, J.F ., Ren, B. et al. (2010), The NIH Roadmap Epigenomics Mapping Consortium, Nat. Biotechnol. V ol. 28, pp. 10451048. 375. Portela, A. and Esteller, M. (2010), Epigenetic modications and human disease, Nat. Biotechnol. V ol. 28, pp. 10571068. 376. Esteller, M. (2007), Cancer epigenomics: DNA methylomes and histone-modication maps, Nat. Rev . Genet. V ol. 8, pp. 286298. 377. Gilad, Y ., Rifkin, S.A. and Pritchard, J.K. (2008), Revealing the archi-",
+    "likely to be part of regulatory elements. Our global map of histone marks will serve as an important resource forunderstanding the epigenetic basis of type 2 diabetes. [Supplemental material is available online at http:/ /www.genome.org. The ChIP-seq and gene expression data from this study have been submitted to ArrayExpress (http:/ /www.ebi.ac.uk/microarray-as/ae/) under accession nos. E-MTAB-189 and E-MTAB-191, respectively.] Genetic and epigenetic factors determine cell fate and function.",
+    "these with other epigenetic mechanisms. This section will describe each method and provide the reader with technologies and recommendations to aide in the design and implementation of an epigenetic study .   Histone Modifi  cation Analysis   Histone modi  cation signals can be captured with chromatin immunoprecipita- tion (ChIP), which provides modi  cation position approximation on the genome"
+  ],
+  "answer": "Incorporating epigenomic data, such as histone modification maps, into the gene networks on GeneNetwork.org has several implications:  1. **Enhanced Functional Analysis**: By integrating epigenetic data, the predictive functional analysis of SNPs can be improved. This is because epigenetic data can highlight regions of DNA that are accessible or inaccessible to protein binding by transcription factors and other regulatory proteins, which can affect gene expression and regulation [4].  2. **Prioritization of Regulatory Variants**: The incorporation of genome-wide histone modification signatures, as revealed by collaborative efforts like the ENCODE Project and Roadmap Epigenomics, allows for the prioritization of functional regulatory variants. This can be particularly useful in mapping studies and databases, enhancing the understanding of regulatory features in various tissues and cell lines [2].  3. **Understanding Gene Expression Variation**: By studying the genetics of epigenetics, it is possible to reveal genes that directly or indirectly affect epigenetic gene states. This approach can help estimate the percentage of variation in gene expression that can be explained by different epigenetic conformations, thus providing a deeper understanding of gene regulation [3].  4. **Resource for Predictive Medicine and Systems Genetics**: The integration of multi-omics data, including epigenomic data, makes GeneNetwork.org a valuable resource for predictive medicine and systems genetics. This integration supports more comprehensive analyses and enhances the platform's utility for research and clinical applications [7].  Overall, incorporating epigenomic data into GeneNetwork.org enriches the platform's analytical capabilities, offering deeper insights into gene regulation and expression, and supporting advanced research in genetics and epigenetics.",
+  "question": "What are the implications of incorporating epigenomic data, such as histone modification maps, into the gene networks on GeneNetwork.org?"
+}

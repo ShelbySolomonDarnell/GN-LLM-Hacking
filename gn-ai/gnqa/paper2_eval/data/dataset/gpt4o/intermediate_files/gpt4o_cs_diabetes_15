@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Genetic studies of diabetes following the advent of the genome-wide association study where do we go from here.pdf",
+    "2011 - Genome-wide association studies (GWAS) impact.pdf",
+    "2003 - The Inherited Basis of Diabetes Mellitus.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2007 - Genetic studies of diabetes following the advent of the genome-wide association study where do we go from here.pdf",
+    "2017 - Differentiation of Diabetes by Pathophysiology.pdf",
+    "2010 - Interactions of Dietary Whole-Grain Intake.pdf",
+    "2007 - Genome\u2013wide association studies provide new insights into type 2 diabetes aetiology..pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2018 - Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps.pdf"
+  ],
+  "extraction_id": [
+    "1a155200-3610-528f-a51d-b2f27562037a",
+    "cf06774a-9e13-59fd-9652-d5013ef83387",
+    "238129d2-439f-5a25-8e86-297e7a69d81c",
+    "6b04dc27-e7ff-53c8-9021-a3cdb5415059",
+    "1a155200-3610-528f-a51d-b2f27562037a",
+    "a9accd40-eb89-5595-bf27-b6b82b49f4d4",
+    "40190f1d-aad5-5d71-b5ba-78331d5e3abb",
+    "cd034e2b-72bd-5cda-a456-48cf17ead1bf",
+    "53e868dd-b318-5cf3-8b2e-98a548aab7cf",
+    "9190d1c1-41a4-5af3-a570-7fea6a15e71a"
+  ],
+  "document_id": [
+    "7b96d9b2-6494-5c20-9693-dc146a4e347c",
+    "086c6869-7c70-5364-9269-760267fb458d",
+    "7b85b290-d711-55d5-9b1e-b06e4d6f14a2",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "7b96d9b2-6494-5c20-9693-dc146a4e347c",
+    "9cfaef1e-fb60-5c2b-94f0-632c89b2eb16",
+    "e4d4a19e-18a0-5a08-9ab7-537f31b7cdc1",
+    "2ad9b6c6-56ed-5ba6-ad88-c1a6777f5196",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "ab2868dd-62f6-5350-994c-fcea4328e8a3"
+  ],
+  "id": [
+    "chatcmpl-AIFqw6zPQKQT7tNlJNiyf2dx560ep",
+    "9250b1a6-26d8-5c38-840f-547a9647e809",
+    "9d55a0b9-d125-587d-b21e-f4bd55b8de28",
+    "0372a2d5-28c0-5369-8f05-18f7124eb4ae",
+    "5b134bfd-6af3-5189-b144-57bf70c2cf20",
+    "3cd5df03-7c2b-585c-a3bb-67dc0e1c615c",
+    "9b04e578-bfe5-5f3c-8556-aac26d6429cc",
+    "f3c6864c-7c06-5a61-bdda-d5730821c237",
+    "81e7ee8d-adb5-5fd7-a3b1-1f6bfb059974",
+    "b092c8b9-edb1-55fb-ae16-c67e3298946e",
+    "23321ca3-f73d-5542-a6c0-1133c3d3e9e5"
+  ],
+  "contexts": [
+    "understanding of the genetic basis of diabetes, and the advances of recent months are arguably the most important made since the role of the HLA region was recognised in type1 diabetes. The number of genetic regions causally implicated is now 11 each for type 1 and type 2 diabetes [ 19], and is set to rise further. The bewildering pace of new discovery standsin stark contrast to the slow progress that characterised the previous two decades, with a total combined output of three",
+    "It has proven to be challenging to isolate the genes underlying the genetic components conferring susceptibility to type 1 and type 2 diabetes. Unlike previous approaches, genome-wide association studies have extensively delivered on the promise of uncovering genetic determinants of complexdiseases, with a number of novel disease-associated variants being largelyreplicated by independent groups. This review provides an overview of these recent breakthroughs in the context of type 1 and type 2 diabetes, and",
+    "The history of diabetes genetics traces human genetic research more broadly.Initially, only a few polymorphic genetic markers were known, and these werestudiedinpopulation-basedassociationstudies.Withthedevelopmentofgenome-wide maps for family-based linkage analysis and of positional cloning, attentionturned to monogenic forms of disease. The application of family-based linkagemethods to common forms of diabetes, however, met with less clear success.More recently, with progress in genome sequencing and",
+    "the elucidation of the wide spectrum of genes that  played a role in the molecular mechanism of diabetes  development[142-144]. However , despite the vast flow of  genetic information including the identification of many  gene mutations and a large array of single nucleotide  polymorphisms (SNPs) in many genes involved in the  metabolic pathways that affect blood glucose levels,  the exact genetic mechanism of diabetes remains  elusive[145,146]. Evidently, a major complication is the",
+    "confirmed genes for type 2 diabetes and six for type 1(Fig. 1). At last, it seems, our understanding of the genetic basis of complex, multifactorial forms of diabetes is catching up with that of rarer, single-gene disorders. This leap in knowledge is the result of major advances in technology plus an improved understanding of patterns of human genetic variation. Using single nucleotide polymor- phism (SNP) chips it is now possible to analyse up to a million",
+    "make dissection of the black box of genetics of diabetespossible in the near future, but at this point, apart fromthe pro les that distinguish between type 1 and type 2 diabetes and a limited number of speci c variants that identify small subgroups of patients (MODY), genetics has not been successful in further differentiating subclasses ofdiabetes. Research Gaps After consideration of the known genetic associations with diabetes risk, consensus developed that the eld is",
+    "studies provide new insights into type 2diabetes aetiology. Nat Rev Genet 2007;8:657662 11. Grant RW, Moore AF, Florez JC. Genetic architecture of type 2 diabetes: recentprogress and clinical implications. Diabe-tes Care 2009;32:11071114 12. Dupuis J, Langenberg C, Prokopenko I,",
+    "early results have been excellent, yielding six  new replicating gene regions. Here I discuss the insights into type   2  diabetes genetics that have been provided by  these new findings. I consider where diabe - tes genetic studies might go from here, and  present a perspective that may be applicable  to other common traits. I also briefly discuss  the wider implications that surround the  identification of a common gene that predis - poses to type",
+    "that genetic studies will ultimately identify key genetic elements that help determine susceptibility to diabetes,disease progression, and responsiveness to specific therapies, as well as help identify novel targets for futureintervention. A substantial number of genetic loci, gene polymorphisms, and mutations have already beenreported as having variable degrees of association with one or other type of diabetes (type 1, type 2, maturityonset diabetes of the young [MODY]), while others appear to be involved",
+    "24. Varshney, A. et al. Genetic regulatory signatures underlying islet gene expression and type 2 diabetes. Proc. Natl. Acad. Sci. USA 114,   23012306 (2017).  25. Thurner, M. et al. Integration of human pancreatic islet genomic data refines regulatory mechanisms at Type 2 diabetes susceptibility loci. eLife  7,   e31977 (2018).  26. Gaulton, K. J. et al. Genetic fine mapping and genomic annotation defines causal mechanisms at type 2 diabetes susceptibility loci. Nat. Genet.  47,  14151425 (2015)."
+  ],
+  "answer": "Recent breakthroughs in understanding the genetic causes of diabetes include several key advancements:  1. The number of genetic regions causally implicated in both type 1 and type 2 diabetes has increased to 11 each, marking significant progress in identifying genetic factors associated with these conditions [1].  2. Genome-wide association studies have been particularly successful in uncovering genetic determinants of complex diseases like diabetes. These studies have identified a number of novel disease-associated variants, which have been largely replicated by independent research groups, highlighting their reliability and significance [2].  3. Advances in technology, such as the use of single nucleotide polymorphism (SNP) chips, have enabled the analysis of up to a million genetic variations. This technological leap has greatly enhanced our understanding of the genetic basis of complex, multifactorial forms of diabetes, bringing it closer to the understanding of rarer, single-gene disorders [5].  4. Recent studies have yielded six new replicating gene regions associated with type 2 diabetes, providing new insights into the genetic architecture of the disease and suggesting potential directions for future research [8].  These breakthroughs represent a significant leap forward in the genetic understanding of diabetes, driven by technological advancements and collaborative research efforts.",
+  "question": "What recent breakthroughs have been made in understanding the genetic causes of diabetes?"
+}

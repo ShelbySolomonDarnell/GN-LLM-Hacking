@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Identifying Gene Networks Underlying the Neurobiology of Ethanol and Alcoholism.pdf",
+    "2010 - Systems genetics, bioinformatics and eQTL mapping.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf",
+    "2020 - A Multi-Omics Perspective of Quantitative Trait Loci in Precision Medicine.pdf",
+    "2014 - Identification of a QTL in Mus musculus for Alcohol Preference, Withdrawal, and Ap3m2 Expression Using Integrative Functional Genomics and Precision Genetics.pdf",
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf",
+    "2020 - A platform for experimental precision medicine The extended BXD mouse family.pdf",
+    "2014 - Genetics of Gene Expression in CNS.pdf",
+    "2012 - Functional genomics research in aquaculture principles and general approaches.pdf"
+  ],
+  "extraction_id": [
+    "4253d9a7-5ade-5ac3-b37d-c27ed5a71ef6",
+    "298ee1f5-58a9-567c-86ba-8ac5967e1718",
+    "19febe84-f1fa-599d-84b4-95329b3d7f3f",
+    "a261cf24-3fe0-5cf1-ba6d-adf91794be38",
+    "65a5b8cd-6cf6-5c37-95b2-8677516d01e8",
+    "08ca6342-74ea-5196-b5b4-b46c9ec46713",
+    "0c3d0cb3-d4b0-5655-8b04-285a87710636",
+    "a797ba45-1fd5-58c5-af8f-e81341ecb7b2",
+    "7cea62b5-dbd8-5447-8126-9f2bcfe8b9eb",
+    "0c3d0cb3-d4b0-5655-8b04-285a87710636"
+  ],
+  "document_id": [
+    "c02542c0-eff8-5ec7-8f73-78f5d28d4226",
+    "27c922c6-e449-5f83-868a-3ad7284facc8",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33",
+    "8503b166-b917-5efb-a356-5ba371504cc1",
+    "22ac294c-736f-5adb-8a0d-bd7166b578e8",
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33",
+    "dd4994b9-9546-59c0-bc71-60e2617b6bcd",
+    "51a824c3-34c2-5be0-87a1-9f9f08b06e4a",
+    "a39b4cc1-8661-578b-a61b-b9962e45fc33"
+  ],
+  "id": [
+    "chatcmpl-ADZAyuRH6G3gbrSvS025ayW0rNJ7F",
+    "33fc773a-2ee3-572d-8629-2ec1e359aca1",
+    "68a13597-c223-54d9-9664-604d69b97c50",
+    "02a79024-51ee-5bdc-9a5b-ac26a6f3e40b",
+    "63febc09-7871-5cfc-9f7d-1f05eed65f41",
+    "1ad460e0-0a45-5f5e-9d37-d40bc8c65054",
+    "ee54bf38-d7c6-5e1f-bc75-8951d5ae917e",
+    "fa1981fe-6730-59a1-b331-c6c7250b0f2c",
+    "7924dd91-82c7-50d5-b663-0f5390f43065",
+    "ec03e315-1d99-5149-945c-5c4c0f4afed9",
+    "a5e77dc2-9d73-5d24-a446-0df546e34d85"
+  ],
+  "contexts": [
+    "traditional QTL mapping and GWASsapproaches can benefit from systems-biological approaches by filling in criticalinformation about the molecular phenotypes that stand between DNAvariation and complex disease (figure5). The incorporation of data fromhigh-throughput molecular profilingtechnologies, such as gene expressionmicroarrays, can better define a diseaseby identifying groups of genes thatrespond to or covary with disease-associated traits. Network analysis ofdisease-associated genes allows",
+    "knowledge of the true QTL location (Doss et al. 2005 ), which can be used to empirically estimate the power of aGWAS performed at a similar scale (Hao et al. 2008 ; Schadt et al. 2008 ). A GWAS on its own does little more than establish correlations between changes in DNA at agiven locus and changes in a disease trait of interest, with respect to populations of interest. Further, these studies on",
+    "genotypes. Since association studies allow for a mu ch finer mapping of the QTL  than that obtained with linkage analysis, there is a trade-off to consider between  power and resolution when choosing the mapping stra tegy. Genome-wide associa-  tion studies (GWAS) have naturally been used to per form genetical genomics  studies in humans [18, 24-27] and are emerging in m odel organisms studies using  outbred populations [28].   8.2.2  Combining studies",
+    "genetically also mapped to the same genomic location. In order to locate the positions of genes that are responsible for a certain trait, GWAS can be conducted. GWAS is a quan- titative approach to analyze the association of whole genome DNA polymorphisms and a phe- notypic trait, thereby localizing the genes un- derlining the trait. Genome-Wide Association Studies (GWAS) GWAS is a holistic whole-genome approach to robustly determine the association of DNA polymorphisms with correlated phenotypic",
+    "(PHMs) use principles of MR embedded within a Bayesian hierarchical model to detect interac-tions between regulatory elements [ 98]. Furthermore, GWAS is often integrated with the QTL analysis despite the fact that many GWAS loci are not strong eQTL loci [ 56]. GWAS-eQTL colocalization methods, including RTC [ 145], QTLMacth [ 158], Sherlock [ 159], and coloc [ 160], are based on the concept that disease-",
+    "association studies (GWAS) or linkage studies (Enoch 2013). QTL mapping studies historically had very low resolution,and many have been performed using populations for whichlimited genetic data exist. Publications of gene expressionstudies typically highlight a few interesting gene centered results, but the bulk of information is rejected due to concern",
+    "pairs that include many genes within the seg- ment. On the other hand, GWAS may point to several or even many genomic locations for the trait of interest, complicating further functional analysis. Analysis of Quantitative Trait Loci (QTL) QTL analysis reveals statistically signicant linkage between phenotypes and genotypes, thereby providing explanation for the genetic basis of variation in complex traits (Falconer and Mackay, 1996; Lynch and Walsh, 1998). In a sense, QTL analysis can be viewed as incom-",
+    "QTL mapping QTL mapping using GeneNetwork has been described in detail elsewhere ( Mulligan et al., 2017 ). However, in brief, quantitative trait loci (QTLs) are segments of the genome affecting a particular phenotype ( Falconer and Mackay, 1996 ). QTL mapping, identifying",
+    "3. Genetic Mapping Methods Several statistical approaches have been developed for genome-wide linkage analysis of  traditional phenotypes. The same approaches can be used to map eQTLs. These approaches  range from single marker tests ( t-test, ANOVA, and simple regression analysis) to multiple  locus mapping methods. The only major difference is that eQTL studies involve tens of  thousands of expression traits and require fast algorithms. Since an eQTL study tests for",
+    "plete GWAS analysis with limited number of markers that does not cover the entire genome. As such, if one or few QTLs are found, there may be more QTLs in the genome to be dis- covered. More importantly, in the absence of closely linked markers in the genomic regions containing signicant QTLs for the trait, the most signicant genes responsible for the trait can be missed. However, because of historical reasons such as the lack of genome-wide mark- ers, or the lack of funding, QTL analysis is still"
+  ],
+  "answer": "The primary difference between QTL mapping and GWAS lies in their approaches and resolutions for identifying genetic associations with traits.  1. **QTL Mapping**:    - **Approach**: QTL mapping involves identifying segments of the genome (quantitative trait loci) that are associated with a particular phenotype. It typically uses linkage analysis to find statistically significant linkages between phenotypes and genotypes [7], [8].    - **Resolution**: Historically, QTL mapping has had low resolution, meaning it identifies larger genomic regions associated with traits rather than pinpointing specific genetic variants [6].  2. **GWAS (Genome-Wide Association Studies)**:    - **Approach**: GWAS is a holistic, whole-genome approach that analyzes the association between DNA polymorphisms and phenotypic traits across the entire genome. It establishes correlations between changes in DNA at specific loci and changes in disease traits within populations [2], [4].    - **Resolution**: GWAS allows for much finer mapping of QTLs compared to traditional linkage analysis, providing higher resolution in identifying specific genetic variants associated with traits [3].  In summary, while QTL mapping identifies broader genomic regions linked to traits with lower resolution, GWAS provides a finer, more detailed mapping of genetic associations across the entire genome [2], [3], [4], [6], [7], [8].",
+  "question": "What is the difference between QTL mapping and GWAS?"
+}

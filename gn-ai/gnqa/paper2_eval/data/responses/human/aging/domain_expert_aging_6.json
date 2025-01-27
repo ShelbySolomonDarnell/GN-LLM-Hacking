@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - A Meta-analysis of Four Genome-Wide Association Studies.pdf",
+    "2014 - Whole-Genome Sequencing of the World?s Oldest People.pdf",
+    "2011 - Genome-wide association study identifies a single major locus contributing to survival into old age the APOE locus revisited.pdf",
+    "2017 - Four Genome-Wide Association Studies Identify New.pdf",
+    "2012 - Whole genome sequences of a male and female supercentenarian, ages greater than 114 years.pdf",
+    "2013 - Genome Instability and Aging.pdf",
+    "2012 - Genome-wide miRNA signatures of human longevity.pdf",
+    "2012 - Whole genome sequences of a male and female supercentenarian, ages greater than 114 years.pdf",
+    "2011 - Genome-wide association study identifies a single major locus contributing to survival into old age the APOE locus revisited.pdf",
+    "2017 - Genome-wide meta-analysis associates HLA.pdf"
+  ],
+  "extraction_id": [
+    "8bc54e5b-f45f-54f9-9591-1e26dd80b50d",
+    "c918522d-c0bf-5b7a-9ced-a69d485b2cb6",
+    "a4aa5d3a-81e8-582c-aee6-3ebdd329de86",
+    "b539194c-50bb-55e5-83b2-e779f63ed363",
+    "402ab5b5-e6fa-58fe-8f32-7c235be7a746",
+    "f33756b1-7d64-5ab9-bcd6-717deaf05339",
+    "e79b0811-a0f3-5f44-8004-89fe59aa8a3e",
+    "402ab5b5-e6fa-58fe-8f32-7c235be7a746",
+    "a4aa5d3a-81e8-582c-aee6-3ebdd329de86",
+    "9c6a9e93-5dc5-571d-b3c2-b600ed95e102"
+  ],
+  "document_id": [
+    "8e452186-a71c-5b62-81b2-7681c87c8e1d",
+    "d2a5ec28-873a-5ff3-9cf4-dbec3b52dd21",
+    "05208abc-5ac0-5d4d-b600-2caf59ce75b7",
+    "c10653f6-b3d7-5b92-9271-ab8fcc7905a7",
+    "408cdcd5-ab70-520a-b2c4-d9028b0a8d6f",
+    "71e08916-8cc8-5d96-8c06-4461b972b54d",
+    "18407659-c241-5f37-8ad2-ab59f6a7e288",
+    "408cdcd5-ab70-520a-b2c4-d9028b0a8d6f",
+    "05208abc-5ac0-5d4d-b600-2caf59ce75b7",
+    "3a565ba9-ee5b-5596-b870-ce8c055cb1f1"
+  ],
+  "id": [
+    "chatcmpl-ABLwzkPUEqxCEqW5L5wugbbowvYPv",
+    "c2234f77-2268-57d0-a227-e931fc4802c1",
+    "fb0af8f1-5b2a-5ba1-8a53-ee543a9267bf",
+    "754929a6-af78-569a-969c-e750d174b952",
+    "4a6d2b9b-9496-5d90-a24a-43c643c4916b",
+    "1f4437a7-cee1-5dc2-80e1-9924248857d0",
+    "91010ff1-43a7-53f6-966d-601913e3b26b",
+    "63ebd662-9aca-5b8a-b3e3-89860a45da42",
+    "53a8e33f-da6f-5550-bf18-e45f2779f7a9",
+    "57227bee-d562-52c9-86dc-f9e2fcea1792",
+    "b1b9f731-236c-5b4b-8cc6-fcf1e06d866a"
+  ],
+  "contexts": [
+    "GENOME-WIDE ASSOCIATION STUDY OF LONGEVITY 479 INCREASES in longevity of the general population world - wide are an unprecedented phenomenon with significant  health and social impact. Although environmental factors  have led to an increase in life span, there is ample evidence  that genetic factors are involved in extreme longevity both  in humans (17) and in other organisms (8). The protective  genetic factors that lead to longevity are likely to involve",
+    "that any genetic variant that contributes strongly to extremelongevity would also be rare. One possibility is that a specificmutation could alter the protein-coding region in a gene andconfer a significant increase in longevity. Such a mutation couldact in a dominant or recessive fashion, and might be shared by asignificant fraction of the supercentenarian genomes but not bycontrol genomes. We created a computational pipeline todetermine whether our supercentenarian genomes are enrichedfor such a variant",
+    "ever, natural human and animal longevity is presumed to be acomplex trait (Finch & Tanzi, 1997). In humans, both candidategene and genome-wide genetic association approaches havebeen applied in an attempt to identify longevity loci. The fre-quency of genetic variants has been typically compared between nonagenarian cases and young controls, revealing",
+    "genetic makeup of extreme longevity is based on a combination of common and rare variants, with common vari-ants that create the background to survive to relatively common old ages, and specific combinations of uncommon and rare variants that add an additional survival advantage to even older ages. Our analy-sis showed that LAVs discovered through a casecontrol study are not necessarily the variants that make someone live to extreme old age, and additional survival analysis is needed to characterize and",
+    "genetic determination of human exceptional longevity, they arethe rst step toward the generation of a comprehensive referencepanel of exceptionally long-lived individuals. The data also provideinteresting insights into genetic backgrounds that are conduciveto exceptional longevity and allow us to test different models of exceptional longevity. www.frontiersin.org January 2012 | Volume 2 | Article 90 | 1",
+    "tremely long lived individuals. Longevity has a genetic component, with an estimated heritability of average life expectancy of approximately 25% (105, 106). Family studies of centenarians, thosewho live to 100 years or more, suggest that the relationship between genetics and longevity is stronger in the oldest-old adults (107, 108), supporting the utility of long-lived individuals as a model system for studying genetic variations that predispose people to longevity.",
+    "because of genetic variation that becomes particularly important for sur- vival at advanced age (Hjelmborg et al. , 2006). Epidemiological studies have revealed that long-lived individuals (LLI), that is, people surviving to the 95th percentile of the respective birth cohort-specic age distribu- tions (Gudmundsson et al. , 2000), frequently show a favorable (healthy) course of the aging process, with the absence or a delayed onset of age-",
+    "Studies of centenarians have provided strong evidence to sup-port the hypothesis that a genetic contribution to human excep-tional longevity is decisive, although only a small number ofgenetic variants with modest effects have been irrefutably linkedto this phenotype ( Schachter et al., 1994; Barzilai et al., 2003 ; Christensen et al., 2006 ;Wheeler and Kim, 2011 ). The tech- nology of next generation sequencing provides a tool to gen-erate data that may eventually provide an answer ( Metzker, 2009).",
+    "genetic contribution to human lifespan variation was estimated at 2530% in twin studies (Gudmundsson et al. , 2000; Skytthe et al. , 2003; Hjelmborg et al. , 2006). The most prominent genetic inuence is observed in families in which the capacity toattain a long lifespan clusters (Perls et al. , 2000; Schoenmaker et al. , 2006). Exceptional longevity can be reached with a low degree of age-related disability (Christensen et al. , 2008; Terry et al. , 2008), raising the question whether protective mecha-",
+    "age, usually de ned by a threshold, such as 90 years). Up to 25% of the variability in human lifespan has been estimated to be genetic1, but genetic variation at only three loci (near APOE , FOXO3A and CHRNA3/5 )25have so far been demonstrated to be robustly associated with lifespan. Prospective genomic studies of lifespan have been hampered by the fact that subject participation is often only recent, allowing insuf cient follow-up time for a well-powered analysis of"
+  ],
+  "answer": "Yes, there are specific genetic variations that can contribute to someone living longer. Research has shown that certain genes and their variations can influence longevity. For example, variations near the genes APOE, FOXO3A, and CHRNA3/5 have been robustly associated with lifespan [10]. These genetic variations can affect how our bodies age and how well we can avoid or delay age-related diseases.  In simpler terms, think of these genes as parts of a car. Just like how certain parts can make a car run more efficiently and last longer, these genetic variations can help our bodies function better and live longer. However, it's important to note that living a long life is usually a combination of both genetic factors and lifestyle choices, such as diet, exercise, and avoiding harmful habits.",
+  "question": "is there a specific genetic variation that can cause someone to live longer? please make your answer accessible to a non-expert"
+}

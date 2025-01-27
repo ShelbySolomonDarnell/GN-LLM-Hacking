@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2012 - Genomics and Genetics of Aging.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2022 - Functional genomics of inflamm-aging.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2020 - Age-related gene expression and DNA methylation changes in rhesus.pdf",
+    "2018 - Genomic Instabilities, Cellular Senescence, and Aging In Vitro, In Vivo and Aging-Like Human Syndromes.pdf"
+  ],
+  "extraction_id": [
+    "bfeb5c38-4fa6-5df5-90ce-63204deba3a8",
+    "726bbaa2-97e8-5f62-a731-a1ba3cf1778f",
+    "4b0673e0-fb5e-5212-ba68-417de0e867b7",
+    "7f8f4ca0-9b27-55e3-a889-030af08dc84b",
+    "575a9f30-8504-5526-90e0-e558bfc29c02",
+    "fe270a46-7f2f-5a25-b98f-a782511801fb",
+    "14dbffca-9dc8-5d8c-bb23-98bc80b77e86",
+    "2836777b-037b-52e4-a160-9cb02dd98b92",
+    "245e6d14-fa43-5af6-92d3-c5d7bf0235c2",
+    "d3686eba-0aa4-5c56-b60d-bf76c3ab433b"
+  ],
+  "document_id": [
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "3c2efc4d-b5a8-5843-be7e-44c3b52f3d9b",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "435dc081-e3d1-52c5-93a1-caa11206422f",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "0f1fe2f6-b9c8-514d-ac1c-4e7c07a19ff0",
+    "7de8d462-8a3c-5625-8cbb-374f3bb46425"
+  ],
+  "id": [
+    "chatcmpl-AIHXpT1Oa9sduYt2d6yF1iu8bJvoN",
+    "c4c7b861-6d13-5814-818d-a79ddabd742c",
+    "9d96fdeb-3b94-57d2-8025-db47be7c52ad",
+    "e9ddeedc-70ba-516f-ad9b-77e2b45cd01f",
+    "415a6dd6-0e64-5aef-8561-289d728ad721",
+    "729ae0a3-95f3-50c7-8c00-d1ce0673ea08",
+    "571e50a8-c009-59a5-b01c-0f01c4b5e163",
+    "ab32705e-4e02-59ab-986d-4552a4a522b9",
+    "55a6fe97-29cd-5969-8ea8-3b350b8e0554",
+    "3914af93-b251-54ae-b7bf-9c8243a24f74",
+    "d2ce22fd-6c12-56cf-948d-fc6604cf0f23"
+  ],
+  "contexts": [
+    "in the vascular system are considered in terms of their contribution to the pathogenesis of both microvascular and macrovascular diseases associated with old age. The importance of progeronic and antigeronic circulating factors in relation to development of vascular aging phenotypes are discussed. Finally, future directions and opportunities to develop novel interventions to prevent/delay age-related vascular pathologies by targeting fundamental cellular and molecular aging processes are presented.   (Circ",
+    "pression of numerous mRNAs, some of which directly influence aging and age-related diseases. Jung and Suh describe what we know about the importance of microRNAs in aging and how this exciting new field is just starting to become explored.   The last review in this special issue by Hou et al.  brings things together nicely with a systems biology perspective of aging.  In order to model the immense complexity of aging, we require systems-level approaches. This review describes how several",
+    "autoregulation of blood flow,218 vascular structural remodel- ing, atherogenesis,219 and angiogenic processes.220 The impact of circulating factors on aging phenotypes  was also demonstrated by studies using mice with heter - ochronic parabiosis, which involves surgically connecting the circulatory system of a young and an aged mouse. 221  Cerebromicrovascular density typically declines with ad-vanced age, 222 and there is initial evidence that circulating an-",
+    "components, particularly chemokines and cytokines, in theblood and tissues ( Villeda et al., 2011 ). In addition to illuminating the inuence of the systemic environment on cellular function,such heterochronic studies emphasize the potential role of envi-ronmental factors in rejuvenating aged cells. Molecular signatures of aging have been directly tested as",
+    "related diseases. Ageing Res Rev. 2018;47:21477.  115. Kumar S, Vijayan M, Bhatti JS, Reddy PH.MicroRNAs as peripheral biomarkers in aging  and age-related diseases. Prog Mol Biol Transl Sci. 2017;146:4794.  116. Smith-Vikos T, Liu Z, Parsons C, Gorospe M, Ferrucci L, Gill TM, etal. A serum miRNA  profile of human longevity: findings from the Baltimore Longitudinal Study of Aging  (BLSA). Aging (Albany NY). 2016;8(11):297187.",
+    "in the endothelium and the VSMCs and specific disease pro-cesses. There is evidence that the senescence-associated se-cretory phenotype can also induce paracrine senescence and  alter the function of neighboring cells, and the role of this  mechanism in vascular aging should be further evaluated.  The possibility of paracrine transmission of senescence from  microvascular endothelial cells to parenchymal cells also requires further investigations. It should be noted that many",
+    "protein VSIG4 as a biomarker of aging in murine adiposetissue. Aging Cell 2020; 19:e13219. 128. Angelidis I, Simon LM, Fernandez IE, et al. An atlas of the aging lung mapped by single cell transcriptomics and deeptissue proteomics. Nat Commun 2019; 10:963. 129. Clark D, Brazina S, Yang F, et al. Age-related changes to macrophages are detrimental to fracture healing in mice. Aging Cell 2020; 19:e13112. 130. Tabula Muris Consortium. A single-cell transcriptomic",
+    "Ungvari et al  Mechanisms of Vascular Aging  861 mechanisms of vascular aging and identify translationally  relevant treatments for the promotion of vascular health in older adults. The same cellular and molecular aging processes that af- fect arterial vessels and capillaries also affect veins and the lymphatic/glymphatic system, likely contributing to various  disease pathologies. Examples include the potential role of  cerebral venules in neuroinflammation, Alzheimer disease, and cerebral microhemorrhages",
+    "et al., Plasma proteomic signature of age in healthy humans, Aging Cell 17 (2018).  [17] D. Mari, P.M. Mannucci, R. Coppola, B. Bottasso, K.A. Bauer, R.D. Rosenberg,  Hypercoagulability in centenarians - the paradox of successful aging, Blood 85  (1995) 31443149.  [18] S.A. Phillips, The vasculature in cardiovascular diseases: will the vasculature tell us what the future holds? Prog. Cardiovasc. Dis. 57 (2015) 407408.  [19] R.A. Gibbs, J. Rogers, M.G. Katze, R. Bumgarner, G.M. Weinstock, E.R. Mardis,",
+    "16Lidzbarsky et al. Genomic Instabilities, Cellular Senescence, and Aging Frontiers in Medicine | www.frontiersin.org April 2018 | Volume 5 | Article 104 177. Smith-Vikos T, Slack FJ. MicroRNAs and their roles in aging. J Cell Sci (2012)  125:717. doi:10.1242/jcs.099200  178. Lanceta J, Prough RA, Liang R, Wang E. MicroRNA group disorganiza- tion in aging. Exp Gerontol  (2010) 45:26978. doi:10.1016/j.exger.2009.  12.009"
+  ],
+  "answer": "Recent discoveries regarding the impact of systemic factors, such as circulating microvesicles, on aging phenotypes include the following:  1. The importance of progeronic (aging-promoting) and antigeronic (aging-delaying) circulating factors in the development of vascular aging phenotypes has been discussed. This highlights the role of systemic factors in contributing to age-related vascular pathologies and suggests potential interventions to prevent or delay these conditions by targeting fundamental cellular and molecular aging processes [1].  2. Studies using heterochronic parabiosis, which involves connecting the circulatory systems of young and aged mice, have demonstrated the impact of circulating factors on aging phenotypes. This research provides initial evidence that circulating factors can influence cerebromicrovascular density, which typically declines with advanced age [3].  These findings underscore the significant role that systemic factors, including circulating microvesicles, play in influencing aging phenotypes, particularly in the context of vascular aging and potential rejuvenation strategies.",
+  "question": "What recent discoveries have been made regarding the impact of systemic factors, such as circulating microvesicles, on aging phenotypes?"
+}

@@ -1,0 +1,16 @@
+services:
+  rag_eval_devenv:
+    image: r2r_rag
+    tty: true
+    env_file:
+      - rag.env
+    volumes:
+      - the_code_two:/code
+
+volumes:
+  the_code_two:
+    driver: local
+    driver_opts:
+      o: bind
+      type: none
+      device: /home/shebes/Research/code/gn-ai/gnqa

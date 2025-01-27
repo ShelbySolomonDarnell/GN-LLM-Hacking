@@ -1,0 +1,146 @@
+{
+    "created_at": "2024-04-02T13:11:59.579145Z",
+    "data": {
+        "amplify": false,
+        "answer": "Rapamycin, an mTOR inhibitor, has been shown to extend the lifespan of various organisms, including mice, by delaying or reversing aging in multiple cell types. It does this by regulating rates of protein synthesis and energy utilization, which are processes associated with aging. In the hematopoietic system, rapamycin limits age-related increases in stem cells and biomarkers of aging, enhancing the performance of these cells. However, rapamycin also has potential unwanted metabolic effects, such as insulin resistance and glucose intolerance, though these effects are controversial and potentially reversible. The mTOR pathway, which rapamycin targets, integrates signals from insulin, cytokines, nutrients, oxygen, and mitogenic stimuli, and its regulation has implications for longevity and against the negative effects of aging. Rapamycin also induces autophagy, a process important for cellular homeostasis and damage prevention. Despite these benefits, the exact mechanisms by which rapamycin extends lifespan and whether it delays aging or affects specific diseases remain unclear.",
+        "context": {
+            "198bd45c-e3a3-4937-b83a-61914b64e43b": [
+                {
+                    "document_id": "198bd45c-e3a3-4937-b83a-61914b64e43b",
+                    "text": "\n\nOne surprising result of our experiment was the relatively weak support for involvement of the insulin/insulin-like signaling (IIS) or target-of-rapamycin (TOR) pathways in the evolution of late-life performance.Mutations in genes within these pathways can alter life span and fertility in flies and other organisms (Partridge and Gems 2002); natural genetic variation in expression of IIS/TOR-pathway genes has been reported to predict agingrelated phenotypes (Nuzhdin et al. 2009), and natural clinal variation in the insulin receptor gene InR has been associated with variation in stress resistance and fecundity (Paaby et al. 2010).We therefore expected that some of these genes would contribute to the evolution of life span and late-life fecundity in our experiment.Only one gene previously annotated with the Gene Ontology biological function \"determination of adult life span\" (Cct1) was among the genes bearing the strongest signature of selection, no more than would be expected by chance (1/96 of the candidate genes that had some biological process annotation, compared to 116/10,792 of all genes with some biological-process annotation, χ [1] 2 = 0.002, P > 0.96).Genes annotated with the functions \"aging\" or \"determination of adult life span\" were also significantly underrepresented among differentially expressed genes (43/215 transcripts with these annotations had P < 0.05 for line or line-by-age effects, compared to 4488/13,258 of all annotated transcripts, χ [1] 2 = 18.1, P < 0.0001).Most of the genes we identified are therefore novel candidates for the regulation of life span and late-age performance."
+                }
+            ],
+            "3043efd1-4b13-4300-b2a7-d1992c8d4e47": [
+                {
+                    "document_id": "3043efd1-4b13-4300-b2a7-d1992c8d4e47",
+                    "text": "Rapamycin\n\nRapamycin has been shown to robustly increase lifespan in at least three different mouse strains and to improve healthspan measures including cognitive function, cardiac function, immune function, obesity, and cancer incidence (Johnson et al. 2015;Kaeberlein 2014)."
+                }
+            ],
+            "4f709611-ea0b-4bcc-a634-df5d518ccb54": [
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nmTOR activates the kinase S6K, which phosphorylates S6, inhibiting autophagy [92].Rapamycin can extend the life span of organisms from yeast to mammals in a dose-dependent manner [95].However, some data suggest that rapamycin has unwanted metabolic effects, including insulin resistance, hyperlipidemia, glucose intolerance, and hypophosphatemia; however, whether rapamycin is responsible for these effects remains controversial, and some of the effects are reversible [96,97].The mTOR pathway integrates different signals from insulin, cytokines, nutrients, oxygen, and mitogenic stimuli, and its regulation has important implications for longevity and against the negative effects of aging [92]."
+                },
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "\n\nThe molecular mechanisms that drive cellular senescence in proliferative and nonproliferative cells are being discovered.One of the metabolic pathways associated with aging is the growth-promoting mitogen/nutrient-sensing pathway, in which the target of rapamycin (mTOR) is considered a central signaling molecule that affects multiple cellular pathways associated with aging [137].In particular, mTOR participates in the transition of cells from quiescence to senescence [138]."
+                },
+                {
+                    "document_id": "4f709611-ea0b-4bcc-a634-df5d518ccb54",
+                    "text": "Inductors of Autophagy and its Impact on Aging\n\nAutophagy has a role in homeostasis, which plays an essential role in the maintenance of cellular physiology and the prevention of cellular damage.Among the inducers of autophagy have been described the already-mentioned rapamycin, resveratrol, and polyamines; however, only polyamines have demonstrated results in clinical research in humans [65].It is known that these compounds can induce the canonical autophagy pathway, which includes inactivation of the mammalian objective of the rapamycin complex 1 (mTORC1), allowing phosphorylation and activation of the Unc-51 complex (Ulk1/2), where the cascade of the other members of the complex is subsequently activated, ULK as FIP200 and ATG13 [65]."
+                }
+            ],
+            "5030cbc8-e02c-4e3a-8cbc-0156ce123c99": [
+                {
+                    "document_id": "5030cbc8-e02c-4e3a-8cbc-0156ce123c99",
+                    "text": "\n\nA third example illustrates that pharmacological targeting of pathways that have been implicated in promoting aging may also restore youthfulness at cellular and biochemical levels.Among the key regulators associated with interventions that extend life span is the enzyme mTOR, which senses cellular nutrient levels and in turn regulates rates of protein synthesis and energy utilization.Notably, administration of rapamycin, an mTOR inhibitor, starting at midlife can extend the life span of mice, suggesting that aging can be delayed or reversed in multiple cell types (Harrison et al., 2009).In the hematopoietic system, aging is associated with an increase in mTOR activation in stem cells and progenitors (Chen et al., 2009).Administration of rapamycin to old mice to inhibit mTOR not only limited the normal age-related increases in hematopoietic stem cells and biomarkers of aging in those cells, but also enhanced the performance of the stem cells to become as effective as young stem cells in heterochronic transplantation experiments (Chen et al., 2009) (Figure 1)."
+                }
+            ],
+            "6ee86c77-b359-45f1-bd54-b1cd9b260ae6": [
+                {
+                    "document_id": "6ee86c77-b359-45f1-bd54-b1cd9b260ae6",
+                    "text": "Rapamycin inhibits TOR signalling to alter nDNA\ntranslation, inducing mitonuclear protein imbalance35, and increases\nlifespan in various species, including mice33. Rapamycin also\nincreased mean worm lifespan (by 16%)34 in a ubl-5-dependent manner, induced UPRmt, but not UPRER or heat shock response, and\nincreased respiration (Fig. 6a, c and Supplementary Fig. 9a). This\nwas associated with increased ATP levels, equal citrate synthase activity and altered nDNA/mtDNA oxidative phosphorylation protein\nratio (Fig. 6d, e). Additionally, rapamycin changed the balance\nbetween nDNA- and mtDNA-encoded oxidative phosphorylation\nsubunits in mouse hepatocytes in a dose dependent manner (Fig. 6f,\ng)."
+                },
+                {
+                    "document_id": "6ee86c77-b359-45f1-bd54-b1cd9b260ae6",
+                    "text": "Zylbee, E., Vesco, C. & Penman, S. Selective inhibition of the synthesis of\nmitochondria-associated RNA by ethidium bromide. J. Mol. Biol. 44, 195–204\n(1969). 33. Harrison, D. E. et al. Rapamycin fed late in life extends lifespan in genetically\nheterogeneous mice. Nature 460, 392–395 (2009). 34. Robida-Stubbs, S. et al. TOR signaling and rapamycin influence longevity by\nregulating SKN-1/Nrf and DAF-16/FoxO. Cell Metab. 15, 713–724 (2012). 35. Zid, B. M. et al. 4E-BP extends lifespan upon dietary restriction by enhancing\nmitochondrial activity in Drosophila. Cell 139, 149–160 (2009). 36. Schulz, T. J. et al."
+                },
+                {
+                    "document_id": "6ee86c77-b359-45f1-bd54-b1cd9b260ae6",
+                    "text": "a, Rapamycin (Rapa, 1 nM) extends worm lifespan in a\nubl-5-dependent manner; b, ubl-5-dependently induced UPRmt (hsp-6::GFP)\nbut not UPRER (hsp-4::GFP) (n 5 4). c–e, Rapamycin increased respiration\n(c, n 5 10) and ATP content but not citrate synthase activity (d, n 5 3) and\ninduced mitonuclear protein imbalance (e). f–h, In mouse hepatocytes,\nrapamycin induces mitonuclear protein imbalance (f, g) and induces UPRmt as\n\nshown at the protein (f, g, n 5 3), and transcriptional (h, n 5 8) level. i, Resveratrol (Resv, 25 mM) induced mitonuclear protein imbalance in mouse\nhepatocytes (n 5 4)."
+                }
+            ],
+            "7c2732db-ed6e-419a-8256-537b4dc68072": [
+                {
+                    "document_id": "7c2732db-ed6e-419a-8256-537b4dc68072",
+                    "text": "\n\npivotal in this aspect providing molecular insights and having huge conceptual contributions in the field.Characterising the contribution of individual mutants in ageing is a continuously active and informative activity in the field.On top of these studies, genome-wide screens have provided insights on the role of evolutionarily conserved processes and signalling pathways in ageing such as nutrient response [17,18], protein translation, oxidative damage [19,20], mitochondrial function [21,22] and autophagy [22,23] opening new avenues for biogerontology research.Yeasts have proved informative and helped in understanding mechanisms of highly conserved pathways (from yeast to human) in physiology, health and disease such as the Target of Rapamycin (TOR) [24], glucose sensing (PKA) and stress response pathways (Sty1/p38) [25]."
+                }
+            ],
+            "7f23af74-95a3-46aa-bd61-629d2cfc2073": [
+                {
+                    "document_id": "7f23af74-95a3-46aa-bd61-629d2cfc2073",
+                    "text": "\n\nmTOR activates the kinase S6K, which phosphorylates S6, inhibiting autophagy [92].Rapamycin can extend the life span of organisms from yeast to mammals in a dose-dependent manner [95].However, some data suggest that rapamycin has unwanted metabolic effects, including insulin resistance, hyperlipidemia, glucose intolerance, and hypophosphatemia; however, whether rapamycin is responsible for these effects remains controversial, and some of the effects are reversible [96,97].The mTOR pathway integrates different signals from insulin, cytokines, nutrients, oxygen, and mitogenic stimuli, and its regulation has important implications for longevity and against the negative effects of aging [92]."
+                },
+                {
+                    "document_id": "7f23af74-95a3-46aa-bd61-629d2cfc2073",
+                    "text": "\n\nThe molecular mechanisms that drive cellular senescence in proliferative and nonproliferative cells are being discovered.One of the metabolic pathways associated with aging is the growth-promoting mitogen/nutrient-sensing pathway, in which the target of rapamycin (mTOR) is considered a central signaling molecule that affects multiple cellular pathways associated with aging [137].In particular, mTOR participates in the transition of cells from quiescence to senescence [138]."
+                },
+                {
+                    "document_id": "7f23af74-95a3-46aa-bd61-629d2cfc2073",
+                    "text": "Inductors of Autophagy and its Impact on Aging\n\nAutophagy has a role in homeostasis, which plays an essential role in the maintenance of cellular physiology and the prevention of cellular damage.Among the inducers of autophagy have been described the already-mentioned rapamycin, resveratrol, and polyamines; however, only polyamines have demonstrated results in clinical research in humans [65].It is known that these compounds can induce the canonical autophagy pathway, which includes inactivation of the mammalian objective of the rapamycin complex 1 (mTORC1), allowing phosphorylation and activation of the Unc-51 complex (Ulk1/2), where the cascade of the other members of the complex is subsequently activated, ULK as FIP200 and ATG13 [65]."
+                }
+            ],
+            "844ab36b-9239-4d73-a61c-68f68acc4fd1": [
+                {
+                    "document_id": "844ab36b-9239-4d73-a61c-68f68acc4fd1",
+                    "text": "Background\n\nGenetic, dietary and drug interventions can enhance longevity and suppress age-associated disease, such as cancer.Prominent genetic interventions that robustly extend longevity and healthspan in mammals include those that decrease growth hormone (GH) and insulin-like growth factor (IGF) signalling; for example, Ames dwarf mice live more than 50% longer than their wild-type siblings [1].These diminutive mice result from a point mutation in a gene (Prop1 df/df ) that drives development of the pituitary gland, so that mutant mice are deficient in specific hormones.The GH deficiency, in particular, has been shown to underlie their enhanced health span and extended lifespan.Ames mice are highly insulinsensitive, resistant to some stresses and the incidence of cancer is delayed [2][3][4].Dietary and drug interventions that extend lifespan include calorie restriction (CR) and the mTOR inhibitor rapamycin [5].Like the Ames dwarf mutation, CR and rapamycin also suppress and/ or delay the incidence of cancer [5][6][7].A detailed understanding of how these interventions exert their beneficial effects is essential to develop strategies to promote healthy aging in humans [8].Currently, these interventions are thought to exert their effects by related and interconnected effects on some or all of the following: genome stability, the epigenome, telomere attrition and/or function, protein quality control, mitochondrial function, nutrient sensing, cellular senescence, stem cell exhaustion, cellular stress responses and altered intercellular communication [9].Of note, the effects of longevity promoting interventions on the epigenome, a key determinant of cell phenotype, are poorly understood."
+                }
+            ],
+            "8a8bea99-d3b9-4109-88e4-ad459dcd7173": [
+                {
+                    "document_id": "8a8bea99-d3b9-4109-88e4-ad459dcd7173",
+                    "text": "\n\nThe target of rapamycin (TOR) signaling pathway has also emerged as a major regulator of lifespan.TOR is a highly conserved kinase that transduces signals from nutrients to regulate cell size, cell growth, and metabolism (Martin & Hall, 2005).Genetic studies in yeast Saccharomyces cerevisiae have shown that reduced levels of nutrients, namely amino acids and sugars, can extend yeast lifespan through regulation of the TOR signaling pathway (Kaeberlein et al ., 2005;Powers et al ., 2006).In Drosophila , recent studies have shown that amino acid restriction, rather than 'calorie restriction', extends lifespan (Min & Tatar, 2006).In C. elegans , either inactivation of CeTOR/let-363 by RNAi, or mutations in Raptor/daf-15 , encoding a regulatory subunit of CeTOR, leads to lifespan extension (Vellai et al ., 2003;Jia et al ., 2004)."
+                }
+            ],
+            "a95e6806-06d3-4775-8287-fda4cf6ac42f": [
+                {
+                    "document_id": "a95e6806-06d3-4775-8287-fda4cf6ac42f",
+                    "text": "\n\nAs mentioned above, a number of genes regulating longevity also control growth and development.Some of these, such as the insulin/IGF1/GH pathway, have been suggested to play a role in the mechanisms of CR (Fig. 1).An emerging critical player is the target of rapamycin (TOR) signaling pathway, which involves both nutrient sensing and regulation of growth.Several genes in the TOR pathway, and the TOR gene itself, regulate longevity in flies (Kapahi et al., 2004) and both longevity and dauer diapause in worms (Jia et al., 2004).Strikingly, not only have genetic manipulations of the TOR gene extended lifespan in yeast and worms (Stanfel et al., 2009) but also feeding rapamycin (which inhibits TOR and is also known as sirolimus) to middle-aged mice significantly (9 -14%) increased lifespan (Harrison et al., 2009).Whether rapamycin is extending lifespan by delaying of aging or by affecting a specific disease, such as cancer, remains unclear.More recent studies show that starting rapamycin administration earlier in life does AGING GENES AS TARGETS FOR DRUG DISCOVERY not result in a significantly greater increase in lifespan (10 -18%) than that obtained in middle-aged mice (Miller et al., 2011)."
+                }
+            ],
+            "b1ffece8-f805-4d99-8e3b-402df309f1ed": [
+                {
+                    "document_id": "b1ffece8-f805-4d99-8e3b-402df309f1ed",
+                    "text": "\n\nReplacement of the C/ebpα gene with C/ebpβ increases lifespan by 20% [35,36], and may alter the rate of aging [37], indicating that altering the isoform expression of these genes can affect lifespan.Moreover, the life-extending drug rapamycin may affect isoform ratios of C/ebpβ.Rapamycin has been shown to increase lifespan via the suppression of Mtor [38] which in turn controls the isoform ratios of C/ebpβ [39].Therefore, we speculate that rapamycin may in part exert its life extending effect through C/ebpβ."
+                }
+            ],
+            "c1df5fa6-1d3b-4085-9248-683c9666faa5": [
+                {
+                    "document_id": "c1df5fa6-1d3b-4085-9248-683c9666faa5",
+                    "text": "\n\nThe genome-wide RNAi study conducted by the Ruvkun lab, authored by Hamilton et al. [88], identified a total of 89 additional aging genes with disparate functions including cell structure, cell surface proteins, cell signaling, cellular metabolism, and protein turnover.Of the 66 genes with previously known functions, 17 corresponded to various aspects of carbon metabolism, including citric acid cycle enzymes and subunits of complexes I, IV, and V of the ETC.Researchers also speculated that protein translation might play a role in lifespan regulation, based on the identification of iff-1 (T05G5.10),a gene that has homology to the translation initiation factor eIF5A.Other hits from this screen included two genes containing PH domains known to interact with phosphatidylinositol lipids, multiple G protein-coupled receptors, protein processing and degradation genes such as proteases and ubiquitin ligases/hydrolases, and chromatin modifying factors."
+                }
+            ],
+            "c89f6c23-d5ac-4352-9b82-2ba559b20c0b": [
+                {
+                    "document_id": "c89f6c23-d5ac-4352-9b82-2ba559b20c0b",
+                    "text": "\n\nHow cellular processes that regulate aging impact genome stability also remain unclear.Compelling evidence now exists that in all eukaryotes, aging is regulated by conserved insulin/insulin-like growth factor (I-(IFG-1)) pathways and growth-signaling pathways regulated by the target of rapamycin (TOR) family of kinases (4).In general, experimental manipulations that upregulate these pathways promote aging, and manipulations that downregulate these pathways-including mutational inactivation or caloric restriction-extend life span and mitigate age-related pathologies.Downregulation of these pathways often leads to a reduction in oxidative stress and oxidative damage to DNA and other cellular constituents.For the most part, however, the relationship between aging and changes in oxidative damage downstream of alterations in growth-signaling pathways remains correlative rather than causal."
+                }
+            ],
+            "e397ac93-f115-4cee-8b87-59137a017985": [
+                {
+                    "document_id": "e397ac93-f115-4cee-8b87-59137a017985",
+                    "text": "\n\nThe potential of interventional approaches targeted at aging has yet to be realized in part because aging is a complicated multisystem process that has remained enigmatic.However, research over the last two decades has led to significant excitement.One of the most striking findings is that it is possible to administer a clinically approved drug, rapamycin, to mice at 20 months of age and extend both their life span and health span (Harrison et al., 2009).Surprisingly, much of the recent success of aging research can be traced back to one of its simplest model organisms: yeast.Two of the major pathways studied in the context of aging and age-related disease are the sirtuin pathway and the TOR signaling pathway, and yeast was pivotal in their discovery."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "32AFC12B71BD0478376834592459857C",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "rapamycin",
+            "mTOR",
+            "aging",
+            "lifespan",
+            "healthspan",
+            "cellular&bioenergetics",
+            "metabolic&effects",
+            "insulin&resistance",
+            "autophagy",
+            "TOR&signaling&pathway"
+        ],
+        "metadata": [],
+        "question": "what is the influence of rapamycin and aging on the in vivo physiological and metabolic states and cellular bioenergetic, and how do these relate to the rapamycin-induced health and lifespan modification for that genometype?",
+        "subquestions": null,
+        "task_id": "32AFC12B71BD0478376834592459857C",
+        "usage": {
+            "chatgpt": 8516,
+            "gpt-4": 4792,
+            "gpt-4-turbo-preview": 3850
+        },
+        "user_id": 2
+    },
+    "document_id": "32AFC12B71BD0478376834592459857C",
+    "task_id": "32AFC12B71BD0478376834592459857C"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2015 - Cell cycle gene expression networks discovered using systems biology Significance in carcinogenesis.pdf",
+    "2015 - Identification of candidate genes that underlie the QTL on chromosome 1 that mediates genetic differences in stress-ethanol interactions.pdf",
+    "2007 - Combinatorial genetic regulatory network analysis tools for high throughput transcriptomic data.pdf",
+    "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2012 - Aging effects on DNA methylation modules.pdf",
+    "2016 - Alterations in the expression of a neurodevelopmental gene exert long-lasting effects on cognitive-emotional phenotypes and functional brain networks translational evidence from the stress-resilient Ahi1 knockout mouse.pdf",
+    "2018 - Metanalysis of genome-wide association studies for panic disorder suggest pathways and mechanisms of pathogenesis.pdf",
+    "2019 -Evaluation of Sirtuin-3 probe quality and co-expressed genes using literature cohesion.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "5b6d04d2-3aa2-5a43-814a-b13e60e3bb1d",
+    "26045fea-cd20-5e3d-be07-e8a8e9ca603a",
+    "f1181fc1-fe08-53b1-bda7-00423a568234",
+    "4ca2fc9e-7d42-5ea3-b1b7-a296bfbc6a09",
+    "7dd82b3f-58bd-5915-9eea-250f11412ff2",
+    "bf37d9e2-c9a3-5886-88db-103264c4cecb",
+    "ea5fd027-559f-568f-9c4d-a4615730426a",
+    "434963e5-549e-5986-90a9-cbf4a5f7f06e",
+    "dab0ce13-0d90-514c-9220-8edd64eceb6c"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "6f354254-4f4d-52ad-bed7-9356f43c0b20",
+    "eecf4236-efca-577d-ba62-c20c9768950e",
+    "d9038328-bfea-5f73-87aa-6077b697e4db",
+    "d11a87ca-4989-59af-95e3-ab90af7d9212",
+    "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+    "cdd3bf57-3c36-5673-bd78-1e53f384d539",
+    "8cd3e767-17b8-5868-b335-fdb6cc2ff02c",
+    "e4b2f5dc-6df6-5af8-9ca9-3ccb6518d300",
+    "0a22eed8-cdda-52de-a73f-d82b3f73b78d"
+  ],
+  "id": [
+    "chatcmpl-AIGsUMf0eTPsxD8TBs1unBQPLXIKg",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "dcb29dfe-ba22-54bc-91f7-af3261a18fd2",
+    "6beb1115-9f40-555f-a6b4-3c73945101a0",
+    "6e2695ed-e652-52e1-b896-0bbbb585bb60",
+    "7ce6c0fe-8b0a-5ce9-83d1-6e6b99b4f24d",
+    "30e2423f-2b2b-5c7d-8808-b025242fa0c7",
+    "bd4b772b-4df4-588e-a7bd-2d5d9484f945",
+    "9bf34d9a-9c54-5376-a38e-7f32daba8107",
+    "225f0aa2-c185-5b36-923a-a24e545b866f",
+    "b6b401f6-66c1-5e0d-ab68-09f6f6d7e10f"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "of importance in the emergence of precision medicine ( Curtis, 2015 ; Desautels et al., 2014 ;  Glade Bender et al., 2015 ; Jorgensen, 2015 ; Kummar et al., 2015 ; Marquet et al., 2015 ;  Rubin, 2014 ) wherein therapeutic strategies need to be aligned with specific properties of  tumors. Methods GeneNetwork and WebGestalt GeneNetwork is an open access, online data analysis resource for systems biology and  systems genetics. It contains a large number of microarray datasets from multiple tissues of",
+    "GeneNetwork, a public web source used to study relations amongmarkers, genes, and phenotypes. We made use of large transcriptomedata sets for the amygdala, hippocampus, ventral tegmental area",
+    "ject to mapping analysis. We examine the connectivity among these sets and analyze the molecular, biochemical and genetic regulatory commonality of connected genes us-ing novel and existing bioinformatics tools. We also develop data-driven hypotheses to explain the mechanisms of genetic perturbations and variation as a means of dening global consequences of individual differences on tissue structure and function. Much of our work is motivated by prior studies of brain gene expression and mRNA",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "including correlation and network analysis to compare associations  between tissues and between other rodent or human data sets[32] Many of the Data Sets are amenable to systems genetics mapping and other methods and are accessible at GeneNetwork. The Description and Usage column provides details about the data set and potential",
+    "weighted gene co-expression network are described in[54]. Consensus network analysis was carried out with Rfunction blockwiseConsensusModules in the WGCNA R package [54]. Our online R software tutorial easily permits the user to identify tissue-specific age related modules and CpGs. Gene ontology enrichment analysis",
+    "approach employed in the construction of large expression data sets, such as those provided by GeneNetwork,39treats gene expression as a continuous variable across RI strains, rather than asa categorical one (knockout model). Hence, we believe that using these complementary, yet conceptually distinct, approaches enhanced our ability to propose mechanistic insights. A limitation of the current study relates to the non-trivial relationship between structural and functional brain connectivity.4",
+    "GeneNetwork ( http://www.genenetwork.org ; Williams and Mulligan, 2012)). These databases 180  represent transcriptome datasets for different tissues of recombinant inbred mice. If several probes 181  for the same gene were available, probes with higher maximum likelihood ratio statistic (LRS, a 182  measurement of the association or linkage between differences in traits and differences in particular 183  genotype markers values) were used. 184",
+    "pathways.TheGeneNetworkdatabaseisauniqueresourceforco-expressionanalysisusingdatafromavarietyof tissues acrossgeneticallydistinctinbredmice.However,extractionofbiologicallymeaningfulco-expressedgenesets ischallengingduetovariabilityinmicroarrayplatforms,probequality,normalizationmethods,andconfounding biologicalfactors.Inthisstudy,wetestedwhetherliteraturederivedfunctionalcohesioncouldbeusedasanobjectivemetricinlieuofgroundtruthtoevaluatethequalityofprobesandmicroarraydatasets."
+  ],
+  "answer": "The provided context does not explicitly mention the integration of spatial transcriptomics approaches into GeneNetwork.org. However, it does describe GeneNetwork as a resource for systems biology and systems genetics, which includes large transcriptome datasets from multiple tissues [2], [9]. The platform is used to study relationships among markers, genes, and phenotypes, and to analyze genetic regulatory commonality and tissue structure and function [3], [4]. While spatial transcriptomics is not directly referenced, the existing capabilities of GeneNetwork in handling multi-omics data and performing systems genetics mapping [1], [5] suggest that it could potentially support spatial transcriptomics approaches to enhance understanding of tissue architecture and function.",
+  "question": "How are spatial transcriptomics approaches being integrated into GeneNetwork.org to enhance understanding of tissue architecture and function?"
+}

@@ -1,0 +1,221 @@
+GENERAL
+Create a how-to guide for genetic sequencing.
+Create a how-to guide for GWAS analysis?
+What is the significance of the length of telomeres?
+Create a guide for genetic sequencing
+Create a how-to guide for genetic sequencing.
+Explain the process of DNA replication and how it ensures accurate copying of genetic information during cell division.
+Explain the process of finding a genetic marker followed by a quantitative trait loci.
+For text and biological resources, do you mean add some books (on biology stuff) or/and web resources (as ensembl) on your system?
+How can I add a new species to the GeneNetwork database?
+How does epigenetics inluence gene expression without changing the underlying DNA sequence?
+How does recombination work in human centromeres?
+How would one extract the DNA, from say, flora or fauna?
+What is the difference between QTL mapping and GWAS?
+What is the most cited environmental factor for the onset of asthma?
+what are the bioinformatics tools for QTLs analysis?
+what are the statistical approaches for qtls analysis?
+what is bioinformatics
+What is apoptosis?
+GENERAL FOR STUDY
+How do I determine which gene in my QTL is causal for the trait?
+Why do males have two Y chromosomes and females only one?
+what type of dataset is useful for qtl mapping analysis in genenetwork2?
+What are the ethical considerations surrounding prenatal genetic testing and the selective termination of pregnancies based on genetic factors?
+What are the potential benefits and risks associated with gene editing technologies like CRISPR-Cas9?
+What about recombination in human centromeres?
+What about recombination in the human genome?
+How can I add a new species to the GeneNetwork database?
+Describe the role of mitochondrial DNA in heredity and how it differs from nuclear DNA.
+what is ensembl?
+MyQ -- Create a how to guide for genetic sequencing
+MyQ -- What is the significance of the length of telomeres?
+MyQ -- Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?
+MyQ -- Why is genetic tracing matrilineal rather than patrilineal?
+MyQ -- How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs?
+MyQ -- Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging.
+MyQ -- List as many studies as you can that include rapamycin.
+MyQ -- What are the genetic bases for the varying efficacy of diabetes treatments among individuals?
+AGING
+Which mouse genes have been associated with longevity?
+Is lifespan determined by genetics?
+Is there a direct association between aging and susceptibility to having diabetes?
+Which genes are associated with aging in human
+What genetic factors influence aging in humans?
+Why is it so diffuclut to map gene loci that control aging in humans?
+what causes the aging process
+what genes are associated with aging?
+what genetic factor are associated with aging
+which genes are involved in the aging process
+DIABETES
+what genes are associated with diabetes?
+nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabets
+nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabets
+Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?
+How does genetics influence the emergency of diabetes?
+How is gene expression in the liver affected by diabetes?
+How many types of diabetes exist?
+
+
+
+ADDING ALL June 26th 2024
+
+Flavia:
+  - 26681F93BA485656CF56BD71682E7C77: Which database can I use for genetic, genomic, phenotype, and disease-related data generated from rat research?
+  - What resources can I use to do pathway analyses?
+  - What is ensembl?
+ 92B99DB2F9F6265E7582EB8320E742D6: Which genes give a predisposition to developing T1D?
+"genetics",
+"genetics",
+"genetics",
+"List as  many studies as you can that include  rapamycin.",
+"genetics",
+"what is bioinformatics",
+"genetics",
+"genetics",
+"which genes are involved in the aging process",
+"what causes the aging process",
+"which genes are involved in the aging process",
+"List as  many studies as you can that include  rapamycin.",
+"List as  many studies as you can that include  rapamycin.",
+"List as  many studies as you can that include  rapamycin.",
+"genetics",
+"which genes are involved in aging",
+"Create a how-to guide for genetic sequencing.",
+"What is the significance of the length of telomeres?",
+"Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?",
+"Why is genetic tracing matrilineal rather than patrilineal?",
+"How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs?",
+"Explain Protective Genetic Factors Against Diabetes in Elderly Populations",
+"what genes are involved in  the aging process",
+"Explain Effect of Lifestyle Modifications on Aging-Associated Diabetes Risk",
+"Explain The Role of Longevity Genes in Protecting Against Diabetes",
+"What are the types of diabetes"
+
+"What are the genetic bases for the varying efficacy of diabetes treatments among individuals?",
+"List as many studies as you can that include rapamycin.",
+"Why is it so diffuclut to map gene loci that control aging in humans?",
+"What is apoptosis?",
+"What is the most cited environmental factor for the onset of asthma?",
+"How would one extract the DNA, from say, flora or fauna?"
+
+"What are the potential benefits and risk associated with gene editing technologies like CRISPRR-Cas9?",
+"How does epigenetics inluence gene expression without changing the underlying DNA sequence?",
+"Describe the role of mitochondrial DNA in heredity and how it differs from nuclear DNA.",
+"What are the ethical considerations surrounding prenatal genetic testing and the selective termination of pregnancies based on genetic factors?",
+"Create a how-to guide for genetic sequencing.",
+"What is the significance of the length of telomeres?",
+"Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?",
+"Why is genetic tracing matrilineal rather than patrilineal?",
+"Explain the process of DNA replication and how it ensures accurate copying of genetic information during cell division.",
+"What are the potential benefits and risks associated with gene editing technologies like CRISPR-Cas9?",
+"Create a how-to guide for genetic sequencing.",
+"What is the significance of the length of telomeres?",
+"Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?",
+"Why is genetic tracing matrilineal rather than patrilineal?",
+"How does one tell the difference between X and Y DNA, with repsect to DNA tracing and determining QTLs?",
+"For text and biological resources, do you mean add some books (on biology stuff) or/and web resources (as ensembl) on your system?",
+"what is ensembl?"
+
+"Explain the process of finding a genetic marker followed by a quantitative trait loci.",
+"Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging.",
+"Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging.",
+"What about recombination in human centromeres?",
+"What about recombination in human centromeres?",
+"How does recombination work in human centromeres?",
+"How many types of diabetes exist?",
+"What about recombination in the human genome?"
+
+
+"Create a how to guide for genetic sequencing ",
+"What is the significance of the length of telomeres? ",
+"Once a sperm combines with an egg, what determines how traits are passed on to the resulting lifeform? ",
+"Why is genetic tracing matrilineal rather than patrilineal? ",
+"How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs?",
+"what type of dataset is useful for qtl mapping analysis in genenetwork2? ",
+"What genetic factors influence aging in humans? ",
+"Is there a direct association between aging and susceptibility to having diabetes?",
+"How does genetics influence the emergency of diabetes? "
+
+"Create a how-to guide for genetic sequencing.",
+"What is the significance of the length of telomeres?",
+"Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?",
+"Why is genetic tracing matrilineal rather than patrilineal?",
+"How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs?",
+"what genes are associated with diabetes?",
+"what genes are associated with aging?",
+"what are the bioinformatics tools for QTLs analysis?",
+"what are the statistical approaches for qtls analysis?",
+"Create a how-to guide for GWAS analysis?"
+
+"Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?",
+"Which genes are associated with aging in human ",
+"Create a how-to guide for genetic sequencing",
+"Create a guide for genetic sequencing",
+"Once a sperm combines with an egg, what determines how traits are passed onto the resulting lifeform?",
+"Why is genetic tracing matrilineal rather than patrilineal?",
+"How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs"
+
+
+"Create a how-to guide for genetic sequencing.",
+"What is the significance of the length of telomeres?",
+"How does one tell the difference between X and Y DNA, with respect to DNA tracing and determining QTLs?",
+"What is the difference between QTL mapping and GWAS?",
+"How do I determine which gene in my QTL is causal for the trait?",
+"Which mouse genes have been associated with longevity?",
+"How is gene expression in the liver affected by diabetes?",
+"Why do males have two Y chromosomes and females only one?"
+
+" Create a how-to guide for genetic sequencing",
+" Create a how-to guide for genetic sequencing.",
+" What is the significance of the length of telomeres?"
+
+"How can I add a new species to the GeneNetwork database?",
+"Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+
+"what genetic factor are associated with aging",
+"nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabets",
+"nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabets"
+
+
+"which genes are typically associated with diabetes in QTL analyses?",
+"which genes are typically associated with early aging?",
+"How do I generate a linkage or association mapping study in mice to understand aging?",
+"Is the gene TCF7L2 involved in diabetes?",
+"In which diseases is the gene TCF7L2 involved?",
+"what are confounding factors in diabetes?"
+
+
+"What is the significance of the length of telomeres?",
+"Can you explain the difference between sequencing with short reads vs long reads? Please make you answer accessible to a non-expert.",
+"Can you explain why using a pangenome-based reference might be more   useful than simply using a single linear reference? Please make you   answer accessible to a non-expert.",
+"Is all genetic regulation done through DNA (e.g., prompters,   repressors, activators) or are there other forms of genetic regulation?   Please make you answer accessible to a non-expert.",
+"is there a specific genetic variation that can cause someone to live longer? please make your answer accessible to a non-expert"
+
+
+"How is the immune system related to diabetes?",
+"What are the genomic variants associated with immune system components and diabetes?",
+"What is the role of the immune system in the metabolomics of diabetes and associated conditions?",
+"What are the different relationship between traits?",
+"Can landscape of QTL and GWAS hits be used to find relationships between traits ?",
+"Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+
+"What causes diabetes?",
+"Define dyslipidemia.",
+"Does cycling reduce risk of diabetes?",
+"What is cytochrome?"
+
+"What is GeneNetwork and how does it relate to aging research?",
+"How can GeneNetwork assist in identifying genetic factors involved in diabetes?",
+"What specific tools within GeneNetwork are most useful for diabetes research, and how are they applied?",
+"What role does insulin play in the regulation of blood glucose levels?",
+" How does aging affect the risk of developing type 2 diabetes?",
+"Can lifestyle changes reverse type 2 diabetes?"
+
+"how does environment influence fertilisation",
+"how does diet impact someone's height",
+"which animal has the same number of chromosomes as human",
+"what's ensures brains work",
+"how do our brains maintain emotions",
+"what hormones do our brains release during stressful experiences?",
+"what is the use of corticosterone?"

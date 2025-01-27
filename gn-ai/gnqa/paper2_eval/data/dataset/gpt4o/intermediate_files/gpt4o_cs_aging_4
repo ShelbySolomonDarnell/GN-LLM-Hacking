@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "1989 - Genetic instability and aging theories, facts, and future perspectives.pdf",
+    "2006 - Specific age related signatures in Drosophila body parts.pdf",
+    "2016 - The dog aging project translational geroscience in companion.pdf",
+    "2009 - MicroRNAs in C. elegans Aging Molecular Insurance for Robustness.pdf",
+    "2012 - Genomics and Successful Aging Grounds for Renewed.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf",
+    "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf",
+    "2011 - Genomics of human longevity.pdf",
+    "2001 - Demography in the age of genomics.pdf",
+    "2021 - Lifespan-Associated Gene Expression Signatures of Recombinant BXD Mice Implicates Coro7 and Set in Longevity.pdf"
+  ],
+  "extraction_id": [
+    "b0531531-f629-512b-9835-24cc870b4ef3",
+    "efba6890-9b12-567c-b3f0-4e6ff5c6e9c4",
+    "9c8bc002-4f7d-5c53-9736-70f59a6ee518",
+    "c8d6f90d-a25c-590a-a546-4500df09aa28",
+    "3d18e792-3d83-5cc3-b9ab-309322ecf55d",
+    "bfeb5c38-4fa6-5df5-90ce-63204deba3a8",
+    "396683f9-b2e3-5942-bec8-f96fa798c341",
+    "89586b79-902d-5e2b-9b8a-b7a8c4971783",
+    "94acf45b-980d-5273-8a09-5d748c94a51b",
+    "e3eb627c-15f4-5713-92a4-e92a891b7136"
+  ],
+  "document_id": [
+    "4d5b1800-b676-5865-a555-09ea740cc14a",
+    "24f073af-ef97-5ba3-9923-9a7d958bd411",
+    "e841c6bd-78b8-56e1-b3dd-e2bcc8a0f590",
+    "dff49223-ac74-5419-a190-a0c7f43a5ee5",
+    "6d2b82c3-4256-562a-9b23-ff7c71e9fd93",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+    "4d082da4-fa48-5170-8147-c4fea47a5d4b",
+    "2e038219-fdaa-506f-9cd3-51379054130e",
+    "0f07fa43-feb6-5656-b7e7-b8faa86f5623",
+    "6277f22c-f56d-51a7-add1-1fe7674dda74"
+  ],
+  "id": [
+    "chatcmpl-AIFgqiJDPdSbdoRhIXU84YMtAnqaJ",
+    "91375d45-be1d-5c54-8d0f-a9b1dded69bb",
+    "a32e8775-583f-5827-a590-b7058b255d26",
+    "aba78d88-b097-52fe-8246-66301e39cdd5",
+    "741dc9f2-2e8e-5fe3-9e6f-806a5a93213b",
+    "0916cf4a-a863-5c5d-b687-2ae5fa80bac0",
+    "b3e0de69-763f-5f19-aeb7-ea1df79a143b",
+    "e58a6718-dfef-58f6-9417-4abd793fe74d",
+    "71eb66cb-130c-5183-ba9e-038637582775",
+    "a0aa0b47-91a6-5f3e-b8a2-9ccdfcd79865",
+    "322613d7-921b-5e2e-b410-57ab4acc4130"
+  ],
+  "contexts": [
+    "for molecular biological studies on aging. Although material  from humans should be employed where possible, for prac-  tical reasons animal model systems like rats and mice are  indispensible. There is evidence that, provided their health sta-  tus and husbandry is optimal, rodents age much in the same  way as humans do (Burek 1978). For studying certain funda-  mental processes, such as the occurrence of various types of  DNA rearrangement, lower organisms and cell lines can also",
+    "Until now most of the genomic studies of invertebrate models have been performed on whole animals. Several studies, however, recently performed on specialized mammalian tissues, either post-mitotic (heart or nervous system) or mitotic (liver), show that the effects of aging are tissue-specific [19-25]. In addition, effects of caloric restriction on age related transcriptional changes are also tissue- or species-specific [19]. To better understand the aging process in invertebrate",
+    "opportunities for assessing the efcacy of interventions onaging. When considering the advantages and disadvantages of dogs as a model for geroscience research, it is useful tonote that the vast majority of mammalian studies on thebasic biology of aging are performed in a relatively small number of inbred mouse strains. Typical average lifespan for most of these mouse strains is approximately 23 years,",
+    "[14] Gerstbrein, B., Stamatas, G., Kollias, N., Driscoll, M. In vivo  spec- trofluorimetry reveals endogenous biomarkers that report health- span and dietary restriction in Caenorhabditis elegans . Aging Cell   2005 , 4: 127-137.  [15] Kennedy, B.K. The genetics of ageing: insight from genome-wide  approaches in invertebrate model organisms. J. Intern. Med.  2008 ,  263: 142-152.  [16] Kenyon, C., Chang, J., Gensch, E., Rudner, A., Tabtiang, R. A C.",
+    "the DNA level leads to changes in gross phenotype, we must  now look downstream at changes in gene expression associ - ated with genetic variation, aging, and ARD. Comparison With Laboratory Models of Aging Laboratory models typically used to study aging, such as  Caenorhabditis  elegans  (nematode worm) and Mus musculus   (mice), have drastically shorter life spans than our own  (~3 wk [ 51] and ~3 y [ 52], respectively, vs a 122 y maxi - mum for humans thus far; [ 53]). In some respects, these",
+    "ing studies on invertebrate models of aging, long-lived mam-mals, transgenic mouse strains, and interventional studies, have led to the identification of evolutionarily conserved path- ways involved in life span regulation, as well as common de- nominators of aging in different organisms. 4 In this review, the  pathophysiological roles of these aging mechanisms, including  oxidative stress, mitochondrial dysfunction, impaired resis-",
+    "chain triglyceride oil on life span of genetically heterogeneous mice. J. Gerontol. A. Biol. Sci.  Med. Sci. 68, 616 (2013). [PubMed: 22451473]  24. Yuan R, Peters LL & Paigen B Mice as a mammalian model for research on the genetics of aging.  ILAR J. Natl. Res. Counc. Inst. Lab. Anim. Resour. 52, 415 (2011). 25. Saul MC, Philip VM, Reinholdt LG & Chesler EJ High-diversity mouse populations for complex  traits. Trends Genet. 35, 501514 (2019). [PubMed: 31133439]",
+    "lowing the discovery of genes and pathways involved inanimal lifespan extension, human research has focusedon the corresponding candidate human genes withgenetic, genomic and epigenetic studies into ageingand longevity. The designs of these studies differwith respect to the selection of naturally occurringphenotypes and the study populations, which includepopulation-based, patient-based, family-based andexposure-based cohorts. Studies into human age-related disease phenotypes",
+    "Animal studies as stalking horses for human biogerontology.  For the most part, studies on the biology of aging are as difficult and imprac-tical in humans as are studies of health insurance in rodents.  It is fairlyCopyright  National Academy of Sciences. All rights reserved.Cells and Surveys:  Should Biological Measures Be Included in Social Science Research? http://www.nap.edu/catalog/9995.html",
+    "review of the evidence for genotype-dependent eects on lifespan. Ageing Res. Rev. 11, 254270. doi: 10.1016/j.arr.2011.12.006 Turturro, A., Witt, W. W., Lewis, S., Hass, B. S., Lipman, R. D., and Hart, R. W. (1999). Growth curves and survival characteristics of the animals used in the biomarkers of aging program. J. Gerontol. Ser. Biol. Sci. Med. Sci 54, B492B501. doi: 10.1093/gerona/54.11.b492 Vertti-Quintero, N., Berger, S., Solvas, X. C. I, Statzer, C., Annis, J., Ruppen,"
+  ],
+  "answer": "Scientists study the genetics of aging in animals using a variety of approaches and model organisms. Here are some key methods and models mentioned in the context:  1. **Animal Model Systems**: Rodents, such as rats and mice, are indispensable for molecular biological studies on aging due to their practical advantages and similarities in aging processes to humans [1].   2. **Tissue-Specific Studies**: Recent genomic studies have been performed on specialized mammalian tissues, both post-mitotic (e.g., heart, nervous system) and mitotic (e.g., liver), to understand the tissue-specific effects of aging. These studies also explore how caloric restriction affects age-related transcriptional changes, which are tissue- or species-specific [2].  3. **Laboratory Models**: Common laboratory models for studying aging include Caenorhabditis elegans (nematode worm) and Mus musculus (mice), which have shorter lifespans than humans, allowing for more rapid observation of aging processes [5].  4. **Transgenic Mouse Strains and Interventional Studies**: These studies have identified evolutionarily conserved pathways involved in lifespan regulation and common denominators of aging across different organisms [6].  These methods and models help scientists uncover the genetic and molecular mechanisms underlying aging, providing insights that can be applied to understanding human aging and developing potential interventions.",
+  "question": "How do scientists study the genetics of aging in animals?"
+}

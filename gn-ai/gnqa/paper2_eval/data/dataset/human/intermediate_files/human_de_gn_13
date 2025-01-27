@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2005 - Numerical Algorithms for Mapping of Multiple Quantitative Trait Loci in Experimental Populations.pdf",
+    "2005 -Ljungberg- Numerical algos for Multi QTL.pdf",
+    "2011 - Regulation of ribosomal RNA gene copy number and its role.pdf",
+    "2001 - Genome maintenance mechanisms.pdf",
+    "2008 - Rutter_s child and adolescent psychiatry-Blackwell Pub (2008).pdf",
+    "2013 - Causes of Genome Instability.pdf",
+    "2009 - Basic Genetics and Genomics A Primer for Nurses.pdf",
+    "2007 - Promoting_Student_Scientific_Literacy_of_Molecular Genetics and Genomics.pdf",
+    "2013 - Causes of Genome Instability.pdf",
+    "2007 - DNA replication stress, genome instability and aging.pdf"
+  ],
+  "extraction_id": [
+    "3f482661-0759-54cf-9926-8a39abb538bf",
+    "33c27a82-4633-5f0c-9d9e-716aee665879",
+    "28addd51-38b1-5405-bed4-140f7224da0b",
+    "17bbb094-4a6f-5931-be1d-ee46abc25820",
+    "86760f12-2e7c-56c6-80d8-0d62c611843d",
+    "67e0ca38-bd7c-551f-9941-bcd6025a630d",
+    "6e7863c0-dc75-550a-b3ca-9fb0d95af788",
+    "67369433-749b-5d6a-b5ef-3f0afe78b767",
+    "e1efc4b8-b33d-513f-b6cb-9f35de5eda30",
+    "908ae89d-39b7-51ff-9bc4-c4a1de926b87"
+  ],
+  "document_id": [
+    "dd7d3ea5-b23a-514e-898f-a4259ce6f6f9",
+    "bea0655c-7ef4-5754-ba14-817b72a21be2",
+    "20147943-f329-5ac6-8343-3cea72fdc040",
+    "db0de7b5-6c1c-521c-be6d-0ea91c700277",
+    "59daba11-206e-5bbc-8833-9d1b661532b5",
+    "63f87ec0-9437-5d67-b36d-0b24059e9c9a",
+    "c37e2ace-171b-5776-8969-86eda9736481",
+    "755f34c4-cc06-5275-a744-16d48162b012",
+    "63f87ec0-9437-5d67-b36d-0b24059e9c9a",
+    "dd83ce7f-dfe1-5fa7-8509-bfdb1e27af9f"
+  ],
+  "id": [
+    "chatcmpl-ADZAStB25S6kWtJMcUZWpQvWYeOgv",
+    "4c576a55-b4cf-569f-8771-3d2a81480104",
+    "3a88ba5e-d93b-5c50-a03a-02def897390f",
+    "8049fc56-1fd2-58ba-9d5c-9529d4cc7e84",
+    "c793587e-e46f-5b48-9e49-c150637c5f5a",
+    "440ffc7a-2810-5245-bc20-9284d6861472",
+    "55f07e34-bcb4-5a68-a222-477378f6c9d0",
+    "53707c68-7cf1-51aa-9d4c-1eb4a9816182",
+    "dc2dc054-f0f9-5e78-92b0-1caa0a6239e0",
+    "f18e23f1-67a3-5d7f-831e-358fa44e7873",
+    "134f4d33-1645-591b-ac20-d8d8b298bcfc"
+  ],
+  "contexts": [
+    "the DNA, i.e. the whole genome. During replication the two strands of themother cell DNA are separated, and new nucleotides are put together to maketwo double helices identical to the original one, see Figure 2.1. TAAGACCG AT T CTGGCCCGTGGC. . . . . . .. . ATTCTGGCTAAGACCG. . . . . . . . Figure 2.1: A DNA chain consists of two strands of complementary nucleotides. When DNA is replicated, two double chains identical to the original one are created.",
+    "the DNA, i.e. the whole genome. During replication the two strands of themother cell DNA are separated, and new nucleotides are put together to maketwo double helices identical to the original one, see Figure 2.1. TAAGACCG AT T CTGGCCCGTGGC. . . . . . .. . ATTCTGGCTAAGACCG. . . . . . . . Figure 2.1: A DNA chain consists of two strands of complementary nucleotides. When DNA is replicated, two double chains identical to the original one are created.",
+    "The mechanism to maintain the rDNA copy number The gene amplication mechanism that counteracts recombination-mediated loss of rDNA copies is well studied in budding yeast [ 6,11]. During the S phase of the cell cycle, replication starts from replication origins, and isinhibited at the replication fork barrier site (RFB) by the function of the fork blocking protein, Fob1 (Fig. 3)[12]. This inhibition works as a recombinational hotspot toinduce amplication for copy number recovery as follow;",
+    "S and G2 when the DNA is replicated, providing a pristine secondcopy of the sequence (sister chromatid) for aligning the breaks. Incontrast, the less-accurate end joining is most relevant in the G1phase of the cell cycle, when a second copy is not available 14.  Finally, some single repair proteins directly revert certain injuries, such as O6-methylguanine methyltransferase, which removes  O6-methyl guanine. This highly mutagenic lesion permits base",
+    "Replication",
+    "genotoxic agents and to guarantee faithfulchromosome duplication and transmission to the offspring. In addition to DNA damage repair, cells monitor replication to minimize er-rors of DNA synthesis. In eukaryotes, cell-cycle checkpoints guarantee coordination of DNA synthesis and DNA repair with cell division.Genome instability is mainly due to sporadic replication or repair errors but can also take place in response to developmental or environ-mental signals, as occurs in meiosis, and antigen",
+    "This section will explain how cells normally divide. It will also desc ribe how an unexpected change in  the structure of DNA can sometimes cause harm to th e body. New tools to study genetic variations of  common diseases and to identify genetic variatio ns common to specific diseases will also be  presented.  Cell Division   Humans grow and develop as a result of a process called cell  division. There are two types of cell division  mitosis and meiosis.",
+    "and replicated (by a templating mechanism).  Each DNA molecule in a cell forms a single chromosome. (NRC, pg. 185, 9-12:C2#1) 4. Genes as information for building proteins: The genetic information in DNA molecules provide the instructions on assembling protein molecules. The code is virtually the same for all life forms. (AAAS, pg. 114, 5C:9-12#4 ) 5. Molecular nature of genes and mutations: Genes are segments of DNA molecules.  Inserting, deleting, or substituting DNA segments can alter genes.  An altered",
+    "When a replication fork encounters a DNA adduct, cells induce DNA damage toler-ance mechanisms that allow completion of replication. Adducts can be bypassed by postreplicative repair via translesion poly-merases (either faithful or error-prone) or via error-free template switching using the sister chromatid (64, 105). Postreplicativerepair guarantees genome stability by allowing completion of replication (albeit at the expense",
+    "genome instability in part because of the unique structureof replicating DNA molecules (Figure 2). When single-strand lesions occur in non-replicating molecules of DNA,the overall integrity of chromosomes is maintained byhydrogen bond base pairing on either side of these lesionsuntil they are repaired (Figure 2A). In contrast to non-replicating DNA, replicating DNA at replication forkscontains unwound, highly recombinogenic single-strandedtemplate DNA before this DNA is converted to double-strand DNA by"
+  ],
+  "answer": "DNA replication is a critical process that ensures the accurate copying of genetic information during cell division. Here is an explanation of the process and how it maintains accuracy:  1. **Separation of DNA Strands**: During replication, the two strands of the mother cell DNA are separated [1], [2]. This separation is essential to expose the nucleotide sequences of each strand, which will serve as templates for the synthesis of new complementary strands.  2. **Formation of New Strands**: New nucleotides are assembled to form two double helices that are identical to the original DNA molecule [1], [2]. Each original strand pairs with a newly synthesized complementary strand, resulting in two DNA molecules, each consisting of one old and one new strand. This method is known as semi-conservative replication.  3. **Initiation at Replication Origins**: Replication begins at specific locations on the DNA molecule called replication origins. During the S phase of the cell cycle, replication starts from these origins [3].  4. **Replication Fork and Enzyme Activity**: The replication process involves the formation of a replication fork, where enzymes like DNA helicase unwind the DNA double helix. DNA polymerase then adds new nucleotides to the growing DNA strand by matching them with the complementary nucleotides on the template strand.  5. **Error Minimization and Repair Mechanisms**: Cells have mechanisms to monitor replication and minimize errors. For instance, cell-cycle checkpoints ensure coordination of DNA synthesis and repair with cell division [6]. Additionally, specific repair proteins can revert certain DNA injuries, ensuring the fidelity of the replication process [4].  6. **Postreplicative Repair**: If replication encounters obstacles such as DNA adducts, cells can induce DNA damage tolerance mechanisms. These mechanisms allow the completion of replication through error-free template switching using the sister chromatid or through translesion polymerases [9].  By following these steps and employing various error-checking and repair mechanisms, DNA replication ensures that genetic information is accurately copied and transmitted to daughter cells during cell division.",
+  "question": "Explain the process of DNA replication and how it ensures accurate copying of genetic information during cell division."
+}

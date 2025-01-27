@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Sex Differences in Aging Genomic Instability.pdf",
+    "2017 - Independent impacts of aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Mitonuclear genomics and aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Transposable elements, circular RNAs and mitochondrial.pdf",
+    "2004 - Ageing, repetitive genomes and DNA.pdf",
+    "1999 - Molecular Biology of Aging.pdf",
+    "1998 - Neurodegeneration and Aging Role.pdf"
+  ],
+  "extraction_id": [
+    "400784cf-bb7d-5bf8-b735-2142ebf7c953",
+    "1f0b6363-a045-53aa-a124-4cf89e61fc26",
+    "c8db1d28-f6c2-5896-95ec-bb01159ba483",
+    "385c192b-a416-5208-9615-20111ce782aa",
+    "381cc064-9970-5dcd-b959-c52a8e487fe7",
+    "ef9463cd-cf21-527f-ae4a-3df211c78435",
+    "5cbace8d-e538-5531-9311-ea9726ad2f15",
+    "9b7b2005-857b-5379-ba5c-3a8c6fd6c891",
+    "68c55aac-d8fa-5287-a420-2bb83a2c159e",
+    "21db434d-3cf5-5ff1-8257-0941ebe74822"
+  ],
+  "document_id": [
+    "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f",
+    "d1d0b9ce-f827-5dfb-8e39-d87a9ca52f6d",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "e05fdc09-c8d8-5134-a1fd-bf07a1564981",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "7bebb41c-ac73-5917-91d3-4f59fbb3266a",
+    "1772d596-16a3-547a-9f76-2cb658e89746",
+    "6f122d3a-d8ca-598f-8767-c059a941cef3",
+    "694c44f3-6025-5a2c-9c72-d9c5f16c8b85"
+  ],
+  "id": [
+    "chatcmpl-AIFhRRoCeBcURczVYxgfGYsJd8loh",
+    "9ec5a15f-8232-5e79-a78d-64eeba35747f",
+    "39019881-9b6d-5111-87ea-71c413bdf4ff",
+    "1a9d5c26-f606-5cb5-98ee-4120de3fbd1a",
+    "e0d41918-20fb-53f0-ac63-cd079c6dce1e",
+    "ef3be4e1-4cbc-5b61-a286-9b759df08cd9",
+    "4206977e-23df-5307-8d8a-cb2ed7b33595",
+    "7095cdbb-852e-541e-884b-a9e67c2c790c",
+    "512e09e3-c880-5bed-9071-bfa84d80a5a3",
+    "2e2de9a7-2e83-5f46-a4b7-08eddcd37baa",
+    "c35761f9-58e8-526b-94fd-96ed7599cb53"
+  ],
+  "contexts": [
+    "In addition to nuclear DNA, mitochondrial DNA (mtDNA) also is affected by aging. Alterations in mitochondrial function and mito-chondrial-nuclear signaling occur during aging and have been linked to sex biases in aging and age-related diseases (28). Due to their role in energy production, mitochondria are at high risk of oxida-tive damage. Not surprisingly, accumulation of oxidative lesions is an important source of age-related mtDNA damage (29). In aged Wistar rats brains, DNA oxidation, as measured by",
+    "mitochondrial DNA mutations can reduce lifespan. Sci Rep. 2014;4:6569. 20. Ross JM, Stewart JB, Hagstrm E, Bren S, Mourier A, Coppotelli G, Freyer C, Lagouge M, Hoffer BJ, Olson L. Germline mitochondrial DNA mutations aggravate ageing and can impair brain development. Nature. 2013;501(7467):412 5. 21. Sondheimer N, Glatz CE, Tirone JE, Deardorff MA, Krieger AM, Hakonarson H. Neutral mitochondrial heteroplasmy and the influence of aging. Hum Mol Genet. 2011;20(8):1653 9.",
+    "102. Zhang R, Wang Y , Ye K, Picard M, Gu Z.Independent impacts of aging on mitochondrial  DNA quantity and quality in humans. BMC Genomics. 2017;18:890. https://doi.org/10.1186/ s12864-017-4287-0.  103. Norddahl GL, et al. Accumulating mitochondrial DNA mutations drive premature hema- topoietic aging phenotypes distinct from physiological stem cell aging. Cell Stem Cell.  2011;8:499510. https://doi.org/10.1016/j.stem.2011.03.009.",
+    "other studies, the risk for metabolic disorders is highly associated with age-related  diseases that affect lifespan, and interestingly these conditions exhibit mitochon- drial dysfunction [73]. Aging is a complex process as a time-dependent progressive loss of physiologi- cal integrity, leading to impaired function and increased vulnerability to death [74],  and as we described above, aging is highly associated with mtDNA mutations; in",
+    "mt, and overall mitonuclear genomic compatibility.  Given the uncertainty of mtDNA mutation accumulation in driving the natural aging process, it is plausible that mito - chondrial communication may be a significant evolutionarily conserved force that influences lifespan and/or healthspan. Acknowledgements Funding was provided by the American Federa- tion for Aging Research (AFAR), the National Institute on Aging (T32",
+    "abolic regulation through mitochondrial signaling. Am J Physiol Endocrinol Metab.  2014;306:E58191.  74. Zhang R, Wang Y , Ye K, Picard M, Gu Z.Independent impacts of aging on mitochondrial DNA  quantity and quality in humans. BMC Genomics. 2017;18:890.  75. Hebert SL, Lanza IR, Nair KS.Mitochondrial DNA alterations and reduced mitochondrial  function in aging. Mech Ageing Dev. 2010;131:45162.  76. Liu D, Li H, Lu J, Bai Y .Tissue-specific implications of mitochondrial alterations in aging.",
+    "Sun., N, Youle, R. J. and Finkel, T. (2016). The mitochondrial basis of aging. Mol. Cell 61, 654-666. doi:10.1016/j.molcel.2016.01.028 Symer, D. E., Connelly, C., Szak, S. T., Caputo, E. M., Cost, G. J., Parmigiani, G. and Boeke, J. D. (2002). Human L1 retrotransposition is associated with genetic instability in vivo. Cell110, 327-338. doi:10.1016/S0092-8674(02)00839-5 Szabo, L., Morey, R., Palpant, N. J., Wang, P. L., Afari, N., Jiang, C., Parast,",
+    "than ones that affect mitochondrial DNA12,57,58,71.So,this is an important reason for favouring nuclear DNA as the ultimate damage target in natural ageing. Nevertheless, it is conceivable that when mutations occur in the mitochondrial genome, mutant-protein production could increase the inefficiency of the mitochondrial respiratory chain, thereby resulting in more reactive oxygenspecies, which would then damage nuclear and mitochondrial DNA further.",
+    "generation animals as they grow older.Mitochondrial DNAGenetic instability outside of the nuclear genome mightalso contribute to aging (reviewed in Lee et al., 1997;Wallace et al., 1998). The mutation rate for mitochondrialDNA (mtDNA) is 10- to 20-fold greater than for nuclearDNA, and it is believed that mtDNA mutations may com-promise mitochondrial functions in different ways (Fig-ure 4). First, defects in electron transport and oxidativephosphorylation could lead to declines in ATP levelsand the NAD:NADH",
+    "of the human aging process(Corral-Debrinski et al., 1992; Soong et al., 1992;Wei etal., 1996b), and it has been demonstrated that certain pointmutations of mitochondrial DNA accumulate in the aginghuman brain (Zhang et al., 1993; Liu et al., 1997). However,thefunctionalimplicationsofthesendingsarecontroversial(Hayashietal.,1994).Tocomplicatethematterfurther,Takaiand co-workers discuss the possibility that the commonage-associated changes in human and mouse"
+  ],
+  "answer": "Mitochondrial DNA (mtDNA) influences aging through several mechanisms:  1. **Oxidative Damage**: Mitochondria are crucial for energy production and are highly susceptible to oxidative damage. The accumulation of oxidative lesions in mtDNA is a significant source of age-related damage [1].  2. **Mutations and Lifespan**: Mutations in mtDNA can reduce lifespan. These mutations can aggravate aging and impair brain development, indicating a direct link between mtDNA mutations and the aging process [2].  3. **Mitochondrial Dysfunction**: Aging is associated with mtDNA mutations, which contribute to mitochondrial dysfunction. This dysfunction is linked to age-related diseases and metabolic disorders, further influencing lifespan [4].  4. **Genetic Instability**: The mutation rate for mtDNA is significantly higher than for nuclear DNA. These mutations can compromise mitochondrial functions, such as electron transport and oxidative phosphorylation, leading to declines in ATP levels and increased production of reactive oxygen species, which further damage both nuclear and mitochondrial DNA [9].  Overall, mtDNA influences aging by accumulating mutations and oxidative damage, leading to mitochondrial dysfunction and contributing to age-related physiological decline.",
+  "question": "How does mitochondrial DNA influence aging?"
+}

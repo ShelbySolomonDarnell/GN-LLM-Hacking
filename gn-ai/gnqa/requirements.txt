@@ -1,0 +1,7 @@
+numpy==1.22.4
+langchain_text_splitters
+langchain-together==0.2.0
+ragas==0.1.9
+r2r==0.3.4
+wikipedia
+cohere<5

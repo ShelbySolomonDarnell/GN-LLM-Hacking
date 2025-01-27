@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - The Human Ageing Genomic Resources online.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2012 - Human Ageing Genomic Resources Integrated.pdf",
+    "2018 - Biological Processes Modulating Longevity across Primates.pdf",
+    "2011 - Genetics and genomics of human ageing.pdf",
+    "2010 - Genetics and genomics of human ageing.pdf",
+    "2008 - Estrogen, not intrinsic aging, is the major regulator of delayed.pdf",
+    "2013 - Gene expression changes with age in skin.pdf"
+  ],
+  "extraction_id": [
+    "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "81c68113-aa96-5af3-b4fc-5898fa20e379",
+    "d59d7882-333d-5576-86ab-3cfa6354b946",
+    "25e9d8a3-54ac-5412-8efb-3b56d93f363f",
+    "c07d6709-8dbe-5437-b7df-0849b92c0ea0",
+    "07a34581-749c-5556-bdea-806b2c9c7915",
+    "59227f74-f1c7-58ad-a886-aa9e3799a132",
+    "eeffae01-ce08-54a8-955f-6f0c9d07eedc",
+    "dfb687b2-f1ff-5e22-8a67-4a1db9ebeb3c"
+  ],
+  "document_id": [
+    "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "5f554cc7-c94d-5fbd-9567-528499663ed6",
+    "930103c1-e98e-524c-aa68-233a45dc6726",
+    "08eee102-d627-5f1b-84c7-603c38981adf",
+    "633f3149-e966-53ef-aa7d-b759398ed541",
+    "04a3d8f1-64c1-5e25-ab0a-3eb749c06c92",
+    "5c121bbb-57b8-51cc-8461-effa1bfd87b9"
+  ],
+  "id": [
+    "chatcmpl-ADZWHUX5oZWH5Bj3eh2vkudPOLcus",
+    "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+    "413f8f54-b5cc-5089-9f5c-d9e3b8bcf594",
+    "6f04401a-b938-5a60-8b69-d37f9086748c",
+    "786d2756-4c4d-5ac0-8d3d-63f914d51664",
+    "0ae63c75-df5f-59b0-9561-30d5115f0f74",
+    "f2fbfb29-0a51-5f94-8b67-d47ab4de68bd",
+    "fd6cfc2c-76b1-5620-a68c-fb37db9b6f78",
+    "df45a752-e866-54bb-ab49-daff9a702eef",
+    "66f72bdc-d38b-5c7a-afdd-4c7549ce2131",
+    "d53018ae-0881-5ef4-9c49-48623e8aa342"
+  ],
+  "contexts": [
+    "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes   et     al  ., 2005a). The",
+    "overexpressed with age seem to be a response to aging,in that they have been previously found to have protec-tive functions (de Magalha es et al., 2009b). As such,these genes may help organisms manage aging andcould be targets for manipulation. Likewise, gene ex-pression analysis of CR has been conducted to identifyassociated genes (Lee et al., 1999, 2000). A number ofmolecular signatures have emerged from such studiesthat could be useful to identify candidate processes andpathways that affect aging,",
+    "OTHER AGING RELATED GENES",
+    "In addition to aging- and CR-related genes, another source of candidate genes and pathways for drug designare human longevity-associated genes (Barzilai andShuldiner, 2001; Browner et al., 2004; Kenyon, 2010).Dozens of genes have now been associated with humanlongevity (de Magalha es et al., 2009a), although only ahandful of genes have been shown to have consistenteffects across populations. Many longevity-associated genes are related to spe-",
+    "potentially associated with human ageing. For eachgene, a description compiled from the studies that linkthe gene to ageing is provided. It should be noted thatour focus is on genes that might affect the ageingprocess, rather than individual age-related pathologies; genes affecting multiple, even if not all, age-related",
+    "Pleiotropies and Aging-Related Genesets To study genes that have been previously related to aging, a list of curated human genes associated with aging in different model systems was obtained from the GenAge data set ( de Magalh ~aes et al. 2005 ). We used gene ontology (GO) anno-",
+    "aging in human muscle reveals a common aging signa-ture. PLoS Genet. 2, e115. ( doi:10.1371/journal.pgen. 0020115 ) 64 Lener, T ., Moll, P . R., Rinnerthaler, M., Bauer, J., Aberger, F. & Richter, K. 2006 Expression proling ofaging in the human skin. Exp. Gerontol. 41, 387397. (doi:10.1016/j.exger.2006.01.012 ) 65 Kim, S. K. 2008 Genome-wide views of aging gene net- works . Molecular Biology of Aging Monograph 9. Cold Spring Harbor, CT: Cold Spring Harbor LaboratoryPress.",
+    "aging in human muscle reveals a common aging signa-ture. PLoS Genet. 2, e115. ( doi:10.1371/journal.pgen. 0020115 ) 64 Lener, T ., Moll, P . R., Rinnerthaler, M., Bauer, J., Aberger, F. & Richter, K. 2006 Expression proling ofaging in the human skin. Exp. Gerontol. 41, 387397. (doi:10.1016/j.exger.2006.01.012 ) 65 Kim, S. K. 2008 Genome-wide views of aging gene net- works . Molecular Biology of Aging Monograph 9. Cold Spring Harbor, CT: Cold Spring Harbor LaboratoryPress.",
+    "tive-gerontogenes and genes with established aging-relatedfunctions were identified by interrogation of the GenAgeonline database [12], from aging-associated Gene Ontology( G O )  g r o u p s  a n d  f r o m  h a n d  a n n o t a t i o n  ( s e e  M a t e r i a l s  a n dmethods/Results for a detailed description of the analysis). We show that the fundamenta l changes in genes and proc-",
+    "on model organisms [3] or have been confined to specificaging-associated disorders such as progeria syndromes [4]. A study of postmortem human brain tissue from 30 individuals aged 26 to 106 years [5] showed that approxi- mately 4% of approximately 11,000 genes analyzed show a significant age-related expression change (1.5-fold or more) in individuals aged >40 years. These genes were reported to play central roles in synaptic plasticity, vesi- cular transport, and mitoch ondrial function. Another"
+  ],
+  "answer": "Several genes have been associated with aging. Here are some key points from the provided context:  1. **Genes in Model Organisms**: A list of genes strongly associated with aging in model organisms includes those involved in segmental progeroid syndromes, such as the Werner syndrome gene, and genes critical in pathways previously related to aging, such as the insulin/insulin-like signaling pathway [1].  2. **Gene Expression Analysis**: Studies have identified genes overexpressed with age that have protective functions, suggesting they help manage aging and could be targets for manipulation. Gene expression analysis of caloric restriction (CR) has also been conducted to identify associated genes [2].  3. **Human Longevity-Associated Genes**: Dozens of genes have been associated with human longevity, although only a handful have shown consistent effects across populations [4].  4. **GenAge Data Set**: A curated list of human genes associated with aging in different model systems is available from the GenAge data set [6].  5. **GenAge Online Database**: Genes with established aging-related functions were identified by interrogation of the GenAge online database, aging-associated Gene Ontology groups, and hand annotation [9].  These references collectively highlight the involvement of various genes and pathways in the aging process.",
+  "question": "what genes are associated with aging?"
+}

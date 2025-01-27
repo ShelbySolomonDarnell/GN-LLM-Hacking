@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2019 - How Recent Advances in Genomics Improve Precision Diagnosis.pdf",
+    "1994 - Isolation of the Human LIMTHomeodomain Gene Islet-1.pdf",
+    "2016 - Dissecting diabetes metabolic disease.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "1986 - Diabetes due to secretion of a structurally abnormal insulin.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2001 - Genomic variation in pancreatic ion channel genes in Japanese type 2 diabetic patients.pdf",
+    "2011 - Genome-wide association studies (GWAS) impact.pdf",
+    "2019 - The clinical and genetic characteristics of permanent neonatal diabetes  PNDM  in the state of Qatar.pdf"
+  ],
+  "extraction_id": [
+    "7d87ee73-2cc1-576c-8c0d-eb58479177b8",
+    "ebb48c39-f48a-5dce-a4dc-fcd34e6f17e1",
+    "b3b6cf5d-8cc3-5559-af5f-36780a303792",
+    "998a92ba-e7fc-5553-b629-7b5797fbfafe",
+    "ce0307a5-fae4-5b6d-9786-10619e49e075",
+    "ffdee7b8-ff45-57bf-973a-ca03ba595d23",
+    "508fd29c-5cf8-52bc-8bf2-5cebb1833cb1",
+    "2d845f58-a674-5e08-a68b-e8cfea8a9b84",
+    "a4721e1b-273b-5042-bc20-cf5602f0955a",
+    "d340209d-0773-5cfc-b0d1-e714f2ebe9f2"
+  ],
+  "document_id": [
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "42b64375-06af-5e09-9ae6-6bd0ecb782c7",
+    "c77b101b-9f78-5090-8be9-6f98d9380466",
+    "eee2f79d-e093-52fb-871a-798fd859235e",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "5b884835-4cf4-5e80-a762-36582271e63e",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "bff7795f-c109-5d7f-871d-ef1f4400a2c6",
+    "086c6869-7c70-5364-9269-760267fb458d",
+    "90268a68-3926-535e-952e-735e206eb3ab"
+  ],
+  "id": [
+    "chatcmpl-AIFp3LBsYqGcLUvIYyVnKoJE32qw3",
+    "111f4875-7ccd-502f-bd5b-5d4ee88e5af6",
+    "3f7cc31a-dc57-568a-a3b0-602280c56428",
+    "3cb068b3-0761-5fd8-91bd-92744fa9ca9a",
+    "5d64fd7b-32d2-55ac-8586-c7ba9172a9ef",
+    "551f3603-6a4c-51e6-b568-7ae2fc9e7b33",
+    "2126e367-c1aa-56ae-aff4-0ba7e7070a22",
+    "487ca988-cce2-5b92-a05f-2e1cd11efea3",
+    "fa07c029-ad6e-5768-97da-a4bc5aa4e44f",
+    "644810c4-af08-5c60-b333-8c97ddadae8b",
+    "ac0df77e-c676-552b-b742-1591cb18fbbb"
+  ],
+  "contexts": [
+    "Mutations that result in mutant insulin or the  inability to convert proinsulin to insulin result in gl ucose  intolerance in some of these cases. Genetic defects  in the insulin receptor or in the signal transduction  pathway of insulin have been demonstrated to result in  hyperinsulinemia and modest hyperglycemia to severe  diabetes[1].  Disease of the exocrine pancreas Damage of the  cells of the pancreas due to diffused  injury of the pancreas can cause diabetes. This damage",
+    "A, et al. Insulin gene mutations resulting in early-onset diabetes: marked differences in clinical presentation, metabolic status, and pathogenic effect through endoplasmic reticulum retention. Diabetes. 2010;59:653 61. 21. Steele AM, Shields BM, Wensley KJ, Colclough K, Ellard S, Hattersley AT. Prevalence of vascular complications among pa- tients with glucokinase mutations and prolonged, mild hyperglyce- mia. JAMA. 2014;311:279 86.22. Chakera AJ, Spyer G, Vincent N, Ellard S, Hattersley AT, Dunne FP.",
+    "presumed glucose toxicity (34). The finding that a mutation of a single nucleotide in the gene encoding the glucokinase enzyme can result in NIDDM lends credibility to the hypoth- esis that inherited defects in insulin production contribute to NIDDM (6). Increased insulin demand of obesity and insulin resistance is accompanied by enhanced insulin biosynthesis,",
+    "insulin synthesis and function while mutations in the insulin gene ( INS) obviously affect the key hormone made by pancreatic beta cells [62]. ATP synthesis defect (mitochondrial diabetes) and mutations in ATP- sensitive potassium channel subunits (channel-building Kir6.2 [po- tassium inwardly-rectifying channel, subfamily J, member 11;KCNJ11 ] and regulatory SUR1 [ATP-binding cassette transporter subfamily C member 8], ABCC8 ) all affect insulin secretion [63].",
+    "Insulin gene mutations  Insulin is synthesized in 13-cells of the islets of Langerhans and is a  central honnone that maintains glucose homeostasis. Insulin-deficient mice  die shortly after birth due to severe hyperglycemia.53 All cell types of the  endocrine pancreas are present in insulin deficient mice suggesting that  insulin is not required for development and differentiation of the endocrine  pancreas. 53  Naturally occurring mutations in the insulin gene that result in the",
+    "Theprevalenceofgeneticmutationsaffectingthestructure oftheinsulinmoleculeinthegeneralpopulationisunknown. Uptothepresent,onlythosepatientsmanifestingthemutant insulinsyndrome(5-8,36)withunusualorfamilialTypeII diabeteshavebeenscreenedanddiscovered.Thus,mutantin- sulinspecieswithnormalorrelativelywell-preservedbinding andbiologicalactivitycharacteristics,andthereforenormal metabolicclearances,areunlikelytobediscoveredbythisap- proachsincehyperinsulinemiawillbeabsentorsubtle.Future",
+    "at various steps, resulting in an impaired insulin action and potential  development of extreme insulin resistant clinical conditions. Many mutations  have been identified in the insulin receptor gene. These mutations may lead  to:   Decreased insulin receptor biosynthesis   Premature chain termination in extracellular or intracellular domain   Accelerated receptor degradation   Defect in the receptor transport to plasma membranes   Decreased insulin binding affinity   Impaired tyrosine kinase activity",
+    "15. Steiner DF, Tager HS, Chan SJ, et al . Lessons learned from molecular biology of insulin-gene mutations. Diabetes Care 1990; 13: 600609. 16. Vionnet N, Stoffel M, Takeda J, et al . Nonsense mutation in the glucokinase gene causes early-onset non-insulin-dependent diabetes mellitus. Nature 1992; 356 : 721722. 17. Sakagashira S, Sanke T, Hanabusa T, et al . Missense mutation of amylin gene (S20G) in Japanese NIDDM patients. Diabetes 1996; 45: 12791281.",
+    "vating mutations in the gene encoding Kir6.2 alter fetal and postnatal growthand also cause neonatal diabetes. J Clin Endocrinol Metab 2006; 91(7): 27822788. 93. Stoy J, Edghill EL, Flanagan SE, et al. Insulin gene mutations as a cause of permanent neonatal diabetes. Proc Natl Acad Sci U S A 2007; 104(38): 1504015044. 94. Pulizzi N, Lyssenko V, Jonsson A, et al. Interaction between prenatal growth and high-risk genotypes in the devel-opment of type 2 diabetes. Diabetolo- gia2009; 52(5): 825829.",
+    "(Edghill et al., 2008; Garin et al., 2010; Stoy et al., 2007). Hyperglycemia occurs due to decreased insulin biosynthe-sis, in which most of the reported missense heterozygous mutations are expected to cause an abnormal proinsulin folding. An accumulation of the misfolded protein in the en-doplasmic reticulum (ER) consequently occurs, resulting in ER stress and betacell apoptosis (Liu, Hodish, Rhodes, & Arvan, 2007). Our identified de novo novel variant in INS is expected to result in aberrant proinsulin"
+  ],
+  "answer": "Genetic mutations in the insulin gene can significantly affect glucose metabolism in several ways:  1. Mutations that result in mutant insulin or the inability to convert proinsulin to insulin can lead to glucose intolerance. This is because the proper conversion and function of insulin are crucial for maintaining normal glucose levels in the blood [1].  2. Insulin gene mutations can cause early-onset diabetes, with marked differences in clinical presentation and metabolic status. These mutations can lead to the retention of insulin in the endoplasmic reticulum, causing stress and potentially leading to beta-cell apoptosis, which reduces insulin production and secretion [2], [10].  3. Insulin-deficient conditions, such as those caused by certain mutations, can lead to severe hyperglycemia, as insulin is a central hormone for maintaining glucose homeostasis. Without sufficient insulin, glucose cannot be effectively taken up by cells, leading to elevated blood glucose levels [5].  4. Some mutations may result in abnormal proinsulin folding, leading to an accumulation of misfolded proteins in the endoplasmic reticulum. This accumulation can cause endoplasmic reticulum stress and beta-cell apoptosis, further impairing insulin production and secretion [10].  Overall, genetic mutations in the insulin gene can disrupt normal insulin synthesis and function, leading to impaired glucose metabolism and conditions such as diabetes.",
+  "question": "How do genetic mutations in the insulin gene affect glucose metabolism?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2006 - Positional cloning of genes contributing to variability in nociceptive and analgesic phenotypes.pdf",
+    "2007 - QTL Mapping in Aging Systems.pdf",
+    "2005 -Knott- Regression based QTL mapping.pdf",
+    "2005 - Regression-based quantitative trait loci mapping robust, efficient and effective.pdf",
+    "2005 - Regression-based quantitative trait loci mapping robust, efficient and effective.pdf",
+    "2005 -Knott- Regression based QTL mapping.pdf",
+    "2007 - Using quantitative trait loci analysis to select plants for altered radionuclide accumulation.pdf",
+    "2008 - Genotype-phenotype relationships and the patterning of complex traits as exemplified in the mammalian dentition.pdf",
+    "2019 - Novel Genetic Loci Control L5 Vertebral Trabecular Bone and the Response to Low Calcium Intake in Growing BXD Recombinant Inbred Mice.pdf",
+    "2012 - Teaching Neuroinformatics with an Emphasis on Quantitative Locus Anlaysis.pdf"
+  ],
+  "extraction_id": [
+    "c2c33142-b1dc-5162-a2a1-b452d2385958",
+    "ace8317f-2e7a-5590-a8e6-5e961480c0fb",
+    "e12f12c8-b1e0-54fa-86f8-0bcdb580bca1",
+    "e8203703-d34a-5848-bf54-4e20eb6fc3c5",
+    "75b53145-3938-5fbe-9cca-0389a68e1955",
+    "26dd8d34-b134-5426-b717-61b8a3a0f752",
+    "9ca9216b-e4cb-52c2-a286-f7d5d37936b6",
+    "b672f393-c45d-5393-96ee-77934e21e9c3",
+    "92e2d87b-02c9-588b-bc3c-e1034c05826d",
+    "0184b980-f596-51d9-a1a5-dd9c8d4ba388"
+  ],
+  "document_id": [
+    "8ba88825-7473-52f8-8a1d-27f25644c4a2",
+    "35fbcd3c-97e8-57e5-b4c9-08dfbd4bce2e",
+    "cd41c63b-e5c2-5040-bbc5-ab20925b7d17",
+    "ba67a5b2-3dc7-57dc-8f8b-2d01433e58c2",
+    "ba67a5b2-3dc7-57dc-8f8b-2d01433e58c2",
+    "cd41c63b-e5c2-5040-bbc5-ab20925b7d17",
+    "682e6f43-10d4-5772-a69a-26e774606ba7",
+    "f6e866b8-b233-5862-bfb8-9949d0dabb97",
+    "de8dda5e-0e2f-5aa9-bb13-851c526b36a5",
+    "f36cbb2c-90f3-5544-8ce8-52b2004f6b49"
+  ],
+  "id": [
+    "chatcmpl-ADZIye9JJrA436MgjlTpeY9z4NFZS",
+    "1ec396e1-0218-5f22-8db7-8653770944fb",
+    "e3149a33-9780-5f50-b582-142cdae5a5d3",
+    "ef0bab2a-db4a-57ac-9f75-32ec8c4a8f87",
+    "62ec26e1-3c71-558d-9378-e920e47edb08",
+    "5b07b911-a624-52ed-8506-ab14cb16a2eb",
+    "297470d7-ce20-5685-af94-a8ed5c68386b",
+    "543c9c0c-e8f5-59d8-b1e0-22172ace332e",
+    "1aa1e57d-cced-59d2-ac5b-9f3be7be2355",
+    "adbe8575-3c00-53e6-bb98-e86b8d01c7c5",
+    "22a5b128-d4d2-5fad-a60a-162c1d9a3369"
+  ],
+  "contexts": [
+    "(although quite demanding) process offollowing the trait across multiple generations by  tracing its coinheritance with genetic markers (a technique referred to as linkage  mapping). Finding loci responsible for variability in a quantitative trait (quantitative trait  locus mapping, or QTL mapping) is much more difficult, as there are many more sources  of variation to capture. lnbred mouse strains are the optimum starting point for QTL",
+    "Genetic linkage analysis can be used to identify regions of the genome that contain genes that predispose to the observed quantitative trait, leading to iden-tification of QTLs. A significant QTL means that different genotypes at a poly-morphic marker locus are associated with different trait values. Linkage isdetermined by the log of odds (LOD) scores or likelihood ratio statistics (LRS)(seeNote 1 ). To calculate a LOD score or an LRS score for a selected quanti-",
+    "quantitative trait loci in crosses between outbred linesusing least squares. Genetics 136, 11951207. Haseman, J. K. & Elston, R. C. 1972 The investigation of linkage between a quantitative trait and a marker locus.Behav. Genet. 2, 319. Henshall, J. M. & Goddard, M. E. 1999 Multiple trait mapping of quantitative trait loci after selective genotypingusing logistic regression. Genetics 151, 885894. Jansen, R. C. 1993 Interval mapping of multiple quantitative trait loci. Genetics 135, 205211.",
+    "quantitative trait loci in crosses between outbred linesusing least squares. Genetics 136, 11951207. Haseman, J. K. & Elston, R. C. 1972 The investigation of linkage between a quantitative trait and a marker locus.Behav. Genet. 2, 319. Henshall, J. M. & Goddard, M. E. 1999 Multiple trait mapping of quantitative trait loci after selective genotypingusing logistic regression. Genetics 151, 885894. Jansen, R. C. 1993 Interval mapping of multiple quantitative trait loci. Genetics 135, 205211.",
+    "Keywords: quantitative trait loci mapping; regression; structured outbred populations 1. HISTORY The idea of using markers associated with a trait of interest, for example, to predict the performance of individuals in the trait, is not new. Initially, however, the markers used were not identied at the molecular level but rather through the phenotype, for example, coat colour or by the use of simple biochemicalprocedures such as blood groups. An early implemen-",
+    "Keywords: quantitative trait loci mapping; regression; structured outbred populations 1. HISTORY The idea of using markers associated with a trait of interest, for example, to predict the performance of individuals in the trait, is not new. Initially, however, the markers used were not identied at the molecular level but rather through the phenotype, for example, coat colour or by the use of simple biochemicalprocedures such as blood groups. An early implemen-",
+    "tions between markers and phenotype. Once allelic effects at each locus are identified, different techniques can be used to position precise loci (i.e., QTL) influencing the trait. These techniques include marker regression (30), interval mapping (31), and multiple mapping strategies (32). Marker regression locates QTL with respect to all markers simultaneously by regression onto the marker means. It also estimates the additive (and dominance) effects, tests their signif-",
+    "successful in identifying genes for simple traits.  Quantitative trait mapping and genome wide  association studies identify chromosomal regions referred to as quantitative trait loci (QTLs) that  are statistically associated with the trait.  Usually there are several such associations, each on the  order of megabases (Mb) in length containing the usual diversity of single nucleotide  polymorphisms (SNPs), one to two thousand per Mb, and there has been little success identifying",
+    "markers reveal potential gene locations regulating the trait of interest as known as quant itative  trait loci  (QTL s). Historically, this approach has been successful in identifying genes that are  responsible for rare, monogenic bone diseases. More recently, much denser maps of SNP s allow  researchers  to perform genome -wide linkage analysis for  complex trait s like bone phenotypes .  However, several difficulties preventing the discovery of causal genes include genetic",
+    "Quantitative Trait Locus (QTL) analysis, which links  phenotype to loci on chromosomes that likely had an  impact on the phenotype.  Students then are able to sift  through a list of genes in the region(s) of the chromosome  identified by the QT L analysis and find a candidate gene  that has relatively high expression in the brain region of  interest.  Once such a candidate gene is identified,  students can find out more information about the gene,"
+  ],
+  "answer": "The process of finding a genetic marker followed by a quantitative trait loci (QTL) involves several steps:  1. **Linkage Mapping**: The initial step is to trace the trait across multiple generations by examining its coinheritance with genetic markers. This technique is known as linkage mapping [1]. Genetic linkage analysis is used to identify regions of the genome that contain genes predisposing to the observed quantitative trait [2].  2. **Identification of QTLs**: Once regions of interest are identified through linkage mapping, the next step is to pinpoint the loci responsible for variability in the quantitative trait. This process is known as quantitative trait locus mapping or QTL mapping [1]. QTL mapping is more challenging due to the numerous sources of variation that need to be captured [1].  3. **Statistical Analysis**: To determine linkage, statistical methods such as the log of odds (LOD) scores or likelihood ratio statistics (LRS) are used [2]. A significant QTL indicates that different genotypes at a polymorphic marker locus are associated with different trait values [2].  4. **Techniques for Positioning QTLs**: Various techniques can be employed to position precise loci influencing the trait. These include marker regression, interval mapping, and multiple mapping strategies [7]. Marker regression, for instance, locates QTLs with respect to all markers simultaneously by regression onto the marker means and estimates the additive and dominance effects [7].  5. **Genome-Wide Association Studies (GWAS)**: In some cases, genome-wide association studies are conducted to identify chromosomal regions referred to as QTLs that are statistically associated with the trait [8]. These regions often contain a high density of single nucleotide polymorphisms (SNPs) [8].  6. **Candidate Gene Identification**: After identifying the QTL regions, researchers can sift through the list of genes in these regions to find candidate genes that may have a significant impact on the phenotype [10].  By following these steps, researchers can effectively identify genetic markers and subsequently map quantitative trait loci, providing insights into the genetic basis of complex traits.",
+  "question": "Explain the process of finding a genetic marker followed by a quantitative trait loci."
+}

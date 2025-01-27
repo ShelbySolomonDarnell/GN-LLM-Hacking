@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "2011 - Prioritizing candidate disease genes by network-based boosting of genome-wide association data.pdf",
+    "2020 - Insights into pancreatic islet cell dysfunction from type 2 diabetes mellitus genetics..pdf",
+    "2007 - Integrative analysis for finding genes and networks involved in diabetes and other complex diseases.pdf",
+    "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+    "2015 - Biological interpretation of genome-wide association studies using predicted gene functions.pdf",
+    "2011 - Shared Genomics of Type 2 and Gestational Diabetes Mellitus.pdf",
+    "2010 - Common Inherited Variation in Mitochondrial Genes.pdf",
+    "1999 - Linkage of Type 2 Diabetes Mellitus and of Age at Onset to a Genetic Location.pdf",
+    "2019 - Genome-wide association study of type 2 diabetes in Africa.pdf"
+  ],
+  "extraction_id": [
+    "f7fe5916-4f25-5740-8737-f668f216575d",
+    "dffdea93-109e-5114-8795-e0fc66d6d3ed",
+    "f7013243-3e5f-509d-a414-edc4d7f27bc2",
+    "f13b4fee-14f4-5827-9482-3692165c8ce6",
+    "e5a38afd-cb9c-5552-9edd-3e9043d4f30d",
+    "0b09c4c7-a276-517f-a6e1-9388032fe622",
+    "29039cd9-9414-59e9-b97c-14f6f71ec4a2",
+    "8e91b32f-a873-5dc7-927d-52786cc44aa8",
+    "69b05acc-0a98-51de-a69c-1e46ca1c0ba3",
+    "ef39a6c5-9067-59e8-84ab-8b89071510d5"
+  ],
+  "document_id": [
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "db0aa4b3-66ec-5d51-be72-2a1289db944a",
+    "2a386c81-8f24-5993-8e48-0e89d7fb4fec",
+    "b91aeacf-6e83-52ac-beb6-034ad77cab18",
+    "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+    "8f9f62fd-9423-55b3-abf9-24cde0d2e775",
+    "bef0cabe-0bca-5715-9ffc-0b825744fbcf",
+    "9a5c8cba-06cb-5280-871f-1bbe128c3dc4",
+    "631b1f41-1064-5fc1-87f9-8a3c9f24ee9d",
+    "a7e4b6f4-fbb6-5dde-b638-d0d694c8ce87"
+  ],
+  "id": [
+    "chatcmpl-ADYn4g7NCIHEHW87vnQFVH1QRLe6y",
+    "e81d17bd-858c-52b7-8c02-2076e59afe20",
+    "18817608-0557-5acb-a091-9bc4d3640f7e",
+    "65941ce7-c762-5ae5-b1cd-4c62d8caddac",
+    "2e004b17-d266-50d9-be7f-33b523e59e54",
+    "375e0eba-87cf-5081-9f39-da1938e8be9e",
+    "b3455bcd-494e-5288-93ae-2fd761dd4157",
+    "51114ced-f323-57b9-87fb-30094a97642c",
+    "65daaa1d-b4e7-5d6c-aa4f-56b8a88bc1d7",
+    "ec145460-62ed-5375-b1a9-6231f94db4b9",
+    "e633c6eb-1fc6-5430-a324-f652c7f3e082"
+  ],
+  "contexts": [
+    "9.    Ehm MG, Karnoub MC, Sakul H, Gottschalk K,  Holt DC, Weber JL, American Diabetes Association GENNID Study Group. Genetics of NIDDM, et al. Genome wide search for type 2 diabetes susceptibil-ity genes in four American populations. Am J Hum Genet. 2000;66:187181.      10.    McCarthy M, Zeggini E. Genome-wide association  studies in type 2 diabetes. Curr Diab Rep. 2009;9:16471.      11.    Hivert MF, Jablonski KA, Perreault L, Saxena R,",
+    "that from orthologous genes of yeast, worm, and fly. The resulting HumanNet gene network can be accessed through a web interface (http://www.functionalnet.org/humannet). Using this interface, researchers can easily search the network using a set of seedTable 1. Selected top-ranked Crohns disease and type 2 diabetes genes for which network data added support to GWAS evidence, measured as an increase in odds (prior =1.7 for each) Crohns disease",
+    "twins. Diabetologia 30, 763768 (1987). 3. Neel, J. V. in The Genetics of Diabetes Mellitus    (eds W. Creutzfeldt, J. Kbberling, & J. V. Neel) 1-11 (Springer, 1976). 4. International HapMap Consortium, etal. A second generation human haplotype map of over 3.1 million  SNPs. Nature 449, 851861 (2007). 5. Sabeti, P . C. etal. Genome-wide detection and  characterization of positive selection in human  populations. Nature 449, 913918 (2007). 6. Genomes Project, C. etal. A global reference",
+    "Genome Biology  2007, 8:R253Open Access2007Bergholdtet al.Volume 8, Issue 11, Article R253Research Integrative analysis for finding genes and networks involved in  diabetes and other complex diseases Regine Bergholdt*, Zenia M Strling, Kasper Lage, E Olof Karlberg,  Pll  lason, Mogens Aalund, Jrn Nerup*, Sren Brunak,  Christopher T Workman and Flemming Pociot* Addresses: *Steno Diabetes Center, Niels Steensensvej 2, DK-2820 Gentofte, Denmark. Center for Biological Sequence Analysis, Technical",
+    "77. Bergholdt R, Brorsson C, Lage K, Nielsen JH, Brunak S, Pociot F. Expression proling of human genetic and protein interaction networks intype 1 diabetes. PLoS One 2009;4:e6250 78. Bergholdt R, Storling ZM, Lage K, Karlberg EO, Olason PI, Aalund M, Nerup J, Brunak S, Workman CT, Pociot F. Integrative analysis for ndinggenes and networks involved in diabetes and other complex diseases.Genome Biol 2007;8:R253 79. Oresic M, Simell S, Sysi-Aho M, Na nto -Salonen K, Seppa nen-Laakso T,",
+    "31. Saxena, R. et al. Genome-wide association analysis identies loci for type 2 diabetes and triglyceride levels. Science 316, 13311336 (2007). 32. Franke, L. et al. Reconstruction of a functional human gene network, with an application for prioritizing positional candidate genes. Am. J. Hum. Genet. 78, 10111025 (2006). 33. Su, Z., Marchini, J. & Donnelly, P. HAPGEN2: simulation of multiple disease SNPs. Bioinformatics 27,23042305 (2011).",
+    "Genetic exploration of GDM is in its initial stage. The genetics of GDM,  focusing on human association studies with candidate genes common to both T2DM and GDM is elegantly summarized by Robitaille and Grant (2008). The purpose of this chapter is to provide a comprehensive overview to include recent literature on susceptible gene variants that may contribute to both GDM and T2DM.   SEARCH STRATEGIES   A systematic literature search using PubMed was performed to identify stud-",
+    "Human Molecular Genetics 16(1): 3649, 2007). The DiabetesGenetics Initiative (DGI) study was used for the analysis, as we had access to genotype data in this study. The unadjusted gene p-value, P BestSNP g is the association p-value of the best regional SNP for gene g(y-axis in A). Phenotype permutation analysis was used as the gold standard to test goodness of gene score correction as it corrects forall confounders without requiring a priori knowledge of the confounders ( P Gene",
+    "version 2.0: users manual. PGL tech rep 2. Population Ge-netics Laboratory, Department of Genetics, Southwest Foun-dation for Biomedical Research, San Antonio Elbein SC (1997) The genetics of human noninsulin-dependent (type 2) diabetes mellitus. J Nutr 127:1891S1896S Elbein S, Hoffman M, Leppert M, Hasstedt S (1997) Linkage of fasting glucose in relatives of an NIDDM sib pair tomarkers on chromosome 9p. Diabetes 57 Suppl 1:51A Elston RC (1998) Methods of linkage analysisand the as-",
+    "Diabetes Study (DDS): a platform for chronic disease research.Glob Health Epidemiol Genom 1:e2. https://doi.org/10.1017/ gheg.2015.3 17. Genomes Project C, Auton A, Brooks LD et al (2015) A global reference for human genetic variation. Nature 526:68 74 18. Howie BN, Donnelly P, Marchini J (2009) A flexible and accurate genotype imputation method for the next generation of genome-wide association studies. PLoS Genet 5(6):e1000529. https://doi. org/10.1371/journal.pgen.1000529"
+  ],
+  "answer": "To use GeneNetwork to find genes related to diabetes in humans, you can follow these steps:  1. **Access the HumanNet Gene Network**: The HumanNet gene network can be accessed through its web interface at [http://www.functionalnet.org/humannet](http://www.functionalnet.org/humannet) [2].  2. **Search Using Seed Genes**: Once on the HumanNet interface, you can search the network using a set of seed genes. These seed genes can be genes already known to be associated with diabetes or genes you are interested in exploring further [2].  3. **Review Network Data**: The network data can provide additional support to genome-wide association studies (GWAS) evidence. For example, the network data can help measure the increase in odds for certain genes being associated with type 2 diabetes [2].  4. **Integrative Analysis**: You can perform integrative analysis to find genes and networks involved in diabetes. This involves combining data from various sources to identify potential genetic interactions and pathways related to diabetes [4].  By following these steps, you can effectively utilize GeneNetwork to identify and analyze genes related to diabetes in humans.",
+  "question": "How can I use genenetwork to find genes related with diabetes in humans?"
+}

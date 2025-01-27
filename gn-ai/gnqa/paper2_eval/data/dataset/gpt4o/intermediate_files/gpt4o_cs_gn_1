@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2010 - Using expression genetics to study the neurobiology of ethanol and alcoholism.pdf",
+    "2020 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2017 - GeneNetwork a toolbox for systems genetics.pdf",
+    "2010 - Systems genetics analyses predict a transcription role for P2P-R Molecular confirmation that P2P-R is a transcriptional co-repressor.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2020 -Highlights from the Era of Open Source Web-Based Tools.pdf",
+    "2011 - Peroxisomal L-bifunctional enzyme (Ehhadh) is essential for the production of medium-chain dicarboxylic acids.pdf",
+    "2014 - Systems Genetics of Liver Fibrosis Identification of Fibrogenic and Expression Quantitative Trait Loci in the BXD Murine Reference Population.pdf",
+    "2009 - Genetical Toxicogenomics in Drosophila Identifies Master Modulatory Loci that are Regulated by Developmental Exposure to Lead.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "9597c8b3-0d67-5192-9e08-1bccc5e2f75c",
+    "f28836b7-0091-59ff-8d31-2ccad7341718",
+    "f7d5751d-c84d-5332-9dde-f31293ff02e3",
+    "ec624ebb-489a-5437-a721-f01cf981d0a7",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a",
+    "14530ed7-e49e-5a1a-9df6-820c7495a8ce",
+    "a8b40857-7ae8-512a-9817-bea1ae3345ba",
+    "8c423789-3641-5853-9cf3-f4a026ffb446",
+    "3ca48658-ca83-5952-8f8d-eb7ae491e6b6"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "64469ae5-5eb6-5e45-ab23-7bafb63d486f",
+    "d11a87ca-4989-59af-95e3-ab90af7d9212",
+    "682c3a51-0aa5-54a3-a6e7-a09b81c0e8b6",
+    "e4d1e2e9-f267-5814-8c7b-dc11d7eec9bf",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104",
+    "f2f0dc2f-eaf5-57f6-9ffa-816d3fab6640",
+    "ac61753e-bcb2-55c3-804b-e821e3d1a4ad",
+    "125d9cd4-5297-5173-9b16-9073cd3bcc71",
+    "301d6469-2a9c-5960-88ac-8437212d78ab"
+  ],
+  "id": [
+    "chatcmpl-AIGl833nLoD9fbsUoJ9TogtCBZo31",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "d8162fdc-326a-5f90-9fa4-24d86d701184",
+    "91e1f097-b446-5915-9fcb-d38640d8a14a",
+    "488b9f81-e94f-56ad-9f28-dd71f3acd31f",
+    "a9508122-3b14-5365-979c-ba580bdcb78f",
+    "a1124460-ae34-57fb-846b-e033f4bbf49c",
+    "7beda13b-1ea5-53c0-9380-72eee2df79fe",
+    "8b8a24da-a175-5cb8-91bd-8966fca5d344",
+    "1c26e6f6-680b-5877-9600-fee25a42c943",
+    "40ecbff2-5039-57f0-a01e-9d412d559dbe"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "of links to external resources for tracing the interrelationships of a gene among multiple Web-based resources. GeneNetwork also offers a number of correlation and mapping strategies for assessing associations among multiple genes and QTLs. GeneNetwork aims to make the study of complex traits through the use of systems genetics widely available to the scientific community. A powerful tool that can be integrated with GeneNetwork or used on",
+    "inbred strain; Reverse genetics; dbSNP; GeneWeaver; BioGPS; NCBI; GeneRIF; UCSC Genome  Browser; Gemma; GEO; Allen Brain Atlas; GWAS Catalog; GTEx; WebGestalt; PLINK;  Manhattan plot; eQTL analysis; R/qtl; WGCNA; Proteomics; Metabolomics; Metagenomics 1 Introduction GeneNetwork ( www.genenetwork.org , GN) is a web service for systems genetics. It started  in 2001 as WebQTL an online version of Ken Manlys Map Manager QT  program [ 1]",
+    "inbred strain; Reverse genetics; dbSNP; GeneWeaver; BioGPS; NCBI; GeneRIF; UCSC Genome  Browser; Gemma; GEO; Allen Brain Atlas; GWAS Catalog; GTEx; WebGestalt; PLINK;  Manhattan plot; eQTL analysis; R/qtl; WGCNA; Proteomics; Metabolomics; Metagenomics 1 Introduction GeneNetwork ( www.genenetwork.org , GN) is a web service for systems genetics. It started  in 2001 as WebQTL an online version of Ken Manlys Map Manager QT  program [ 1]",
+    "GeneNetwork http://www.genenetwork.org is anexample of a bioinformatics tool that can be used to explore systems genetics data. The importance of defining biological networks and predicting molecular interactions has been emphasized by several reports [1,2]. Such studies emphasize that when knowledge about DNA variation within popula- tions is interfaced with data on gene expression, protein interactions and DNA-protein binding, biological networks can be constructed that are predictive of the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "GeneNetwork.org is also a valuable teaching tool. While mainly designed for researchers interested in testing gene-to- phenotype relationships, GeneNetwork. orghas been adapted for dry-lab teaching in neuroscience and genetics ( Grisham et al., 2017 ). A useful approach is to assign sets of vetted questions, such as the exam- ples discussed above, and to help students work toward answers, solutions, or novelquestions. Several examples relating to the",
+    "subnetworks   GeneNetwork (www.genenetwork.org) is a depository of data- sets and tools for use in complex systems biology approaches in  order to generate or predict higher order gene function ( 23, 24 ).",
+    "GeneNetwork is an open-access database that collates genomic information of diverse experimental crosses and reference panels as well as phenotypic data from miscellaneous research groups [26]. Statistics Data generation, statistical analysis and graph creation were performed with SPSS Statistics 21 (IBM, Ehningen, Germany). As appropriate, mean and median values were further used for QTLanalysis. Phenotypic robustness for each strain was assessed by the",
+    "deposited in the GeneNetwork website (http://www.genenetwork.org) so that other investigators can look for correlations between gene expression patterns and phenotypic traits. The GeneNetwork is an open resource and consists of a set of linked resources for systems genetics. It has been designed for integration of networks of genes, transcripts, and traits such as toxicity, cancer susceptibility, and behavior for several species. Phenotypic QTLs using the"
+  ],
+  "answer": "GeneNetwork.org is a web service for systems genetics that started in 2001 as WebQTL, an online version of Ken Manly's Map Manager QT program [3]. It serves as a depository of datasets and tools for use in complex systems biology approaches to generate or predict higher-order gene function [8]. GeneNetwork.org is an open-access database that collates genomic information from diverse experimental crosses and reference panels, as well as phenotypic data from various research groups [9].  GeneNetwork.org helps scientists understand genetics by providing a platform for systems genetics, which involves the study of complex traits through the integration of networks of genes, transcripts, and traits such as toxicity, cancer susceptibility, and behavior across several species [10]. It offers tools for correlation and mapping strategies to assess associations among multiple genes and quantitative trait loci (QTLs), making the study of complex traits widely available to the scientific community [2]. Additionally, it supports predictive medicine and systems genetics by constantly being maintained and improved with data from multiple species and multi-omics analysis [1].",
+  "question": "What is GeneNetwork.org, and how does it help scientists understand genetics?"
+}

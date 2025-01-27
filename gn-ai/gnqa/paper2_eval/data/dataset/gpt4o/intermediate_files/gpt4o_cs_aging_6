@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Sex Differences in Aging Genomic Instability.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2008 - Telomeres and Aging.pdf",
+    "2018 - Genomic Instabilities, Cellular Senescence, and Aging In Vitro, In Vivo and Aging-Like Human Syndromes.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2016 - Genome Integrity in Aging.pdf",
+    "2018 - Genomic Instabilities, Cellular Senescence, and Aging In Vitro, In Vivo and Aging-Like Human Syndromes.pdf",
+    "2018 - Genomic Instabilities, Cellular Senescence, and Aging In Vitro, In Vivo and Aging-Like Human Syndromes.pdf",
+    "2017 - The Aging Cardiovascular System.pdf"
+  ],
+  "extraction_id": [
+    "396708f1-aa0a-571e-a8d3-7cb8404e9502",
+    "41b98643-1948-519b-8b27-ab0fa4041048",
+    "d4afa45a-5efa-577b-822e-7a82c2f6508d",
+    "55fd2e43-f58e-5d89-8730-7d82d3b6c44f",
+    "016d8de2-949f-511e-a9e1-d2d5fd2bede5",
+    "3b0cb0ab-421d-54d7-9816-c6a2e6f1ac68",
+    "5179130e-5fa6-5979-ba68-270e546e43d7",
+    "9fafad4c-f208-53e0-b2ac-f10569429a5e",
+    "016d8de2-949f-511e-a9e1-d2d5fd2bede5",
+    "82798504-5de9-513c-b3df-09968387cd42"
+  ],
+  "document_id": [
+    "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "61d9c326-d36e-55c1-a891-335dc943e70f",
+    "7de8d462-8a3c-5625-8cbb-374f3bb46425",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "85d5fcbb-5385-5a01-8139-d11fc8b1fe3a",
+    "7de8d462-8a3c-5625-8cbb-374f3bb46425",
+    "7de8d462-8a3c-5625-8cbb-374f3bb46425",
+    "d3ff8471-986b-5fa0-b9c4-96eaaa8fce7c"
+  ],
+  "id": [
+    "chatcmpl-AIFh26X5nul0obtiAeqSkHmHNgJoq",
+    "53508a9e-d064-58a3-a4f9-0785470a1462",
+    "b532d055-ab02-5326-8eb4-67e7277a92b8",
+    "65fb74aa-f3c3-5c80-919f-329169db982f",
+    "ab6a6bda-490d-5b7e-a715-3b9b4f89243f",
+    "80a2162f-6208-5f97-a646-e8803d501f4e",
+    "f181e6da-58b6-5f26-87a2-355e25388673",
+    "6d0cccc5-3ed7-507e-9f7a-6035badacc00",
+    "72b978c7-44fc-530d-a1d2-eaffaf2c8782",
+    "0faa4fb9-efa7-5e92-8fe4-5e28c51dbee4",
+    "b1383516-a23e-5048-9cf3-944b5142e16b"
+  ],
+  "contexts": [
+    "Telomeres are specialized structures that protect the ends of linear chromosomes. They shorten during aging due to the unidirectional activity of DNA polymerase, which leaves a section of DNA unrepli-cated on the lagging strand. Telomeres also are subject to shortening by genotoxic stress, such as oxidative damage (33). Among many eukaryotes, the enzyme telomerase maintains telomere length; but telomerase activity varies over the lifespan and between cell types, tissues, and species (34). In most human",
+    "that shorten their length with progressing age. This shortening of telomeres is the  result of the absence of the activity of an enzyme called telomerase, and in turn it  induces several processes, such as apoptosis, senescence, or oncogenic transforma- tion of somatic cells, affecting the health and lifespan of an individual [42]. Human  telomere shortening has been mostly studied in leukocytes and linked not only to  ageing and life expectancy [43] but also to age-related diseases, including cardio-",
+    "nization may directly affect telomere attrition, resulting in accelerated replicative  senescence and progeroid phenotypes [180]. Telomeres are regions constituted by tandem repeats of non-coding DNA  sequences 5-(TTAGGG)n-3 and a protein complex called shelterin, bound to them.  This structure ensures the stability of the genome and protects the chromosomes  from a wrong action of the DNA repair machinery [184] by allowing the formation  of a chromatin loop called T-Loop [185].",
+    "Telomeres play a central role in cell fate and aging by adjusting the cellular response to stress and growth stimulation on thebasis of previous cell divisions and DNA damage. At least a few hundred nucleotides of telomere repeats must cap eachchromosome end to avoid activation of DNA repair pathways. Repair of critically short or uncapped telomeres by telomeraseor recombination is limited in most somatic cells and apoptosis or cellular senescence is triggered when too many uncappedtelomeres accumulate.",
+    "ing (84). This process is believed to be the trigger for the aging  process, according to the telomere theory (11, 85, 86). It is further  supported by Bodnar etal. who proved that telomere elongation caused by ectopic expression of telomerase avoids the senescence phenotype (87). His work relied on one of the earliest studies  linking telomere shortening to aging which was performed",
+    "telomeres, the repetitive sequence at the end of linear chromosomes, has garnered much attention for its relation to aging. Telomere repeats serve as an internal clock for cycling cells because each round of replication results in the loss of telomeric DNA in the absence of active telomerase (reviewed in [66]). Eventually, this loss over cellular generations culminates in telomere crisis and a permanent state of",
+    "and consequently lose telomeric sequences, thereby limiting the number of cell cycles, which is important for preventing the onset of cancer. Cells perceive critically short telomeres as persistentDNA damage. This activates the DNA damage responses, including cell cycle checkpoints, which ultimately leads to a permanent cell cycle arrest (cellular senescence). Senescence protects from cancer but contributes to the aging process (37).",
+    "When the telomeres shorten, this loop is no longer able to form  and in turn, the epigenetic regulation is changed to activation of the TPE-OLD genes. This happens before the telomeres reach  the critical length that causes activation of DDR, thus leading to  another earlier possible effect of telomere shortening on aging (138, 139). Interestingly, a following study by Kim etal. showed  that one of the TPE-OLD sensitive genes is hTERT, the core reverse transcriptase component of telomerase (140). This is",
+    "to maintain proliferation potential (94). Cells with mutated telomerase exhibited irregular morphology and short telomeres, but these changes did not cause deadly damage and determinate senescence (95). One hypothesis connects aging to telomere  erosion through the transcription of subtelomeric genes. Genes  located in subtelomeric regions are affected by transcriptional silencing which was found to change in an age-related manner.  Kim et al. (96) found that silencing of genes in subtelomeric",
+    "evidence implicates telomere shortening in cellularsenescence. Telomeres consist of repetitive nucleotides e q u e n c e s( T T A G G G )a tt h ee n d so fm a m m a l i a nc h r o -mosomes, that preserve chromosome stability andintegrity by preventing deterioration or fusion withneighboring chromosomes (76) (Central Illustration ).JACC VOL. 69, NO. 15, 2017 Paneni et al . APRIL 18, 2017:1952 67 The Aging Cardiovascular System1957"
+  ],
+  "answer": "Telomeres affect the aging process in several ways:  1. **Telomere Shortening**: Telomeres are specialized structures that protect the ends of linear chromosomes. They shorten during aging due to the unidirectional activity of DNA polymerase, which leaves a section of DNA unreplicated on the lagging strand [1]. This shortening is a natural part of the aging process and is exacerbated by genotoxic stress, such as oxidative damage [1].  2. **Cellular Senescence and Apoptosis**: The shortening of telomeres can induce processes such as apoptosis (programmed cell death) and cellular senescence (a state where cells stop dividing), which affect the health and lifespan of an individual [2]. When telomeres become critically short, they trigger a DNA damage response, leading to cellular senescence or apoptosis [4].  3. **Genome Stability**: Telomeres ensure the stability of the genome and protect chromosomes from incorrect actions by the DNA repair machinery [3]. When telomeres are too short, they can no longer form protective structures, leading to genome instability and potentially contributing to aging [8].  4. **Cancer Prevention**: Short telomeres limit the number of cell cycles, which is important for preventing the onset of cancer. However, this also contributes to the aging process as cells enter a state of permanent cell cycle arrest (senescence) [7].  5. **Telomerase Activity**: The enzyme telomerase can maintain telomere length, but its activity varies over the lifespan and between cell types, tissues, and species [1]. In most human somatic cells, telomerase activity is limited, which contributes to telomere shortening and aging [4].  Overall, telomere shortening acts as a biological clock that limits cellular replication, contributing to aging and age-related diseases [6].",
+  "question": "How do telomeres affect the aging process?"
+}

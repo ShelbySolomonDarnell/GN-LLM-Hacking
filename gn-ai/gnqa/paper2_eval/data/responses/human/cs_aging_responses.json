@@ -1,0 +1,2095 @@
+{
+  "1": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZV87184EnuXO9GIujWS8NC7oWU2",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Here are the studies that include rapamycin:\n\n1. **Yin L, Ye S, Chen Z, Zeng Y (2012)**: \"Rapamycin preconditioning attenuates transient focal cerebral ischemia/reperfusion injury in mice\" [1].\n2. **Spilman P, Podlutskaya N, Hart MJ, Debnath J, Gorostiza O, Bredesen D, Richardson A, Strong R, Galvan V (2010)**: \"Inhibition of mTOR by rapamycin abolishes cognitive deficits and reduces amyloid-beta levels in a mouse model of Alzheimer's disease\" [1].\n3. **Anisimov VN, Zabezhinski MA, Popovich IG, Piskunova TS, Semenchenko AV, Tyndyk ML, Yurova MN, Rosenfeld SV, Blagosklonny MV (2011)**: \"Rapamycin increases lifespan and inhibits spontaneous tumorigenesis in inbred female mice\" [2].\n4. **Lamming DW, Ye L, Katajisto P, Goncalves MD, Saitoh M, Stevens DM, et al. (2012)**: \"Rapamycin-induced insulin resistance is mediated by mTORC2 loss and uncoupled from longevity\" [5].\n5. **Tataranni T, Biondi G, Cariello M, Mangino M, Colucci G, Rutigliano M, et al. (2011)**: \"Rapamycin-induced hypophosphatemia and insulin resistance are associated with mTORC2 activation and klotho expression\" [5].\n6. **Wilkinson JE, Burmeister L, Brooks SV, Chan CC, Friedline S, Harrison DE, et al. (2012)**: \"Rapamycin slows aging in mice\" [7].\n7. **Reihl K, Seals D, Henson G, LaRocca T, Magerko K, Bosshardt G, et al. (2013)**: \"Dietary rapamycin selectively improves arterial function in old mice\" [7].\n8. **Miller RA, Harrison DE, Astle CM, Fernandez E, Flurkey K, Han M, et al. (2014)**: \"Rapamycin-mediated lifespan increase in mice is dose and sex dependent and metabolically distinct from dietary restriction\" [10].\n\nThese references provide a comprehensive list of studies involving rapamycin.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798094,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 508,
+          "prompt_tokens": 1544,
+          "total_tokens": 2052
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "57be0715-77c8-55e3-8239-56e1fa11a543",
+            "score": 0.6735478043556213,
+            "metadata": {
+              "text": "168. Yin L, Ye S, Chen Z, Zeng Y . Rapamycin preconditioning attenuates tran-\nsient focal cerebral ischemia/reperfusion injury in mice. Int J Neurosci. 2012;122:748756. doi: 10.3109/00207454.2012.721827\n 169. Spilman P, Podlutskaya N, Hart MJ, Debnath J, Gorostiza O, Bredesen \nD, Richardson A, Strong R, Galvan V . Inhibition of mTOR by rapamy-cin abolishes cognitive deficits and reduces amyloid-beta levels in a \nmouse model of Alzheimers disease. PLoS One. 2010;5:e9979. doi: \n10.1371/journal.pone.0009979",
+              "title": "2018 -  Mechanisms of Vascular Aging.pdf",
+              "version": "v0",
+              "chunk_order": 262,
+              "document_id": "659b84b6-63dd-5bb1-80ee-7478ed3c47e3",
+              "extraction_id": "3e65812c-453e-53aa-83ab-92f2ce15da29",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "03e62089-fef5-5ed5-bf7f-36ff595fbaea",
+            "score": 0.6702993512153625,
+            "metadata": {
+              "text": "Anisimov VN, Zabezhinski MA, Popovich IG, Piskunova TS,\nSemenchenko AV, Tyndyk ML, Yurova MN, Rosenfeld SV,Blagosklonny MV (2011b) Rapamycin increases lifespan and\ninhibits spontaneous tumorigenesis in inbred female mice. Cell\nCycle 10:42304236\nAugustine JJ, Bodziak KA, Hricik DE (2007) Use of sirolimus in\nsolid organ transplantation. Drugs 67:369391\nBannister CA, Holden SE, Jenkins-Jones S, Morgan CL, Halcox JP,",
+              "title": "2016 - The dog aging project translational geroscience in companion.pdf",
+              "version": "v0",
+              "chunk_order": 81,
+              "document_id": "e841c6bd-78b8-56e1-b3dd-e2bcc8a0f590",
+              "extraction_id": "2c1fcce1-b723-5f9f-8f66-49ed7895f2ac",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "fe5b60e5-ded6-5950-bc1c-72cb39e16234",
+            "score": 0.6631683707237244,
+            "metadata": {
+              "text": "ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT\nmTOR complex 2 (mTORC2), the less clearly identified  and less sensitive to rapamycin. Most information to \ndate on the r ole of mTOR has studied the insulin/nutrient signaling via the mTORC1 and significantly less in \nknown about the role of mTORC2 ( in this review, future references measure either mTORC1 or general mTOR \nactivity )[251]. Earlier this decade studies showed that decreasing TOR signaling, genetically or with rapamycin,",
+              "title": "2015 - Cellular and Molecular Biology of Aging Endothelial Cells.pdf",
+              "version": "v0",
+              "chunk_order": 106,
+              "document_id": "815d7f3e-e219-502f-aba0-57a68ae787d3",
+              "extraction_id": "86f9502b-7a3a-501f-9053-8af1d37043b4",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "d7dcefa4-133c-594c-b8a8-38fe945c6b5c",
+            "score": 0.6623727880494137,
+            "metadata": {
+              "text": "Harrison, D.E., Strong, R., Sharp, Z.D., Nelson, J.F., Astle, C.M., Flurkey, K.,Nadon, N.L., Wilkinson, J.E., Frenkel, K., Carter, C.S., et al. (2009). Rapamycin\nCell148, January 20, 2012 2012 Elsevier Inc. 55",
+              "title": "2012 - Aging, Rejuvenation, and Epigenetic.pdf",
+              "version": "v0",
+              "chunk_order": 139,
+              "document_id": "bde26feb-f423-51b0-89ec-6f079bfc8b17",
+              "extraction_id": "d23b6aab-f299-5370-b3b6-0615112681f0",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "907d7d31-04db-5f66-b390-7740142af182",
+            "score": 0.6617367267608643,
+            "metadata": {
+              "text": "96. Lamming DW, Ye L, Katajisto P, Goncalves MD, Saitoh M, Stevens DM, etal. Rapamycin- \ninduced insulin resistance is mediated by mTORC2 loss and uncoupled from longevity. \nScience. 2012;335:163843.\n 97. Tataranni T, Biondi G, Cariello M, Mangino M, Colucci G, Rutigliano M, etal. Rapamycin- \ninduced hypophosphatemia and insulin resistance are associated with mTORC2 activation \nand klotho expression. Am J Transplant. 2011;11(8):165664.",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 200,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "a47672ed-9f4d-5aa8-8b7e-f10753246a6e",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "40cbc230-7175-522e-b0ae-3901f2cfac0b",
+            "score": 0.6553457975387573,
+            "metadata": {
+              "text": "ing these aspects in future studies on the effects of resveratrol could help to study in \ngreater depth the mechanisms of action of this compound [56].\n Rapamycin\nRapamycin is a macrolide isolated from Streptomyces hygroscopicus, a bacteria \nfrom Pascua Island (Rapa Nui). It has functions as an antibiotic, an immune sup-\npressant drug, and it is also proposed as a CRM.After the first studies, it was found \nthat rapamycin could induce the extension of the replicative life of yeast through the",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 1635,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "42c88d1d-4bb6-50f8-9010-379e15650d96",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "a9666b11-4567-52dd-90c8-be2238dafdcb",
+            "score": 0.6544352769851685,
+            "metadata": {
+              "text": "[257] Wilkinson JE, Burmeister L, Brooks SV, Chan CC, Friedline S, Harrison DE, et al. Rapamycin slows \naging in mi ce. Aging Cell. 2012;11:675 -82. \n[258] Selman C, Tullet JM, Wieser D, Irvine E, Lingard SJ, Choudhury AI, et al. Ribosomal protein S6 kinase 1 \nsignaling regulates mammalian life span. Science. 2009;326:140 -4. \n[259] Reihl K, Seals D, Henson G, LaRocca T, Mag erko K, Bosshardt G, et al. Dietary rapamycin selectively \nimproves arterial function in old mice. FASEB Journal. 2013;27:1194.17.",
+              "title": "2015 - Cellular and Molecular Biology of Aging Endothelial Cells.pdf",
+              "version": "v0",
+              "chunk_order": 255,
+              "document_id": "815d7f3e-e219-502f-aba0-57a68ae787d3",
+              "extraction_id": "0e789eef-b085-5fc2-b10a-8572bc28fa1b",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "729598dc-94e6-5f52-ae19-071c959c7dd2",
+            "score": 0.6458548518505792,
+            "metadata": {
+              "text": "29. Wilkinson JE, Burmeister L, Brooks SV, Chan C-C, Friedline S, Harrison DE,\net al. Rapamycin slows aging in mice. Aging Cell. 2012;11:675 82.\n30. Lamming DW, Ye L, Katajisto P, Goncalves MD, Saitoh M, Stevens DM, et al.\nRapamycin-induced insulin resistance is mediated by mTORC2 loss and\nuncoupled from longevity. Science. 2012;335:1638 43.\n31. Zampieri M, Ciccarone F, Calabrese R, Franceschi C, Brkle A, Caiafa P.\nReconfiguration of DNA methylation in aging. Mech Ageing Dev. 2015;151:60 70.",
+              "title": "2017 - Epigenetic aging signatures in mice livers.pdf",
+              "version": "v0",
+              "chunk_order": 102,
+              "document_id": "b20b11a6-1490-51b8-9218-c441a2e65ba7",
+              "extraction_id": "5d4bf4c1-5bb4-5de6-a1bb-0485163a5373",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "cbc86652-98e1-5464-a0ce-2272111246df",
+            "score": 0.6407976150512695,
+            "metadata": {
+              "text": "files [55, 62]. Of note, rapamycin in particular appears to\ninduce additional changes u nrelated to age-associated\nchanges. While both CR and rapamycin induced these\nnon-age-related effects, this effect was much more marked\nfor rapamycin. These non age-related epigenetic changes\ninclude gains of methylation at genes, enhancers and CpG\nislands and losses of methylation at genes and enhancers.\nConceivably, such non age-related effects of rapamycin in",
+              "title": "2017 - Diverse interventions that extend mouse.pdf",
+              "version": "v0",
+              "chunk_order": 120,
+              "document_id": "dc7ad71a-a4d7-5901-a016-9a6fb2b91a2f",
+              "extraction_id": "d634b92e-0802-5ba8-a4c5-9e45462cd7d5",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          },
+          {
+            "id": "f8630239-fd67-5214-a5cd-f965d878f712",
+            "score": 0.6389273405075073,
+            "metadata": {
+              "text": "23\n 94. Chakrabarti P, English T, Shi J, Smas CM, Kandror KV .Mammalian target of rapamycin \ncomplex 1 suppresses lipolysis, stimulates lipogenesis, and promotes fat storage. Diabetes. \n2010;59:77581.\n 95. Miller RA, Harrison DE, Astle CM, Fernandez E, Flurkey K, Han M, et al. Rapamycin- \nmediated lifespan increase in mice is dose and sex dependent and metabolically distinct from \ndietary restriction. Aging Cell. 2014;13:46877.",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 199,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "a47672ed-9f4d-5aa8-8b7e-f10753246a6e",
+              "associatedQuery": "List as many studies as you can that include rapamycin."
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "2": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVIyiCYn4oPG1At1d3sSBHcOoYZ",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Mapping gene loci that control aging in humans is difficult due to several reasons:\n\n1. **Complexity of the Phenotype**: Aging is a highly complex phenotype influenced by numerous genes and their interactions with environmental factors. This complexity makes it challenging to identify specific genetic loci that control aging [10].\n\n2. **Multiple Pathophysiological Processes**: Multiple genes could mediate the aging process through various pathophysiological processes and diseases, adding layers of complexity to the genetic mapping [6].\n\n3. **Rare vs. Common Variants**: Finding common genetic variants that account for the entire genetic component of human lifespan variability has proven difficult. If rare variants explain most of the genetic variation in aging, new genotyping techniques and analysis methods are required to identify these genes and pathways [3], [4].\n\n4. **High Number of Loci**: There are more than 1000 loci that exhibit age-dependent changes in gene expression. Not all of these loci are causally involved in aging, making it a substantial challenge to sort out which ones are relevant [8].\n\n5. **Species Differences**: Many loci that control aging in model organisms like Drosophila may not have the same effect on human aging. This lack of direct correlation between species complicates the identification of relevant human aging genes [1].\n\n6. **Heritability and Genetic Variation**: While some fraction of human lifespan is heritable, the genetic variation contributing to aging is complex and involves numerous loci associated with age-related traits, further complicating the mapping process [7].\n\nThese factors collectively contribute to the difficulty in mapping gene loci that control aging in humans.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798104,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 330,
+          "prompt_tokens": 1132,
+          "total_tokens": 1462
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "bf384c33-974b-57c3-867d-3515e1d45c49",
+            "score": 0.7372660197457076,
+            "metadata": {
+              "text": "that is differentiated at hundreds of loci. Many ofthe loci that control aging in Drosophila will not have\nthe same effect on human aging. On the other hand,we expect that other loci will work in a parallelmanner in humans. We have no way of knowing a\npriori which group any particular locus will belong\nin. Thus, the individual mutants that increase\nDrosophila lifespan may or may not come from loci",
+              "title": "2002 - Pharmacology, Genomics, and the Evolutionary Biology.pdf",
+              "version": "v0",
+              "chunk_order": 32,
+              "document_id": "1bc636a3-6ce0-5fea-b549-0dae90a78f1b",
+              "extraction_id": "aa03a9d5-4e30-5fb0-bee1-6dd8e6a549b3",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "e0cce1c5-8709-5218-99b6-48a6ba242931",
+            "score": 0.6702067255973816,
+            "metadata": {
+              "text": "effect fundamental mechanisms of aging (14, 16). The drawbacksof such studies include the improbability of picking the right geneto study the myriad of known and unknown genes affecting theprocess of interest (17). The linkage study described heremarkedly improves the efficiency of such association studies bydefining a region likely to contain polymorphism(s) with signif-icant influence on life span.\nAdditional association studies with these families and repli-",
+              "title": "2001 - A genome-wide scan for linkage to human.pdf",
+              "version": "v0",
+              "chunk_order": 40,
+              "document_id": "1431984a-82d9-51d4-a23c-5f76a02ab554",
+              "extraction_id": "17246c43-2e44-579b-867d-3dc7150ceedd",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "62e2bf90-fdb9-5499-a063-cee6c92feb40",
+            "score": 0.6667033433914185,
+            "metadata": {
+              "text": "understanding of molecular mechanisms underlyingthe human ageing process. Like other complexhuman traits, nding common variants that accountfor the entire genetic component of human lifespan\nvariability has proved difcult. If rare variants rather\nthan common variants explain most of the genetic vari-ation in ageing among humans, new genotypingtechniques and new analysis methods must be devel-oped to nd genes and pathways involved in ageing.Next-generation sequencing technologies are faster",
+              "title": "2010 - Genetics and genomics of human ageing.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "633f3149-e966-53ef-aa7d-b759398ed541",
+              "extraction_id": "04babc6e-5138-5804-a150-70254859800d",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "25a0cb1d-0207-5197-9b6a-389b16c1f17e",
+            "score": 0.6667033433914185,
+            "metadata": {
+              "text": "understanding of molecular mechanisms underlyingthe human ageing process. Like other complexhuman traits, nding common variants that accountfor the entire genetic component of human lifespan\nvariability has proved difcult. If rare variants rather\nthan common variants explain most of the genetic vari-ation in ageing among humans, new genotypingtechniques and new analysis methods must be devel-oped to nd genes and pathways involved in ageing.Next-generation sequencing technologies are faster",
+              "title": "2011 - Genetics and genomics of human ageing.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "08eee102-d627-5f1b-84c7-603c38981adf",
+              "extraction_id": "27e291f1-e6bf-5e76-9245-522de74ea63b",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "9f9fef49-0bda-5948-93bd-0f8f43bbefdf",
+            "score": 0.6628791291379672,
+            "metadata": {
+              "text": "Map contains 1119 and 1459 curated human and mouse aginggenes, respectively, covering almost all scales of aging, rangingfrom molecular damage to genetic predisposition. Cross-speciescomparison revealed a modest overlap between known humanand mouse aging genes, suggesting both conservation of core sen-\nescence pathways and fundamental differences in aging between\nmice and humans (Fig. 2E).\nAging-associated genes can alternatively be identified in a",
+              "title": "2023 - A transcriptome-based single-cell biological age model.pdf",
+              "version": "v0",
+              "chunk_order": 32,
+              "document_id": "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+              "extraction_id": "0fd46f00-d3e1-54f4-9395-6c3e8294ed51",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "f1f870c1-b1ed-5eeb-8831-3484d35414b2",
+            "score": 0.6612098611122299,
+            "metadata": {
+              "text": "Several explanations are possible for the lack of genome-\nwide signicant ndings. First, mortality is arguably 1 ofthe most complex phenotypes, and several trajectories to-ward extreme old age have been identied (Evert et al.,2003). Multiple genes could mediate the aging process butwould have their effects through numerous different patho-physiological processes and diseases that act as intermediate",
+              "title": "2011 - A genome-wide association study of aging.pdf",
+              "version": "v0",
+              "chunk_order": 83,
+              "document_id": "8e9c1150-1047-54a2-bf85-1cc5000a6811",
+              "extraction_id": "253a4339-29d4-58c2-8a01-5137d94873b6",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "f6ed1f0c-e4ea-5459-bb63-136decc11eee",
+            "score": 0.6564548015594482,
+            "metadata": {
+              "text": "discover core mechanisms of regulation.ANALYSIS OF HUMAN VARIATION IN\nTHE GENETIC CONTROL OF LONGEVITY\nHeritability studies have convincingly demonstrated that at\nleast some fraction of human lifespan is heritable. In tandem,\nlarge-scale genome-wide association studies (GWAS) have\nidentied numerous loci associated with age-related traits\n(Buniello et al., 2019). While genetic studies have functionally\nshown an inverse eect of multiple age-related, disease-",
+              "title": "2021 - Footprints in the Sand Deep Taxonomic Comparisons in Vertebrate Genomics to Unveil the Genetic Programs of Human Longevity.pdf",
+              "version": "v0",
+              "chunk_order": 13,
+              "document_id": "0dc45abe-ab02-5b07-9916-7093b53323c0",
+              "extraction_id": "34223e0e-590c-5f26-b120-b7250cd91b99",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "86393802-9171-57d8-806d-6d2ccfb3f0b2",
+            "score": 0.65509072870557,
+            "metadata": {
+              "text": "[12]More than 1000\nloci exhibit age-dependent changes in geneexpression (1264 genes). This is a substantialproblem, because not all of these loci will be causally\ninvolved in aging, and there are so many to sort out.\nAn additional application of gene chip technologyis to compare ies with and without a lifespanmodulating physiological treatment. Pletcher et al.",
+              "title": "2002 - Pharmacology, Genomics, and the Evolutionary Biology.pdf",
+              "version": "v0",
+              "chunk_order": 36,
+              "document_id": "1bc636a3-6ce0-5fea-b549-0dae90a78f1b",
+              "extraction_id": "e501662f-ffca-563b-97a7-b682a5d7f6ba",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "45e52016-b6ef-5efb-a9e8-5a88341f3300",
+            "score": 0.6543703881281394,
+            "metadata": {
+              "text": "such alleles. The frequency of genetic variants wastypically compared between highly aged cases andyoung controls, revealing loci at which genetic variantsmay contribute to a higher or lower probability ofsurvival into old age. So far, this approach hasmainly been applied to study single candidate genessuch as the mammalian orthologues of loci in IIS sig-nalling pathways that emerged from lifespan extensionstudies in animal models. An interesting observationthat needs to be taken into human studies is the",
+              "title": "2011 - Genomics of human longevity.pdf",
+              "version": "v0",
+              "chunk_order": 50,
+              "document_id": "2e038219-fdaa-506f-9cd3-51379054130e",
+              "extraction_id": "7b101eb3-7990-5345-b510-c0be15f063a7",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          },
+          {
+            "id": "146229ff-4d17-5319-88e4-6040f30cf0c1",
+            "score": 0.6521352127830751,
+            "metadata": {
+              "text": "Kenyon, 2010; Vellai et al., 2003 ). However, in humans,\ncommon variants within genes involved in these pathways\nhave not been consistently associated with lifespan ( Chris-tensen et al., 2006; Kenyon, 2010; Kuningas et al., 2008;\nVijg and Suh, 2005 ).\nThe lack of success in the identication of genes related\nto aging in humans may be due to the complexity of the\nphenotype. One approach to investigate aging and longevity\nis to compare frequencies of genetic variants between no-",
+              "title": "2011 - A genome-wide association study of aging.pdf",
+              "version": "v0",
+              "chunk_order": 16,
+              "document_id": "8e9c1150-1047-54a2-bf85-1cc5000a6811",
+              "extraction_id": "beab62d0-2e6f-5d77-b0a2-7375a9ed1364",
+              "associatedQuery": "Why is it so diffuclut to map gene loci that control aging in humans?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "3": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVPjiJlVpPgOZJvVtmrRMtG8Eg7",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Apoptosis is a form of programmed cell death that is essential for normal cell turnover and various biological processes [1]. It is characterized by a sequence of well-defined events leading to cell destruction [2]. Apoptosis occurs in a controlled manner, resulting in the elimination of cells by macrophages without causing secondary damage to surrounding cells [3]. This process can be initiated through several pathways, including Bcl-2 activation of caspases, signals from death receptors on the plasma membrane, or induction by granzyme B secreted from cytotoxic T cells [1].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798111,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 114,
+          "prompt_tokens": 1251,
+          "total_tokens": 1365
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "dfd32439-5b44-5e43-a85b-6dd58810b9ed",
+            "score": 0.6858303921424875,
+            "metadata": {
+              "text": "Cell Death\nA form of programmed cell death, apoptosis is necessary for normal cell turnover and is essential to a\nplethora of other biological processes. Apoptosis can be executed via Bcl-2 activation of caspases,\nvia signals from the death receptor on the plasma membrane, or via induction by granzyme Bsecreted from cytotoxic T cells (Tc cells) [ 35]. Endonucleases and proteases are activated by active\ncaspases, eventually leading to the death of the cell. With age, however, apoptotic activity changes.",
+              "title": "2020 - Protecting the Aging Genome.pdf",
+              "version": "v0",
+              "chunk_order": 26,
+              "document_id": "bb774030-2570-5596-b2ab-b8f57ff81086",
+              "extraction_id": "58c6c8e0-734b-539d-8e50-fd3cb02f650e",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "c02a78d4-b932-5d71-b183-8b1965fef470",
+            "score": 0.5970311645232242,
+            "metadata": {
+              "text": "(during development and for maintenance of homeostasis) in multi -cellular \norganism is apoptosis, which is character ized by a  sequence of well -defined \nevents resulting in cell destruction. Dysregulation of apoptosis is responsible for \nmany physiological health problems and diseases; therefore, it is necessary to \nunderstand  the responsible signaling pathways and complex interplay of \ncellularprocesses. Results:   A combined mathematical model of apoptosis",
+              "title": "2013 - Pathways, Networks and Systems Medicine Conferences.pdf",
+              "version": "v0",
+              "chunk_order": 136,
+              "document_id": "b50a9732-7d01-5d4d-8f33-a9d43dbc7df3",
+              "extraction_id": "ee9fd19c-ae3c-5da6-9fcd-264bafc68b55",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "fdfc9b00-1bce-5f6b-b20f-c516c7b5448a",
+            "score": 0.5952137353888919,
+            "metadata": {
+              "text": "is, apoptosis and necrosis. Apoptosis is considered as thedefault pathway, where cell death occurs in a controlledmanner resulting in the elimination of cells by macrophageswithout secondary damage of the surrounding cells. In con-trast, necrosis is considered an uncontrolled process whichleads to disruption of cells promoting tissue inammation[187]. Several transition states between the two pathways",
+              "title": "2012 - Pleiotropic Cellular Functions of PARP1 in Longevity.pdf",
+              "version": "v0",
+              "chunk_order": 125,
+              "document_id": "e67324c0-474b-5280-8cbc-3778c6c0e5f0",
+              "extraction_id": "254dda83-4350-5b57-b6e4-638addaf7ce3",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "2258748b-d21f-577b-a1f8-0ba4f61b6e30",
+            "score": 0.5777220381664026,
+            "metadata": {
+              "text": "tion of cells undergoing apoptosis.   Immunol Today   14:  131  136.   \n   82.     Platt   N,     Silva   RP,   da    Gordon   S    (1998)   Recognizing death: the \nphagocytosis of apoptotic cells.   Trends Cell Biol   8:  365  372.   \n   83.     Giles   KM,     Hart   SP,     Haslett   C,     Rossi   AG,     Dransfield   I    (2000) \n  An appetite for apoptotic cells? Controversies and challenges. \n  Br J Haematol   109:  1  12.",
+              "title": "2008 - Biotools for Determining the Genetics of Susceptibility to Infectious Diseases.pdf",
+              "version": "v0",
+              "chunk_order": 421,
+              "document_id": "fcbbb3ce-6524-50e3-9f8d-c191dc551231",
+              "extraction_id": "30fc6495-2cc4-5c3a-9d49-555478243db1",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "de267316-5a20-5a54-b22f-30c8e0bf426e",
+            "score": 0.5777220381664026,
+            "metadata": {
+              "text": "tion of cells undergoing apoptosis.   Immunol Today   14:  131  136.   \n   82.     Platt   N,     Silva   RP,   da    Gordon   S    (1998)   Recognizing death: the \nphagocytosis of apoptotic cells.   Trends Cell Biol   8:  365  372.   \n   83.     Giles   KM,     Hart   SP,     Haslett   C,     Rossi   AG,     Dransfield   I    (2000) \n  An appetite for apoptotic cells? Controversies and challenges. \n  Br J Haematol   109:  1  12.",
+              "title": "2008 - (Infectious Disease) Karl A. Western (auth.), Vassil St. Georgiev PhD, Karl A. Western MD, John J. McGowan PhD (eds.) - National Institute of Allergy and Infectious Diseases, NIH_ Frontiers in Researc (3).pdf",
+              "version": "v0",
+              "chunk_order": 421,
+              "document_id": "4db8c752-c8e2-5f6d-a091-dc4f1d0c48bc",
+              "extraction_id": "630a9f0d-d04f-581b-a9a0-3d2de4fff6fe",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "31910427-870d-5c8c-846f-d355211c632a",
+            "score": 0.5737444670504966,
+            "metadata": {
+              "text": "the induc-tion of apoptosis.",
+              "title": "1999 - The NOD mouse model of type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 26,
+              "document_id": "cc139813-6771-5434-b948-381291c86509",
+              "extraction_id": "4c08454a-1c63-52e3-b382-0a33cd46b523",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "ee2ce54b-850a-5d36-8781-f8b23585f97d",
+            "score": 0.568428295535751,
+            "metadata": {
+              "text": "to cancer , b ut probably not rele v ant to the i ntrinsic aging process i n yeast.\nApoptosis\nCell suicide, or apoptosis, i s a well-studied biological phenomenon in multicellular\nor g anisms t hat allo ws specic cells to be remo v e d during t he de v e lopment of com-\nple x tissues, o r potentially dangerous damaged cells to be destro yed for t he benetof the w hole o r g anism. T he lack of an apparent e v olutionary benet for s uch a p ro-",
+              "title": "2012 - Genome-Wide Analysis of Yeast Aging.pdf",
+              "version": "v0",
+              "chunk_order": 77,
+              "document_id": "cf24db9a-e013-5780-8b0f-369c56143f29",
+              "extraction_id": "5436985c-1a11-544d-b935-fe68ee75a956",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "c48f36fa-a9c7-5b9c-a7d1-26850026f3a3",
+            "score": 0.5637171696508797,
+            "metadata": {
+              "text": "15Apoptosis is caused by the activation of the caspase cascade, which isinitiated by two signaling routes (stress-induced death and death-domainreceptor-induced death) (Domen 2001). This process can be prevented by anti-apoptotic molecules, such as Bcl-2 (Domen and Weissman 2000). Directevidence for the involvement of apoptosis in HSC number regulation came fromthe findings that overexpression of the anti-apoptotic gene bcl-2 led to increasednumbers of Thy-1.1low, Sca-1+, c-kit+, Lin- cells, a population",
+              "title": "2005 -Liang- GENETIC REGULATION OF HEMATOPOIETIC STEM CELL NUMBERS IN MICE.pdf",
+              "version": "v0",
+              "chunk_order": 89,
+              "document_id": "6f3d464d-8df0-560e-b579-942810e1107c",
+              "extraction_id": "20ef68d8-5bd7-5ed1-937f-4be14c6ce1b0",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "3a15c325-3b6e-54ff-a58a-0e61631ed073",
+            "score": 0.5636914632504316,
+            "metadata": {
+              "text": "15Apoptosis is caused by the activation of the caspase cascade, which isinitiated by two signaling routes (stress-induced death and death-domainreceptor-induced death) (Domen 2001). This process can be prevented by anti-apoptotic molecules, such as Bcl-2 (Domen and Weissman 2000). Directevidence for the involvement of apoptosis in HSC number regulation came fromthe findings that overexpression of the anti-apoptotic gene bcl-2 led to increasednumbers of Thy-1.1low, Sca-1+, c-kit+, Lin- cells, a population",
+              "title": "2005 - GENETIC REGULATION OF HEMATOPOIETIC STEM CELL NUMBERS IN MICE.pdf",
+              "version": "v0",
+              "chunk_order": 89,
+              "document_id": "815a8b4a-6902-5bb9-87e0-563e1ba7a38a",
+              "extraction_id": "70332eb3-8348-53b6-abd6-724515f363db",
+              "associatedQuery": "What is apoptosis?"
+            }
+          },
+          {
+            "id": "fe4906aa-37b1-5514-962c-1e8dc5b2fb13",
+            "score": 0.5506025224564965,
+            "metadata": {
+              "text": "Apoptosis modulating genesApopotosis or programmed cell death is associated withalterations in cell morphology, particularly the nucleus, withendonucleatytic cleavage of DNA into nucleosomal lengthfragments.Apoptosis may resultfrom withdrawalofgrowth signals.Fas, a transmembrane protein of the nerve growth factor/tumor necrosis factor receptor family signals apoptotic de-ath signals apoptotic death in some cell types. Fas but notbel-2 gene expression is negatively regulated by TSH (Ka-wakami et al., 1996),",
+              "title": "2006 - Molecular pathogenesis of thyroid cancer the significance.pdf",
+              "version": "v0",
+              "chunk_order": 112,
+              "document_id": "d05e3aba-f8c1-5c5c-afff-679fa14b9a16",
+              "extraction_id": "48a746ad-a07a-5c53-89dc-3c2768900f0d",
+              "associatedQuery": "What is apoptosis?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "4": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVSukRfQ2bwSsJtuTxllhMDtRvP",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Several genes are involved in the aging process, as identified in the provided context:\n\n1. **APOE**: This gene is involved in lipoprotein metabolism and is one of the candidate genes related to longevity [2].\n2. **Genes involved in cell cycle regulation, cell growth, and signal transduction**: These genes play a role in maintaining genome stability and are implicated in the aging process [2].\n3. **Genes involved in DNA repair and chromatin remodeling**: These genes are down-regulated during aging, indicating their involvement in the aging process [3], [7].\n4. **Genes inducing apoptosis**: These genes are also associated with the aging process [4].\n5. **Werners syndrome gene**: Mutations in this gene result in segmental progeroid syndromes, which are related to aging [5].\n6. **Genes in the insulin/insulin-like signaling pathway**: These genes are critical in pathways previously related to aging [5].\n7. **Genes driving cellular senescence**: These genes tend to be overexpressed with age in human tissues and are significantly overrepresented in anti-longevity and tumor-suppressor genes [6].\n\nThese genes collectively contribute to various aspects of the aging process, including genomic stability, cellular senescence, and response to oxidative stress.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798114,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 268,
+          "prompt_tokens": 947,
+          "total_tokens": 1215
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6f04401a-b938-5a60-8b69-d37f9086748c",
+            "score": 0.7477934059850475,
+            "metadata": {
+              "text": "OTHER AGING RELATED GENES",
+              "title": "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+              "extraction_id": "81c68113-aa96-5af3-b4fc-5898fa20e379",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "02b405a4-71d7-5b85-9138-8a97c537601c",
+            "score": 0.7414911014286015,
+            "metadata": {
+              "text": "ation of the process of aging.\nStudies revealed from 300 to 750 genes related to longev-\nity that are critically involved in a variety of life activities,\nsuch as growth and developme nt, energy metabolism, oxi-\ndative stress, genomic stability maintenance, and neurocog-\nnition [ 4]. These candidate genes include mainly APOE, a\ngene involved in lipoprotein metabolism [ 5,6]. Others are\nthose involved in cell cycle regulation, cell growth and\nsignal transduction, the maintenance of genome stability,",
+              "title": "2020 - Whole-genome sequencing of Chinese.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "9ac921c7-3991-579b-bd53-7966b91e3aae",
+              "extraction_id": "0d3deffe-1f4d-5a6b-9acb-56d56141ad60",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "8f8848f4-d5fb-5f8c-a6b1-0f965f2abbc6",
+            "score": 0.7323743323199255,
+            "metadata": {
+              "text": "down-regulated during aging were genes involved in DNA repair and chromatin remodelling.\n55 While these studies revealed thousands of age-regulated genes, \nthe ultimate causes of these expression perturbations remain unknown. Analyzing age-dependent gene expression changes using multi-dimensional genetical genomics could bring the identification of genes causing the age-induced alterations  and thereby future therapeutic intervention strategies  one step \ncloser. \nAdding the dimension of epigenetics",
+              "title": "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf",
+              "version": "v0",
+              "chunk_order": 177,
+              "document_id": "6f250b15-61b3-57ed-8900-5aa4a173fa8c",
+              "extraction_id": "2b1a11ea-1574-5df6-b73a-a34052098751",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "b58deffd-3cd3-5b7b-893d-b9cfc880830b",
+            "score": 0.7276881554033806,
+            "metadata": {
+              "text": "dam-age, as well as genes involved in inducing apoptosis (10, 11). Theaging process is also accompanied by changes in the expressionpatterns of a number of genes (1214). How the regulation ofgene expression in aging correlates with that in response tooxidative stress, however, is understood poorly.",
+              "title": "2000 - Genome-wide study of aging and oxidative stress.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "3fc2266c-d677-54f9-b3a2-5129eedf214a",
+              "extraction_id": "ac5d00c0-f445-5c6a-b248-12c82c985d9a",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+            "score": 0.7270789363109752,
+            "metadata": {
+              "text": "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes  \net \n  \nal \n., 2005a). The",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "61baeaa5-d65a-54b5-bfee-9bab8bbf1985",
+            "score": 0.7248407386290836,
+            "metadata": {
+              "text": "genes driving cellular senescence, and perform various integrative analyses. Genes inducing cellular senescence\ntend to be overexpressed with age in human tissues and are significantly overrepresented in anti-longevity and\ntumor-suppressor genes, while genes inhibiting cellular senescence overlap with pro-longevity and oncogenes.\nFurthermore, cellular senescence genes are strongly conserved in mammals but not in invertebrates. We also build",
+              "title": "2020 - A multidimensional systems biology.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3",
+              "extraction_id": "9d1656aa-32d2-5094-8232-4817655b1cbd",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "2eb33321-d0fe-5fc4-aab0-7184f2b397e0",
+            "score": 0.7243754647858331,
+            "metadata": {
+              "text": "those down-regulated during aging were genes involved in\nDNA repair and chromatin remodelling (Chambers et al.\n2007b ). While these studies revealed thousands of age-\nregulated genes, the ultimate causes of these expressionperturbations remain unknown. Analyzing age-dependent\ngene expression changes using multidimensional genetical\ngenomics could bring the identification of genes causingthe age-induced alterations and thereby future therapeutic\nintervention strategies one step closer.",
+              "title": "2008 - Combining transcriptional profiling and genetic linkage analysis to uncover gene networks operating in hematopoietic stem cells and their progeny.pdf",
+              "version": "v0",
+              "chunk_order": 81,
+              "document_id": "af6e0103-849d-542f-bca7-0251082bc0b3",
+              "extraction_id": "bf7b1e3c-bb4f-5a88-9167-a8c3b90cd68a",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "b719fbc0-94e4-5df0-abb7-0d13fc36214c",
+            "score": 0.7232905410739647,
+            "metadata": {
+              "text": "lar signatures of mammalian aging. Some of the genes",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 113,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "413f8f54-b5cc-5089-9f5c-d9e3b8bcf594",
+            "score": 0.7225508474543467,
+            "metadata": {
+              "text": "overexpressed with age seem to be a response to aging,in that they have been previously found to have protec-tive functions (de Magalha es et al., 2009b). As such,these genes may help organisms manage aging andcould be targets for manipulation. Likewise, gene ex-pression analysis of CR has been conducted to identifyassociated genes (Lee et al., 1999, 2000). A number ofmolecular signatures have emerged from such studiesthat could be useful to identify candidate processes andpathways that affect aging,",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 114,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          },
+          {
+            "id": "3c369292-4b9c-5156-a80f-4b3301026f30",
+            "score": 0.7214258528180678,
+            "metadata": {
+              "text": "al., 2009; Stanfel et al., 2009). Many of these genesmodulate the response to environmental signals, such asfood availability, and act in signaling pathways that ifunderstood can be targeted (Fig. 1). The genetic regula-tion of aging is therefore an emerging field with multipleapplications in the human nutrition, cosmetic, and phar-maceutical industries.\nAGING GENES AS TARGETS FOR DRUG DISCOVERY 91",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 67,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+              "associatedQuery": "which genes are involved in the aging process"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "5": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVYj6XpaNI2z12sJiqcMEMc2C8W",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The aging process is caused by several factors, including:\n\n1. **Accumulated Damage**: Age-related decline results from damaging by-products of metabolism and/or inefficient repair mechanisms, leading to damage that accumulates throughout the lifespan [2].\n2. **Mutation Accumulation**: A process of mutation accumulation in somatic cells, although no specific mechanism has been proposed for how this leads to the multitude of degenerative processes that comprise aging [3].\n3. **Free Radicals and Oxidative Stress**: The theory of free radicals suggests that aging results from inadequate protection against cell and tissue damage by free radicals and oxidative stress throughout life [4].\n4. **Wear-and-Tear**: The wear-and-tear theory posits that cumulative damage from the continuous functioning of vital processes leads to aging and death due to stochastic errors gradually arising [4].\n5. **Cell Senescence and Death Pathways**: Cell senescence and cell death pathways are major causes of aging phenotypes, such as organ atrophy, which appear to be pre-programmed responses of a sizable fraction of the cell population [6].\n6. **Accumulated Defects in Function**: Progressive changes in a cell or organism lead to accumulated defects in function, resulting in system failure and death [8].\n7. **Loss of Genomic Stability**: Loss of genomic stability due to reduced DNA repair capacities, loss of proliferative potential caused by increased senescence, and age-related alterations in DNA-methylation patterns that affect cellular plasticity [9].\n\nThese factors collectively contribute to the aging process and the associated decline in physiological functions.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798120,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_a5d11b2ef2",
+        "usage": {
+          "completion_tokens": 324,
+          "prompt_tokens": 867,
+          "total_tokens": 1191
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "b008df20-7a1c-5cee-9d71-a9758492b256",
+            "score": 0.6362544487790602,
+            "metadata": {
+              "text": "in the aging process.",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 144,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "ac2b646d-b25b-55d2-b1f9-1180a7f0b7bf",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "7e3dbd4f-cc54-549c-b7f2-d7a57b176185",
+            "score": 0.6250870600394642,
+            "metadata": {
+              "text": "age-related decline results from damaging by-products of metabolism and/or inefficient repairmechanisms (27, 32). According to this view, dam-agewhich can take on many formsaccumu-lates throughout the life span (38). The exponentialincrease in mortality and the functional declinethat characterize aging, however, only begin aftersexual maturity, whether this occurs at age 13, as inhumans, age 5, as in monkeys, or at less than 2months, as in mice. Therefore, one alternative viewis that aging is perhaps",
+              "title": "2005 - Genomes Optimize Reproduction Aging as a Consequence of the Developmental Program.pdf",
+              "version": "v0",
+              "chunk_order": 9,
+              "document_id": "94d264da-5e72-5eb9-9fd9-a81ac2b91b77",
+              "extraction_id": "dd3d8efb-1ce0-532e-9c77-caccb0820944",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "b4eea796-bb34-591b-8873-b6d8b773d24f",
+            "score": 0.6100170794134464,
+            "metadata": {
+              "text": "of a pro-cess of mutation accumulation in somatic cells. While im-plicated as a general cause of aging, no specic mecha-nism has been proposed as to how mutation accumulationcould ever lead to the multitude of degenerative processesthat comprise aging. We have now demonstrated that alarge variety of mutations accumulate with age at greatlydifferent rates in a tissue-specic manner. More recentlywe have shown that while some organs, such as brain, donot seem to accumulate mutations with age at all,",
+              "title": "2007 - Genome Dynamics and Transcriptional Deregulation.pdf",
+              "version": "v0",
+              "chunk_order": 52,
+              "document_id": "296e3322-a519-5e4f-b955-8cc03c68e78f",
+              "extraction_id": "e9cec19b-9005-57e0-991e-c8b0125040df",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "1b4ba691-cd5b-52dd-9b50-ac404c6559cd",
+            "score": 0.6099746045477831,
+            "metadata": {
+              "text": "this process between proteins and other macromolecules responsible for ageing, \nwhile the theory of free radicals suggests that ageing is the result of inadequate pro-\ntection against cell and tissue damage by free radicals and oxidative stress through-\nout life. Finally, the wear-and-tear theory poses that the cumulative damage that \neventually leads to ageing and death is, in fact, the result of the continuous function-\ning of vital processes, during which stochastic errors gradually arise.",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 1715,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "65bc0695-ec07-50fa-83c7-f36763dc96db",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "37d5273c-5359-598a-ae9a-eb407314774b",
+            "score": 0.6094341045280758,
+            "metadata": {
+              "text": "Many mechanistic theories of aging argue that",
+              "title": "2005 - Genomes Optimize Reproduction Aging as a Consequence of the Developmental Program.pdf",
+              "version": "v0",
+              "chunk_order": 8,
+              "document_id": "94d264da-5e72-5eb9-9fd9-a81ac2b91b77",
+              "extraction_id": "dd3d8efb-1ce0-532e-9c77-caccb0820944",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "1acd92f0-07a2-53ac-86d8-2195a37e8cab",
+            "score": 0.6070382775973763,
+            "metadata": {
+              "text": "cell senescence and cell death pathways, are a major cause of aging pheno-types, such as organ atrophy. This would appear to be a pre-programmed\ncause of aging, since it is a consistent response of a sizable fraction of the cell\npopulation. However, cellular responses to damage are unlikely to be the onlyexplanation for aging, since even very old organisms still appear to have am-ple tissue capacity left to function optimally.",
+              "title": "2005 - Aging and Genome Maintenance.pdf",
+              "version": "v0",
+              "chunk_order": 65,
+              "document_id": "ecf53e34-4491-5db1-ad37-304671799179",
+              "extraction_id": "05fb83b5-b589-565f-89fa-c7a2fe1ec048",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "228391ea-b709-5d78-96d7-c480802f5cbc",
+            "score": 0.6060142462862357,
+            "metadata": {
+              "text": "function during aging.",
+              "title": "2001 - The genetics of aging.pdf",
+              "version": "v0",
+              "chunk_order": 93,
+              "document_id": "aa9a9193-b6f3-5ef8-aefd-e01ec44abb46",
+              "extraction_id": "3f6cd069-806a-513a-a5bf-e547fd1e9737",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "1f14235a-ae99-58f9-8f39-a6dd29c2f676",
+            "score": 0.6046589197116771,
+            "metadata": {
+              "text": "INTRODUCTION \n \nThe aging process represents progressive changes in a \ncell or an organism which culminate in death due to accumulated defects in function leading to system failure [1].  These defe cts result in part from \naccumulated damage to DNA.  Such damage may result     \nwww.impactaging.com AGING, January 2009, Vol. 1. No 1\n Review",
+              "title": "2009 - Genomic instability and DNA damage responses in progeria arising.pdf",
+              "version": "v0",
+              "chunk_order": 0,
+              "document_id": "b7d96f9f-8ad4-5f8f-94f9-60404806d478",
+              "extraction_id": "02f84d0b-eb00-5252-a647-b2b042f1f7a9",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "c5c49956-fdf4-5aef-8852-2c6d14fd05b4",
+            "score": 0.6045615257192115,
+            "metadata": {
+              "text": "that induce complex molecular changes and, in turn, a\ndeterioration of cellular structures and function. These\nchanges are major causes of age-related diseases like\ncancer or cardiovascular disorders [1, 2]. The main mo-\nlecular adaptations occurring during aging are loss ofgenomic stability due to reduced DNA repair capacities\n[3], loss of proliferative potential caused by increased\nsenescence [1, 4], and age-related alterations in the\nDNA-methylation patterns that affect cellular plasticity",
+              "title": "2017 - An integrative metabolomics.pdf",
+              "version": "v0",
+              "chunk_order": 5,
+              "document_id": "cb0831f4-540a-5620-b69e-03d6127f84e5",
+              "extraction_id": "af201c05-daed-5cba-abc8-e714483e602f",
+              "associatedQuery": "what causes the aging process"
+            }
+          },
+          {
+            "id": "2d467a17-2367-5736-b0dd-20239f85cfa2",
+            "score": 0.6023214638925037,
+            "metadata": {
+              "text": "cause in turn metabolic and cognitive alterations, resulting in increasing vulnerabil-\nity to environmental challenge and a growing risk for disease and death [1]. Since \naging comprises the greatest risk factor for a variety of chronic diseases, includ-\ning cancer, cardiovascular disorders, and neurodegenerative diseases [2], one of the \ngoals of biomedical research is to decipher the molecular mechanism underlying \naging, which in turn might facilitate the development of treatments aimed at delay-",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 1302,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "af6e2449-9591-51e8-bd8a-4f6eab30843e",
+              "associatedQuery": "what causes the aging process"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "6": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVfJ7vrTDhDZNUBDMrr0RnqmSWE",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Several genes are involved in the aging process, as identified in various studies:\n\n1. **APOE**: This gene is involved in lipoprotein metabolism and is critically related to longevity [4].\n2. **Superoxide dismutase**: A free-radical scavenger gene that has been shown to increase lifespan in model organisms [8].\n3. **Methuselah**: A potential G protein-coupled receptor gene in *Drosophila melanogaster* associated with increased lifespan [8].\n4. **p66shc**: An oxidative stress-response gene involved in aging [8].\n5. **Insulin/IGF1/GH pathway genes**: These genes are part of a pathway that affects longevity across different model organisms [5].\n6. **Genes involved in DNA repair and chromatin remodeling**: These genes are down-regulated during aging [7].\n7. **Genes associated with cellular senescence**: These include genes that induce or inhibit cellular senescence, which are overexpressed with age and are linked to anti-longevity and tumor-suppressor functions [2].\n\nAdditionally, studies have identified between 300 to 750 genes related to longevity that are involved in various life activities such as growth, development, energy metabolism, oxidative stress, genomic stability maintenance, and neurocognition [4].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798127,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 273,
+          "prompt_tokens": 1100,
+          "total_tokens": 1373
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6f04401a-b938-5a60-8b69-d37f9086748c",
+            "score": 0.7616355504067764,
+            "metadata": {
+              "text": "OTHER AGING RELATED GENES",
+              "title": "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+              "extraction_id": "81c68113-aa96-5af3-b4fc-5898fa20e379",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "61baeaa5-d65a-54b5-bfee-9bab8bbf1985",
+            "score": 0.7457233222887933,
+            "metadata": {
+              "text": "genes driving cellular senescence, and perform various integrative analyses. Genes inducing cellular senescence\ntend to be overexpressed with age in human tissues and are significantly overrepresented in anti-longevity and\ntumor-suppressor genes, while genes inhibiting cellular senescence overlap with pro-longevity and oncogenes.\nFurthermore, cellular senescence genes are strongly conserved in mammals but not in invertebrates. We also build",
+              "title": "2020 - A multidimensional systems biology.pdf",
+              "version": "v0",
+              "chunk_order": 2,
+              "document_id": "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3",
+              "extraction_id": "9d1656aa-32d2-5094-8232-4817655b1cbd",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "b719fbc0-94e4-5df0-abb7-0d13fc36214c",
+            "score": 0.738265887602218,
+            "metadata": {
+              "text": "lar signatures of mammalian aging. Some of the genes",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 113,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "02b405a4-71d7-5b85-9138-8a97c537601c",
+            "score": 0.7364524602890015,
+            "metadata": {
+              "text": "ation of the process of aging.\nStudies revealed from 300 to 750 genes related to longev-\nity that are critically involved in a variety of life activities,\nsuch as growth and developme nt, energy metabolism, oxi-\ndative stress, genomic stability maintenance, and neurocog-\nnition [ 4]. These candidate genes include mainly APOE, a\ngene involved in lipoprotein metabolism [ 5,6]. Others are\nthose involved in cell cycle regulation, cell growth and\nsignal transduction, the maintenance of genome stability,",
+              "title": "2020 - Whole-genome sequencing of Chinese.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "9ac921c7-3991-579b-bd53-7966b91e3aae",
+              "extraction_id": "0d3deffe-1f4d-5a6b-9acb-56d56141ad60",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "4d6876c5-9226-587c-8d3e-d4957ee42dba",
+            "score": 0.7354983687400818,
+            "metadata": {
+              "text": "genes (http://genomics.senescence.info/genes/), more than700 genes have been identified that regulate lifespan inmodel organisms (de Magalha es et al., 2009a). Many ofthese genes and their associated pathwayssuch as theinsulin/IGF1/GH pathwayhave been shown to affect lon-gevity across different model organisms (Kenyon, 2010).Therefore, at least some mechanisms of aging are evolu-tionarily conserved and may have potential therapeuticapplications (Baur et al., 2006). For example, evidencesuggests the use of",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 65,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+            "score": 0.7332930564880371,
+            "metadata": {
+              "text": "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes  \net \n  \nal \n., 2005a). The",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "8f8848f4-d5fb-5f8c-a6b1-0f965f2abbc6",
+            "score": 0.7300341129302979,
+            "metadata": {
+              "text": "down-regulated during aging were genes involved in DNA repair and chromatin remodelling.\n55 While these studies revealed thousands of age-regulated genes, \nthe ultimate causes of these expression perturbations remain unknown. Analyzing age-dependent gene expression changes using multi-dimensional genetical genomics could bring the identification of genes causing the age-induced alterations  and thereby future therapeutic intervention strategies  one step \ncloser. \nAdding the dimension of epigenetics",
+              "title": "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf",
+              "version": "v0",
+              "chunk_order": 177,
+              "document_id": "6f250b15-61b3-57ed-8900-5aa4a173fa8c",
+              "extraction_id": "2b1a11ea-1574-5df6-b73a-a34052098751",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "43abb9e9-5ffb-58d8-b5b9-251c50c1283d",
+            "score": 0.7252909161237159,
+            "metadata": {
+              "text": "Aging is a biological process universal to eukaryotic organ-\nisms, and its underlying mechanisms are under intensive\nstudy. Genetic analyses of yeast, nematode, fly, and mouse haveuncovered a number of genes, whether mutated or misexpressed,that would increase the lifespans of these organisms (1). These\ngenes include superoxide dismutase , a free-radical scavenger;\nmethuselah , a potential G protein-coupled receptor, in Drosoph-\nila melanogaster ; and p66\nshc, an oxidative stress-response gene, in",
+              "title": "2000 - Genome-wide study of aging and oxidative stress.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "3fc2266c-d677-54f9-b3a2-5129eedf214a",
+              "extraction_id": "ac5d00c0-f445-5c6a-b248-12c82c985d9a",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "bf2cd208-273f-5848-b243-df8b95ea7833",
+            "score": 0.7239436671767446,
+            "metadata": {
+              "text": "The multifactorial and temporal features of aging can beanalyzed efficiently by genome-wide transcriptional profiling,which has been conducted in various model organisms and hu-mans (Melov and Hubbard 2004). Aging is associated with alter-ations in transcript levels of many genes, including those in-volved in evolutionarily conserved mitochondrial and protea-somal functions (McCarroll et al. 2004), some of which havebeen shown to be directly involved in regulating lifespan in C.",
+              "title": "2007 - Temporal and spatial transcriptional profiles.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "38f27ec7-08bf-5397-b2b8-bde95e0dc3f8",
+              "extraction_id": "2e42619b-d0b2-5d33-aab8-6f04002ee807",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          },
+          {
+            "id": "9430a0cd-5e05-536b-9d47-5b0b0674df5d",
+            "score": 0.7226124240525035,
+            "metadata": {
+              "text": "5. Jiang CH, Tsien JZ, Schultz PG, Hu Y (2001) The effects of aging on gene\nexpression in the hypothalamus and cortex of mice. Proc Natl Acad Sci U S A\n98: 19301934.\n6. Lu T, Pan Y, Kao SY, Li C, Kohane I, et al. (2004) Gene regulation and DNA\ndamage in the ageing human brain. Nature 429: 883891.\n7. Fraser HB, Khaitovich P, Plotkin JB, Paabo S, Eisen MB (2005) Aging and gene\nexpression in the primate brain. PLoS Biol 3: e274.\n8. Zahn JM, Poosala S, Owen AB, Ingram DK, Lustig A, et al. (2007) AGEMAP: a",
+              "title": "2008 - Evolution of the Aging Brain Transcriptome and Synaptic.pdf",
+              "version": "v0",
+              "chunk_order": 129,
+              "document_id": "cf413489-3986-5a5f-925d-58f94fa57428",
+              "extraction_id": "bab54a5c-0b3c-5c5b-9b2b-5e7a67492a9c",
+              "associatedQuery": "which genes are involved in aging"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "7": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVlFDc0TCB7W4npOF5tI5Kq0cCy",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Several genes are involved in the aging process, each playing a role in various biological activities and pathways. Key genes and their associated functions include:\n\n1. **APOE**: Involved in lipoprotein metabolism [2].\n2. **Superoxide dismutase**: A free-radical scavenger [8].\n3. **Methuselah**: A potential G protein-coupled receptor in *Drosophila melanogaster* [8].\n4. **p66shc**: An oxidative stress-response gene [8].\n5. **Genes involved in DNA repair and chromatin remodeling**: These genes are down-regulated during aging [3], [10].\n6. **Genes involved in cell cycle regulation, cell growth, and signal transduction**: These genes help maintain genome stability [2].\n7. **Genes involved in inducing apoptosis**: These genes are associated with damage response [5].\n8. **Genes in the insulin/insulin-like signaling pathway**: Critical in pathways previously related to aging [4].\n\nThese genes collectively contribute to processes such as growth and development, energy metabolism, oxidative stress response, genomic stability maintenance, and neurocognition [2].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798133,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 242,
+          "prompt_tokens": 1077,
+          "total_tokens": 1319
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6f04401a-b938-5a60-8b69-d37f9086748c",
+            "score": 0.7567197760987112,
+            "metadata": {
+              "text": "OTHER AGING RELATED GENES",
+              "title": "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+              "extraction_id": "81c68113-aa96-5af3-b4fc-5898fa20e379",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "02b405a4-71d7-5b85-9138-8a97c537601c",
+            "score": 0.7563006281852722,
+            "metadata": {
+              "text": "ation of the process of aging.\nStudies revealed from 300 to 750 genes related to longev-\nity that are critically involved in a variety of life activities,\nsuch as growth and developme nt, energy metabolism, oxi-\ndative stress, genomic stability maintenance, and neurocog-\nnition [ 4]. These candidate genes include mainly APOE, a\ngene involved in lipoprotein metabolism [ 5,6]. Others are\nthose involved in cell cycle regulation, cell growth and\nsignal transduction, the maintenance of genome stability,",
+              "title": "2020 - Whole-genome sequencing of Chinese.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "9ac921c7-3991-579b-bd53-7966b91e3aae",
+              "extraction_id": "0d3deffe-1f4d-5a6b-9acb-56d56141ad60",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "8f8848f4-d5fb-5f8c-a6b1-0f965f2abbc6",
+            "score": 0.7322750091552734,
+            "metadata": {
+              "text": "down-regulated during aging were genes involved in DNA repair and chromatin remodelling.\n55 While these studies revealed thousands of age-regulated genes, \nthe ultimate causes of these expression perturbations remain unknown. Analyzing age-dependent gene expression changes using multi-dimensional genetical genomics could bring the identification of genes causing the age-induced alterations  and thereby future therapeutic intervention strategies  one step \ncloser. \nAdding the dimension of epigenetics",
+              "title": "2011 - EXPLOITING NATURAL AND INDUCED GENETIC VARIATION TO STUDY HEMATOPOIESIS.pdf",
+              "version": "v0",
+              "chunk_order": 177,
+              "document_id": "6f250b15-61b3-57ed-8900-5aa4a173fa8c",
+              "extraction_id": "2b1a11ea-1574-5df6-b73a-a34052098751",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+            "score": 0.7254693508148193,
+            "metadata": {
+              "text": "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes  \net \n  \nal \n., 2005a). The",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "b58deffd-3cd3-5b7b-893d-b9cfc880830b",
+            "score": 0.7249337434768677,
+            "metadata": {
+              "text": "dam-age, as well as genes involved in inducing apoptosis (10, 11). Theaging process is also accompanied by changes in the expressionpatterns of a number of genes (1214). How the regulation ofgene expression in aging correlates with that in response tooxidative stress, however, is understood poorly.",
+              "title": "2000 - Genome-wide study of aging and oxidative stress.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "3fc2266c-d677-54f9-b3a2-5129eedf214a",
+              "extraction_id": "ac5d00c0-f445-5c6a-b248-12c82c985d9a",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "413f8f54-b5cc-5089-9f5c-d9e3b8bcf594",
+            "score": 0.7204392719006986,
+            "metadata": {
+              "text": "overexpressed with age seem to be a response to aging,in that they have been previously found to have protec-tive functions (de Magalha es et al., 2009b). As such,these genes may help organisms manage aging andcould be targets for manipulation. Likewise, gene ex-pression analysis of CR has been conducted to identifyassociated genes (Lee et al., 1999, 2000). A number ofmolecular signatures have emerged from such studiesthat could be useful to identify candidate processes andpathways that affect aging,",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 114,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "3c369292-4b9c-5156-a80f-4b3301026f30",
+            "score": 0.7204358577728271,
+            "metadata": {
+              "text": "al., 2009; Stanfel et al., 2009). Many of these genesmodulate the response to environmental signals, such asfood availability, and act in signaling pathways that ifunderstood can be targeted (Fig. 1). The genetic regula-tion of aging is therefore an emerging field with multipleapplications in the human nutrition, cosmetic, and phar-maceutical industries.\nAGING GENES AS TARGETS FOR DRUG DISCOVERY 91",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 67,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "a01ca925-4ccf-5863-a162-7bd4c754fe89",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "43abb9e9-5ffb-58d8-b5b9-251c50c1283d",
+            "score": 0.7201110935244294,
+            "metadata": {
+              "text": "Aging is a biological process universal to eukaryotic organ-\nisms, and its underlying mechanisms are under intensive\nstudy. Genetic analyses of yeast, nematode, fly, and mouse haveuncovered a number of genes, whether mutated or misexpressed,that would increase the lifespans of these organisms (1). These\ngenes include superoxide dismutase , a free-radical scavenger;\nmethuselah , a potential G protein-coupled receptor, in Drosoph-\nila melanogaster ; and p66\nshc, an oxidative stress-response gene, in",
+              "title": "2000 - Genome-wide study of aging and oxidative stress.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "3fc2266c-d677-54f9-b3a2-5129eedf214a",
+              "extraction_id": "ac5d00c0-f445-5c6a-b248-12c82c985d9a",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "b284606e-a2db-5151-9d30-b591493b984d",
+            "score": 0.7184746861457825,
+            "metadata": {
+              "text": "nicance of genes that were found to be aected by aging,the most prominent appeared to be involved in processesthat involve cell division, cell death and apoptosis, migra-tion of cells, and dierentiation, all of which are consistentwith changes in the dierent stages of neurogenesis. Thesechanges at the molecular level agree with studies at the cel-\nlular level that report changes in rate of migration, dieren-\ntiation and neurogenesis with aging ( Seki & Arai, 1995;",
+              "title": "2008 - Genome-wide analysis of aging and learning-related genes.pdf",
+              "version": "v0",
+              "chunk_order": 106,
+              "document_id": "cae3fe6b-9fe6-561d-8a2f-fe9fbd580f3d",
+              "extraction_id": "593d5c1f-316a-5eab-814c-4ba150111d3e",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          },
+          {
+            "id": "2eb33321-d0fe-5fc4-aab0-7184f2b397e0",
+            "score": 0.7166516949742034,
+            "metadata": {
+              "text": "those down-regulated during aging were genes involved in\nDNA repair and chromatin remodelling (Chambers et al.\n2007b ). While these studies revealed thousands of age-\nregulated genes, the ultimate causes of these expressionperturbations remain unknown. Analyzing age-dependent\ngene expression changes using multidimensional genetical\ngenomics could bring the identification of genes causingthe age-induced alterations and thereby future therapeutic\nintervention strategies one step closer.",
+              "title": "2008 - Combining transcriptional profiling and genetic linkage analysis to uncover gene networks operating in hematopoietic stem cells and their progeny.pdf",
+              "version": "v0",
+              "chunk_order": 81,
+              "document_id": "af6e0103-849d-542f-bca7-0251082bc0b3",
+              "extraction_id": "bf7b1e3c-bb4f-5a88-9167-a8c3b90cd68a",
+              "associatedQuery": "what genes are involved in  the aging process"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "8": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVsDdzFGdoBGkCMl1sqg3Cv85XM",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The genotypes related to Alzheimer's disease (AD) and dementia that have commonalities with those for aging include several key genetic factors:\n\n1. **Amyloid Precursor Protein (APP)**: Mutations in the APP gene are implicated in the early-onset form of Alzheimer's disease. This gene is also associated with the aging process, as the accumulation of amyloid plaques is a hallmark of both AD and age-related cognitive decline [1], [10].\n\n2. **Presenilin 1 and 2 (PSEN1 and PSEN2)**: These genes are also involved in the early-onset form of AD and are linked to the production of amyloid-beta, a protein that accumulates in the brains of individuals with AD and is also associated with aging [1].\n\n3. **APOE \u03b54 Allele**: The APOE \u03b54 allele is a well-known genetic risk factor for late-onset Alzheimer's disease. It is also associated with aging, as it influences lipid metabolism and is linked to age-related cognitive decline [2], [4].\n\n4. **Genetic Variance in Age of Onset**: Twin studies suggest that 37-78% of the variance in the age of onset of Alzheimer's disease can be attributed to additive genetic effects, indicating a significant overlap between the genetic factors influencing AD and those affecting the aging process [2].\n\nThese genotypes highlight the genetic commonalities between Alzheimer's disease, dementia, and the aging process, emphasizing the multifactorial nature of these conditions.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798140,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 305,
+          "prompt_tokens": 1544,
+          "total_tokens": 1849
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6ac3f90f-ec8a-55c7-a3f7-d597d9d7cb2e",
+            "score": 0.7288241386413574,
+            "metadata": {
+              "text": "Introduction\nAlzheimers disease (AD), a devastating neurodegen-\nerative disease, is the most common form of dementiaamong the elderly. Genetically, AD is a complex and\nmultifactorial disease with the possible involvement of\nmultiple genes. The rare early-onset form of the diseaseusually follows an autosomal-dominant inheritance\npattern and to date three genes have been identified:\namyloid precursor protein ( APP) and presenilin 1 and\n2(PSEN1 andPSEN2 ). The common late-onset form of",
+              "title": "2012 - Genome-wide association analysis of age-at-onset.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "9874359e-5f5d-5e6a-9844-cd9a1d2cae24",
+              "extraction_id": "2a2e5ce1-cc56-579c-bf79-f9057f4c9671",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "4014c984-d6d9-5eb2-a25e-9e9fe15d1b41",
+            "score": 0.7282055020332336,
+            "metadata": {
+              "text": "Background\nAge-related neurological diseases such as stroke and\ndementia represent a substantial population burden, and\none in three persons will develop either stroke or demen-\ntia in their lifetime [1]. Twin studies suggest that 3778%\nof the variance in the age of onset of Alzheimer's disease\n(AD), the most common cause of dementia in the elderly,\ncan be attributed to additive genetic effects [2,3]. Con-\nversely, cognitively healthy aging also has a substantial",
+              "title": "2007 - Genetic correlates of brain aging on MRI and cognitive test measures a genome-wide association and linkage analysis in the Framingham study.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "56b25b5a-fc9e-5d61-8502-1c110466ba16",
+              "extraction_id": "b545e588-2876-5928-9c01-710c1371b44e",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "cd8f4d4a-2b1a-542f-a3f3-364a83fb10fb",
+            "score": 0.7260361909866333,
+            "metadata": {
+              "text": "cognitive status in Alzheimer's disease. Neurobiol. Aging  1996 , 17: \n921-933. \n[3]  Ertekin-Taner, N. Genetics of Alzheimer's disease: a centennial \nreview. Neurol. Clin.  2007 , 25: 611-667. \n[4]  Bernardi, L., Tomaino, C., Anfossi, M., Gallo, M., Geracitano, S., \nPuccio, G., Colao, R., Frangipane, F., Mirabelli, M., Smirne, N., \nGiovanni Maletta, R., Bruni, A.C. Late onset familial Alzheimer's \ndisease: novel presen ilin 2 mutation and PS1 E 318G polymor-\nphism. J. Neurol.  2008 , 255: 604-606.",
+              "title": "2009 - MicroRNA Implications for Alzheimer Disease and other Human CNS.pdf",
+              "version": "v0",
+              "chunk_order": 112,
+              "document_id": "70d08119-d16d-5e9b-89ed-ec8547be125a",
+              "extraction_id": "4b383c2a-f0de-5420-af8d-07060b8874f3",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "f24834c0-1862-5d9f-bdb6-2af38505aa5c",
+            "score": 0.72203528881073,
+            "metadata": {
+              "text": "Keywords: alzheimers disease; genomics; GWAS; genetic risk factors; epigenetic modication; aging\n1. Introduction\nAlzheimers disease (AD) is the most common cause of dementia, accounting for approximately\n6080% of dementia cases, followed by vascular dementia (approximately 10%), Lewy Body or\nParkinsons disease-related dementia, and alcohol-mediated dementia [ 1]. Mild cognitive impairment,\none of the representative early symptoms of AD, makes this disease distinguishable from other types",
+              "title": "2018 - Genomics New Light on Alzheimer?s.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "940593d2-04c3-59b9-a5bf-976febbc6f71",
+              "extraction_id": "64f3adb4-e745-5738-af28-43c2a870c086",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "064a3510-9a3d-5b93-b848-69478e02e013",
+            "score": 0.713762640953064,
+            "metadata": {
+              "text": "14. Heyman A, Wilkinson WE, Hurwitz BJ, Schmechel D, Sigmon AH, et al. (1983)\nAlzheimers disease: genetic aspects and associated clinical disorders. AnnNeurol 14: 507515.\n15. Farrer LA, Myers RH, Connor L, Cupples LA, Growdon JH (1991) Segregation\nanalysis reveals evidence of a major gene for Alzheimer disease. Am J HumGenet 48: 10261033.\n16. Duara R, Lopez-Alberola RF, Barker WW, Loewenstein DA, Zatinsky M, et al.\n(1993) A comparison of familial and sporadic Alzheimers disease. Neurology 43:\n13771384.",
+              "title": "2012 - Mitochondrial Genomic Analysis of Late Onset.pdf",
+              "version": "v0",
+              "chunk_order": 86,
+              "document_id": "5404a17c-34a9-5881-8b1a-2acacdc996a8",
+              "extraction_id": "b826d64d-9d95-5522-8179-82f79d957c03",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "794ac337-0c08-52ca-9603-fe840fa343af",
+            "score": 0.7122418880462646,
+            "metadata": {
+              "text": "(2016).\n 3. DeTure, M. A. & Dickson, D. W . The neuropathological diagnosis of Alzheimers disease. Mol. Neurodegener. 14, 32 (2019).\n 4. Gatz, M. et al. Heritability for Alzheimers disease: the study of dementia in Swedish twins. J. Gerontol. A Biol. Sci. Med. Sci. 52, M117M125 (1997).\n 5. Gatz, M. et al. Role of genes and environments for explaining Alzheimer disease. Arch. Gen. Psychiatry 63, 168174 (2006).",
+              "title": "2021 - A genome-wide association study with 1,126,563.pdf",
+              "version": "v0",
+              "chunk_order": 63,
+              "document_id": "77fafe7f-6f8f-5779-9d49-77213f149512",
+              "extraction_id": "c4d63e5d-36ac-572e-8269-f9efd9c0437e",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "fc44e06f-a727-5544-ad7c-6ba3632552b7",
+            "score": 0.7112993001937866,
+            "metadata": {
+              "text": "Lett 379(3):199204.\nAvramopoulos D. 2009. Genetics of Alzheimers disease: Recent advances.\nGenome Med 1(3):34.\nBachman DL, Wolf PA, Linn R, Knoefel JE, Cobb J, Belanger A, DAgostino\nRB, White LR. 1992. Prevalence of dementia and probable seniledementia of the Alzheimer type in the Framingham study. Neurology42(1):115119.\nBarral S, Cheng R, Reitz C, Vardarajan B, Lee J, Kunkle B, Beecham G,",
+              "title": "2017 - Genomic Variants, Genes, and Pathways.pdf",
+              "version": "v0",
+              "chunk_order": 152,
+              "document_id": "a5bf6a11-3ed5-5222-bc4d-d5149188cdbd",
+              "extraction_id": "7cff03ac-de86-5e70-bbcb-dadc2fa447c3",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "5e6b9b4b-1e03-585a-af52-18a054e1e603",
+            "score": 0.7105075889523287,
+            "metadata": {
+              "text": "[11] and the\nexclusion of cerebrovascular factors as inherentetiopathogenic determinants of neuronal deathin AD, taking into account that in patients olderthan 70 years of age the vast majority of caseswith dementia show a clear cerebrovascular com-promise \n[12]. In addition, most studies attempt-\ning to correlate clinical features with singlegenotypes are partially biased due to heterogene-ity and inaccuracy in phenotype recruitment.Furthermore, 6080% of the therapeutic fail-ures in AD",
+              "title": "2003 - The application of functional genomics.pdf",
+              "version": "v0",
+              "chunk_order": 8,
+              "document_id": "ec5f7b7d-6bd2-5580-bf3e-3c8b64a74169",
+              "extraction_id": "171377f4-24a7-5cde-adff-c9c7096edc75",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "784e7626-1d9c-521b-84f3-965965435366",
+            "score": 0.7077232003211975,
+            "metadata": {
+              "text": "associated with Alzheimers disease neuropathology. J. Alzheimers Dis. 60, 10351043 (2017).\n63. Gottesman, R. F. etal. Association between midlife vascular risk factors and estimated brain amyloid \ndeposition. JAMA 317, 14431450 (2017).\n64. Moran, C. etal. T ype 2 diabetes mellitus and \nbiomarkers of neurodegeneration. Neurology 85, \n11231130 (2015).\n65. Vemuri, P . etal. Age, vascular health, and Alzheimer disease biomarkers in an elderly sample. Ann. Neurol.  \n82, 706718 (2017).",
+              "title": "2018 - Cognitive decline and dementia in diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 165,
+              "document_id": "fc7027a3-f885-55b8-b56d-bb8117e2a2f1",
+              "extraction_id": "d2b4b131-b7c9-595b-813a-b0940c4e87c0",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "dac0ab78-d01f-5f95-a129-559cbe6791ec",
+            "score": 0.7069479823112488,
+            "metadata": {
+              "text": "Introduction\nAlzheimers disease (AD), the most common form\nof dementia, is highly heritable (heritability of up\nto 76%) but genetically complex.1Neuropatho-\nlogically, the disease is characterized by extracellular\nsenile plaques containing b-amyloid (A b) and intra-\ncellular neurofibrillary tangles containing hyperpho-sphorylated tau protein.\n1Before 2009, four genes had\nbeen definitively implicated in its aetiology. Muta-\ntions of the amyloid precursor protein (APP) gene",
+              "title": "2012 - Genome-wide association study of Alzheimer?s disease.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "7e7a8526-ff6e-5c83-ae72-e45509e3b788",
+              "extraction_id": "1f9039f1-91e9-538b-b709-a1880cf47007",
+              "associatedQuery": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "9": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZVxBA3IhLP4BoAeswrss7YVgqiu",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The genotypes related to Alzheimer's disease (AD) and dementia that have commonalities with those for aging include several key genetic factors:\n\n1. **Apolipoprotein E (APOE)**: The APOE gene, particularly the APOE \u03b54 allele, is a well-known genetic risk factor for late-onset Alzheimer's disease. It is also associated with cognitive decline in aging populations [9]. Studies have shown that individuals carrying the APOE \u03b54 allele have an increased risk of developing Alzheimer's disease and exhibit more rapid cognitive decline as they age [8].\n\n2. **Amyloid Precursor Protein (APP)**: Mutations in the APP gene are implicated in the early-onset form of Alzheimer's disease. While these mutations are rare, they contribute to the understanding of the disease's pathology, which overlaps with mechanisms involved in aging, such as amyloid plaque formation [3], [6].\n\n3. **Presenilin 1 and 2 (PSEN1 and PSEN2)**: Mutations in these genes are also associated with early-onset Alzheimer's disease. These mutations affect the production of amyloid-beta, a key component of the plaques found in the brains of Alzheimer's patients. The accumulation of amyloid-beta is a process that is also observed in the aging brain, albeit to a lesser extent in cognitively healthy individuals [3], [6].\n\n4. **Genetic Variance in Age of Onset**: Twin studies suggest that a significant portion of the variance in the age of onset of Alzheimer's disease can be attributed to genetic factors, indicating a genetic overlap between aging and the development of Alzheimer's disease [1].\n\n5. **Vascular Health and Aging**: Vascular health is another important factor that links aging with Alzheimer's disease. Midlife vascular risk factors, such as hypertension and diabetes, are associated with increased amyloid deposition in the brain, which is a hallmark of Alzheimer's disease. This suggests that the genetic factors influencing vascular health and aging may also play a role in the development of Alzheimer's disease [5].\n\nIn summary, the genotypes related to Alzheimer's disease and dementia that share commonalities with those for aging include APOE, APP, PSEN1, and PSEN2, as well as genetic factors influencing vascular health and the age of onset of the disease [1], [3], [5], [6], [8], [9].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798145,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 478,
+          "prompt_tokens": 1562,
+          "total_tokens": 2040
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "4014c984-d6d9-5eb2-a25e-9e9fe15d1b41",
+            "score": 0.7352008819580078,
+            "metadata": {
+              "text": "Background\nAge-related neurological diseases such as stroke and\ndementia represent a substantial population burden, and\none in three persons will develop either stroke or demen-\ntia in their lifetime [1]. Twin studies suggest that 3778%\nof the variance in the age of onset of Alzheimer's disease\n(AD), the most common cause of dementia in the elderly,\ncan be attributed to additive genetic effects [2,3]. Con-\nversely, cognitively healthy aging also has a substantial",
+              "title": "2007 - Genetic correlates of brain aging on MRI and cognitive test measures a genome-wide association and linkage analysis in the Framingham study.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "56b25b5a-fc9e-5d61-8502-1c110466ba16",
+              "extraction_id": "b545e588-2876-5928-9c01-710c1371b44e",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "cd8f4d4a-2b1a-542f-a3f3-364a83fb10fb",
+            "score": 0.7260415554046631,
+            "metadata": {
+              "text": "cognitive status in Alzheimer's disease. Neurobiol. Aging  1996 , 17: \n921-933. \n[3]  Ertekin-Taner, N. Genetics of Alzheimer's disease: a centennial \nreview. Neurol. Clin.  2007 , 25: 611-667. \n[4]  Bernardi, L., Tomaino, C., Anfossi, M., Gallo, M., Geracitano, S., \nPuccio, G., Colao, R., Frangipane, F., Mirabelli, M., Smirne, N., \nGiovanni Maletta, R., Bruni, A.C. Late onset familial Alzheimer's \ndisease: novel presen ilin 2 mutation and PS1 E 318G polymor-\nphism. J. Neurol.  2008 , 255: 604-606.",
+              "title": "2009 - MicroRNA Implications for Alzheimer Disease and other Human CNS.pdf",
+              "version": "v0",
+              "chunk_order": 112,
+              "document_id": "70d08119-d16d-5e9b-89ed-ec8547be125a",
+              "extraction_id": "4b383c2a-f0de-5420-af8d-07060b8874f3",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "6ac3f90f-ec8a-55c7-a3f7-d597d9d7cb2e",
+            "score": 0.7231204509735107,
+            "metadata": {
+              "text": "Introduction\nAlzheimers disease (AD), a devastating neurodegen-\nerative disease, is the most common form of dementiaamong the elderly. Genetically, AD is a complex and\nmultifactorial disease with the possible involvement of\nmultiple genes. The rare early-onset form of the diseaseusually follows an autosomal-dominant inheritance\npattern and to date three genes have been identified:\namyloid precursor protein ( APP) and presenilin 1 and\n2(PSEN1 andPSEN2 ). The common late-onset form of",
+              "title": "2012 - Genome-wide association analysis of age-at-onset.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "9874359e-5f5d-5e6a-9844-cd9a1d2cae24",
+              "extraction_id": "2a2e5ce1-cc56-579c-bf79-f9057f4c9671",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "5e6b9b4b-1e03-585a-af52-18a054e1e603",
+            "score": 0.719206767129496,
+            "metadata": {
+              "text": "[11] and the\nexclusion of cerebrovascular factors as inherentetiopathogenic determinants of neuronal deathin AD, taking into account that in patients olderthan 70 years of age the vast majority of caseswith dementia show a clear cerebrovascular com-promise \n[12]. In addition, most studies attempt-\ning to correlate clinical features with singlegenotypes are partially biased due to heterogene-ity and inaccuracy in phenotype recruitment.Furthermore, 6080% of the therapeutic fail-ures in AD",
+              "title": "2003 - The application of functional genomics.pdf",
+              "version": "v0",
+              "chunk_order": 8,
+              "document_id": "ec5f7b7d-6bd2-5580-bf3e-3c8b64a74169",
+              "extraction_id": "171377f4-24a7-5cde-adff-c9c7096edc75",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "784e7626-1d9c-521b-84f3-965965435366",
+            "score": 0.7059235572814941,
+            "metadata": {
+              "text": "associated with Alzheimers disease neuropathology. J. Alzheimers Dis. 60, 10351043 (2017).\n63. Gottesman, R. F. etal. Association between midlife vascular risk factors and estimated brain amyloid \ndeposition. JAMA 317, 14431450 (2017).\n64. Moran, C. etal. T ype 2 diabetes mellitus and \nbiomarkers of neurodegeneration. Neurology 85, \n11231130 (2015).\n65. Vemuri, P . etal. Age, vascular health, and Alzheimer disease biomarkers in an elderly sample. Ann. Neurol.  \n82, 706718 (2017).",
+              "title": "2018 - Cognitive decline and dementia in diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 165,
+              "document_id": "fc7027a3-f885-55b8-b56d-bb8117e2a2f1",
+              "extraction_id": "d2b4b131-b7c9-595b-813a-b0940c4e87c0",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "dac0ab78-d01f-5f95-a129-559cbe6791ec",
+            "score": 0.7049078941345215,
+            "metadata": {
+              "text": "Introduction\nAlzheimers disease (AD), the most common form\nof dementia, is highly heritable (heritability of up\nto 76%) but genetically complex.1Neuropatho-\nlogically, the disease is characterized by extracellular\nsenile plaques containing b-amyloid (A b) and intra-\ncellular neurofibrillary tangles containing hyperpho-sphorylated tau protein.\n1Before 2009, four genes had\nbeen definitively implicated in its aetiology. Muta-\ntions of the amyloid precursor protein (APP) gene",
+              "title": "2012 - Genome-wide association study of Alzheimer?s disease.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "7e7a8526-ff6e-5c83-ae72-e45509e3b788",
+              "extraction_id": "1f9039f1-91e9-538b-b709-a1880cf47007",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "f24834c0-1862-5d9f-bdb6-2af38505aa5c",
+            "score": 0.7028687000274658,
+            "metadata": {
+              "text": "Keywords: alzheimers disease; genomics; GWAS; genetic risk factors; epigenetic modication; aging\n1. Introduction\nAlzheimers disease (AD) is the most common cause of dementia, accounting for approximately\n6080% of dementia cases, followed by vascular dementia (approximately 10%), Lewy Body or\nParkinsons disease-related dementia, and alcohol-mediated dementia [ 1]. Mild cognitive impairment,\none of the representative early symptoms of AD, makes this disease distinguishable from other types",
+              "title": "2018 - Genomics New Light on Alzheimer?s.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "940593d2-04c3-59b9-a5bf-976febbc6f71",
+              "extraction_id": "64f3adb4-e745-5738-af28-43c2a870c086",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "064a3510-9a3d-5b93-b848-69478e02e013",
+            "score": 0.7009342908859253,
+            "metadata": {
+              "text": "14. Heyman A, Wilkinson WE, Hurwitz BJ, Schmechel D, Sigmon AH, et al. (1983)\nAlzheimers disease: genetic aspects and associated clinical disorders. AnnNeurol 14: 507515.\n15. Farrer LA, Myers RH, Connor L, Cupples LA, Growdon JH (1991) Segregation\nanalysis reveals evidence of a major gene for Alzheimer disease. Am J HumGenet 48: 10261033.\n16. Duara R, Lopez-Alberola RF, Barker WW, Loewenstein DA, Zatinsky M, et al.\n(1993) A comparison of familial and sporadic Alzheimers disease. Neurology 43:\n13771384.",
+              "title": "2012 - Mitochondrial Genomic Analysis of Late Onset.pdf",
+              "version": "v0",
+              "chunk_order": 86,
+              "document_id": "5404a17c-34a9-5881-8b1a-2acacdc996a8",
+              "extraction_id": "b826d64d-9d95-5522-8179-82f79d957c03",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "f95a098d-6950-551a-8854-2c4b956cb10b",
+            "score": 0.6995694637298584,
+            "metadata": {
+              "text": "disease. Nat. Genet. ,19, 321 322.\n7. Bergem, A.L., Engedal, K. and Kringlen, E. (1997) The role of heredity in\nlate-onset Alzheimer disease and vascular dementia. A twin study. Arch.\nGen. Psychiat. ,54, 264 270.\n8. Payami, H., Grimslid, H., Oken, B., Camicioli, R., Sexton, G., Dame, A.,\nHowieson, D. and Kaye, J. (1997) A prospective study of cognitive health inthe elderly (Oregon Brain Aging Study): effects of family history andapolipoprotein E genotype. Am. J. Hum. Genet. ,60, 948 956.",
+              "title": "2003 - Results of a high-resolution genome screen.pdf",
+              "version": "v0",
+              "chunk_order": 74,
+              "document_id": "37eda0c5-73f9-5615-be6f-7016071ec1f4",
+              "extraction_id": "053cb638-e8ee-593b-9e3c-fe745534adfc",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          },
+          {
+            "id": "fc44e06f-a727-5544-ad7c-6ba3632552b7",
+            "score": 0.6988011002540588,
+            "metadata": {
+              "text": "Lett 379(3):199204.\nAvramopoulos D. 2009. Genetics of Alzheimers disease: Recent advances.\nGenome Med 1(3):34.\nBachman DL, Wolf PA, Linn R, Knoefel JE, Cobb J, Belanger A, DAgostino\nRB, White LR. 1992. Prevalence of dementia and probable seniledementia of the Alzheimer type in the Framingham study. Neurology42(1):115119.\nBarral S, Cheng R, Reitz C, Vardarajan B, Lee J, Kunkle B, Beecham G,",
+              "title": "2017 - Genomic Variants, Genes, and Pathways.pdf",
+              "version": "v0",
+              "chunk_order": 152,
+              "document_id": "a5bf6a11-3ed5-5222-bc4d-d5149188cdbd",
+              "extraction_id": "7cff03ac-de86-5e70-bbcb-dadc2fa447c3",
+              "associatedQuery": "Describe the genotypes related to Alzheimer's and dementia which have commonalities with those for aging."
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "10": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZWBvqLDNy2CwnWNpuZ7tlbpCfWr",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Genetic factors play a significant role in influencing aging in humans. Here are some key points based on the provided context:\n\n1. **Heritability of Longevity**: Human longevity shows a relatively modest heritability of less than 50% [1]. Twin studies have estimated the genetic contribution to general human longevity to be about 20-30% [10].\n\n2. **Genome-Wide Association Studies (GWAS)**: Large-scale GWAS have identified numerous loci associated with age-related traits, indicating that specific genetic variations can influence aging [7].\n\n3. **Specific Genetic Variants**: The APOE gene and its variants have been comprehensively analyzed for their association with late-onset Alzheimer's disease, which is an age-related condition [2]. This suggests that certain genetic markers are linked to age-related diseases.\n\n4. **Epigenetic Regulation**: Epigenetic mechanisms, which involve changes in gene expression without altering the DNA sequence, also play a crucial role in aging. Environmental inputs can affect genomic stability through epigenetic regulation [4].\n\n5. **Inheritance Studies**: Studies on the inheritance of human longevity, such as those conducted in Iceland, have provided insights into the genetic factors that contribute to a longer lifespan [5].\n\nIn summary, aging in humans is influenced by a combination of genetic factors, including specific genetic variants, heritability, and epigenetic regulation [1], [2], [4], [5], [7], [10].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798159,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 299,
+          "prompt_tokens": 1134,
+          "total_tokens": 1433
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "e09c33ea-4139-5cc2-9cf5-a40045f26a0c",
+            "score": 0.7051967592596045,
+            "metadata": {
+              "text": "Recent developments on the genetics of aging can be seen as several streams\nof effort. In general, humans show a relatively modest ( <50%) heritability of",
+              "title": "2001 - The genetics of aging.pdf",
+              "version": "v0",
+              "chunk_order": 13,
+              "document_id": "aa9a9193-b6f3-5ef8-aefd-e01ec44abb46",
+              "extraction_id": "76bae746-eabf-51ed-a01f-d32ecc89c11b",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "2d0a20b8-4196-5451-9d99-282f82234464",
+            "score": 0.6992688537515626,
+            "metadata": {
+              "text": "effect  genetic  variants  on  human  longevity.  Aging  2,  612620.\nYu,  C.E.,  Seltman,  H.,  Peskind,  E.R.,  Galloway,  N.,  Zhou,  P.X.,  Rosenthal,  E.,  Wijsman,\nE.M.,  Tsuang,  D.W.,  Devlin,  B.,  Schellenberg,  G.D.,  2007.  Comprehensive  analysis\nof  APOE  and  selected  proximate  markers  for  late-onset  Alzheimers  disease:\npatterns  of  linkage  disequilibrium  and  disease/marker  association.  Genomics",
+              "title": "2011 - A genome-wide association study confirms APOE as the major gene influencing.pdf",
+              "version": "v0",
+              "chunk_order": 109,
+              "document_id": "63b27b06-db2c-5542-9b1a-cb9ebe64d339",
+              "extraction_id": "210aa417-372c-5bf6-b961-e281a1817458",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "3117c019-7311-53ae-8ab1-927ca822c709",
+            "score": 0.6992318838605849,
+            "metadata": {
+              "text": "It is undisputed that genetic factors influence aging. In a remarkable",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 9,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "7ada6b55-99c2-5e20-bf96-d153f927256c",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "a9434032-4a9d-54f8-a7a6-16110d1b3118",
+            "score": 0.6929620504379272,
+            "metadata": {
+              "text": "males: what are the molecular and evolutionary causes? Aging Cell. 2007;6:225233. doi:10.1111/j.1474-9726.2007.00279.x\n 63. Benayoun BA, Pollina EA, Brunet A. Epigenetic regulation of ageing: link-\ning environmental inputs to genomic stability. Nat Rev Mol Cell Biol. 2015;16:593610. doi:10.1038/nrm4048\n 64. Sen P, Shah PP, Nativio R, Berger SL. Epigenetic mechanisms of longevity \nand aging. Cell. 2016;166:822839. doi:10.1016/j.cell.2016.07.050",
+              "title": "2018 - Sex Differences in Aging Genomic Instability.pdf",
+              "version": "v0",
+              "chunk_order": 158,
+              "document_id": "8cfb5529-7f0c-58fc-b6e4-b3ee800fb72f",
+              "extraction_id": "0104338d-cc9c-538f-be29-8343a64da37d",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "3ff3cf0b-c00f-5548-b4fb-21a57042c91c",
+            "score": 0.6903031468391418,
+            "metadata": {
+              "text": "Genet  1998, 81:92-97.\n3. Pedersen NL, Posner SF, Gatz M: Multiple-threshold models for\ngenetic influences on age of  onset for Alzheimer disease:\nfindings in Swedish twins.   Am J Med Genet  2001, 105:724-728.\n4. Gudmundsson H, Gudbjartsson DF, Frigge M, Gulcher JR, Stefansson\nK: Inheritance of human longevity in Iceland.   Eur J Hum Genet\n2000, 8:743-749.\n5. Flossmann E, Schulz UG, Rothwell PM: Systematic review of\nmethods and results of studie s of the genetic epidemiology",
+              "title": "2007 - Genetic correlates of brain aging on MRI and cognitive test measures a genome-wide association and linkage analysis in the Framingham study.pdf",
+              "version": "v0",
+              "chunk_order": 104,
+              "document_id": "56b25b5a-fc9e-5d61-8502-1c110466ba16",
+              "extraction_id": "3f7edb2f-b8c8-511a-9fb3-c746b6f7f213",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "9fa00091-9661-57bd-91c7-f0bf436805a7",
+            "score": 0.6873668432235718,
+            "metadata": {
+              "text": "population dynamics on the genetic architecture of human longevity. Aging (Albany NY). 2018;10(8):1947 63.\n68. Bellenguez C, Kucukali F, Jansen I, Andrade V, Morenau-Grau S, Amin N, et al. Large meta-analysis of genome-wide\nassociation studies expands knowledge of the genetic etiology of Alzheimer disease and highlights potential\ntranslational opportunities. medRxiv. 2020.\n69. Kojima T, Shimazui T, Hinotsu S, Joraku A, Oikawa T, Kawai K, et al. Decreased expression of CXXC4 promotes a",
+              "title": "2021 - Genome-wide association studies identify.pdf",
+              "version": "v0",
+              "chunk_order": 192,
+              "document_id": "60c2e869-1fee-53ea-b332-26d9c2abc747",
+              "extraction_id": "cd7730b6-22dc-5256-9310-79fc348b3226",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "f6ed1f0c-e4ea-5459-bb63-136decc11eee",
+            "score": 0.6848657131195068,
+            "metadata": {
+              "text": "discover core mechanisms of regulation.ANALYSIS OF HUMAN VARIATION IN\nTHE GENETIC CONTROL OF LONGEVITY\nHeritability studies have convincingly demonstrated that at\nleast some fraction of human lifespan is heritable. In tandem,\nlarge-scale genome-wide association studies (GWAS) have\nidentied numerous loci associated with age-related traits\n(Buniello et al., 2019). While genetic studies have functionally\nshown an inverse eect of multiple age-related, disease-",
+              "title": "2021 - Footprints in the Sand Deep Taxonomic Comparisons in Vertebrate Genomics to Unveil the Genetic Programs of Human Longevity.pdf",
+              "version": "v0",
+              "chunk_order": 13,
+              "document_id": "0dc45abe-ab02-5b07-9916-7093b53323c0",
+              "extraction_id": "34223e0e-590c-5f26-b120-b7250cd91b99",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "12868be9-1c5a-57ea-a5e3-f521b977cef2",
+            "score": 0.6847188472747803,
+            "metadata": {
+              "text": "than in healthy elderly patients [71].\n Concluding Remarks\nThe study of the human aging process is complex and multifactorial, where genetic \nand environmental variables are key players in its development. That is why we sug-\ngest a series of different biomarkers which include hormonal, inflammatory, and \noxidative stress biomarkers. However, it is possible that other biomarkers such as \nDNA damage, telomere length determination, DNA repair mechanisms and p53",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 850,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "fd143ef8-c605-51d8-9969-4e681493b826",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "a0672677-71ad-5603-8427-a0648eec407f",
+            "score": 0.6838314533233643,
+            "metadata": {
+              "text": "Clinical Genetics and Genomics of Aging",
+              "title": "2020 - Clinical Genetics and Genomics of Aging.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "62b635c3-040e-512a-b016-6ef295308a1e",
+              "extraction_id": "4ea8424f-1cd8-569c-a1df-3f0f54206e70",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          },
+          {
+            "id": "c1b5a31a-066d-571b-af1f-db746d9d17f6",
+            "score": 0.6812151670455933,
+            "metadata": {
+              "text": "standing the cause and mechanisms of aging is imperative in\nassisting to suppress age-related diseases and promote healthylongevity. It is well-known that aging is influenced by a combin-\nation of genetic and environmental factors. Previous twin stud-\nies have shown that the genetic contribution to general human\nlongevity is about 2030% [ 4,5], whereas environmental factors\nin human aging and longevity still account for the largest effect.\nEpigenetic factors influence the regulation of gene expres-",
+              "title": "2016 - Progress on the role of DNA methylation in aging.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "e4cdc02f-4415-5638-aab8-f848b4d64a22",
+              "extraction_id": "bcb3c620-b960-5af6-95ea-13215c31672e",
+              "associatedQuery": "What genetic factors influence aging in humans?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "11": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZWHUX5oZWH5Bj3eh2vkudPOLcus",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Several genes have been associated with aging. Here are some key points from the provided context:\n\n1. **Genes in Model Organisms**: A list of genes strongly associated with aging in model organisms includes those involved in segmental progeroid syndromes, such as the Werner syndrome gene, and genes critical in pathways previously related to aging, such as the insulin/insulin-like signaling pathway [1].\n\n2. **Gene Expression Analysis**: Studies have identified genes overexpressed with age that have protective functions, suggesting they help manage aging and could be targets for manipulation. Gene expression analysis of caloric restriction (CR) has also been conducted to identify associated genes [2].\n\n3. **Human Longevity-Associated Genes**: Dozens of genes have been associated with human longevity, although only a handful have shown consistent effects across populations [4].\n\n4. **GenAge Data Set**: A curated list of human genes associated with aging in different model systems is available from the GenAge data set [6].\n\n5. **GenAge Online Database**: Genes with established aging-related functions were identified by interrogation of the GenAge online database, aging-associated Gene Ontology groups, and hand annotation [9].\n\nThese references collectively highlight the involvement of various genes and pathways in the aging process.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798165,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 259,
+          "prompt_tokens": 1176,
+          "total_tokens": 1435
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+            "score": 0.7669302364033334,
+            "metadata": {
+              "text": "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes  \net \n  \nal \n., 2005a). The",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "413f8f54-b5cc-5089-9f5c-d9e3b8bcf594",
+            "score": 0.7600773858931796,
+            "metadata": {
+              "text": "overexpressed with age seem to be a response to aging,in that they have been previously found to have protec-tive functions (de Magalha es et al., 2009b). As such,these genes may help organisms manage aging andcould be targets for manipulation. Likewise, gene ex-pression analysis of CR has been conducted to identifyassociated genes (Lee et al., 1999, 2000). A number ofmolecular signatures have emerged from such studiesthat could be useful to identify candidate processes andpathways that affect aging,",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 114,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "6f04401a-b938-5a60-8b69-d37f9086748c",
+            "score": 0.758702300748306,
+            "metadata": {
+              "text": "OTHER AGING RELATED GENES",
+              "title": "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+              "extraction_id": "81c68113-aa96-5af3-b4fc-5898fa20e379",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "786d2756-4c4d-5ac0-8d3d-63f914d51664",
+            "score": 0.7552609881292021,
+            "metadata": {
+              "text": "In addition to aging- and CR-related genes, another\nsource of candidate genes and pathways for drug designare human longevity-associated genes (Barzilai andShuldiner, 2001; Browner et al., 2004; Kenyon, 2010).Dozens of genes have now been associated with humanlongevity (de Magalha es et al., 2009a), although only ahandful of genes have been shown to have consistenteffects across populations.\nMany longevity-associated genes are related to spe-",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 119,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "0ae63c75-df5f-59b0-9561-30d5115f0f74",
+            "score": 0.7522995023548913,
+            "metadata": {
+              "text": "potentially associated with human ageing. For eachgene, a description compiled from the studies that linkthe gene to ageing is provided. It should be noted thatour focus is on genes that might affect the ageingprocess, rather than individual age-related pathologies;\ngenes affecting multiple, even if not all, age-related",
+              "title": "2012 - Human Ageing Genomic Resources Integrated.pdf",
+              "version": "v0",
+              "chunk_order": 20,
+              "document_id": "5f554cc7-c94d-5fbd-9567-528499663ed6",
+              "extraction_id": "25e9d8a3-54ac-5412-8efb-3b56d93f363f",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "f2fbfb29-0a51-5f94-8b67-d47ab4de68bd",
+            "score": 0.7424599085772106,
+            "metadata": {
+              "text": "Pleiotropies and Aging-Related Genesets\nTo study genes that have been previously related to aging, a\nlist of curated human genes associated with aging in different\nmodel systems was obtained from the GenAge data set ( de\nMagalh ~aes et al. 2005 ). We used gene ontology (GO) anno-",
+              "title": "2018 - Biological Processes Modulating Longevity across Primates.pdf",
+              "version": "v0",
+              "chunk_order": 138,
+              "document_id": "930103c1-e98e-524c-aa68-233a45dc6726",
+              "extraction_id": "c07d6709-8dbe-5437-b7df-0849b92c0ea0",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "fd6cfc2c-76b1-5620-a68c-fb37db9b6f78",
+            "score": 0.7399801766884235,
+            "metadata": {
+              "text": "aging in human muscle reveals a common aging signa-ture. PLoS Genet. 2, e115. ( doi:10.1371/journal.pgen.\n0020115 )\n64 Lener, T ., Moll, P . R., Rinnerthaler, M., Bauer, J.,\nAberger, F. & Richter, K. 2006 Expression proling ofaging in the human skin. Exp. Gerontol. 41, 387397.\n(doi:10.1016/j.exger.2006.01.012 )\n65 Kim, S. K. 2008 Genome-wide views of aging gene net-\nworks . Molecular Biology of Aging Monograph 9. Cold\nSpring Harbor, CT: Cold Spring Harbor LaboratoryPress.",
+              "title": "2011 - Genetics and genomics of human ageing.pdf",
+              "version": "v0",
+              "chunk_order": 110,
+              "document_id": "08eee102-d627-5f1b-84c7-603c38981adf",
+              "extraction_id": "07a34581-749c-5556-bdea-806b2c9c7915",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "df45a752-e866-54bb-ab49-daff9a702eef",
+            "score": 0.7399801766884235,
+            "metadata": {
+              "text": "aging in human muscle reveals a common aging signa-ture. PLoS Genet. 2, e115. ( doi:10.1371/journal.pgen.\n0020115 )\n64 Lener, T ., Moll, P . R., Rinnerthaler, M., Bauer, J.,\nAberger, F. & Richter, K. 2006 Expression proling ofaging in the human skin. Exp. Gerontol. 41, 387397.\n(doi:10.1016/j.exger.2006.01.012 )\n65 Kim, S. K. 2008 Genome-wide views of aging gene net-\nworks . Molecular Biology of Aging Monograph 9. Cold\nSpring Harbor, CT: Cold Spring Harbor LaboratoryPress.",
+              "title": "2010 - Genetics and genomics of human ageing.pdf",
+              "version": "v0",
+              "chunk_order": 110,
+              "document_id": "633f3149-e966-53ef-aa7d-b759398ed541",
+              "extraction_id": "59227f74-f1c7-58ad-a886-aa9e3799a132",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "66f72bdc-d38b-5c7a-afdd-4c7549ce2131",
+            "score": 0.7388778484536512,
+            "metadata": {
+              "text": "tive-gerontogenes and genes with established aging-relatedfunctions were identified by interrogation of the GenAgeonline database [12], from aging-associated Gene Ontology( G O )  g r o u p s  a n d  f r o m  h a n d  a n n o t a t i o n  ( s e e  M a t e r i a l s  a n dmethods/Results for a detailed description of the analysis).\nWe show that the fundamenta l changes in genes and proc-",
+              "title": "2008 - Estrogen, not intrinsic aging, is the major regulator of delayed.pdf",
+              "version": "v0",
+              "chunk_order": 14,
+              "document_id": "04a3d8f1-64c1-5e25-ab0a-3eb749c06c92",
+              "extraction_id": "eeffae01-ce08-54a8-955f-6f0c9d07eedc",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          },
+          {
+            "id": "d53018ae-0881-5ef4-9c49-48623e8aa342",
+            "score": 0.738076642866336,
+            "metadata": {
+              "text": "on model organisms [3] or have been confined to specificaging-associated disorders such as progeria syndromes\n[4]. A study of postmortem human brain tissue from 30\nindividuals aged 26 to 106 years [5] showed that approxi-\nmately 4% of approximately 11,000 genes analyzed show\na significant age-related expression change (1.5-fold or\nmore) in individuals aged >40 years. These genes were\nreported to play central roles in synaptic plasticity, vesi-\ncular transport, and mitoch ondrial function. Another",
+              "title": "2013 - Gene expression changes with age in skin.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "5c121bbb-57b8-51cc-8461-effa1bfd87b9",
+              "extraction_id": "dfb687b2-f1ff-5e22-8a67-4a1db9ebeb3c",
+              "associatedQuery": "what genes are associated with aging?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "12": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZWOuZDmIcGuvC8wjb6oX7vSBFDg",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Several genes have been associated with aging in humans according to the provided context:\n\n1. **GenAge Data Set**: This data set includes genes that may regulate aging in humans or are considerably associated with the human aging phenotype [2].\n2. **HECW2, HIP1, BIN2, GRIA1, KCNQ4, LMO4**: These genes are highly expressed in the brain and have been previously related to the regulation of neuronal excitability and plasticity [4].\n3. **Werners Syndrome Gene**: Mutations in this gene result in segmental progeroid syndromes, which are critical in pathways previously related to aging, such as the insulin/insulin-like signaling pathway [7].\n\nThese references indicate that there are multiple genes associated with aging in humans, with some being highly expressed in specific tissues like the brain and others being involved in critical aging-related pathways.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798172,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 183,
+          "prompt_tokens": 1143,
+          "total_tokens": 1326
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "786d2756-4c4d-5ac0-8d3d-63f914d51664",
+            "score": 0.7617025205428876,
+            "metadata": {
+              "text": "In addition to aging- and CR-related genes, another\nsource of candidate genes and pathways for drug designare human longevity-associated genes (Barzilai andShuldiner, 2001; Browner et al., 2004; Kenyon, 2010).Dozens of genes have now been associated with humanlongevity (de Magalha es et al., 2009a), although only ahandful of genes have been shown to have consistenteffects across populations.\nMany longevity-associated genes are related to spe-",
+              "title": "2012 - Genome-Environment Interactions That Modulate.pdf",
+              "version": "v0",
+              "chunk_order": 119,
+              "document_id": "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+              "extraction_id": "d59d7882-333d-5576-86ab-3cfa6354b946",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "a21de3e8-ed2c-5c06-a351-ccb8f92f4e21",
+            "score": 0.7540779485083268,
+            "metadata": {
+              "text": "GenAge features a data set of genes that may regulate agingin humans or that at least appear to be considerably associated\nwith the human aging phenotype. This data set includes\northologues  derived from established databases, mainly In-Paranoid (OBrien  \net \n  \nal \n., 2005) but also HomoloGene (http://",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 17,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "6f04401a-b938-5a60-8b69-d37f9086748c",
+            "score": 0.7499944791196215,
+            "metadata": {
+              "text": "OTHER AGING RELATED GENES",
+              "title": "2010 - Do different neurons age differently Direct genome-wide analysis of aging in single identified cholinergic neurons.pdf",
+              "version": "v0",
+              "chunk_order": 73,
+              "document_id": "153b070f-0291-5ed4-ad33-edea5e3fa8f7",
+              "extraction_id": "81c68113-aa96-5af3-b4fc-5898fa20e379",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "06e319e1-b054-5f33-9b40-ee892f507736",
+            "score": 0.7499399334228092,
+            "metadata": {
+              "text": "processes in human longevity and aging. Ten of the 22\nsuggestive associations identied in our analyses are in ornear genes that are highly expressed in the brain (HECW2[Rotin and Kumar, 2009], HIP1 [Blanpied et al., 2003],\nBIN2, GRIA1), were previously related to the regulation of\nneuronal excitability and plasticity (KCNQ4 [Van Eyken et\nal., 2006], LMO4 [Joshi et al., 2009; Leuba et al., 2004],",
+              "title": "2011 - A genome-wide association study of aging.pdf",
+              "version": "v0",
+              "chunk_order": 92,
+              "document_id": "8e9c1150-1047-54a2-bf85-1cc5000a6811",
+              "extraction_id": "a5be18f8-c263-5635-87d7-57c5addd65e5",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "9defe0af-80a1-56da-90df-551fd55baa13",
+            "score": 0.7440464053126346,
+            "metadata": {
+              "text": "genes analyzed for their possible association with human lon-gevity (http://genomics.senescence.info/genes/longevity.html).All longevity association studies in humans we could find by thetime of the latest update were added to this list. These includestudies reporting negative results, which we see as essentialsince many genes display population-specific associations withlongevity.\nFig. 1 From the main page of the Human Ageing",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 20,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "f2fbfb29-0a51-5f94-8b67-d47ab4de68bd",
+            "score": 0.7438749823644781,
+            "metadata": {
+              "text": "Pleiotropies and Aging-Related Genesets\nTo study genes that have been previously related to aging, a\nlist of curated human genes associated with aging in different\nmodel systems was obtained from the GenAge data set ( de\nMagalh ~aes et al. 2005 ). We used gene ontology (GO) anno-",
+              "title": "2018 - Biological Processes Modulating Longevity across Primates.pdf",
+              "version": "v0",
+              "chunk_order": 138,
+              "document_id": "930103c1-e98e-524c-aa68-233a45dc6726",
+              "extraction_id": "c07d6709-8dbe-5437-b7df-0849b92c0ea0",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "8fd5ab85-67ed-55e6-bbfa-09436c4fdbfb",
+            "score": 0.7430310998540475,
+            "metadata": {
+              "text": "www.ncbi.nlm.nih.gov/homologene)  of genes strongly asso-ciated with aging in model organisms. Also included are genesin which mutations result in segmental progeroid syndromes,such as the Werners syndrome gene, as well as genes criticalin pathways previously related to aging, such as the insulin/insulin-like signalling pathway (de Magalhes  \net \n  \nal \n., 2005a). The",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "650300e1-898c-56e2-9358-0bb6625b0073",
+            "score": 0.7415701016956399,
+            "metadata": {
+              "text": "shown that genes associated with aging and/or longevity inmodel organisms are evolutionary conserved in terms of havingmore homologues than predicted by chance (Budovsky  \net \n  \nal \n.,2007, 2008) and exhibiting slower molecular evolution rates (de\nMagalhes & Church, 2007). Therefore, it is now clear that atleast some genes identified in model organisms may be relevantto human aging.\nTo allow researchers to focus specifically on human aging,",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 16,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "52c67b46-63f2-54ae-a78e-e9d54a55f6e4",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "df45a752-e866-54bb-ab49-daff9a702eef",
+            "score": 0.7398470795245733,
+            "metadata": {
+              "text": "aging in human muscle reveals a common aging signa-ture. PLoS Genet. 2, e115. ( doi:10.1371/journal.pgen.\n0020115 )\n64 Lener, T ., Moll, P . R., Rinnerthaler, M., Bauer, J.,\nAberger, F. & Richter, K. 2006 Expression proling ofaging in the human skin. Exp. Gerontol. 41, 387397.\n(doi:10.1016/j.exger.2006.01.012 )\n65 Kim, S. K. 2008 Genome-wide views of aging gene net-\nworks . Molecular Biology of Aging Monograph 9. Cold\nSpring Harbor, CT: Cold Spring Harbor LaboratoryPress.",
+              "title": "2010 - Genetics and genomics of human ageing.pdf",
+              "version": "v0",
+              "chunk_order": 110,
+              "document_id": "633f3149-e966-53ef-aa7d-b759398ed541",
+              "extraction_id": "59227f74-f1c7-58ad-a886-aa9e3799a132",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          },
+          {
+            "id": "fd6cfc2c-76b1-5620-a68c-fb37db9b6f78",
+            "score": 0.7398470795245733,
+            "metadata": {
+              "text": "aging in human muscle reveals a common aging signa-ture. PLoS Genet. 2, e115. ( doi:10.1371/journal.pgen.\n0020115 )\n64 Lener, T ., Moll, P . R., Rinnerthaler, M., Bauer, J.,\nAberger, F. & Richter, K. 2006 Expression proling ofaging in the human skin. Exp. Gerontol. 41, 387397.\n(doi:10.1016/j.exger.2006.01.012 )\n65 Kim, S. K. 2008 Genome-wide views of aging gene net-\nworks . Molecular Biology of Aging Monograph 9. Cold\nSpring Harbor, CT: Cold Spring Harbor LaboratoryPress.",
+              "title": "2011 - Genetics and genomics of human ageing.pdf",
+              "version": "v0",
+              "chunk_order": 110,
+              "document_id": "08eee102-d627-5f1b-84c7-603c38981adf",
+              "extraction_id": "07a34581-749c-5556-bdea-806b2c9c7915",
+              "associatedQuery": "Which genes are associated with aging in human"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "13": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADZWTp42DWHZeK1fZT0MSpkOitZfP",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "GeneNetwork is a resource that has been significantly updated and enhanced to include data from 10 species, multi-omics analysis, updated code, and new tools. It serves as an exciting resource for predictive medicine and systems genetics, constantly being maintained and improved [4].\n\nIn relation to aging research, GeneNetwork is used to study genetic networks and pathways linked with aging. For example, researchers use GeneNetwork to construct modular networks of aging, which can provide insights into how different genes interact and affect longevity and aging processes [1]. This network-based approach allows for the identification of potential longevity genes and the links between genes and aging-related diseases [3]. Thus, GeneNetwork plays a crucial role in the functional genomics of aging by enabling the analysis and visualization of complex genetic interactions and their implications for aging and longevity.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727798177,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 162,
+          "prompt_tokens": 1181,
+          "total_tokens": 1343
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "496d27de-6dd0-5f6a-bedb-64d4c252981d",
+            "score": 0.7528655381718612,
+            "metadata": {
+              "text": "the different pathways linked with aging and even study genenetworks. In such works, GenAge is an adequate resource asit provides a framework for the functional genomics of aging.For example, Xue  \net \n  \nal \n. (2007) used GenAge to construct a modular\nnetwork of aging and obtain insights into aging, including thefact that genes connecting different modules are more likely toaffect longevity and/or aging, an hypothesis the authors validatedexperimentally in worms (Xue  \net \n  \nal",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 37,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "df726361-271a-5dbb-b6d1-03dab5a63006",
+            "score": 0.7241249084472656,
+            "metadata": {
+              "text": "[111], and for generation of networks based on known gene \ninteractions such as GeneMania [112] and Cytoscape [113], as well as for identifying cross-species orthology relation-ships [114], network-based thinking has been increasingly applied to the study of aging and lifespan [115-118]. Re-cently, the novel computational method of network identifi-\ncation by regression (NIR) [119] has been used to identify",
+              "title": "2012 - Genome-Scale Studies of Aging Challenges and Opportunities.pdf",
+              "version": "v0",
+              "chunk_order": 41,
+              "document_id": "b77aace0-fa36-5fd4-8e2a-c8932198acd1",
+              "extraction_id": "53c57cc4-4d43-505a-974c-442d06e144df",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "9716c2c9-6f43-57f2-bad4-6d96c82d5c16",
+            "score": 0.7189775919609548,
+            "metadata": {
+              "text": "networks can be built using protein interaction and gene\nco-expression data. A previous paper used protein-\nprotein interactions to build genetic networks identifying\npotential longevity genes along with links between genes\nand aging-related diseases [ 30]. Here, we present the\nnetwork of proteins and genes co-expressed with the\nCellAge senescence genes. Assaying the networks, we\nfind links between senescence and immune system func-\ntions and find genes highly connected to CellAge genes",
+              "title": "2020 - A multidimensional systems biology.pdf",
+              "version": "v0",
+              "chunk_order": 17,
+              "document_id": "d040bfe3-e409-5b5c-b8f8-f3dd4fc060e3",
+              "extraction_id": "fe4ec57e-6ae7-59c4-b8fa-da73fe77ce96",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "c63cfaee-749e-547b-9c0a-086266f10670",
+            "score": 0.7139769196510315,
+            "metadata": {
+              "text": "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics \nanalysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for \npredictive medicine and systems genetics, which is constantly being maintained and improved.   \nHere, we give a brief overview of the process  for carrying out some of the most common \nfunctions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+              "title": "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+              "extraction_id": "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "42464f0d-d8ce-5f73-9c7c-0cdec45e7f4f",
+            "score": 0.7010524272918701,
+            "metadata": {
+              "text": "of GenAge involved finding novel genes that may be linked toaging by way of an analysis of proteinprotein interactions. Theprinciple being that proteins not previously thought to berelated to aging which interact with a large number of proteinsdirectly linked to aging might too be involved in aging and arethus promising candidates for future studies (de Magalhes &Toussaint, 2004; Budovsky  \net \n  \nal \n., 2007). Similar works are made",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 47,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "6b10898e-0906-5fff-9c70-b3be2d562fda",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "3153cd1e-de1c-52fb-aede-4065019d8c6b",
+            "score": 0.6849300861358643,
+            "metadata": {
+              "text": "2009, with over 400 genes added in the current update (Ta-ble1), includingmiRNAs for thefirst time.\nGenAge has proven a valuable resource for ageing re-\nsearch, as evidence by many publications. A systems levelanalysis of the GenAge human genes database identified a\nrobust group of ageing-specific network characteristics, re-\nvealingageinggenesasnetworkhubs( 11).Moreover,inan\nanalysis of genes in the ageing human brain, 54 genes with\nsustained, consistent expression and 23 genes with DNA",
+              "title": "2018 - Human Ageing Genomic Resources new and updated.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "82726cea-f77c-5a92-9f2e-ecccc369953a",
+              "extraction_id": "03c88365-c56c-56f2-a15f-e183398d3dfe",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "676b5bff-01e8-58cf-93e5-ac14d8e82760",
+            "score": 0.683660626411438,
+            "metadata": {
+              "text": "a curated database of genes potentiallyassociated with human aging, and a list of genes testedfor their association with human longevity. A myriad ofbiological data and information is included for hundredsof genes, making GenAge a reference for research thatreflects our current understanding of the genetic basis ofaging. GenAge can also serve as a platform for thesystems biology of aging, and tools for the visualizationof proteinprotein interactions are also included. AnAgeis a database of aging in",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "7ada6b55-99c2-5e20-bf96-d153f927256c",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "4c4f5670-cb9a-59b5-b9cc-ba5bce662035",
+            "score": 0.6827874590627837,
+            "metadata": {
+              "text": "et \n  \nal \n., 2007). In a sense, GenAge\noffers an overall view of what is presently known about thegenetics of aging in model organisms and in humans that canbe used for numerous studies, including in contemporary functionalgenomics and systems biology methods.Table 2 Criteria used to select entries for inclusion in the GenAge human data set\nMain reason for selectionNumber \nof genes\nEvidence directly linking the gene product to aging in humans 3",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 38,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "cf8bf1ec-4919-59b2-a60d-183fc5a04bb0",
+            "score": 0.6816583871841431,
+            "metadata": {
+              "text": "senescence.info/genes/) is to host high-quality curatedgene-centric information relevant to human ageing.Although initially GenAge was designed to include onlyhuman genes potentially associated with ageing, thedatabase has signicantly grown since, and several newgene sets have been added to it. For example, GenAge\nincludes, since 2008, a list of genes from model organisms\nbased on genetic manipulation experiments (2).\nCurrently, the database is divided into three main",
+              "title": "2012 - Human Ageing Genomic Resources Integrated.pdf",
+              "version": "v0",
+              "chunk_order": 16,
+              "document_id": "5f554cc7-c94d-5fbd-9567-528499663ed6",
+              "extraction_id": "25e9d8a3-54ac-5412-8efb-3b56d93f363f",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          },
+          {
+            "id": "1d7f120f-20c4-5d6c-983f-41534fb30503",
+            "score": 0.6789016318975919,
+            "metadata": {
+              "text": "information source on the genetics of aging. In particular forthe human data set, a wealth of biological data is provided foreach entry, including relevant information in the context ofbiogerontology (see example below) to an extent that is notavailable in larger, more generic databases like Entrez Gene.Therefore, to learn about the involvement of a given gene inaging, a quick search in GenAge is the best place to start.GenAge features a sophisticated search engine and its user-friendly interface is easy",
+              "title": "2009 - The Human Ageing Genomic Resources online.pdf",
+              "version": "v0",
+              "chunk_order": 25,
+              "document_id": "e43cd3b6-ad8e-5422-ba7c-ceb6e66cc529",
+              "extraction_id": "aecbe8a8-aeed-5cfa-b0f3-be29f19d849d",
+              "associatedQuery": "What is GeneNetwork and how does it relate to aging research?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  }
+}

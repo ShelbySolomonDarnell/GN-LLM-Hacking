@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2014 - Sirt1 induction confers resistance to etoposide-induced genotoxic apoptosis in thyroid cancers.pdf",
+    "2011 - Using the PhenoGen Website for \u201cIn Silico\u201d Analysis of Morphine-Induced Analgesia Identifying Candidate Genes.pdf",
+    "2022 - New Insights on Gene by Environmental Effects of Drugs of Abuse in Animal Models Using GN.pdf",
+    "2022 - New Insights on Gene by Environmental Effects of Drugs of Abuse in Animal Models Using GeneNetwork.pdf",
+    "2022 -Chunduri- Drugs Animal Models.pdf",
+    "2019 - A multi-omics digital research object for the genetics of sleep regulation.pdf",
+    "2016 - Systems Genetics of Obesity.pdf",
+    "2017 - Systems genetics of obesity.pdf",
+    "2021 -Highlights from the Era of Open Source Web-Based Tools.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "e3d1b792-6241-5ba3-b06f-ee29eb0106fc",
+    "0e3a5e40-06b0-58d4-b495-3093954ed17b",
+    "50d920fa-3482-52ca-899f-15b182fdb4fd",
+    "ee874620-8c4e-55df-8274-2dcd4eba2ca9",
+    "4cafc4e9-69df-5a08-921c-de6c66267056",
+    "a002e2e0-b978-540d-b435-5701c30496b6",
+    "d214b44c-c033-59f7-b120-fa4d6bf35bb4",
+    "674a8666-6310-5df3-8539-e274cd629e9c",
+    "ffafdd06-808c-58be-bcb5-bd74d7ffa89a"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "18e62e2f-643c-5c42-b80a-bab5432a8894",
+    "eb266fa1-8dec-5c56-a3d5-b508bd6bd448",
+    "6f5d0c5b-0bbb-5eca-9e3e-73c3b0675472",
+    "d71efa0d-5de8-549c-964d-489ef6b73a1f",
+    "9cfa4f4c-37ce-5c0f-9da6-3bbb075fdc45",
+    "af97f766-ca4d-56c0-9eb8-ba6c5e7db1da",
+    "c38d1bad-8690-5d4d-a60a-dcbb4ac4aa93",
+    "f10cf311-0397-5c0a-81e0-3b84090e434b",
+    "0a6f3d2e-70c3-5db7-bfc0-93ad04806104"
+  ],
+  "id": [
+    "chatcmpl-AIGmr7v0rrhLH7kaV38yDCwjdEEpc",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "a2875189-1592-59ad-ad10-f3c4911411e2",
+    "fa07b1bf-94e6-515b-8400-cf3afa8b8741",
+    "8f734e2a-cd29-5021-84be-a9e08bc21a99",
+    "219cfeab-8877-5c92-92d0-87b17c0d4206",
+    "8a3abc37-292a-5bd3-9527-bcf17dc9eafc",
+    "29c406c6-34e1-5f8a-8a6f-1b239dd633ae",
+    "45ce962b-f534-59a7-ab21-c5f858d4ec20",
+    "19ba23ee-9d24-55cc-85cb-bee95894f710",
+    "4188099c-aba1-5f0d-b2ec-a7c8f5bb1bc5"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "files), and GeneNetwork (a free scientific web resource, http://www.genenetwork.org/). Statistical analysis was performed using GraphPad Prism (GraphPad Software, Inc., CA, USA).",
+    "data are entered into GeneNetwork after they have been shepherded through a system like PhenoGen that has extensive capabilities for normalization and quality control. A comparison of the brain gene expression datasets and some of the tools for data analysis available on PhenoGen and GeneNetwork is shown in Table 3, and more detailed information on features provided by each site is outlined in the Supplementary DiscussionHoffman et al. Page 5 Addict Biol . Author manuscript; available in PMC 2012 July 1.",
+    "thank the members of the GeneNetwork.org team for their assistance, excellent data curation, and informatics support. Conicts of Interest: The authors declare no conict of interest. References 1. Wilkinson, M.D.; Dumontier, M.; Aalbersberg, I.J.; Appleton, G.; Axton, M.; Baak, A.; Blomberg, N.; Boiten, J.W.; da Silva Santos, L.B.; Bourne, P .E.; et al. The FAIR Guiding Principles for scientic data management and stewardship. Sci. Data 2016 ,3, 160018. [CrossRef]",
+    "thank the members of the GeneNetwork.org team for their assistance, excellent data curation, and informatics support. Conicts of Interest: The authors declare no conict of interest. References 1. Wilkinson, M.D.; Dumontier, M.; Aalbersberg, I.J.; Appleton, G.; Axton, M.; Baak, A.; Blomberg, N.; Boiten, J.W.; da Silva Santos, L.B.; Bourne, P .E.; et al. The FAIR Guiding Principles for scientic data management and stewardship. Sci. Data 2016 ,3, 160018. [CrossRef]",
+    "thank the members of the GeneNetwork.org team for their assistance, excellent data curation, and informatics support. Conicts of Interest: The authors declare no conict of interest. References 1. Wilkinson, M.D.; Dumontier, M.; Aalbersberg, I.J.; Appleton, G.; Axton, M.; Baak, A.; Blomberg, N.; Boiten, J.W.; da Silva Santos, L.B.; Bourne, P .E.; et al. The FAIR Guiding Principles for scientic data management and stewardship. Sci. Data 2016 ,3, 160018. [CrossRef]",
+    "9 Scientific  Data  |           (2019) 6:258  | https://doi.org/10.1038/s41597-019-0171-x www.nature.com/scientificdata www.nature.com/scientificdata/with more than 10% missing information, low quality ( <5000), and redundant information were removed.  GeneNetwork genotypes, which were discrepant with our RNA-seq experiment, were tagged as unknown  (mean of 1% of the GeneNetwork genotypes/strain [0.05%   n  8%]). Finally, GeneNetwork and our RNA-seq",
+    "1.    Phenotypic data should be quality checked and preprocessed  before being uploaded to GeneNetwork. This includes nor- malization of data, removal of outliers or windsorization, even- tually transformation of data to obtain normal distribution.       2.    When uploading data to GeneNetwork for permanent and  public storage, make sure to follow the GeneNetwork naming  guide for phenotypes.       3.    When uploading your own data make sure that for any pheno-",
+    "1.    Phenotypic data should be quality checked and preprocessed  before being uploaded to GeneNetwork. This includes nor- malization of data, removal of outliers or windsorization, even- tually transformation of data to obtain normal distribution.       2.    When uploading data to GeneNetwork for permanent and  public storage, make sure to follow the GeneNetwork naming  guide for phenotypes.       3.    When uploading your own data make sure that for any pheno-",
+    "analysis of behavior and for neurologic diseases are provided in the study by Mulligan et al. (2017) . GeneNetwork.org is committed to data and code workflows that are FAIR compliant, ensuring that those who generate data and key ideas get the deserved credit. To further ensure effective and secure dissemination of data and ideas, as well as improved reproducibility, the GeneNetwork.org infrastructure is currently being redesigned using more modular structures and APIs that"
+  ],
+  "answer": "Scientists ensure the accuracy of the data on GeneNetwork.org through several methods:  1. **Quality Control and Normalization**: Data are entered into GeneNetwork after being processed through systems like PhenoGen, which have extensive capabilities for normalization and quality control [3].  2. **Quality Checking and Preprocessing**: Phenotypic data undergo quality checks and preprocessing before being uploaded to GeneNetwork. This includes normalization, removal of outliers, and transformation of data to achieve a normal distribution [8].  3. **Data Curation and Informatics Support**: The GeneNetwork.org team provides excellent data curation and informatics support to maintain data accuracy [4].  These steps help ensure that the data on GeneNetwork.org is accurate and reliable for scientific research.",
+  "question": "How do scientists ensure the accuracy of the data on GeneNetwork.org?"
+}

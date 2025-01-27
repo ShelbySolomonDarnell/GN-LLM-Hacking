@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Leveraging the cell lineage to predict cell-type specificity of regulatory variation from bulk genomics.pdf",
+    "2012 - Advances in biotechnology and linking outputs to variation in complex traits Plant and Animal Genome meeting January 2012.pdf",
+    "2008 - Gene Expression Profiling.pdf",
+    "2005 - Part I Previous Research Track Record.pdf",
+    "2009 - Neuroscience in the era of functional genomics and systems biology.pdf",
+    "2022 -Madadi- AI RNA.pdf",
+    "2019 - Remodeling of epigenome and transcriptome.pdf",
+    "2018 - A survey on machine learning approaches in gene expression classification in modelling computational diagnostic system for complex diseases.pdf",
+    "2005 -Pomp- GenomeExploitation.pdf",
+    "2006 - Marker Assisted Backcrossing .pdf"
+  ],
+  "extraction_id": [
+    "79e0c3a8-7d1b-5372-a776-7e9a76d09691",
+    "3bdf080c-2715-5acc-bba4-717283851240",
+    "00906abf-f4ca-53f2-a2b6-20359686e9ec",
+    "0853c5ab-3d98-565c-ba1f-50e5bd91d14c",
+    "52f30738-038c-58b4-af90-3e1c8735e729",
+    "ebd9b396-f870-5c65-9460-7f3da6c11e6c",
+    "4e757e70-c73b-59b2-8129-d253c4620f49",
+    "c7cd8df0-306c-5b1d-97b8-42410f4b82ed",
+    "d813f94e-cbde-502a-b387-a5cfd585ecca",
+    "99f23be3-af56-5ae5-9577-ae940bfd9653"
+  ],
+  "document_id": [
+    "89534971-8c50-51ee-b2c4-35957579f911",
+    "c81c86b5-c5ab-5abf-83c0-415b0950fd51",
+    "59f3b969-089b-5258-93ad-892dbc9ffa9c",
+    "1875d68b-adeb-5f91-8a67-91d881906238",
+    "08e29201-f2cc-5fd5-9c28-bc4b8aaaa936",
+    "03b9b993-8dd5-5b0d-9493-99fb9a624948",
+    "87ffccee-fc33-5373-948d-67736aa0f069",
+    "8355d7b5-9da9-5bb8-8a3e-6f77c667599c",
+    "a77aefe9-379e-54a2-b029-8f5f3e798e64",
+    "5efc1bdf-f847-5eaf-a808-9cf71b9399ce"
+  ],
+  "id": [
+    "chatcmpl-AIGrrCJF0xy80I2fCpFw4lJ55PYWM",
+    "5a61091b-7128-5326-a08c-9e53506eb0f4",
+    "1de27ae0-e471-5f99-baeb-6d53071de37b",
+    "92e845b4-fbdf-52e8-8ebd-39392ccdfeb7",
+    "d192b3fd-5ece-570a-a905-f94eef684af2",
+    "16baa529-fa53-5760-96b2-38779cab00e0",
+    "38245be7-bd5c-5711-94ba-794c16247aa9",
+    "14ac602a-df31-53c4-95cf-6ff078ddec34",
+    "c810e291-415f-5bee-a54b-1548ff0bacd5",
+    "5057d65b-2c37-5344-b757-3af91d22c690",
+    "8a074429-2464-5b19-8eb8-6775d588b24f"
+  ],
+  "contexts": [
+    "The method takes as input a large cohort of individuals, wherethe input for each individual includes: (1) genotyping; (2) bulk ex-pression of genes in a certain tissue; (3) the relative abundance(proportions) of the various cell types in the tissue (it is possible to use computational deconvolution methods to predict cell-type proportions from bulk genomics data ( Newman et al. 2015 )). In",
+    "Filtering out the latter class of technical difficulty im-proved the recovery of genuine cis-modulated transcripts and thus to identify genes that are relevant to further down-stream regulation of gene expression and more complex phe-notypes (Ciobanu et al. 2010 ). Williams also discussed the power of a structured mapping population in model organisms and presented the Complex4 Funct Integr Genomics (2012) 12:1 9",
+    "genomic hybridization microarrays (8), can complement RNA expression data  and result in novel discoveries. With the evolution and maturation of proteom ics,  certainly combining serum- or tissue-based patterns of protein expression  with RNA expression holds promise. Finally, other rich sources of complex  data such as the literature can be used to complement our analysis of microar ray  data (39). These analyses face significant challenges with respect to gene",
+    "data. To model the functional dependence we shall explore machine learning methods16, such as decision tree methods  to predict the co-expressed gene profiles. As part of this study and in (E) Future work, see below, we will investigate  the benefit of using comparative genomics in helping to lo cate and characterise the regul atory elements and signals.    D(d) Integration and Modelling to infer regulato ry systems co-varying with disease status",
+    "derived from complex tissue such as brain show a high level of correspondence24,25. Such structure can be used to inform a new level of neuroscientific investigation that is not possible using standard analysis of differential expression2225. For example, one of the first such studies23 showed that gene networks could be used to provide a unifying method of identifying transcriptional targets of human brain evolution in",
+    "profiling of a multicellular organism,\" Science, vol. 357, no.  6352, pp. 661 -667, 2017.   [68] X. Guo, W. Li, and F. Iorio, \"Convolutional neural networks  for steady flow approximation,\" in Proceedings of the 22nd  ACM SIGKDD international conference on knowledge  discovery and data mining , 2016, pp. 481 -490.   [69] V. Ntranos, L. Yi, P. Melsted, and L. Pachter, \"A  discriminative learning approach to differentia l expression  analysis for single -cell RNA -seq,\" Nature Methods, vol. 16,",
+    "levels can influence the ability to call differential gene expression (Oshlack and Wakefield 2009), we also included, as a feature, the average expression level of the genes in the young samples. All machine-learning algorithms assigned genes to the correct transcriptional change with age 67% 81% of the time on average, significantly above that of a random classification (50%) (Fig. 3B,C; Supplemental Fig. S3B,C ;Supplemental Table S3A,B ). Models de-",
+    "DNA. Microarray technology is helpful in  capturing biological  genetic information to computer data. Computational techniques  can be applied on those large set of genetic data of every  individuals with or without disease, so that the genes that are  responsible for the disease occurrence can be po inted out.  Differentially Expressed Genes (DEG) are identified using many  techniques.  Machine Learning (ML) algorithms plays a  significant role in identifying the distinction between normal",
+    "mapping, several sophisticated analyses will be required to extract full value fromthe enormous amount of collected data, and gain valuable insight into geneticcontrol of gene expression. As recently noted by Ariel Darvasi (2003), I expect thatthe combining of genetic information and gene expression will hasten the day whengenomics delivers on its promise to improve health care. But we must continuestriving to develop and apply sophisticated analytical tools for interpreting the vast,complex data sets that",
+    "mapping, several sophisticated analyses will be required to extract full value fromthe enormous amount of collected data, and gain valuable insight into geneticcontrol of gene expression. As recently noted by Ariel Darvasi (2003), I expect thatthe combining of genetic information and gene expression will hasten the day whengenomics delivers on its promise to improve health care. But we must continuestriving to develop and apply sophisticated analytical tools for interpreting the vast,complex data sets that"
+  ],
+  "answer": "Advancements in machine learning algorithms contribute to the deconvolution of gene expression data in complex tissues by enabling the prediction of cell-type proportions from bulk genomics data. This computational deconvolution is crucial for understanding the relative abundance of various cell types within a tissue, which is a key step in analyzing gene expression data from complex tissues [1]. Additionally, machine learning methods, such as decision tree methods, are explored to model functional dependencies and predict co-expressed gene profiles, which can further aid in the deconvolution process by identifying regulatory elements and signals that vary with disease status [4]. These advancements allow for more accurate and insightful analysis of gene expression data, facilitating the identification of transcriptional changes and regulatory networks in complex tissues.",
+  "question": "How do advancements in machine learning algorithms contribute to the deconvolution of gene expression data in complex tissues?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Integrative Analysis of a Cross-Loci Regulation Network.pdf",
+    "2019 - IRS1\u2010 rs10498210 GA and CCR5\u201059029 AG polymorphisms in patients with type 2 diabetes in Kurdistan.pdf",
+    "2014 - Pathophysiology and treatment of type 2 diabetes.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2000 - Pathophysiology and Pharmacological Treatment.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2004 - Diabetes Genes a.pdf"
+  ],
+  "extraction_id": [
+    "63fe12a0-20b1-5f8b-9fd6-adaecaa66eeb",
+    "5b74e0f4-8b7a-5ef2-ab41-99819fe185cc",
+    "b4a31e40-c59e-525c-afcf-6f1efae2ef3a",
+    "4cf7634b-caa6-589c-939d-3bf8d9410e46",
+    "4cf7634b-caa6-589c-939d-3bf8d9410e46",
+    "3faeb0aa-9894-58e7-a2a6-c5f9ceb5cd22",
+    "8bbb1489-4c01-5d58-99f3-c007c9e4713a",
+    "ae5e854d-a344-56f3-a597-fb8e1e745af7",
+    "77878a83-0136-583f-a237-5443ce967a1a",
+    "a7e3dee0-551a-57ea-8a22-04b5f84252da"
+  ],
+  "document_id": [
+    "de5b6ecc-8a65-5dc7-9a4a-49e6df22472e",
+    "18afbfee-ddee-54b3-88cc-342812a65d09",
+    "ab9288ab-e3ad-58f1-b5ba-183ee17ce4bd",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "27206293-61c6-5a22-a342-6dfe1a759f04",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa"
+  ],
+  "id": [
+    "chatcmpl-ADZRS3ZXELoaA2dkAlgxXgB5ABMRV",
+    "1da7c09b-640d-5791-b411-4f87dfc2e03c",
+    "7b13b8a2-7d7f-5675-b3f0-c9aa48566b45",
+    "089f1f4d-d9d9-5245-b7ca-cf6e2ff87111",
+    "dd5661a5-6349-5abf-95c6-4abe424ada78",
+    "4f477c98-cd75-5955-ac3e-72a44d53f45e",
+    "2ace6cbd-084e-57e5-b6ed-1f42527b59b9",
+    "eafb2d74-ca99-52c6-a93d-89711b063a53",
+    "63d20d73-d6a3-56cb-91f6-34c66f439c7f",
+    "39b2638a-6bc8-5d16-bde4-4abd573cca47",
+    "8240c5cc-7d4f-51b4-935a-eb47314b3ec0"
+  ],
+  "contexts": [
+    "Figure 3. Schematics view of insulin regulation. Elevated glucose level by either food intake or liver glycogenolysis is sensed by islet and leads to insulin secretion to the bloodstream. The increased insulin stimulates peripheral tissues to absorb glucose, and as a consequence, the glucose le vel",
+    "plays an important role in regulating insulin secretion in beta cells of the pancreas. It has been shown that glucosestimu-lated insulin secretion may be triggered by the autocrine ac-tivation of the insulin signaling pathway, including insulin receptor phosphorylation, tyrosine phosphorylation in IRS1, and the activation of PI3Kinase. Putting together these data leads to the hypothesis that a single molecular impairment in the pathway of insulin signaling, including an incomplete interaction between",
+    "(A) Insulin interacts in the liver to suppress glucose production, and in muscle and adipose tissue to stimulate uptake of glucose, aminoacids, and fatty acids. The amount of insulin released to maintain normal glucose homoeostasis is established by prevailing insulin sensitivity. This feedback is probably mediated through neuronal and humoral mechanisms, but exact mediators are still not known. (B) When insulin resistance develops in insulin-sensitive tissues, feedback to  cells ensures that the cells",
+    "Insulin Action   In healthy, normal individuals, blood glucose concentra- tion is maintained within a narrow range. After an over-night fast or between meals, blood glucose normally falls within the range of 3.5  5.5   mM. Immediately after a meal containing carbohydrate, blood glucose concentration rises to a peak of 6  10   mM followed by a sharp decline back to baseline within 60 minutes. This exquisite control is achieved by a   ne balance between glucose absorption",
+    "from the gut, glucose production by the liver, and glucose extraction from the blood into the cells and tissues.   Insulin plays a central role in the regulation of blood",
+    "glucose transport into the cell. Concomitantly, insulin stimulates intracellular utili-zation of glucose by many other tissues as well. In the fasting state, the main physiological function of insulin is to suppress glucose production by the liver and prevent uncontrolled lipolysis and ketogenesis, without which dia-betic ketoacidosis would quickly develop. Hence, if either of these aspects of insulin action is impaired, then periph-eral or liver hepatic insulin resistance or both are said to be present.",
+    "and suppression ofglucose production are regulated by insulin.",
+    "the pancreas in response to an increase in blood glucose, such as that which follows a carbohydrate - containing meal. Insulin acts to decrease blood glucose levels by increasing glucose uptake by tissues and by decreasing gluconeogenesis by the liver. To increase tissue uptake, insulin triggers the translocation of GLUT4 receptors to the cell surface in skeletal muscle and adipose tissue. Insulin also stimulates each of the regulatory enzymes in the glycolytic pathway, while also inhibiting the key",
+    "insulin suppresses both hepatic and renal glucose release, 3031 and stimulates  glucose uptake exogenous insulin administration causes systemic glucose  utilization to exceed systemic glucose release so that plasma glucose  concentrations decrease.  As the plasma glucose levels decrease there is a characteristic  hierarchy of responses (Figure 1 ). Reduction of insulin secretion, the first in  the cascade of hypoglycemia counterregulation, 2 derepresses glucose",
+    "Counter-regulatory hormones antagonize the glucose lowering action  of insulin, and act to raise the blood glucose level. Glucagon, a potent  counter-regulatory hormone inhibited by insulin, is secreted from pancreatic  alpha cells when cells perceive low glucose. In diabetes, pancreatic insulin  levels are reduced and glucagon is chronically elevated. In DKA, in addition  to low insulin action, there is the cellular perception of low glucose , which"
+  ],
+  "answer": "Insulin plays a central role in the regulation of blood glucose levels by facilitating the uptake of glucose into peripheral tissues and suppressing glucose production by the liver. When blood glucose levels rise, such as after food intake, insulin is secreted by the pancreas into the bloodstream [1]. This secretion stimulates peripheral tissues, including muscle and adipose tissue, to absorb glucose, thereby lowering blood glucose levels [1], [3], [8].   Insulin also acts in the liver to suppress glucose production and gluconeogenesis, further contributing to the reduction of blood glucose levels [3], [6], [8]. Additionally, insulin triggers the translocation of GLUT4 receptors to the cell surface in skeletal muscle and adipose tissue, enhancing glucose uptake by these tissues [8]. This finely tuned balance between glucose absorption, production, and extraction ensures that blood glucose levels are maintained within a narrow range [4], [5].",
+  "question": "What role does insulin play in the regulation of blood glucose levels?"
+}

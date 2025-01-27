@@ -1,0 +1,150 @@
+{
+    "created_at": "2024-03-29T08:12:04.175184Z",
+    "data": {
+        "amplify": false,
+        "answer": "The text mentions two severe asthma clusters, SC2 and SC3, but does not specify individual genes. SC2 is characterized by high T2 inflammation, high FeNO, bronchoalveolar lavage and blood eosinophilia, and up-regulated expression of T2 signature and mast cell genes. SC3 is characterized by lower levels of T2 clinical biomarkers and gene expression, a later age of onset, increased incidence of nasal polyposis, and higher levels of neutrophilic inflammation.",
+        "context": {
+            "00da4d7c-879c-47f8-8648-89b2fdb19eda": [
+                {
+                    "document_id": "00da4d7c-879c-47f8-8648-89b2fdb19eda",
+                    "text": "\n\nWe present an analytical technique designed to test a priori defined gene sets (for example, pathways) for association with disease phenotypes.We apply this method to gene expression profiles of human diabetic muscle, identifying a set of genes whose expression is correlated with insulin resistance and aerobic capacity.These results suggest hypotheses about pathways contributing to human metabolic disease and, more generally, show the value of incorporating information about functional relationships among genes in the analysis of microarray data."
+                }
+            ],
+            "0af8f2bf-8caf-4459-823b-06e22e637cc8": [
+                {
+                    "document_id": "0af8f2bf-8caf-4459-823b-06e22e637cc8",
+                    "text": "\n\nPathway and gene ontology analysis for select phenotypes and envionmental factors showing GxE interactions."
+                }
+            ],
+            "14cad5a7-e53a-4ab8-9d4f-8f0b827ae427": [
+                {
+                    "document_id": "14cad5a7-e53a-4ab8-9d4f-8f0b827ae427",
+                    "text": "\n\nNext, the genes that correlated with FeNO (n = 549) were used to objectively cluster asthma subjects into subgroups.In agreement with Moore et al., most of the severe asthma patients clustered into 2 subject clusters (SCs) (SC2 and SC3).One severe asthma cluster (SC2) had high T2 inflammation, as evidence by a high FeNO, bronchoalveolar lavage and blood eosinophilia, and up-regulated expression of T2 signature and mast cell genes.The other severe asthma cluster (SC3) had lower levels of T2 clinical biomarkers and gene expression, in addition to a later age of onset, increased incidence of nasal polyposis and higher levels of neutrophilic inflammation.Roughly 1/2 of all asthma subjects had evidence of high T2 inflammatory response (by clinical biomarkers and gene expression), confirming the prior findings of Woodruff et al. in a more severe and steroid-treated patient population.In general, both severe asthma clusters (SC2 and SC3) were older and more obese than the other non-severe subclusters.Further, both of the severe SCs demonstrated suppression of genes associated with cilia function, neuronal function, cell adhesion and wound repair.These findings suggested that airway epithelial defense, repair, neuronal function are an integral part of a healthy epithelial layer and perhaps prevention of severe asthma."
+                }
+            ],
+            "18d12255-3cc6-415b-bd30-ff94bb087813": [
+                {
+                    "document_id": "18d12255-3cc6-415b-bd30-ff94bb087813",
+                    "text": "These\ngenes are high priority candidates, although we acknowledge that causal variants may lie in non-coding\nregions. For each of these high priority candidates we then examined which GO:biological processes\n(Consortium, 2015) and KEGG pathways (Kanehisa et al. , 2012) the gene was annotated as being part of,\nand highlighted those which may relate to our phenotypes. We also reviewed known effects of mutations\nusing the Mouse Genome Informatics (MGI) Phenotypes, Alleles and Disease Models Search\n(www.informatics.jax.org/allele) (Bello et al. , 2015)."
+                }
+            ],
+            "19aeec76-3ae4-4039-a887-407738ad4298": [
+                {
+                    "document_id": "19aeec76-3ae4-4039-a887-407738ad4298",
+                    "text": "Results were displayed as a matrix with all phenotypes/diseases associated with\n\n173\n\nmouse models and human genes found for the candidate gene list. 174\n175\n\n2.6. Expression-phenotype correlations\n\n176\n\nFor each gene discovered after filtering, an adequate probe within the well-curated INIA Amygdala\n\n177\n\nCohort Affy MoGene 1.0ST (Mar11) RMA, Hippocampus Consortium M430v2 (Jun06) PDNN,\n\n178\n\nVCU BXD Prefrontal Cortex M430 2.0 (Dec06) RMA, INIA Hypothalamus Affy MoGene 1.0ST\n\n179\n\n(Nov10), and INIA Adrenal Affy MoGene 1.0ST (Jun12) RMA Databases was identified using\n\n180\n\nGeneNetwork (http://www.genenetwork.org; Williams and Mulligan, 2012))."
+                }
+            ],
+            "1f2060d9-353b-4de8-9172-edf15881f40f": [
+                {
+                    "document_id": "1f2060d9-353b-4de8-9172-edf15881f40f",
+                    "text": "\n\nThe GeneNetwork website contains extensive phenotypic datasets ranging from behavioral to morphological to pharmacological.To identify phenotypes associated with Gsto1 variation, we queried the BXD phenotype database in GeneNetwork, which contains nearly 3000 phenotypes, to look for the phenotypes that are most closely related to hippocampal expression of Gsto1 (probe set 1416531_at)."
+                }
+            ],
+            "36858807-1395-4b2f-a3ee-e054f9b0149d": [
+                {
+                    "document_id": "36858807-1395-4b2f-a3ee-e054f9b0149d",
+                    "text": "\n\nTo examine known causal genes that have been reported in the literature, including related genes and pathways, a gene list was generated consisting of 6264 genes categorized by disorders, pathways, expression, AmiGO terms, and other into 26 sublists (supplemental data).This list was manually collected from different database sources covering all aspects of insulin-and glucose-related genes and disorders.This was done through an extensive literature review using PubMed, Ovid®, GeneCards®, and the National Center for Biotechnology Information (NCBI).Gene and protein expression databases such as BioGPS and The Human Protein Atlas were used.Protein interactions and gene network databases, such as AmiGO, BioGRID, GIANT, KEGG, and Reactome, were also used.Knockout mouse databases, such as MGI and IMPC, were also used.However, filtering against the gene list will not replace the manual screening for all variants called; therefore, we did not consider the results of our gene list alone.Once the raw data were obtained, they were filtered and investigated individually.As shown in Fig. 1, mutations went through serial steps ending up with a single nucleotide polymorphism mutation as a potential explanation.Pathogenicity scores were determined by SIFT, PolyPhen-2, PROVEAN, and PhD-SNP."
+                }
+            ],
+            "4049da4d-c7cf-4e30-9a21-c77609fad23d": [
+                {
+                    "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                    "text": "Chesler, E. J., Wang, J., Lu, L., Qu, Y., Manly, K. F., and Williams, R. W. (2003). Genetic correlates\nof gene expression in recombinant inbred strains: a relational model system to explore\nneurobehavioral phenotypes. Neuroinformatics 1, 343–357. doi:10.1385/NI:1:4:343. Denny, J. C., Ritchie, M. D., Basford, M. A., Pulley, J. M., Bastarache, L., Brown-Gentry, K., et al. (2010). PheWAS: demonstrating the feasibility of a phenome-wide scan to discover genedisease associations. Bioinformatics 26, 1205–1210. doi:10.1093/bioinformatics/btq126. Farrar, C. A., Zhou, W., and Sacks, S. H. (2016). Role of the lectin complement pathway in kidney\ntransplantation. Immunobiology 221, 1068–1072. doi:10.1016/j.imbio.2016.05.004. Gene Ontology Consortium (2015)."
+                },
+                {
+                    "document_id": "4049da4d-c7cf-4e30-9a21-c77609fad23d",
+                    "text": "Exploring genes, molecules, and phenotypes is easily accomplished using GeneNetwork. In this\nmanuscript we will outline some simple use cases, and show how a small number of plausible\ncandidate genes can be identified for an immune phenotype. 1. Data\nOnce you have navigated to genenetwork.org, there are two ways to search for data in GN. The\nfirst is to use the global search bar located at the top of the page (Figure 1). This is a new\nfeature in GN that allows researchers to search for genes, mRNAs, or proteins across all of the\ndatasets."
+                }
+            ],
+            "58714c13-954b-46b3-bd0e-69ccadd9dc6a": [
+                {
+                    "document_id": "58714c13-954b-46b3-bd0e-69ccadd9dc6a",
+                    "text": "Protein interaction data: There is a growing body of protein-interaction data and this data is a useful\nextension to inferences of functional interaction between disease gene candidates and co-expressed genes. Ontologies for Functional Annotation: This project will lead to a small subset of genes of interest for asthma\nand AD.. Ontologies are key in making automated and vocabulary controlled statements about function and it\nwill be interesting to interface the analytical framework presented in the proposal with contemporary\nadvances in gene ontology methodology."
+                },
+                {
+                    "document_id": "58714c13-954b-46b3-bd0e-69ccadd9dc6a",
+                    "text": "A network or interaction model will be generated using methods of graphical modelling\nwith both inhouse data and public databases to propose predictive models for epithelial cells and characterise critical\nmolecular interactions within asthma and AD biology. Finally, supporting and extending methodologies from above\nwill contribute to (E) Future Directions of the study and include interfacing and data exchange with contemporary\npublic databases. D(a) Disease Association and eQTL Mapping\nMapping the human genome for regions and positions that are responsible for disease susceptibility and\ndifferential gene expression is central to this project."
+                },
+                {
+                    "document_id": "58714c13-954b-46b3-bd0e-69ccadd9dc6a",
+                    "text": "For example, time series data sets potentially capture relationships and\ndependencies of gene expression within and between time points which may suggest causative co-regulation. These\ndependencies and interactions could be better uncovered using statistical modelling approaches such as Bayesian\nmodel based methods that aim to identify co-expressed clusters of genes under a model of temporal dependence\nbetween observations, that is utilising gene expression measures in time to better judge cluster membership11,12. Secondly, the asthma and AD expression dataset of sibpairs inherently contains underlying structures of\nshared genetic disease risk."
+                }
+            ],
+            "64886b4e-8599-4f61-84e6-9add7663a1b3": [
+                {
+                    "document_id": "64886b4e-8599-4f61-84e6-9add7663a1b3",
+                    "text": "Genes are arranged based\non their genetic positions, and genes annotated to be involved in the module are colored red. Genes with absolute GMAS over 0.268 are\nconsidered significantly associated. DDT, BOLA3, and ARID1A are labeled. B, Venn diagram of novel genes associated with respiratory electron transport module in human, mouse and rat. 707 genes were predicted\nto be mito-proteins by G-MAD in all three species."
+                }
+            ],
+            "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d": [
+                {
+                    "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                    "text": "Chesler, E. J., Wang, J., Lu, L., Qu, Y., Manly, K. F., and Williams, R. W. (2003). Genetic correlates\nof gene expression in recombinant inbred strains: a relational model system to explore\nneurobehavioral phenotypes. Neuroinformatics 1, 343–357. doi:10.1385/NI:1:4:343. Denny, J. C., Ritchie, M. D., Basford, M. A., Pulley, J. M., Bastarache, L., Brown-Gentry, K., et al. (2010). PheWAS: demonstrating the feasibility of a phenome-wide scan to discover genedisease associations. Bioinformatics 26, 1205–1210. doi:10.1093/bioinformatics/btq126. Farrar, C. A., Zhou, W., and Sacks, S. H. (2016). Role of the lectin complement pathway in kidney\ntransplantation. Immunobiology 221, 1068–1072. doi:10.1016/j.imbio.2016.05.004. Gene Ontology Consortium (2015)."
+                },
+                {
+                    "document_id": "7b1cecf5-a2b9-4bd9-b92b-9bd6b96ed93d",
+                    "text": "Exploring genes, molecules, and phenotypes is easily accomplished using GeneNetwork. In this\nmanuscript we will outline some simple use cases, and show how a small number of plausible\ncandidate genes can be identified for an immune phenotype. 1. Data\nOnce you have navigated to genenetwork.org, there are two ways to search for data in GN. The\nfirst is to use the global search bar located at the top of the page (Figure 1). This is a new\nfeature in GN that allows researchers to search for genes, mRNAs, or proteins across all of the\ndatasets."
+                }
+            ],
+            "85ee9743-b34d-4d49-9017-d7d2e5d4b996": [
+                {
+                    "document_id": "85ee9743-b34d-4d49-9017-d7d2e5d4b996",
+                    "text": "6\n\nPhenotype-matched reports\n\n7\n\nThe framework implementation we have presented uses only genomic\ninformation to generate a patient or research report. Of course, the\nclinical features of the sample oﬀer vital clues as to which gene is\nlikely responsible for the disease. It would therefore make sense to include phenotype-based gene ﬁltering or prioritization to the report. To\nmake this possible, associations of Human Phenotype Ontology (HPO)\nterms[292] to their known disease genes could be integrated into the\nsystem. Users can enter HPO terms that match the phenotypes observed in a patient to shorten their list of candidate genes."
+                }
+            ],
+            "98d443c7-8d99-4139-a27d-e447b0f6630f": [
+                {
+                    "document_id": "98d443c7-8d99-4139-a27d-e447b0f6630f",
+                    "text": "Predicted transcriptome association test\n\nWe used the PrediXcan 16 framework to identify genes that might mediate associations between genetic variants and asthma risk.PrediXcan is a software tool that estimates tissue-specific gene expression profiles from an individual's SNP genotype profile by use of prediction models trained in large reference databases of genotypes and tissue-specific gene expression profiles.With these genotype-imputed expression profiles, PrediXcan can perform gene-based association tests that correlate predicted expression levels with phenotypes (eg, asthma) to identify candidate causal genes from GWAS data.We used a summary version of PrediXcan, which has high concordance with the individual-level version (r²>0•99). 17or predictions, we downloaded elastic net models trained with reference transcriptome data from the Genotype-Tissue Expression consortium 18 for 49 tissues (appendix pp 9, 47)."
+                }
+            ],
+            "b72caae5-bb5a-4317-8d4d-21b41d60df21": [
+                {
+                    "document_id": "b72caae5-bb5a-4317-8d4d-21b41d60df21",
+                    "text": "\n\nGene selection was based on searches conducted using the Genetic Association Database (geneticassociationdb.nih.gov).Only genes with multiple, independent indicators of function were included.aPhenotype available for one cohort only."
+                }
+            ],
+            "ed140f66-fbad-4fd7-8ae3-4d9cac4f63ac": [
+                {
+                    "document_id": "ed140f66-fbad-4fd7-8ae3-4d9cac4f63ac",
+                    "text": "The results from the phenotype-driven searches\nshould then be linked to gene names associated with a\ngiven phenotype. These genes are presented as a list\nfrom which the user can choose the genes of interest\nand save them in a shopping cart. It is then possible to\nfeed the genes into the gene-centric use-case and perform a more detailed data mining or meta-analysis. The description and further development of the phenotype-driven use-case may represent a very useful\nconcept for scientists and clinicians outside the mouse\ncommunity."
+                }
+            ],
+            "fcd522a5-43ad-413b-abd9-5e3c9ccaca9f": [
+                {
+                    "document_id": "fcd522a5-43ad-413b-abd9-5e3c9ccaca9f",
+                    "text": "\n\nAs a demonstration of the utility of the web interface, we entered the 9 genes that reached suggestive significance in a recent genome-wide association study of opioid cessation (Cox et al. 2020).The graph view of the search results are shown in Fig. 3. Genes and keywords are all shown as circles and lines connecting them show the number of abstracts containing the 2 circles they connect.Keywords under the same main category are shown with the same color in the graphic output.Clicking on the lines brings up a new page that displays all sentences containing the keywords that line connects.An alternative tabular view of the same results is also available, where genes, the keywords, and number of abstracts are shown as separate columns."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "C58C7981111D600F0D509F387DB6CCF7",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "asthma",
+            "genes",
+            "phenotype",
+            "FeNO",
+            "T2&inflammation",
+            "eosinophilia",
+            "gene&expression",
+            "PrediXcan",
+            "GWAS",
+            "Human&Phenotype&Ontology&HPO"
+        ],
+        "metadata": [],
+        "question": "List genes related to asthma with their phenotype descriptions.",
+        "subquestions": null,
+        "task_id": "C58C7981111D600F0D509F387DB6CCF7",
+        "usage": {
+            "chatgpt": 5108,
+            "gpt-4": 4004,
+            "gpt-4-turbo-preview": 2992
+        },
+        "user_id": 2
+    },
+    "document_id": "C58C7981111D600F0D509F387DB6CCF7",
+    "task_id": "C58C7981111D600F0D509F387DB6CCF7"
+}

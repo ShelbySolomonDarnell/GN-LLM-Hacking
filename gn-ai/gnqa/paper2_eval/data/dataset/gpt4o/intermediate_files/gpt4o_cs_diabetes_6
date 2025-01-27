@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2006 - Adiponectin, type 2 diabetes and the metabolic syndrome.pdf",
+    "2021 - PPAR\u03b3 and Diabetes Beyond the Genome and Towards Personalized Medicine.pdf",
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2018 - Association of PGC-1\u03b1 gene with type 2 diabetes in three unrelated endogamous groups of North-West India (Punjab) a case-control and meta-analysis study.pdf",
+    "2021 - PPAR\u03b3 and Diabetes Beyond the Genome and Towards Personalized Medicine.pdf",
+    "2021 - PPAR\u03b3 and Diabetes Beyond the Genome and Towards Personalized Medicine.pdf",
+    "2021 - PPAR\u03b3 and Diabetes Beyond the Genome and Towards Personalized Medicine.pdf",
+    "2013 - Gene-Environment and Gene-Treatment.pdf",
+    "2018 - Refining the accuracy of validated target identification through coding variant.pdf"
+  ],
+  "extraction_id": [
+    "4647b43a-e4a0-5e8a-9cf5-6bf33cd6e672",
+    "2d610953-ea5c-5c01-ad19-60c607383da4",
+    "1df8f645-85c4-5832-8142-09bacafcd01d",
+    "f8b79de5-3e0c-5495-b6c2-8a3be6138223",
+    "94ee1317-d606-5921-8175-a86da2fa95d6",
+    "02cdfa1b-cc8f-5141-bde0-1079d252c6e8",
+    "4bdd6cdb-1f2a-585f-b08e-392a54c6dad8",
+    "2d610953-ea5c-5c01-ad19-60c607383da4",
+    "a6b92963-2cf0-51a4-8686-ce3a7515d443",
+    "d96545e5-f3a0-5765-9b06-27a41219d3b9"
+  ],
+  "document_id": [
+    "6a46f7cf-e75b-5b72-b77b-7e0cc03f92d8",
+    "4ea83190-476d-5090-a461-abde1adccbc5",
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "2faa21d2-146e-568a-b881-63201819e99a",
+    "4ea83190-476d-5090-a461-abde1adccbc5",
+    "4ea83190-476d-5090-a461-abde1adccbc5",
+    "4ea83190-476d-5090-a461-abde1adccbc5",
+    "fe958fb1-5408-56ec-b102-ccf07b4bac2d",
+    "3362e616-f824-55fa-9b4d-3ee8dcf52ac0"
+  ],
+  "id": [
+    "chatcmpl-AIFpdRa9QE6LvKot0urXoNDlpAF5x",
+    "6f046969-4e26-5dee-a310-cf32dc1f799c",
+    "c909cc5c-6fdb-5646-8332-973a92ac9486",
+    "c3ac7ed2-1b42-5c87-9104-b6da2e33b30b",
+    "02a160ba-95ee-5aa9-bc45-445b4706715b",
+    "4e415210-bf41-542f-841c-4bb17622d2e6",
+    "8d7fb270-e23f-5d89-b75c-50b8fbd22fe8",
+    "9f62a8cf-a14f-5989-a899-cf1f525905bf",
+    "818c1d6b-c1c1-570d-9e7a-87449fae279a",
+    "793e2430-fa2b-513a-a4ab-0c85a167de3f",
+    "7c375d6d-672d-594c-a56e-7391ed3e9daa"
+  ],
+  "contexts": [
+    "The transcription factor peroxisome-proliferator- activated receptor gamma (PPAR g) is known to inuence insulin sensitivity, and acts partly via amodulation of the circulating adiponectin level (PPAR gagonists increase the adiponectin level) (Ref. 38). The PPAR gP12A SNP is a well- established genetic variant that modulates insulin sensitivity and the risk of type 2 diabetes (Ref. 39). In a Chinese family study, Yang et al.demonstrated a genetic interaction between the",
+    "intricate regulation of PPAR signaling to pave the way to tailored therapies in patients with insulin resistance and T2D. Keywords PPARG genetic variants .Dominant-negative isoforms .Post-tranlational modifications .Adipose tissue dysfunctions .Drug responsiveness .Type 2 diabetes Introduction Peroxisome proliferator activated receptor gamma (PPAR ) is a ligand-activated transcription factor belonging to the nu-",
+    "2 . A widespread  Gly482Ser polymorphism of PGC1 -    (known as  PPARGC1  ), a  transcriptional coactivator of a series of nuclear receptors includ-ing  PPARG  , has been associated with a 1.34 genotype relative risk  of T2DM  [93] . In this study, a test for interaction with the Pro12Ala variant in  PPARG   gave no indication for additive effects  on diabetes status.   Other genes have been shown to be implicated in the genetic",
+    "PPARG Peroxisome proliferator-activated receptor- gene. This gene is located on chromosome 3p25, and has been studied as a candidate genefor type 2 diabetes based on its role in adipocyte and lipid metabolism. The Pro12Ala variant in particular has been associated with adecrease in insulin sensitivity and a several-fold increased risk of type 2 diabetes. PPAR is a target for the thiazolidinedione class of oralantidiabetic agents",
+    "Genetic variation in the peroxisome proliferator-activated receptor (PPAR) and peroxisome proliferator-activated receptor gamma co-activator 1 (PGC1) gene families and type 2 diabetes. Ann Hum Genet 78:2332 Vimaleswaran KS, Radha V, Ghosh S, Majumder PP, Deepa R, Babu  HN etal (2005) Peroxisome proliferator-activated receptor-gamma  co-activator-1alpha (PGC-1alpha) gene polymorphisms and their  relationship to type 2 diabetes in Asian Indians. Diabetic Med 22:15161521",
+    "Dali-Youcef N, et al. The Pro12Ala PPARgamma2 variant deter- mines metabolism at the gene-environment interface. Cell Metab. 2009;9:88 98. 53. Agostini M, Schoenmakers E, Mitchell C, Szatmari I, Savage D, Smith A, et al. Non-DNA binding, dominant-negative, human PPARgamma mutations cause lipodystrophic insulin resistance. Cell Metab. 2006;4:303 11. 54. Agostini M, Gurnell M, Savage DB, Wood EM, Smith AG, Rajanayagam O, et al. Tyrosine agonists reverse the molecular",
+    "associated with a marked increase in T2D risk in the general population, schematized in Fig. 1. The latter systematically tested all the possible PPAR protein variants by using a large-scale pooled functional assay based on a human macro- phage cell line. Using these in vitro data to train a classifier by supervised machine learning, they identified six pathogenic PPARG variants (R194Q, A417V, R212W, P387S, M203I, and T356R) in patients with partial lipodystrophy [ 109].",
+    "lipid metabolism, as well as insulin sensitivity and inflammatory pathways. These pleiotropic functions confer great relevance to PPAR in physiological regulation of whole-body metabolism, as well as in the etiology of metabolic disorders. Accordingly, PPARG gene mutations, nucleotide variations, and post-translational modifications have been associated with adipose tissue disorders and the related risk of insulin resistance and type 2 diabetes (T2D). Moreover, PPAR alternative splicing isoforms",
+    "the PPARgamma locus. Diabetes 2001;50:686 689 12. Kahara T, Takamura T, Hayakawa T, et al. PPARgamma gene polymorphism is as-sociated with exercise-mediated changes of insulin resistance in healthy men. Me- tabolism 2003;52:209 212 13. Franks PW, Luan J, Browne PO, et al. Does peroxisome proliferator-activated receptor gamma genotype (Pro12ala) modify the association of physical activityand dietary fat with fasting insulin level? Metabolism 2004;53:11 16 14. Memisoglu A, Hu FB, Hankinson SE, et al.",
+    "30. Majithia, A. R. et al. Rare variants in PPARG  with decreased activity in  adipocyte differentiation are associated with increased risk of type 2 diabetes.  Proc Natl Acad Sci USA 111, 1312713132 (2014).  31. Majithia, A. R. et al. Prospective functional classification of all   possible missense variants in PPARG . Nat. Genet.  48, 15701575 (2016).  32. Claussnitzer, M. et al. Leveraging cross-species transcription factor binding"
+  ],
+  "answer": "The PPAR-gamma gene encodes a transcription factor that plays a crucial role in regulating insulin sensitivity and lipid metabolism, which are important in the context of diabetes [4]. PPAR-gamma influences insulin sensitivity partly by modulating circulating adiponectin levels, with PPAR-gamma agonists known to increase these levels [1]. This gene is a target for the thiazolidinedione class of oral antidiabetic agents, which are used to improve insulin sensitivity in patients with type 2 diabetes [4].  Variants of the PPAR-gamma gene can significantly impact the risk and progression of type 2 diabetes. The Pro12Ala variant, for example, is a well-established genetic variant that modulates insulin sensitivity and increases the risk of type 2 diabetes [1], [4]. Other pathogenic PPARG variants, such as R194Q, A417V, R212W, P387S, M203I, and T356R, have been identified in patients with partial lipodystrophy and are associated with an increased risk of type 2 diabetes [7]. These variants can affect the gene's function in adipocyte differentiation and metabolism, thereby influencing the development of insulin resistance and type 2 diabetes [10].",
+  "question": "What is the function of the PPAR-gamma gene in diabetes, and how do its variants impact the disease?"
+}

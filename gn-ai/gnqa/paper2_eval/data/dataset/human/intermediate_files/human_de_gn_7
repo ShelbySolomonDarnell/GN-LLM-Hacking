@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "2007 - Bioinformatics_for_Genetices_MAZEN_SAEED.pdf",
+    "003 -Barnes- Bioinformatics_for_Geneticists.pdf",
+    "2007 - Bioinformatics_for_Geneticists.pdf",
+    "2021 - Old data and friends improve with age Advancements with the updated tools.pdf"
+  ],
+  "extraction_id": [
+    "4ef84d22-b428-5386-bbc0-39dbd364d3d7",
+    "7524bdfa-63f8-57c1-b5fe-1edcf11c275e",
+    "c8e9c4b7-19c6-5426-83a2-6f8628b68ceb",
+    "9c89683f-aca5-57f9-b28d-62e9eb64377b",
+    "a3ae6875-b0fc-5a4e-866f-4fee99c7d2a2",
+    "bb247bfe-333b-553a-94e6-2dc1b13b4723",
+    "bb247bfe-333b-553a-94e6-2dc1b13b4723",
+    "a3ae6875-b0fc-5a4e-866f-4fee99c7d2a2",
+    "9c89683f-aca5-57f9-b28d-62e9eb64377b",
+    "92339404-3864-5d8d-8731-8f8d0e9ac24c"
+  ],
+  "document_id": [
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "139463d1-c63c-5c51-bf9c-9ccc356768e0",
+    "045edae8-468b-5725-be06-8cb4b8f6a92b",
+    "4ea8e1a8-e113-5f02-ad78-880b9c51a101",
+    "55cb2c81-b699-54df-96ab-2bf0b888031e"
+  ],
+  "id": [
+    "chatcmpl-ADZA23VOOb8blXNwMegY44QCzuw8S",
+    "c36215f6-2230-58ef-b3eb-44d1799ba5c2",
+    "89a578c7-5961-5b88-9a6d-f338216702c3",
+    "81e589eb-aa51-5f2a-966f-31928fb31943",
+    "20738786-99f6-573d-963e-377782eeb7a6",
+    "ae4d4109-66f7-59be-92f5-dc10c9dc2dd6",
+    "7e15e9b2-c731-5ab0-85c0-b6b432623220",
+    "f0c00edb-f07d-5975-a16b-16a072d0f2d4",
+    "1bf9bb72-ebaa-51d1-82ce-aae2f16dd92b",
+    "e2e526cb-0ac3-51ff-a1c5-43ff032b5558",
+    "28386b6b-e00f-5c0f-91d2-6fd031e9433a"
+  ],
+  "contexts": [
+    "supported by a signicant BLAST match to one or more expressed sequences or proteins. Ensembl also identies the positions of known human genes from public sequence database entries, usually using GENEWISE to predict their exon structures. The total set of Ensembl genes should therefore be a much more accurate reection of reality than ab initio predictions alone, but it is clear that some novel genes are missed (Hogenesch et al. , 2001). Of the many novel genes that are detected, some are",
+    "supported by a signicant BLAST match to one or more expressed sequences or proteins. Ensembl also identies the positions of known human genes from public sequence database entries, usually using GENEWISE to predict their exon structures. The total set of Ensembl genes should therefore be a much more accurate reection of reality than ab initio predictions alone, but it is clear that some novel genes are missed (Hogenesch et al. , 2001). Of the many novel genes that are detected, some are",
+    "supported by a signicant BLAST match to one or more expressed sequences or proteins. Ensembl also identies the positions of known human genes from public sequence database entries, usually using GENEWISE to predict their exon structures. The total set of Ensembl genes should therefore be a much more accurate reection of reality than ab initio predictions alone, but it is clear that some novel genes are missed (Hogenesch et al. , 2001). Of the many novel genes that are detected, some are",
+    "populations as Ensembl reects the progress of the International Haplotype Map Project (Thorisson et al. , 2005). More speculative data, such as GENSCAN-predicted exons that have not been incorporated into Ensembl-conrmed genes, may also be viewed. This means that the display can be used as a workbench for the user to develop personalized an- notation. For example, one may discover novel exons by nding GENSCAN exon predictions which coincide with good matches to a fragment of the draft mouse",
+    "populations as Ensembl reects the progress of the International Haplotype Map Project (Thorisson et al. , 2005). More speculative data, such as GENSCAN-predicted exons that have not been incorporated into Ensembl-conrmed genes, may also be viewed. This means that the display can be used as a workbench for the user to develop personalized an- notation. For example, one may discover novel exons by nding GENSCAN exon predictions which coincide with good matches to a fragment of the draft mouse",
+    "populations as Ensembl reects the progress of the International Haplotype Map Project (Thorisson et al. , 2005). More speculative data, such as GENSCAN-predicted exons that have not been incorporated into Ensembl-conrmed genes, may also be viewed. This means that the display can be used as a workbench for the user to develop personalized an- notation. For example, one may discover novel exons by nding GENSCAN exon predictions which coincide with good matches to a fragment of the draft mouse",
+    "Ostell/Spidey/ SSAHA at Sanger Institute http://www.sanger.ac.uk/Software/analysis/SSAHA/ human and mouse genomes, where there are large full-length cDNA collections to guide the hunt for genes, Ensembl should be very reliable. From the beginning, many genomic features other than predicted genes were included in Ensembl: different repeat classes, cytological bands, CpG island predic- tions, tRNA gene predictions, expressed sequence clusters from the UniGene database",
+    "Ostell/Spidey/ SSAHA at Sanger Institute http://www.sanger.ac.uk/Software/analysis/SSAHA/ human and mouse genomes, where there are large full-length cDNA collections to guide the hunt for genes, Ensembl should be very reliable. From the beginning, many genomic features other than predicted genes were included in Ensembl: different repeat classes, cytological bands, CpG island predic- tions, tRNA gene predictions, expressed sequence clusters from the UniGene database",
+    "Ostell/Spidey/ SSAHA at Sanger Institute http://www.sanger.ac.uk/Software/analysis/SSAHA/ human and mouse genomes, where there are large full-length cDNA collections to guide the hunt for genes, Ensembl should be very reliable. From the beginning, many genomic features other than predicted genes were included in Ensembl: different repeat classes, cytological bands, CpG island predic- tions, tRNA gene predictions, expressed sequence clusters from the UniGene database",
+    "comprehensive, powerful, flexible and interactive gene set enrichment analysis toolkit. Nucleic Acids Research ,45(W1), W130W137. [44] Zhang, B., Kirov, S., & Snoddy, J. (2005). WebGestalt: an integrated system for exploring gene sets in various biological contexts. Nucleic Acids Research ,33(Web Server issue), W741-8. [45] McLaren, W., Gil, L., Hunt, S. E., Riat, H. S., Ritchie, G. R. S., Thormann, A., Flicek, P ., et al. (2016). The ensembl variant effect predictor. Genome Biology ,17(1), 122."
+  ],
+  "answer": "Ensembl is a comprehensive genomic database that identifies the positions of known human genes from public sequence database entries, often using tools like GENEWISE to predict their exon structures. It aims to provide a more accurate reflection of reality compared to ab initio predictions alone [1]. Additionally, Ensembl includes various genomic features such as different repeat classes, cytological bands, CpG island predictions, tRNA gene predictions, and expressed sequence clusters from the UniGene database [7]. It also reflects the progress of projects like the International Haplotype Map Project and allows users to view speculative data and develop personalized annotations [4].",
+  "question": "What is ensembl"
+}

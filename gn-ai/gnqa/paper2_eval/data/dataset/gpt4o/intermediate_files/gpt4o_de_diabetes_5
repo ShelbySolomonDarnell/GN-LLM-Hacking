@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2022 - Using Recurrent Neural Networks for Predicting Type-2 Diabetes from Genomic and Tabular Data.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2017 - Machine Learning and Data Mining Methods in Diabetes Research.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2019 - Machine-learning to stratify diabetic patients using novel cardiac biomarkers and integrative genomics.pdf",
+    "2014 - Do physicians think genomic medicine will be useful for patient care.pdf"
+  ],
+  "extraction_id": [
+    "6b4157fa-dcf0-5b70-b508-38ffb5fcda8d",
+    "aff84b9e-3855-5960-accd-dcac6b362346",
+    "a500eb31-13d8-5a0f-adfc-d260189a7555",
+    "a0ebb8e0-1414-52f4-aa8d-9bde3a9f26c2",
+    "8d323598-fdf7-56cf-8290-be85929f0eaf",
+    "8d323598-fdf7-56cf-8290-be85929f0eaf",
+    "20ba070b-900d-5213-9b38-d53492e48532",
+    "7079e9da-e08b-5e9f-ad3d-4709915aa9e0",
+    "493e5840-f65b-5245-8f07-126e1d9eedc3",
+    "5feb39eb-3945-5a31-9d03-7b83766df1e1"
+  ],
+  "document_id": [
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "be0e50e0-3de8-53c5-8126-a0b618647f80",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "e2dcbb80-5ad7-5441-b170-9b46607445b0",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "332ac2ec-accc-5370-a4d2-6fec9ce7e072",
+    "5418b59c-465c-5b1e-aee1-52ca7a1ead52"
+  ],
+  "id": [
+    "chatcmpl-AIHJ0Y0u83bg8S6UfGkVEYfllY6XI",
+    "a1e1110f-551a-5481-bbd6-0495d8effd38",
+    "73df0579-3c65-590b-9293-e0dc8fa32863",
+    "d0503557-1135-531d-9316-d3be3f620f3f",
+    "4a73b79f-f3bb-5341-865d-c6162c2f4b98",
+    "9fc6ebb2-02a9-5bc3-9623-6cd353ada65e",
+    "c15a7933-675c-5790-9165-9fef8c091920",
+    "d3d65022-c072-5880-8d27-a95b285e77cd",
+    "d8b7be7f-3f83-5f1d-897b-da01d2a7baaf",
+    "83b5d15e-5c0e-5abd-aa88-1affe9148052",
+    "065cb845-8ff9-5919-8e1f-7d2604a52e34"
+  ],
+  "contexts": [
+    "All the mentioned models rely on tabular datasets such as PIMA and ECG signals [ 47] in classifying the records with possible diabetic illnesses. The current study considers that genomic data yields a better patient-centric outcome than tabular data. 2.3. Genomics for Type 2 Diabetes Many research studies have been carried out on genetic-based illness prediction. Incorporating machine learning approaches with genetic-based illness prediction could",
+    "- chondrially rich, provides a direct connection between physiological dysfunction observed in the heart and the impact of altered genomic profiles in the mitochondrion and nucleus. Machine-learning, which at current has been applied to very few genetic applications, may play a significant role in defining the epigenome of those with diabetes mellitus, likely unveiling genes and molecular pathways first impacted by the pathology. The challenges ofmachine learning intheclinical setting",
+    "15. Ali, M.M.; Paul, B.K.; Ahmed, K.; Bui, F.M.; Quinn, J.M.W.; Moni, M.A. Heart disease prediction using supervised machine learning algorithms: Performance analysis and comparison. Comput. Biol. Med. 2021 ,136, 104672. [CrossRef] 16. Bell, C.G.; Teschendorff, A.E.; Rakyan, V .K.; Maxwell, A.P .; Beck, S.; Savage, D.A. Genome-wide DNA methylation analysis for diabetic nephropathy in type 1 diabetes mellitus. BMC Med. Genom. 2010 ,3, 33. [CrossRef]",
+    "Diagnostics 2022 ,12, 3067 6 of 30 Table 1. Various existing models for diabetes prediction. Approach Type of Data Applicability Limitations polygenic scores-based approach [12]Genomic DataUsed in the evaluation of clinical trials and illness screening mechanismsThe polygenic score approach needs larger samples and tremendous training for considerable Accuracy. Singular Value Decomposition [13]Genomic Data Tabular Data The image they are usedThey are used in ranking the feature",
+    "In the current study, machine-learning was used as a  predictive tool to integrate cardiac physiological, bio - chemical, genomic, and epigenomic biomarker data in a patient-matched fashion and enable determination of type 2 diabetic status. In 50 patients, machine-learning algorithms revealed the interconnectedness between dia - betic classification, mitochondrial function, and methyla -",
+    "Diabetes mellitus is a multifaceted disease, consisting  of systemic comorbidities which necessitate a variety of treatment modalities and stratify those affected with the disease [5]. Before the implementation of machine-learning algorithms in medicine, linear statistical models have highlighted measures, such as HbA1c, as diagnos - tic staples for the evaluation of diabetes mellitus onset and progression [6]. By exploring these previously pub -",
+    "tool that combines both genetic and clinical featur es in order to identify diabetic  nephropathy in patients with T2D [81].  Leung et al . compared several machine  learning methods that include partial least square regression, classification and  regression tree, the C5.0 Decision Tree, Random For est, naive Bayes, neural networks  and support vector machines [82].  The dataset used  consists of both genetic (Single  Nucleotide Polymorphisms - SNPs) and clinical data.    Age, age of diagnosis, systolic",
+    "- ylation status and total nuclear methylation provided the best predictive measures for assessing type 2 diabetes mellitus. The incorporation of physiological, biochemical, genetic, and epigenetic features with machine-learning algorithms exemplifies the potential for more informa - tive diagnostics in the future, as well as personalized approaches to generalized treatment modalities (Fig.6).  Discussion Machine-learning can be applied as a systems biol -",
+    "- tures is likely to occur, enhancing the diagnostic potential for the individual diabetic or prediabetic patient. Indeed, this is the advantage of using machine-learning models, in that they continue to learn and develop more accurate predictions as the number of features and sampled popu - lation grows. Conclusions Our work highlights the importance of identifying bio -",
+    "10 Meigs JB, Shrader P, Sullivan LM et al. Genotype score in addition to common risk factors for prediction of Type 2 diabetes. N. Engl. J. Med. 359, 22082219 (2008). 11 Scheuner MT, Sieverding P, Shekelle PG. Delivery of genomic medicine for common chronic adult diseases: a systematic review. JAMA  299, 13201334 (2008). \t Systematic\treview\tof\tearly\tresearch\tinto\tgenomic\tmedicine \t adoption\tin\tthe\tclinical\tcare\tof\tcommon\tchronic\tdiseases. \t Outlines\tboth\tphysician\tand\tpatient\tperspectives\ttowards"
+  ],
+  "answer": "Machine learning algorithms show promise in integrating genomic data to predict individual risk and progression of diabetes, but there are challenges and limitations to consider.  1. Genomic data is considered to yield better patient-centric outcomes than traditional tabular data for predicting diabetic illnesses [1]. This suggests that machine learning models that incorporate genomic data may provide more accurate predictions.  2. Machine learning has been applied to integrate various types of data, including genomic and epigenomic biomarkers, to determine type 2 diabetic status. This approach has revealed connections between diabetic classification and other biological functions, indicating the potential of machine learning in this area [5].  3. The integration of physiological, biochemical, genetic, and epigenetic features with machine learning algorithms has shown potential for more informative diagnostics and personalized treatment approaches for diabetes [8].  4. However, there are limitations, such as the need for larger sample sizes and extensive training to achieve considerable accuracy when using polygenic scores-based approaches with genomic data [4].  Overall, while machine learning algorithms have demonstrated potential in integrating genomic data for diabetes prediction, further research and development are needed to overcome current limitations and improve accuracy and applicability in clinical settings.",
+  "question": "How effective are machine learning algorithms in integrating genomic data to predict individual risk and progression of diabetes?"
+}

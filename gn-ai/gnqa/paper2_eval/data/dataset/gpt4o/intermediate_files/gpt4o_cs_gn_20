@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2012 - Identifying Gene Networks Underlying the Neurobiology of Ethanol and Alcoholism.pdf",
+    "2007 - Identifying genomic regulators of set-wise co-expression.pdf",
+    "2007 - Systems genetics the next generation.pdf",
+    "2008 - Dynamic Visualization of Coexpression in Systems Genetics Data.pdf",
+    "2005 -Lovinger- Lab models of alcoholism.pdf",
+    "2005 - Laboratory models of alcoholism treatment target identification and insight into mechanisms.pdf",
+    "2011 - Genetical genomics approaches for systems genetics.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf"
+  ],
+  "extraction_id": [
+    "1d401588-b6dc-532f-8194-4667a7d31153",
+    "40850ed1-db52-594e-a9d6-0b661e0bc494",
+    "51cb3178-b604-5869-98bd-cd32def3bd54",
+    "eff279b1-0d36-5dd4-9230-72adfe2ed79a",
+    "84072d11-c436-5405-a356-7dd9886db6e8",
+    "ee39bb1c-a55c-5aad-8e43-77eb8f38ff85",
+    "440c9c21-a03a-576f-8206-2a354508bb82",
+    "6ee23564-711a-5bc9-bb04-14a4b611c8bf",
+    "fad81c4c-0da6-54c0-898a-755ffb8870b6",
+    "223e442e-898d-5aea-866a-5cdc0ac915e8"
+  ],
+  "document_id": [
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "c02542c0-eff8-5ec7-8f73-78f5d28d4226",
+    "34b8aa80-7150-5c53-8cef-9f1d614ae886",
+    "a6202d00-514d-5b48-89cd-5fc9649c0ee4",
+    "ff6bf912-b590-582e-a841-6499cea56508",
+    "91621f34-9602-5cdc-91d8-c608c4e0b02c",
+    "148a4120-6ab8-554a-ab30-3394f61f98e1",
+    "de78a01d-8d03-5afb-af5b-ce2ed2167766",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda"
+  ],
+  "id": [
+    "chatcmpl-AIGmxl54ZXUf76PPUFFgbX3aFiiFS",
+    "509d3815-9994-5afc-9777-52eb80281dc8",
+    "1cf9d2ee-62b7-5dc8-8f58-23cecab650dc",
+    "85a8d5cf-0da0-5273-b1f2-f10e440ea24e",
+    "fc76d75c-37d3-5a29-9093-d25ff746b465",
+    "a06d0485-b264-53b2-8a13-0c13c600c026",
+    "8358a79b-ac66-510f-9ee2-9763a0f9d95e",
+    "343c3cb8-779b-571c-9633-cbd37a941f25",
+    "1b8201cc-bdc4-5cb7-ad3b-da9d6ae59fc8",
+    "c6c3f636-c6bb-539d-861f-6cf1145f4f50",
+    "72cac585-5de7-56ca-8ea5-c133d3ff7acf"
+  ],
+  "contexts": [
+    "considering single genes in the context of a whole gene network may provide thenecessary context within which to interpr et the disease role a given gene may play. Constructing gene networks can provide a convenient framework for exploring the context within which single genes operate. A network is simply a graphicalmodel comprised of nodes and edges. For gene networks associated with biological systems, the nodes in the network typically represent genes, gene products, or other",
+    "is tackling this immense challenge bystudying networks of genes, proteins,metabolites, and other biomarkers thatrepresent models of genuine biologicalpathways. Studying complex diseasesin terms of gene networks rather thanindividual genes or genomic loci shouldaid in uncovering disease genes. Withthis approach, the effects of multiplegenes in the network are combined,producing a stronger signal and reducingthe number of statistical tests of associ-ation that must be performed.",
+    "traditional genetical genomics approaches. It should also be noted that our approach is different from studying gene-gene regulation within a pathway, which focuses on the interactive activities of individual gene pairs genes within a pathway. A biological pathway is defined as a series of molecular interactions and reactions. If there are subtle changes in the expression level of a few genes located in the upper cascade of a",
+    "genes rapidly that may be in the same genetic network as the gene you are interested in. Then you need to validate the role of that gene and to identify its function in that network. The point is this is a powerful methodology that can provide data in half an hour that allows you to form hypotheses that you can then spend years investigating. Reference Lee PD, Ge B, Greenwood CM et al 2006 Mapping cis-acting regulatory variation in recombi- nant congenic strains. Physiol Genomics 25:294302",
+    "ment to determine the role of the associated network ongene expression or function. To begin, a large genecorrelation graph must be sifted through, to find a highlyconnected subgraph that corresponds biologically to a genenetwork in which genes are expressed together, presumablyto regulate or subserve a common function. They must thenfind a small set of causative genes, highly correlated withthe subgraph and likely to regulate coexpression, to be usedas targets of focused investigation. By manipulating the",
+    "Confronted with this daunting complexity, the field often  progresses in small steps. A study may identify one or two relevant genes and assess their interactions with other factors. Gradually, genetic knowledge from many studies then can be assembled into a larger system of interactants that enables us to understand a set of related behaviors. We term this perspective behavioral genomics ( Fig. 2b ).2005 Nature Publishing Group  http://www.nature.com/natureneuroscience",
+    "Confronted with this daunting complexity, the field often  progresses in small steps. A study may identify one or two relevant genes and assess their interactions with other factors. Gradually, genetic knowledge from many studies then can be assembled into a larger system of interactants that enables us to understand a set of related behaviors. We term this perspective behavioral genomics ( Fig. 2b ).2005 Nature Publishing Group  http://www.nature.com/natureneuroscience",
+    "From the network, modules of coexpressed genes can be obtained, i.e. com-  munities of highly interconnected nodes within the graph. Such coexpressed  modules can then be studied as putative functional units, thereby considerably  reducing the dimensionality of the data. Different approaches have been proposed,  many of which are inspired by social network resear ch. Chesler et al. choose to  focus on sets of genes in which all nodes are inter connected; such sets are termed",
+    "large-scale human and experimental populations, focusing on how a single protein or RNA impacts disease will ultimately give way to how a network of gene interac- tions impacts disease. The integration of genetic, molecular proling, and clinical data has the potential to paint a more detailed picture of the particular network statesthat drive disease, and this in turn has the potential to lead to more progressive treat- ments of disease that may ultimately invol ve targeting of whole networks as opposed",
+    "from co-regulation patterns found within tens of thousands of samples for which gene expression was measured. GeneNetwork provid es un- precedented resolution and predictive power across multip le cell types and tissues. Analogous to discovering patterns in expressi on data, the network of protein-protein interactions can also be comput ationally pre- dicted using various methods[381]. The combined current knowledge of how cells control functio ns"
+  ],
+  "answer": "The difference between looking at one gene and studying a whole gene network lies in the scope and context of the analysis. When examining a single gene, the focus is on understanding the role and function of that specific gene, often in isolation. This approach can be limited because it does not consider the interactions and relationships that gene may have with others.  In contrast, studying a whole gene network involves analyzing a system of interconnected genes, which provides a broader context. A gene network is a graphical model where nodes represent genes or gene products, and edges represent interactions between them [1]. This approach allows researchers to explore how multiple genes interact within biological pathways, potentially uncovering complex relationships and combined effects that a single-gene analysis might miss [2]. By studying gene networks, researchers can gain insights into the collective behavior of genes, which can be crucial for understanding complex diseases and biological functions [2]. Additionally, gene networks can help identify highly connected subgraphs that correspond to biologically relevant networks, aiding in the identification of causative genes and their regulatory roles [5].",
+  "question": "What\u2019s the difference between looking at one gene and studying a whole gene network?"
+}

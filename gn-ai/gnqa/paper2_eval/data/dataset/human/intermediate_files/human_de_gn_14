@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2021 - Human Molecular Genetics and Genomics.pdf",
+    "2015 - A new age in functional genomics using CRISPR Cas9 in arrayed library screening.pdf",
+    "2016 - Genome editing comes of age.pdf",
+    "2016 - Dissecting diabetes metabolic disease.pdf",
+    "2018 - Neuro-Immuno-Gene- and GenomeEditing-Therapy for Alzheimer\u2019s.pdf",
+    "2016 - Genome editing comes of age.pdf",
+    "2021 - Human Molecular Genetics and Genomics.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf"
+  ],
+  "extraction_id": [
+    "08a2c0e6-8ca8-5a72-974c-3f1e27ba1b15",
+    "49b81415-ef6f-5cc4-bb30-71e971070ebe",
+    "190e8838-4f61-5431-8848-98564ded7140",
+    "ebabc771-1777-56c1-9101-c1677c5ae908",
+    "66dbf4f0-2b37-5219-9eeb-0a560df8d888",
+    "c7b143d7-347c-5160-bfd4-82283b342d7d",
+    "08a2c0e6-8ca8-5a72-974c-3f1e27ba1b15",
+    "fe5bf2df-2eda-5ef0-8aad-79bbc5b898d6",
+    "54972d7f-0ddc-5076-9d58-890a85f71332",
+    "c072d600-8450-5842-ade1-aefd03854312"
+  ],
+  "document_id": [
+    "68e362a5-e580-5a4d-8d41-6a138c873ede",
+    "20df9469-e1cc-500e-ac30-fbba981d7aee",
+    "4078087a-c2a4-5c58-95b5-4ae243794800",
+    "eee2f79d-e093-52fb-871a-798fd859235e",
+    "cc0a025b-71e7-5712-bbf7-4ee1e0f769ef",
+    "4078087a-c2a4-5c58-95b5-4ae243794800",
+    "68e362a5-e580-5a4d-8d41-6a138c873ede",
+    "51350055-d53c-5692-ab53-337b8a8bafd6",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "62b635c3-040e-512a-b016-6ef295308a1e"
+  ],
+  "id": [
+    "chatcmpl-ADZAaZ3EtxdQEfdMEkkYN8ccIeUPg",
+    "ffbca864-26db-5f36-8ad4-3b8d24d46de6",
+    "2fbabecd-22c1-5570-8f38-bc934d463710",
+    "6dfc48be-a762-55d6-9aba-799d80e8140d",
+    "a3d6f231-29aa-5cf6-b856-004d3d9dd9c1",
+    "a4aa9de7-cc9f-5c3f-a9fe-c37a47faa5b7",
+    "ff2d183b-c5be-5e05-94c8-e2db379dcd96",
+    "4474c4e9-bc07-5610-8bb2-dafe5c95774b",
+    "6ba3cf43-be4d-561f-ad84-f79921cab37e",
+    "176b7aa5-17ef-590d-8807-1aa7def904bb",
+    "e5eef445-772e-5721-bb5f-24566a61e4e3"
+  ],
+  "contexts": [
+    "neered nucleases, CRISPR-Cas9  tools have accelerated the pace of  genomic research by permitting  highly efficient knockouts or  edits of virtually any gene in cells  or model organisms. Multiple CRISPR-Cas9based clinical trials  are in progress or are expected  to begin soon. Although Cas9- engineered cells havent yet dem - onstrated efficacy at scale, early  trial results suggest that such  cells are stable and dont cause  acute adverse reactions in humans.  Long-term safety is yet to be de -",
+    "stageissetforCRISPRtomakeanenormousimpactongenomic screening and thus scientic discovery in the coming years, and recent demonstrations of this system have shown great promise (Shalem etal., 2015 ).However,a number of technical challenges must be addressed in order to maximize the benet of this technology. In this review, we will discuss current applications of CRISPR in functional genomics and provide a perspective on futuredevelopmentsinthisarea. CRISPR/Cas9 Genome Editing",
+    "heralding the age of genome editing. Furthermore, Cas9 or guide RNAs have been linked to various effector proteins to enable targeted gene regulation 12,13 and epigenome modifications14,15.  It is worth noting, however, that many of these feats had been demonstrated previously using other nucleases or DNA-binding proteins 1,16. In this Perspective, I shed light on early genome  editing platforms that laid the groundwork for the widespread use of CRISPRCas9 in research and medicine (Fig. 1 ).",
+    "cline- or Tet-regulated Cas9 system. Current CRISPR/Cas systems arefrom Streptococcus pyogenes ,Streptococcus thermophilus ,Neisseria meningitides and Treponema denticola .2.5. Caveats of advanced genome editing tools Off-target effects . The DNA-binding domains of ZFNs and TALENs need to be very speci c for the target site to avoid off-target cleavage, which results in unwanted mutations and potentially cytotoxic effects [27]. CRISPR/Cas9 is also known to generate off-target alterations,",
+    "CRISPR/CAS9 HOLDS SIGNIFICANT PROMISE FOR THE DEVELOPMENT OFNEW AD MODELS AND PRECISIONTARGETED AD THERAPY Clustered regularly interspaced short palindromic repeat (CRISPR)-Cas nucleases have revolutionizedthe eld of gene editing and have tremendous appli-cation in the eld of molecular medicine [98102].Despite a signicant surge in CRISPR/Cas9-mediated genome editing in various disease models,the progress in the eld of AD has lagged behindsubstantially. We believe that genome editing can sig-",
+    "81. Applications for CRISPRCas9 beyond genome editing",
+    "CRISPR-Cas9 can be used to in - duce genome edits by creating  targeted DNA breaks that trigger  site-specific DNA repair. In next- generation formats, it can also  control the transcriptional output  of genes or alter genome se - quences using a process of nu - cleotide base editing  that does not require  repair of DNA breaks.  As these technolo - gies continue to mature, it will  become increasingly possible to  alter cellular genomes efficiently  and accurately. Coming on the heels of engi -",
+    "on transcriptional interfere nce (CRISPRi) and activation (CRISPRa) have also harnessed Cas9-based technologies for use in genome-wide studies ( 59,174). In addition, recent improvements in lentiviral library generation and propagation,as well as large-scale DNA and RNA synthesis, have allowedCRISPR-Cas9 technology to be exploited across multiple modelplatforms ( 59,175178). nCas9 The CRISPR-Cas9 system can tolerate certain mismatches to the DNA target since the required gRNAs are short. A disadvantage,",
+    "13. Kleinstiver BP, etal. High-fidelity CRISPRCas9 nucleases with no detectable genome-wide  off-target effects. Nature. 2016;529:4905.  14. Brane A, Tollefsbol T.Targeting telomeres and telomerase: studies in aging and disease uti- lizing CRISPR/Cas9 technology. Cells. 2019;8:186.  15. Wang H, etal. One-step generation of mice carrying mutations in multiple genes by CRISPR/ Cas-mediated genome engineering. Cell. 2013;153:9108.",
+    "Since its discovery, CRISPR-Cas technology has ignited a biological revolu- tion by providing a highly versatile platform that allows fast and efficient genome  editing in an ever-growing list of organisms. In this chapter we will first describe  the most recent advances in the development and application of the CRISPR-Cas  platform in biomedical research. Then we will discuss the most recent and notable  basic research applications of this technology in the study of the molecular causes"
+  ],
+  "answer": "### Potential Benefits of CRISPR-Cas9:  1. **Accelerated Genomic Research**: CRISPR-Cas9 tools have significantly accelerated the pace of genomic research by enabling highly efficient knockouts or edits of virtually any gene in cells or model organisms [1].     2. **Clinical Trials and Stability**: Multiple CRISPR-Cas9-based clinical trials are in progress, and early trial results suggest that CRISPR-engineered cells are stable and do not cause acute adverse reactions in humans [1].  3. **Functional Genomics**: CRISPR-Cas9 is set to make a significant impact on genomic screening and scientific discovery, with recent demonstrations showing great promise [2].  4. **Targeted Gene Regulation and Epigenome Modifications**: CRISPR-Cas9 has been linked to various effector proteins to enable targeted gene regulation and epigenome modifications [3].  5. **Precision Medicine**: CRISPR-Cas9 holds significant promise for the development of new models and precision-targeted therapies for diseases such as Alzheimer's Disease (AD) [5].  6. **Versatility and Efficiency**: CRISPR-Cas9 provides a highly versatile platform that allows fast and efficient genome editing in an ever-growing list of organisms [10].  ### Potential Risks of CRISPR-Cas9:  1. **Off-Target Effects**: CRISPR-Cas9 is known to generate off-target alterations, which can result in unwanted mutations and potentially cytotoxic effects [4].  2. **Technical Challenges**: There are several technical challenges that need to be addressed to maximize the benefits of CRISPR-Cas9 technology [2].  3. **Long-Term Safety**: While early trial results are promising, the long-term safety of CRISPR-Cas9-engineered cells is yet to be determined [1].  4. **Mismatch Tolerance**: The CRISPR-Cas9 system can tolerate certain mismatches to the DNA target, which could potentially lead to unintended edits [8].  By considering these benefits and risks, researchers and clinicians can better navigate the development and application of CRISPR-Cas9 technologies.",
+  "question": "What are the potential benefits and risks associated with gene editing technologies like CRISPR-Cas9?"
+}

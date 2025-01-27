@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - A genetic screen identifies hypothalamic Fgf15 as a regulator of glucagon secretion.pdf",
+    "2015 - Systems genetic analysis of hippocampal neuroanatomy and spatial learning in mice.pdf",
+    "2007 - Integration of mouse phenome data resources.pdf",
+    "2016 - Genetic Regulation of Gelsolin in Lung in Mouse Model and its Potential.pdf",
+    "2005 -Integrated gene expression profiling and linkage analysis in the rat.pdf",
+    "2019 - The expanded BXD family of mice A cohort for experimental systems genetics and precision medicine.pdf",
+    "2018 - Molecular Brain Adaptations to Ethanol_ Role of Glycogen Synthase (2).pdf",
+    "2008 -Han- Comparing Quantitative Trait Loci.pdf",
+    "2008 - Comparing Quantitative Trait Loci.pdf",
+    "2008 - Towards systems genetic analyses in barley Integration of phenotypic, expression and genotype data into GeneNetwork.pdf"
+  ],
+  "extraction_id": [
+    "7eae53fa-ac5e-5cf4-807c-5d13dffdcf83",
+    "69504f91-c34d-5555-a05a-ac485356cec6",
+    "6ba5dba3-6135-5545-bec9-eee2e1465e7b",
+    "311be2a2-4428-5887-8ed2-35875eac9fcb",
+    "80a6f32f-a473-58ba-98ce-30100f5cc913",
+    "22772f7f-a42d-5438-a910-9e26c2916be2",
+    "1047bf10-3878-5b70-8bb2-c0249f2a9c53",
+    "e0bc4e49-6d6f-5b60-b7bc-18fd622629a8",
+    "476c90a3-1613-5e45-81b4-358519368bda",
+    "a6c480d1-b384-5c6f-b21b-94fe0b3b0f4d"
+  ],
+  "document_id": [
+    "288adb9b-a547-5e61-8593-1b2ab36271d3",
+    "8708ead5-20bc-5d41-82db-61a807eb3f90",
+    "08a3ce6e-947b-5ee9-b723-946807cf7d23",
+    "ec8452c0-1c16-54e6-9b9f-3e741a8c7340",
+    "7b3a7517-2967-5693-b4e8-8423a9fa432b",
+    "8df14e3b-644f-5a18-94a6-5ff5a1eae053",
+    "cc2690a9-5a87-5f09-87d5-115a6a6b8349",
+    "e6904cbd-8265-5e40-8978-d461ee6e151a",
+    "bfbddb84-c0e5-5d74-8e2d-9e54e75e8c49",
+    "8513abbe-65ed-5f35-9f86-ba93cfc5a194"
+  ],
+  "id": [
+    "chatcmpl-ADZKSZUCeTbC5g92NfqE6Fmp3TXXx",
+    "a2ffc857-6d79-5889-8344-cae8f1ca5e32",
+    "1e23f2e3-f4b1-5195-9061-5e525a13fb32",
+    "6c1e5cb1-ab19-5246-859d-a2f58d48232a",
+    "51757b6b-0492-5077-ba69-90a2ddf3da9d",
+    "dae9312b-c464-5fb7-bbc1-06ba2998e462",
+    "0b3d48d1-f253-508c-9a9e-5060e02d54a6",
+    "d261c68c-c253-52c9-8e27-f76fb8d0b4f8",
+    "9fbea8b6-25ad-5da9-bc9a-988784e33f0b",
+    "bd69b879-f1fe-57ee-8b36-b621708bdcc3",
+    "969d6ade-dc87-5f19-bd57-3f58882f11e8"
+  ],
+  "contexts": [
+    "QTL Mapping GeneNetwork ( www.genenetwork.org ) variants data set comprising about",
+    "Bioinformatics All of the genetic analyses were carried out in GeneNetwork, whichis an open source bioinformatics resource for systems genetics thatexists as both a repository for genetic, genomic and phenotypicdata together with a suite of statistical programs for data analy-sis that includes mapping and evaluating QTLs, examining pheno-type/genotype correlations and building interaction networks. QTL mapping The QTL mapping module of GeneNetwork was used to identify",
+    "the database is that each data collection is associated with a protocol which describes how  the data were generated. The project also provides online analysis tools to allow  identification of correlations within its data set. GeneNetwork ( http://www.genenetwork.org ), encompassing WebQTL, is a database of  genotypes and complex phenotypes ranging from gene expression to behaviour in standard  inbred strains, and six panels of mouse recombinant inbred strains including the two largest",
+    "QTL/interval analysis  QTL  mapping  was conducted  using  publically  available  software   on GeneNetwork  (http://www .genenetwork .org/webqtl /main .py).  One  important  feature  of the GeneNetwork  is WebQTL , which  is the  leading  GeneNetwork  module , and has been  optimized  for on-line  analysis  of traits  that are controlled  by combinations  of allelic  variants   and environmental  factors  [15]. A simple  graphical  user interface",
+    "WebQTL is the primary module in the Gene- Network online resource (www.genenetwork.org),and provides a powerful environment to analyzetraits controlled by genetic variants (Chesler et al.2004; Wang et al. 2003). It includes data from manypermanent genetic reference populations, including the HXB rat strains, and allows for phenotypic traits,",
+    "67. As described above, loci are identified in GeneNet work by the computation of a  likelihood ratio statistic score and significance  was determined using at least 5,000  permutations of the phenotype data.   Updated QTL mapping methods , such as  R/qtl 2 66,146, Multiple QTL mapping  64,  GEMMA  156 and pyLMM  63, have been implimented on t he GeneNetwork2 site 46.",
+    "genetic mapping, and correlation of quantitative traits such as gene expression data and behavioral parameters (Wang  et al, 2003) . GeneNetwork employs  genotype data from 3809 markers, selected based on their being informative (i.e., different between progenitor strains). GeneNetwork outputs peak likelihood ratio statistic (LRS) locations for each trait, whic h can be directly converted to",
+    "tool for combined visualization and exploration of geneexpression data and QTL. The methodology developedin this work is complementary to the analyses that canbe performed on the GeneNetwork website (WebQTL,http://www.genenetwork.org/ ), which allows assessment of the relationship between gene expressions and QTL inrecombinant in bred mice [ 3]. Comparing QTL and microarray data is not completely",
+    "tool for combined visualization and exploration of geneexpression data and QTL. The methodology developedin this work is complementary to the analyses that canbe performed on the GeneNetwork website (WebQTL,http://www.genenetwork.org/ ), which allows assessment of the relationship between gene expressions and QTL inrecombinant in bred mice [ 3]. Comparing QTL and microarray data is not completely",
+    "the database entries. Once the resulting record set of the query is returned, it can be further restricted by selecting relevant records based on attached annotations before for- warding it for further analysis. To map genetic loci associated with mRNA abundance or trait phenotypes, any one of the three QTL mapping func- tions currently employed by GeneNetwork's WebQTL module can be used. These are 1. interval mapping, 2. sin- gle-marker regression, or 3. composite mapping [29,30]."
+  ],
+  "answer": "For QTL mapping analysis in GeneNetwork2, datasets that are useful include genotypes and complex phenotypes ranging from gene expression to behavior in standard inbred strains and panels of mouse recombinant inbred strains [3]. Additionally, data from permanent genetic reference populations, such as the HXB rat strains, are also valuable [5]. These datasets allow for the identification of correlations within the data and the mapping of genetic loci associated with mRNA abundance or trait phenotypes [10].",
+  "question": "what type of dataset is useful for qtl mapping analysis in genenetwork2?"
+}

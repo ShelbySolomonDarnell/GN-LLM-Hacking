@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Insights into Sex Chromosome Evolution and Aging from the Genome of a Short-Lived Fish.pdf",
+    "2021 - Modern Statistical Methods for Genetics and Genomic Studies.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2018 - The genetic architecture of type 1 diabetes mellitus.pdf",
+    "2015 - Selecting causal genes from genome-wide association studies via functionally coherent subnetworks.pdf",
+    "2009 - Processing Large-Scale, High-Dimension Genetic and Gene Expression Data.pdf",
+    "2009 - Rare Variants of IFIH1, a Gene Implicated in Antiviral Responses, Protect Against Type 1 Diabetes.pdf",
+    "2013 - Pathways, Networks and Systems Medicine Conferences.pdf",
+    "2009 - Loss of A-type lamins and genomic instability.pdf",
+    "2020 - Functional Genomics in Pancreatic \u03b2 Cells Recent Advances in Gene Deletion and Genome Editing Technologies for Diabetes Research.pdf"
+  ],
+  "extraction_id": [
+    "516bdde0-cafe-5eac-a627-32ef9e262e32",
+    "9309edf2-5e2d-5567-ae78-f6681b866410",
+    "3276b251-2e60-53e8-8fd1-07702f486a43",
+    "5b8b3673-7fd4-5989-9982-a6d5ea374c8d",
+    "46616368-74e6-5605-9e43-9789e8e1bea1",
+    "3276b251-2e60-53e8-8fd1-07702f486a43",
+    "9893879f-6b73-5dc6-b274-f48ba8163644",
+    "4cdc439f-bd23-5978-9f34-a34e1cb33cf4",
+    "a6f16fce-1813-5d38-899f-6eb04c7d0007",
+    "f4955281-f174-562e-bc8a-170b701beffc"
+  ],
+  "document_id": [
+    "def32424-2f9d-5c4b-9c03-be2d8bd53a24",
+    "6acebf19-b80c-5352-8201-99d5634fcc80",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "341261db-b38a-5bd2-8d8d-fc04a0b3da30",
+    "af43f4ac-7211-52f0-8f6b-e4bde73bbe4a",
+    "17264155-b665-59db-94cb-f4d67eac20fc",
+    "7d9d5ce7-7bfe-5fe2-a325-fe97db015a10",
+    "b50a9732-7d01-5d4d-8f33-a9d43dbc7df3",
+    "eab22335-5688-5e37-9f65-c4b58d6d95c8",
+    "51350055-d53c-5692-ab53-337b8a8bafd6"
+  ],
+  "id": [
+    "chatcmpl-AIGsp8i4dh5GAWf5RuA0Au0DHwVdV",
+    "996bbbd1-c605-5733-bf20-42367be2244c",
+    "c7834fbb-eb9a-5f55-ac26-67af248e7179",
+    "c2dae4f8-2305-5d4a-a3f8-c0424d4b80b1",
+    "5543c99f-6542-55b8-b62c-e34a03b9c2fe",
+    "33dc52df-73a5-514e-8edb-33ae5046b8af",
+    "e26ebc1e-e05d-56fb-8718-604275994a84",
+    "fb3452e6-4584-5c3f-92de-9bc44d30b21c",
+    "a02b4589-65ec-50e1-9849-090971ddb2b0",
+    "38405f05-93df-579e-a8e4-c6b0c13e86a6",
+    "67365e1f-c588-56b5-aae0-44604958f8e1"
+  ],
+  "contexts": [
+    "genomes. Hence, chromosomal and spatial co-localization in the nucleus may indicate co-regulation. It was previously shown that 3D chromatin structure couples nuclear compartmentaliza-tion of chromatin domains with the control of gene activity ( Gue- len et al., 2008 ) and thus contributes to cell-specic gene expression ( Zullo et al., 2012 ). In this context, it is noteworthy that cellular senescence is associated with modications of theglobal chromatin interaction network ( Chandra et al., 2015 ). To",
+    "2     Introduction   Recent scientific advances have enabled the identification of functional genomic elements  through a diverse set of functional annotations, including proteins functional scores  (1, 2) ,  evolutionary conservation scores  (3-5), and epigenetics scores  from the Encyclopedia of DNA  Elements (ENCODE)  (6). Other initiatives such as the R oadmap Epigenomics project  (7) and  FANTOM5 project  (8, 9)  also provide evidence for potential regulatory v ariants in the human",
+    "accuracy of predictive networks [40, 5153]. We have also recently demonstrated how this class of network can be used to inform associations identied in GW Astudies [40]. 9 Summary The signicant challenge we face in the post-genome era is deciphering the bio-logical function of individual genes, pathways, and networks that drive complexphenotypes like disease. The availability of low-cost, high-throughput technologies",
+    "a growing awareness that the three-dimensional juxtaposition of DNAregions within nuclei means that genes can be regulated by regulatory elements that are located at some distance from the gene ( Fig. 5 ) (Javierre et al., 2016 ;Kadauke and Blobel, 2009 ). As a result of this, disease associated SNPs have been shown to fall in gene regulatory elements ( Chen and Tian, 2016; Fadason et al., 2017; Farh et al., 2014; Lee et al., 2014; Schierding et al., 2015 ).",
+    "network. Cell 9, 12121226 (2014). 12. Hirschhorn, J.N. Genomewide association studiesilluminating biologic  pathways. N. Engl. J. Med.  0, 16991701 (2009). 13. Cantor, R.M., Lange, K. & Sinsheimer, J.S. Prioritizing GWAS results:   a review of statistical methods and recommendations for their application.  Am. J. Hum. Genet.  8, 622 (2010). 14. Lee, I., Date, S.V., Adai, A.T. & Marcotte, E.M. A probabilistic functional  network of yeast genes. Science  0, 15551558 (2004).",
+    "Processing Large-Scale, High-Dimension Genetic 325 another. We anticipate these types of networks becoming increasingly important in the human genetics space to gain a mechanistic understanding of how a given DNAperturbation induces changes in one or more genes that go on to affect networks that cause disease. The integration of genotypic and expression and other data have recently been shown, in a Bayesian network framework [76], to enhance the overall",
+    "regions correlated with functional noncoding elements, including enhancers, better than did regions identified solely on the basis of nucleotide sequence. These results support the idea that the molecular shape of DNA is under selection and can identify evolutionary history. Genomic sequences that code for proteinsare relatively well understood but make up only ~2% of the human genome ( 1). Many functions are encoded in the remaining ~98% noncoding portion of the genome, but little",
+    "gene, and the first f unctional anti -sense miRNA, Lastly, we have used  comparative genomics to infer regulatory networks based on individual  conserved instances of regulatory motifs, which show functional enrichments  similar and sometimes higher to genome -scale experimental met hods such as  ChIP -chip.  As part of the ENCODE and modENCODE projects, we are now  studying dynamics of developmental and cell -differentiation networks in",
+    "References 1. Cremer T, Cremer M, Dietzel S, Muller S, Solovei  I, Fakan S. Chromosome territoriesa function-al nuclear landscape. Curr Opin Cell Biol 2006; 18:307-16. 2. Misteli T. Beyond the sequence: cellular organization of genome function. Cell 2007; 128:787-800. 3. Schneider R, Grosschedl R. Dynamics and interplay of nuclear architecture, genome organization and gene expression. Genes Dev 2007; 21:3027-43.",
+    "enhancers in the control of cell identity and disease. Cell(2013) 155:934 47. doi: 10.1016/j.cell.2013.09.053 45. de Wit E, de Laat W. A decade of 3C technologies: insights into nuclear organization. Genes Dev (2012) 26:11 24. doi: 10.1101/gad.179804.111 46. Schmitt AD, Hu M, Ren B. Genome-wide mapping and analysis of chromosome architecture. Nat Rev Mol Cell Biol (2016) 17:743 55. doi: 10.1038/nrm.2016.104 47. Javierre BM, Burren OS, Wilder SP, Kreuzhuber R, Hill SM, Sewitz S, et al."
+  ],
+  "answer": "Recent findings on 3D genome organization have significantly enhanced our understanding of functional genomic networks in several ways:  1. **Co-regulation through Spatial Organization**: The 3D chromatin structure is known to couple nuclear compartmentalization of chromatin domains with the control of gene activity, which contributes to cell-specific gene expression [1]. This spatial organization within the nucleus suggests that chromosomal and spatial co-localization may indicate co-regulation of genes, thereby influencing functional genomic networks.  2. **Regulation by Distant Elements**: There is a growing awareness that the three-dimensional juxtaposition of DNA regions within nuclei allows genes to be regulated by elements located at a distance from the gene itself [4]. This understanding helps explain how disease-associated SNPs can fall within gene regulatory elements, thus affecting genomic networks and potentially leading to disease.  3. **Integration with Functional Annotations**: Advances in identifying functional genomic elements through various annotations, such as those from the ENCODE project, have been complemented by insights into 3D genome organization. This integration helps in identifying potential regulatory variants and understanding their roles within genomic networks [2].  These findings collectively contribute to a more comprehensive understanding of how genes are regulated within the complex spatial architecture of the genome, thereby enhancing our knowledge of functional genomic networks.",
+  "question": "How do recent findings on 3D genome organization contribute to our understanding of functional genomic networks?"
+}

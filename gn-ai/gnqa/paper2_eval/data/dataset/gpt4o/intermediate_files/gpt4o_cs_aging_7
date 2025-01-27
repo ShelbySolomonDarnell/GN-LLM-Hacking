@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Caloric restriction and genomic stability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2018 - Nuclear Genomic Instability.pdf",
+    "2017 - Mutation and catastrophe in the aging genome.pdf",
+    "2007 - Decline of nucleotide excision repair capacity in aging.pdf",
+    "2005 - DNA Repair, Genome Stability.pdf",
+    "2023 - Genomic Instability Evolutionary Footprints on Human Health.pdf",
+    "2005 - DNA Repair, Genome Stability.pdf"
+  ],
+  "extraction_id": [
+    "a563be97-fd42-50ba-8a26-3e1ca3b738db",
+    "44047f31-85e4-587c-ba58-8c3494fb7d52",
+    "e3e52327-4a23-5003-b418-dafdcdcae82c",
+    "b934a2a9-a672-5d65-9d0d-bbc36652a148",
+    "2b406c50-28e1-5b8c-a39d-a26db15f8aaa",
+    "eb91e436-a1bb-5d10-b648-07224b9e5bff",
+    "a0e59df7-6a34-5f03-af2e-82bdc0edacb9",
+    "5ea2fb27-ddd7-50b4-b318-39ca71f1c7e2",
+    "57e201b2-a357-5cff-9555-49955299669e",
+    "67128b6e-9bd6-53fe-b1e7-d0721db8619d"
+  ],
+  "document_id": [
+    "76c08863-1522-519b-8da6-65a872418fee",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "54d28a91-8db6-56b1-baaa-b67274c93a36",
+    "7ae205a2-e002-5e8b-bbf1-ea96ab599b37",
+    "c9bb2ba2-a001-5c1b-8be8-d1c184924362",
+    "e658e73b-2494-5fa3-ae39-9f4933bc037b",
+    "59dec4a5-f80a-5a82-b55a-b6b1b33b907f",
+    "e658e73b-2494-5fa3-ae39-9f4933bc037b"
+  ],
+  "id": [
+    "chatcmpl-AIFhETjzplVDZqcInKYA6bobssz1r",
+    "566bd0c9-262e-543e-8934-1af5fa9edef5",
+    "b8c3720d-f697-5d2f-9728-49b7489d6509",
+    "9180d1c5-31b6-533e-bf2e-4b367dc2097d",
+    "ca253ce9-4661-5ca2-bf17-3a86ef3eff1d",
+    "494f865d-a7b6-5978-9b02-d5e628952a9d",
+    "a1370bf9-13f2-5c98-9d9d-9dfead21ebd7",
+    "8d2bc107-4d94-5dd8-8f67-b593aecc0478",
+    "4db748ed-7063-50e5-b42c-cb6fa3ecd9a2",
+    "4521b426-a67e-51e4-bc63-b6da5fab60cf",
+    "4c627903-8a25-5db0-8a60-1850a924a27b"
+  ],
+  "contexts": [
+    "Effect of age on DNA repair Research over the past decades suggest that many steps in DNA metabolism are altered with age in a variety of tissues and animal models (56,57). The relation of DNArepair to aging has been studied by measuring the ability of cells from organisms of various life spans to repair DNA damage and by experiments that have comparedthe ability of cells from young and old organisms to repair DNA damage. Interest was peaked by the original",
+    "BI87CH14_Niedernhofer ARI 18 May 2018 15:1 SUMMARY POINTS 1. Evolutionarily conserved DNA repair pathways maintain the integrity and stability of the nuclear genome. Impairment of DNA repair mechanisms results in accelerated agingand/or cancer. 2. Evidence in humans and model organisms supports the conclusions that with age (a) endogenous sources of genotoxins increase, ( b) DNA repair capacity declines, and (c) levels of DNA damage and mutations increase.",
+    "Several lines of evidence suggest that DNA repair capacity might decrease with age. However,it should be noted that measuring DNA repair in tissues is challenging and that the validity ofsurrogate markers of repair capacity is not well established. For example, a reduction in expression of DNA repair genes/proteins is not proven to impact DNA repair. Frequently, the reduction in",
+    "improved DNA repair. Finally, there should be a plausible mechanism by which DNA damage can drive aging. Here, we review the evidence currently supporting each of these predictions. EVIDENCE THAT DNA DAMAGE INCREASES WITH AGE Sources of Damage Increase with Age The free radical theory of aging posits that aging is caused primarily by oxidative damage in- curred by ROS that chemically modify critical cellular biomolecules (13). This theory has evolved",
+    "All rights reservedKeywords DNA damage, aging, mutations, senescence, DNA damage response, DNA repair Abstract The nuclear genome decays as organisms age. Numerous studies demon- strate that the burden of several classes of DNA lesions is greater in older mammals than in young mammals. More challenging is proving this is acause rather than a consequence of aging. The DNA damage theory of aging, which argues that genomic instability plays a causal role in aging,",
+    "repaired; otherwise the genome would soon become saturated with damage and life would cease. There is some evidence that DNA damage accumulates with age in some tissues ( Maslov et al., 2013 ), but the exact nature of the damage remains unclear. Indeed, even these low levels of spontaneous DNA damage may represent a steady state due to continu- ous repair and induction of new damage. However, DNA damage can cause certain aging phenotypes by activating cellular responses, such",
+    "36:1049-1062. 66. Hasty P, Vijg J: Accelerating aging by mouse reverse genetics: a rational approach to understanding longevity.   Aging Cell 2004, 3:55-65. 67. Bohr VA: Deficient DNA repair in the human progeroid dis- order, Werner syndrome.   Mutat Res  2005, 577:252-259. 68. Nouspikel T, Hanawalt PC: DNA repair in term inally differenti- ated cells.   DNA Repair  2002, 1:59-75. 69. Nouspikel T, Hanawalt PC: When parsimony backfires: neglect- ing DNA repair may doom neurons in Alzheimer's disease.",
+    "DNA repair. In the latterdifficult to arrive at a strict, experimentally useful defini-context, most premature aging syndromes are causedtion of aging. Factors implicated in organismal declineby mutations in genes encoding proteins involved inin genetic models might not play a role in the normalDNA repair ( Karanjawala and Lieber, 2004 ). Accumula-aging processes. A related difficulty is that prematuretion of mutations in critical genes may be one generalaging models fail to recapitulate all aspects of",
+    "escape the repair process and accumulate in the genome, impacting several processes and aging [67,145147]. There is little evidence of association between DNA repair improvement and life- time expansion [ 148,149], thus, indicating that such mechanism seems to have evolved to maintain DNA stabilityand therefore healthonly until reproductive age, without any regard for the fate of the individual in old age, both in terms of quality and length of",
+    "with age, and DNA repairtween different tissues. These differences likely reflectdefects can cause phenotypes resembling prematurefunctional characteristics of those tissues, such as mi-aging. We discuss how cellular DNA damage re-totic rate, transcriptional activity, metabolism, and thesponses may contribute to manifestations of aging.action of specific DNA repair systems.We review Sir2, a factor linking genomic stability, me-Reactive Oxygen Species: An Important Sourcetabolism, and aging. We conclude"
+  ],
+  "answer": "DNA repair plays a significant role in aging by maintaining the integrity and stability of the nuclear genome. Impairment of DNA repair mechanisms can result in accelerated aging and/or cancer [2]. As organisms age, endogenous sources of genotoxins increase, DNA repair capacity declines, and levels of DNA damage and mutations increase [2]. This accumulation of DNA damage is associated with aging phenotypes, as DNA damage can activate cellular responses that contribute to aging [6]. The DNA damage theory of aging suggests that genomic instability, caused by accumulated DNA damage, plays a causal role in aging [5]. Additionally, the burden of DNA lesions is greater in older mammals compared to younger ones, indicating that DNA repair is crucial for mitigating the effects of aging [5].",
+  "question": "What role does DNA repair play in aging?"
+}

@@ -1,0 +1,2095 @@
+{
+  "1": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYmUfKwQ32pLN2HQWzuhXDWOhemk",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Gene expression in the liver is significantly affected by diabetes in several ways:\n\n1. **Hepatic Lipogenic Capacity**: In diabetic obese mice, gene expression profiles suggest a role of hepatic lipogenic capacity in diabetes susceptibility, indicating that genes involved in lipid metabolism are differentially expressed in the liver of diabetic individuals [1].\n\n2. **High Fat Feeding**: In diabetic Goto-Kakizaki rats, high fat feeding alters liver gene expression, which implies that dietary factors can further influence the gene expression changes associated with diabetes [2].\n\n3. **Variability of Gene Expression**: Diabetes increases the variability of gene expression levels in the liver, affecting the regulation of genes involved in both glucose and lipid metabolism [3], [4].\n\n4. **Glucose Homeostasis and Insulin Resistance**: The liver, along with skeletal muscle and adipose tissue, plays a crucial role in maintaining glucose homeostasis. Functional analysis of differentially expressed genes in the liver has identified networks of genes and potential regulators whose activation and inhibition could explain insulin resistance and dysglycemia in diabetic conditions [5], [6], [7], [8].\n\n5. **Carbohydrate Metabolism**: A glucose-responsive transcription factor that regulates carbohydrate metabolism in the liver is affected by diabetes, indicating changes in the expression of genes involved in glucose metabolism [9].\n\nOverall, diabetes leads to significant changes in the expression of genes in the liver, affecting pathways related to lipid and glucose metabolism, insulin resistance, and overall metabolic homeostasis.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795326,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 304,
+          "prompt_tokens": 1286,
+          "total_tokens": 1590
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "08c0f648-0618-56cb-935a-c627000943f4",
+            "score": 0.6753797918105373,
+            "metadata": {
+              "text": "Lan H, Rabaglia ME, Stoehr JP, Nadler ST, Schueler KL et al (2003)\nGene expression proles of nondiabetic and diabetic obese mice\nsuggest a role of hepatic lipogenic capacity in diabetes\nsusceptibility. Diabetes 52:688700Theor Appl Genet (2008) 116:683690 689\n123",
+              "title": "2007 - Combining classical trait and microarray data to dissect transcriptional regulation a case study.pdf",
+              "version": "v0",
+              "chunk_order": 68,
+              "document_id": "bb54e43d-7f70-5ee2-a5b9-0e20000dfd97",
+              "extraction_id": "1e5ec803-ae2d-5bbd-8d40-438fb1ec1eab",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "1b2895af-da13-52dd-9fd2-133a43b98b5f",
+            "score": 0.6636303072636782,
+            "metadata": {
+              "text": "Effects of high fat feeding on liver gene expression in diabetic goto-kakizaki\nrats, Gene Regul. Syst. Bio 6 (2012) 151 e168.\n[23] P.J. Kaisaki, G.W. Otto, J.F. McGouran, A. Toubal, K. Argoud, H. Waller-Evans,\nC. Finlay, S. Cald /C19erari, M.T. Bihoreau, B.M. Kessler, D. Gauguier, R. Mott, Ge-\nnetic control of differential acetylation in diabetic rats, PLoS One 9 (2014)\ne94555 .\n[24] S.P. Wilder, P.J. Kaisaki, K. Argoud, A. Salhan, J. Ragoussis, M.T. Bihoreau,",
+              "title": "2017 - Genomic regulation of type 2 diabetes endophenotypes Contribution.pdf",
+              "version": "v0",
+              "chunk_order": 96,
+              "document_id": "fef1ae33-b3af-50ea-909c-f1b57f7fe981",
+              "extraction_id": "a0845748-d229-56b1-8666-5fd7708267b4",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "39d6e4a1-5bbd-5f35-80b2-d3c205a5457c",
+            "score": 0.6634054384585966,
+            "metadata": {
+              "text": "Figure 2. Diabetes increases the variability of gene expression levels in other experimental paradigms. ( A) Microarray data from gene",
+              "title": "2010 - Neural tube defect genes and maternal diabetes during pregnancy.pdf",
+              "version": "v0",
+              "chunk_order": 85,
+              "document_id": "aa74b552-7e06-5596-8dec-298c40ad558c",
+              "extraction_id": "eaa27c67-ef56-5b12-8dc0-a656cc36c529",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "2a71b5a3-67d8-55d8-97f8-cb34cbfcaa41",
+            "score": 0.6524014680146307,
+            "metadata": {
+              "text": "also showed differential expression in the liver, where it\nregulates a number of genes involved in both glucose andlipid metabolism. These results add further support to aTable 3: Numbers of genes for which expressi on levels in pancreas, skel etal muscle, adipose tissue or  liver were altered in dia betes as \ncompared to controls\nP < 0.01 (DGI) P < 0.05 (DGI)\nP < 0.01 (WTCCC) 11 42\nP < 0.05 (WTCCC) 30 115\nP < 0.01 in DGI and P < 0.05 in WTCCC or \nP < 0.01 in WTCCC and P < 0.05 in DGI60",
+              "title": "2009 - Prioritizing genes for follow-up from genome wide association studies using information on gene expression in tissues relevant for type 2 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 47,
+              "document_id": "4b1a56e7-6821-5504-b6da-27dcdf57c6a5",
+              "extraction_id": "543f1861-21f2-52de-88e5-fa81a7b6ef64",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "1e08685d-0f9d-5ead-84c1-e97fe346e025",
+            "score": 0.6327969839335412,
+            "metadata": {
+              "text": "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci-\nsive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis-\ntance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks\nofgenes and potential regulators whose activation and inhibition could explain insulin resis-\ntance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+              "title": "2022 - System Genetics in the Rat Family.pdf",
+              "version": "v0",
+              "chunk_order": 121,
+              "document_id": "426b5aeb-1550-5039-8f2a-bd83d17c8648",
+              "extraction_id": "ec24c99e-4654-5fb7-a1ed-ec3f8a941711",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "4c381a87-dc30-5d3a-95a9-a32255cfe571",
+            "score": 0.6327969839335412,
+            "metadata": {
+              "text": "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci-\nsive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis-\ntance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks\nofgenes and potential regulators whose activation and inhibition could explain insulin resis-\ntance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+              "title": "2022 - Systems genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+              "version": "v0",
+              "chunk_order": 121,
+              "document_id": "e6323aba-6fec-500b-99e3-a41c2e7f17ff",
+              "extraction_id": "184f8279-2ea5-5f18-8e15-2804ee9e62d5",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "e8e69e50-076e-5459-ac5a-8e267fa33e13",
+            "score": 0.6327969839335412,
+            "metadata": {
+              "text": "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci-\nsive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis-\ntance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks\nofgenes and potential regulators whose activation and inhibition could explain insulin resis-\ntance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+              "title": "2022 -Senko- Hippocampal neurogenesis serum glucose.pdf",
+              "version": "v0",
+              "chunk_order": 121,
+              "document_id": "bac2ab98-4317-59ed-99ef-deda8c22786d",
+              "extraction_id": "c597d023-1a22-5849-8c4f-9f3448c22962",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "0be84448-80cf-52bd-a84c-668a9ac49b20",
+            "score": 0.6327915003063853,
+            "metadata": {
+              "text": "toSHR wild type littermates. Liver, together with skeletal muscle and adipose tissue, aredeci-\nsive organs inmaintaining glucose homeostasis and, hence, thedevelopment ofinsulin resis-\ntance [75]. Functional analysis ofdifferentially expressed genes intheliver identified networks\nofgenes and potential regulators whose activation and inhibition could explain insulin resis-\ntance and dysglycemia intheheterozygous animals. Wealso recorded significant upregulation",
+              "title": "2022 -Senko- System Genetics in the Rat HXB\uf022BXH Family.pdf",
+              "version": "v0",
+              "chunk_order": 121,
+              "document_id": "c67a6829-954a-5202-85fb-7524b03fab28",
+              "extraction_id": "a56d014f-d78d-582c-845d-2b10823f5424",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "6b49a027-22fc-59c5-aa87-3155663fd003",
+            "score": 0.6311947923186556,
+            "metadata": {
+              "text": "mRNA in diabetic liver. Biochem Biophys Res Commun 290: 903-908, 2002. 712\n42. Watson PJ, Fairall L, and Schwabe JW . Nuclear hormone receptor co-repressors: 713\nstructure and function. Mol Cell Endocrinol 348: 440-449, 2012. 714\n43. Yamashita H, Takenoshita M, Sakurai M, Bruick RK, Henzel WJ, Sh illinglaw 715\nW, Arnot D, and Uyeda K . A glucose-responsive transcr iption factor that regulates 716\ncarbohydrate metabolism in the liver. Proc Natl Acad Sci U S A 98: 9116-9121, 2001. 717",
+              "title": "2020 - ChREBP downregulates SNAT2 amino acid transporter expression through interactions with SMRT in response to a high-carbohydrate diet.pdf",
+              "version": "v0",
+              "chunk_order": 141,
+              "document_id": "fbfc6093-648c-55f7-9fc8-2ec4964278f1",
+              "extraction_id": "a575ca7c-aa73-5b6a-a152-0ff08ddec434",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          },
+          {
+            "id": "0feb3ea0-bd53-5e94-8a65-8cd2bdecdf0e",
+            "score": 0.6228389554369785,
+            "metadata": {
+              "text": "impacts gene expression in a cell type-dependent manner. Science 2009;325:1246 1250diabetes.diabetesjournals.org Locke and Associates 1491Downloaded from http://diabetesjournals.org/diabetes/article-pdf/64/4/1484/580211/db140957.pdf by Kenya Institution user on 11 July 2023",
+              "title": "2015 - Targeted Allelic Expression.pdf",
+              "version": "v0",
+              "chunk_order": 88,
+              "document_id": "a0f46d1e-81be-5b29-9082-86c1114c3edd",
+              "extraction_id": "37df3b54-130c-5424-90f6-af59ecb5cdf8",
+              "associatedQuery": "How is gene expression in the liver affected by diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "2": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYmdeow5Femrvb7YWgDS0ML3p64y",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Yes, the genes SH2B3, IFIH1, and ERBB3 are related to diabetes:\n\n1. **IFIH1**: This gene is implicated in antiviral responses and has been found to protect against type 1 diabetes [1], [3], [5], [8].\n2. **ERBB3**: This gene is considered to have a role in immune signaling, which is a major feature of type 1 diabetes susceptibility [4]. Additionally, it has been proposed as a candidate gene near a QTL for type 1 diabetes [7].\n3. **SH2B3**: This gene is also considered to have a role in immune signaling related to type 1 diabetes susceptibility [4].\n\nThus, all three genes, SH2B3, IFIH1, and ERBB3, are related to diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795335,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 172,
+          "prompt_tokens": 1577,
+          "total_tokens": 1749
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6f00dd31-490e-53cd-81b3-c56e13bd7edd",
+            "score": 0.6351538896560669,
+            "metadata": {
+              "text": "associated with increased fasting plasma glucose levels and type2 diabetes risk. Nat Genet. 2009;41(1):89 94.\n23. Rees M, Wincovitch S, Schultz J, Waterstradt R, Beer N, Baltrusch\nS, et al. Cellular characterisation of the GCKR P446L variant\nassociated with type 2 diabe tes risk. Diabetologia. 2012;55\n(1):114 22.\n24. Nejentsev S, Walker N, Riches D, Egholm M, Todd J, et al. Rare\nvariants of IFIH1 , a gene implicated in antiviral responses, protect\nagainst type 1 diabetes. Science. 2009;324(5925):387 9.",
+              "title": "2012 - Recent Developments in the Genetic and Genomic Basis of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 69,
+              "document_id": "7d051350-d939-5183-be22-742727573a75",
+              "extraction_id": "1213249d-8ed3-5d13-9137-f11b87a7a78b",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "fa4e127f-2c54-592b-a478-152bc74e7351",
+            "score": 0.6322695393722986,
+            "metadata": {
+              "text": "HLAlinked genes in juvenile diabetes mellitus. \nBr.Med. J. 3, 133135 (1975).\n52. Erlich,H.A.  etal.  Next generation sequencing reveals \nthe association of DRB3*02:02 with type 1 diabetes. \nDiabetes  62, 26182622 (2013).\n53. CaillatZucman,S.  etal.  Agedependent HLA genetic \nheterogeneity of type1 insulindependent diabetes \nmellitus. J.Clin. Invest. 90, 22422250 (1992).\n54. Cucca,F.  etal.  The distribution of DR4 haplotypes \ninSardinia suggests a primary association of typeI",
+              "title": "2017 - Type 1 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 187,
+              "document_id": "8e8b9b6e-8dfb-5aae-8c61-5f53bd4e0242",
+              "extraction_id": "39b6a474-b721-509f-bbc3-094dc1f49634",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "f0c9d05b-7999-5cb7-bb48-0666cf74aec0",
+            "score": 0.6240234375,
+            "metadata": {
+              "text": "holdt R, Akolkar B, Erlich HA, Hilner JE, Julier C, Morahan G, Nerup J,Nierras CR, Chen WM, Rich SS, Type 1 Diabetes Genetics Consortium. Ahuman type 1 diabetes susceptibility locus maps to chromosome 21q22.3.Diabetes 2008;57:2858 2861\n58. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA. Rare variants of\nIFIH1, a gene implicated in antiviral responses, protect against type 1diabetes. Science 2009;324:387389\n59. Altshuler D, Daly M. Guilt beyond a reasonable doubt. Nat Genet 2007;39:\n813 815",
+              "title": "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+              "version": "v0",
+              "chunk_order": 167,
+              "document_id": "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+              "extraction_id": "5557d2db-b55a-59c9-8fe7-89b196a28617",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "55dca975-78ec-594d-8a30-a0849b683089",
+            "score": 0.6116858903076022,
+            "metadata": {
+              "text": "because of their presumed roles in immune signalling, considered\nto be a major feature of T1D-susceptibility. These include ERBB3\n(receptor tyrosine-protein kinase erbB-3 precursor) at 12q13 and\nSH2B3/LNK (SH2B adaptor protein 3), TRAFD1 (TRAF-type zinc\nfinger domain containing 1) and PTPN11 (protein tyrosine phos-\nphatase, non-receptor type 11) at 12q24. For these signal regions in",
+              "title": "2018 - Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.pdf",
+              "version": "v0",
+              "chunk_order": 163,
+              "document_id": "af63c74d-a204-5f9f-9a32-3451b112e5ba",
+              "extraction_id": "43eecb5d-aca2-5c3e-9351-afbef000a795",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "126bf287-0f5e-52a9-abac-ad59ad3ea153",
+            "score": 0.6115562088225023,
+            "metadata": {
+              "text": "Nejentsev S, Walker N, Riches D, Egholm M, Todd JA (2009) Rare\nvariants of IFIH1, a gene implicated in antiviral responses,\nprotect against type 1 diabetes. Science 324:387389\nNicolson TJ, Bellomo EA, Wijesekara N, Loder MK, Baldwin JM,\nGyulkhandanyan AV, Koshkin V, Tarasov AI, Carzaniga R,\nKronenberger K, Taneja TK, da Silva Xavier G, Libert S,",
+              "title": "2011 - Type 2 diabetes and obesity genomics and the clinic.pdf",
+              "version": "v0",
+              "chunk_order": 158,
+              "document_id": "5086a525-124e-5a45-b75a-657d67a3250a",
+              "extraction_id": "10685e4c-eb4c-562a-a64a-d98e83c12c0b",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "90565c2b-fdb6-5b0f-a710-9086a4cfcd2b",
+            "score": 0.6109707819258278,
+            "metadata": {
+              "text": "7 \n (Wellcome Trust Case Control Consortium 2007) .  Separate work that examined liver gene \nexpression in a smaller cohort of human samples with and without Type I diabetes found \nthat ERBB3  did not have a cis -eQTL but that a flanking gene, R PS26, did.  Since the disease \nphenotype and RPS26  both had QTLs in the same location, this suggested the RPS26  was a \nstronger candidate than ERBB3 .  The authors then used mouse liver and adipose expression",
+              "title": "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+              "version": "v0",
+              "chunk_order": 53,
+              "document_id": "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+              "extraction_id": "151aa443-b9af-55db-9a30-adc4440ac7ef",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "ceb7bd13-b917-566f-8e17-40dd523afd42",
+            "score": 0.6101589202880859,
+            "metadata": {
+              "text": "models.  A genome wide association study in a large human population proposed the \nreceptor typrosine kinase ERBB3  as the best candidate gene near a QTL for Type I diabetes",
+              "title": "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+              "version": "v0",
+              "chunk_order": 52,
+              "document_id": "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+              "extraction_id": "7cbef74a-2d81-5a3a-a4d4-dfacdb86e632",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "226e2873-a0bf-554d-9576-7fca5f2ffc0f",
+            "score": 0.6101525658278139,
+            "metadata": {
+              "text": "61. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA (2009) Rare variants of IFIH1, a gene implicated\nin antiviral responses, protect against type 1 diabetes. Science 324: 387 389. doi: 10.1126/science.\n1167728 PMID: 19264985\n62. Nica AC, Ongen H, Irminger JC, Bosco D, Berney T, et al. (2013) Cell-type, allelic, and genetic signa-\ntures in the human pancreatic beta cell transcriptome. Genome Res 23: 1554 1562. doi: 10.1101/gr.\n150706.112 PMID: 23716500",
+              "title": "2015 - Transcript Expression Data from Human.pdf",
+              "version": "v0",
+              "chunk_order": 182,
+              "document_id": "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+              "extraction_id": "867d0b1b-16a1-53ea-b014-3c204b9001a5",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "a495dcc8-5cee-58a9-9f15-95be8fbc9b6a",
+            "score": 0.6081522340683808,
+            "metadata": {
+              "text": "gene is associated with insulin-dependent diabetes mellitus. Diabetes\n33:176 183, 1984\n3. Nistico L, Buzzetti R, Pritchard L, Van der Auwera B, Giovannini C, Bosi E,\nLarrad M, Rios M, Chow C, Cockram C, Jacobs K, Mijovic C, Bain S,Barnett A, Vandewalle C, Schuit F, Gorus F, Tosi R, Pozzilli P, Todd J: TheCTLA-4 gene region of chromosome 2q33 is linked to, and associated with,type 1 diabetes: Belgian Diabetes Registry. Hum Mol Genet 5:1075 1080,\n1996",
+              "title": "2004 - Interaction and Association Analysis of a Type 1 Diabetes Susceptibility Locus.pdf",
+              "version": "v0",
+              "chunk_order": 102,
+              "document_id": "4246f8d0-69e8-56cf-9674-d379467dfb61",
+              "extraction_id": "d71343b2-f7c5-52b4-96f9-bcc98f97fe81",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          },
+          {
+            "id": "997a967e-6428-51c9-9847-24d16f11f9f1",
+            "score": 0.6061311598938023,
+            "metadata": {
+              "text": "One of these genes associated with type 2 diabetes is the \ninsulin receptor substrate 1 (IRS1, OMIM association num-ber, 147545) (Alharbi, Khan, Abotalib, & AlHakeem, 2014; Alharbi, Khan, Munshi et al., 2014; Brender et al., 2013; \nBrunetti, Chiefari, & Foti, 2014) and another is the CC motif chemokine receptor5(CCR5, OMIM association num-ber, 601373) (Balistreri et al., 2007; Mokubo et al., 2006; \nMuntinghe et al., 2009).\nInsulin initiates a wide range of growth and metabolic ef-",
+              "title": "2019 - IRS1\u2010 rs10498210 GA and CCR5\u201059029 AG polymorphisms in patients with type 2 diabetes in Kurdistan.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "18afbfee-ddee-54b3-88cc-342812a65d09",
+              "extraction_id": "843f5b60-2702-59e4-b237-02d002200e6d",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3  related to diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "3": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYmiyBbswpmJDsIM9Hrs7jxPruIX",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Genomics can be used to better understand the nutritional factors of diabetes through the study of nutrient-gene interactions, which play a significant role in the pathophysiology of diabetes mellitus (DM) [1]. Nutrigenetics and nutrigenomics are fields that focus on how genetic variations affect nutrient metabolism and the body's response to nutrient intake, which can influence the development and progression of DM [3]. \n\nBy identifying gene variants that contribute to both fetal growth and susceptibility to Type 2 Diabetes Mellitus (T2DM), researchers can better understand how metabolic programming is partly genetically determined [2]. This understanding can help in predicting disease risk more accurately and developing personalized dietary recommendations to prevent and manage DM [4].\n\nMoreover, studying gene-nutrient interactions can reveal early molecular events in DM, contributing to the identification of better biomarkers and diagnostic tools [6]. This approach can also facilitate the development of tailored diets that maximize the use of nutrients and functional ingredients in food, aiding in the prevention and delay of DM and its complications [8]. \n\nOverall, genomics provides insights into how nutrients can affect gene expression through various mechanisms, such as directly, through their metabolites, or through signal transduction molecules [9]. This comprehensive understanding can lead to more effective prevention and treatment strategies for diabetes based on individual genetic profiles.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795340,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 262,
+          "prompt_tokens": 1219,
+          "total_tokens": 1481
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "430a5d63-0af9-569e-b9db-2cc4262f1d77",
+            "score": 0.721666693687439,
+            "metadata": {
+              "text": "understood. It seems that interactions between multiple genes and environmental factors may play a role. \nOne of these factors is dietary factors. There is evidence supporting the role  of nutrient- gene interactions  \nin DM pathophysiology  [5]. Thus, a greater understanding of potential gene -nutrient interactions may \nbe relevant for DM prevention and treatment. \nNutrigenetics and nutrigenomics are defined as the science of the effects of genetic variation on",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "c9f99f8c-8432-59fa-8392-38eba8a63d8b",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "0337dd9b-7228-5664-aff3-fa20c0f04d6d",
+            "score": 0.7130865454673767,
+            "metadata": {
+              "text": "nutrition  [12] . The identi  cation of gene variants that contribute \nboth to variation in fetal growth and to the susceptibility to T2DM, however, suggests that this metabolic   programming   could also be partly genetically determined  [13] . \n These complex interactions between genes and environment \ncomplicate the task of identifying any single genetic susceptibility factor for T2DM. Three general approaches have been adopted",
+              "title": "2010 - The Genetics of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 27,
+              "document_id": "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+              "extraction_id": "55a150e2-71ee-5b88-bbbb-22eecc2ff5e4",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "c6c8b56a-1f17-5d96-bea4-787673f11be9",
+            "score": 0.7098005029499684,
+            "metadata": {
+              "text": "Nutrients 2014, 6 5340 \n \nHowever, while the a pplication of these technologies is becoming more accessible, analysis of the \ncomplex large data sets that are generated  presents multiple challenges.  \nThe aim of the present review was to provide insights regarding the role of nutrient -gene interactions \nin DM pathogenesis, prevention and treatment. In addition, we explored how an individuals genetic \nmakeup can affect nutrient metabolism and the response to nutrient intake, potentially leading to DM.",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 14,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "1e4b6f6f-e67a-53ef-8af6-78aa4c9ce112",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "e5ac3a01-3a53-5239-b1d0-26ee4e72f37b",
+            "score": 0.7095515131950378,
+            "metadata": {
+              "text": "Nutrients 2014, 6 5343 \n \n3. Gene -Nutrient or Dietary Patter n Interactions in T he Development of T2DM  \nRecently, several studies have d emonstrated the  significant effects of genotype by environment \ninteractions on T2D M [48,49] . However, further clarification of the role of these interactions at the \ngenome -wide level could help predict disease risk more accurately and facilitate the development of",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 36,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "23654fd6-b738-5c3b-9e6b-9b29ea47df38",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "b9f46fff-157d-5007-ae86-987d9b5022b5",
+            "score": 0.7089530825614929,
+            "metadata": {
+              "text": "in nutritional epidemiology: applications, needs and \nnew horizons .Hum Genet 125, 507525.\nKaput, J., Noble, J., Hatipoglu, B., et al. ( 2007) Application\nof nutrigenomic concepts to type 2 diabetes melli-tus.Nutr Metab Cardiovasc Dis 17,89103.\nOrdovas, J.M., Kaput, J., and Corella, D. ( 2007) Nutrition\nin the genomics era: cardiovascular disease risk and \nthe Mediterranean diet .Mol Nutr Food Res 51,\n12931299.\nvan Ommen, B., El-Sohemy , A., Hesketh, J., et al . ( 2010)",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 516,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "76e4f0c7-ffb4-5643-b8d7-46cc584cfbf8",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "0940a12a-fee5-57ca-9a9f-ce720b43119e",
+            "score": 0.7012389898300171,
+            "metadata": {
+              "text": "dietary patterns according to genetic variations, the role of gene -nutrient interactions, gene -\ndiet-phenotype interactions and epigenetic modifications caused by nutrients; these studies \nwill facilitate an understanding of the early molecular events that occur in DM and will contribute to the identification of better biomarke rs and diagnostics tools. In particular, this",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 4,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "0752929d-fb98-5c2f-b47f-e493f25ac70d",
+            "score": 0.7006720304489136,
+            "metadata": {
+              "text": "Abstract:  Diabetes mellitus (DM) is considered a global pandemic, and the incidence of \nDM continues to grow worldwide. Nutrients and dietary patterns are central issues in the \nprevention, development and treatment of this disease. The pathogenesis of DM is not \ncomp letely understood, but nutrient -gene interactions at different levels, genetic predisposition \nand dietary factors appear to be involved. Nutritional genomics studies generally focus on",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "d8db4432-bb66-59de-bb9e-c0667ec9010c",
+            "score": 0.7005955576896667,
+            "metadata": {
+              "text": "approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications. This rev iew discusses the current state of nutrigenetics, nutrigenomics and \nepigenomics research on DM. Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression, OPEN ACCESS",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 5,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "f5909a51-0d41-5aee-ac5a-8d47550ef094",
+            "score": 0.6989833116531372,
+            "metadata": {
+              "text": "It was previously report ed that food intake is a key component that affects the incidence of DM. Thus, \nthe identification and analysis of nutrient/gene interactions are necessary steps to understand DM etiopathogenesis. In general, nutrients can affect gene expression via different mechanisms: ( i) directly; \n(ii) through their metabolites and ( iii) through signal tran sduction molecules (Figure 1).",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 75,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "4f65affc-d78a-5048-86f3-22c0e12d298c",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "adf9b377-f569-5f08-be4b-4d9d1913990c",
+            "score": 0.6930323839187622,
+            "metadata": {
+              "text": "Nutrients 2014, 6 5347 \n \n3.4. Importance of Genotype by Macronutrient Interactions for T2DM -Related Traits  \nRecently, using genome -wide complex trait anal ysis, the genome -environment contribution of  \n14 dietary factors (glycemic load, total energy, protein, total fat, SF A, MUFA, PUFA, n- 3 PUFA,  \nn-6 PUFA, n-3:n-6 PUFA, carbohydrate, alcohol intake, trans fat and fiber) to the total phenotypic \nvariance of 4 T2DM -related traits (fasting glucose, fasting insulin, HOMA -IR and HOMA of  cell",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 70,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "4f65affc-d78a-5048-86f3-22c0e12d298c",
+              "associatedQuery": "nutrition is a factor for diabetes. how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "4": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYmomdJKgdvZlepHclGpceBX99vV",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Diabetes mellitus (DM) is a global pandemic with increasing incidence worldwide, where nutrients and dietary patterns play a crucial role in its prevention, development, and treatment [1]. The pathogenesis of DM involves complex interactions between genetic predisposition and dietary factors, which are not yet fully understood [1]. Genomics offers a promising avenue to elucidate these interactions by studying nutrient-gene interactions at various levels [1]. Nutritional genomics, including nutrigenetics and nutrigenomics, focuses on how genetic variations affect nutrient metabolism and the body's response to nutrient intake, potentially influencing DM pathogenesis [3]. By identifying gene variants and understanding their interactions with dietary factors, genomics can help predict disease risk more accurately and facilitate the development of personalized dietary interventions [8]. This approach aims to develop tailored diets that maximize the use of nutrients and functional ingredients in food, aiding in the prevention and delay of DM and its complications [6]. Overall, genomics provides valuable insights into the role of gene-nutrient interactions in DM, paving the way for more effective prevention and treatment strategies [7].",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795346,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 218,
+          "prompt_tokens": 1186,
+          "total_tokens": 1404
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "0752929d-fb98-5c2f-b47f-e493f25ac70d",
+            "score": 0.7163111736588983,
+            "metadata": {
+              "text": "Abstract:  Diabetes mellitus (DM) is considered a global pandemic, and the incidence of \nDM continues to grow worldwide. Nutrients and dietary patterns are central issues in the \nprevention, development and treatment of this disease. The pathogenesis of DM is not \ncomp letely understood, but nutrient -gene interactions at different levels, genetic predisposition \nand dietary factors appear to be involved. Nutritional genomics studies generally focus on",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "20d914cb-135d-5033-adc4-61aa7468f8df",
+            "score": 0.7092618519507747,
+            "metadata": {
+              "text": "ABSTRACT \n \nGenomics has contributed to a better understanding of many disorders including diabetes. The \nfollowing article looks at the ethical, social and legal consequences of genomic medicine and \npredictive genetic testing for diabetes. This is currently a field in its nascent stage and developing \nrapidly all over the world. The various ethical facets of genomic medicine in diabetes like its effects",
+              "title": "2018 - Ethical_Social_and_Legal_Consequences.pdf",
+              "version": "v0",
+              "chunk_order": 1,
+              "document_id": "3fb80410-0b56-5c01-b3d6-9388b6029a77",
+              "extraction_id": "6cc02cc8-628d-58b8-b9d3-8fc049773c22",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "c6c8b56a-1f17-5d96-bea4-787673f11be9",
+            "score": 0.683719733842622,
+            "metadata": {
+              "text": "Nutrients 2014, 6 5340 \n \nHowever, while the a pplication of these technologies is becoming more accessible, analysis of the \ncomplex large data sets that are generated  presents multiple challenges.  \nThe aim of the present review was to provide insights regarding the role of nutrient -gene interactions \nin DM pathogenesis, prevention and treatment. In addition, we explored how an individuals genetic \nmakeup can affect nutrient metabolism and the response to nutrient intake, potentially leading to DM.",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 14,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "1e4b6f6f-e67a-53ef-8af6-78aa4c9ce112",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "b9f46fff-157d-5007-ae86-987d9b5022b5",
+            "score": 0.6799825024615239,
+            "metadata": {
+              "text": "in nutritional epidemiology: applications, needs and \nnew horizons .Hum Genet 125, 507525.\nKaput, J., Noble, J., Hatipoglu, B., et al. ( 2007) Application\nof nutrigenomic concepts to type 2 diabetes melli-tus.Nutr Metab Cardiovasc Dis 17,89103.\nOrdovas, J.M., Kaput, J., and Corella, D. ( 2007) Nutrition\nin the genomics era: cardiovascular disease risk and \nthe Mediterranean diet .Mol Nutr Food Res 51,\n12931299.\nvan Ommen, B., El-Sohemy , A., Hesketh, J., et al . ( 2010)",
+              "title": "2012 - Systems Biology Approaches to Nutrition.pdf",
+              "version": "v0",
+              "chunk_order": 516,
+              "document_id": "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+              "extraction_id": "76e4f0c7-ffb4-5643-b8d7-46cc584cfbf8",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "9bbce823-83c5-5258-af26-f79575042496",
+            "score": 0.6770143105379169,
+            "metadata": {
+              "text": "at the expense of understanding the social context and determinants of the disease.Biogenetic views tend to trump sociological views in the diabetes research imaginary ofconsortium members. However, the genetic epidemiologists who make up part of thediabetes consortium are not ignorant of the effects of proper diet and adequate exercise.Take away the television and the automobile and diabetes would all but disappear, quipped the head of one lab. Neither are researchers unsympathetic to those who sufferfrom",
+              "title": "2007 - Bioethnic Conscription Genes, Race.pdf",
+              "version": "v0",
+              "chunk_order": 126,
+              "document_id": "d90126d9-fd87-5b38-87f7-08415f690836",
+              "extraction_id": "79223305-26a8-51d5-a962-bb7d925810d7",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "d8db4432-bb66-59de-bb9e-c0667ec9010c",
+            "score": 0.6719550089862949,
+            "metadata": {
+              "text": "approach will help to develop tailored diets that maximize the use of nutrients and other functional ingredients present in food, which will aid in the prevention and delay of DM and its complications. This rev iew discusses the current state of nutrigenetics, nutrigenomics and \nepigenomics research on DM. Here, we provide an overview of the role of gene variants and nutrient interactions, the importance of nutrients and dietary patterns on gene expression, OPEN ACCESS",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 5,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "2618e650-f07c-5d21-a8f9-8f0dcdd51fd6",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "430a5d63-0af9-569e-b9db-2cc4262f1d77",
+            "score": 0.6712696748215166,
+            "metadata": {
+              "text": "understood. It seems that interactions between multiple genes and environmental factors may play a role. \nOne of these factors is dietary factors. There is evidence supporting the role  of nutrient- gene interactions  \nin DM pathophysiology  [5]. Thus, a greater understanding of potential gene -nutrient interactions may \nbe relevant for DM prevention and treatment. \nNutrigenetics and nutrigenomics are defined as the science of the effects of genetic variation on",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 11,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "c9f99f8c-8432-59fa-8392-38eba8a63d8b",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "e5ac3a01-3a53-5239-b1d0-26ee4e72f37b",
+            "score": 0.6692307192545712,
+            "metadata": {
+              "text": "Nutrients 2014, 6 5343 \n \n3. Gene -Nutrient or Dietary Patter n Interactions in T he Development of T2DM  \nRecently, several studies have d emonstrated the  significant effects of genotype by environment \ninteractions on T2D M [48,49] . However, further clarification of the role of these interactions at the \ngenome -wide level could help predict disease risk more accurately and facilitate the development of",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 36,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "23654fd6-b738-5c3b-9e6b-9b29ea47df38",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "0337dd9b-7228-5664-aff3-fa20c0f04d6d",
+            "score": 0.6654710373001684,
+            "metadata": {
+              "text": "nutrition  [12] . The identi  cation of gene variants that contribute \nboth to variation in fetal growth and to the susceptibility to T2DM, however, suggests that this metabolic   programming   could also be partly genetically determined  [13] . \n These complex interactions between genes and environment \ncomplicate the task of identifying any single genetic susceptibility factor for T2DM. Three general approaches have been adopted",
+              "title": "2010 - The Genetics of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 27,
+              "document_id": "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+              "extraction_id": "55a150e2-71ee-5b88-bbbb-22eecc2ff5e4",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          },
+          {
+            "id": "f5909a51-0d41-5aee-ac5a-8d47550ef094",
+            "score": 0.6628238759741869,
+            "metadata": {
+              "text": "It was previously report ed that food intake is a key component that affects the incidence of DM. Thus, \nthe identification and analysis of nutrient/gene interactions are necessary steps to understand DM etiopathogenesis. In general, nutrients can affect gene expression via different mechanisms: ( i) directly; \n(ii) through their metabolites and ( iii) through signal tran sduction molecules (Figure 1).",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 75,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "4f65affc-d78a-5048-86f3-22c0e12d298c",
+              "associatedQuery": "nutrition is a factor for diabetes. construct an abstract about how can genomics be use to better understand nutritional factors of diabetes"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "5": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYmusmSLbuh68YcOiU3r0KXSi3Ub",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Yes, the gene TCF7L2 is involved in diabetes, specifically type 2 diabetes. Multiple sources in the provided context confirm this association:\n\n1. Single nucleotide polymorphisms in TCF7L2 are reproducibly associated with type 2 diabetes and reduce the insulin response to glucose in nondiabetic individuals [1].\n2. Common variants in the TCF7L2 gene increase the risk of type 2 diabetes [2].\n3. The TCF7L2 gene confers risk of type 2 diabetes [3], [4].\n4. Variants in the TCF7L2 gene are associated with a significant increase in type 2 diabetes risk, representing the strongest known genetic determinant of the disease [5].\n5. Overexpression of TCF7L2 protein decreases the sensitivity of beta islet cells to secrete insulin, which is involved in the regulation of insulin secretion [6].\n6. TCF7L2 risk alleles result in overexpression in pancreatic cells, causing reduced nutrient-induced insulin secretion and a predisposition to type 2 diabetes [9].\n7. The predominant effect of TCF7L2 dysfunction on type 2 diabetes development is mediated through impairment of insulin secretion [10].\n\nThese references collectively support the involvement of TCF7L2 in the pathogenesis and risk of type 2 diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795352,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_a5d11b2ef2",
+        "usage": {
+          "completion_tokens": 274,
+          "prompt_tokens": 1478,
+          "total_tokens": 1752
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "3e678e3c-ad2c-5884-9c88-7f4d54c914bd",
+            "score": 0.8135381937026978,
+            "metadata": {
+              "text": "single nucleotide polymorphisms in TCF7L2 are reproduc-ibly associated with type 2 diabetes and reduce the insulinresponse to glucose in nondiabetic individuals. Diabetes55:28902895\n135. Cauchi S, Meyre D, Dina C, Choquet H, Samson C,\nGallina S, Balkau B, Charpentier G, Pattou F, StetsyukV, Scharfmann R, Staels B, Fru  hbeck G, Froguel P 2006\nTranscription factor TCF7L2 genetic study in the Frenchpopulation: expression in human\n/H9252-cells and adipose tissue",
+              "title": "2009 - Pathomechanisms of Type 2 Diabetes Genes.pdf",
+              "version": "v0",
+              "chunk_order": 256,
+              "document_id": "cf8ec75c-8ffe-5baa-830d-ac7a4a5964bd",
+              "extraction_id": "eff1d167-9689-5c26-9a12-c66714696d86",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "6617e15c-ab52-596c-b628-60ec5a7001e7",
+            "score": 0.8115615957044618,
+            "metadata": {
+              "text": "L. Mechanisms by which common variants in the TCF7L2 gene \nincrease risk of type 2 diabetes. J Clin Invest  2007; 117: 2155-2163 \n[PMID: 17671651 DOI: 10.1172/JCI30706]\n164 Gloyn AL , Braun M, Rorsman P. Type 2 diabetes susceptibility \ngene TCF7L2 and its role in beta-cell function. Diabetes  2009; 58: \n800-802 [PMID: 19336690 DOI: 10.2337/db09-0099]\n165 da Silva Xavier G , Loder MK, McDonald A, Tarasov AI, Carzaniga \nR, Kronenberger K, Barg S, Rutter GA. TCF7L2 regulates late",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 214,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "36f9d4f2-293e-53e3-8b4b-12571af6669a",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "1eb3a215-002b-528b-a954-bb9e2419ea6f",
+            "score": 0.8071431517601013,
+            "metadata": {
+              "text": "transcription factor 7-like 2 ( TCF7L2 ) gene confers risk of type 2 diabetes. Nat Genet. 2006;\n38:320323. [PubMed: 16415884]\n172. Gloyn AL, Noordam K, Willemsen MA, Ellard S, Lam WW, et al. Insights into the biochemical\nand genetic basis of glucokinase activation from naturally occurring hypoglycemia mutations.\nDiabetes. 2003; 52:24332440. [PubMed: 12941786]\n173. Pearson ER, Donnelly LA, Kimber C, Whitley A, Doney AS, et al. Variation in TCF7L2",
+              "title": "2012 - Type 2 Diabetes Genetics Beyond GWAS.pdf",
+              "version": "v0",
+              "chunk_order": 178,
+              "document_id": "d59a38d7-889b-51b5-b896-c305c82a2169",
+              "extraction_id": "a3a875fa-e55b-52d0-b9bf-72b96330c393",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "e456e587-e172-5ae9-b68e-98e38c5052c2",
+            "score": 0.8028003455877525,
+            "metadata": {
+              "text": "2 (TCF7L2 ) gene confers risk of Type 2 \ndiabetes. Nat. Genet.  38(3), 320323 \n(2006).\n143Florez JC, Jablonski KA, Bayley N et al.  \nTCF7L2 polymorphisms and progression to diabetes in the Diabetes Prevention Program. N. Engl. J. Med.  355(3), \n241250 (2006).\n144Damcott CM, Pollin TI, Reinhart LJ et al.  \nPolymorphisms in the transcription factor 7-like 2 ( TCF7L2 ) gene are associated with",
+              "title": "2007 - Recent development in pharmacogenomics from candidate genes to genome-wide association studies.pdf",
+              "version": "v0",
+              "chunk_order": 268,
+              "document_id": "fe012b74-6516-5503-a88a-dc8071869632",
+              "extraction_id": "f2fa55c2-fbca-5f7b-a744-deb279bf9369",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "5d936c2c-faf7-5b0f-92e1-c3f8f43b3011",
+            "score": 0.8026797293019471,
+            "metadata": {
+              "text": "rs7903146 and rs12255372 in intron 3 of the TCF7L2 gene\n[20], associated with a ~45% increase in Type 2 diabetes\nrisk per allele. As such, the TCF7L2 locus presently repre-\nsents the strongest known genetic determinant of Type 2diabetes. Risk allele carriers show impaired insulin produc-tion [21] and b-cell dysfunction in vitro [22].\nTCF7L2 (previously referred to as TCF-4) is a\nhigh-mobility group box-containing transcription factor\ninvolved in Wingless-type MMTV integration site (Wnt)",
+              "title": "2014  - Dorothy Hodgkin Lecture 2014 Understanding genes identified by genome\u2010wide association.pdf",
+              "version": "v0",
+              "chunk_order": 33,
+              "document_id": "11d0cb98-a00f-53f1-92e3-e1be17002c02",
+              "extraction_id": "86253f12-bb43-5236-bfb1-df5dff759f6d",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "ed5d8e9e-859e-5256-a7b5-468c1f7837a2",
+            "score": 0.8000123500823975,
+            "metadata": {
+              "text": "genes which also play a significant role in the risk and \npathogenesis of the disease[158,159]. The association \nof TCF7L2  gene variants with type 2 diabetes and \nits mechanism of action received special attention \nby several investigators[161,162]. Over expression of the protein was shown to decrease the sensitivity of \nbeta islet cells to secrete insulin[163,164] and was more \nprecisely involved in the regulation of secretary granule \nfusion that constitute a late event in insulin secretion",
+              "title": "2015 - Diabetes mellitus The epidemic of the century.pdf",
+              "version": "v0",
+              "chunk_order": 87,
+              "document_id": "e114dd28-fd39-56df-bdeb-8806474a6c10",
+              "extraction_id": "7cfe9f29-a0ee-56d3-be3b-1b238a43bc07",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "263f6b22-d314-5653-bbef-3f0e3e09839b",
+            "score": 0.7994133234024048,
+            "metadata": {
+              "text": "et al. Variant of transcription factor 7-like 2 (TCF7L2) gene confers risk of type 2 \ndiabetes. Nat Genet . 2006;38:320-23. \n Sladek R, Rocheleau G, Rung J, Dina C, Shen L, Serre D, et al. A genome- [9]\nwide association study identifies novel risk loci for type 2 diabetes. Nature . \n2007;445:881-85.\n Kirchhoff K, Machicao F, Haupt A, Schafer SA, Tschritter O, Staiger H, et al. [10]\nPolymorphisms in the TCF7L2, CDKAL1 and SLC30A8 genes are associated",
+              "title": "2015 - Type 2 Diabetes Mellitus and the Association of Candidate Genes.pdf",
+              "version": "v0",
+              "chunk_order": 56,
+              "document_id": "3236fdee-e304-5b88-921f-52e52dc5afa3",
+              "extraction_id": "5ffb710d-ca19-5415-bbb6-34b3f85bf47f",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "05e76af5-c67b-50ca-a06a-a603d6d4b35e",
+            "score": 0.7992128849498712,
+            "metadata": {
+              "text": "transcription factor 7-like 2 (TCF7L2) gene confers risk of type 2diabetes. Nat Genet 38:320 3231422 Diabetologia (2007) 50:1418 1422",
+              "title": "2007 - A German genome-wide linkage scan for type 2 diabetes supports the existence of a metabolic syndrome locus on chromosome 1p36.13 and a type 2 diabetes locus on chromosome 16p12.pdf",
+              "version": "v0",
+              "chunk_order": 47,
+              "document_id": "f8a85060-6303-5228-ba89-7ee8701bda9f",
+              "extraction_id": "198c5f2d-fc43-5744-9cd8-4222c8fa8ab8",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "fc63f56e-f1fb-56e0-9e62-b4bdcefb5a53",
+            "score": 0.792102575302124,
+            "metadata": {
+              "text": "approximately double odds ratio compared to most other diabetes susceptibility polymorphisms. TCF7L2  is a transcription factor involved in the Wnt signaling pathway that is ubiquitously expressed, \nand it has been observed that TCF7L2  risk alleles result in the overexpression of TCF7L2  in  \npancreatic  cells. This overexpression causes reduced nutrient -induced insulin secretion, which results \nin a direct predisposition to T2DM as well as an indirect predisp osition via an increase in hepatic glucose",
+              "title": "2014 - Nutrigenetics and Nutrigenomics Insights into Diabetes Etiopathogenesis.pdf",
+              "version": "v0",
+              "chunk_order": 33,
+              "document_id": "ce4f171c-494c-53f2-a770-c3edd3561c40",
+              "extraction_id": "25187f10-04b3-51c6-8f4c-d4e480353fa2",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          },
+          {
+            "id": "c21b7f01-ff01-5561-8016-c4432d844baf",
+            "score": 0.7905083894729614,
+            "metadata": {
+              "text": "diabetes. The gene seems to be widely expressed [ 18] and\nthe transcription factor product is known to be involved in\nthe Wnt signalling cascade. Current evidence strongly\nsupports the idea that the predominant effect of TCF7L2\ndysfunction on type 2 diabetes development is mediated\nthrough impairment of insulin secretion [ 11,1517,20], a\nfinding that would be consistent, for example, with theknown effects of other (non-homologous) TCF genes\n(TCF1 [also known as HNF1A ] and TCF2 [also known as",
+              "title": "2007 - TCF7L2 the biggest story in diabetes genetics since HLA.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "018b8646-b894-5b7d-a8c8-932a2bc13ca8",
+              "extraction_id": "0f7bd536-46b9-52e2-927e-a8309d541066",
+              "associatedQuery": "Is the gene TCF7L2 involved in diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "6": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYmzCY2UpsFw8AXX7kNO9LvCTBMY",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Yes, the genes SH2B3, IFIH1, and ERBB3 are related to diabetes:\n\n1. **IFIH1**: Rare variants of IFIH1, a gene implicated in antiviral responses, protect against type 1 diabetes [1], [3], [5], [6].\n\n2. **ERBB3**: ERBB3 is considered to be a major feature of type 1 diabetes susceptibility due to its role in immune signaling [4]. Additionally, a genome-wide association study proposed ERBB3 as the best candidate gene near a QTL for type 1 diabetes [8].\n\n3. **SH2B3**: SH2B3 (also known as LNK) is considered to be a major feature of type 1 diabetes susceptibility due to its role in immune signaling [4].\n\nThus, all three genes, SH2B3, IFIH1, and ERBB3, are related to diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795357,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 192,
+          "prompt_tokens": 1423,
+          "total_tokens": 1615
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "6f00dd31-490e-53cd-81b3-c56e13bd7edd",
+            "score": 0.6402269005775452,
+            "metadata": {
+              "text": "associated with increased fasting plasma glucose levels and type2 diabetes risk. Nat Genet. 2009;41(1):89 94.\n23. Rees M, Wincovitch S, Schultz J, Waterstradt R, Beer N, Baltrusch\nS, et al. Cellular characterisation of the GCKR P446L variant\nassociated with type 2 diabe tes risk. Diabetologia. 2012;55\n(1):114 22.\n24. Nejentsev S, Walker N, Riches D, Egholm M, Todd J, et al. Rare\nvariants of IFIH1 , a gene implicated in antiviral responses, protect\nagainst type 1 diabetes. Science. 2009;324(5925):387 9.",
+              "title": "2012 - Recent Developments in the Genetic and Genomic Basis of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 69,
+              "document_id": "7d051350-d939-5183-be22-742727573a75",
+              "extraction_id": "1213249d-8ed3-5d13-9137-f11b87a7a78b",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "fa4e127f-2c54-592b-a478-152bc74e7351",
+            "score": 0.6276005284548132,
+            "metadata": {
+              "text": "HLAlinked genes in juvenile diabetes mellitus. \nBr.Med. J. 3, 133135 (1975).\n52. Erlich,H.A.  etal.  Next generation sequencing reveals \nthe association of DRB3*02:02 with type 1 diabetes. \nDiabetes  62, 26182622 (2013).\n53. CaillatZucman,S.  etal.  Agedependent HLA genetic \nheterogeneity of type1 insulindependent diabetes \nmellitus. J.Clin. Invest. 90, 22422250 (1992).\n54. Cucca,F.  etal.  The distribution of DR4 haplotypes \ninSardinia suggests a primary association of typeI",
+              "title": "2017 - Type 1 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 187,
+              "document_id": "8e8b9b6e-8dfb-5aae-8c61-5f53bd4e0242",
+              "extraction_id": "39b6a474-b721-509f-bbc3-094dc1f49634",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "f0c9d05b-7999-5cb7-bb48-0666cf74aec0",
+            "score": 0.622846782207489,
+            "metadata": {
+              "text": "holdt R, Akolkar B, Erlich HA, Hilner JE, Julier C, Morahan G, Nerup J,Nierras CR, Chen WM, Rich SS, Type 1 Diabetes Genetics Consortium. Ahuman type 1 diabetes susceptibility locus maps to chromosome 21q22.3.Diabetes 2008;57:2858 2861\n58. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA. Rare variants of\nIFIH1, a gene implicated in antiviral responses, protect against type 1diabetes. Science 2009;324:387389\n59. Altshuler D, Daly M. Guilt beyond a reasonable doubt. Nat Genet 2007;39:\n813 815",
+              "title": "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+              "version": "v0",
+              "chunk_order": 167,
+              "document_id": "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+              "extraction_id": "5557d2db-b55a-59c9-8fe7-89b196a28617",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "55dca975-78ec-594d-8a30-a0849b683089",
+            "score": 0.618482608153898,
+            "metadata": {
+              "text": "because of their presumed roles in immune signalling, considered\nto be a major feature of T1D-susceptibility. These include ERBB3\n(receptor tyrosine-protein kinase erbB-3 precursor) at 12q13 and\nSH2B3/LNK (SH2B adaptor protein 3), TRAFD1 (TRAF-type zinc\nfinger domain containing 1) and PTPN11 (protein tyrosine phos-\nphatase, non-receptor type 11) at 12q24. For these signal regions in",
+              "title": "2018 - Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.pdf",
+              "version": "v0",
+              "chunk_order": 163,
+              "document_id": "af63c74d-a204-5f9f-9a32-3451b112e5ba",
+              "extraction_id": "43eecb5d-aca2-5c3e-9351-afbef000a795",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "126bf287-0f5e-52a9-abac-ad59ad3ea153",
+            "score": 0.6160884270720748,
+            "metadata": {
+              "text": "Nejentsev S, Walker N, Riches D, Egholm M, Todd JA (2009) Rare\nvariants of IFIH1, a gene implicated in antiviral responses,\nprotect against type 1 diabetes. Science 324:387389\nNicolson TJ, Bellomo EA, Wijesekara N, Loder MK, Baldwin JM,\nGyulkhandanyan AV, Koshkin V, Tarasov AI, Carzaniga R,\nKronenberger K, Taneja TK, da Silva Xavier G, Libert S,",
+              "title": "2011 - Type 2 diabetes and obesity genomics and the clinic.pdf",
+              "version": "v0",
+              "chunk_order": 158,
+              "document_id": "5086a525-124e-5a45-b75a-657d67a3250a",
+              "extraction_id": "10685e4c-eb4c-562a-a64a-d98e83c12c0b",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "226e2873-a0bf-554d-9576-7fca5f2ffc0f",
+            "score": 0.6138047210094509,
+            "metadata": {
+              "text": "61. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA (2009) Rare variants of IFIH1, a gene implicated\nin antiviral responses, protect against type 1 diabetes. Science 324: 387 389. doi: 10.1126/science.\n1167728 PMID: 19264985\n62. Nica AC, Ongen H, Irminger JC, Bosco D, Berney T, et al. (2013) Cell-type, allelic, and genetic signa-\ntures in the human pancreatic beta cell transcriptome. Genome Res 23: 1554 1562. doi: 10.1101/gr.\n150706.112 PMID: 23716500",
+              "title": "2015 - Transcript Expression Data from Human.pdf",
+              "version": "v0",
+              "chunk_order": 182,
+              "document_id": "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+              "extraction_id": "867d0b1b-16a1-53ea-b014-3c204b9001a5",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "90565c2b-fdb6-5b0f-a710-9086a4cfcd2b",
+            "score": 0.6135341985781,
+            "metadata": {
+              "text": "7 \n (Wellcome Trust Case Control Consortium 2007) .  Separate work that examined liver gene \nexpression in a smaller cohort of human samples with and without Type I diabetes found \nthat ERBB3  did not have a cis -eQTL but that a flanking gene, R PS26, did.  Since the disease \nphenotype and RPS26  both had QTLs in the same location, this suggested the RPS26  was a \nstronger candidate than ERBB3 .  The authors then used mouse liver and adipose expression",
+              "title": "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+              "version": "v0",
+              "chunk_order": 53,
+              "document_id": "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+              "extraction_id": "151aa443-b9af-55db-9a30-adc4440ac7ef",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "ceb7bd13-b917-566f-8e17-40dd523afd42",
+            "score": 0.6118218898773193,
+            "metadata": {
+              "text": "models.  A genome wide association study in a large human population proposed the \nreceptor typrosine kinase ERBB3  as the best candidate gene near a QTL for Type I diabetes",
+              "title": "2010 - Genome-wide analysis of transcriptional regulation in the murine liver.pdf",
+              "version": "v0",
+              "chunk_order": 52,
+              "document_id": "8a115c1b-662c-5062-b77f-bbde0532bbe9",
+              "extraction_id": "7cbef74a-2d81-5a3a-a4d4-dfacdb86e632",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "487d6a88-44ef-520e-a910-5b4b89416880",
+            "score": 0.6081880331039429,
+            "metadata": {
+              "text": "and 16p13.2 (near TMEM114 ) have not previously been\nimplicated in b-cell function, type 2 diabetes susceptibility,\nor related phenotypes. However, in publically available\ngene expression data from the MuTHER consortium,\nrs4148941 acts as eQTL for CHST3 in lymphoblast cell\nlines ( P=5310251) and SPOCK2 in both adipose tissue\n(P=1310221) and lymphoblast cell line ( P=331024)\n(22). Given the additional trend toward association with\nGLP-1 RA treatment response in diabetic patients, further",
+              "title": "2013 - The CTRB12 Locus Affects Diabetes Susceptibility.pdf",
+              "version": "v0",
+              "chunk_order": 62,
+              "document_id": "5cd422c9-d4bc-5a96-8af8-00561458e67b",
+              "extraction_id": "97905c56-72e3-546d-ba0e-dfe1023f0c27",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          },
+          {
+            "id": "d4d61f22-5ba2-5ef1-a497-167894bf1c7f",
+            "score": 0.6052629947662354,
+            "metadata": {
+              "text": "IGFBP1, and IGFBP3. The IGF pathway is nowsuspected to play a role in diabetes because of observedassociations with IGF2BP2 (2729).",
+              "title": "2009 - Genome-Wide Linkage Scan in Gullah-Speaking African American Families.pdf",
+              "version": "v0",
+              "chunk_order": 72,
+              "document_id": "bd1d6b45-3929-5bd8-a677-d143381a7da5",
+              "extraction_id": "766aa9ab-312f-5d62-be31-860ba0697180",
+              "associatedQuery": "Is any of the genes SH2B3, IFIH1 or ERBB3 related to diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "7": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYn4g7NCIHEHW87vnQFVH1QRLe6y",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "To use GeneNetwork to find genes related to diabetes in humans, you can follow these steps:\n\n1. **Access the HumanNet Gene Network**: The HumanNet gene network can be accessed through its web interface at [http://www.functionalnet.org/humannet](http://www.functionalnet.org/humannet) [2].\n\n2. **Search Using Seed Genes**: Once on the HumanNet interface, you can search the network using a set of seed genes. These seed genes can be genes already known to be associated with diabetes or genes you are interested in exploring further [2].\n\n3. **Review Network Data**: The network data can provide additional support to genome-wide association studies (GWAS) evidence. For example, the network data can help measure the increase in odds for certain genes being associated with type 2 diabetes [2].\n\n4. **Integrative Analysis**: You can perform integrative analysis to find genes and networks involved in diabetes. This involves combining data from various sources to identify potential genetic interactions and pathways related to diabetes [4].\n\nBy following these steps, you can effectively utilize GeneNetwork to identify and analyze genes related to diabetes in humans.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795362,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_5796ac6771",
+        "usage": {
+          "completion_tokens": 236,
+          "prompt_tokens": 1560,
+          "total_tokens": 1796
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "e81d17bd-858c-52b7-8c02-2076e59afe20",
+            "score": 0.7071822285652161,
+            "metadata": {
+              "text": "9.    Ehm MG, Karnoub MC, Sakul H, Gottschalk K, \nHolt DC, Weber JL, American Diabetes Association GENNID Study Group. Genetics of NIDDM, et al. Genome wide search for type 2 diabetes susceptibil-ity genes in four American populations. Am J Hum Genet. 2000;66:187181.  \n   10.    McCarthy M, Zeggini E. Genome-wide association \nstudies in type 2 diabetes. Curr Diab Rep. 2009;9:16471.  \n   11.    Hivert MF, Jablonski KA, Perreault L, Saxena R,",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 292,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "f7fe5916-4f25-5740-8737-f668f216575d",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "18817608-0557-5acb-a091-9bc4d3640f7e",
+            "score": 0.6993173360824585,
+            "metadata": {
+              "text": "that from orthologous genes of yeast, worm, and fly. The resulting\nHumanNet gene network can be accessed through a web interface\n(http://www.functionalnet.org/humannet). Using this interface,\nresearchers can easily search the network using a set of seedTable 1. Selected top-ranked Crohns disease and type 2 diabetes genes for which\nnetwork data added support to GWAS evidence, measured as an increase in odds\n(prior =1.7 for each)\nCrohns disease",
+              "title": "2011 - Prioritizing candidate disease genes by network-based boosting of genome-wide association data.pdf",
+              "version": "v0",
+              "chunk_order": 100,
+              "document_id": "db0aa4b3-66ec-5d51-be72-2a1289db944a",
+              "extraction_id": "dffdea93-109e-5114-8795-e0fc66d6d3ed",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "65941ce7-c762-5ae5-b1cd-4c62d8caddac",
+            "score": 0.696830153465271,
+            "metadata": {
+              "text": "twins. Diabetologia 30, 763768 (1987).\n3. Neel, J. V. in The Genetics of Diabetes Mellitus   \n(eds W. Creutzfeldt, J. Kbberling, & J. V. Neel) 1-11 (Springer, 1976).\n4. International HapMap Consortium, etal. A second generation human haplotype map of over 3.1 million \nSNPs. Nature 449, 851861 (2007).\n5. Sabeti, P . C. etal. Genome-wide detection and \ncharacterization of positive selection in human \npopulations. Nature 449, 913918 (2007).\n6. Genomes Project, C. etal. A global reference",
+              "title": "2020 - Insights into pancreatic islet cell dysfunction from type 2 diabetes mellitus genetics..pdf",
+              "version": "v0",
+              "chunk_order": 105,
+              "document_id": "2a386c81-8f24-5993-8e48-0e89d7fb4fec",
+              "extraction_id": "f7013243-3e5f-509d-a414-edc4d7f27bc2",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "2e004b17-d266-50d9-be7f-33b523e59e54",
+            "score": 0.686042387125351,
+            "metadata": {
+              "text": "Genome Biology  2007, 8:R253Open Access2007Bergholdtet al.Volume 8, Issue 11, Article R253Research\nIntegrative analysis for finding genes and networks involved in \ndiabetes and other complex diseases\nRegine Bergholdt*, Zenia M Strling, Kasper Lage, E Olof Karlberg, \nPll  lason, Mogens Aalund, Jrn Nerup*, Sren Brunak, \nChristopher T Workman and Flemming Pociot*\nAddresses: *Steno Diabetes Center, Niels Steensensvej 2, DK-2820 Gentofte, Denmark. Center for Biological Sequence Analysis, Technical",
+              "title": "2007 - Integrative analysis for finding genes and networks involved in diabetes and other complex diseases.pdf",
+              "version": "v0",
+              "chunk_order": 0,
+              "document_id": "b91aeacf-6e83-52ac-beb6-034ad77cab18",
+              "extraction_id": "f13b4fee-14f4-5827-9482-3692165c8ce6",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "375e0eba-87cf-5081-9f39-da1938e8be9e",
+            "score": 0.6833999156951904,
+            "metadata": {
+              "text": "77. Bergholdt R, Brorsson C, Lage K, Nielsen JH, Brunak S, Pociot F.\nExpression proling of human genetic and protein interaction networks intype 1 diabetes. PLoS One 2009;4:e6250\n78. Bergholdt R, Storling ZM, Lage K, Karlberg EO, Olason PI, Aalund M,\nNerup J, Brunak S, Workman CT, Pociot F. Integrative analysis for ndinggenes and networks involved in diabetes and other complex diseases.Genome Biol 2007;8:R253\n79. Oresic M, Simell S, Sysi-Aho M, Na nto -Salonen K, Seppa nen-Laakso T,",
+              "title": "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+              "version": "v0",
+              "chunk_order": 181,
+              "document_id": "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+              "extraction_id": "e5a38afd-cb9c-5552-9edd-3e9043d4f30d",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "b3455bcd-494e-5288-93ae-2fd761dd4157",
+            "score": 0.6802289485931396,
+            "metadata": {
+              "text": "31. Saxena, R. et al. Genome-wide association analysis identies loci for type 2\ndiabetes and triglyceride levels. Science 316, 13311336 (2007).\n32. Franke, L. et al. Reconstruction of a functional human gene network, with an\napplication for prioritizing positional candidate genes. Am. J. Hum. Genet. 78,\n10111025 (2006).\n33. Su, Z., Marchini, J. & Donnelly, P. HAPGEN2: simulation of multiple disease\nSNPs. Bioinformatics 27,23042305 (2011).",
+              "title": "2015 - Biological interpretation of genome-wide association studies using predicted gene functions.pdf",
+              "version": "v0",
+              "chunk_order": 132,
+              "document_id": "8f9f62fd-9423-55b3-abf9-24cde0d2e775",
+              "extraction_id": "0b09c4c7-a276-517f-a6e1-9388032fe622",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "51114ced-f323-57b9-87fb-30094a97642c",
+            "score": 0.674414336681366,
+            "metadata": {
+              "text": "Genetic exploration of GDM is in its initial stage. The genetics of GDM, \nfocusing on human association studies with candidate genes common to both T2DM and GDM is elegantly summarized by Robitaille and Grant (2008). The purpose of this chapter is to provide a comprehensive overview to include recent literature on susceptible gene variants that may contribute to both GDM and T2DM. \n SEARCH STRATEGIES \n A systematic literature search using PubMed was performed to identify stud-",
+              "title": "2011 - Shared Genomics of Type 2 and Gestational Diabetes Mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 24,
+              "document_id": "bef0cabe-0bca-5715-9ffc-0b825744fbcf",
+              "extraction_id": "29039cd9-9414-59e9-b97c-14f6f71ec4a2",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "65daaa1d-b4e7-5d6c-aa4f-56b8a88bc1d7",
+            "score": 0.6735461950302124,
+            "metadata": {
+              "text": "Human Molecular Genetics 16(1): 3649, 2007). The DiabetesGenetics Initiative (DGI) study was used for the analysis, as we had\naccess to genotype data in this study. The unadjusted gene p-value,\nP\nBestSNP\ng is the association p-value of the best regional SNP for gene\ng(y-axis in A). Phenotype permutation analysis was used as the gold\nstandard to test goodness of gene score correction as it corrects forall confounders without requiring a priori knowledge of the\nconfounders ( P\nGene",
+              "title": "2010 - Common Inherited Variation in Mitochondrial Genes.pdf",
+              "version": "v0",
+              "chunk_order": 199,
+              "document_id": "9a5c8cba-06cb-5280-871f-1bbe128c3dc4",
+              "extraction_id": "8e91b32f-a873-5dc7-927d-52786cc44aa8",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "ec145460-62ed-5375-b1a9-6231f94db4b9",
+            "score": 0.6733673409600662,
+            "metadata": {
+              "text": "version 2.0: users manual. PGL tech rep 2. Population Ge-netics Laboratory, Department of Genetics, Southwest Foun-dation for Biomedical Research, San Antonio\nElbein SC (1997) The genetics of human noninsulin-dependent\n(type 2) diabetes mellitus. J Nutr 127:1891S1896S\nElbein S, Hoffman M, Leppert M, Hasstedt S (1997) Linkage\nof fasting glucose in relatives of an NIDDM sib pair tomarkers on chromosome 9p. Diabetes 57 Suppl 1:51A\nElston RC (1998) Methods of linkage analysisand the as-",
+              "title": "1999 - Linkage of Type 2 Diabetes Mellitus and of Age at Onset to a Genetic Location.pdf",
+              "version": "v0",
+              "chunk_order": 104,
+              "document_id": "631b1f41-1064-5fc1-87f9-8a3c9f24ee9d",
+              "extraction_id": "69b05acc-0a98-51de-a69c-1e46ca1c0ba3",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "e633c6eb-1fc6-5430-a324-f652c7f3e082",
+            "score": 0.6732332311044109,
+            "metadata": {
+              "text": "Diabetes Study (DDS): a platform for chronic disease research.Glob Health Epidemiol Genom 1:e2. https://doi.org/10.1017/\ngheg.2015.3\n17. Genomes Project C, Auton A, Brooks LD et al (2015) A global\nreference for human genetic variation. Nature 526:68 74\n18. Howie BN, Donnelly P, Marchini J (2009) A flexible and accurate\ngenotype imputation method for the next generation of genome-wide association studies. PLoS Genet 5(6):e1000529. https://doi.\norg/10.1371/journal.pgen.1000529",
+              "title": "2019 - Genome-wide association study of type 2 diabetes in Africa.pdf",
+              "version": "v0",
+              "chunk_order": 66,
+              "document_id": "a7e4b6f4-fbb6-5dde-b638-d0d694c8ce87",
+              "extraction_id": "ef39a6c5-9067-59e8-84ab-8b89071510d5",
+              "associatedQuery": "How can I use genenetwork to find genes related with diabetes in humans?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "8": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYnAWVHUhI0y6oaOnDZY8VopPust",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "To use the GeneNetwork tool to find genes related to diabetes in humans, you can follow these steps:\n\n1. **Access the HumanNet Gene Network**: The HumanNet gene network can be accessed through its web interface at [http://www.functionalnet.org/humannet](http://www.functionalnet.org/humannet) [1].\n\n2. **Search the Network**: Once you are on the HumanNet web interface, you can search the network using a set of seed genes. This allows you to explore the network for genes that are functionally related to your genes of interest, such as those involved in diabetes [1].\n\n3. **Integrative Analysis**: You can perform integrative analysis to find genes and networks involved in diabetes. This involves combining data from various sources, such as genome-wide association studies (GWAS) and protein interaction networks, to identify candidate genes and protein network modules associated with diabetes [2], [4], [9].\n\n4. **Review Network Data**: Consider network data that supports GWAS evidence. For example, network data has been used to add support to GWAS evidence for type 2 diabetes genes, measured as an increase in odds [1].\n\nBy following these steps, you can effectively use the GeneNetwork tool to identify and analyze genes related to diabetes in humans.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795368,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 266,
+          "prompt_tokens": 1499,
+          "total_tokens": 1765
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "18817608-0557-5acb-a091-9bc4d3640f7e",
+            "score": 0.7090760469436646,
+            "metadata": {
+              "text": "that from orthologous genes of yeast, worm, and fly. The resulting\nHumanNet gene network can be accessed through a web interface\n(http://www.functionalnet.org/humannet). Using this interface,\nresearchers can easily search the network using a set of seedTable 1. Selected top-ranked Crohns disease and type 2 diabetes genes for which\nnetwork data added support to GWAS evidence, measured as an increase in odds\n(prior =1.7 for each)\nCrohns disease",
+              "title": "2011 - Prioritizing candidate disease genes by network-based boosting of genome-wide association data.pdf",
+              "version": "v0",
+              "chunk_order": 100,
+              "document_id": "db0aa4b3-66ec-5d51-be72-2a1289db944a",
+              "extraction_id": "dffdea93-109e-5114-8795-e0fc66d6d3ed",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "2e004b17-d266-50d9-be7f-33b523e59e54",
+            "score": 0.6855127402834463,
+            "metadata": {
+              "text": "Genome Biology  2007, 8:R253Open Access2007Bergholdtet al.Volume 8, Issue 11, Article R253Research\nIntegrative analysis for finding genes and networks involved in \ndiabetes and other complex diseases\nRegine Bergholdt*, Zenia M Strling, Kasper Lage, E Olof Karlberg, \nPll  lason, Mogens Aalund, Jrn Nerup*, Sren Brunak, \nChristopher T Workman and Flemming Pociot*\nAddresses: *Steno Diabetes Center, Niels Steensensvej 2, DK-2820 Gentofte, Denmark. Center for Biological Sequence Analysis, Technical",
+              "title": "2007 - Integrative analysis for finding genes and networks involved in diabetes and other complex diseases.pdf",
+              "version": "v0",
+              "chunk_order": 0,
+              "document_id": "b91aeacf-6e83-52ac-beb6-034ad77cab18",
+              "extraction_id": "f13b4fee-14f4-5827-9482-3692165c8ce6",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "e81d17bd-858c-52b7-8c02-2076e59afe20",
+            "score": 0.683709442615509,
+            "metadata": {
+              "text": "9.    Ehm MG, Karnoub MC, Sakul H, Gottschalk K, \nHolt DC, Weber JL, American Diabetes Association GENNID Study Group. Genetics of NIDDM, et al. Genome wide search for type 2 diabetes susceptibil-ity genes in four American populations. Am J Hum Genet. 2000;66:187181.  \n   10.    McCarthy M, Zeggini E. Genome-wide association \nstudies in type 2 diabetes. Curr Diab Rep. 2009;9:16471.  \n   11.    Hivert MF, Jablonski KA, Perreault L, Saxena R,",
+              "title": "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+              "version": "v0",
+              "chunk_order": 292,
+              "document_id": "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+              "extraction_id": "f7fe5916-4f25-5740-8737-f668f216575d",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "375e0eba-87cf-5081-9f39-da1938e8be9e",
+            "score": 0.6806155443191528,
+            "metadata": {
+              "text": "77. Bergholdt R, Brorsson C, Lage K, Nielsen JH, Brunak S, Pociot F.\nExpression proling of human genetic and protein interaction networks intype 1 diabetes. PLoS One 2009;4:e6250\n78. Bergholdt R, Storling ZM, Lage K, Karlberg EO, Olason PI, Aalund M,\nNerup J, Brunak S, Workman CT, Pociot F. Integrative analysis for ndinggenes and networks involved in diabetes and other complex diseases.Genome Biol 2007;8:R253\n79. Oresic M, Simell S, Sysi-Aho M, Na nto -Salonen K, Seppa nen-Laakso T,",
+              "title": "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+              "version": "v0",
+              "chunk_order": 181,
+              "document_id": "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+              "extraction_id": "e5a38afd-cb9c-5552-9edd-3e9043d4f30d",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "b3455bcd-494e-5288-93ae-2fd761dd4157",
+            "score": 0.6779636144638062,
+            "metadata": {
+              "text": "31. Saxena, R. et al. Genome-wide association analysis identies loci for type 2\ndiabetes and triglyceride levels. Science 316, 13311336 (2007).\n32. Franke, L. et al. Reconstruction of a functional human gene network, with an\napplication for prioritizing positional candidate genes. Am. J. Hum. Genet. 78,\n10111025 (2006).\n33. Su, Z., Marchini, J. & Donnelly, P. HAPGEN2: simulation of multiple disease\nSNPs. Bioinformatics 27,23042305 (2011).",
+              "title": "2015 - Biological interpretation of genome-wide association studies using predicted gene functions.pdf",
+              "version": "v0",
+              "chunk_order": 132,
+              "document_id": "8f9f62fd-9423-55b3-abf9-24cde0d2e775",
+              "extraction_id": "0b09c4c7-a276-517f-a6e1-9388032fe622",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "2360c49b-412e-5e9d-b95d-87a67b82e729",
+            "score": 0.676893989854694,
+            "metadata": {
+              "text": "Page 16 of 21 Tohetal. BMC Biology           (2022) 20:245 \nIdentification ofdiabeteslinked genes bytext mining\nWe used four techniques to derive a set of genes associ -\nated with type 2 diabetes and with diet-induced diabe -\ntes. First, we compiled an expert-curated gene-disease \nassociation database from standard resources, the Com -\nparative Toxicogenomics Database [35] and PharmGKB \n[36]. The result gave 277 genes associated with type 2 \ndiabetes, but none associated with diet-induced dia -",
+              "title": "2022 - A haplotype-resolved genome assembly of the Nile rat facilitates exploration of the genetic basis of diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 133,
+              "document_id": "6a8eb0a5-807d-5ef9-a732-b1dd722c0499",
+              "extraction_id": "afa54304-6ffc-5f81-9431-d4c19f58527b",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "5e5e6bac-7695-5405-ad90-f24f5336fa34",
+            "score": 0.6724510393277123,
+            "metadata": {
+              "text": "2 diabetes alone and in combination with HumanNet and measuring performance as AUC ( <5% FPR) for recovering the top 20 genes from a type 2\ndiabetes meta-analysis of 4549 cases and 5579 controls (Zeggini et al. 2008). As for Crohns disease, consideration of the network boosts performance\nacross a wide range of parameter values. Notably, consideration of the network strongly implicates the genes CTNNB1 and BACH2 in type 2 diabetes;",
+              "title": "2011 - Prioritizing candidate disease genes by network-based boosting of genome-wide association data.pdf",
+              "version": "v0",
+              "chunk_order": 91,
+              "document_id": "db0aa4b3-66ec-5d51-be72-2a1289db944a",
+              "extraction_id": "dcb6101e-cf09-5220-a3c9-ed5106c065b2",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "65941ce7-c762-5ae5-b1cd-4c62d8caddac",
+            "score": 0.6685874462127686,
+            "metadata": {
+              "text": "twins. Diabetologia 30, 763768 (1987).\n3. Neel, J. V. in The Genetics of Diabetes Mellitus   \n(eds W. Creutzfeldt, J. Kbberling, & J. V. Neel) 1-11 (Springer, 1976).\n4. International HapMap Consortium, etal. A second generation human haplotype map of over 3.1 million \nSNPs. Nature 449, 851861 (2007).\n5. Sabeti, P . C. etal. Genome-wide detection and \ncharacterization of positive selection in human \npopulations. Nature 449, 913918 (2007).\n6. Genomes Project, C. etal. A global reference",
+              "title": "2020 - Insights into pancreatic islet cell dysfunction from type 2 diabetes mellitus genetics..pdf",
+              "version": "v0",
+              "chunk_order": 105,
+              "document_id": "2a386c81-8f24-5993-8e48-0e89d7fb4fec",
+              "extraction_id": "f7013243-3e5f-509d-a414-edc4d7f27bc2",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "4f009356-41ed-5cdc-9cfa-80cbb913874f",
+            "score": 0.6677918832178058,
+            "metadata": {
+              "text": "type 1 diabetes genome scan data, and a high -confidence human protein interaction network.\nResulting networks were ranked by the significance  of the enrichment of proteins from interacting\nregions. We identified a number of new prot ein network modules and novel candidate genes/\nproteins for type 1 diabetes. We propose this type of integrative analysis as a general method for\nthe elucidation of genes and networks involv ed in diabetes and other complex diseases.\nBackground",
+              "title": "2007 - Integrative analysis for finding genes and networks involved in diabetes and other complex diseases.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "b91aeacf-6e83-52ac-beb6-034ad77cab18",
+              "extraction_id": "f13b4fee-14f4-5827-9482-3692165c8ce6",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          },
+          {
+            "id": "c21d117e-a223-5293-b794-6aa60729f7f7",
+            "score": 0.6616993152082387,
+            "metadata": {
+              "text": "gene prioritization are explained in detail in the Appendix,\nSupplemental Digital Content 1 , http://links.lww.com/A1049.\nIn addition, the complete list of the training genes, including both the\nGene HGNC symbol, and gene name are shown in the Appendix ,\nSupplemental Digital Content 1 , http://links.lww.com/A1049.\nMoreover, from the freely available site http:// www.broad.mit.edu/\ndiabetes/, we downloaded the results of the GWA study in 3000\nScandinavian individuals about the genetic variants that inu-",
+              "title": "2009 - Gene prioritization based on biological plausibility over genome wide association studies renders new loci associated with type 2 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 16,
+              "document_id": "0fd2b5c8-9bda-5cc8-adb4-231d3842d50f",
+              "extraction_id": "a6b6c2df-f79b-58b8-a67a-fcf55b18d221",
+              "associatedQuery": "How can I use the GeneNetwork tool to find genes related with diabetes in humans?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "9": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYnFB30HdQXCs4mqZmx2zUlQo7uq",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Confounding factors in diabetes are variables that can influence both the exposure and the outcome, potentially leading to misleading associations. Some of the confounding factors in diabetes include:\n\n1. **Physical Activity**: Errors in measuring physical activity can lead to inadequate control of this confounder in epidemiological analyses [1].\n2. **Demographic and Lifestyle Factors**: These include a wide range of variables such as age, sex, socioeconomic status, and lifestyle habits like diet and exercise, which can influence diabetes risk [3].\n3. **Environmental Effects**: These include varying duration of disease, differing access to healthcare, heterogeneity in prescription, and variation in adherence to treatment regimes [5].\n4. **Adiposity**: Adjusting for adiposity and other confounding factors is crucial in studies examining the onset and complications of diabetes [9].\n\nThese factors need to be carefully controlled for in studies to ensure accurate and reliable results.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795373,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_c17d3befe7",
+        "usage": {
+          "completion_tokens": 187,
+          "prompt_tokens": 1035,
+          "total_tokens": 1222
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "ad3e5060-4495-5a6f-9bb3-0f372359d852",
+            "score": 0.7067822217941284,
+            "metadata": {
+              "text": "confounding, which is plausible in observational studies of incident type 2 diabetes. Measurements of confounders (eg, physical activity) are susceptible to errors and are not adequately controlled for in epidemiological analyses.\n5 \nAlthough results from clinical trials6,7 have shown no e ect of vitamin D supplementation on the incidence of \ntype 2 diabetes, these   ndings require cautious \ninterpretation because of issues with doses, combination treatment with calcium, compliance, and generalisability.\n3",
+              "title": "2015 - Association between circulating 25-hydroxyvitamin D.pdf",
+              "version": "v0",
+              "chunk_order": 9,
+              "document_id": "3affa62b-11b1-5068-b699-1799d5566ea3",
+              "extraction_id": "bea401d8-c665-5910-b3f6-0974617dc32f",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "c1c877eb-2dfe-586b-bde8-99b2c0ae8515",
+            "score": 0.6955732703208923,
+            "metadata": {
+              "text": "common (confounding factors) that are the real causes of diabetes. In\nthis study, the researchers use Mendelian randomization to examine\nwhether increased blood CRP causes diabetes. Some variants of CRP (the\ngene that encodes CRP) increase the amount of CRP in the blood.\nBecause these variants are inherited randomly, there is no likelihood ofconfounding factors, and an association between these variants and the\ndevelopment of insulin resistance and diabetes indicates, therefore, that",
+              "title": "2008 - Inflammation, Insulin Resistance and Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 113,
+              "document_id": "71615f74-43a6-5f1c-9300-db97f10b212c",
+              "extraction_id": "5f281214-ff2f-5f01-ad99-9faa2edf5751",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "50aa0f0c-1095-5660-bde3-f6320c88506d",
+            "score": 0.6417735815048218,
+            "metadata": {
+              "text": "residual confounding. As shown inTable 2, many of the included studiesadjusted for a wide range of potentialconfounders, including demographicand lifestyle factors. The strength of theadjusted RRs for adiponectin levels anddiabetes risk and the consistency of as-sociations across diverse populations re-duce the likelihood that residual con-founding by these variables can explainthe findings. Another issue is whetheradiponectin has a causal effect on dia-betes or is only a surrogate marker forother",
+              "title": "2019 - Adiponectin Levels and Risk of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 91,
+              "document_id": "584ea813-0169-5c1e-90f2-4abfbcc0b4fa",
+              "extraction_id": "2b483dbc-bc68-5065-b650-811216009db5",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "0dd93045-9b04-53eb-9d51-1dcc1c9c975a",
+            "score": 0.6341733336448669,
+            "metadata": {
+              "text": "diabetes are related to impaired glucose counterregulation and \nhypoglycemia unawareness, one should also keep in mind that \nhypoglycemia can be multifactorial and be the result of several unrelated \ndiseases. These include liver disease, malnutrition, sepsis, burns, total \nparenteral nutrition, malignancy and administration of certain medications \nknown to reduce plasma glucose concentrations (Table 1).27 \nIn principle, the same risk factors for hypoglycemia apply to",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 1546,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "0b7b0898-2ca5-59aa-aa53-1ab187fe3dd0",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "a9ade0cc-6bd0-57d7-ab72-4a0b6735e455",
+            "score": 0.6305022835731506,
+            "metadata": {
+              "text": "exists in the overall sample. In the case of type 2 diabetes,one would ideally stratify on the basis of insulin resistanceand/or severity of insulin secretion defect. However, con-founding environmental effects, including varying durationof disease, differing access to health care, heterogeneity inprescription, and variation in adherence to treatmentregimes, make inferences about insulin action in diabeticpatients problematic, especially inferences based solely onoral glucose tolerance test (OGTT) data",
+              "title": "2001 - A Gene Conferring Susceptibility to Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 17,
+              "document_id": "8c07c8b6-4192-56cf-9332-715ff7085577",
+              "extraction_id": "57ab3edd-7ed7-568a-9e47-b351e2cbf987",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "8e3bbcea-6f25-57c4-86b8-845b1cd0fc02",
+            "score": 0.6268503069877625,
+            "metadata": {
+              "text": "of diabetes remains one of the great challenges in human genetics. \nDiabetes is a result of complex interactions between genetic and \nnon-genetic (including environmental) factors. Although diabetes and its \nrelated traits have been shown to cluster within families, their .transmission \ndoes not follow a Mendelian fashion, except for some rare syndromes such \nas MODY. Diabetes could be the result of few common variants with a \nrelatively large effect, such as HLA alleles at the MHC locus and VNTR",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 614,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "1a24f9ed-c710-589a-a7f6-7ec46b8cf6a8",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "ee0041e3-b9a3-5a97-9761-55208d06bb2d",
+            "score": 0.6267212255763288,
+            "metadata": {
+              "text": "predisposing to diabetes through effects on insulin sensitivity, however, may be more dif  cult to track down because of strong",
+              "title": "2010 - The Genetics of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 192,
+              "document_id": "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+              "extraction_id": "609eb8ef-0827-567c-98ed-51b1945e5c9d",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "e35ff76b-92a1-51fa-b28f-d9c90a81f2fd",
+            "score": 0.624970555305481,
+            "metadata": {
+              "text": "is still unclear. Genetic studies in both animalsand humans are complex, given the many susceptibility andprotective loci that contribute to the overall risk of diabetes",
+              "title": "2005  - Animal models of diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 91,
+              "document_id": "2fd381ac-2898-5a8c-af93-bcc86e7dec14",
+              "extraction_id": "3e91ce60-4e0b-527d-b8c7-147d5717e17a",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "82404153-20f8-53e5-92a9-5cf0818d3c4d",
+            "score": 0.6222310066223145,
+            "metadata": {
+              "text": "adjustment for adiposity and other confounding factors [4\n10]. Preventing or delaying onset of diabetes and its compli-\ncations is an important therapeutic aim, and there is interest in\ninammatory effectors including CRP as drug targets [11,12].\nIt is therefore highly desirable to establish which mediators in\nthe inammatory cascade are causal for diabetes.\nMendelian randomization involves comparison of pheno-\ntype and genotype effects in observational studies [13]. If the",
+              "title": "2008 - Inflammation, Insulin Resistance and Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 12,
+              "document_id": "71615f74-43a6-5f1c-9300-db97f10b212c",
+              "extraction_id": "ea677f19-62e2-5f59-b995-babba0066f5f",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          },
+          {
+            "id": "b9e891e3-eba8-5a00-86ce-55d5d144361d",
+            "score": 0.6205631494522095,
+            "metadata": {
+              "text": "adjusting for sex, diabetes duration, HbA1c, and smoking, assuming either additive or dominant effects of the polymorphisms.N. VIONNET AND ASSOCIATES\nDIABETES, VOL. 55, NOVEMBER 2006 3169Downloaded from http://diabetesjournals.org/diabetes/article-pdf/55/11/3166/649912/zdb01106003166.pdf by Kenya Institution user on 14 July 2023",
+              "title": "2006 - Analysis of 14 Candidate Genes for Diabetic Nephropathy.pdf",
+              "version": "v0",
+              "chunk_order": 55,
+              "document_id": "6512e711-d879-50b3-96e7-2e97339ebad5",
+              "extraction_id": "dd18cc20-78a9-5589-b605-d5bf37628258",
+              "associatedQuery": "what are confounding factors in diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "10": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYnJbAeICzXtvQR31T420R0p7Xn0",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The immune system is intricately related to diabetes, particularly Type 1 Diabetes (T1D), through several mechanisms:\n\n1. **Autoimmunity and \u03b2-cell Destruction**: T1D is characterized by the immune system mistakenly attacking and destroying insulin-producing \u03b2-cells in the pancreas. This autoimmune response is a central feature of T1D [6].\n\n2. **Immune Responsiveness**: Diabetes is associated with diminished immune responsiveness, which can affect the body's ability to manage glucose levels and may influence susceptibility to diabetic complications [2].\n\n3. **Role of Infections**: Infections or immune stimulation may have a protective effect against the development of diabetes. For instance, viral infections have been shown to trigger immunoregulatory mechanisms that protect against T1D in animal models [1], [8].\n\n4. **Gut Microbiome and Autoimmunity**: The gut microbiome plays a significant role in the development of autoimmunity related to T1D. Alterations in gut microbiota networks have been observed in children with anti-islet cell autoimmunity, suggesting a link between gut health and immune responses in diabetes [3], [7].\n\n5. **Immune Pathogenesis in Complications**: Evidence supports an immune pathogenesis for diabetic complications such as autonomic neuropathy, where immune cells infiltrate autonomic ganglia, leading to nerve damage [10].\n\nIn summary, the immune system's malfunction, particularly through autoimmunity and altered immune responses, is a key factor in the development and progression of diabetes, especially T1D.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795377,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 318,
+          "prompt_tokens": 1180,
+          "total_tokens": 1498
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "d156068e-31f6-5464-8ef1-eb5e7c58aa8d",
+            "score": 0.6354430317878723,
+            "metadata": {
+              "text": "disordering particular lymphocyte subsets [57]. Viral anti-body-free BB rats show an increased frequency and accel-erated onset of diabetes, suggesting that infection may havea protective effect against the development of diabetes bythese animals [230]. Thus, we speculate that infection orimmune stimulation in humans may also reduce the pen-etrance of susceptibility genes, which could account for thelow concordance rate between identical twins of less than40% for the development of T1D [13].\nConclusion",
+              "title": "2004 - A New Look at Viruses in Type 1 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 244,
+              "document_id": "38edad91-ff31-504e-91d8-eac3833615b0",
+              "extraction_id": "8bbb4581-dc07-5410-9737-6d249f3740f6",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "b205daa9-4723-5641-9ed4-428d83cf7758",
+            "score": 0.6344388723373413,
+            "metadata": {
+              "text": "ished immune responsiveness, a well-characterized feature of diabetes ( Shanmugam et al., 2003 ;\nMowat and Baum, 1971 ).\nFurther, we considered that the genetic component of an individuals response to glucose may\ninfluence their susceptibility to diabetic complications like retinopathy. Cell lines from individuals\nwith diabetes with and without retinopathy reveal differences in the response to glucose at a molec-",
+              "title": "2020 - Integration of genomics and transcriptomics predicts diabetic retinopathy susceptibility genes.pdf",
+              "version": "v0",
+              "chunk_order": 69,
+              "document_id": "699a10ff-44d7-5cb3-bc25-ec5ba85cb751",
+              "extraction_id": "018ac588-c327-5122-9c18-18f4d0df0f14",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "e7e8ef7b-bad0-54bc-814d-d947ea04756b",
+            "score": 0.621391773223877,
+            "metadata": {
+              "text": "diabetes. ISME J. 5,8291 (2011).\n30. Brown, C. T. et al. Gut microbiome metagenomics analysis suggests a\nfunctional model for the development of autoimmunity for type 1 diabetes.PLoS ONE 6,e25792 (2011).\n31. Endesfelder, D. et al. Compromised gut microbiota networks in children with\nanti-islet cell autoimmunity. Diabetes 63,2006 2014 (2014).\n32. Kostic, A. D. et al. The dynamics of the human infant gut microbiome in\ndevelopment and in progression toward type 1 diabetes. Cell Host Microbe 17,\n260273 (2015).",
+              "title": "2016 - Integrated multi-omics of the human gut microbiome in a case study of familial type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 161,
+              "document_id": "f0405966-38bf-5a04-aa2c-1474b11362bb",
+              "extraction_id": "092a9b75-9985-5876-a650-59bc3f0d10fb",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "c851d17c-1ad0-5b9a-8820-ad45d0e4b075",
+            "score": 0.6190413236618042,
+            "metadata": {
+              "text": "+T cells related to diabetes-associated",
+              "title": "2003 - A functional polymorphism in the promoterenhancer region of the FOXP3Scurfin gene associated with type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 7,
+              "document_id": "4a3964a4-0aea-58ee-b749-33e0d8c62228",
+              "extraction_id": "aacbb5a1-c294-5568-ba02-3d4342091e86",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "0f6e6870-960c-560d-ad61-36c1d4d9970f",
+            "score": 0.6149545907974243,
+            "metadata": {
+              "text": "the innate immune system (8, 36, 37) are known to play important roles in the development of diabetes itself, no study to date has linked these ideas with the",
+              "title": "2005 - Pathway analysis of coronary atherosclerosis.pdf",
+              "version": "v0",
+              "chunk_order": 158,
+              "document_id": "fa9c400b-fbfa-54ce-a801-7594b489e42d",
+              "extraction_id": "858559b5-74d3-585a-9f45-ffa065ecb0f7",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "f6fd1d0f-d88e-55f7-8ed6-bba917a65b8f",
+            "score": 0.6046664118766785,
+            "metadata": {
+              "text": "same or related viruses might complete the process of\nimmune-mediated b-cell destruction. Alternatively, chil-\ndren genetically predisposed to develop autoimmunediabetes might have an altered immune system that is\nmore likely to respond to viral exposures with strongly\ndetectable antibody levels against certain viral antigens.If so, the detectable levels of antibodies to multiple viral\nantigens in diabetic patients would not indicate a causal",
+              "title": "2003 -Genetic epidemiology of type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 29,
+              "document_id": "cbc7f2d3-3f65-50ba-b281-96dd1c77f2c0",
+              "extraction_id": "84a487be-a531-5f09-b2d5-d0525c59d581",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "00b43e01-2296-528e-82e1-5671bffe784d",
+            "score": 0.6038658618927002,
+            "metadata": {
+              "text": "with -cell autoimmunity and those without. Diabetes 62, 12381244 (2013).\n 9. Mario, E. et al. Gut microbial metabolites limit the frequency of autoimmune \nT cells and protect against type 1 diabetes. Nat. Immunol. 18, 552562 \n(2017).\n 10. Needell, J. C. & Zipris, D. The role of the intestinal microbiome in type 1 diabetes pathogenesis. Curr. Diab. Rep. 16, 89 (2016).\n 11. Davis-Richardson, A. G. et al. Bacteroides dorei dominates gut microbiome prior",
+              "title": "2018 - The human gut microbiome in early-onset type 1 diabetes from the TEDDY study.pdf",
+              "version": "v0",
+              "chunk_order": 71,
+              "document_id": "36096262-86f1-5c7e-bea1-4abbc610a974",
+              "extraction_id": "9cca2fe6-7584-5d28-91f3-e06edca7ed54",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "0790a91d-f1c5-519a-9b0e-73a9f73b8da4",
+            "score": 0.598676818569804,
+            "metadata": {
+              "text": "141. Filippi CM, Estes EA, Oldham JE, von Herrath MG. Immuno-\nregulatory mechanisms triggered by viral infections protect fromtype 1 diabetes in mice. J Clin Invest 119: 15151523, 2009.\n142. Filippi CM, von Herrath MG. Viral trigger for type 1 diabetes:\npros and cons. Diabetes 57: 28632871, 2008.\n143. Flohe SB, Wasmuth HE, Kerad JB, Beales PE, Pozzilli P. A\nwheat-based, diabetes-promoting diet induces a Th1-type cytokinebias in the gut of NOD mice. Cytokine 21: 149154, 2003.",
+              "title": "2011 - Type 1 Diabetes Etiology, Immunology.pdf",
+              "version": "v0",
+              "chunk_order": 463,
+              "document_id": "3c9823cd-3615-53b6-96c8-b7d2123d3eb0",
+              "extraction_id": "388e7eec-4204-59b5-a42d-e56a9032da0b",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "5daae5a1-9163-5850-874b-ea63ecdd4f87",
+            "score": 0.5931548122671368,
+            "metadata": {
+              "text": "12451252 (2008).\n77. Hofer,J.  etal.  Elevated proportions of recent thymic \nemigrants in children and adolescents with type1 \ndiabetes. Rejuvenation Res. 12, 311320 (2009).\n78. Wong,F.S. How does Bcell tolerance contribute to \nthe protective effects of diabetes following induced \nmixed chimerism in autoimmune diabetes? Diabetes \n63, 18551857 (2014).\n79. Roep,B.O. & Peakman,M. Antigen targets of type1 \ndiabetes autoimmunity. Cold Spring Harb. Perspect. \nMed.  2, a007781 (2012).",
+              "title": "2017 - Type 1 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 197,
+              "document_id": "8e8b9b6e-8dfb-5aae-8c61-5f53bd4e0242",
+              "extraction_id": "d342e632-c951-519a-b0de-505f3515403d",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          },
+          {
+            "id": "65247182-02f3-501c-94d4-36f4893ff703",
+            "score": 0.5904290080070496,
+            "metadata": {
+              "text": "Immune Hypothesis: Evidence supporting an immune pathogenesis \nis strongest for diabetic autonomic neuropathy. Autonomic ganglia heavily \ninfiltrated by lymphocytes, plasma cells, and macrophages were found at \nautopsy in five type 1 diabetics with symptomatic autonomic neuropathy. \nStriking cervical sympathetic ganglia atrophy was reported in another with \nsevere sensory and autonomic neuropathy.32 \nAutoimmune pathogenesis may be involved in proximal diabetic",
+              "title": "2004 - Diabetes Genes a.pdf",
+              "version": "v0",
+              "chunk_order": 1999,
+              "document_id": "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+              "extraction_id": "48f690af-58fa-59e1-a0ca-ce421aaa356c",
+              "associatedQuery": "How is the immune system related to diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "11": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYnQqyvhC46GEUXw2f9p5UR309ef",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The genomic variants associated with immune system components and diabetes include:\n\n1. **SLC30A8 (rs13266634)**: This variant is associated with an increased risk of Type 2 Diabetes Mellitus (T2DM) [1].\n2. **6q23/TNFAIP3**: Identified as a susceptibility locus for Type 1 Diabetes (T1D) [2], [3].\n3. **Pancreatic islet enhancer clusters**: These clusters are enriched in T2DM risk-associated variants [4].\n4. **Regulatory variants affecting monocyte gene expression**: These variants are conditioned by innate immune activity [4].\n5. **>60 loci**: Genome-wide association studies have identified over 60 loci that confer genetic susceptibility to T1D [5], [7].\n6. **CCR5-del32 mutation**: This mutation in the chemokine receptor CCR5 is a modifying pathogenetic factor in T1D [9].\n7. **CCR2 and CCR5 polymorphisms**: These polymorphisms are found in children with insulin-dependent diabetes mellitus [9].\n8. **Novel insights linking immune and metabolic diabetes**: Identified through the first genome-wide association study of latent autoimmune diabetes in adults [10].\n\nThese variants highlight the complex interplay between genetic factors influencing both the immune system and diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795384,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 276,
+          "prompt_tokens": 1550,
+          "total_tokens": 1826
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "d8d64729-8353-5fd3-938f-c7e0467698f9",
+            "score": 0.7321232397629774,
+            "metadata": {
+              "text": "Imran Ali Khan et al., Genetic Variants in Indian Diabetes Patients  www.jcdr.net\nJournal of Clinical and Diagnostic Research. 2015 Nov, Vol-9(11): GC01-GC05 44of the pancreas and islets during embryonic growth [3]. Genetic \nvariants in this gene are associated with increased risk of T2DM in a \nvariety of study populations [28,29].\n In the first published GWAS for T2DM, SLC30A8 (rs13266634) was \nrevealed to be associated with diabetes (OR, 1.26; p = 5.0  10-7).",
+              "title": "2015 - Type 2 Diabetes Mellitus and the Association of Candidate Genes.pdf",
+              "version": "v0",
+              "chunk_order": 37,
+              "document_id": "3236fdee-e304-5b88-921f-52e52dc5afa3",
+              "extraction_id": "e1e1abb2-882f-5ba4-a51b-3b9bfc4df5aa",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "07f9090f-101c-5b89-ab7b-a072dbf1ed4b",
+            "score": 0.7237564325332693,
+            "metadata": {
+              "text": "diabetes and celiac disease. N Engl J Med 2008; 359: 27672777.\n11 Fung E, Smyth DJ, Howson JM, Cooper JD, Walker NM,\nStevens H et al. Analysis of 17 autoimmune disease-associated\nvariants in type 1 diabetes identifies 6q23/TNFAIP3 as asusceptibility locus. Genes Immun 2008; 10: 188191.\n12 Cooper JD, Smyth DJ, Smiles AM, Plagnol V, Walker NM,\nAllen JE et al. Meta-analysis of genome-wide association study\ndata identifies additional type 1 diabetes risk loci. Nat Genet\n2008; 40: 13991401.",
+              "title": "2009 - Analysis of 19 genes for association with type I diabetes in the Type I Diabetes Genetics Consortium families..pdf",
+              "version": "v0",
+              "chunk_order": 106,
+              "document_id": "a0e27a2d-a07b-5b4d-a93a-907303dd8876",
+              "extraction_id": "8ae199fd-0820-54c6-8d5c-aea5bf5fb895",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "96b66f03-33dd-5a88-91c8-e0aa13cbcf3d",
+            "score": 0.7197657274990438,
+            "metadata": {
+              "text": "10. Smyth, D.J. et al. Shared and distinct genetic variants in type 1 diabetes and celiac\ndisease. N. Engl. J. Med. 359, 27672777 (2008).\n11. Fung, E. et al. Analysis of 17 autoimmune disease-associated variants in type 1\ndiabetes identies 6q23/TNFAIP3 as a susceptibility locus. Genes Immun. 10,\n188191 (2009).\n12. Cooper, J.D. et al. Meta-analysis of genome-wide association study data identies\nadditional type 1 diabetes risk loci. Nat. Genet. 40, 13991401 (2008).",
+              "title": "2009 - Genome-wide association study and meta-analysis find that over 40 loci affect risk of type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 74,
+              "document_id": "e6566ede-0c5a-51d1-aac9-e6e1695e937a",
+              "extraction_id": "a58e318d-3358-518c-ac23-6dd4d7b000f2",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "9a17c246-a9c7-5c13-92ef-5d551c7439e9",
+            "score": 0.7178451250699249,
+            "metadata": {
+              "text": "14. Pasquali L, Gaulton KJ, Rodriguez-Segui SA, Mularoni L, Miguel-Escalada I, et al. (2014) Pancreatic\nislet enhancer clusters enriched in type 2 diabetes risk-associated variants. Nat Genet 46: 136 143.\ndoi:10.1038/ng.2870 PMID: 24413736\n15. Fairfax BP, Humburg P, Makino S, Naranbhai V, Wong D, et al. (2014) Innate immune activity condi-\ntions the effect of regulatory variants upon monocyte gene expression. Science 343: 1246949. doi: 10.\n1126/science.1246949 PMID: 24604202",
+              "title": "2015 - Transcript Expression Data from Human.pdf",
+              "version": "v0",
+              "chunk_order": 158,
+              "document_id": "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+              "extraction_id": "8fb04ac0-460b-58d3-ad43-2c7720bfd87e",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "f3e96e99-cd95-5c0c-92c5-72d6edf2f6ff",
+            "score": 0.7123511858195786,
+            "metadata": {
+              "text": "The Journal of Immunology\nSystematic Evaluation of Genes and Genetic Variants\nAssociated with Type 1 Diabetes Susceptibility\nRamesh Ram,*,Munish Mehta,*,Quang T. Nguyen,*,Irma Larma,*,\nBernhard O. Boehm,,xFlemming Pociot,{Patrick Concannon,,#and Grant Morahan*,\nGenome-wide association studies have found >60 loci that confer genetic susceptibility to type 1 diabetes (T1D). Many of these are",
+              "title": "2016 - Systematic Evaluation of Genes and Genetic Variants Associated with Type 1 Diabetes Susceptibility.pdf",
+              "version": "v0",
+              "chunk_order": 3,
+              "document_id": "e4288a56-0280-5681-8eb4-4f52b3160451",
+              "extraction_id": "082f1c10-0745-5d70-a176-336fc972319c",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "9a6042ed-f076-51c3-b0f3-3d8b94e9852f",
+            "score": 0.7116969268051025,
+            "metadata": {
+              "text": "disease and type II diabetes. Genes Immun.  10, 654658 (2009).\n41. Hindorff, L.A. et al. Potential etiologic and functional implications of genome-wide \nassociation loci for human diseases and traits. Proc. Natl. Acad. Sci. USA  106, \n93629367 (2009).\n42. Nicolson, T.J. et al.  Insulin storage and glucose homeostasis in mice null for the \ngranule zinc transporter ZnT8 and studies of the type 2 diabetes-associated variants. \nDiabetes  58, 20702083 (2009).",
+              "title": "2010 - Twelve type 2 diabetes susceptibility loci identified.pdf",
+              "version": "v0",
+              "chunk_order": 136,
+              "document_id": "8be48d47-68bd-5bec-844d-7ddd3e624442",
+              "extraction_id": "6912cf22-46e3-540b-bafe-f4951ec2bd70",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "123d1a9a-12c9-59a2-8f3e-083220452036",
+            "score": 0.7058430138732812,
+            "metadata": {
+              "text": "The composition and activity of the human immune system is under genetic control, and people \nwith certain changes in their genes are more susceptible than others to develop type 1 diabetes. \nPrevious studies have identified around 60 locations in the human DNA (known as loci) associated \nwith the condition, but it remains unclear how these loci influence the immune system and whether \ndiabetes will emerge.\nChu, Janssen, Koenen et al. explored how variations in genetic information can influence the",
+              "title": "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 25,
+              "document_id": "368e0215-393e-5bec-a87c-e976adaa3ca5",
+              "extraction_id": "fc30d552-be59-5ddf-9bac-e247d536ed96",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "6fc3a7f1-bd7e-55d9-be9b-1c6f5fb5452e",
+            "score": 0.7056248959526594,
+            "metadata": {
+              "text": "mellitus-associated genetic variants contribute to overlapping\nimmune regulatory networks. Front Genet 2018; 9:535.\n13 Syreeni A, Sandholm N, Cao J et al. Genetic determinants of\nglycated hemoglobin in type 1 diabetes. Diabetes 2019; 68:\n858 67.\n14 Sidore C, Busonero F, Maschio A et al. Genome sequencing\nelucidates Sardinian genetic architecture and augmentsGenes affecting type 1 diabetes diagnosis age / A. Syreeni et al .",
+              "title": "2021- Genome\u2010wide search for genes affecting the age at diagnosis of type 1.pdf",
+              "version": "v0",
+              "chunk_order": 117,
+              "document_id": "a98a972b-8b50-58c8-9126-1883a96b1a09",
+              "extraction_id": "bc2a4183-8ca7-5b72-8e03-25f4933ecc8b",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "ca60f298-62fe-5fcc-a833-8439733cfae2",
+            "score": 0.7045234265639453,
+            "metadata": {
+              "text": "Genetic Variants in Type 1 Diabetes and Celiac Disease\nn engl j med 359;26 www.nejm.org december 25, 2008 2777Kalev I, Oselin K, Prlist P, et al. CC-26. \nchemokine receptor CCR5-del32 mutation \nas a modifying pathogenetic factor in type I diabetes. J Diabetes Complications 2003;17:387-91.\nSzalai C, Csszr A, Czinner A, et al. \n27. \nChemokine receptor CCR2 and CCR5 polymorphisms in children with insulin-dependent diabetes mellitus. Pediatr Res 1999;46:82-4.\nYang B, Houlberg K, Millward A, De -\n28.",
+              "title": "2008 - Shared and Distinct Genetic Variants in Type 1 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 94,
+              "document_id": "4a655174-c16b-54d5-901a-6508d638cc23",
+              "extraction_id": "20a53007-acf3-5317-89d5-1d69f1845d62",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          },
+          {
+            "id": "81df736a-3450-53da-9421-57f7d29e3218",
+            "score": 0.7028181971799266,
+            "metadata": {
+              "text": "13(1):2337. https://doi.org/10.1038/s41467-022-29932-y\n5. Burgess S, Butterworth A, Thompson SG (2013) Mendelian\nrandomization analysis with multiple genetic variants using\nsummarized data. Genet Epidemiol 37(7):658 665. https://doi.\norg/10.1002/gepi.21758\n6. Cousminer DL, Ahlqvist E, Mishra R et al (2018) First genome-\nwide association study of latent autoimmune diabetes in adults\nreveals novel insights linking immune and metabolic diabetes.\nDiabetes Care 41(11):2396 2403. https://doi.org/10.2337/dc18-",
+              "title": "2023 - Childhood adiposity and novel subtypes of adult-onset diabetes a Mendelian randomisation and genome-wide genetic correlation study.pdf",
+              "version": "v0",
+              "chunk_order": 37,
+              "document_id": "fff2bd78-2ac2-5672-b8fd-ed82ab7c910b",
+              "extraction_id": "defbf2fb-7aa7-538d-b6ac-81ecd607179c",
+              "associatedQuery": "What are the genomic variants associated with immune system components and diabetes?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "12": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYnYRyH5dd9Q9xzg35pmgGcm27tO",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "The role of the immune system in the metabolomics of diabetes and associated conditions is highlighted in the context provided. Specifically, it is noted that serum proteomics has revealed systemic dysregulation of innate immunity in Type 1 diabetes [6]. This indicates that the immune system plays a significant role in the metabolic alterations observed in diabetes. The identification of metabolic biomarkers related to immune system dysregulation can help in detecting individuals at risk for Type 2 diabetes and insulin resistance [6]. This connection underscores the importance of understanding immune system interactions within the broader metabolic landscape of diabetes.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795392,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 114,
+          "prompt_tokens": 1266,
+          "total_tokens": 1380
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "13c68218-4920-5df7-a0b4-017298c9001a",
+            "score": 0.7062563896179199,
+            "metadata": {
+              "text": "allows the detection of systemic metabolic imbalances, thereby providing a disease specific picture of human physiology.\ndoi:10.1371/journal.pone.0013953.g003Metabolomics of Diabetes\nPLoS ONE | www.plosone.org 9 November 2010 | Volume 5 | Issue 11 | e13953",
+              "title": "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+              "version": "v0",
+              "chunk_order": 128,
+              "document_id": "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+              "extraction_id": "8ad05bed-b0fd-52d4-badf-a98233a0808d",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "393e2363-48e6-56ad-94d6-39b1915b2f5a",
+            "score": 0.7010870932236849,
+            "metadata": {
+              "text": "Metabolomics studies allow metabolites involved in disease\nmechanisms to be discovered by monitoring metabolite level\nchanges in predisposed individuals compared with healthy\nones (Shaham et al, 2008; Newgard et al, 2009; Zhao et al,\n2010; Pietilainen et al, 2011; Rhee et al, 2011; Wang et al,2 0 1 1 ;\nCheng et al, 2012; Goek et al, 2012). Altered metabolite levels\nmay serve as diagnostic biomarkers and enable preventive\naction. Previous cross-sectional metabolomics studies of T2D",
+              "title": "2012 - Novel biomarkers for pre\u2010diabetes identified by metabolomics.pdf",
+              "version": "v0",
+              "chunk_order": 15,
+              "document_id": "d93e3562-3419-51a6-86db-8247a9e69361",
+              "extraction_id": "c775612c-c80b-5a50-9417-d6fd89ec07ee",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "3df2fa36-b9aa-51c6-9e36-acfcef1310b6",
+            "score": 0.6964335441589355,
+            "metadata": {
+              "text": "doi:10.1371/journal.pone.0013953.t006Metabolomics of Diabetes\nPLoS ONE | www.plosone.org 8 November 2010 | Volume 5 | Issue 11 | e13953",
+              "title": "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+              "version": "v0",
+              "chunk_order": 114,
+              "document_id": "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+              "extraction_id": "2359c12d-8263-5183-a350-fff365318805",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "ead10261-182f-5ab1-9af0-ce8a17677d4a",
+            "score": 0.696293830871582,
+            "metadata": {
+              "text": "monitoring and preventing progression to costly co-morbidities.\nThe principal concept of metabolomics being able to find some\nmetabolites differing in a control and a type 2 diabetic group is\nestablished. It is not our goal here to show this once again. The\nquestions we ask are rather How well are different approaches\nsuited to attain this goal? and What are optimal settings under\nwhich such studies can be successful?. Others have already\ninvestigated these questions before [16,17,18]. However, we",
+              "title": "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+              "version": "v0",
+              "chunk_order": 18,
+              "document_id": "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+              "extraction_id": "97b6d492-9139-50ec-9685-53a803f5c995",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "024eea85-c974-51fc-8def-89db09ba56b0",
+            "score": 0.6954019872964023,
+            "metadata": {
+              "text": "H, Raftery D, Nair KS. Quantitative me-tabolomics by H-NMR and LC-MS/MSconrms altered metabolic pathways in\ndiabetes. PLoS ONE 2010;5:e10538\n2. Li LO, Hu YF, Wang L, Mitchell M, Berger\nA, Coleman RA. Early hepatic insulin re-sistance in mice: a metabolomics analysis.Mol Endocrinol 2010;24:657 666\n3. Bain JR, Stevens RD, Wenner BR, Ilkayeva\nO, Muoio DM, Newgard CB. Metabolomicsapplied to diabetes research: moving frominformation to knowledge. Diabetes 2009;\n58:2429 2443",
+              "title": "2011 - Emerging Applications of Metabolomic.pdf",
+              "version": "v0",
+              "chunk_order": 77,
+              "document_id": "10c69e6a-3771-5cc6-a915-a31556dec650",
+              "extraction_id": "df823d9a-e2de-5dab-b336-af4682b9ce70",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "cef34be2-673e-553f-9c92-1ecef8edec4f",
+            "score": 0.6943854300494623,
+            "metadata": {
+              "text": "70 Zhang Q, Fillmore TL, Schepmoes AA et al. Serum proteomics reveals systemic dysregulation of innate immunity in Type 1 diabetes. J. Exp. Med. 210(1), 191203 (2013).\n71 Roberts LD, Koulman A, Griffin JL. Towards metabolic biomarkers of insulin resistance and Type 2 diabetes: progress from the metabolome. Lancet Diabetes Endocrinol.  \n2(1), 6575 (2014). \n\t Illustrates\tpotential\tmetabolic\tbio-markers\twhich\tmay\tbe\t\nused\tto\tdetect\tpeople\tat-risk\tfor\tT2D/insulin\tresistance,",
+              "title": "2015 - Genetics, genomics and personalized medicine in Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 160,
+              "document_id": "d8b85c3e-62f3-5e67-99b0-d0a2f225aff0",
+              "extraction_id": "92a2a3c7-ed41-5394-b716-fdbf5c198a86",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "5c7dc6d7-800e-5c77-ac61-bd8e3086754c",
+            "score": 0.6911985278129578,
+            "metadata": {
+              "text": "Serum or plasma concentrations of sugars and sugar metabo-\nlites (e.g., glucose, mannose, desoxyhexose, and 1,5-anhy-droglucoitol), ketone bodies ( -hydroxybutyrate),  lipids \n(e.g., phosphatidyl-cholines and nonesterified fatty acids), \nbranched-chain amino acids, and other metabolites were found \nto be associated with insulin resistance or diabetes status (see \nSupplementary Data  online for full references). A proof-of-\nconcept multi-platform, metabolome-wide study based on the",
+              "title": "2011 - The eMERGE Network A consortium of biorepositories linked to electronic medical records data for conducting genomic studies.pdf",
+              "version": "v0",
+              "chunk_order": 159,
+              "document_id": "3a174301-2941-578f-8ed6-f16d88fd2230",
+              "extraction_id": "a35d4e2a-ce04-536d-b88a-8f273aa03f40",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "3b9547ce-8316-5256-a68b-256058b3ee79",
+            "score": 0.6911985278129578,
+            "metadata": {
+              "text": "Serum or plasma concentrations of sugars and sugar metabo-\nlites (e.g., glucose, mannose, desoxyhexose, and 1,5-anhy-droglucoitol), ketone bodies ( -hydroxybutyrate),  lipids \n(e.g., phosphatidyl-cholines and nonesterified fatty acids), \nbranched-chain amino acids, and other metabolites were found \nto be associated with insulin resistance or diabetes status (see \nSupplementary Data  online for full references). A proof-of-\nconcept multi-platform, metabolome-wide study based on the",
+              "title": "2011 - Biomarkers for the Prediction of Type 2 Diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 159,
+              "document_id": "c68d29dd-eaa1-53f8-bc0d-aa85b2f39352",
+              "extraction_id": "75f979f5-425b-563c-b4ba-ec3a971f356a",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "06da63dc-6a8d-5682-80e0-7d37b66cdf6f",
+            "score": 0.6853743195533752,
+            "metadata": {
+              "text": "Conclusions/Significance: Our study depicts the promising potential of metabolomics in diabetes research by identification\nof a series of known and also novel, deregulated metabolites that associate with diabetes. Key observations include\nperturbations of metabolic pathways linked to kidney dysfunction (3-indoxyl sulfate), lipid metabolism (glyceropho-",
+              "title": "2010 - Metabolic Footprint of Diabetes A Multiplatform.pdf",
+              "version": "v0",
+              "chunk_order": 7,
+              "document_id": "b199607e-293e-56e8-88c8-e0716d1ee9eb",
+              "extraction_id": "6d77a75e-68a4-5c27-b387-449f7f9f9487",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          },
+          {
+            "id": "0cb19f85-21d9-54f1-81a4-43969ac050e8",
+            "score": 0.6782652735710144,
+            "metadata": {
+              "text": "with signicant limitations and potential for misuse oftechnologies and overinterpretation of data. Here we seekto provide a critical evaluation of progress to date inapplication of metabolomics technologies for the under-standing of diabetes and obesity mechanisms, for sub-classication of different forms of diabetes to assist intailoring of therapeutic strategies, and for more detailedevaluation of the safety and efcacy of drugs used totreat the disease.Overview of current metabolomics",
+              "title": "2009 - Metabolomics Applied to Diabetes Research.pdf",
+              "version": "v0",
+              "chunk_order": 6,
+              "document_id": "a6ae2fb6-88ae-588f-a98d-b6092f886ed9",
+              "extraction_id": "380e9a2e-8f9f-5f9e-ba20-3695b1c60fda",
+              "associatedQuery": "What is the role of the immune system in the metabolomics of diabetes and associated conditions?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  },
+  "13": {
+    "results": {
+      "completion": {
+        "id": "chatcmpl-ADYnd7yDDFmHs6an7OU6ShUeBDi9c",
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+              "content": "Yes, the landscape of QTL (Quantitative Trait Loci) and GWAS (Genome-Wide Association Studies) hits can be used to dissect the role of the immune system in diabetes and its complications. Several pieces of evidence from the provided context support this:\n\n1. **Impact on Immune Phenotypes**: GWAS SNPs for type 1 diabetes (T1D) have been shown to impact immune phenotypes. For example, QTL profiles of 62 T1D GWAS loci grouped by cell populations reveal the distribution of p-values, indicating significant associations between these loci and immune cell traits [1].\n\n2. **Overlap with Immune-Related Phenotypes**: Many module-QTL loci overlap with GWAS hits for immune-related phenotypes, suggesting that these genetic modules are important in the context of inflammatory diseases, including diabetes [2].\n\n3. **Genetic Regulation of Immune Phenotypes**: QTL mapping in a study identified nine genome-wide significant QTLs associated with immune-cell proportions, including T cell subpopulations, indicating a genetic regulation of immune phenotypes in T1D [4].\n\n4. **Impact on Immune-Cell Populations**: Analysis of T1D GWAS loci showed suggestive associations between top SNPs and immune-cell traits, categorized into B cells, T cells, monocytes, and NK cells, further highlighting the impact of these loci on immune cell populations [5].\n\n5. **Comparative Analysis of Susceptibility Loci**: Comparative analysis of GWAS data sets for diseases like T1D, Crohn's disease (CD), and ulcerative colitis (UC) helps identify additional susceptibility loci and increases statistical power, which is crucial for understanding the genetic basis of immune-related complications in diabetes [6].\n\n6. **Pathway Identification**: The Immunochip effort has contributed to understanding disease mechanisms by identifying pathways linked to diabetes, which were not previously associated with the disease, indicating the complexity and diversity of diabetes and its immune-related aspects [7].\n\n7. **Functional Impacts of SNPs**: Although GWAS analyses do not automatically determine the specific genes associated with disease pathogenesis, they provide insights into how disease genes interact and affect immune parameters and functions [8], [9].\n\nIn summary, the integration of QTL and GWAS data provides valuable insights into the genetic regulation of immune phenotypes and their role in diabetes and its complications, supporting the use of these landscapes for dissecting the immune system's involvement in the disease.",
+              "role": "assistant"
+            }
+          }
+        ],
+        "created": 1727795397,
+        "model": "gpt-4o-2024-05-13",
+        "object": "chat.completion",
+        "system_fingerprint": "fp_057232b607",
+        "usage": {
+          "completion_tokens": 510,
+          "prompt_tokens": 1287,
+          "total_tokens": 1797
+        }
+      },
+      "search_results": {
+        "vector_search_results": [
+          {
+            "id": "f799cd21-0ae3-5c3a-b3d4-9dfa4f5cfcef",
+            "score": 0.7119794235254021,
+            "metadata": {
+              "text": "'&'.+*\n.%(\"'.+ *\n$$*\n!\n\f\r\n\t\f\u000b\n'&'.+*\n.%(\"'.+ *\n$$*\t\u000b\nr\nFigure 2. Impact of type 1 diabetes (T1D) genome- wide association studies (GWAS) single- nucleotide polymorphisms (SNPs) on immune phenotypes. \n(A)Quantile- quantile (Q- Q) plots of quantitative trait locus (QTL) profiles of 62 T1D GWAS loci grouped by cell populations. The distribution of p- values",
+              "title": "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 104,
+              "document_id": "368e0215-393e-5bec-a87c-e976adaa3ca5",
+              "extraction_id": "f716d630-c82a-5987-ab4b-1b8a20d81dfa",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "8090d389-97c8-521f-8139-1947014f3d5e",
+            "score": 0.7093451965635781,
+            "metadata": {
+              "text": "diseases, including T2D. Many of the module-QTL locioverlap with GWAS hits for immune-related pheno-\ntypes, suggesting that the modules described here might\nbe of importance in the context of inflammatory dis-\neases. Similar analyses should be performed for co-\nexpression modules in other more T2D-relevant tissues\nto provide further insight into the causal networks\nunderlying T2D aetiology. Similarly, network rewiring in\nT2D might be more strongly detectable in other tissues",
+              "title": "2020 - Whole blood co-expression modules associate with metabolic traits and type 2 diabetes an IMI-DIRECT study.pdf",
+              "version": "v0",
+              "chunk_order": 124,
+              "document_id": "a3f00a6f-be97-51ce-9198-87f6469ce2db",
+              "extraction_id": "fbf3d28b-b05c-51a2-b902-94f17ff51d7b",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "87c0635a-b18d-58dd-8e92-ef98d713b870",
+            "score": 0.6841208527016144,
+            "metadata": {
+              "text": "(58)], revealing some interesting possible candidate functionalgenes other than those associated with the HLA and related sys-tems. In addition, early GWAS on type 1 diabetes by Todd et al.(23) revealed suggestive functional effects of non-HLA variants\ninvolved in immune functions. Another interesting application of",
+              "title": "2020 - Polygenic inheritance, GWAS, polygenic risk scores,and the search for functional variants.pdf",
+              "version": "v0",
+              "chunk_order": 78,
+              "document_id": "39ab8f23-a31d-561c-ba90-65b99f64b83e",
+              "extraction_id": "3615b8f4-612d-52e5-8581-8c0d97b2a845",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "0cd28c43-f17e-5e9e-8fa9-b81ef89264c3",
+            "score": 0.6833282301826352,
+            "metadata": {
+              "text": "Research article      \nGenetics and Genomics | Medicine\nChu, Janssen, Koenen etal. eLife 2022;11:e73709. DOI: https://doi.org/10.7554/eLife.73709  9 of 17Genetic regulation of immune phenotypes in T1D\nTo further explore potential genetic regulation of immune phenotypes on the whole- genome level, \nwe performed QTL mapping in 300DM. This identified nine genome- wide significant QTLs (p- value \n< 5  108) associated with immune- cell proportion, including four associated with T cell subpopu-",
+              "title": "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 107,
+              "document_id": "368e0215-393e-5bec-a87c-e976adaa3ca5",
+              "extraction_id": "f4c97581-4139-5397-9f3f-ccbb39846d93",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "50474cf9-286a-50eb-b344-2837cc7c43a6",
+            "score": 0.6793018770634022,
+            "metadata": {
+              "text": "studies (r2> 0.8) and performed a chi- square test on clinical status by using PLINK 1.9. Samples in \n300DM were taken as cases and samples in 500FG as controls.\nImpact of T1D GWAS loci on immune phenotypes\nTo detect the impact of T1D GWAS loci on immune- cell populations, we grouped all traits into four \ncategories (B cells, T cells, monocytes, and NK cells), and counted the number of suggestive associ-\nations (p- value < 0.05) between the 63 top SNPs from T1D GWAS loci and immune- cell traits. 1000",
+              "title": "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 42,
+              "document_id": "368e0215-393e-5bec-a87c-e976adaa3ca5",
+              "extraction_id": "bf2387f1-5389-54e8-897e-84575efee7f1",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "5f2de1ce-56f7-501d-a0e0-54991c1324f7",
+            "score": 0.677860417621086,
+            "metadata": {
+              "text": "In the present study, we interrogated GWAS data sets on\nCD, UC and T1D for known susceptibility loci implicated inthese diseases. Our comparative analysis serves several impor-tant roles: rst, the ability to identify additional susceptibilityloci for one disease by testing known loci for another disease,similar to previous studies ( 12,13). This approach increases\nstatistical power by limiting the number of hypotheses",
+              "title": "2010 - Comparative genetic analysis of inflammatory.pdf",
+              "version": "v0",
+              "chunk_order": 16,
+              "document_id": "ab74ea2b-684a-5f6f-b77b-f3dbd4de86e8",
+              "extraction_id": "1c95778f-bf36-5398-b891-85533d60c80c",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "82f7da2f-7abf-59e1-b259-46a01b375f1c",
+            "score": 0.6774772203720472,
+            "metadata": {
+              "text": "Conclusions\nA major challenge is to translate GWAS ndings intocausal variants and target genes. The Immunochipeffort has greatly contributed to our understanding\nof disease mechanisms by identifying pathways, which\ncould not be linked to diabetes by existing hypotheticalmodels. Diabetes is probably a much more diverse\ndisease than the current subdivision into T1DM\nand T2D implies and a more precise subdivisioninto subgroups may also pave the way for a more",
+              "title": "2016 - Effects of the genome on immune regulation in type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 39,
+              "document_id": "9fcfc0c3-80b5-515c-9263-a1a17cfa9a4c",
+              "extraction_id": "a744412e-5003-5732-9a73-f1f5267aa715",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "acc9b87c-583b-5ba6-bc6f-b833d2e8d2cb",
+            "score": 0.6764135553590336,
+            "metadata": {
+              "text": "edge of the role(s) of genetic variation (SNPs) in population-level sus-ceptibility to T1D ( Ram et al., 2016a ). However, GWAS analyses do not\nautomatically determine the particular gene(s) in a speci c locus that\nare mechanistically associated with disease pathogenesis, or elucidate\nthe manner in which disease gene(s) interact ( Zhong\n et al., 2010). The\ndiculty associated with ascribing functional impacts to SNPs is partly\nexplained by the fact that most disease-associated SNPs identi ed by",
+              "title": "2018 - The genetic architecture of type 1 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 75,
+              "document_id": "341261db-b38a-5bd2-8d8d-fc04a0b3da30",
+              "extraction_id": "5b8b3673-7fd4-5989-9982-a6d5ea374c8d",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "9b1cf5ca-d793-5c2a-a2db-c88f44ac6ec4",
+            "score": 0.675408123360613,
+            "metadata": {
+              "text": "(Supplementary file 1C).\nWe next investigated whether these genetic risk loci for T1D affect immune parameters and func-\ntion. The quantile- quantile plot of the association of the 63 T1D GWAS loci with different cell types \nand cytokines illustrates an inflated deviation from an expected uniform distribution (Figure 2A, \nFigure2figure supplement 1). We further tested whether this deviation can be explained by chance",
+              "title": "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+              "version": "v0",
+              "chunk_order": 86,
+              "document_id": "368e0215-393e-5bec-a87c-e976adaa3ca5",
+              "extraction_id": "32bf7dd7-d271-577f-9146-71da2681ec98",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          },
+          {
+            "id": "ce911802-af16-57a4-90e8-e3257a9ee7af",
+            "score": 0.673246820375514,
+            "metadata": {
+              "text": "Fadason et al. demonstrated that functionally relevant type 2 diabetes-\nassociated SNPs are spatially linked with speci c changes in the ex-\npression levels of genes within disease-associated tissues ( Fadason\net al., 2017 ). Similarly, a study demonstrated that integrating chro-\nmatin interactions with GWAS analyses is important in elucidatingcausal genes that modulate regulatory networks in autoimmune dis-\neases ( McGovern et al., 2016). As such, the spatial organization of DNA",
+              "title": "2018 - The genetic architecture of type 1 diabetes mellitus.pdf",
+              "version": "v0",
+              "chunk_order": 79,
+              "document_id": "341261db-b38a-5bd2-8d8d-fc04a0b3da30",
+              "extraction_id": "5b8b3673-7fd4-5989-9982-a6d5ea374c8d",
+              "associatedQuery": "Can the landscape of QTL and GWAS hits be used to dissect the role of immune system in diabetes and complications?"
+            }
+          }
+        ],
+        "kg_search_results": null
+      }
+    }
+  }
+}

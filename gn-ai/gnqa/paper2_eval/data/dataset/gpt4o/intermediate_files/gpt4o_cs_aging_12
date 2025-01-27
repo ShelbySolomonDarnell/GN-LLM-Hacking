@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2021 - Epigenetics of Aging and Aging-Associated Diseases.pdf",
+    "2017 - Epigenetic aging signatures in mice livers.pdf",
+    "2008 - GENETIC REGULATION OF HEMATOPOIETIC STEM CELL AGING (3).pdf",
+    "2010 - Higher-order Genome Organization.pdf",
+    "2007 - Aging Hematopoietic Stem Cells Decline in Function and Exhibit Epigenetic Dysregulation.pdf",
+    "2007 - Aging Hematopoietic Stem Cells Decline in Function and Exhibit Epigenetic Dysregulation.pdf",
+    "2016 - Epigenetic drift in the aging genome a ten-year.pdf",
+    "2021 - Epigenetics of Aging and Aging-Associated Diseases.pdf",
+    "2007 - Aging Hematopoietic Stem Cells Decline in Function and Exhibit Epigenetic Dysregulation.pdf",
+    "2012 - Aging, Rejuvenation, and Epigenetic.pdf"
+  ],
+  "extraction_id": [
+    "8db25d5e-25bd-5873-a53d-3815badbfd32",
+    "8e77571a-60ea-5e53-877d-08169e86d553",
+    "6c8b334f-2e14-5099-85fe-93f9ed6046ad",
+    "1a3a302a-4009-5ccf-aafa-f5f5a258ffde",
+    "42a32702-d380-56e7-8309-6ab1efbcd479",
+    "eb735cbe-b7f5-56cb-8cd6-1f2fb2b990a4",
+    "2f6d20f0-addc-51e8-979d-1aac7ac26694",
+    "e2bc9b8e-2349-509b-a148-fbd86f0455f4",
+    "0a77e94f-85de-5ab3-b23f-129b08839502",
+    "0e274732-b0df-53b8-999b-30b798af92e2"
+  ],
+  "document_id": [
+    "70945353-4808-539a-80f9-5632c27913e5",
+    "b20b11a6-1490-51b8-9218-c441a2e65ba7",
+    "7412a162-ee3b-5f09-9886-8e9172dd3ee8",
+    "91339298-860e-57d0-b58d-5a4571b4fc2b",
+    "a6fabf0c-e4a5-59f6-82c5-ebabce24fd0a",
+    "a6fabf0c-e4a5-59f6-82c5-ebabce24fd0a",
+    "52f09ef3-4e4c-538f-909c-d28eb72d91f3",
+    "70945353-4808-539a-80f9-5632c27913e5",
+    "a6fabf0c-e4a5-59f6-82c5-ebabce24fd0a",
+    "bde26feb-f423-51b0-89ec-6f079bfc8b17"
+  ],
+  "id": [
+    "chatcmpl-AIFhiQpAn2q80Ivtr6ZFWK3Q6aNNm",
+    "e97baf15-d14f-563f-875f-a2a6bd314ad4",
+    "38dc7635-499d-52ba-a35f-f57ba8f8df22",
+    "975250c9-7b4b-5ce5-b907-606ca6c70641",
+    "7fad6aa1-d4d9-585c-bdbd-394a9552ec0e",
+    "b43c1348-b982-59c2-9685-af7bb9fd0c4a",
+    "33f6a665-bb01-5c9f-9325-0f9acf312b54",
+    "0aede05b-f0dd-595a-a11d-acac0970d25d",
+    "5e3a0748-9dc0-55b1-ac4d-d8b2291fa297",
+    "c35ad17b-fe97-5ce5-bae1-59fd08201a7b",
+    "dea115e3-3d9b-5d08-a604-ab227fcd1b71"
+  ],
+  "contexts": [
+    "Figure 1. Epigenetics of aging and aging-relate d diseases. During aging, various ep igenetic alterations occur including  accumulation of histone variants, change s in chromatin accessibility mediated by chromatin remodeling complexes, loss  of histones and heterochroma tin, imbalance of activating /repressing histone modifications and aberrant expres- sion/activity of miRNAs. These deregulations can affect transcrip tion and, subsequently, transl ation, as well as the stabi-",
+    "ment of 5 years corresponded to a 21% increased risk of mortality overall [7]. Thus, predictions of epigenetic agemay be an indication of an individual s biological state of aging. Beyond these examples of advanced epigenetic aging, a complementary but unanswered question is whether epigenetic clocks can also be slowed. Epigenetic aging studies in humans have not thus far been well suited to address questions of slowed aging, given the lack of well-documented interventions that enhance health or",
+    "al., 2005 ).  The epigenetic changes that accumulated with age had a dramatic effect on gene expression, thus the authors propos e that a so-called epigenetic drift accompanies the aging process.   Epigenetic modifications can result in the cumulative loss of gene regulation over time, ultimately impairing cellular and tissue function.  Further, recent data sugge st that epigenetic disruption of tissue specific stem and progenitor cells may play a role in cancer development (Feinberg et al., 2006 ).  The",
+    "epigenetic changes during aging are currentlyunknown (Fig. 3). It has been suggested thatthe epigenetic alterations are largely triggered by DNA damage (reviewed in Oberdoerffer and Sinclair 2007). In this scenario, randomlyoccurring DNA damage leads to chromatin remodeling and to redistribution of chromatin modiers within the genome with modiersbeing recruited away from their normal sites so that they can engage in the repair of the",
+    "Epigenetic Dysregulation with Age",
+    "Epigenetic Dysregulation with Age",
+    "Recently, studying the direct relationship between epigeneticmechanisms and the aging process itself is gaining increasing attention. The potential reversibility of these epigenetic changes that occur as a hallmark of aging offers excitingopportunities to alter the trajectory of age-related diseases. 8 This is especially important given the remarkable plasticityof aging. 9,10In the literature, age-associated epigenetic alter- ations have been identified by epigenome-wide association",
+    "in gene transcription and, as a consequence, translation as well as the stabilization or degradation of molecular factors. While mechanisms underlying aging-related pathologies remain to be elucidated in detail, various studies demonstrate an epigenetic component. In fact, the aforementioned epigenetic modications were shown to play essential roles in diseases including inammation, cancer, osteoporosis, neurodegenerative diseases, and diabetes.",
+    "PLoS Biology | www.plosbiology.org August 2007 | Volume 5 | Issue 8 | e201 1759 Epigenetic Dysregulation with Age",
+    "and increased expression of proaging genes such as the cell-cycle inhibitor p16, which drives cell senescence. Additional consequences of epigenetic dys-regulation include increased transcriptional noise and decreased coordination of gene expression that contributes to organismal aging. Cell148, January 20, 2012 2012 Elsevier Inc. 53"
+  ],
+  "answer": "Epigenetic changes affect aging through several mechanisms:  1. **Alterations in Chromatin Structure**: During aging, there are various epigenetic alterations such as the accumulation of histone variants, changes in chromatin accessibility, loss of histones and heterochromatin, and imbalances in activating/repressing histone modifications. These changes can affect transcription and translation processes, impacting cellular function [1].  2. **Epigenetic Drift**: As individuals age, epigenetic changes accumulate, leading to a phenomenon known as epigenetic drift. This drift results in the cumulative loss of gene regulation over time, impairing cellular and tissue function. It is suggested that this disruption may also play a role in the development of age-related diseases, such as cancer [3].  3. **DNA Damage and Chromatin Remodeling**: It is suggested that epigenetic alterations during aging are largely triggered by DNA damage. This damage leads to chromatin remodeling and redistribution of chromatin modifiers, which are recruited away from their normal sites to engage in DNA repair [4].  4. **Increased Expression of Pro-aging Genes**: Epigenetic dysregulation can lead to increased expression of pro-aging genes, such as the cell-cycle inhibitor p16, which drives cell senescence. This contributes to increased transcriptional noise and decreased coordination of gene expression, further contributing to organismal aging [10].  5. **Potential for Reversibility**: Despite these changes, there is potential reversibility in epigenetic modifications, offering opportunities to alter the trajectory of age-related diseases. This highlights the plasticity of aging and the potential for interventions that could slow down the aging process [7].  Overall, epigenetic changes play a crucial role in the aging process by affecting gene expression, cellular function, and the development of age-related diseases.",
+  "question": "How do epigenetic changes affect aging?"
+}

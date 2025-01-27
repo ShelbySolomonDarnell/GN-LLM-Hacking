@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2004 - Linking nutrition to genomics.pdf",
+    "2008 - The Aging Brain.pdf",
+    "2007 - The role of nuclear architecture.pdf",
+    "2012 - Genome-Environment Interactions That Modulate.pdf",
+    "2001 - The genetics of aging.pdf",
+    "2009 - Genes and gene expression modules associated with caloric.pdf",
+    "2010 - Genetic Dissection of Dietary Restriction in Mice Supports the Metabolic Efficiency Model of Life Extension.pdf",
+    "2004 - A Transcriptional Profile of Aging.pdf",
+    "2018 -  Mechanisms of Vascular Aging.pdf"
+  ],
+  "extraction_id": [
+    "5d1905a8-536e-5efd-a92b-21053093d956",
+    "b193c536-dc9e-5ea6-9a01-064243a6cbf3",
+    "f63ffca5-2418-5683-9958-558c46b48def",
+    "9655c555-838e-5cdf-85cf-13736c3cf028",
+    "5745c701-a549-51c3-adcc-b19c47436740",
+    "713d3122-d856-5dbc-a3bf-d8cd836830cb",
+    "0b45ae60-562c-5e48-a1c1-9eb29614a63c",
+    "da7abebd-f7c0-5b9c-b0f2-e29871326855",
+    "b382fe8a-0267-5515-ac4b-07be55420040",
+    "fddca610-97a6-5f2c-88b4-dc6e96c60cf3"
+  ],
+  "document_id": [
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "99891ef7-0589-5c41-a61f-1ab1fe1c8939",
+    "874f5d02-35c9-5233-8ded-6e06c7570ca9",
+    "578e2f7d-ddd4-56c8-a5b0-670969f8ff1e",
+    "b1a1997c-e9df-5dc0-9d12-a3977d0c64ec",
+    "aa9a9193-b6f3-5ef8-aefd-e01ec44abb46",
+    "893ba204-2e69-563f-9046-7246ca61494f",
+    "92419d8a-27ed-5142-8a87-189c1ba5459b",
+    "4ab656a7-9656-526b-94e1-422875409b44",
+    "659b84b6-63dd-5bb1-80ee-7478ed3c47e3"
+  ],
+  "id": [
+    "chatcmpl-AIHY3hgOmiQgttq4BdrpX79X5LkzF",
+    "b516b1a9-d0f2-5d1e-9015-4799c902770b",
+    "6870f741-be38-5d34-aafd-25da39e1ff68",
+    "c5b37b9a-1ffa-516b-9681-22fecc5aee5b",
+    "e01c4c58-342d-5369-89e6-98344af55000",
+    "b990eb0a-709a-500c-836e-83e202e0d6a6",
+    "ffe5fc40-f6d4-5066-9e07-424f7b8e3dc9",
+    "2b081115-d36e-57ec-aedc-2fd9691bc5e9",
+    "03196bec-4ae2-5408-b90c-12dcb38e5831",
+    "2cf68c41-aa60-5dca-8aa1-04bc0d7a4db3",
+    "51a448cf-6015-53f7-a949-f247b71efcef"
+  ],
+  "contexts": [
+    "Metabolism Studies show that calorie restriction is the most consistent means to prolong life  expectancy and health across several experimental models [55], ranging from yeasts  to primates. It not only increases life expectancy, but it also delays the onset of many  features and hallmarks of ageing, including age-related diseases. Transcriptional  profiles are currently being applied and investigated. One of them is a caloric restric-",
+    "Keywords: caloric restriction; hepatic expression profiling; lifespan prolongation; metabolic signaling;microarray analysis; nutrition response. Introduction",
+    "(154, 155). Caloric restriction has been shown to sig- nicantly increase life span and promote resis-tance to a broad range of age-related pathol-ogy in worms, ies, and mice. Some of theeffects of caloric restriction may be mediatedthrough the sirtuin family of genes, as exem-plied by SIR2, which prolongs life span in",
+    "Calorie restriction, a dietary regimen that extends  the lifespan of numerous organisms, also delays the  majority of age-related gene-expression changes in  mice and, to a certain extent, in flies45,50. It is currently  unclear whether the effect of calorie restriction on gene  expression underlies its beneficial effect on lifespan or is merely a consequence thereof. Findings in yeast suggest  that there may be a causal link: Sir2 not only facilitates  heterochromatin and promotes DNA stability, but is",
+    "life-span extension by calorie restriction in Saccharomyces cerevisiae. Science 289:21262128. Mair W, Goymer P, Pletcher SD, and Partridge L (2003) Demography of dietary restriction and death in Drosophila. Science 301:17311733. Masoro EJ (2005) Overview of caloric restriction and ageing. Mech Ageing Dev 126:913922. Mathers JC (2006) Nutritional modulation of ageing: genomic and epigenetic ap- proaches. Mech Ageing Dev 127:584589. Meric-Bernstam F and Gonzalez-Angulo AM (2009) Targeting the mTOR signaling",
+    "that caloric restriction also regulates mammalian aging, perhaps via the modulationof insulin-like signaling pathways. The nervous system has been implicated as a keytissue where insulin-like signaling and free radical protective pathways regulate lifespan inC. elegans andDrosophila . Genes that determine the life span could act in",
+    "extension by dietary restriction.   Annu Rev Biochem  2008, 77:727-54. 8. Harper JM, Leathers CW, Austad SN: Does caloric restriction extend life iin wild mice?   Aging Cell  2006, 5:441-9. 9. Forster MJ, Morris P, Sohal RS: Genotype and age influence the effect of caloric intake  on mortality in mice.   FASEB J  2003, 17:690-2. 10. Spindler SR, Mote PL: Screening candidate longevity therapeu- tics using gene-e xpression arrays.   Gerontology  2007, 53:306-21.",
+    "Corton JC, Apte U, Anderson SP, Limaye P, Yoon L. Mimetics of caloric restriction include agonists of lipid-activated nuclear receptors. J Biol Chem 2004;279:4620446212. [PubMed: 15302862] Ferguson M, Sohal BH, Forster MJ, Sohal RS. Effect of long-term caloric restriction on oxygen consumption and body temperature in two different strains of mice. Mech Ageing Dev 2007;128:539545. [PubMed: 17822741] Forster MJ, Morris P, Sohal RS. Genotype and age influence the effect of caloric intake on mortality in",
+    "A key question still unresolved is to what extent the mechanisms of aging are conserved between species with vastly different lifespans. Some studies suggest that similar mechanisms are involved in aging in many species. Forexample, caloric restriction extends lifespan in yeast, worms,ies, mice, and primates (Weindruch 2003). Additionally,signaling through the insulin-like growth factor pathway,chromatin regulation by sir2,and oxidative damage have each",
+    "10.1111/acel.12103  241. Edwards AG, Donato AJ, Lesniewski LA, Gioscia RA, Seals DR, Moore  RL. Life-long caloric restriction elicits pronounced protection of the  aged myocardium: a role for AMPK. Mech Ageing Dev. 2010;131:739 742. doi: 10.1016/j.mad.2010.09.007  242. Colman RJ, Beasley TM, Kemnitz JW, Johnson SC, Weindruch  R, Anderson RM. Caloric restriction reduces age-related and all- cause mortality in rhesus monkeys. Nat Commun. 2014;5:3557. doi:  10.1038/ncomms4557"
+  ],
+  "answer": "Caloric restriction extends lifespan across various species through several key molecular mechanisms:  1. **Sirtuin Activation**: Caloric restriction may exert some of its effects through the sirtuin family of genes, particularly SIR2, which is known to prolong lifespan in organisms like yeast, worms, and flies [3], [4]. Sirtuins are involved in chromatin regulation and promoting DNA stability, which are crucial for maintaining cellular health and longevity [4].  2. **Insulin-like Signaling Pathways**: In mammals, caloric restriction is thought to modulate aging through the insulin-like signaling pathways. This mechanism is also observed in organisms like C. elegans and Drosophila, where it plays a role in regulating lifespan [6].  3. **Oxidative Stress Reduction**: Caloric restriction is associated with reduced oxidative damage, which is a significant factor in aging. This reduction in oxidative stress is a common mechanism observed across different species [9].  4. **AMPK Activation**: In mammals, caloric restriction has been linked to the activation of AMP-activated protein kinase (AMPK), which plays a role in energy homeostasis and has protective effects on the aged myocardium [10].  These mechanisms highlight the complex interplay of genetic and metabolic pathways through which caloric restriction can extend lifespan across diverse species.",
+  "question": "What are the key molecular mechanisms through which caloric restriction exerts its lifespan-extending effects across different species?"
+}

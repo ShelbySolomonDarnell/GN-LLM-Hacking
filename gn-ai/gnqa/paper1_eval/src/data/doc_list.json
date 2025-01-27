@@ -1,0 +1,105 @@
+{
+    "files": [
+        "response01.json", 
+        "response02.json", 
+        "response03.json", 
+        "response04.json", 
+        "response05.json", 
+        "response06.json", 
+        "response07.json", 
+        "response08.json", 
+        "response09.json", 
+        "response10.json"
+    ],
+    "gen_files_1": [
+        "queries/general/gen_resp01.json",
+        "queries/general/gen_resp02.json",
+        "queries/general/gen_resp03.json",
+        "queries/general/gen_resp04.json",
+        "queries/general/gen_resp05.json"
+    ],
+    "gen_files_2": [
+        "queries/general/gen_resp06.json",
+        "queries/general/gen_resp07.json",
+        "queries/general/gen_resp08.json",
+        "queries/general/gen_resp09.json",
+        "queries/general/gen_resp10.json"
+    ],
+    "aging_files_1": [
+        "queries/aging/aging_resp_01.json",
+        "queries/aging/aging_resp_02.json",
+        "queries/aging/aging_resp_03.json",
+        "queries/aging/aging_resp_04.json",
+        "queries/aging/aging_resp_05.json"
+    ],
+    "aging_files_2": [
+        "queries/aging/aging_resp_06.json",
+        "queries/aging/aging_resp_07.json",
+        "queries/aging/aging_resp_08.json",
+        "queries/aging/aging_resp_09.json",
+        "queries/aging/aging_resp_10.json"
+    ],
+    "suga_files_1": [
+        "queries/diabetes/suga_resp_01.json",
+        "queries/diabetes/suga_resp_02.json",
+        "queries/diabetes/suga_resp_03.json",
+        "queries/diabetes/suga_resp_04.json",
+        "queries/diabetes/suga_resp_05.json"
+    ],
+    "suga_files_2": [
+        "queries/diabetes/suga_resp_06.json",
+        "queries/diabetes/suga_resp_07.json",
+        "queries/diabetes/suga_resp_08.json",
+        "queries/diabetes/suga_resp_09.json",
+        "queries/diabetes/suga_resp_10.json"
+    ],
+    "statement_files": [
+        "ffn_statements/aging_question_01.json",
+        "ffn_statements/aging_question_02.json",
+        "ffn_statements/aging_question_03.json",
+        "ffn_statements/aging_question_04.json",
+        "ffn_statements/aging_question_05.json",
+        "ffn_statements/aging_question_06.json",
+        "ffn_statements/aging_question_07.json",
+        "ffn_statements/aging_question_08.json",
+        "ffn_statements/aging_question_09.json",
+        "ffn_statements/aging_question_10.json"
+    ],
+    "expert_general_files_1": [
+         "queries/general/experts/expert_general_01.json",
+         "queries/general/experts/expert_general_02.json",
+         "queries/general/experts/expert_general_03.json",
+         "queries/general/experts/expert_general_04.json",
+         "queries/general/experts/expert_general_05.json"
+    ],
+    "expert_general_files_2": [
+         "queries/general/experts/expert_general_06.json",
+         "queries/general/experts/expert_general_07.json",
+         "queries/general/experts/expert_general_08.json",
+         "queries/general/experts/expert_general_09.json",
+         "queries/general/experts/expert_general_10.json"
+    ],
+    "expert_aging_files_1": [
+         "queries/aging/experts/expert_aging_01.json",
+         "queries/aging/experts/expert_aging_02.json",
+         "queries/aging/experts/expert_aging_03.json",
+         "queries/aging/experts/expert_aging_04.json",
+         "queries/aging/experts/expert_aging_05.json"
+    ],
+    "expert_aging_files_2": [
+         "queries/aging/experts/expert_aging_06.json",
+         "queries/aging/experts/expert_aging_07.json",
+         "queries/aging/experts/expert_aging_08.json",
+         "queries/aging/experts/expert_aging_09.json",
+         "queries/aging/experts/expert_aging_10.json"
+    ],
+    "expert_suga_files_1": [
+        "queries/diabetes/experts/experts_suga_01.json",
+        "queries/diabetes/experts/experts_suga_02.json",
+        "queries/diabetes/experts/experts_suga_03.json",
+        "queries/diabetes/experts/experts_suga_04.json",
+        "queries/diabetes/experts/experts_suga_05.json",
+        "queries/diabetes/experts/experts_suga_06.json"
+    ]
+
+}

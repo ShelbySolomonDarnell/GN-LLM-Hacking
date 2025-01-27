@@ -1,0 +1,37 @@
+,
+{
+  "faithfulness": 0.8836363636363636,
+  "context_utilization": 0.9533674463200074,
+  "context_relevancy": 0.1906017620560349,
+  "answer_relevancy": 0.9629314894517702
+},
+{
+  "faithfulness": 0.8436363636363637,
+  "context_utilization": 0.9533674463200074,
+  "context_relevancy": 0.20364480596864404,
+  "answer_relevancy": 0.9495337378736439
+},
+{
+  "faithfulness": 0.9292861989650555,
+  "context_utilization": 0.9651063978998563,
+  "context_relevancy": 0.7109415961877185,
+  "answer_relevancy": 0.6638464088279047
+},
+{
+  "faithfulness": 0.4690747444442785,
+  "context_utilization": 0.7745118439410044,
+  "context_relevancy": 0.7140014395170777,
+  "answer_relevancy": 0.9322560108422944
+},
+{
+  "faithfulness": 0.7745118439410044,
+  "context_utilization": 0.3333333333333333,
+  "context_relevancy": 0.3538011695906433,
+  "answer_relevancy": 0.5456168066603103
+},
+{
+  "faithfulness": 0.5657894736779605,
+  "context_utilization": 1.0,
+  "context_relevancy": 0.22142857142857142,
+  "answer_relevancy": 0.7181594110215056
+}

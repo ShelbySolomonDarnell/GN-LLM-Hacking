@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+    "2011 - Type 1 Diabetes Etiology, Immunology.pdf",
+    "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+    "2009 - Genetics of Type 1A Diabetes.pdf",
+    "2018 - The genetic architecture of type 1 diabetes mellitus.pdf",
+    "2003 - The Inherited Basis of Diabetes Mellitus.pdf",
+    "2007 - Localization of type 1 diabetes susceptibility to the MHC Class 1 Genes.pdf",
+    "2018 - The genetic architecture of type 1 diabetes mellitus.pdf",
+    "2010 - Genetics of Type 1 Diabetes What\u2019s Next.pdf",
+    "2007 - Localization of type 1 diabetes susceptibility to the MHC Class 1 Genes.pdf"
+  ],
+  "extraction_id": [
+    "c584fa40-ecb0-57e0-8bd1-6761ae3b4d27",
+    "36ba6e4a-46c7-5a84-89ca-2b6e2a3c2a2c",
+    "508a0315-d23a-506d-bf66-b5c355576f96",
+    "79b78db5-d77a-51bd-84ff-14b558534df8",
+    "65402f67-0066-5d04-98c6-5e7b16087495",
+    "548d7a8d-5314-53f3-b646-108a4b1ac2f2",
+    "0ed848eb-6e55-5fab-82d0-f10b3c83d98f",
+    "dd2e688a-2f06-5911-9eb8-13c5d935885e",
+    "3e3ff61a-86ee-5e2a-9b14-9aa3b06937ff",
+    "92a54171-9f94-51ea-83cb-11698b1f0c21"
+  ],
+  "document_id": [
+    "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+    "3c9823cd-3615-53b6-96c8-b7d2123d3eb0",
+    "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+    "7a98f456-6c43-5e9e-b404-31122159eab8",
+    "341261db-b38a-5bd2-8d8d-fc04a0b3da30",
+    "7b85b290-d711-55d5-9b1e-b06e4d6f14a2",
+    "3887995f-fa61-5472-b0a2-90b7b39592c2",
+    "341261db-b38a-5bd2-8d8d-fc04a0b3da30",
+    "261cbb40-ed6b-554c-a70d-db6b9f14cf74",
+    "3887995f-fa61-5472-b0a2-90b7b39592c2"
+  ],
+  "id": [
+    "chatcmpl-AIFpPxGF7qh3CvkVYK1PXW0J3bHPe",
+    "f654b4ad-31d8-528c-800d-000a0f56438a",
+    "8480cb40-fb38-5f5e-98c5-41eb2b3bdad2",
+    "5157af28-d09f-5bbb-8984-61da49bed642",
+    "5c650a7a-98f1-5119-b66f-5a93db18faec",
+    "0fa5241d-e039-55b3-ba8c-aa14d0125967",
+    "f159c8b5-357c-57f6-98e4-5d5436f59925",
+    "277e2627-b99d-5b35-ae45-1fbaa2bf0710",
+    "69fb55b3-37a8-5fb6-9916-2ab5be15a0a8",
+    "3ccbc6c4-a2a3-53ab-b904-c4d5875e2e2c",
+    "2b1f2a05-4693-595c-94c0-fea40e19539c"
+  ],
+  "contexts": [
+    "conferred by specic alleles, genotypes, and haplotypes ofthe HLA class II (and class I) genes. There are currentlyabout 50 non-HLA region loci that also affect the type 1diabetes risk. Many of the assumed functions of thenon-HLA genes of interest suggest that variants at theseloci act in concert on the adaptive and innate immunesystems to initiate, magnify, and perpetuate /H9252-cell destruc-",
+    "II HLA gene associated with type 1 diabetes maps to the 240-kbregion near HLA-B. Diabetes 49: 22172221, 2000. 303. Nejentsev S, Howson JM, Walker NM, Szeszko J, Field SF. Localization of type 1 diabetes susceptibility to the MHC class Igenes HLA-B and HLA-A. Nature 450: 887892, 2007. 304. Nejentsev S, Walker N, Riches D, Egholm M, Todd JA. Rare variants of IFIH1, a gene implicated in antiviral responses, protectagainst type 1 diabetes. Science 324: 387389, 2009.",
+    "Although the highly polymorphic HLA class II genesclearly play the most important single role in susceptibilityto type 1 diabetes, variation at these loci alone cannotexplain all of the evidence of genetic association andlinkage of the MHC with type 1 diabetes. To better denegenes within the MHC that may affect type 1 diabetes riskand would therefore merit further studies, the T1DGCundertook a comprehensive study of the genetics of theclassic 4-Mb MHC region. More than 3,000 SNPs and 66microsatellite",
+    "age to type 1 diabetes in the HLA region and suggestive evidence at a small number of other regions in the genome. In general, the emerging picture from linkage studies is that the class II genes encoding HLA-DR and HLA-DQ, as well as one or more additional genes within the HLA re - gion, confer most of the genetic risk for type 1 dia - betes. Genes outside the HLA region also con - tribute to the risk of type 1 diabetes, but their individual contributions are much smaller than that of HLA.",
+    "Benkalha and Polychronakos, 2008 ). Other genetic loci ( Table 1) are believed to in uence population-level risk for T1D, although it is poorly understood how these non-HLA loci contribute to disease susceptibility (Ram et al., 2016a ). 2.1. Human leukocyte antigen (HLA) The association between T1D and the HLA complex was rst de- monstrated in 1973 following observation of an increased frequency ofHL-W15 (HLA antigen) in T1D patients compared to controls ( Singal",
+    "cyte Antigen (HLA) gene region in immune regulation, and ready availability of serologic markers, led investigators to discover the association between certainHLAalleles and T1D in the early 1970s (33,130,158). The global importance of theHLAonT1Dhassincebeenconrmedingenome-widescansforlinkage:All suchscansperformedtodateshowamajorlocusatthe HLA(28,32,36,78,119). Thefractionofallgeneticrisk,whichcanbeattributedtothecontributionof HLA genes to T1D susceptibility, is about 44%, with a  Sof3.4 (160).",
+    "The major histocompatibility complex (MHC) on chromosome 6 is associated with susceptibility to more common diseases than any other region of the human genome, including almost all dis- orders classified as autoimmune. In type 1 diabetes the major genetic susceptibility determinants have been mapped to the MHC class II genes HLA-DQB1 andHLA-DRB1 (refs 13), but these genes cannot completely explain the association between type 1 diabetes and the MHC region411.Owing to the regions",
+    "The HLA class I A locus a ects susceptibility to type 1 diabetes. Hum. Immunol. 63, 657 664. pii). https://doi.org/S0198885902004214 . Noble, J.A., Valdes, A.M., Cook, M., Klitz, W., Thomson, G., Erlich, H.A., 1996. The role of HLA class II genes in insulin-dependent diabetes mellitus: molecular analysis of 180 Caucasian, multiplex families. Am. J. Hum. Genet. 59, 1134 1148 . Noble, J.A., Valdes, A.M., Thomson, G., Erlich, H.A., 2000. The HLA class II locus DPB1",
+    "to type 1diabetes susceptibility, including within the MHC itself.Currently, there are over 50 non-HLA regions that signi-cantly affect the risk for type 1 diabetes (http://www.t1dbase.org). Many of these regions contain interesting,but previously unrecognized, candidate genes. A few re-gions contain genes of unknown function or no knownannotated genes, suggesting roles for long-distance generegulatory effects, noncoding RNAs, or unknown mecha-nisms. Against a background of ever-improving knowledgeof the",
+    "the 240-kb region near HLA-B. Diabetes 49,22172221 (2000). 6. Lie, B. A. et al. The predisposition to type 1 diabetes linked to the human leukocyte antigen complex includes at least one non-class II gene. Am. J. Hum. Genet. 64, 793800 (1999). 7. Valdes, A. M. et al. Extended DR3 D6S273-HLA-B haplotypes are associated with increased susceptibility to type 1 diabetes in US Caucasians. Tissue Antigens 65,115119 (2005). 8. Valdes, A. M., Erlich, H. A. & Noble, J. A. Human leukocyte antigen class I B and C"
+  ],
+  "answer": "The HLA region plays a significant role in the genetic predisposition to Type 1 diabetes. The major genetic susceptibility determinants for Type 1 diabetes have been mapped to the MHC class II genes, specifically HLA-DQB1 and HLA-DRB1 [7]. These genes are part of the highly polymorphic HLA class II genes, which play the most important single role in susceptibility to Type 1 diabetes [3]. The class II genes encoding HLA-DR and HLA-DQ, along with one or more additional genes within the HLA region, confer most of the genetic risk for Type 1 diabetes [4]. The contribution of HLA genes to Type 1 diabetes susceptibility accounts for about 44% of the genetic risk [6]. However, variation at these loci alone cannot explain all of the genetic association and linkage of the MHC with Type 1 diabetes, indicating that other genes within the MHC region may also affect Type 1 diabetes risk [3].",
+  "question": "What is the role of the HLA region in the genetic predisposition to Type 1 diabetes?"
+}

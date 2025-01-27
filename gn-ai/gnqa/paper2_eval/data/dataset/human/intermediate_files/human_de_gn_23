@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2020 - Phylogenetic tree building.pdf",
+    "2011 - Peroxisomal L-bifunctional enzyme (Ehhadh) is essential for the production of medium-chain dicarboxylic acids.pdf",
+    "2018 - Invited review Genetic and genomic_ xmltexbreak_ mouse models for livestock research.pdf",
+    "2013 - Pathogenesis and reversal of liver fibrosis Effects of genes and environment.pdf",
+    "2022 - Systems genetics in the rat HXBBXH family identifies Tti2 as a pleiotropic quantitative trait gene for adult hippocampal neurogenesis and serum glucose.pdf",
+    "2022 -Senko- System Genetics in the Rat HXB\uf022BXH Family.pdf",
+    "2022 -Senko- Hippocampal neurogenesis serum glucose.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "f7e3761d-1baa-573a-9cbd-4070a400c42e",
+    "e697c9f2-c175-5e85-9a7a-03bf5ef921b7",
+    "a8b40857-7ae8-512a-9817-bea1ae3345ba",
+    "6983f2dd-b440-5696-92a1-84f4c332834b",
+    "71f1aefb-6e32-5add-804e-6fbaa39ca720",
+    "c6be3dd3-f076-54bd-b1fb-04678962a817",
+    "065807db-909e-5654-8dd7-5652f07be29c",
+    "7fe8fbaa-b950-5553-940b-317f306efb4b"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "7310a5bc-2fc1-5fa0-ad1d-f3411830062b",
+    "ac61753e-bcb2-55c3-804b-e821e3d1a4ad",
+    "5b167564-85a2-5886-b800-37932c3143a9",
+    "73724c99-98df-53b2-a378-29c8b4faa171",
+    "e6323aba-6fec-500b-99e3-a41c2e7f17ff",
+    "c67a6829-954a-5202-85fb-7524b03fab28",
+    "bac2ab98-4317-59ed-99ef-deda8c22786d"
+  ],
+  "id": [
+    "chatcmpl-ADZBPsS9vmK32TYjsc1YUUJCtSSmn",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "2ae780e5-9549-50c0-a260-d7ef774f7956",
+    "6a443d81-33ed-524c-9f11-318f1013a214",
+    "8b8a24da-a175-5cb8-91bd-8966fca5d344",
+    "d5c42ccf-569f-5a50-bd49-6b45097a3d00",
+    "f5c218f0-1280-55f8-912b-b32b833e93a3",
+    "ac4f8148-e6da-5d16-9e61-3a1aff2f9c81",
+    "69a916ea-abe7-5637-81fe-ee5e38f9c68b",
+    "03d0618c-8ed8-5984-a4eb-e743daf4f1a7"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "publication, and links to the dataset database and to the published paper (4C). There is also an option  to add this trait to your collection by pressing the Add button (4D), or to view this trait in an ear lier  version of GeneNetwork, GN1 (4E).",
+    "Bayesian inference of species networks from multilocus sequence data. Mol. Biol. Evol. 35, 504517 (2018). 167. Flouri, T ., Jiao, X., Rannala, B. & Yang, Z. A Bayesian  implementation of the multispecies coalescent   model with introgression for phylogenomic analysis. Mol. Biol. Evol. 37, 12111223 (2020). 168. Kubatko, L. in Handbook of Statistical Genomics    (eds Balding, D., Moltke, I. & Marioni, J.) 219245  (Wiley, 2019). 169. Rannala, B., Edwards, S., Leach, A. D. & Yang, Z.",
+    "subnetworks   GeneNetwork (www.genenetwork.org) is a depository of data- sets and tools for use in complex systems biology approaches in  order to generate or predict higher order gene function ( 23, 24 ).",
+    "on different cross types, such as F 2crosses (B6BTBRF2, B6D2F2, BH/HB F2, CastB6/B6Cast F2, B6JxB6N F2), butalso on more complex outbred crosses such as the HS, the CC, and the Hybrid Mouse Diversity Panel. Recently, data from other species has also been integrated into GeneNet- work (human, rat, monkey, fruit ies, and others) to facilitate the translational research of results into other species. To this end, GeneNetwork provides many tools for the analysis of",
+    "GeneNetwork (www.genenetwork.org). The web -based software further allows extraction of sets of",
+    "Phenotypes Database attheGeneNetwork (www.",
+    "Phenotypes Database attheGeneNetwork (www.",
+    "Phenotypes Database attheGeneNetwork (www."
+  ],
+  "answer": "The provided context does not include specific instructions on how to add a new species to the GeneNetwork database. However, it does mention that data from multiple species have been integrated into GeneNetwork [1], [6]. This suggests that the process is possible, but the exact steps are not detailed in the given excerpts.  To add a new species to the GeneNetwork database, you may need to refer to the official GeneNetwork website (www.genenetwork.org) [5], [7], or contact their support team for detailed guidance. Additionally, reviewing the materials and methods information page linked to datasets in GeneNetwork [2] might provide further insights into the process.",
+  "question": "How can I add a new species to the GeneNetwork database?"
+}

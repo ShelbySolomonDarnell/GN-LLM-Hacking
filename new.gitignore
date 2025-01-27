@@ -1,0 +1,9 @@
+gnqa/paper2_eval/data/testresp2.json
+gnqa/paper2_eval/src/__pycache__/document_operations.cpython-310.pyc
+gnqa/paper2_eval/configparser
+gnqa/paper2_eval/sys
+gnqa/paper2_eval/pd
+gnqa/paper2_eval/os
+gnqa/paper2_eval/json
+.venv
+rag.env

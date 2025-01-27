@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Type 2 Diabetes Mellitus and the Association of Candidate Genes.pdf",
+    "2009 - Analysis of 19 genes for association with type I diabetes in the Type I Diabetes Genetics Consortium families..pdf",
+    "2009 - Genome-wide association study and meta-analysis find that over 40 loci affect risk of type 1 diabetes.pdf",
+    "2015 - Transcript Expression Data from Human.pdf",
+    "2016 - Systematic Evaluation of Genes and Genetic Variants Associated with Type 1 Diabetes Susceptibility.pdf",
+    "2010 - Twelve type 2 diabetes susceptibility loci identified.pdf",
+    "2022 - A genome-wide functional genomics approach uncovers genetic determinants of immune phenotypes in type 1 diabetes.pdf",
+    "2021- Genome\u2010wide search for genes affecting the age at diagnosis of type 1.pdf",
+    "2008 - Shared and Distinct Genetic Variants in Type 1 Diabetes.pdf",
+    "2023 - Childhood adiposity and novel subtypes of adult-onset diabetes a Mendelian randomisation and genome-wide genetic correlation study.pdf"
+  ],
+  "extraction_id": [
+    "e1e1abb2-882f-5ba4-a51b-3b9bfc4df5aa",
+    "8ae199fd-0820-54c6-8d5c-aea5bf5fb895",
+    "a58e318d-3358-518c-ac23-6dd4d7b000f2",
+    "8fb04ac0-460b-58d3-ad43-2c7720bfd87e",
+    "082f1c10-0745-5d70-a176-336fc972319c",
+    "6912cf22-46e3-540b-bafe-f4951ec2bd70",
+    "fc30d552-be59-5ddf-9bac-e247d536ed96",
+    "bc2a4183-8ca7-5b72-8e03-25f4933ecc8b",
+    "20a53007-acf3-5317-89d5-1d69f1845d62",
+    "defbf2fb-7aa7-538d-b6ac-81ecd607179c"
+  ],
+  "document_id": [
+    "3236fdee-e304-5b88-921f-52e52dc5afa3",
+    "a0e27a2d-a07b-5b4d-a93a-907303dd8876",
+    "e6566ede-0c5a-51d1-aac9-e6e1695e937a",
+    "2b30d4f3-9ec3-574f-9a36-709b0e09c3f2",
+    "e4288a56-0280-5681-8eb4-4f52b3160451",
+    "8be48d47-68bd-5bec-844d-7ddd3e624442",
+    "368e0215-393e-5bec-a87c-e976adaa3ca5",
+    "a98a972b-8b50-58c8-9126-1883a96b1a09",
+    "4a655174-c16b-54d5-901a-6508d638cc23",
+    "fff2bd78-2ac2-5672-b8fd-ed82ab7c910b"
+  ],
+  "id": [
+    "chatcmpl-ADYnQqyvhC46GEUXw2f9p5UR309ef",
+    "d8d64729-8353-5fd3-938f-c7e0467698f9",
+    "07f9090f-101c-5b89-ab7b-a072dbf1ed4b",
+    "96b66f03-33dd-5a88-91c8-e0aa13cbcf3d",
+    "9a17c246-a9c7-5c13-92ef-5d551c7439e9",
+    "f3e96e99-cd95-5c0c-92c5-72d6edf2f6ff",
+    "9a6042ed-f076-51c3-b0f3-3d8b94e9852f",
+    "123d1a9a-12c9-59a2-8f3e-083220452036",
+    "6fc3a7f1-bd7e-55d9-be9b-1c6f5fb5452e",
+    "ca60f298-62fe-5fcc-a833-8439733cfae2",
+    "81df736a-3450-53da-9421-57f7d29e3218"
+  ],
+  "contexts": [
+    "Imran Ali Khan et al., Genetic Variants in Indian Diabetes Patients  www.jcdr.net Journal of Clinical and Diagnostic Research. 2015 Nov, Vol-9(11): GC01-GC05 44of the pancreas and islets during embryonic growth [3]. Genetic  variants in this gene are associated with increased risk of T2DM in a  variety of study populations [28,29].  In the first published GWAS for T2DM, SLC30A8 (rs13266634) was  revealed to be associated with diabetes (OR, 1.26; p = 5.0  10-7).",
+    "diabetes and celiac disease. N Engl J Med 2008; 359: 27672777. 11 Fung E, Smyth DJ, Howson JM, Cooper JD, Walker NM, Stevens H et al. Analysis of 17 autoimmune disease-associated variants in type 1 diabetes identifies 6q23/TNFAIP3 as asusceptibility locus. Genes Immun 2008; 10: 188191. 12 Cooper JD, Smyth DJ, Smiles AM, Plagnol V, Walker NM, Allen JE et al. Meta-analysis of genome-wide association study data identifies additional type 1 diabetes risk loci. Nat Genet 2008; 40: 13991401.",
+    "10. Smyth, D.J. et al. Shared and distinct genetic variants in type 1 diabetes and celiac disease. N. Engl. J. Med. 359, 27672777 (2008). 11. Fung, E. et al. Analysis of 17 autoimmune disease-associated variants in type 1 diabetes identies 6q23/TNFAIP3 as a susceptibility locus. Genes Immun. 10, 188191 (2009). 12. Cooper, J.D. et al. Meta-analysis of genome-wide association study data identies additional type 1 diabetes risk loci. Nat. Genet. 40, 13991401 (2008).",
+    "14. Pasquali L, Gaulton KJ, Rodriguez-Segui SA, Mularoni L, Miguel-Escalada I, et al. (2014) Pancreatic islet enhancer clusters enriched in type 2 diabetes risk-associated variants. Nat Genet 46: 136 143. doi:10.1038/ng.2870 PMID: 24413736 15. Fairfax BP, Humburg P, Makino S, Naranbhai V, Wong D, et al. (2014) Innate immune activity condi- tions the effect of regulatory variants upon monocyte gene expression. Science 343: 1246949. doi: 10. 1126/science.1246949 PMID: 24604202",
+    "The Journal of Immunology Systematic Evaluation of Genes and Genetic Variants Associated with Type 1 Diabetes Susceptibility Ramesh Ram,*,Munish Mehta,*,Quang T. Nguyen,*,Irma Larma,*, Bernhard O. Boehm,,xFlemming Pociot,{Patrick Concannon,,#and Grant Morahan*, Genome-wide association studies have found >60 loci that confer genetic susceptibility to type 1 diabetes (T1D). Many of these are",
+    "disease and type II diabetes. Genes Immun.  10, 654658 (2009). 41. Hindorff, L.A. et al. Potential etiologic and functional implications of genome-wide  association loci for human diseases and traits. Proc. Natl. Acad. Sci. USA  106,  93629367 (2009). 42. Nicolson, T.J. et al.  Insulin storage and glucose homeostasis in mice null for the  granule zinc transporter ZnT8 and studies of the type 2 diabetes-associated variants.  Diabetes  58, 20702083 (2009).",
+    "The composition and activity of the human immune system is under genetic control, and people  with certain changes in their genes are more susceptible than others to develop type 1 diabetes.  Previous studies have identified around 60 locations in the human DNA (known as loci) associated  with the condition, but it remains unclear how these loci influence the immune system and whether  diabetes will emerge. Chu, Janssen, Koenen et al. explored how variations in genetic information can influence the",
+    "mellitus-associated genetic variants contribute to overlapping immune regulatory networks. Front Genet 2018; 9:535. 13 Syreeni A, Sandholm N, Cao J et al. Genetic determinants of glycated hemoglobin in type 1 diabetes. Diabetes 2019; 68: 858 67. 14 Sidore C, Busonero F, Maschio A et al. Genome sequencing elucidates Sardinian genetic architecture and augmentsGenes affecting type 1 diabetes diagnosis age / A. Syreeni et al .",
+    "Genetic Variants in Type 1 Diabetes and Celiac Disease n engl j med 359;26 www.nejm.org december 25, 2008 2777Kalev I, Oselin K, Prlist P, et al. CC-26.  chemokine receptor CCR5-del32 mutation  as a modifying pathogenetic factor in type I diabetes. J Diabetes Complications 2003;17:387-91. Szalai C, Csszr A, Czinner A, et al.  27.  Chemokine receptor CCR2 and CCR5 polymorphisms in children with insulin-dependent diabetes mellitus. Pediatr Res 1999;46:82-4. Yang B, Houlberg K, Millward A, De - 28.",
+    "13(1):2337. https://doi.org/10.1038/s41467-022-29932-y 5. Burgess S, Butterworth A, Thompson SG (2013) Mendelian randomization analysis with multiple genetic variants using summarized data. Genet Epidemiol 37(7):658 665. https://doi. org/10.1002/gepi.21758 6. Cousminer DL, Ahlqvist E, Mishra R et al (2018) First genome- wide association study of latent autoimmune diabetes in adults reveals novel insights linking immune and metabolic diabetes. Diabetes Care 41(11):2396 2403. https://doi.org/10.2337/dc18-"
+  ],
+  "answer": "The genomic variants associated with immune system components and diabetes include:  1. **SLC30A8 (rs13266634)**: This variant is associated with an increased risk of Type 2 Diabetes Mellitus (T2DM) [1]. 2. **6q23/TNFAIP3**: Identified as a susceptibility locus for Type 1 Diabetes (T1D) [2], [3]. 3. **Pancreatic islet enhancer clusters**: These clusters are enriched in T2DM risk-associated variants [4]. 4. **Regulatory variants affecting monocyte gene expression**: These variants are conditioned by innate immune activity [4]. 5. **>60 loci**: Genome-wide association studies have identified over 60 loci that confer genetic susceptibility to T1D [5], [7]. 6. **CCR5-del32 mutation**: This mutation in the chemokine receptor CCR5 is a modifying pathogenetic factor in T1D [9]. 7. **CCR2 and CCR5 polymorphisms**: These polymorphisms are found in children with insulin-dependent diabetes mellitus [9]. 8. **Novel insights linking immune and metabolic diabetes**: Identified through the first genome-wide association study of latent autoimmune diabetes in adults [10].  These variants highlight the complex interplay between genetic factors influencing both the immune system and diabetes.",
+  "question": "What are the genomic variants associated with immune system components and diabetes?"
+}

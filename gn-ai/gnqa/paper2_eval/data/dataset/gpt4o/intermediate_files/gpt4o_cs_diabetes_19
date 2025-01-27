@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2021 - Genomic Medicine in Diabetes Improving the Diagnostic Rate of Monogenic Diabetes.pdf",
+    "2015 - Diabetes mellitus The epidemic of the century.pdf",
+    "2007 - Pharmacogenetics of metformin response a step in the path toward personalized medicine.pdf",
+    "2021 -  Monogenic diabetes a gateway to precision medicine.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2021 -  Monogenic diabetes a gateway to precision medicine.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2019 - HDAC4 mutations cause diabetes and induce  \u2010cell FoxO1 nuclear exclusion.pdf",
+    "2005 - Type 2 diabetes mellitus from genes to disease.pdf",
+    "2021 - Genomic Medicine in Diabetes Improving the Diagnostic Rate of Monogenic Diabetes.pdf"
+  ],
+  "extraction_id": [
+    "29df597d-e40d-5bc8-8ee0-89141d8e7fc0",
+    "e119acfb-4ad6-515e-a1bb-7796d283befc",
+    "c66bcb9f-15af-5843-9e9c-168e8cf230d0",
+    "38df3fac-cb86-5e74-b270-1e1e9e12dcdb",
+    "8d7fefe4-325f-5c64-9fee-0587c545d5ab",
+    "5a39ee4b-ba00-56d6-ba6c-0edeac3b4f2e",
+    "c6bf083c-f045-55e2-9eae-ff96a4ceea4c",
+    "7f53ea65-79ed-5207-9397-68b6d14bc19c",
+    "d79047d9-58d0-5440-b63c-e648b5df5538",
+    "29df597d-e40d-5bc8-8ee0-89141d8e7fc0"
+  ],
+  "document_id": [
+    "e315a891-ba59-57e9-856b-602544375324",
+    "e114dd28-fd39-56df-bdeb-8806474a6c10",
+    "12344230-0ed1-516f-bf2d-9c6e71ac76b5",
+    "0b6ff786-6a7b-5d24-ba5e-7a61fee7757f",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "0b6ff786-6a7b-5d24-ba5e-7a61fee7757f",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "7e4028b2-d5c1-5ddc-a06d-fd4f767d0f39",
+    "52687a38-6a4b-51d2-aafa-812c76981dfe",
+    "e315a891-ba59-57e9-856b-602544375324"
+  ],
+  "id": [
+    "chatcmpl-AIFrQL8Phj0Q41oiXeOOZsabJcULg",
+    "c38627c6-0dd1-5dec-aeb6-ea1edb924480",
+    "d704148a-88c0-58fe-810a-89b767a1f53b",
+    "7bbf950d-cbf8-5221-8ea6-b3571fab4fad",
+    "35efeaf0-c6b6-509e-9426-d23c8727164f",
+    "55e16624-4a02-5fba-bbe7-a07db8559401",
+    "854afd34-91ed-5817-b24e-1fd5894261f3",
+    "a74728c6-2903-5035-afd9-0f6a0f0c295e",
+    "5b06a49e-7ef9-558a-b402-11866c555cd5",
+    "fedbf66e-cfd2-52bb-b9db-393d815aade7",
+    "c48920f3-1236-5921-b2a1-f09edba1e7ec"
+  ],
+  "contexts": [
+    "to improve diagnosis. Monogenic vs. polygenic diabetes   Monogenic and polygenic diabetes are traditionally considered distinct, with  monogenic diabetes resulting from one highly penetrant variant in one gene in a given  individual, and polygenic diabetes resulting from the contribution of several variants with  smaller effects in the context of environmental/lifestyle factors.  In T1D, autoimmune  dysfunction is the prominent mechanism, with variation in the major histocompatibility",
+    "represent about 2%-5% of diabetes patients. Mono - genic diabetes results primarily from gene defects that  lead to a decrease in beta cell number or function.  Monogenic diabetes genes were identified using linkage  studies or code for proteins that directly affected  glucose homeostasis. The majority of genes responsible  for monogenetic diabetes code for either transcription  factors that participate in the control of nuclear gene  expression or proteins that are located on the cell",
+    "diabetic patients inwhom rare, highly penetrant mutations ofasingle gene cause their diabetes (13). While com - mon variants ofthese genes that make a small contribution topolygenic diabetes may also exist (13), thevariants causing monogenic diabetes have limited util- ityinpharmacogenetics duetotheir low allele frequency. Thevast majority oftype 2diabetes patients have polygenetic forms ofthedisease that typically also require a permissive environment (e.g., obesity, sed-",
+    "diabetes exist along more of a continuum than previously appre - ciated. Therefore, knowledge about monogenic diabetes not only  provides opportunities for etiology-based treatment of the minori- ty of individuals with highly penetrant variants, but also informs  broader understanding of diabetes etiology. Types of monogenic diabetes Maturity-onset diabetes of the young MODY comprises most monogenic diabetes cases, with classical  characteristics of young diagnosis age, family history of diabe -",
+    "Monogenic Diabetes   Monogenic diabetes is a class of diabetes associated with genetic defects in beta - cell function. They are frequently associated with early onset of hyperglycemia (typically before 25 years of age). Three common forms of mono-genic diabetes include maturity - onset diabetes of the",
+    "HNF4A-MODY  and requires genetic testing to diagnose. Here  we will describe monogenic diabetes types, etiologies, diagnosis,  management, and strategies to improve diagnosis. Monogenic versus polygenic diabetes Monogenic and polygenic diabetes are traditionally considered  distinct, with monogenic diabetes resulting from one highly pene - trant variant in one gene in a given individual and polygenic diabe - tes resulting from the contribution of several variants with smaller",
+    "Monogenic inheritance is caused by mutation of a single gene. There are  some well-defined monogenic rodent models. In humans, monogenic obesity  and diabetes exist as well, but are extremely rare.  Polygenic inheritance is the result of multiple contributing genes and  is the predominant mode of inheritance in human type 2 diabetes. Multiple  polygenic animal models are also available. However, even in monogenic  animal models, genetic background plays an important influence. For",
+    "(Mendelian) that may also cause type 2 diabetes (Yang & Chan, 2016). More than twenty genes highly expressed in pancreatic cells have been identified within these mono-genic subtypes (AlkortaAranburu et al., 2014). Recently, two national surveys revealed that most patients with mono-genic diabetes are likely to be unrecognized and misdiag-nosed as type 1 or type 2 diabetes (Delvecchio et al., 2017; Johansson et al., 2017). Genetic diagnosis leads to improved treatment, better prediction of disease",
+    "Key words: diabetes, gene, polygenic, monogenic Introduction Diabetes is one of the most common metabolic disor - ders. It is estimated that the number of diabetes pa - tients worldwide has already exceeded 200 million [92]. This creates a need to understand the etiology ofthe disease, genetic and enviromental factors influ - encing development of diabetes. Diabetes is a group of metabolic diseases that are characterized by ele - vated glucose level. Poorly controlled or undiagnosed",
+    "2   1.1.2 Introduction  Monogenic diabetes is caused by a single defect in one of over 40 genes1,2. Since  MODY (maturity onset diabetes of the young) was named by Fajans for the T2D -like  presentation in young people with an autosomal dominant pattern of inheritance3,4, our  understanding of phenotypic and genetic heterogeneity in monogenic diabetes has  increased. The major monogenic diabetes categories are MODY, neon atal diabetes"
+  ],
+  "answer": "Monogenic and polygenic diabetes are distinct forms of diabetes with different genetic underpinnings:  1. **Monogenic Diabetes**: This form of diabetes results from a mutation in a single gene that is highly penetrant, meaning it has a strong effect on the individual who carries it [1], [6]. Monogenic diabetes is often associated with defects in beta-cell function, leading to a decrease in the number or function of these cells [2]. It is typically characterized by early onset, often before the age of 25, and can include conditions like Maturity-Onset Diabetes of the Young (MODY) [5]. Monogenic diabetes is relatively rare, representing about 2%-5% of diabetes cases [2].  2. **Polygenic Diabetes**: In contrast, polygenic diabetes results from the combined effect of multiple genetic variants, each contributing a small effect, along with environmental and lifestyle factors [1], [6]. This form of diabetes is more common and is the predominant mode of inheritance in type 2 diabetes [7]. The genetic variants involved in polygenic diabetes do not have as strong an effect individually as those in monogenic diabetes, but together they contribute to the disease risk in the presence of other factors like obesity and sedentary lifestyle [3].  In summary, monogenic diabetes is caused by a single gene mutation with a strong effect, while polygenic diabetes involves multiple genes with smaller effects combined with environmental influences.",
+  "question": "What is the difference between monogenic and polygenic diabetes?"
+}

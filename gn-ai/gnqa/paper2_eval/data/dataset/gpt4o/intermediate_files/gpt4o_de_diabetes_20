@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2020 - Advances of single?cell genomics and epigenomics in human disease.pdf",
+    "2018 - Lnc\u2011ing non\u2011coding RNAs with metabolism and diabetes roles.pdf",
+    "2017 - Insights into beta cell regeneration for diabetes via integration of molecular landscapes in human insulinomas.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2018 - High-Throughput Approaches onto Uncover (Epi)Genomic Architecture of Type 2 Diabetes.pdf",
+    "2015 - Epigenetic mechanisms in diabetic complications and metabolic memory.pdf",
+    "2019 - (Epi)genomic heterogeneity of pancreatic islet function and failure in type 2 diabetes.pdf"
+  ],
+  "extraction_id": [
+    "7a2a9981-4096-5049-a717-3e69eb609777",
+    "52e8a636-ced9-5c14-a7e5-0c30b7f05107",
+    "65471d38-cd13-5de2-8c19-1eb72d24d6f5",
+    "7f7a7f30-2e4e-50aa-bbcb-9f211c371e38",
+    "8bbfb009-87b7-54ae-8465-8796db8c271a",
+    "bdf327a6-decb-5c7a-a981-a7969206b455",
+    "52e8a636-ced9-5c14-a7e5-0c30b7f05107",
+    "52e8a636-ced9-5c14-a7e5-0c30b7f05107",
+    "312b1856-e1b1-5ae7-8cba-370becf5f7cb",
+    "117cc1a5-d236-56b2-a69d-9c0a2fb9053d"
+  ],
+  "document_id": [
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "afe53f5a-3962-520f-be55-9df5bfdaad70",
+    "019efefb-65db-55f5-a3a7-4f224473f51f",
+    "6cf1eb8d-a91e-58a2-b6f4-29653678d0d3",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "1cb0c4ac-c1fe-55c2-919c-52cd5018c00d",
+    "470f1f94-792d-5273-a88f-7e06084951c5",
+    "b9bc63a5-e366-5685-bd7a-4732a8eeffb7"
+  ],
+  "id": [
+    "chatcmpl-AIHKoCrJvacxorigznvNb5BV4LGGI",
+    "d5c2a32a-b869-59c1-8a63-45ab620669de",
+    "1c659cb4-085b-55b9-be3c-6332c36cbeba",
+    "f06bcc81-6ef9-5874-8ef9-6bcb3c34b0d0",
+    "b7812a7a-5504-57ca-8755-969dee45717e",
+    "ab373b7e-8c0b-59d8-9408-3e09ac76761e",
+    "7a5c8fad-97c5-59d2-8e5e-ee72d3dc2362",
+    "b7c1d2be-88c5-5f33-b812-b05e842f1647",
+    "11a5527b-8d22-5e69-8a84-6d9180517d81",
+    "db06230d-31c0-5947-8c1c-f58c48b6f439",
+    "a2adc65b-035b-568f-a0ae-9f7821ef45bc"
+  ],
+  "contexts": [
+    "4. PRECISE CELLULAR GENOMICS Elucidating the molecular mechanisms that lead to beta cell dysfunction and T2D pathogenesis has been a major focus of diabetes research for decades. However, advances in single cell genomic proling techniques have led to greater understanding of non-beta cell type transcriptional regulation and suggest that they may play important roles in hallmark features of beta cell insuf ciency and",
+    "Genes 2018 ,9, 374 7 of 19 4. Single-Cell RNA-seq as a Novel Approach in High-Throughput Type 2 Diabetes Research Islets of Langerhans are heterogeneous structures that consist of different cell types. Further research is needed to track genetic changes in individual pancreatic islet cells and in sorted cell populations. The massive development of NGS allowed the sequencing of single cells from human pancreatic islets. Considering the cell-type heterogeneity within Langerhans islets, such an approach",
+    "Advances ofsingle -cell genomics andepigenomics inhuman disease: whereare we now?   1 3 Brissova etal. 2018; Tritschler etal. 2017). Moreover, an  increase in hyperglycaemia has been associated with a loss of beta-cell mass, function and organization and is the cell type most frequently studied for insulin resistance (Carrano etal. 2017; Lawlor etal. 2017b; Segerstolpe etal. 2016;  Theis and Lickert 2019; Tritschler etal. 2017). Notably, single-cell transcriptome profiling has been",
+    "Tang X, Huang Y, Lei J, Luo H, Zhu X (2019) The single-cell sequenc- ing: new developments and medical applications. Cell Biosci  9:53. https ://doi.org/10.1186/s1357 8-019-0314-y Teo AKK etal (2018) Single-cell analyses of human islet cells reveal  de-differentiation signatures. Cell Death Discov 4:14. https ://doi. org/10.1038/s4142 0-017-0014-5 Theis FJ, Lickert H (2019) A map of beta-cell differentiation pathways  supports cell therapies for diabetes. Nature 569:342343. https  ://",
+    "53. Eliasson L, Esguerra JL (2014) Role of non-coding RNAs in pancreatic beta-cell development and physiology. Acta Physiol  (Oxf) 211:273284  54. Ding GL, Wang FF, Shu J etal (2012) Transgenerational glucose  intolerance with Igf2/H19 epigenetic alterations in mouse islet induced by intrauterine hyperglycemia. Diabetes 61:11331142  55. Ku GM, Kim H, Vaughn IW etal (2012) Research resource: RNA-Seq reveals unique features of the pancreatic beta-cell tran-scriptome. Mol Endocrinol 26:17831792",
+    "24. Nica, A. C. et al. Cell-type, allelic, and genetic signatures in the human pancreatic beta cell transcriptome. Genome Res. 23, 1554 1562 (2013). 25. Takane, K. K., Bender, A. & Stewart, A. F. Speci c targeting and sorting of puried human beta cells: de ning the human beta cell transcriptome. ADA Scienti c Sessions, San Francisco (2014). 26. Langfelder, P. & Horvath, S. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics 9, 559 (2008).",
+    "5. Genome-Wide Proling of Epigenetic Changes in Pancreatic Islets and Peripheral Tissues Epigenetic data added another layer of complexity to our understanding of the genomic bases of T2D. Given that a variable epigenetic pattern can modulate the link between the SNP and trait, consideration of this interplay is critically important. Molecular epigenetics involves changes in gene function that occur without a change in the nucleotide sequence via DNA methylation, histone",
+    "and model organisms. The combination of data from high-throughput approaches and association studies has provided compelling evidence that some epigenetic markers contribute to the risk of T2D [ 57,58]. Epigenetic alterations have been shown to affect the expression of genes that are crucial for maintaining pancreatic islet secretory capacity, survival, and functional identity and the proper response to insulin in peripheral tissues [ 59,60]. Furthermore, several epigenetic signatures, such",
+    "Epigenomic approaches: applications in diabetic complications research Epigenetic studies in human disease have been greatly accel- erated as a result of advances in whole-genome and epige- nome profiling technologies as well as bioinformatics andgenomic data analysis platforms [ 99,100]. DNAme is analysed using bisulfite conversion of genomic DNA, immu- noprecipitation of methylated DNA, followed byhybridisation to arrays or next-generation sequencing to ob-",
+    "understand each cell type s genomic architecture and better charac- terize their roles in islet resilience and failure. Experimental manipu- lation of the regulatory elements and/or the target genes identi ed by (epi)genomic approaches described above and modeling the putativepathways and processes they implicate in human islet cell lines (e.g., EndoC- bH1-H3) is essential to progress from correlation to causation. Similarly, transitioning from themouse (C57BL/6) to multiple mouse"
+  ],
+  "answer": "Recent integrative genomics approaches, such as the combination of single-cell RNA sequencing and epigenomic profiling, have significantly advanced our understanding of cellular heterogeneity and gene regulatory networks in pancreatic beta cells under diabetic conditions. These approaches have allowed researchers to delve deeper into the transcriptional regulation of non-beta cell types, which may play crucial roles in the hallmark features of beta cell insufficiency and dysfunction associated with Type 2 Diabetes (T2D) [1].   Single-cell RNA sequencing has been particularly instrumental in high-throughput diabetes research by enabling the sequencing of individual cells from human pancreatic islets. This is important given the heterogeneity within the islets of Langerhans, which consist of various cell types. By tracking genetic changes in individual cells, researchers can better understand the complex cellular landscape and the specific contributions of different cell types to diabetes pathogenesis [2].  Furthermore, epigenomic profiling adds another layer of complexity by revealing how epigenetic changes can modulate gene expression without altering the DNA sequence. These changes are crucial for maintaining the secretory capacity, survival, and functional identity of pancreatic islets, as well as their response to insulin [8]. The integration of these genomic and epigenomic data helps identify regulatory elements and pathways that could be targeted for therapeutic interventions, moving from correlation to causation in understanding diabetes [10].",
+  "question": "How have recent integrative genomics approaches, such as the use of single-cell RNA sequencing combined with epigenomic profiling, advanced our understanding of cellular heterogeneity and gene regulatory networks in pancreatic beta cells under diabetic conditions?"
+}

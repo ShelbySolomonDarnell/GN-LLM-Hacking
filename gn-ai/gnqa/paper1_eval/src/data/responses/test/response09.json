@@ -1,0 +1,195 @@
+{
+    "created_at": "2024-03-25T14:30:20.651749Z",
+    "data": {
+        "amplify": false,
+        "answer": "You can look for genes that regulate hippocampal neural stem cell proliferation in the results of gene expression profiling studies, such as the one mentioned in the text. Specifically, the study identified LRP6 as a novel regulator of adult hippocampal neurogenesis. Other genes like Lef1, Mtdh, and Chchd8 may also be involved.",
+        "context": {
+            "2dfc2b82-b8eb-4e73-957a-0ea8a4401a84": [
+                {
+                    "document_id": "2dfc2b82-b8eb-4e73-957a-0ea8a4401a84",
+                    "text": "Other cell cyclerelated genes, such as p21, p18 and p27, were also reported to be involved in\nregulating different types of hematopoietic cells (Cheng 2004; Steinman 2002). For example, p21 and p18 specifically control HSC proliferation, whereas p27\nonly affects hematopoietic progenitor cells. Further study of the chromosome 3\nQTL interval in the congenic mouse model may provide a platform leading to the\ndiscovery of novel cycle-active gene and/or functions of already known genes. The apoptotic analyses shown in Table 3.2 are novel."
+                }
+            ],
+            "3278febd-171a-485d-bd6e-0cbb523d73ec": [
+                {
+                    "document_id": "3278febd-171a-485d-bd6e-0cbb523d73ec",
+                    "text": "Bystrykh L, Weersing E, Dontje B, Sutton S, Pletcher MT, Wiltshire T, Su AI,\nVellenga E, Wang J, Manly KF, Lu L, Chesler EJ, Alberts R, Jansen RC,\nWilliams RW, Cooke MP, de Haan G: Uncovering regulatory pathways that\naffect hematopoietic stem cell function using ‘genetical genomics’. Nat\nGenet 2005, 37(3):225-32. 29. Overall RW, Kempermann G, Peirce J, Lu L, Goldowitz D, Gage FH,\nGoodwin S, Smit AB, Airey DC, Rosen GD, Schalkwyk LC, Sutter TR,\nNowakowski RS, Whatley S, Williams RW: Genetics of the hippocampal\ntranscriptome in mouse: a systematic survey and online neurogenomics\nresource."
+                }
+            ],
+            "489539fd-f7c5-44eb-bb58-5fc19d50a7cf": [
+                {
+                    "document_id": "489539fd-f7c5-44eb-bb58-5fc19d50a7cf",
+                    "text": "In summary, I have identified p107 and Snx5 as quantitative trait genes that\nregulate the number of HSCs in B6 and congenic mice. CAFC assays confirmed that\nincreased expression of both genes increases HSC number in an in vitro setting. Although the increased expression of both Snx5 and p107 resulted in small increases in\nHSC number, the changes are biologically significant given the extensive proliferative\npotential of primitive stem cells."
+                }
+            ],
+            "66fc5ee9-0126-431f-add0-819957499810": [
+                {
+                    "document_id": "66fc5ee9-0126-431f-add0-819957499810",
+                    "text": "The molecular mechanisms that regulate progenitor cell division and\ndifferentiation in the RMS remain largely unknown. Here, we surveyed the mouse genome in an\nunbiased manner to identify candidate gene loci that regulate proliferation in the adult RMS. We\nquantified neurogenesis in adult C57BL/6J and A/J mice and 27 recombinant inbred lines derived\nfrom those parental strains. We showed that the A/J RMS had greater numbers of\nbromodeoxyuridine-labeled cells than that of C57BL/6J mice with similar cell cycle parameters,\nindicating that the differences in the number of bromodeoxyuridine-positive cells reflected the\nnumber of proliferating cells between the strains."
+                },
+                {
+                    "document_id": "66fc5ee9-0126-431f-add0-819957499810",
+                    "text": "Page 10\n\nNIH-PA Author Manuscript\n\nSeptin 9 (Sept9) and cyclin-dependent kinase 3 (cdk3) and are two other genes that are\nworth mentioning because even though they are not directly linked to neurogenesis, they are\nboth cell cycle regulatory genes. Sept9 is involved in the progression through G1 of the cell\ncycle and it is highly expressed throughout the adult mouse brain (Gonzalez et al. , 2009). Whereas, cdk3 is expressed at low levels throughout the adult mouse brain and it is required\nfor G1-S transition (Braun et al. , 1998)."
+                }
+            ],
+            "835a094d-9c2b-4686-8725-d3c4123175b0": [
+                {
+                    "document_id": "835a094d-9c2b-4686-8725-d3c4123175b0",
+                    "text": "Bystrykh L, Weersing E, Dontje B, Sutton S, Pletcher MT, Wiltshire T et al. (2005). Uncovering regulatory pathways that effect hematopoietic stem cell function using\n‘genetical genomics’. Nat Genet 37:225–232. Cai L, Morrow EM, Cepko CL (2000). Misexpression of basic helix-loop-helix genes in\nthe murine cerebral cortex affects cell fate choices and neuronal survival. Development\n127:3021–3030. Caldarone B, Saavedra C, Tartaglia K, Wehner JM, Dudek BC, Flaherty L (1997). Quantitative trait loci analysis affecting contextual conditioning in mice. Nat Genet\n17:335–337. Calder AJ, Lawrence AD, Young AW (2001). Neuropsychology of fear and loathing. Nature Rev Neurosci 2:352–363."
+                }
+            ],
+            "8fb56fda-e1a2-4407-acb2-9a5983861202": [
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "As further step, this\nfinding opens the door to study the molecular networks via which LRP6 acts to\nregulate proliferation. ! '*! ! +&(/. ((&-*)\n\n5.2. Redox regulation of Adult Hippocampal Precursor Cells\n\n5.2.1. Hypoxia increases AHPCs proliferation and neuronal differentiation\nOxygen concentration plays an important role in cellular development and\ntissue homeostasis. In the brain, depending on the tissue, the oxygen\nconcentration varies from 0.1 to 5% and in the rat hippocampus it is around\n3.2% (Studer et al. , 2000)."
+                },
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "While this study covers only one part in\nthe several conceptual levels of regulation we are confident that this work will\nlead to finding a central regulatory pathway that regulates adult hippocampal\nprecursor cell proliferation. ! &*! ! +&(/. ((&-*)\n\n5.1.1. Establishment of AHPCs\nIsolating the precursor cells has become extremely important in order to study\nthem in detail away from the influence of their in vivo niche. Once the cells are\nin culture they express their autonomous, intrinsic properties without the niche\ninfluences such as cell-cell contacts, blood vessels, known and unknown\ngrowth factors and network activities."
+                },
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "Gene expression profiling\nusing RNA samples from proliferating cultures of the 20 BXD mice strains\nyielded two cis eQTL candidates that directly regulated proliferation, LRP6\nand Chchd8. LRP6 is well known as a co-receptor of Wnt signaling, but the\nfunction of Chchd8 is not known. Further experimentation, using over-\n\n! I! ! SUMMARY\n\nexpression and gene silencing demonstrated that LRP6 negatively regulates\nAHPCs proliferation. Thus, from this study using a system genetics approach,\nwe were able to identify, LRP6 as a novel regulator of adult hippocampal\nneurogenesis. ! V! ! INTRODUCTION\n\n2. INTRODUCTION\n2.1."
+                },
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "Gene expression profiling ...............................................................68\n4.1.8. LRP6 is a novel regulator of AHPCs proliferation .........................73\n4.2. Redox regulation of Adult Hippocampal Precursor Cells................78\n4.2.1. AHPCs yield increased under hypoxic conditions..........................78\n\n! T! ! TABLE OF CONTENTS\n\n4.2.2. More neuronal differentiation under hypoxic conditions................79\n5. DISCUSSION ..............................................................................................81\n5.1. Systems genetic approach to identify genes regulating AHPCs\nproliferation .................................................................................................81\n5.1.1. Establishment of AHPCs................................................................82\n5.1.2. Variation in proliferative and differentiative properties of AHPCs83\n5.1.3. QTL analysis ...................................................................................86\n5.1.4. Candidate genes from gene expression profiling ............................87\n5.1.5. Lrp6 as negative regulator of AHPCs proliferation ........................89\n5.2. Redox regulation of Adult Hippocampal Precursor Cells................92\n5.2.1."
+                },
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "Mapping determinants of human gene expression by\nregional and genome-wide association. Nature 437, 1365-1369. Chiasson, B.J. , Tropepe, V., Morshead, C.M. , and van der Kooy, D. (1999). Adult mammalian forebrain ependymal and subependymal cells\ndemonstrate proliferative potential, but only subependymal cells have neural\nstem cell characteristics. Journal of Neuroscience 19, 4462-4471. Cipolleschi, M.G. , Dello Sbarba, P., and Olivotto, M. (1993). The role of\nhypoxia in the maintenance of hematopoietic stem cells. Blood 82, 20312037. Clarke, D.L. , Johansson, C.B. , Wilbertz, J., Veress, B., Nilsson, E., Karlstrom,\nH., Lendahl, U., and Frisen, J. (2000)."
+                },
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "List of BXD AHPC lines stored\n\nTable 3. List of eQTls in 0.6 threshold range\n\nTable 4. Cis acting genes regulating proliferation trait\n\n! U#! ! PUBLICATIONS\n\nPublications\n\nA protocol for isolation and enriched monolayer cultivation of neural precursor\ncells from mouse dentate gyrus. Harish Babu*, Jan-Hendrik Claasen*, Suresh\nKannan, Annette E. Rünker, Theo Palmer, Gerd Kempermann. Front. Neurosci. 5:89. doi: 10.3389/fnins.2011.00089\n\nSystem genetics approach yields candidate genes regulating adult hippocampal\nprecursor cells proliferation, Manuscript in preparation (first author paper)\n\n! U##! ! SUMMARY\n\n1. SUMMARY\nAdult hippocampal neurogenesis is regulated at various levels and by various\nfactors."
+                },
+                {
+                    "document_id": "8fb56fda-e1a2-4407-acb2-9a5983861202",
+                    "text": "A recent study suggesting the role of mitochondria and\n\n! &&! ! +&(/. ((&-*)\n\ncytochrome\n\noxidase\n\nin\n\nenhancing\n\nhippocampal\n\nneurogenesis\n\nduring\n\ninflammation (Voloboueva et al. , 2010) may reveal the link for Chchd8 gene in\nadult neurogenesis. 5.1.5. Lrp6 as negative regulator of AHPCs proliferation\nThe results from our gene expression profiling suggest that high expression\nlevel of Lrp6 is associated with slow proliferating AHPCs and vice versa. We\nconfirmed this result by over expressing LRP6 in AHPCs. This revealed that\nLRP6 over expression reduced the proliferation of AHPCs by more than 2fold."
+                }
+            ],
+            "9497cd3a-8b36-46d3-be18-d9a6f4c36a27": [
+                {
+                    "document_id": "9497cd3a-8b36-46d3-be18-d9a6f4c36a27",
+                    "text": "Two types of collagen and N-Cadherin were also in this pathway. The top upstream regulators of this gene set were Huntingtin (HTT) which regulates 32 of\nthe 193 genes analyzed (p = 1.22 × 10−15), and β-estradiol which may regulate 39 out of 193\ngenes in the set (p = 4.06 × 10−10). 3.2.2. Genes regulated by ethanol in the NAC following CIE—Three hundred\nseventy-eight probesets were exclusively altered by ethanol in the NAC only following CIE\n(Supplemental Fig. 2 and Table 5)."
+                }
+            ],
+            "9b3b1f72-2b99-45ce-b61b-b861fcf84604": [
+                {
+                    "document_id": "9b3b1f72-2b99-45ce-b61b-b861fcf84604",
+                    "text": "Expression of a\nsubset of these neurogenesis-associated transcripts was controlled\nin cis across the BXD set. These self-modulating genes are particularly interesting candidates to control neurogenesis. Among\nthese were musashi (Msi1h) and prominin1兾CD133 (Prom1), both\nof which are linked to stem-cell maintenance and division. Twelve\nneurogenesis-associated transcripts had significant cis-acting\nquantitative trait loci, and, of these, six had plausible biological\nassociation with adult neurogenesis (Prom1, Ssbp2, Kcnq2, Ndufs2,\nCamk4, and Kcnj9). Only one cis-acting candidate was linked to\nboth neurogenesis and gliogenesis, Rapgef6, a downstream target\nof ras signaling."
+                }
+            ],
+            "9c266a06-68f9-4e25-8de4-87d8ee02d929": [
+                {
+                    "document_id": "9c266a06-68f9-4e25-8de4-87d8ee02d929",
+                    "text": "Other cell cyclerelated genes, such as p21, p18 and p27, were also reported to be involved in\nregulating different types of hematopoietic cells (Cheng 2004; Steinman 2002). For example, p21 and p18 specifically control HSC proliferation, whereas p27\nonly affects hematopoietic progenitor cells. Further study of the chromosome 3\nQTL interval in the congenic mouse model may provide a platform leading to the\ndiscovery of novel cycle-active gene and/or functions of already known genes. The apoptotic analyses shown in Table 3.2 are novel."
+                }
+            ],
+            "b7f409c2-5328-4bd5-94f5-cc7456252ef6": [
+                {
+                    "document_id": "b7f409c2-5328-4bd5-94f5-cc7456252ef6",
+                    "text": "\n\nand Tgfbr3 (transforming growth factor beta receptor 3).Of the significant genes correlated with the hippocampal cell death phenotype, there were 107 genes that were significant for a strain × treatment interaction.Four of these genes also showed an FC > 1.5: Gadd45g (growth arrest and DNA-damage-inducible, gamma), Kcnj13 (potassium inwardly rectifying channel, subfamily J, member 13), Plekhg1 (pleckstrin homology domain containing, family G (with RhoGef domain) member 1), and Sgms2 (sphingomyelin synthase 2)."
+                }
+            ],
+            "db0459f8-6602-48d7-be9b-14863a88bbe1": [
+                {
+                    "document_id": "db0459f8-6602-48d7-be9b-14863a88bbe1",
+                    "text": "111\nBystrykh, L., E. Weersing, et al. (2005). \"Uncovering regulatory pathways that\naffect hematopoietic stem cell function using 'genetical genomics'. \"Nat\nGenet 37(3): 225-32. Cashman, J., A. C. Eaves, et al. (1985). \"Regulated proliferation of primitive\nhematopoietic progenitor cells in long-term human marrow cultures. \"Blood\n66: 1002-1005. Celeste, A., O. Fernandez-Capetillo, et al. (2003). \"Histone H2AX phosphorylation\nis dispensable for the initial recognition of DNA breaks. \"Nat Cell Biol 5(7):\n675-9. Chen, J., B. A. Astle, et al. (1999). \"Development and aging of primitive\nhematopoietic stem cells in BALB/cBy mice.\"Exp. Hematol. 27: 928-935. Cheng, T., N. Rodrigues, et al."
+                }
+            ],
+            "ee850069-4957-4159-97b9-38253ef00b18": [
+                {
+                    "document_id": "ee850069-4957-4159-97b9-38253ef00b18",
+                    "text": "\n\nThe next category was Cellular Growth and Proliferation, which includes growth, proliferation, expansion and differentiation of cells and is also pertinent to the possible formation of new cells in this area of the hippocampus.37 genes were associated with this function.Not surprisingly, in the Cell Cycle function (Supplementary Table 2) we found thirty genes involved in cell cycle progression indicating the activity of dividing cells in this region."
+                }
+            ],
+            "f92e167e-0375-45b7-9d91-f8a4d0e1fbba": [
+                {
+                    "document_id": "f92e167e-0375-45b7-9d91-f8a4d0e1fbba",
+                    "text": "Lef1 is expressed in cultured hippocampal\nneural stem cells in response to activation of the Wnt signaling\npathway (Cui et al. , 2011). Our evidence and the literature both\nsuggest that genes known to be involved in hippocampal adult\nneurogenesis are targets of Lef1, an important factor in generating\ngranule cells in the dentate gyrus during development (Galceran\net al. , 2000). The only two genes not targeted by Lef1 can be\nclosely associated with it: Mtdh regulates the expression of Lef1\n(Hu et al. , 2009; Yoo et al."
+                }
+            ]
+        },
+        "data_source": [],
+        "document_id": "225D40F9ABA26046B89A427FAA204F2A",
+        "engine": "gpt-4",
+        "first_load": false,
+        "focus": "api",
+        "keywords": [
+            "LRP6",
+            "Chchd8",
+            "Lef1",
+            "Mtdh",
+            "AHPCs",
+            "hippocampal&neural&stem&cells",
+            "Wnt&signaling&pathway",
+            "cell&cycle",
+            "neurogenesis",
+            "proliferation"
+        ],
+        "metadata": [
+            {
+                "object": "Results show that MbTrxC-AhpC forms an NADPH-dependent peroxidase ensemble for efficient reduction of H2O2 inside the mycobacterial antioxidant defense system and identify the amino acids involved in TrxC and AhpC interaction. AhpC undergoes a redox-modulated dimer to dodecamer formation, in which the unique mycobacterial N-terminal stretch of AhpC place a fundamental role. [AhpC, TrxC]",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab662541"
+            },
+            {
+                "object": "Functional studies demonstrated that miR-27 overexpression promoted multiple myeloma cell proliferation, facilitated cell cycle progression, and expedited cell migration and invasion; whereas miR-27 knockdown inhibited cell proliferation, induced cell cycle arrest, and slowed down cell motility.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab307388"
+            },
+            {
+                "object": "Cell cycle profiling and proliferation assays revealed that the proximal alternative polyadenylation sites of CCND1 accelerated the cell cycle and promoted cell proliferation.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab132405"
+            },
+            {
+                "object": "Loss-of-function assays demonstrated that silenced FAM83H-AS1 obviously suppressed cell proliferation via regulating the cell-cycle distribution and cell apoptosis rate, and mechanistic experiments revealed that FAM83H-AS1 could epidemically silence CDKN1A expression through recruiting EZH2 to the promoter of CDKN1A, thereby influencing the cell cycle and proliferation.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab459131"
+            },
+            {
+                "object": "This study showed that miR-30b-5p repressed cell proliferation and cell cycle of HCC cell lines and that miR-30b-5p mediated DNMT3A to repress proliferation, meanwhile it targeted USP37 for decelerating cell cycle.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab947658"
+            },
+            {
+                "object": "Loss-of-function assays demonstrated that silenced FAM83H-AS1 obviously suppressed cell proliferation via regulating the cell-cycle distribution and cell apoptosis rate, and mechanistic experiments revealed that FAM83H-AS1 could epidemically silence CDKN1A expression through recruiting EZH2 to the promoter of CDKN1A, thereby influencing the cell cycle and proliferation.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab459132"
+            },
+            {
+                "object": "eIF3a expression oscillated with cell cycle and peaked in S phase. Reducing eIF3a expression also reduced cell proliferation rate by elongating cell cycle but did not change the cell cycle distribution.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab251875"
+            },
+            {
+                "object": "eIF3a expression oscillated with cell cycle and peaked in S phase. Reducing eIF3a expression also reduced cell proliferation rate by elongating cell cycle but did not change the cell cycle distribution.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab251876"
+            },
+            {
+                "object": "MiR-152-3p was highly expressed in the bone marrow of chronic myeloid leukemia patients and cell lines and promoted the proliferation and cell cycle progression of K562 cells. Bioinformatics analysis, luciferase reporter assay, and Western blot revealed p27Kip1 p27 is a direct target of miR-152-3p. Up-regulation of p27 in K562 cells attenuated the effect of miR-152-3p on cell proliferation and cell cycle progression.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab487214"
+            },
+            {
+                "object": "the HOX protein LIN-39 regulates the vulval precursor cell cycle at two levels. First, LIN-39 acts as a permissive factor by maintaining the expression of the cell cycle machinery in the vulval precursor cells, keeping them competent to proliferate. Second, LIN-39 triggers the lateral NOTCH signaling pathway in the adjacent 2 degrees vulval precursor cells, which over comes the cell cycle inhibition by LIN-31 Forkhead.",
+                "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "subject": "ndd791caee50643ad90a986f563d2a0dab821517"
+            }
+        ],
+        "question": "Where do I look for genes that regulate hippocampal neural stem cell proliferation?",
+        "subquestions": null,
+        "task_id": "225D40F9ABA26046B89A427FAA204F2A",
+        "usage": {
+            "chatgpt": 6607,
+            "gpt-4": 4369,
+            "gpt-4-turbo-preview": 3300
+        },
+        "user_id": 2
+    },
+    "document_id": "225D40F9ABA26046B89A427FAA204F2A",
+    "task_id": "225D40F9ABA26046B89A427FAA204F2A"
+}

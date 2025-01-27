@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2007 - Quantitative genetics of age-related retinal degeneration a second F1 intercross between the AJ and C57BL6 strains.pdf",
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2007 - Prenatal nicotine exposure alters gene expression in a sexually dimorphic manner.pdf",
+    "2009 - Experimental_Evolution.pdf",
+    "2009 - Garland_and_Rose_Experimental_Evolution.pdf",
+    "2009 - Experimental_Evolution.pdf",
+    "2009 - Garland_and_Rose_Experimental_Evolution.pdf",
+    "2022 - Genetic and genomic architecture in eight strains of the laboratory opossum.pdf",
+    "2012 - Needs Analysis of Genetics and Genomics in Communication Sciences and Disorders.pdf",
+    "2017 - Primer in Genetics and Genomics, Article 1 DNA, Genes, and Chromosomes.pdf"
+  ],
+  "extraction_id": [
+    "749877a1-0114-5bcd-8a5b-3b944012f5c9",
+    "34fa36d0-0b64-5c70-8645-ba3576d9262c",
+    "061d1490-4ce6-5f60-bdf8-15e8d863baf6",
+    "29e674a2-7ec9-5e00-9db3-308b112e439f",
+    "2f77d356-4cca-595c-912a-099efcc8b797",
+    "29e674a2-7ec9-5e00-9db3-308b112e439f",
+    "2f77d356-4cca-595c-912a-099efcc8b797",
+    "5afcc18d-5385-5d5e-8683-dd38f86131e7",
+    "10a507d1-60ca-5dae-9e49-4a6bace53668",
+    "89acea57-5c8a-55a6-90cf-ad11e5d527b6"
+  ],
+  "document_id": [
+    "f41cf6ad-273a-571a-866e-46b3dd407731",
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "036efa18-a4b0-51bf-99d6-7c65193ccfed",
+    "34821353-1b74-5ee2-ac39-66dd46f145bf",
+    "496faa7f-9623-5ab7-9816-7c3755abb3aa",
+    "34821353-1b74-5ee2-ac39-66dd46f145bf",
+    "496faa7f-9623-5ab7-9816-7c3755abb3aa",
+    "f09eaa22-afb8-5bf7-90d3-4703056c18c5",
+    "c8a76cb1-506d-57e4-a18e-548e777898e2",
+    "b30c111b-1ca2-5f0a-93f3-862aa733fcad"
+  ],
+  "id": [
+    "chatcmpl-ADZBAENbLHFzwNSyDkvHF2ndPXSYM",
+    "45fd59f1-baa6-54b9-bfd6-9ba7ad122b86",
+    "e761426e-5f1d-5add-be86-bd6060d75ca7",
+    "748b07c1-c80f-5a4f-b295-9726493a698f",
+    "4e99669a-96cc-5269-a463-ff13337c56c3",
+    "9c00e371-7349-5ff0-8469-ffd95dd58e57",
+    "3cf13ae8-6c1c-5ddb-a719-81340d1c8ef6",
+    "27608ea2-c234-56f5-ad58-01fb67362130",
+    "c171e03f-4baf-5a0c-b961-401be867d691",
+    "e625cca4-7b62-5adf-b94e-1fdecc8e143c",
+    "03b1323c-d449-55fe-966e-d4925246b013"
+  ],
+  "contexts": [
+    "that accounts for the significant difference. One explanationis a contribution of the Y chromosome from the B strain. Sincethe cross was non-reciprocal all F2 mice carried the B strain Ychromosome. Thus, males carrying Chr X B QTL alleles andthe B Y chromosome differ in two ways from females carry-ing Chr X A alleles (or AB but B alleles are recessive) and noY chromosome, but in only one way from males carrying ChrX A/J QTL alleles because they share the B Y chromosome.However, pursuit of the identity of",
+    "women comprises 2 X chromosomes and in men 1 X and 1 Y chromosome (Figure 2). For each chromosome pair, 1 chro- mosome was inherited from the mother and 1 from the father. The full set of chromosomes is collectively called the genome.  The human genome is largely contained within the nucleus  of each cell, where it is separated from the rest of the cell functions. However, a small amount of DNA exists outside  the nucleus in the mitochondria and is considered to be part of  the human genome.",
+    "betweenmalesandfemalesisthesexchromosomes.MaleshaveanXYgenotypeand femaleshaveanXXgenotype.TheXisamuchlargerchromosome,165.5x106bpsvs. 16.0x106bps,withapproximately30timesmoregenesthantheYchromosome.To compensateforthelargernumberofgenes,andtoensurefemalesdonothaveover expressionofgenesresidingontheXchromosome,oneoftheXchromosomesis inactivated(7).TheXinactivationoccursearlyindevelopmentandisarandomprocess. Onlyasmallportionoftheinactivatedchromosomeretainstranscriptionalability.This",
+    "mammals. Instead of a dominant gene for maleness on the Y chromosome, it is the ratioof X chromosomes to autosomes that determines gender. The 2:2 ratio of XX femalesand the 1:2 ratio in XY males produce different ratios of regulatory proteins encoded byX-linked and autosomal genes. Those regulatory genes in turn cause transcripts of theregulatory Sex-lethal (Sxl) gene to be spliced differently in males and females, which be-",
+    "mammals. Instead of a dominant gene for maleness on the Y chromosome, it is the ratioof X chromosomes to autosomes that determines gender. The 2:2 ratio of XX femalesand the 1:2 ratio in XY males produce different ratios of regulatory proteins encoded byX-linked and autosomal genes. Those regulatory genes in turn cause transcripts of theregulatory Sex-lethal (Sxl) gene to be spliced differently in males and females, which be-",
+    "gins the process of sexual differentiation. A fly with two X chromosomes can thereforecarry a Y and still be a fertile female, leading to a paradoxical sex chromosome system inwhich males inherit X chromosomes from their fathers (figure 16.13).  Rice and Chippindale (2001) used a combination of these genetic techniques to test",
+    "gins the process of sexual differentiation. A fly with two X chromosomes can thereforecarry a Y and still be a fertile female, leading to a paradoxical sex chromosome system inwhich males inherit X chromosomes from their fathers (figure 16.13).  Rice and Chippindale (2001) used a combination of these genetic techniques to test",
+    "ity on the X chromosome compared to the other five strains(Figure 2B ). Compared to females, males had a deficiency of heterozygous X-linked SNP loci ( Supplementary Figure S2 ), which was expected because males are hemizygous. The resid-ual X-linked heterozygous SNPs in males could be due to mis-assembled autosomal contigs on the X chromosome, multiplecopies on the X, or homology between X and autosomalsequences. Chromosome XAutosomesProportion of SNP lociHomozygous SNPs Heterozygous SNPs",
+    "sex chromosome   Y chromosome:  One of the two sex chromosomes, X and Y. See also; X chromosome,  sex chromosome",
+    "one Y chromosome. Human chromosomes are typically displayed pictorially in a karyotype, as shown in Figure 9, arranged according to length and position of the centromere (i.e., the most con-stricted area of a chromosome). The ends of the chromosomesare called telomeres. Most human karyotypes look identicalbecause they are constructed from cells arrested in the phaseof the cell cycle when chromosomes are most condensed. During this phase of the cell cyc le, allelic differences cannot be detected."
+  ],
+  "answer": "The query appears to be based on a misunderstanding. Males do not have two Y chromosomes; they have one X and one Y chromosome, while females have two X chromosomes. This is clearly explained in the provided context:  - Males have an XY genotype, meaning they have one X chromosome and one Y chromosome [3]. - Females have an XX genotype, meaning they have two X chromosomes [3].  Additionally, it is noted that for each chromosome pair, one chromosome is inherited from the mother and one from the father [2]. Therefore, males inherit their Y chromosome from their father and their X chromosome from their mother, while females inherit one X chromosome from each parent.",
+  "question": "Why do males have two Y chromosomes and females only one?"
+}

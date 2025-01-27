@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+    "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+    "2021 -  Monogenic diabetes a gateway to precision medicine.pdf",
+    "2020 - Precision Medicine in Diabetes.pdf",
+    "2014 - Heritability of variation in glycaemic response to metformin.pdf",
+    "2015 - Pharmacogenetics and individual responses to treatment of hyperglycemia.pdf",
+    "2012 - Type 2 Diabetes Genetics Beyond GWAS.pdf",
+    "2018 - Human Genetics of Obesity and Type 2 Diabetes Mellitus.pdf",
+    "2010 - Pharmacogenetics of Anti-Diabetes Drugs.pdf",
+    "2011 - Inherited destiny Genetics and gestational diabetes mellitus.pdf"
+  ],
+  "extraction_id": [
+    "026d2a7d-a7b7-5342-981a-2664a998c79b",
+    "026d2a7d-a7b7-5342-981a-2664a998c79b",
+    "baea9ac6-7ff9-5724-87ed-81b17e2469cd",
+    "c27447b1-5f7e-5b8b-9172-baba74ffc29b",
+    "90ea6bd5-5140-5c73-ace7-fd5030e83c6d",
+    "026d2a7d-a7b7-5342-981a-2664a998c79b",
+    "a3a875fa-e55b-52d0-b9bf-72b96330c393",
+    "e18fd615-3cde-5dc2-ab7d-a9e17d4c8ed6",
+    "a1359f6d-8f61-51ca-8b02-45420e345946",
+    "48c3e4a4-db23-5fca-9c46-775e80894655"
+  ],
+  "document_id": [
+    "46081466-a50f-59d8-893d-8b8883b38507",
+    "46081466-a50f-59d8-893d-8b8883b38507",
+    "0b6ff786-6a7b-5d24-ba5e-7a61fee7757f",
+    "0ad5b2de-d782-5d43-b294-bff5c7befd2d",
+    "458da117-3235-5852-aff2-529c0bf16074",
+    "46081466-a50f-59d8-893d-8b8883b38507",
+    "d59a38d7-889b-51b5-b896-c305c82a2169",
+    "2083de31-17c6-5d1e-9aa6-2efc6c1d9ac2",
+    "ffeebaf9-ff76-5751-9b8b-7a2a4a4f1dc3",
+    "6d341cd2-ae56-5807-9aff-39298efc4d06"
+  ],
+  "id": [
+    "chatcmpl-ADZQAXp2EmWZCiBbiRu4ySm4isUy8",
+    "6aa611a9-aa5b-5dc5-a760-eaf1f95b8109",
+    "4352b950-a365-523c-b704-9eb4eddaf448",
+    "db50a759-ac52-5e02-a5c1-5c898f16bd27",
+    "c372d094-ceb2-56d1-82f3-c63f65e5c5c1",
+    "f187dbbd-3380-566a-ab25-18fc923e2263",
+    "9ced327e-3feb-5b7b-a938-30ad544113e2",
+    "b4516514-f107-5b15-b73d-0d3d89dce5a8",
+    "6707ac07-6096-5eaa-b6c4-315faa4c2813",
+    "c2b8b8a1-d19e-5f7e-aa22-a421367e4fdd",
+    "35d3fc6c-28a8-53fe-9574-e92d87f01c19"
+  ],
+  "contexts": [
+    "interindividual variation in responses to antidiabetic treatment and may provide the foundation for future genotype-based treatment standards. Pharmacogenetics and Genomics 25:475 484 Copyright  2015 Wolters Kluwer Health, Inc. All rights reserved. Pharmacogenetics and Genomics 2015, 25:475 484 Keywords: antidiabetic treatment, diabetes type 2, disease progression, genotype, pharmacogenetics aSection of Metabolic Genetics, Novo Nordisk Research Foundation Center for",
+    "treatment guidelines. Yet, the interindividual response to therapy and slope of disease progression varies markedly among patients with type 2 diabetes. Gene gene, gene environment, and gene treatment interactions may explain some of the variation in disease progression. Several genetic variants have been suggested to beassociated with response to antidiabetic drugs. Some are present in drug receptors or drug metabolizers ( OCT genes, KCNJ11 ,ABCC8 , and CYP2C9 ). Numerous type 2 diabetes",
+    "mic control in the majority of insulin-treated  patients. Diabet Med . 2009;26(4):437441.  20. Pearson ER, et al. Sensitivity to sulphonylureas  in patients with hepatocyte nuclear factor-1alpha  gene mutations: evidence for pharmacogenetics  in diabetes. Diabet Med . 2000;17(7):543545.  21. Pearson ER, et al. Genetic cause of hypergly- caemia and response to treatment in diabetes.  Lancet . 2003;362(9392):12751281.  22. Fantasia KL, Steenkamp DW. Optimal glycemic",
+    "When considering etiological varia- tion, recent work partitioning diabe-tes-associated genetic variants by theirpresumed etiological process (parti-tioned polygenic scores) (6,42,101)may de ne genetically driven dominant processes. These processes, such asb-cell dysfunction, lipodystrophy, or obe- sity, could respond differently to drugsthat act on these pathways, such assulfonylureas, glucagon-like peptide 1 re- ceptor agonist (GLP-1RA), DPP4i, and thiazolidinediones.",
+    "source of such variation might help to identify patients most likely not to respond to metformin and could help to develop more e  ective agents by providing insight into  the biological mechanism of metformin. As with other complex traits, glycaemic response to  metformin is probably determined by the interplay between genetic and environmental factors. Clinical variables such as BMI, drug adherence, and dosing only account for part of the variation. 3 Pharmacogenetic",
+    "Pharmacogenetics and individual responses to treatment of hyperglycemia in type 2 diabetes Line Engelbrechtsena, Ehm Anderssona, Soeren Roepstorffb, Torben Hansenaand Henrik Vestergaarda The aim of this study was to summarize current knowledge and provide perspectives on the relationships between human genetic variants, type 2 diabetes, antidiabetic treatment, and disease progression. Type 2 diabetes is a complex disease with clear-cut diagnostic criteria and",
+    "Genomics. 2010; 20:3844. [PubMed: 19898263] 168. Jablonski KA, McAteer JB, de Bakker PI, Franks PW, Pollin TI, et al. Common variants in 40 genes assessed for diabetes incidence and response to metformin and lifestyle intervention in the diabetes prevention program. Diabetes. 2010; 59:26722681. [PubMed: 20682687] 169. Wolford JK, Yeatts KA, Dhanjal SK, Black MH, Xiang AH, et al. Sequence variation in PPARG may underlie differential response to troglitazone. Diabetes. 2005; 54:33193325. [PubMed: 16249460]",
+    "10.1007/s00125-017-4227-1.  42. Hattersley AT, et al. Precision diabetes: learning from monogenic diabetes. Diabetologia. 2017;60:769777. doi: 10.1007/s00125-017-4226-2.  43. Florez JC. The pharmacogenetics of metformin. Diabetologia.  2017;60:16481655. doi: 10.1007/s00125-017-4335-y.  44. Maruthur NM, et al. The pharmacogenetics of type 2 diabetes: a system-atic review. Diabetes Care. 2014;37:876886. doi: 10.2337/dc13-1276.  45. Zhou K, et al. Variation in the glucose transporter gene SLC2A2 is associ-",
+    "typically based on efficacy, yet favorable respon ses to such therapeutics are oftentimes  variable and difficult to pred ict. Characterization of drug  response is expected to  substantially enhance our ability to provide patients with the most effective treatment  strategy given their indivi dual backgrounds, yet pharmacogenetic study of diabetes  medications is still in its infancy. To date, major pharmacogenetic studies have focused on",
+    "treatment or adverse effects  and dosing of medications  are not likely to be adversely affected by environmental  exposures and tend to have large effect sizes [95]. There fore, some of the variability in response or dosing could  be due to genetic variation. Pharmacogenetics in the area  of diabetes is still in its infancy, although there have been  studies examining KCNJ11  and sulfonylurea therapy for  both rare [96,97] and common [98,99] variants and res"
+  ],
+  "answer": "The genetic bases for the varying efficacy of diabetes treatments among individuals are multifaceted and involve several genetic variants that influence drug response. Key points include:  1. **Genetic Variants in Drug Receptors and Metabolizers**: Variations in genes such as OCT, KCNJ11, ABCC8, and CYP2C9 have been associated with differing responses to antidiabetic drugs. These genes are involved in drug receptors or drug metabolism, which can affect how well a patient responds to a particular treatment [2].  2. **Gene-Gene and Gene-Environment Interactions**: The interplay between different genes and between genes and environmental factors can also contribute to the variability in treatment efficacy. This includes how genetic predispositions interact with lifestyle factors and other environmental influences [2].  3. **Specific Genetic Mutations**: For instance, mutations in the hepatocyte nuclear factor-1alpha gene have been linked to sensitivity to sulphonylureas, highlighting a specific pharmacogenetic interaction in diabetes treatment [3].  4. **Genetically Driven Dominant Processes**: Certain genetic variants may drive dominant processes such as beta-cell dysfunction, lipodystrophy, or obesity, which in turn can influence the effectiveness of drugs targeting these pathways, such as sulfonylureas, GLP-1 receptor agonists, DPP4 inhibitors, and thiazolidinediones [4].  5. **Pharmacogenetic Studies**: Although pharmacogenetic research in diabetes is still developing, studies have shown that genetic variations can significantly impact drug response. For example, variations in the glucose transporter gene SLC2A2 have been associated with differential responses to metformin [8].  6. **Complex Interplay of Factors**: The glycaemic response to treatments like metformin is likely determined by a complex interplay of genetic and environmental factors, with clinical variables such as BMI, drug adherence, and dosing also playing roles [5].  These genetic factors underscore the importance of personalized medicine in diabetes treatment, where understanding an individual's genetic makeup can help tailor more effective therapeutic strategies.",
+  "question": "What are the genetic bases for the varying efficacy of diabetes treatments among individuals?"
+}

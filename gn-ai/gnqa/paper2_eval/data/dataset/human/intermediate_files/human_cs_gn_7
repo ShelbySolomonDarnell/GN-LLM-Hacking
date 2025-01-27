@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Germline de novo mutation clusters arise.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf",
+    "2017 - Human female meiosis revised new.pdf",
+    "2018 - Repetitive Fragile Sites Centromere Satellite DNA.pdf"
+  ],
+  "extraction_id": [
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "af805fbb-a39f-5a29-a0b0-9add1126b553",
+    "907c33dd-34b8-51f5-a91f-fb83cf11f7f9",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "403bbc25-ce94-5a4f-a409-436cc02fb204",
+    "c07e5efe-7d80-547e-847b-eef61bb661cc",
+    "5f52d45a-991b-54c3-92ae-37dd96e31a42",
+    "8e3ed969-da49-5ba4-8382-dc2714b01497",
+    "8cba1054-1540-57ee-a5c4-350f5555081f"
+  ],
+  "document_id": [
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "f2b2ca83-a34f-5f99-b9f2-357b2ddbe136",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "262df0d6-ad68-544a-88ed-b4568f305858",
+    "95817342-4fb7-543f-beab-f3d7d0a1dd80",
+    "262df0d6-ad68-544a-88ed-b4568f305858"
+  ],
+  "id": [
+    "chatcmpl-ADZJEypA9e5sRA4lUD0c4IqRsBYeu",
+    "66e5e009-5496-5e18-bfbe-9a9567cad60c",
+    "72da6034-227d-5dac-9ef6-90c246ec2b40",
+    "3b5635bb-8308-5c6b-8ee0-d65293257362",
+    "2f2342b3-4c07-5bfd-80c6-8bc47fead6b6",
+    "fb421292-e4ea-510b-8a69-48e12e6e6a43",
+    "ab92961e-c267-5e56-aeb9-0d03fd0a4102",
+    "c8e7e683-487f-5075-bbef-126ca0203c6c",
+    "4802fb82-204d-57b6-b24f-5683f3731aea",
+    "dfa6d21d-2407-5738-84df-95b68469c263",
+    "5da6f433-231d-586b-a057-558a4c68f741"
+  ],
+  "contexts": [
+    "4.1. Recombination and Repair at Centromeres: Errors in Copying and Mending Highly Repetitive DNA Why are centromeres so cold?, asked Andy Choo in his review of centromeres [ 96]. He was referring to centromere DNA as being cold to recombination. While maternal and paternal chromosomes suffer multiple DNA double-stranded breaks (DSBs) to induce recombination and exchange of genetic information by crossing over during meiosis, centromere loci are refractory",
+    "Genes 2018 ,9, 615 18 of 20 97. McFarlane, R.J.; Humphrey, T.C. A role for recombination in centromere function. Trends Genet. 2010 ,26, 209213. [CrossRef] 98. Talbert, P .B.; Henikoff, S. Centromeres convert but dont cross. PLoS Biol. 2010 ,8, e1000326. [CrossRef] 99. Durfy, S.J.; Willard, H.F. Concerted Evolution of Primate Alpha Satellite DNA Evidence for an Ancestral Sequence Shared by Gorilla and Human X Chromosome Satellite. J. Mol. Biol. 1990 ,216, 555566. [CrossRef]",
+    "of these DSBs through recombination-dependent pathways, such as homologous recombination (HR),  may disrupt centromere integrity in several ways: (1) Crossover between sister chromatids will lead  to sister chromatid exchange (SCE), which has been  reported at human cent romeres. (2) Search for  the homologous sequence may erroneously identify an  identical or nearly identical sequence within  the same chromatid downstream or upstream of the break site. Recombination between these two",
+    "exacerbates centromere rearrangements [ 54], indicating that there may be active mechanisms to suppress centromeric recombination and these may, at least in part, involve core centromeric proteins. Centromere alpha-satellite DNA is estimated to represent between 3% and 10% of the human genome [ 101], reviewed in [ 19]. During each round of replication, unperturbed cells suffer over 40 DNA DSBs [ 102], of which at least half are repaired by homologous recombination (HR) in S-phase and G2,",
+    "to this process. This led to the assumption that centromeres do not undergo recombination and that the repetitive arrays are maintained as stable. However, this clashed with the notion that centromeres very origin stems from recombination to create the repetitive array, where multiple short- and long-range recombination events may be responsible for the generation and reiteration of blocks of highly homogenized alpha-satellite DNA throughout the centromere [ 97,98]. Furthermore, in addition",
+    "347357 (1998).  31. Baudat, F. et al. PRDM9 is a major determinant of meiotic recombination hotspots in humans and mice. Science  327, 836840 (2010).  32. Kong, A. et al. Recombination rate and reproductive success in humans. Nat.Genet.  36, 12031206 (2004).  33. Ottolini, C. S. et al. Genome-wide maps of recombination and chromosome segregation in human oocytes and embryos show selection for maternal recombination rates. Nat. Genet.  47, 727735 (2015).",
+    "shown to play a role in DNA repair (reviewed in [ 125]), and in vitro experiments show that this hybridization may facilitate DSB repair by bridging the broken DNA fragments in a Rad52-dependent manner during recombination [126]. Centromeres have been suggested [ 127,128], but not proven, to behave like fragile sites of the human genome. Common fragile sites are described as genomic loci where ongoing replication collides",
+    "to chromosome-specic alpha-satellites, certain centromeric sequences are shared by all chromosomes, evidence that formation of these arrays is dominated by interchromosomal exchanges [ 8,98100]. This invites new questions about the stability of centromere DNA outside of meiosis. Indeed, our recent analysis has shown that centromeres can undergo recombination during a single round of cell division in primary human cells [ 54]. Depletion of CENP-A and other CCAN proteins",
+    "Studying the direct link between re combination and sister chromatid dynamics with combined live cell imaging and genomics will likely yieldimportant insight into the impact that centromeric and telomeric cross- overs have on chromosome segregation.Reconstructing the bivalent con guration from MeioMaps: recombination and its linkwith chromosome segregation The combined assessment of haplotypes that are determined by recombination also allowed the rst direct correlations between",
+    "Cell Biol. 2016 ,17, 1629. [CrossRef] [PubMed] 54. Giunta, S.; Funabiki, H. Integrity of the human centromere DNA repeats is protected by CENP-A, CENP-C, and CENP-T. Proc. Natl. Acad. Sci. USA 2017 ,114, 19281933. [CrossRef] [PubMed] 55. Giunta, S. Centromere Chromosome Orientation Fluorescent in situ Hybridization (Cen-CO-FISH) Detects Sister Chromatid Exchange at the Centromere in Human Cells. Bio-Protocol 2018 ,8. [CrossRef]"
+  ],
+  "answer": "Recombination in human centromeres is a complex process that is generally suppressed to maintain centromere integrity. Here are the key points about how recombination works in human centromeres:  1. **Recombination Suppression**: Centromere DNA is often referred to as being \"cold\" to recombination, meaning that it is generally refractory to the recombination processes that occur during meiosis in other parts of the genome [1].  2. **Potential Disruptions**: When recombination does occur, it can disrupt centromere integrity in several ways. For instance, crossover between sister chromatids can lead to sister chromatid exchange (SCE), which has been reported at human centromeres. Additionally, the search for homologous sequences may erroneously identify nearly identical sequences within the same chromatid, leading to inappropriate recombination events [3].  3. **Mechanisms to Suppress Recombination**: There are active mechanisms to suppress recombination at centromeres, which may involve core centromeric proteins. This suppression is crucial because recombination-dependent pathways, such as homologous recombination (HR), could otherwise exacerbate centromere rearrangements [4].  4. **Recombination in Centromere Formation**: Despite the general suppression, recombination is believed to play a role in the origin and formation of centromeres. Multiple short- and long-range recombination events may be responsible for generating and reiterating blocks of highly homogenized alpha-satellite DNA throughout the centromere [5].  5. **Recombination Outside Meiosis**: Recent analyses have shown that centromeres can undergo recombination during a single round of cell division in primary human cells, indicating that recombination at centromeres is not entirely restricted to meiosis [8].  In summary, while recombination at human centromeres is generally suppressed to maintain their structural integrity, it can occur under certain conditions and may play a role in the formation and evolution of centromeric DNA.",
+  "question": "How does recombination work in human centromeres?"
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2004 - Diabetes Genes a.pdf",
+    "2018 - Animal models of obesity.pdf",
+    "2012 - Systems Biology Approaches to Nutrition.pdf",
+    "2021 -  Monogenic diabetes a gateway to precision medicine.pdf",
+    "2003 - A functional polymorphism in the promoterenhancer region of the FOXP3Scurfin gene associated with type 1 diabetes.pdf",
+    "2017 - diabetes-mellitus-in-developing-countries-and-underserved-commun-2017.pdf",
+    "1997 - Development of non-insulin-dependent diabetes mellitus.pdf",
+    "2017 - Differentiation of Diabetes by Pathophysiology.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "1984 - A Polymorphic Locus.pdf"
+  ],
+  "extraction_id": [
+    "0d4b1f7a-5757-5129-835a-6ed0334a1e0e",
+    "f3ffcc7b-7d0c-5f1a-9a5a-762cf6c85403",
+    "5364714e-1909-58f7-a15d-fb60df4e7bee",
+    "9b3c9e69-82ff-5bfc-9b5b-77038a59d8e9",
+    "aacbb5a1-c294-5568-ba02-3d4342091e86",
+    "d5004507-475d-5ac1-9aa6-b5fd664b8bf7",
+    "e27a0679-e4b0-5e9f-8d98-1cd4e8b08b00",
+    "a9accd40-eb89-5595-bf27-b6b82b49f4d4",
+    "4beabe81-e24e-535c-9df3-bfaa9cfdde90",
+    "57f307f8-2493-5438-ad08-b4d85288b94e"
+  ],
+  "document_id": [
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "9e9af9c7-814f-562e-a04d-878528a38002",
+    "6955478b-950d-5d29-b24c-3a5ca656f3ae",
+    "0b6ff786-6a7b-5d24-ba5e-7a61fee7757f",
+    "4a3964a4-0aea-58ee-b749-33e0d8c62228",
+    "8a9451b9-d7e8-5417-b6a5-5fd1b791cc4d",
+    "8598a406-5a79-5f9e-8a1b-bf69daf071bf",
+    "9cfaef1e-fb60-5c2b-94f0-632c89b2eb16",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "df2478dd-6970-5d8d-99e5-bb23f46bcdb1"
+  ],
+  "id": [
+    "chatcmpl-ADZR8nkJvPePGl3BA4Ofgj0JbQyIv",
+    "c3e7c5c2-d8d3-55ba-ba38-b8ca5eb2487a",
+    "24aac9a6-38ed-5a54-b60a-0604d31e5972",
+    "65469d6d-578f-5c78-97cf-d06b2f483dcf",
+    "92749b8d-6c7a-5f2b-a873-a04904cc247b",
+    "18ba0b3f-51a8-5af0-98ec-3b45f1e3219a",
+    "2454130e-8098-5c7f-944b-c5933a8409f8",
+    "856c7a02-c233-5b00-ae1c-55a5e2b1a2ed",
+    "3313b0de-44f4-5cb5-9735-2fefd5ebf0bb",
+    "1e84a9e4-7bd1-51ad-80b5-3a371c090151",
+    "3b29472a-7875-5761-86d5-cbc57c20db85"
+  ],
+  "contexts": [
+    "two broad etiopathogenetic groups. In one group (type I diabetes), the cause  is an absolute deficiency of insulin secretion. Individuals at increased risk of  developing this type of diabetes can often be identified by serological  evidence of an autoimmune process of the pancreatic islets and by genetic  markers. In the second and more prevalent group (type 2 diabetes), the cause  is a combination of resistance to insulin action with inadequate  compensatory insulin secretory response.",
+    "Diabetes mellitus.  Type1 diabetes mellitus (T1DM) and  T2DM have different causes, but both ultimately lead to  pancreatic -cell dysfunction. Damaging the pancreas  chemically or mechanically can induce experimental  diabetes mellitus. Pancreatic damage can be achieved by  surgically removing parts of or all of the pancreatic tissue  (pancreatectomy) to reduce or fully ablate endogenous  insulin production282. The benefit of this method is the  lack of toxic adverse effects (compared with diabetogenic",
+    "Diabetes is a disorder of carbohydrate metabolism charac-terized primarily by hyperglycemia resulting from ineffec-tive uptake of glucose by tissues. Type 1 diabetes is an autoimmune disease that typically occurs early in life and results in total loss of insulin production, whereas type 2 diabetes develops over time as tissues develop a resistance to insulin, and insulin release from the pancreas slowly diminishes. As carbohydrates have the greatest effect on blood glucose of all macronutrients, their",
+    "diabetes but a rare cause of diabetes diag - nosed in childhood or adulthood. Diabetes .  2008;57(4):10341042.  152. Molven A, et al. Mutations in the insulin gene can  cause MODY and autoantibody-negative type 1  diabetes. Diabetes . 2008;57(4):11311135.  153. Gloyn AL, et al. Mutations in the genes encoding  the pancreatic beta-cell KATP channel subunits  Kir6.2 (KCNJ11) and SUR1 (ABCC8) in diabe - tes mellitus and hyperinsulinism. Hum Mutat.  2006;27(3):220231.",
+    "Type 1 diabetes is an autoimmune disease caused by T-cell-mediated destruction of insulin-producing beta cellsin the pancreatic islets of Langerhans (Atkinson andMaclaren 1994). Various aberrations in immune regula-tion have been described in both human patients andanimal models of type 1 diabetes (Rosmalen et al. 2002).A recent study has demonstrated that the disturbance ofcentral and/or peripheral tolerance mechanisms existed indiabetes-prone humans and animals (Sakaguchi 2000).With respect to the",
+    "disorder caused by different factors characterized by a chronic high level of blood sugar with distur-bances to carbohydrate, fat, and protein metabo-lism resulting from defects in insulin secretion, insulin action, or both [  83 ]. Scientists have  divided diabetes into three different types: Type 1 F. Assah and J.C. Mbanya",
+    "(Fig. 1), indicating that insulin resistance and insulin secretory defect played a cooperative role in the development and exac- erbation of diabetes, even though neither was strong enough alone to cause overt diabetes. From another point of view, even if genetically determined insulin resistance itself might not be sufficient for the development of diabetes, insulin resis- tance results in diabetes if pancreatic /H9252 cell function is im- paired genetically (this study) or nongenetically. Development",
+    "tors, and other environmental factors that trigger isletautoimmunity and/or type 1 diabetes. Type 2 Diabetes Type 2 diabetes develops when b-cells fail to secrete suf- cient insulin to keep up with demand, usually in the context of increased insulin resistance. A minority of peo- ple diagnosed with type 2 diabetes also have evidence ofislet autoimmunity (57,58). Obesity is a major risk factor for type 2 diabetes (59,60) with complex genetic and en- vironmental etiology.",
+    "have environmental (islet-injuring drugs or a particular diet) and/or genetic  (monogenic or polygenic) causes. We have grouped the models by cause  and type of diabetes. While this grouping is reasonable and instructive, it  can over-emphasize distinctions. For example, it is believed that beta cell  failure (and/or poor islet regeneration) contributes to type 2 diabetes, but in  their pure, severe form these processes cause type I diabetes.  MODELS OF INSULIN-DEFICIENT DIABETES",
+    "Diabetes mellitus comprises a heterogenous group of disorders that have been classified as either insulin-dependent (IDDM) or non-insulin-depend- ent (NIDDM).1 Their causes are poorly understood but appear to involve some form of interaction between ge- netic and environmental factors.2-4 Some of the environmen- tal factors that can contribute to IDDM include viral infections and chemicals, while obesity is a common predisposing fac- tor for NIDDM. Genes that confer susceptibility or can cause"
+  ],
+  "answer": "Diabetes can be caused by different factors depending on the type.   1. **Type 1 Diabetes**: This type is primarily caused by an absolute deficiency of insulin secretion due to an autoimmune process that destroys insulin-producing beta cells in the pancreatic islets [1], [5]. Genetic markers and serological evidence can often identify individuals at increased risk [1].  2. **Type 2 Diabetes**: This type is caused by a combination of resistance to insulin action and an inadequate compensatory insulin secretory response [1]. It develops over time as tissues become resistant to insulin, and the pancreas's ability to release insulin diminishes [3]. Obesity is a major risk factor for type 2 diabetes, with both genetic and environmental factors playing a role [8].  3. **General Factors**: Both types of diabetes ultimately lead to pancreatic beta-cell dysfunction [2]. Environmental factors, such as viral infections and chemicals, can contribute to the development of diabetes, particularly type 1, while obesity is a common predisposing factor for type 2 diabetes [10].  In summary, diabetes is caused by a combination of genetic, autoimmune, and environmental factors that affect insulin production and action [1], [3], [8], [10].",
+  "question": "What causes diabetes?"
+}

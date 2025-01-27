@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2012 - Genome-wide association analysis of age-at-onset.pdf",
+    "2007 - Genetic correlates of brain aging on MRI and cognitive test measures a genome-wide association and linkage analysis in the Framingham study.pdf",
+    "2009 - MicroRNA Implications for Alzheimer Disease and other Human CNS.pdf",
+    "2018 - Genomics New Light on Alzheimer?s.pdf",
+    "2012 - Mitochondrial Genomic Analysis of Late Onset.pdf",
+    "2021 - A genome-wide association study with 1,126,563.pdf",
+    "2017 - Genomic Variants, Genes, and Pathways.pdf",
+    "2003 - The application of functional genomics.pdf",
+    "2018 - Cognitive decline and dementia in diabetes mellitus.pdf",
+    "2012 - Genome-wide association study of Alzheimer?s disease.pdf"
+  ],
+  "extraction_id": [
+    "2a2e5ce1-cc56-579c-bf79-f9057f4c9671",
+    "b545e588-2876-5928-9c01-710c1371b44e",
+    "4b383c2a-f0de-5420-af8d-07060b8874f3",
+    "64f3adb4-e745-5738-af28-43c2a870c086",
+    "b826d64d-9d95-5522-8179-82f79d957c03",
+    "c4d63e5d-36ac-572e-8269-f9efd9c0437e",
+    "7cff03ac-de86-5e70-bbcb-dadc2fa447c3",
+    "171377f4-24a7-5cde-adff-c9c7096edc75",
+    "d2b4b131-b7c9-595b-813a-b0940c4e87c0",
+    "1f9039f1-91e9-538b-b709-a1880cf47007"
+  ],
+  "document_id": [
+    "9874359e-5f5d-5e6a-9844-cd9a1d2cae24",
+    "56b25b5a-fc9e-5d61-8502-1c110466ba16",
+    "70d08119-d16d-5e9b-89ed-ec8547be125a",
+    "940593d2-04c3-59b9-a5bf-976febbc6f71",
+    "5404a17c-34a9-5881-8b1a-2acacdc996a8",
+    "77fafe7f-6f8f-5779-9d49-77213f149512",
+    "a5bf6a11-3ed5-5222-bc4d-d5149188cdbd",
+    "ec5f7b7d-6bd2-5580-bf3e-3c8b64a74169",
+    "fc7027a3-f885-55b8-b56d-bb8117e2a2f1",
+    "7e7a8526-ff6e-5c83-ae72-e45509e3b788"
+  ],
+  "id": [
+    "chatcmpl-ADZVsDdzFGdoBGkCMl1sqg3Cv85XM",
+    "6ac3f90f-ec8a-55c7-a3f7-d597d9d7cb2e",
+    "4014c984-d6d9-5eb2-a25e-9e9fe15d1b41",
+    "cd8f4d4a-2b1a-542f-a3f3-364a83fb10fb",
+    "f24834c0-1862-5d9f-bdb6-2af38505aa5c",
+    "064a3510-9a3d-5b93-b848-69478e02e013",
+    "794ac337-0c08-52ca-9603-fe840fa343af",
+    "fc44e06f-a727-5544-ad7c-6ba3632552b7",
+    "5e6b9b4b-1e03-585a-af52-18a054e1e603",
+    "784e7626-1d9c-521b-84f3-965965435366",
+    "dac0ab78-d01f-5f95-a129-559cbe6791ec"
+  ],
+  "contexts": [
+    "Introduction Alzheimers disease (AD), a devastating neurodegen- erative disease, is the most common form of dementiaamong the elderly. Genetically, AD is a complex and multifactorial disease with the possible involvement of multiple genes. The rare early-onset form of the diseaseusually follows an autosomal-dominant inheritance pattern and to date three genes have been identified: amyloid precursor protein ( APP) and presenilin 1 and 2(PSEN1 andPSEN2 ). The common late-onset form of",
+    "Background Age-related neurological diseases such as stroke and dementia represent a substantial population burden, and one in three persons will develop either stroke or demen- tia in their lifetime [1]. Twin studies suggest that 3778% of the variance in the age of onset of Alzheimer's disease (AD), the most common cause of dementia in the elderly, can be attributed to additive genetic effects [2,3]. Con- versely, cognitively healthy aging also has a substantial",
+    "cognitive status in Alzheimer's disease. Neurobiol. Aging  1996 , 17:  921-933.  [3]  Ertekin-Taner, N. Genetics of Alzheimer's disease: a centennial  review. Neurol. Clin.  2007 , 25: 611-667.  [4]  Bernardi, L., Tomaino, C., Anfossi, M., Gallo, M., Geracitano, S.,  Puccio, G., Colao, R., Frangipane, F., Mirabelli, M., Smirne, N.,  Giovanni Maletta, R., Bruni, A.C. Late onset familial Alzheimer's  disease: novel presen ilin 2 mutation and PS1 E 318G polymor- phism. J. Neurol.  2008 , 255: 604-606.",
+    "Keywords: alzheimers disease; genomics; GWAS; genetic risk factors; epigenetic modication; aging 1. Introduction Alzheimers disease (AD) is the most common cause of dementia, accounting for approximately 6080% of dementia cases, followed by vascular dementia (approximately 10%), Lewy Body or Parkinsons disease-related dementia, and alcohol-mediated dementia [ 1]. Mild cognitive impairment, one of the representative early symptoms of AD, makes this disease distinguishable from other types",
+    "14. Heyman A, Wilkinson WE, Hurwitz BJ, Schmechel D, Sigmon AH, et al. (1983) Alzheimers disease: genetic aspects and associated clinical disorders. AnnNeurol 14: 507515. 15. Farrer LA, Myers RH, Connor L, Cupples LA, Growdon JH (1991) Segregation analysis reveals evidence of a major gene for Alzheimer disease. Am J HumGenet 48: 10261033. 16. Duara R, Lopez-Alberola RF, Barker WW, Loewenstein DA, Zatinsky M, et al. (1993) A comparison of familial and sporadic Alzheimers disease. Neurology 43: 13771384.",
+    "(2016).  3. DeTure, M. A. & Dickson, D. W . The neuropathological diagnosis of Alzheimers disease. Mol. Neurodegener. 14, 32 (2019).  4. Gatz, M. et al. Heritability for Alzheimers disease: the study of dementia in Swedish twins. J. Gerontol. A Biol. Sci. Med. Sci. 52, M117M125 (1997).  5. Gatz, M. et al. Role of genes and environments for explaining Alzheimer disease. Arch. Gen. Psychiatry 63, 168174 (2006).",
+    "Lett 379(3):199204. Avramopoulos D. 2009. Genetics of Alzheimers disease: Recent advances. Genome Med 1(3):34. Bachman DL, Wolf PA, Linn R, Knoefel JE, Cobb J, Belanger A, DAgostino RB, White LR. 1992. Prevalence of dementia and probable seniledementia of the Alzheimer type in the Framingham study. Neurology42(1):115119. Barral S, Cheng R, Reitz C, Vardarajan B, Lee J, Kunkle B, Beecham G,",
+    "[11] and the exclusion of cerebrovascular factors as inherentetiopathogenic determinants of neuronal deathin AD, taking into account that in patients olderthan 70 years of age the vast majority of caseswith dementia show a clear cerebrovascular com-promise  [12]. In addition, most studies attempt- ing to correlate clinical features with singlegenotypes are partially biased due to heterogene-ity and inaccuracy in phenotype recruitment.Furthermore, 6080% of the therapeutic fail-ures in AD",
+    "associated with Alzheimers disease neuropathology. J. Alzheimers Dis. 60, 10351043 (2017). 63. Gottesman, R. F. etal. Association between midlife vascular risk factors and estimated brain amyloid  deposition. JAMA 317, 14431450 (2017). 64. Moran, C. etal. T ype 2 diabetes mellitus and  biomarkers of neurodegeneration. Neurology 85,  11231130 (2015). 65. Vemuri, P . etal. Age, vascular health, and Alzheimer disease biomarkers in an elderly sample. Ann. Neurol.   82, 706718 (2017).",
+    "Introduction Alzheimers disease (AD), the most common form of dementia, is highly heritable (heritability of up to 76%) but genetically complex.1Neuropatho- logically, the disease is characterized by extracellular senile plaques containing b-amyloid (A b) and intra- cellular neurofibrillary tangles containing hyperpho-sphorylated tau protein. 1Before 2009, four genes had been definitively implicated in its aetiology. Muta- tions of the amyloid precursor protein (APP) gene"
+  ],
+  "answer": "The genotypes related to Alzheimer's disease (AD) and dementia that have commonalities with those for aging include several key genetic factors:  1. **Amyloid Precursor Protein (APP)**: Mutations in the APP gene are implicated in the early-onset form of Alzheimer's disease. This gene is also associated with the aging process, as the accumulation of amyloid plaques is a hallmark of both AD and age-related cognitive decline [1], [10].  2. **Presenilin 1 and 2 (PSEN1 and PSEN2)**: These genes are also involved in the early-onset form of AD and are linked to the production of amyloid-beta, a protein that accumulates in the brains of individuals with AD and is also associated with aging [1].  3. **APOE \u03b54 Allele**: The APOE \u03b54 allele is a well-known genetic risk factor for late-onset Alzheimer's disease. It is also associated with aging, as it influences lipid metabolism and is linked to age-related cognitive decline [2], [4].  4. **Genetic Variance in Age of Onset**: Twin studies suggest that 37-78% of the variance in the age of onset of Alzheimer's disease can be attributed to additive genetic effects, indicating a significant overlap between the genetic factors influencing AD and those affecting the aging process [2].  These genotypes highlight the genetic commonalities between Alzheimer's disease, dementia, and the aging process, emphasizing the multifactorial nature of these conditions.",
+  "question": "Describe the genotypes related to Alzheimers and dementia which have commonalities with those for aging."
+}

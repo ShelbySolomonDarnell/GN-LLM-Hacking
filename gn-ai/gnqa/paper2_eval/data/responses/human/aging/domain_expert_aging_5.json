@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2001 - A genome-wide scan for linkage to human.pdf",
+    "2023 - A transcriptome-based single-cell biological age model.pdf",
+    "2015 - A Chromosome 13 locus is associated with male-specific mortality in mice.pdf",
+    "2007 - Longevity Genomics Across Species.pdf",
+    "2020 - Clinical Genetics and Genomics of Aging.pdf",
+    "2017 - Systems genetic analysis in GeneNetwork.org.pdf",
+    "2021 - Gene-by-environment modulation of lifespan and weight gain in the murine BXD family.pdf",
+    "2016 - Systems genetics identifies Hp1bp3 as a novel modulator of cognitive aging.pdf",
+    "2015 - A Chromosome 13 locus is associated with male-specific mortality in mice.pdf",
+    "2009 - Meta-analysis of age-related gene expression profiles identifies.pdf"
+  ],
+  "extraction_id": [
+    "17246c43-2e44-579b-867d-3dc7150ceedd",
+    "0fd46f00-d3e1-54f4-9395-6c3e8294ed51",
+    "5cc56e3b-53ab-5299-814d-014e2ed31d2f",
+    "522e2616-daa1-5bf3-8673-a717dfb9b13f",
+    "5c3840bd-45a5-5928-84ab-a1f2d8536691",
+    "59121146-02b9-5479-96e2-9fb45cffc81b",
+    "396683f9-b2e3-5942-bec8-f96fa798c341",
+    "382122b9-6922-5d85-9e8c-acfa86aff085",
+    "df0b4be9-3393-5642-a722-ccafffb60df8",
+    "4d95f551-34bd-5e7a-8702-eb59de73a480"
+  ],
+  "document_id": [
+    "1431984a-82d9-51d4-a23c-5f76a02ab554",
+    "9be234b7-f37d-5cd5-8895-bfe676441b2f",
+    "ad8f2626-87fb-520e-8cef-ee9a9cc3ab0b",
+    "1ab0b63f-d97c-5f5c-98ee-0bde785fa630",
+    "62b635c3-040e-512a-b016-6ef295308a1e",
+    "41be0f9f-a5af-5586-b6cd-16e56fd89cdc",
+    "4d082da4-fa48-5170-8147-c4fea47a5d4b",
+    "8cde78ac-cb0e-5983-86ee-91074b2fe1e3",
+    "ad8f2626-87fb-520e-8cef-ee9a9cc3ab0b",
+    "5c2cf97f-a57a-5284-85a3-b8d9c5943113"
+  ],
+  "id": [
+    "chatcmpl-ABLwlxjoJ15UXMdKPBfDnYfvZNLDD",
+    "e0cce1c5-8709-5218-99b6-48a6ba242931",
+    "9f9fef49-0bda-5948-93bd-0f8f43bbefdf",
+    "09da6f9e-b996-5438-91be-41d9438cb930",
+    "ab0845d4-b4db-53db-927e-b96a52cf7667",
+    "c2299f0f-9e0b-5279-90e5-37c6bd664976",
+    "3004d1fd-c5ce-5587-bfab-471e7141952c",
+    "9082d164-59f8-58a0-ace7-8b3aa9d884e2",
+    "7abf14d2-cdfe-5c37-8217-6b63bd8fb255",
+    "380ca35e-b42b-59b4-aef7-aaf2ba3bb59d",
+    "eea576fd-d766-5ae7-9e63-045869a3f8f7"
+  ],
+  "contexts": [
+    "effect fundamental mechanisms of aging (14, 16). The drawbacksof such studies include the improbability of picking the right geneto study the myriad of known and unknown genes affecting theprocess of interest (17). The linkage study described heremarkedly improves the efficiency of such association studies bydefining a region likely to contain polymorphism(s) with signif-icant influence on life span. Additional association studies with these families and repli-",
+    "Map contains 1119 and 1459 curated human and mouse aginggenes, respectively, covering almost all scales of aging, rangingfrom molecular damage to genetic predisposition. Cross-speciescomparison revealed a modest overlap between known humanand mouse aging genes, suggesting both conservation of core sen- escence pathways and fundamental differences in aging between mice and humans (Fig. 2E). Aging-associated genes can alternatively be identified in a",
+    "11. Gelman R, Watson A, Bronson R et al (1988) Murine chromo- somal regions correlated with longevity. Genetics 118(4):693704 12. Jackson AU, Galecki AT, Burke DT et al (2002) Mouse loci associated with life span exhibit sex-specic and epistatic effects. J Gerontol A Biol Sci Med Sci 57(1):B9B15 13. Foreman JE, Lionikas A, Lang DH et al (2009) Genetic archi- tecture for hole-board behaviors across substantial time intervalsin young, middle-aged and old mice. Genes Brain Behav",
+    "Along with longevity, a select group of potential aging-related biomarkers will be assayed for each of these mouse models. In addition, it should be possible to assay several of these mouse lines for resistance to specific age-associated diseases, such as diabetes and neurological disorders, by  crossing them into the appropriate transgenic disease back- ground.   CONCLUSION   Our understanding of the basic mechanisms of aging  have benefited greatly from the use of simple model systems",
+    "198 the study of age-related diseases for various reasons: (a) mice are closely related to  humans, with nearly 99% of human orthologous in mice; (b) their relatively short  lifespan and small size allow surveillance of the aging process within a pertinent  time frame and make their housing less expensive; (c) the feasibility of performing  genetic manipulations facilitates the engineering of transgenic strains (gain- and  loss-of function mice) that model premature aging disorders. In this section, we",
+    "Hsu HC, Lu L, Yi N, Van Zant G, Williams RW, Mountz JD. Quantitative trait locus (QTL) mapping in  aging systems. Methods in Molecular Biology (Clifton, NJ ). 2007; 371:321348. Hunter KW, Crawford NPS. The future of mouse QTL mapping to diagnose disease in mice in the age  of whole-genome association studies. Annual Review of Genetics. 2008; 42:131141. Ito R, Robbins TW, Everitt BJ. Differential control over cocaine-seeking behavior by nucleus",
+    "multiscalar integration of traits. Cell150, 12871299 (2012). [PubMed: 22939713]  33. De Haan G & Van Zant G Genetic analysis of hemopoietic cell cycling in mice suggests its  involvement in organismal life span. FASEB J. Off. Publ. Fed. Am. Soc. Exp. Biol. 13, 707713  (1999). 34. Gelman R, Watson A, Bronson R & Yunis E Murine chromosomal regions correlated with  longevity. Genetics 118, 693704 (1988). [PubMed: 3163317]  35. Houtkooper RHet al.The metabolic footprint of aging in mice. Sci. Rep1, (2011).",
+    "mice to identify genetic factors involved in the regulation of cognitive aging that may have gone undetected in either complex human studies or murine studies utilizing only a single genetic background. Aging is a leading risk factor for age-associated de- mentias such as AD, and our work and others suggest that geneticfactors and mechanisms underlying biological processes during midlife play a key role in determining an individual s susceptibility",
+    "span and have yielded insights into potential biological pathways and processes related to aging. Despite these successes, several problems are inherent in human longevity studies including potentially high degrees ofenvironmental heterogeneity, genetic diversity, and lack of birth matched controls, among others [ 8]. Inbred mouse strains represent a powerful alternative for identifying genes underlying complex trait genes such as longevity [ 9]. Initial mapping approaches include quanti-",
+    "Recently, the Atlas of Gene Expression in Mouse Aging Project (AGEMAP) reported gene expression proles with age for 8932genes in 16 mouse tissues (Zahn et al ., 2007). We chose not to"
+  ],
+  "answer": "To generate a linkage or association mapping study in mice to understand aging, you can follow these steps:  1. **Select Appropriate Mouse Strains**: Choose inbred mouse strains that are known to have variations in lifespan and aging-related traits. Inbred strains are powerful for identifying genes underlying complex traits such as longevity due to their genetic uniformity [9].  2. **Identify Aging-Related Traits**: Determine the specific aging-related traits you want to study. This could include longevity, resistance to age-associated diseases, or other biomarkers of aging [4].  3. **Cross Mouse Strains**: Perform crosses between different inbred strains to generate F1 and F2 generations. This helps in creating genetic diversity necessary for mapping studies [5].  4. **Phenotyping**: Assay the F2 generation (or other relevant generations) for the aging-related traits of interest. This could involve measuring lifespan, resistance to diseases, or other biomarkers [4].  5. **Genotyping**: Genotype the mice using molecular markers such as SNPs (Single Nucleotide Polymorphisms) to identify genetic variations across the genome [6].  6. **Quantitative Trait Locus (QTL) Mapping**: Use QTL mapping techniques to identify chromosomal regions associated with the aging-related traits. This involves statistical analysis to correlate genetic markers with phenotypic traits [6].  7. **Association Studies**: Conduct association studies to further refine the regions identified by QTL mapping. This involves looking for specific polymorphisms within the identified regions that are significantly associated with the traits [1].  8. **Replication and Validation**: Validate the findings by replicating the study in different mouse populations or using additional genetic crosses. This helps to confirm the association between the identified genetic regions and aging traits [1].  By following these steps, you can generate a linkage or association mapping study in mice to understand the genetic factors influencing aging.",
+  "question": "How do I generate a linkage or association mapping study in mice to understand aging?"
+}

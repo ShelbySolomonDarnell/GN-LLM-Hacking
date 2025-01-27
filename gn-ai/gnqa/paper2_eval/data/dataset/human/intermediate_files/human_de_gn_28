@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2008 -  Study Design and Statistical Issues.pdf",
+    "2009 - Opening Up the Conversation on Genetics.pdf",
+    "2015 - Constraint and divergence of global gene expression in the mammalian embryo.pdf",
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2015 - Constraint and divergence of global gene expression in the mammalian embryo.pdf",
+    "2008 - Genotype-phenotype relationships and the patterning of complex traits as exemplified in the mammalian dentition.pdf",
+    "2007 - Promoting_Student_Scientific_Literacy_of_Molecular Genetics and Genomics.pdf",
+    "2019 - Sexual Dimorphism in the Age of Genomics How, When, Where.pdf",
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2008 - Genotype-phenotype relationships and the patterning of complex traits as exemplified in the mammalian dentition.pdf"
+  ],
+  "extraction_id": [
+    "06bf0605-388a-592c-96ad-3a53bb36362c",
+    "51dbd5e2-fde6-5097-aa05-fcf57d3ca6b1",
+    "261c4af7-f63d-51ac-b164-0d9e7a64bff9",
+    "8a1ce8fa-b5f4-5942-b7b1-14a8a7887710",
+    "261c4af7-f63d-51ac-b164-0d9e7a64bff9",
+    "5aab3e60-b8b0-52ad-b4d3-817cf012cfa5",
+    "67369433-749b-5d6a-b5ef-3f0afe78b767",
+    "e22bb6fb-bec4-5c4c-8690-c96d0b8d13d4",
+    "206b8810-b7c1-5195-a10f-4e291864b77c",
+    "5aab3e60-b8b0-52ad-b4d3-817cf012cfa5"
+  ],
+  "document_id": [
+    "c3bd9cf0-f768-55c4-be94-96590d7acc21",
+    "b62a8f54-c2f5-5bbb-9324-af80f7537167",
+    "3d9005f1-8f71-5d39-8749-4ebeab962cab",
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "3d9005f1-8f71-5d39-8749-4ebeab962cab",
+    "f6e866b8-b233-5862-bfb8-9949d0dabb97",
+    "755f34c4-cc06-5275-a744-16d48162b012",
+    "3f8c03b0-4235-5774-9d26-e43d55c1001b",
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "f6e866b8-b233-5862-bfb8-9949d0dabb97"
+  ],
+  "id": [
+    "chatcmpl-ADZBnwLDpOz1ruhxgc8K7GIp36KrG",
+    "1e151ad5-59d9-598d-97ba-90ba0e64c4cb",
+    "60ad1512-b0c0-59cd-ace4-c146e2c04b52",
+    "a66b8b00-d51c-575b-b6ac-fa445c4ca715",
+    "4472740a-d22d-5bb1-98e3-e91332cbb303",
+    "df4c6108-740d-5bcf-99e6-dbda74f7e41a",
+    "47b9142f-98a3-5a45-8eaa-d327c9cc055d",
+    "8e3fdc2c-0962-5854-83e7-a60ab05cf6de",
+    "0158f264-120f-5942-ad55-ef5fde1f188a",
+    "6c8dfaa1-a96f-5f1c-8b5a-870acfd46f5f",
+    "c3562719-52f3-50de-8e92-82f64e5c5b05"
+  ],
+  "contexts": [
+    "phenomena such as mutations and gene conversion events) occur in relevant meioses  leading up to the formation of the gametes (i.e., egg and sperm) which are combined  during fertilization and the formation of zygotes. Thus, individuals inherit a patch- work of chromosomal segments from maternal and paternal chromosomes.",
+    "the egg and the sperm. Such a process would result in genetic changes that will be copied into every cell of the future adult, including reproductive cells (Stock & Campbell, 2000), opening the door to irreversibly alter the human species. Inevitably, signifi  cant self-disclosure and discussion challenges await families",
+    "a fertilized egg is a complicated process that relies on controlling: which genes are active; whenthese genes activate; and for how long they are active. In broad terms, there are four ways that thiscontrol can be achieved: First, inside the sperm or egg, genes can be marked with small chemical tags that flag these genes",
+    "(Figures 8 and 9). Two gametes (egg and sperm) ultimately  join into a single cell, the zygote, which has the full comple-ment of 23 chromosome pairs restored. If all goes well, the zygote gives rise to a live offspring. The Mendel Laws: Segregation and Independent  Assortment Both of the Mendel laws pertain directly to the process of  meiosis. The first Mendel law, the law of segregation, states  that each parent passes a randomly selected allele for a given",
+    "to be activated (or remain inactive) after fertilization, depending on whether the modification wasmade by the father (in the sperm) or the mother (in the egg); this process is known as imprinting. Second, the mother can alter the gene activity in her offspring via the placenta; this process is known as maternal effect. Third, instructions encoded within the embryos DNA can directly control if, andwhen, a nearby gene becomes activated; this is known as  cis-regulation. Finally, similar instructions",
+    "the subset of that genetic information that is active.  But how does the differentiation process  begin?  The key insight in resolving this conundrum came from fly genetics and was the  realization that the egg is not a homogenous sack of protoplasm.  The maternally-derived genes  active in the fertilized egg are asymmetrically distributed such that at the first cell division each  daughter cell receives a different complement of factors.  Development continues as a",
+    "genes.  An altered gene may be passed on to every cell that develops from it.  The resulting features my help, harm, or have little or no effect on the offsprings success in its environment. (AAAS, pg. 109, 5B:9-12#4 ) 6. Heritable material: The information passed from parents to offspring is coded in DNA molecules (AAAS, pg 108, 5B:9-12#3) 7. Mutagens: Gene mutations can be caused by such things as radiation and chemicals.  When they occur in sex cells, the mutations can be passed onto offspring; if they",
+    "sex chromosome effects. (B)Soon after fertilization, male and female cells have sex-specic transcriptomes, epigenomes, and phenotypes (for example, male embryos grow faster than female embryos). At implantation, lineage determination begins and gene expression differences are reduced. Epigenetic marks, however, are less constrained and some are maintained, affecting gene expression, and phenotype later in development. Once specic lineages are established, differences in",
+    "or father (sperm cell). Each gamete has a set of 23 unpaired chromosomes. Two human gametes (egg and sperm) combine  to create a cell (zygote) that contains the full human genome  of 23 paired chromosomes.Genetic Information Nondiscrimination Act (GINA) US federal legislation that makes it unlawful to discriminate  against individuals on the basis of their genetic profiles in regard to health insurance and employment. These protections  are intended to encourage Americans to take advantage of",
+    "Proponents of the evo-devo view rightly point out that evolution occurs through changes in the  development of traits, which may or may not have changes in DNA as their root cause.  The  processes that produce traits occur during development and involve more than just genes.    All animals begin life as a fertilized egg, a single cell containing mitochondria and other  organelles, and enough maternally derived RNA and proteins to kick start development and"
+  ],
+  "answer": "Once a sperm combines with an egg, the traits passed onto the resulting lifeform are determined by several factors:  1. **Chromosomal Segments**: Individuals inherit a patchwork of chromosomal segments from maternal and paternal chromosomes due to phenomena such as mutations and gene conversion events during meiosis [1].  2. **Mendelian Laws**: The Mendel laws of segregation and independent assortment play a crucial role. The law of segregation states that each parent passes a randomly selected allele for a given trait to their offspring [4].  3. **Gene Activation and Regulation**: The process of trait determination also involves controlling which genes are active, when they activate, and for how long. This control can be achieved through mechanisms such as imprinting, maternal effect, and cis-regulation [3], [5].  4. **Epigenetic Marks**: Epigenetic marks, which are chemical modifications to DNA that do not change the DNA sequence but affect gene expression, also play a role. These marks can be inherited and influence gene expression and phenotype later in development [8].  5. **Heritable Material**: The information passed from parents to offspring is coded in DNA molecules, and any mutations in these genes can be inherited by the offspring [7].  In summary, the combination of chromosomal inheritance, Mendelian genetic laws, gene activation and regulation mechanisms, epigenetic marks, and the heritable DNA material all contribute to how traits are passed onto the resulting lifeform after fertilization.",
+  "question": "Once a sperm combines with an egg, what determines how traits are   passed onto the resulting lifeform?"
+}

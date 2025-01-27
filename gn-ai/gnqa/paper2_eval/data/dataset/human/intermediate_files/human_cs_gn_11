@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2009 - Opening Up the Conversation on Genetics.pdf",
+    "2015 - Constraint and divergence of global gene expression in the mammalian embryo.pdf",
+    "2015 - Constraint and divergence of global gene expression in the mammalian embryo.pdf",
+    "2007 - Promoting_Student_Scientific_Literacy_of_Molecular Genetics and Genomics.pdf",
+    "2019 - Sexual Dimorphism in the Age of Genomics How, When, Where.pdf",
+    "2008 -  Study Design and Statistical Issues.pdf",
+    "2015 - Basic Concepts and Potential Applications of Genetics and Genomics for Cardiovascular and Stroke Clinicians.pdf",
+    "2008 - Genotype-phenotype relationships and the patterning of complex traits as exemplified in the mammalian dentition.pdf",
+    "2019 - The influence of paternal diet on sncRNA-mediated epigenetic.pdf",
+    "2019 - Mother or Father who is in the front line.pdf"
+  ],
+  "extraction_id": [
+    "51dbd5e2-fde6-5097-aa05-fcf57d3ca6b1",
+    "261c4af7-f63d-51ac-b164-0d9e7a64bff9",
+    "261c4af7-f63d-51ac-b164-0d9e7a64bff9",
+    "67369433-749b-5d6a-b5ef-3f0afe78b767",
+    "e22bb6fb-bec4-5c4c-8690-c96d0b8d13d4",
+    "06bf0605-388a-592c-96ad-3a53bb36362c",
+    "8a1ce8fa-b5f4-5942-b7b1-14a8a7887710",
+    "5aab3e60-b8b0-52ad-b4d3-817cf012cfa5",
+    "84335575-34d7-56b6-aa06-5a8ac13d637a",
+    "297793b1-93f9-5626-ac63-6d8675c02d27"
+  ],
+  "document_id": [
+    "b62a8f54-c2f5-5bbb-9324-af80f7537167",
+    "3d9005f1-8f71-5d39-8749-4ebeab962cab",
+    "3d9005f1-8f71-5d39-8749-4ebeab962cab",
+    "755f34c4-cc06-5275-a744-16d48162b012",
+    "3f8c03b0-4235-5774-9d26-e43d55c1001b",
+    "c3bd9cf0-f768-55c4-be94-96590d7acc21",
+    "8610e699-218a-50e6-8d1d-ef689623266f",
+    "f6e866b8-b233-5862-bfb8-9949d0dabb97",
+    "dfcbd6e6-f60d-5eb7-867b-34ec78415e82",
+    "8011b04b-2199-5913-b8da-42c83334d4b7"
+  ],
+  "id": [
+    "chatcmpl-ADZK3Fpc5jWofKuSsq6lJRZP4Zmhy",
+    "60ad1512-b0c0-59cd-ace4-c146e2c04b52",
+    "a66b8b00-d51c-575b-b6ac-fa445c4ca715",
+    "df4c6108-740d-5bcf-99e6-dbda74f7e41a",
+    "8e3fdc2c-0962-5854-83e7-a60ab05cf6de",
+    "0158f264-120f-5942-ad55-ef5fde1f188a",
+    "1e151ad5-59d9-598d-97ba-90ba0e64c4cb",
+    "4472740a-d22d-5bb1-98e3-e91332cbb303",
+    "47b9142f-98a3-5a45-8eaa-d327c9cc055d",
+    "be93ee68-72ae-5015-a3f0-19e7bf24827a",
+    "53364cbf-8069-50ec-b008-5d7f7a8ea1b8"
+  ],
+  "contexts": [
+    "the egg and the sperm. Such a process would result in genetic changes that will be copied into every cell of the future adult, including reproductive cells (Stock & Campbell, 2000), opening the door to irreversibly alter the human species. Inevitably, signifi  cant self-disclosure and discussion challenges await families",
+    "a fertilized egg is a complicated process that relies on controlling: which genes are active; whenthese genes activate; and for how long they are active. In broad terms, there are four ways that thiscontrol can be achieved: First, inside the sperm or egg, genes can be marked with small chemical tags that flag these genes",
+    "to be activated (or remain inactive) after fertilization, depending on whether the modification wasmade by the father (in the sperm) or the mother (in the egg); this process is known as imprinting. Second, the mother can alter the gene activity in her offspring via the placenta; this process is known as maternal effect. Third, instructions encoded within the embryos DNA can directly control if, andwhen, a nearby gene becomes activated; this is known as  cis-regulation. Finally, similar instructions",
+    "genes.  An altered gene may be passed on to every cell that develops from it.  The resulting features my help, harm, or have little or no effect on the offsprings success in its environment. (AAAS, pg. 109, 5B:9-12#4 ) 6. Heritable material: The information passed from parents to offspring is coded in DNA molecules (AAAS, pg 108, 5B:9-12#3) 7. Mutagens: Gene mutations can be caused by such things as radiation and chemicals.  When they occur in sex cells, the mutations can be passed onto offspring; if they",
+    "sex chromosome effects. (B)Soon after fertilization, male and female cells have sex-specic transcriptomes, epigenomes, and phenotypes (for example, male embryos grow faster than female embryos). At implantation, lineage determination begins and gene expression differences are reduced. Epigenetic marks, however, are less constrained and some are maintained, affecting gene expression, and phenotype later in development. Once specic lineages are established, differences in",
+    "phenomena such as mutations and gene conversion events) occur in relevant meioses  leading up to the formation of the gametes (i.e., egg and sperm) which are combined  during fertilization and the formation of zygotes. Thus, individuals inherit a patch- work of chromosomal segments from maternal and paternal chromosomes.",
+    "(Figures 8 and 9). Two gametes (egg and sperm) ultimately  join into a single cell, the zygote, which has the full comple-ment of 23 chromosome pairs restored. If all goes well, the zygote gives rise to a live offspring. The Mendel Laws: Segregation and Independent  Assortment Both of the Mendel laws pertain directly to the process of  meiosis. The first Mendel law, the law of segregation, states  that each parent passes a randomly selected allele for a given",
+    "the subset of that genetic information that is active.  But how does the differentiation process  begin?  The key insight in resolving this conundrum came from fly genetics and was the  realization that the egg is not a homogenous sack of protoplasm.  The maternally-derived genes  active in the fertilized egg are asymmetrically distributed such that at the first cell division each  daughter cell receives a different complement of factors.  Development continues as a",
+    "spermatozoa: more than the sum of its parts? DNA, histones, pro - tamines and epigenetics. Reproduction 139:287301 Nilsson EE, Sadler-Riggleman I, Skinner MK (2018) Environmentally  induced epigenetic transgenerational inheritance of disease. Envi-ron Epigenet 4:dvy016Pembrey M, Saffery R, Bygren LO, Network in Epigenetic Epide-",
+    "mediated through the transmission of epigenetic  information through the paternal sperm cells  [6,80,81].  4.1. Persistence of Maternal Exposure to A dverse Environmental Conditions along Generations  In some cases, developmentally programmed traits may simply be the result of persistent or  replicated exposure during critical periods of deve lopment, generation after generation. It has been  suggested that the history of seve re socio-political disruptions and economic disadvantage suffered"
+  ],
+  "answer": "Once a sperm combines with an egg, the traits passed on to the resulting lifeform are determined by several factors:  1. **Genetic Information**: The fertilized egg, or zygote, contains a full complement of 23 chromosome pairs, which includes a mix of genetic material from both the maternal and paternal chromosomes [7]. This genetic information is coded in DNA molecules and is heritable [4].  2. **Gene Activation and Regulation**: The process of trait determination involves controlling which genes are active, when they activate, and for how long they remain active. This control can be achieved through several mechanisms:    - **Imprinting**: Genes can be marked with small chemical tags that flag them to be activated or remain inactive, depending on whether the modification was made by the father (in the sperm) or the mother (in the egg) [2], [3].    - **Maternal Effect**: The mother can alter gene activity in her offspring via the placenta [3].    - **Cis-Regulation**: Instructions encoded within the embryo's DNA can directly control if and when a nearby gene becomes activated [3].  3. **Epigenetic Marks**: Soon after fertilization, male and female cells have sex-specific transcriptomes, epigenomes, and phenotypes. Epigenetic marks, which are less constrained, can be maintained and affect gene expression and phenotype later in development [5].  4. **Mutations and Environmental Factors**: Gene mutations caused by factors such as radiation and chemicals can also be passed on to offspring if they occur in sex cells [4]. Additionally, environmental conditions experienced by the parents can influence the traits of the offspring through epigenetic mechanisms [10].  These combined factors ensure that the resulting lifeform inherits a unique set of traits from both parents, influenced by genetic, epigenetic, and environmental factors.",
+  "question": "Once a sperm combines with an egg, what determines how traits are passed on to the resulting lifeform?"
+}

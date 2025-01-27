@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2015 - Association between circulating 25-hydroxyvitamin D.pdf",
+    "2008 - Inflammation, Insulin Resistance and Diabetes.pdf",
+    "2019 - Adiponectin Levels and Risk of Type 2 Diabetes.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2001 - A Gene Conferring Susceptibility to Type 2 Diabetes.pdf",
+    "2004 - Diabetes Genes a.pdf",
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2005  - Animal models of diabetes mellitus.pdf",
+    "2008 - Inflammation, Insulin Resistance and Diabetes.pdf",
+    "2006 - Analysis of 14 Candidate Genes for Diabetic Nephropathy.pdf"
+  ],
+  "extraction_id": [
+    "bea401d8-c665-5910-b3f6-0974617dc32f",
+    "5f281214-ff2f-5f01-ad99-9faa2edf5751",
+    "2b483dbc-bc68-5065-b650-811216009db5",
+    "0b7b0898-2ca5-59aa-aa53-1ab187fe3dd0",
+    "57ab3edd-7ed7-568a-9e47-b351e2cbf987",
+    "1a24f9ed-c710-589a-a7f6-7ec46b8cf6a8",
+    "609eb8ef-0827-567c-98ed-51b1945e5c9d",
+    "3e91ce60-4e0b-527d-b8c7-147d5717e17a",
+    "ea677f19-62e2-5f59-b995-babba0066f5f",
+    "dd18cc20-78a9-5589-b605-d5bf37628258"
+  ],
+  "document_id": [
+    "3affa62b-11b1-5068-b699-1799d5566ea3",
+    "71615f74-43a6-5f1c-9300-db97f10b212c",
+    "584ea813-0169-5c1e-90f2-4abfbcc0b4fa",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "8c07c8b6-4192-56cf-9332-715ff7085577",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa",
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "2fd381ac-2898-5a8c-af93-bcc86e7dec14",
+    "71615f74-43a6-5f1c-9300-db97f10b212c",
+    "6512e711-d879-50b3-96e7-2e97339ebad5"
+  ],
+  "id": [
+    "chatcmpl-ADYnFB30HdQXCs4mqZmx2zUlQo7uq",
+    "ad3e5060-4495-5a6f-9bb3-0f372359d852",
+    "c1c877eb-2dfe-586b-bde8-99b2c0ae8515",
+    "50aa0f0c-1095-5660-bde3-f6320c88506d",
+    "0dd93045-9b04-53eb-9d51-1dcc1c9c975a",
+    "a9ade0cc-6bd0-57d7-ab72-4a0b6735e455",
+    "8e3bbcea-6f25-57c4-86b8-845b1cd0fc02",
+    "ee0041e3-b9a3-5a97-9761-55208d06bb2d",
+    "e35ff76b-92a1-51fa-b28f-d9c90a81f2fd",
+    "82404153-20f8-53e5-92a9-5cf0818d3c4d",
+    "b9e891e3-eba8-5a00-86ce-55d5d144361d"
+  ],
+  "contexts": [
+    "confounding, which is plausible in observational studies of incident type 2 diabetes. Measurements of confounders (eg, physical activity) are susceptible to errors and are not adequately controlled for in epidemiological analyses. 5  Although results from clinical trials6,7 have shown no e ect of vitamin D supplementation on the incidence of  type 2 diabetes, these   ndings require cautious  interpretation because of issues with doses, combination treatment with calcium, compliance, and generalisability. 3",
+    "common (confounding factors) that are the real causes of diabetes. In this study, the researchers use Mendelian randomization to examine whether increased blood CRP causes diabetes. Some variants of CRP (the gene that encodes CRP) increase the amount of CRP in the blood. Because these variants are inherited randomly, there is no likelihood ofconfounding factors, and an association between these variants and the development of insulin resistance and diabetes indicates, therefore, that",
+    "residual confounding. As shown inTable 2, many of the included studiesadjusted for a wide range of potentialconfounders, including demographicand lifestyle factors. The strength of theadjusted RRs for adiponectin levels anddiabetes risk and the consistency of as-sociations across diverse populations re-duce the likelihood that residual con-founding by these variables can explainthe findings. Another issue is whetheradiponectin has a causal effect on dia-betes or is only a surrogate marker forother",
+    "diabetes are related to impaired glucose counterregulation and  hypoglycemia unawareness, one should also keep in mind that  hypoglycemia can be multifactorial and be the result of several unrelated  diseases. These include liver disease, malnutrition, sepsis, burns, total  parenteral nutrition, malignancy and administration of certain medications  known to reduce plasma glucose concentrations (Table 1).27  In principle, the same risk factors for hypoglycemia apply to",
+    "exists in the overall sample. In the case of type 2 diabetes,one would ideally stratify on the basis of insulin resistanceand/or severity of insulin secretion defect. However, con-founding environmental effects, including varying durationof disease, differing access to health care, heterogeneity inprescription, and variation in adherence to treatmentregimes, make inferences about insulin action in diabeticpatients problematic, especially inferences based solely onoral glucose tolerance test (OGTT) data",
+    "of diabetes remains one of the great challenges in human genetics.  Diabetes is a result of complex interactions between genetic and  non-genetic (including environmental) factors. Although diabetes and its  related traits have been shown to cluster within families, their .transmission  does not follow a Mendelian fashion, except for some rare syndromes such  as MODY. Diabetes could be the result of few common variants with a  relatively large effect, such as HLA alleles at the MHC locus and VNTR",
+    "predisposing to diabetes through effects on insulin sensitivity, however, may be more dif  cult to track down because of strong",
+    "is still unclear. Genetic studies in both animalsand humans are complex, given the many susceptibility andprotective loci that contribute to the overall risk of diabetes",
+    "adjustment for adiposity and other confounding factors [4 10]. Preventing or delaying onset of diabetes and its compli- cations is an important therapeutic aim, and there is interest in inammatory effectors including CRP as drug targets [11,12]. It is therefore highly desirable to establish which mediators in the inammatory cascade are causal for diabetes. Mendelian randomization involves comparison of pheno- type and genotype effects in observational studies [13]. If the",
+    "adjusting for sex, diabetes duration, HbA1c, and smoking, assuming either additive or dominant effects of the polymorphisms.N. VIONNET AND ASSOCIATES DIABETES, VOL. 55, NOVEMBER 2006 3169Downloaded from http://diabetesjournals.org/diabetes/article-pdf/55/11/3166/649912/zdb01106003166.pdf by Kenya Institution user on 14 July 2023"
+  ],
+  "answer": "Confounding factors in diabetes are variables that can influence both the exposure and the outcome, potentially leading to misleading associations. Some of the confounding factors in diabetes include:  1. **Physical Activity**: Errors in measuring physical activity can lead to inadequate control of this confounder in epidemiological analyses [1]. 2. **Demographic and Lifestyle Factors**: These include a wide range of variables such as age, sex, socioeconomic status, and lifestyle habits like diet and exercise, which can influence diabetes risk [3]. 3. **Environmental Effects**: These include varying duration of disease, differing access to healthcare, heterogeneity in prescription, and variation in adherence to treatment regimes [5]. 4. **Adiposity**: Adjusting for adiposity and other confounding factors is crucial in studies examining the onset and complications of diabetes [9].  These factors need to be carefully controlled for in studies to ensure accurate and reliable results.",
+  "question": "what are confounding factors in diabetes?"
+}

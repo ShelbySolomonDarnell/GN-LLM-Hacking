@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2021 - Epigenetics of Aging and Aging-Associated Diseases.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2014 - Diabetic nephropathy\u2014emerging epigenetic mechanisms.pdf",
+    "2013 - Epigenetic Modifications in the Pathogenesis of Diabetic Nephropathy.pdf",
+    "2016  - Epigenetic Mechanisms in Diabetic Kidney Disease.pdf",
+    "2016  - Epigenetic Mechanisms in Diabetic Kidney Disease.pdf",
+    "2016 - Epigenomic profiling reveals an association betweenpersistence of DNA methylation and metabolicmemory in the DCCTEDIC type 1 diabetes cohor.pdf",
+    "2015 - Epigenetic mechanisms in diabetic complications and metabolic memory.pdf"
+  ],
+  "extraction_id": [
+    "77eb6a3d-2e3b-5304-873f-4fe14ec290d1",
+    "21de4c95-4171-52bb-a867-2df5336c3c71",
+    "3d7cb780-5f0a-5500-8176-4c2055cac9dc",
+    "77eb6a3d-2e3b-5304-873f-4fe14ec290d1",
+    "cbbe696b-8541-537a-ac5f-77b82cdb8201",
+    "7680731d-0b98-5f45-85f9-d06883504dd1",
+    "767d65c7-b99d-5427-8f5a-4afa10669e11",
+    "7a924f08-78ef-528a-8f9e-7bc12b004ff2",
+    "745c11f0-789f-5f0a-9f19-69af42a19c75",
+    "44d96546-84c3-51f1-85f9-22790a91d105"
+  ],
+  "document_id": [
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "70945353-4808-539a-80f9-5632c27913e5",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "be05127e-1be8-5573-b571-51a11c3b2be2",
+    "9cffb997-a205-5f72-89a6-945df5b9af28",
+    "6f773bda-0b8f-5da2-a9b5-e6c013d75050",
+    "6f773bda-0b8f-5da2-a9b5-e6c013d75050",
+    "4b44425c-00c2-504f-be3c-34c002951cc2",
+    "470f1f94-792d-5273-a88f-7e06084951c5"
+  ],
+  "id": [
+    "chatcmpl-AIHIljZhr1AUuC7qfsdHZaKkRKz2A",
+    "eb133825-7500-5160-b39a-298961323f9c",
+    "a97f140f-63b1-5963-9c38-d90f59f58ced",
+    "41899c3d-64db-556a-882a-4e39b964c6d5",
+    "6f647f65-0c70-5abf-8944-e2b1ade8ee1d",
+    "883de652-2a30-5587-89bb-474facc861fe",
+    "796ed77e-4539-543b-a392-5736392f93ba",
+    "3f3fb648-0a87-5d2b-82c8-da1f3caf91b0",
+    "aaeb4ad0-7848-554e-8ec1-2b5a094d3112",
+    "c51c94d1-c182-5e77-8a14-6af868d66ee1",
+    "1c0b9205-340f-568f-990f-785c66154732"
+  ],
+  "contexts": [
+    "diabetes due to epigenetic silencing of Pdx1, a key transcription factor that regulates insulin gene 301  expression and beta cell differentiation. Both hi stone modifications a nd DNA methylation were 302  implicated (111). In another study, it was shown th at, in diabetic islets , there was increased DNA 303  methylation of the promoter of PPAR-gamma co-activator 1  gene ( PPARGC1A ), a factor that 304  plays a key role in regulating mitochondrial ge nes and in the modulation of diabetes (87). 305",
+    "altered DNA methylation (DNA-me) at  various genes in target cells  all of which over time can 1009  result in changes to the expr ession patterns of inflammatory, sclerotic and other pathological 1010  genes and the ultimate developm ent of diabetic complications. 1011   1012  Figure 2: Model for epigenetic regulation of pa thological gene expressi on in diabetes via 1013  changes in chromatin histone modifications. Post translational modifications on the N- 1014",
+    "Dependent Demethylation of Regulatory Elements Correlates with Chromatin State and Improved Cell Function. Cell Metab. 2015 ,22, 619632. [CrossRef] 228. Zhang, H.; Pollin, T.I. Epigenetics Variation and Pathogenesis in Diabetes. Curr. Diab. Rep. 2018 ,18, 121. [CrossRef] 229. Miao, F.; Chen, Z.; Zhang, L.; Liu, Z.; Wu, X.; Yuan, Y.-C.; Natarajan, R. Proles of epigenetic histone post-translational modications at type 1 diabetes susceptible genes. J. Biol. Chem. 2012 ,287, 1633516345. [CrossRef]",
+    "Epigenetic Mechanisms in Diabetic Complications     14  DNA methylation at prom oter CpG islands has been associ ated with gene repression and 292  is a well studied epigenetic mark in the c ontext of tumor suppressor genes and cancer (129). 293  However, much less is known a bout DNA methylation in diabetes . A recent report has shown 294  that the insulin promoter DNA was methylated in mouse embryonic stem cells and only becomes 295",
+    "Epigenetics: deciphering its role in diabetes and  its chronic complications. Clin. Exp. Pharmacol.  Physiol.  38, 401409 (2011). 61. Cooper, M.E. & El-Osta, A. Epigenetics:  mechanisms and implications for diabetic complications. Circ. Res.  107, 14031413  (2010). 62. Miao, F. etal. Profiles of epigenetic histone post- translational modifications at type1 diabetes  susceptible genes. J.Biol. Chem.  287,   1633516345 (2012). 63. Sapienza, C. etal. DNA methylation profiling",
+    "Emerging evidence shows that epigenetic mecha-nisms in chromatin including histone PTMs, DNAme, and miRNAs also might play key roles in the etiology of diabetes and DN. The persistence ofepigenetic modi cations triggered by diabetic stim- uli could be one of the key mechanisms underlying metabolic memory. A role for several HMTs and thecorresponding histone PTMs has been shown in the expression of brotic and in ammatory genes asso-",
+    "inflammation-related epigenetic modifications: focus on DNA methylation. Exerc Immunol Rev. 2015;21:26 41. 17. Milagro FI, Mansego ML, De Miguel C, Martinez JA. Dietary factors, epigenetic modifications and obesity outcomes: progresses and perspectives. Mol Aspects Med. 2013;34(4):782 812. 18. Caramori ML, Kim Y , Goldfine AB, et al. Differential gene expres- sion in diabetic nephropathy in individuals with type 1 diabetes. J Clin Endocrinol Metab. 2015;100(6):E876 82.",
+    "elevated glucose level is not the only factor that leads to mal- adaptive epigenetic modifications in diabetes. DNA methyla- tion can also be influenced by reactive oxygen species, both directly through oxidative m odification DNA preventing methylation and indirectly through its effects on methylation writing/erasing enzymes [ 15]. Many other factors including hypoxia, inflammation, cytokines and growth factors, drugs, nutrition and even physical activity can modify epigenetic",
+    "1306 1313. 31. Miao F, et al.; DCCT/EDIC Research Group (2014) Evaluating the role of epigenetic histone modifications in the metabolic memory of type 1 diabetes. Diabetes 63(5): 1748 1762. 32. Reddy MA, Tak Park J, Natarajan R (2013) Epigenetic modifications in the patho- genesis of diabetic nephropathy. Semin Nephrol 33(4):341 353. 33. Bell CG, et al. (2010) Genome-wide DNA methylation analysis for diabetic nephrop- athy in type 1 diabetes mellitus. BMC Med Genomics 3:33.",
+    "ing that environment and diet may influence epigenetic mod-ifications that predispose individuals to diabetes [ 46]. Aber- rant DNAme has also been reported in the reduced expression of genes involved in diabetes and metabolism, and DNAme variations have also been noted near diabetes susceptibility genes and enhancers [ 15,47]. Genomic DNA from diabetic patients with nephropa- thy relative to those without displayed differential meth- ylation at several genes, including UNC13B , which had"
+  ],
+  "answer": "Epigenetic modifications, such as DNA methylation and histone modification, play significant roles in influencing the expression of diabetes-related genes.   1. **DNA Methylation**: This modification can lead to the silencing of key genes involved in diabetes. For example, increased DNA methylation of the promoter of the PPARGC1A gene, which is crucial for regulating mitochondrial genes, has been observed in diabetic islets. This methylation can modulate diabetes by altering gene expression [1]. Additionally, altered DNA methylation patterns can change the expression of inflammatory and pathological genes, contributing to the development of diabetic complications [2].  2. **Histone Modifications**: These modifications can affect chromatin structure and gene expression. In the context of diabetes, histone post-translational modifications (PTMs) have been associated with the regulation of genes susceptible to type 1 diabetes [3]. Changes in chromatin histone modifications can regulate pathological gene expression in diabetes, influencing the disease's progression [2].  Overall, both DNA methylation and histone modifications can lead to the repression or activation of genes that are critical in the pathogenesis and progression of diabetes, affecting insulin production, inflammation, and other metabolic processes.",
+  "question": "How do epigenetic modifications, such as DNA methylation and histone modification, influence the expression of diabetes-related genes?"
+}

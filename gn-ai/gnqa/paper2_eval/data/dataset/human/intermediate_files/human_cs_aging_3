@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Protecting the Aging Genome.pdf",
+    "2013 - Pathways, Networks and Systems Medicine Conferences.pdf",
+    "2012 - Pleiotropic Cellular Functions of PARP1 in Longevity.pdf",
+    "2008 - Biotools for Determining the Genetics of Susceptibility to Infectious Diseases.pdf",
+    "2008 - (Infectious Disease) Karl A. Western (auth.), Vassil St. Georgiev PhD, Karl A. Western MD, John J. McGowan PhD (eds.) - National Institute of Allergy and Infectious Diseases, NIH_ Frontiers in Researc (3).pdf",
+    "1999 - The NOD mouse model of type 1 diabetes.pdf",
+    "2012 - Genome-Wide Analysis of Yeast Aging.pdf",
+    "2005 -Liang- GENETIC REGULATION OF HEMATOPOIETIC STEM CELL NUMBERS IN MICE.pdf",
+    "2005 - GENETIC REGULATION OF HEMATOPOIETIC STEM CELL NUMBERS IN MICE.pdf",
+    "2006 - Molecular pathogenesis of thyroid cancer the significance.pdf"
+  ],
+  "extraction_id": [
+    "58c6c8e0-734b-539d-8e50-fd3cb02f650e",
+    "ee9fd19c-ae3c-5da6-9fcd-264bafc68b55",
+    "254dda83-4350-5b57-b6e4-638addaf7ce3",
+    "30fc6495-2cc4-5c3a-9d49-555478243db1",
+    "630a9f0d-d04f-581b-a9a0-3d2de4fff6fe",
+    "4c08454a-1c63-52e3-b382-0a33cd46b523",
+    "5436985c-1a11-544d-b935-fe68ee75a956",
+    "20ef68d8-5bd7-5ed1-937f-4be14c6ce1b0",
+    "70332eb3-8348-53b6-abd6-724515f363db",
+    "48a746ad-a07a-5c53-89dc-3c2768900f0d"
+  ],
+  "document_id": [
+    "bb774030-2570-5596-b2ab-b8f57ff81086",
+    "b50a9732-7d01-5d4d-8f33-a9d43dbc7df3",
+    "e67324c0-474b-5280-8cbc-3778c6c0e5f0",
+    "fcbbb3ce-6524-50e3-9f8d-c191dc551231",
+    "4db8c752-c8e2-5f6d-a091-dc4f1d0c48bc",
+    "cc139813-6771-5434-b948-381291c86509",
+    "cf24db9a-e013-5780-8b0f-369c56143f29",
+    "6f3d464d-8df0-560e-b579-942810e1107c",
+    "815a8b4a-6902-5bb9-87e0-563e1ba7a38a",
+    "d05e3aba-f8c1-5c5c-afff-679fa14b9a16"
+  ],
+  "id": [
+    "chatcmpl-ADZVPjiJlVpPgOZJvVtmrRMtG8Eg7",
+    "dfd32439-5b44-5e43-a85b-6dd58810b9ed",
+    "c02a78d4-b932-5d71-b183-8b1965fef470",
+    "fdfc9b00-1bce-5f6b-b20f-c516c7b5448a",
+    "2258748b-d21f-577b-a1f8-0ba4f61b6e30",
+    "de267316-5a20-5a54-b22f-30c8e0bf426e",
+    "31910427-870d-5c8c-846f-d355211c632a",
+    "ee2ce54b-850a-5d36-8781-f8b23585f97d",
+    "c48f36fa-a9c7-5b9c-a7d1-26850026f3a3",
+    "3a15c325-3b6e-54ff-a58a-0e61631ed073",
+    "fe4906aa-37b1-5514-962c-1e8dc5b2fb13"
+  ],
+  "contexts": [
+    "Cell Death A form of programmed cell death, apoptosis is necessary for normal cell turnover and is essential to a plethora of other biological processes. Apoptosis can be executed via Bcl-2 activation of caspases, via signals from the death receptor on the plasma membrane, or via induction by granzyme Bsecreted from cytotoxic T cells (Tc cells) [ 35]. Endonucleases and proteases are activated by active caspases, eventually leading to the death of the cell. With age, however, apoptotic activity changes.",
+    "(during development and for maintenance of homeostasis) in multi -cellular  organism is apoptosis, which is character ized by a  sequence of well -defined  events resulting in cell destruction. Dysregulation of apoptosis is responsible for  many physiological health problems and diseases; therefore, it is necessary to  understand  the responsible signaling pathways and complex interplay of  cellularprocesses. Results:   A combined mathematical model of apoptosis",
+    "is, apoptosis and necrosis. Apoptosis is considered as thedefault pathway, where cell death occurs in a controlledmanner resulting in the elimination of cells by macrophageswithout secondary damage of the surrounding cells. In con-trast, necrosis is considered an uncontrolled process whichleads to disruption of cells promoting tissue inammation[187]. Several transition states between the two pathways",
+    "tion of cells undergoing apoptosis.   Immunol Today   14:  131  136.       82.     Platt   N,     Silva   RP,   da    Gordon   S    (1998)   Recognizing death: the  phagocytosis of apoptotic cells.   Trends Cell Biol   8:  365  372.       83.     Giles   KM,     Hart   SP,     Haslett   C,     Rossi   AG,     Dransfield   I    (2000)    An appetite for apoptotic cells? Controversies and challenges.    Br J Haematol   109:  1  12.",
+    "tion of cells undergoing apoptosis.   Immunol Today   14:  131  136.       82.     Platt   N,     Silva   RP,   da    Gordon   S    (1998)   Recognizing death: the  phagocytosis of apoptotic cells.   Trends Cell Biol   8:  365  372.       83.     Giles   KM,     Hart   SP,     Haslett   C,     Rossi   AG,     Dransfield   I    (2000)    An appetite for apoptotic cells? Controversies and challenges.    Br J Haematol   109:  1  12.",
+    "the induc-tion of apoptosis.",
+    "to cancer , b ut probably not rele v ant to the i ntrinsic aging process i n yeast. Apoptosis Cell suicide, or apoptosis, i s a well-studied biological phenomenon in multicellular or g anisms t hat allo ws specic cells to be remo v e d during t he de v e lopment of com- ple x tissues, o r potentially dangerous damaged cells to be destro yed for t he benetof the w hole o r g anism. T he lack of an apparent e v olutionary benet for s uch a p ro-",
+    "15Apoptosis is caused by the activation of the caspase cascade, which isinitiated by two signaling routes (stress-induced death and death-domainreceptor-induced death) (Domen 2001). This process can be prevented by anti-apoptotic molecules, such as Bcl-2 (Domen and Weissman 2000). Directevidence for the involvement of apoptosis in HSC number regulation came fromthe findings that overexpression of the anti-apoptotic gene bcl-2 led to increasednumbers of Thy-1.1low, Sca-1+, c-kit+, Lin- cells, a population",
+    "15Apoptosis is caused by the activation of the caspase cascade, which isinitiated by two signaling routes (stress-induced death and death-domainreceptor-induced death) (Domen 2001). This process can be prevented by anti-apoptotic molecules, such as Bcl-2 (Domen and Weissman 2000). Directevidence for the involvement of apoptosis in HSC number regulation came fromthe findings that overexpression of the anti-apoptotic gene bcl-2 led to increasednumbers of Thy-1.1low, Sca-1+, c-kit+, Lin- cells, a population",
+    "Apoptosis modulating genesApopotosis or programmed cell death is associated withalterations in cell morphology, particularly the nucleus, withendonucleatytic cleavage of DNA into nucleosomal lengthfragments.Apoptosis may resultfrom withdrawalofgrowth signals.Fas, a transmembrane protein of the nerve growth factor/tumor necrosis factor receptor family signals apoptotic de-ath signals apoptotic death in some cell types. Fas but notbel-2 gene expression is negatively regulated by TSH (Ka-wakami et al., 1996),"
+  ],
+  "answer": "Apoptosis is a form of programmed cell death that is essential for normal cell turnover and various biological processes [1]. It is characterized by a sequence of well-defined events leading to cell destruction [2]. Apoptosis occurs in a controlled manner, resulting in the elimination of cells by macrophages without causing secondary damage to surrounding cells [3]. This process can be initiated through several pathways, including Bcl-2 activation of caspases, signals from death receptors on the plasma membrane, or induction by granzyme B secreted from cytotoxic T cells [1].",
+  "question": "What is apoptosis?"
+}

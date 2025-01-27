@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2016 - The Genomics of Type 1 Diabetes.pdf",
+    "2015 - Quantitative and logic modelling of molecular and gene networks.pdf",
+    "2016 - The Genomics of Type 1 Diabetes.pdf",
+    "2013 - Genetic and Genomic Approaches to Understanding Macrophage Identity and Function.pdf",
+    "2016 - The Genomics of Type 1 Diabetes.pdf",
+    "2010 - The Role of Epigenetics in the Pathology of Diabetic Complications.pdf",
+    "2018 - Molecular Brain Adaptations to Ethanol_ Role of Glycogen Synthase (2).pdf",
+    "2011 - The age of the \u201come\u201d Genome, transcriptome and proteome data set collection and analysis.pdf",
+    "2009 - Detection and interpretation of expression quantitative trait loci (eQTL).pdf",
+    "2005 - Part I Previous Research Track Record.pdf"
+  ],
+  "extraction_id": [
+    "24a08eeb-d72d-5ff6-97e3-d5f07795db7a",
+    "2ba86c45-9754-5300-8052-8b9c2765ecbc",
+    "cc42c6bf-d890-5a83-9598-b1a518f097b1",
+    "4c2afa3b-cf31-58ba-8ae8-2bf609f25dbc",
+    "24a08eeb-d72d-5ff6-97e3-d5f07795db7a",
+    "5c84ddde-f0cc-51fc-927c-0d5a11de0c07",
+    "ce57e949-0eeb-575a-9d67-5e21d08a47a2",
+    "772a0ef3-9be9-5b05-ad99-01c5c06347a0",
+    "a744cab4-ff8a-59e2-a789-ef7911c0a9ea",
+    "0853c5ab-3d98-565c-ba1f-50e5bd91d14c"
+  ],
+  "document_id": [
+    "4933cdc2-7d36-5181-87c9-63b58498839f",
+    "8db6a373-be03-5653-beaf-1b2ae1d98c31",
+    "4933cdc2-7d36-5181-87c9-63b58498839f",
+    "1526d201-2f4e-5e6c-b2c8-8c825e741401",
+    "4933cdc2-7d36-5181-87c9-63b58498839f",
+    "766edfd5-4756-51bf-b636-c94b041d030c",
+    "cc2690a9-5a87-5f09-87d5-115a6a6b8349",
+    "ca99ed69-ee09-5717-95ed-c26eefb5e42d",
+    "ef974b09-4ea2-5382-85e5-c2169f440fda",
+    "1875d68b-adeb-5f91-8a67-91d881906238"
+  ],
+  "id": [
+    "chatcmpl-ADZCAQL2r34gNZf3z3cSmtRoVHASI",
+    "1b7834f6-6ffa-5ebe-8b53-e590f43a13e0",
+    "93732536-96d1-5b06-a73b-06387cdfc139",
+    "4c7d9d92-5685-5560-8ec3-5c0df73a7a4f",
+    "6baacb55-1480-592e-9b6b-87c3e3980e19",
+    "8bb2457a-69e7-5e4a-9cc3-f51b8db47a89",
+    "8ddad342-ceca-56a1-afd6-6a3218436c1c",
+    "49fe2fc3-a95f-5de1-a261-bf596e48e6ff",
+    "0423eecb-319c-598b-a1d6-2ca3ecee84ce",
+    "b46d80d5-c968-5541-b658-d9a2dcd86e37",
+    "b9320635-76da-5a0c-a1fc-ea3a11cc7068"
+  ],
+  "contexts": [
+    "al., 2012 ; Hindhorff, 2009; Barrett et al ., 2007 ). Recent efforts by the Encyclopedia of DNA  elements (ENCODE) consortium, to characterise the human genome, have revealed that most  of the non -coding part of the genome is not inactive but is associated with  different forms of  regulatory activity (ENCODE, 2012 ; Thurman, 2012 ). One important regulatory process that  takes place within the genome is the (in-) activation  of gene expression through the interaction",
+    "network of transcriptional regulators. Nature 403,  335338 (2000). 18. Gardner,T ., Cantor,C. & Collins,J. Construction of a  genetic toggle switch in Escherichia coli. Nature 403,  339342 (2000). 19. Kauffman,S.A. Metabolic stability and epigenesis in  randomly constructed genetic nets. J.Theor. Biol. 22,  437467 (1969). 20. Thomas,R. Boolean formalization of genetic control  circuits. J.Theor. Biol. 42, 563585 (1973). REVIEWS NATURE REVIEWS | GENETICS   ADV ANCE ONLINE PUBLICATION | 11",
+    "25   2.8 REGULATION OF GENE EXPRESSION     Apart  from the protein coding sequences, there are other biologically relevant nucleic acid  sequences that play other important roles in the genome such as regulation of gene expression  and maintenance of the chromatin structure (Pique -Regis  et al., 2011). Regu lation of gene  expression involves  a process that leads to increase or decrease in the production of specific",
+    "expression is regulated at many levels, but gene transcription  represents an essential and, in many cases, dominant point of control. Protein-coding genes are transcribed from promoters,  which represent genomic regions that recruit basal transcrip- tion factors and RNA polymerase II. Physiological levels of gene expression and responses to internal and external signals require the actions of additional sequence-specific transcrip- tion factors that recruit nucleosome-remodeling complexes,",
+    "regulatory elements  and variants thereof that may affect gene expression particularly through  the binding of transcription factors (TFs) to DNA.   The suggestion that the  genetic determinants of complex diseases are perh aps better sought in  problems associated with gene regulation is due to findings that many of the disease associated  variants occur in non -coding DNA sequences within the genome  (ENCODE, 2012; Schuab et",
+    "through multiple cell divisions at the transcriptio nal and epigenetic level need to be more 204  carefully examined and have evolved as an exciting area of research. 205   206  Epigenetics and transcriptional regulation  207  Regulation of gene expression relies on the ac cessibility of DNA to various transcription 208  factors, co-activators/co-repressors, and the transcriptional machinery. DNA is first wrapped 209",
+    "post-translationally, translationally, transcriptionally, or epigenetically  (Lempradl   et al, 2015; Zong  et al, 2017) . It seems likely that these different layers of  regulation can operate cooperatively on different time- scales . More permanent   adaptations might be expected following persistent regulation on a more transient  levelfor example,  lowered transcriptional activity of a gene might follow  a  period of low functional  activity of its protein. Elucidating the means of such",
+    "important  component in the regulation of gene expression with between  10  and  20%  of  the  transcriptome  being  regulated  by  DNA variation. 2. Technologies The  study  of  DNA  and  its  downstream  effects  is  very  much a  technology  driven  process.  Most  of  the  rst  screens  looking  at DNA  changes in disease involved looking at segregation in fam- ilies  because  there  were  no  reasonable  technologies  at  the  time",
+    "the cytosine and adenine nucleotides[31]. In addition, the c hromosomal structure of DNA can be decondensated by histone acetylatio n (trans- fer of acetyl groups to DNA organizational elements), makin g it more accessible for transcription[87]. The transcriptional ex pression of genes is further regulated by genetic variants themselves[7]. Fi nally, proteins form a complex network of interactions[265] that, in turn, a lso regulate gene expression[331].",
+    "eterogeneity and common, small effect genetic variants will be assessed.  h  D (c) Regulatory Signals:  Co-regulation of genes via shared transcriptional networks provides the basis for context-dependent gene  expression, an understanding of which is vital to the understanding of disease etiology and disease progression. In  particular, transcription factors (TF) and their transcription factor binding sites (TFBS) provide a key component in the understanding of how co-regulation is achieved."
+  ],
+  "answer": "Not all genetic regulation is done solely through DNA elements like promoters, repressors, and activators. There are other forms of genetic regulation that play crucial roles in controlling gene expression. Here are some key points to consider:  1. **Non-Coding DNA**: Recent research has shown that much of the non-coding part of the genome, which does not code for proteins, is still active in regulating gene expression. This includes various regulatory activities that are not directly related to the traditional DNA elements like promoters and repressors [1].  2. **Chromatin Structure**: The structure of chromatin, which is the complex of DNA and proteins in the cell nucleus, plays a significant role in gene regulation. For example, histone acetylation, which involves adding acetyl groups to histone proteins, can decondense chromosomal structure and make DNA more accessible for transcription [9].  3. **Epigenetic Regulation**: Epigenetics involves changes in gene expression that do not alter the DNA sequence itself. This can include modifications like DNA methylation and histone modification, which affect how tightly DNA is wound around histones and thus its accessibility for transcription [6], [7].  4. **Post-Transcriptional Regulation**: After DNA is transcribed into RNA, there are additional layers of regulation. This includes processes like RNA splicing, editing, and degradation, which can influence how much of the RNA is available to be translated into protein [7].  5. **Translational and Post-Translational Regulation**: Even after RNA is translated into protein, there are mechanisms that regulate the activity, stability, and localization of proteins. These include modifications like phosphorylation and ubiquitination, which can alter protein function and lifespan [7].  In summary, while DNA elements like promoters, repressors, and activators are important for genetic regulation, there are multiple other layers of regulation involving chromatin structure, epigenetic modifications, and post-transcriptional and post-translational processes that also play critical roles in controlling gene expression.",
+  "question": "Is all genetic regulation done through DNA (e.g., prompters,   repressors, activators) or are there other forms of genetic regulation?   Please make you answer accessible to a non-expert."
+}

@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2013 - Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes.pdf",
+    "2013 - Diabetes genes identified by genome-wide association studies are regulated in mice by nutritional factors in metabolically relevant tissues and by glucose concentrations in islets.pdf",
+    "2013 - Diabetes genes identified by genome-wide association studies are regulated in mice by nutritional factors in metabolically relevant tissues and by glucose concentrations in islets.pdf",
+    "2013 - Diabetes genes identified by genome-wide association studies are regulated in mice by nutritional factors in metabolically relevant tissues and by glucose concentrations in islets.pdf",
+    "2015 - Gestational Diabetes Alters Offspring DNA.pdf",
+    "2010 - Diabetes in Asia.pdf",
+    "2016 - Genetic predisposition for beta cell fragility underlies type 1 and type 2 diabetes.pdf",
+    "2021 - Interpreting type 1 diabetes risk.pdf",
+    "2010 - Common Inherited Variation in Mitochondrial Genes.pdf",
+    "2018 - Global aetiology and epidemiology of type 2 diabetes mellitus and its complications.pdf"
+  ],
+  "extraction_id": [
+    "9369222f-e125-58c0-8f2b-cf5daa867f77",
+    "c9f74729-056d-556f-8aa8-e0f7a7bd6b66",
+    "c9f74729-056d-556f-8aa8-e0f7a7bd6b66",
+    "a9ec4c4f-b038-52d2-90db-7bee1ef1f78c",
+    "af8de1bb-e71e-514f-a5eb-59f37498028e",
+    "510b7c7b-ccbb-5d0d-b654-e1dbcf859cb7",
+    "af25ae45-0c5f-5492-86d0-734eb0fbac12",
+    "0bd0fae3-9297-5da2-b3ae-21190af84094",
+    "930831e1-56c3-5ef6-b847-2f25f2567032",
+    "8248ba2b-335c-53ce-afbe-f31b68507443"
+  ],
+  "document_id": [
+    "ea7c2799-c259-5d0e-b40b-ecebe0a9fc9f",
+    "98564dd2-424b-557a-a539-022508283567",
+    "98564dd2-424b-557a-a539-022508283567",
+    "98564dd2-424b-557a-a539-022508283567",
+    "59b51d61-b2c4-540b-a2fb-4c56badb26c1",
+    "0be842b8-7f69-503b-baed-c336e5c834d6",
+    "5b239c51-7b4c-58e0-acca-2061593fe317",
+    "9f13ec69-195b-55eb-a549-b3eb3dc0f321",
+    "9a5c8cba-06cb-5280-871f-1bbe128c3dc4",
+    "8bc8f3d4-968f-5252-ab4c-832b92e9ec0d"
+  ],
+  "id": [
+    "chatcmpl-AIFr5iGpAfX0NjS78CDO8cOuBpwUj",
+    "3bbf736e-7d8b-5e67-a4bf-e1ae28738bf3",
+    "ccf2d9af-4dca-5021-9c9d-301f817f80e4",
+    "d580609b-d24b-5718-ab63-0e6088c8bfeb",
+    "3f90af62-9a1d-5ac2-b5ee-a616857b34df",
+    "c171a147-2cf6-5340-82d4-caa63cdafbbd",
+    "81eb21fb-488a-5b08-b883-cd8780110c66",
+    "9b60d258-714a-5e70-b2fa-b0a29fc0d672",
+    "dd3348a8-1f07-5e6d-8ba0-3c6c263c0799",
+    "9080e28b-1c0d-5bfa-8698-7ae677aa64ed",
+    "c2f1a416-7f04-55b0-b19b-8a8aa858b801"
+  ],
+  "contexts": [
+    "genes relate directly to insulin secretion and indirectly, through collaborating with other genes, to insulin resistance. Thisseems to support the epidemiological evidence that environmentally triggered insulin resistance interacts with geneticallyprogrammed bcell dysfunction to precipitate diabetes. Citation: Jain P, Vig S, Datta M, Jindel D, Mathur AK, et al. (2013) Systems Biology Approach Reveals Genome to Phenome Correlation in Type 2 Diabetes. PLoS ONE 8(1): e53522. doi:10.1371/journal.pone.0053522",
+    "have been the subject of most follow-up studies to date.Specifically, we examined acute changes in expression of these genes in response to feeding and fasting and longer term changes in the expression of these genes inresponse to a diet high in fat and sugar, recognized as a critical environmental risk factor for type 2 diabetes. It has been hypothesized that most of the new genetic variants affect -cell function, development or survival but not insulin sensitivity [6]. Consistent with this,",
+    "or survival. However, we also found evidence that most of the genes could have potential roles in other metabolically-relevant tissues. Genes affecting insulinsensitivity may be expected to be expressed in peripheralinsulin sensitive tissues, such as liver and adipose tissue, and be responsive to metabolic status. Consumption of a high fat diet was associated with a tendency for the ex- pression of several of these genes to be decreased. Simi-larly, many of the genes were regulated by feeding and",
+    "secretion versus insulin sensitivity). We also sought todetermine whether any of these genes are regulated by conditions known to alter the expression of metabolic- ally relevant genes. We examined the expression of thesegenes under fasting and non-fasting conditions (e.g. in response to insulin), which might be altered if they affect peripheral insulin sensitivity. Consumption of diets high in fats and sugars is associated with risk of developing type 2 diabetes [34] and many genes that are critical for",
+    "regulating sugar metabolism. Moreover, genes that were",
+    "Figure 2: The role of type 2 diabetes genes in insulin secretion Pancreatic -cell genes associated with type 2 diabetes are in italics. G6P=glucose-6-phosphate. Adapted from Florez JC. Newly identi  ed loci highlight beta cell dysfunction as a key cause of type 2 diabetes: where are the insulin resistance genes? Diabetologia 2008; 51: 110010, by kind permission of the author and Springer Science + Business Media.  Positive calorie balance Cycle A++ Cycle B Liver fat  Insulin suppression of",
+    "tive Glis3  expression, which in turn drive increased levels of beta cell  apoptosis and senescence. Genetic susceptibility could be replicated  by elevated levels of dietary fat. Transcriptional analysis of human  islets identified the same genetic networks at play. Together, these  findings demonstrate both the important role of genetic variation in  beta cells for diabetes susceptibility and a mechanism by which the  Western diet may contribute to the growing diabetes epidemic. RESULTS",
+    "associated with fasting proinsulin levels and provides new insights into the  pathophysiology of type 2 diabetes. Diabetes 60, 26242634 (2011). 65. Saxena, R. etal. Genetic variation in GIPR influences the glucose and insulin responses to an oral glucose challenge. Nat. Genet. 42, 142148 (2010). 66. Tobacco and Genetics Consortium. Genome-wide meta-analyses identify multiple loci associated with smoking behavior. Nat. Genet. 42, 441447 (2010).",
+    "38. Saxena R, Hivert M, Langenberg C, Tanaka T, Pankow JS, et al. (2010) Genetic variation in GIPR influences the glucose and insulin responses to an oral glucose challenge. Nat Genet 42: 142148. doi:10.1038/ng.521. 39. Neale BM, Sham PC (2004) The future of association studies: gene-based analysis and replication. Am J Hum Genet 75: 353362. doi:10.1086/423901. 40. Saccone SF, Hinrichs AL, Saccone NL, Chase GA, Konvicka K, et al. (2007)",
+    "Nature Reviews | EndocrinologyFactors that aect insulin secretion and action  Body weight  Level of physical activity Smoking Heavy alcohol consumption Genetic predisposition Geneenvironment interaction Positive risk prole Negative risk prole Normoglycaemia/uni03B2-cell dysfunction and insulin resistanceAdipose tissue Skeletal muscle LiverInsulin-mediated  glucose production /uni2191Insulin-mediated glucose uptake /uni2193 Insulin-mediated glucose uptake /uni2193 Hyperglycaemia  Epigenetics"
+  ],
+  "answer": "Genes influence how our bodies respond to sugar and insulin in several ways:  1. **Insulin Secretion and Resistance**: Genes are directly related to insulin secretion and indirectly influence insulin resistance by interacting with other genes. This interaction supports the idea that environmentally triggered insulin resistance can interact with genetically programmed beta-cell dysfunction, leading to diabetes [1].  2. **Beta-Cell Function**: Many genetic variants primarily affect beta-cell function, development, or survival, rather than insulin sensitivity. This suggests that genetic factors play a significant role in how beta cells respond to sugar and insulin [2].  3. **Expression in Metabolically Relevant Tissues**: Genes affecting insulin sensitivity are often expressed in peripheral insulin-sensitive tissues, such as the liver and adipose tissue, and their expression can be responsive to metabolic status. For instance, a high-fat diet can decrease the expression of several of these genes, indicating a genetic influence on how the body responds to dietary changes [3].  4. **Regulation by Metabolic Conditions**: The expression of certain genes can be altered by conditions such as fasting and feeding, which are known to affect peripheral insulin sensitivity. This suggests that genetic regulation can influence how the body responds to changes in sugar and insulin levels [4].  5. **Genetic Variation and Insulin Response**: Specific genetic variations, such as those in the GIPR gene, can influence glucose and insulin responses to an oral glucose challenge, highlighting the role of genetic differences in individual responses to sugar intake [9].  Overall, genetic factors can influence both the secretion of insulin and the body's sensitivity to it, affecting how we metabolize sugar and respond to dietary changes.",
+  "question": "How do genes influence how our bodies respond to sugar and insulin?"
+}

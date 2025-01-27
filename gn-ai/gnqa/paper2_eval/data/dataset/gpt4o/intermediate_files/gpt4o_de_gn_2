@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2016 - Putting the Genome in Context Gene-Environment Interactions.pdf",
+    "2012 - Using Genome-Wide Expression Profiling to Define Gene Networks Relevant to the Study of Complex Traits From RNA Integrity to Network Topology.pdf",
+    "2008 - Genetic Effects on Environmental Vulnerability to Disease Novartis Foundation Symposium 293.pdf",
+    "2014 - Systems Genetics of Liver Fibrosis Identification of Fibrogenic and Expression Quantitative Trait Loci in the BXD Murine Reference Population.pdf",
+    "2012 - Gene-Environment Interactions in the Development of Type 2 Diabetes.pdf",
+    "2020 - Gene network a completely updated tool for systems genetics analyses.pdf",
+    "2008 - Genetic Effects on Environmental Vulnerability to Disease Novartis Foundation Symposium 293.pdf",
+    "2001 - Demography in the age of genomics.pdf"
+  ],
+  "extraction_id": [
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "9639b49f-d3be-5592-bb0e-a0341a7caa06",
+    "c362793d-c70f-5225-afe5-88098042daef",
+    "3e0c2a06-e6de-5888-a360-a2c483d9f744",
+    "ad295276-e94f-53a4-9278-e6b93888ab10",
+    "8c423789-3641-5853-9cf3-f4a026ffb446",
+    "a043fdc7-8228-5f22-b6db-d3b1ad4eb6ae",
+    "858f630f-9443-5f13-ac40-8e16eadd9ba1",
+    "a52959f6-733a-58bb-93c0-65403fb72c83",
+    "efc8c74e-a862-5c6e-b947-96b664aaf0d0"
+  ],
+  "document_id": [
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "ea43bb66-b6fe-5682-8f48-90568c080401",
+    "1eb6f5b7-a3bc-5455-91f0-6f2eb37be861",
+    "5d65e407-34e5-5c1c-b394-989b7a09b57d",
+    "125d9cd4-5297-5173-9b16-9073cd3bcc71",
+    "ea9601ed-ad83-506e-b1b7-e7211671ff73",
+    "128224f1-3545-52c3-93cb-77c3cf4ec70a",
+    "5d65e407-34e5-5c1c-b394-989b7a09b57d",
+    "0f07fa43-feb6-5656-b7e7-b8faa86f5623"
+  ],
+  "id": [
+    "chatcmpl-AIGrO4A8FLvBSq44CsQgHQD11jLhN",
+    "c63cfaee-749e-547b-9c0a-086266f10670",
+    "8999a4c7-e5de-539f-bee4-fd00cb69e7bb",
+    "e5320abf-d018-51c2-a386-aa822f605e1a",
+    "312eae52-ede7-5c13-8974-fce0126426cf",
+    "e71e1073-2800-5598-917f-00c3c08ed274",
+    "1c26e6f6-680b-5877-9600-fee25a42c943",
+    "8f299e3a-a7bc-5258-8f4d-0e964f89b35e",
+    "f3f859bb-d066-5552-b07e-eefcb489d8f5",
+    "8744d4f9-5566-5435-98ce-2afae5f59ad3",
+    "82539c96-b4a2-50e2-bbdd-4458ff3f0d2a"
+  ],
+  "contexts": [
+    "GeneNetwork have reinvigorated it, including the addition  of data from  10 species, multi -omics  analysis, updated code, and new tools. The new GeneNetwork is now an exciting resource for  predictive medicine and systems genetics, which is constantly being maintained and improved.    Here, we give a brief overview of the process  for carrying out some of the most common  functions on GeneNetwork, as a gateway to deeper analyses , demonstrating how a small",
+    "analytical method, have been used to discover gene- environment interactions; some approaches address similar objectives, whilst others are complementary and can be ap- plied in sequence. Below we describe several of these ap- proaches, and refer the reader to another excellent review of gene-environment interaction methods [ 31]. (a)Established statistical approaches Until 2008, almost all studies of gene-environment interac- tions focused on testing hypotheses based on existing biolog-",
+    "ulated by non-genetic factors. Thus, the once esoteric topic of gene-environment interaction is now becoming mainstream and appealing to investigators across diversedisciplines; this has propelled major methodological in- novations for the discovery, replication, validation and translation of gene-environment interactions. The expo- nentiation of data resources for these purposes has demanded analytical solutions that address data dimen- sionality reduction. Although not yet extensively imple-",
+    "addition to this, GeneNetwork can be used to study correlations between traits and to perform data mining in genomic regions containing candidates for quantitative trait genes (Hoffman et al., 2011). All datasets in GeneNetwork are linked to a materials and methods information page that summarizes experimental details relating to the dataset. Databases within GeneNetwork include the transcriptome database, the BXD published",
+    "Eaves LJ 2006 Genotype x environment interaction in psychopathology: fact or artifact? Twin  Res Hum Genet 9:18 Hunter DJ 2005 Geneenvironment interactions in human diseases. Nat Rev Genet  6:287298 Ioannidis JP, Ntzani EE, Trikalinos TA, Contopoulos-Ioannidis DG 2001 Replication validity  of genetic association studies. Nat Genet 29:306309 Ioannidis JP, Gwinn M, Little J et al 2006 A road map for ef  cient and reliable human genome  epidemiology. Nat Genet 38:35",
+    "GeneNetwork is an open-access database that collates genomic information of diverse experimental crosses and reference panels as well as phenotypic data from miscellaneous research groups [26]. Statistics Data generation, statistical analysis and graph creation were performed with SPSS Statistics 21 (IBM, Ehningen, Germany). As appropriate, mean and median values were further used for QTLanalysis. Phenotypic robustness for each strain was assessed by the",
+    "NU32CH13-Hu ARI 18 June 2012 13:45 effectively scan the entire genome for interac- tions with environment. Although innovative, the most effective study design and statistical approach for conducting gene-environment- wide interaction studies (GEWIS) remains unresolved (88). The greatest challenge for GEWIS involves nding a balance between rejecting true ndings resulting from stringent multiple-testing correction and reporting false-positive results. Several novel methods",
+    "1   GeneNetwork: a  continuously  updated tool for systems genetics analyses     Pamela M. Watson1, David G. Ashbrook1    1Department of Genetics, Genomics and Informatics, University of Tennessee Health Science  Center, Memphis, TN 38163, USA     Abstract     GeneNetwork and its earlier iteration , WebQTL, have now been an important database and  toolkit for quantitative trait genetics  research  for two decades. Recent improvements to",
+    "13 132. Geneenvironment interaction:  overcoming methodological challenges Rudolf Uher MRC Social, Genetic and Developmental Psychiatry Research Centre, Institute of Psychiatry, Kings  College London, UK Abstract.  While interacting biological effects of genes and environmental exposures (G   E) form a natural part of the causal framework underlying disorders of human health,  the detection of G  E relies on inference from statistical interactions observed at popu-",
+    "A number of recent developments in twin methodology have taken place based on the incorporation of measured genotype information. Thisenables twin models to estimate how much of the genetic variation is dueto variation in a specific gene. Gene-environment interaction studies, link-Copyright  National Academy of Sciences. All rights reserved.Cells and Surveys:  Should Biological Measures Be Included in Social Science Research? http://www.nap.edu/catalog/9995.html"
+  ],
+  "answer": "The latest methodological improvements in evaluating gene-environment interactions using GeneNetwork.org include the addition of data from 10 species, multi-omics analysis, updated code, and new tools, making it a valuable resource for predictive medicine and systems genetics [1]. These enhancements allow for more comprehensive analyses and facilitate the study of correlations between traits and data mining in genomic regions containing candidates for quantitative trait genes [4]. Additionally, GeneNetwork is continuously updated to support systems genetics analyses, which can aid in the discovery, replication, validation, and translation of gene-environment interactions [8].",
+  "question": "What are the latest methodological improvements in evaluating gene-environment interactions using GeneNetwork.org?"
+}

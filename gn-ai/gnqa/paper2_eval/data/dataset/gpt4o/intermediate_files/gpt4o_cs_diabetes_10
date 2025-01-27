@@ -1,0 +1,65 @@
+{
+  "titles": [
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2010 - The Genetics of Type 2 Diabetes.pdf",
+    "2015 - Current and Best Practices of Genetic Testing for Maturity.pdf",
+    "2019 - How Recent Advances in Genomics Improve Precision Diagnosis.pdf",
+    "2008 - Glossary of Genetics Genomics Terms.pdf",
+    "2015 - Current and Best Practices of Genetic Testing for Maturity.pdf",
+    "2015 - Current and Best Practices of Genetic Testing for Maturity.pdf",
+    "2015 - Rare and Common Genetic Events in Type 2 Diabetes.pdf",
+    "2011 - Inherited destiny Genetics and gestational diabetes mellitus.pdf",
+    "2004 - Diabetes Genes a.pdf"
+  ],
+  "extraction_id": [
+    "6c0f6484-fb94-5583-8c4a-f707983ff29f",
+    "6c0f6484-fb94-5583-8c4a-f707983ff29f",
+    "c5c209f5-e4dc-5eb2-a9f0-536a686efa96",
+    "7117f141-8841-5c11-ba1a-85039181b393",
+    "4668a316-6c87-5039-b55b-47fe0b8fbc71",
+    "3c09962c-226d-5271-a5c8-14f6327a079b",
+    "039d8c39-8fe3-5183-b952-3e8a25510b86",
+    "587c2476-a12a-5e32-b0cf-ada54ee4a1db",
+    "318e6c28-16d2-5d59-b047-cfdc6b2e7301",
+    "d4fcf425-4ac9-5918-973a-fe6c422b19bc"
+  ],
+  "document_id": [
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "a1d211d4-279e-51d7-b2b2-33bc2763d089",
+    "076f1140-8992-536f-832b-65ebdb9232a2",
+    "42b64375-06af-5e09-9ae6-6bd0ecb782c7",
+    "c66d2572-071d-5aaf-829c-b3ca6cf6d697",
+    "076f1140-8992-536f-832b-65ebdb9232a2",
+    "076f1140-8992-536f-832b-65ebdb9232a2",
+    "641771c3-048c-5afb-a41c-05a883e99408",
+    "6d341cd2-ae56-5807-9aff-39298efc4d06",
+    "805ad0d5-6a3d-5e5f-b1ba-121e10c6daaa"
+  ],
+  "id": [
+    "chatcmpl-AIFqHVwVjpSqrvqjfDgFColFbW31Q",
+    "7d0ed0e8-6967-5dbe-b57e-f1e3a5821fd0",
+    "e3ec46a7-b0c9-567d-ba4a-e1c4f1341364",
+    "72000563-bea1-562e-b5d6-ea2c82f74d53",
+    "b1c43f5d-53c4-58e5-ac10-a90ecdd9d576",
+    "1555d1c2-53e4-5f7f-8411-7bb11d990eed",
+    "25e3417d-4e7e-595c-bec6-6f6e3d697ab4",
+    "e479acca-9418-552b-98ae-edb6eb74ee6f",
+    "b964fb31-cf7f-5d5d-9d73-d737daa96b8d",
+    "847efd79-3919-5ec0-b5b3-9934cdb29c39",
+    "77d42dce-1bb6-577f-95f4-f8c7ece85c19"
+  ],
+  "contexts": [
+    "studying the highly familial MODY form of young - onset diabetes or other rare forms of monogenic diabetes.     Table 12.2    The different subtypes of maturity - onset diabetes of the young ( MODY ).     MODY  type     Gene  locus     Gene name     Year of  discovery     Distribution     Onset of  diabetes     Primary  defect     Severity of  diabetes     Complications     OMIM     MODY1    20q     HNF4A   ( TCF14  )    1996    Rare (2  3%)    Adolescence/",
+    "penetrance and early - onset diabetes, allows the collection of multigenerational pedigrees, making MODY an attractive model for genetic studies. MODY usually develops in thin young adults (usually before 25 years of age; in childhood, adolescence or young adulthood), and is associated with primary insulin - secretion defects  [4,5] . The prevalence of MODY is estimated to be less than 1  2% of patients with T2DM, although it could represent as many as 5% of European cases of diabetes  [4,25] . MODY is not",
+    "[2] . Mutations in 13 genes are known  to cause MODY; the most prevalent are  HNF1A  ,  GCK    and  HNF4A   [3, 4]  . The MODY subtypes differ in age of  onset of diabetes, the pattern of hyperglycemia, response to treatment, and associated extrapancreatic manifesta-tions   [5] . As compared to type 2 diabetes, the clinical  Key Words   Best practice  Genetic testing  Healthcare providers  Interview study  Maturity onset diabetes of the young   Abstract",
+    "causal for MODY , although genetic or functional evidence of obvious pathogenicity is not fully compelling (Table 1). Despite these important advances in understanding the mo- lecular pathogenesis of MODY , the genetic determinants in many patients with young-onset diabetes resembling a MODY-like phenotype remain unknown, suggesting addi- tional locus heterogeneity and new pathogenic mechanismsto be yet discovered. This has particularly been observed in",
+    "MODY Maturity Onset Diabetes of the Young. This is an uncommon form of diabetes, inherited as an autosomal dominant condition, and displaysa slow onset of symptoms. It generally presents before 25 years of age, is not related to obesity, and appears to have no autoi mmune basis. Multiple forms of MODY have been characterised based on mutations affecting different genes involved in the control of -cellfunction, and display different degrees of disease severity Continued over page",
+    "Genetic Testing for MODY  Public Health Genomics 2015;18:5259  DOI: 10.1159/00036796359  1 Singh R, Pearson ER: The importance of mak- ing a genetic diagnosis of diabetes. Can J Dia-betes 2006;    30:   183190.    2 Ledermann HM: Is maturity onset diabetes at  young age (MODY) more common in Europe than previously assumed? Lancet 1995;    345:    648.",
+    "Genetic Testing for MODY  Public Health Genomics 2015;18:5259  DOI: 10.1159/00036796353symptoms present often at a relatively young age in pa- tients without overweight, who have a positive family his-tory. As compared to type 1 diabetes, progression may be less severe, and the required dosage of insulin low.   Many patients with MODY are currently undiagnosed  or misdiagnosed with type 1 or 2 diabetes mellitus  [4] . In",
+    "in 1992, through familial linkage analysis of French pedigreeswith early-onset, non-auto-immune, non-obese diabetes thatwas also called maturity-onset diabetes of the young (MODY) (Froguel et al., 1992 ). Mutations in GCK (encoding glucokinase) were shown to cause a relatively benign form of MODY. Inciden-tally, it was the rst time that the direct causative effect of rela- tive insulin deciency was demonstrated in T2D, when insulin",
+    "gene studies were under powered. However, studies of  monogenic forms of diabetes, specifically maturity onset  diabetes of the young 2 (MODY2), provided some of the  first insights into the contribution of genetic variation to  hyperglycemia observed during pregnancy and fetal  outcomes. MODY2 is an autosomal dominant form of  MODY due to mutations in glucokinase ( GCK ) [2527]. Table 1. Characteristics and treatment modalities of different forms of diabetes mellitus Characteristics Treatment modalities",
+    "is variable, underlining that this disorder is genetically heterogeneous.  Table 1. Definition of MODY   Impaired glucose tolerance   Age of onset <25 years   Autosomal-dominant inheritance  Using genetic linkage and candidate gene approaches, mutations in  genes on chromosomes 2, 7, 12, 13, 19, and 20 have been linked to MODY  and collectively may represent up to 3% of all patients with type 2 diabetes  (Table 2). The gene on chromosome 7 (MODY2) encodes the glycolytic"
+  ],
+  "answer": "Studying the genetic basis of MODY (Maturity Onset Diabetes of the Young) has provided several important insights:  1. **Genetic Heterogeneity**: MODY is caused by mutations in multiple genes, with at least 13 known genes implicated. The most prevalent mutations occur in the genes HNF1A, GCK, and HNF4A [3]. This genetic diversity leads to different subtypes of MODY, each with distinct clinical characteristics such as age of onset, pattern of hyperglycemia, response to treatment, and associated extrapancreatic manifestations [3].  2. **Inheritance Pattern**: MODY is inherited in an autosomal dominant manner, which means that it can be passed down through families. This inheritance pattern allows for the collection of multigenerational pedigrees, making MODY an attractive model for genetic studies [2].  3. **Clinical Presentation**: MODY typically presents in young adults, often before the age of 25, and is characterized by primary insulin secretion defects. It is not related to obesity or autoimmune processes, distinguishing it from other forms of diabetes like type 1 and type 2 diabetes [5].  4. **Pathogenic Mechanisms**: Despite advances in understanding the molecular pathogenesis of MODY, there remain unknown genetic determinants in many patients with a MODY-like phenotype, suggesting additional locus heterogeneity and new pathogenic mechanisms yet to be discovered [4].  5. **Impact on Treatment and Diagnosis**: Genetic testing for MODY can lead to more accurate diagnoses and tailored treatment plans. Many patients with MODY are currently undiagnosed or misdiagnosed with type 1 or type 2 diabetes, highlighting the importance of genetic testing in identifying this condition [7].  These insights underscore the complexity and variability of MODY, as well as the importance of genetic research in improving diagnosis and treatment strategies for this form of diabetes.",
+  "question": "What insights have been gained from studying the genetic basis of MODY (Maturity Onset Diabetes of the Young)?"
+}
